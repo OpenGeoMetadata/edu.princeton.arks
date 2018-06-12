@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9w0326479",
+  "layer_slug_s": "princeton-9w0326479",
+  "uuid": "princeton-9w0326479",
+  "dc_title_s": "Randall County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-102.167599, -101.622937, 35.183365, 34.747427)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Randall County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Randall",
+    "Randall County",
+    "Texas",
+    "Amarillo",
+    "Buffalo Lake National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:49Z",
+  "layer_id_s": "restricted-figgy:ded0f187-8a11-43e9-be6c-4c001d16630c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1cb0b137-fa27-43c2-8c5e-172c827fda87\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fcac4935-bfaa-49ce-a7df-3d7adaa6387b/file/508af1c6-fbd9-472b-8de9-20473b941235\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ded0f187-8a11-43e9-be6c-4c001d16630c/file/015b1745-169e-4832-9550-008110baa24c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ded0f187-8a11-43e9-be6c-4c001d16630c/file/de1d3b9b-49e4-446c-a742-637f1183fa40\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

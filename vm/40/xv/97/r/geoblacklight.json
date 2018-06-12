@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xv97r",
+  "layer_slug_s": "princeton-vm40xv97r",
+  "uuid": "princeton-vm40xv97r",
+  "dc_title_s": "El Paso County, Texas roads, 2011",
+  "solr_geom": "ENVELOPE(-106.740042, -105.926509, 32.03002, 31.311944)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in El Paso County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "El Paso County",
+    "El Paso",
+    "Texas",
+    "Rio Grande"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:42Z",
+  "layer_id_s": "restricted-figgy:78a05ba3-9170-420c-8f8b-1326f6fdb97a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1017e635-7331-4fad-b15e-335c38d009cd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9606c805-35b5-429b-b03b-38d453c71199/file/436d1f2a-cea0-48c1-bdaf-9c7dea8f6e03\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/78a05ba3-9170-420c-8f8b-1326f6fdb97a/file/93807552-e73c-41fd-a17d-5e74fe3060c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/78a05ba3-9170-420c-8f8b-1326f6fdb97a/file/c0cbe9d8-b179-4668-a32c-f5ffb8e23d47\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

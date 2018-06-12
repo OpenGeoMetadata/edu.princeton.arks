@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m039k6432",
+  "layer_slug_s": "princeton-m039k6432",
+  "uuid": "princeton-m039k6432",
+  "dc_title_s": "United Kingdom Major Roads, 2005",
+  "solr_geom": "ENVELOPE(-7.878645, 1.75374, 58.59128, 50.119727)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes United Kingdom major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:fea0f334-a84d-4647-af77-eb28fe45bd30",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc277833-b200-4dde-a34e-9ebe0fd58209\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cdfe8644-68cb-4776-a32c-fd602b17dcd9/file/f5412486-0e49-48e0-a2c7-e288af49811d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fea0f334-a84d-4647-af77-eb28fe45bd30/file/4683f639-e51e-402f-9107-ef837748cd9e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fea0f334-a84d-4647-af77-eb28fe45bd30/file/f3adbfc3-5615-4603-aef4-7562b8abef9b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

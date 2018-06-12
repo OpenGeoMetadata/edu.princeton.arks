@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f451z",
+  "layer_slug_s": "princeton-x633f451z",
+  "uuid": "princeton-x633f451z",
+  "dc_title_s": "Windsor County, Vermont land parcels, 2014",
+  "solr_geom": "ENVELOPE(-72.846732, -72.213156, 43.908804, 43.226204)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Windsor County, Vermont, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Windsor",
+    "Windsor County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:24Z",
+  "layer_id_s": "restricted-figgy:9255cfa9-31ac-4bf4-b30e-0cd590e1f66c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bf8b0f5d-4dc1-460f-8357-49095cc7fed4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9cf508d-b1f0-4738-ae6c-1eaff1a38da3/file/8a50265e-ff55-4110-b358-b470778ea1e9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9255cfa9-31ac-4bf4-b30e-0cd590e1f66c/file/cfe02acd-5988-4e63-84b0-0bfc890a6401\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9255cfa9-31ac-4bf4-b30e-0cd590e1f66c/file/f1de3d49-a79b-476c-8472-6dcaff34ba51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

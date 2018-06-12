@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj1393465",
+  "layer_slug_s": "princeton-sj1393465",
+  "uuid": "princeton-sj1393465",
+  "dc_title_s": "Netherlands Major Roads, 2005",
+  "solr_geom": "ENVELOPE(3.363312, 7.12904, 53.436237, 50.758418)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Netherlands major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:18Z",
+  "layer_id_s": "restricted-figgy:275e62d8-fb27-4dc9-9ab8-cc2fca4ee097",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5e6fc064-44ea-414d-99b4-0f1f99c74295\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a2da0225-61a6-4054-88ad-c50a69459d18/file/e76472ce-d165-4d18-97aa-2c654b4c06da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/275e62d8-fb27-4dc9-9ab8-cc2fca4ee097/file/29fd22f9-704e-4088-ba3d-73ca17a661de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/275e62d8-fb27-4dc9-9ab8-cc2fca4ee097/file/86863554-c490-4514-935d-acf5799560e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

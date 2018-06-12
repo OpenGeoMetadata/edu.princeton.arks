@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418r64w",
+  "layer_slug_s": "princeton-p8418r64w",
+  "uuid": "princeton-p8418r64w",
+  "dc_title_s": "Charleston County, South Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.452787, -79.268365, 33.214732, 32.493298)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Charleston County, South Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Charleston",
+    "Charleston County",
+    "North Charleston",
+    "Francis Marion National Forest",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:21Z",
+  "layer_id_s": "restricted-figgy:984e4e67-dffd-4da4-a2c0-7518bd7b4088",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7d8fac51-ff23-470d-a29e-c7436ce345e1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/15d35951-c4f2-486f-ae77-4f9a8e721366/file/0c596858-5d42-4296-9e68-ae009a5cc404\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/984e4e67-dffd-4da4-a2c0-7518bd7b4088/file/15272c72-4ac9-4dd0-b430-305e73d96d3c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/984e4e67-dffd-4da4-a2c0-7518bd7b4088/file/d44e0792-3386-410d-b363-74b9cd5a3007\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

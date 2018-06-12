@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj2363749",
+  "layer_slug_s": "princeton-fj2363749",
+  "uuid": "princeton-fj2363749",
+  "dc_title_s": "Greenland Major Lakes, 2005",
+  "solr_geom": "ENVELOPE(-72.662232, -14.766403, 83.575951, 60.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Greenland (Denmark) created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Greenland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:46Z",
+  "layer_id_s": "restricted-figgy:2dde213e-0fa3-40a4-b919-096b2b786d87",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/754fa11e-30a1-4ecd-97c3-921c3625aad6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9f3d89b-8b4f-4812-b602-9fa0243a6ca4/file/4f138b8b-22fc-4d70-bb03-d28f0fb07ac6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2dde213e-0fa3-40a4-b919-096b2b786d87/file/35a6b9d5-fb6b-4051-9ca3-745465008091\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2dde213e-0fa3-40a4-b919-096b2b786d87/file/f5927eac-26aa-4db8-a8df-58227086abe6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

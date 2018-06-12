@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/73666791n",
+  "layer_slug_s": "princeton-73666791n",
+  "uuid": "princeton-73666791n",
+  "dc_title_s": "Plumas County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-121.497757, -120.099029, 40.449779, 39.597331)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Plumas County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Plumas County",
+    "Plumas",
+    "Plumas National Forest",
+    "Sierra Nevada"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:57Z",
+  "layer_id_s": "restricted-figgy:f6478114-c74f-4014-9fa4-398a7a0d1df2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e194120-62b0-42ea-8ac8-87bcfe7f6916\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e4e1fec-8a7c-4a5a-832f-a0503590b110/file/21a770c0-12f4-4a7d-833c-8941b4c36ada\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6478114-c74f-4014-9fa4-398a7a0d1df2/file/7985b004-2f01-4a14-9177-697bd94eef57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6478114-c74f-4014-9fa4-398a7a0d1df2/file/4de53b32-48cd-450d-8573-36995d44d531\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

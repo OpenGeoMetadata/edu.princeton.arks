@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sw99s",
+  "layer_slug_s": "princeton-qz20sw99s",
+  "uuid": "princeton-qz20sw99s",
+  "dc_title_s": "Norfolk County, Massachusetts roads, 2011",
+  "solr_geom": "ENVELOPE(-71.500858, -70.782264, 42.351697, 41.985098)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Norfolk County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Norfolk",
+    "Norfolk County",
+    "Massachusetts",
+    "Quincy",
+    "Boston"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:18Z",
+  "layer_id_s": "restricted-figgy:f1624a44-8d01-43ce-b6fd-9e7e6bba0bc3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1fda0cac-fd29-4070-abe8-088efc60583c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/247ccedb-1026-4872-a777-a4315e85a57e/file/456c142c-86ee-4f15-a4d7-d9a3d8d16de4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1624a44-8d01-43ce-b6fd-9e7e6bba0bc3/file/8102a585-f370-4fbe-af18-1174133146f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1624a44-8d01-43ce-b6fd-9e7e6bba0bc3/file/085508b6-45b8-4761-862d-f839821c5263\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

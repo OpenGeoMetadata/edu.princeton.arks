@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj236548q",
+  "layer_slug_s": "princeton-fj236548q",
+  "uuid": "princeton-fj236548q",
+  "dc_title_s": "Garfield County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-107.967085, -106.086462, 47.957401, 46.845176)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Garfield County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Garfield",
+    "Garfield County",
+    "Montana",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:05Z",
+  "layer_id_s": "restricted-figgy:6f7e457a-fd17-4312-932a-ae02e936840e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b52826c9-c474-4e61-bfe7-d1fd0166d76c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7fbea6bd-388e-4d9d-b179-3ca3a1e175da/file/bf562103-f4e1-427d-a1d1-da97f823b8ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f7e457a-fd17-4312-932a-ae02e936840e/file/f239db82-b4b4-47a2-b43d-759011d99ebd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f7e457a-fd17-4312-932a-ae02e936840e/file/24eecadf-22fb-4e1e-9b5a-4edd0f6328dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

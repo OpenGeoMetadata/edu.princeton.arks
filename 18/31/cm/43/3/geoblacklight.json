@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cm433",
+  "layer_slug_s": "princeton-1831cm433",
+  "uuid": "princeton-1831cm433",
+  "dc_title_s": "Virginia Major Roads 2002",
+  "solr_geom": "ENVELOPE(-83.673315, -75.341171, 39.440792, 36.540823)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Virginia Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Virginia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:54:47Z",
+  "layer_id_s": "restricted-figgy:1d0502da-2954-46a6-b50d-cdf0f7b05cce",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a58b8db-cad2-4d39-a32f-fd3a92129271\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/935d742a-9439-468b-bd28-6d2d41bfd7b4/file/7128db68-9ed1-4180-9ac9-ba3afb79438e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d0502da-2954-46a6-b50d-cdf0f7b05cce/file/5e76348f-b22f-4ed7-8a4a-009e9d0ca6d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d0502da-2954-46a6-b50d-cdf0f7b05cce/file/c337da4a-808e-43ed-9aed-99ec08a967b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

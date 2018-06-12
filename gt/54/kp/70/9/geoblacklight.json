@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kp709",
+  "layer_slug_s": "princeton-gt54kp709",
+  "uuid": "princeton-gt54kp709",
+  "dc_title_s": "Idaho Tracts 2002",
+  "solr_geom": "ENVELOPE(-117.243028, -111.043496, 49.001147, 41.988006)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Idaho Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Idaho.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:55Z",
+  "layer_id_s": "restricted-figgy:d7b257cc-1ffd-4f4e-8af7-4cfb9fdc1c0d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4a65387-4e34-46ca-ad35-51612ba6cddb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca9d952d-b123-4187-86b1-b0b1ceab8eba/file/dee02e1a-15d3-4a46-8985-62be492ec9d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d7b257cc-1ffd-4f4e-8af7-4cfb9fdc1c0d/file/4333c16d-1e17-46f9-a069-e2ac53618324\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d7b257cc-1ffd-4f4e-8af7-4cfb9fdc1c0d/file/4d109edc-303d-4f5f-ab52-516ab9b1b496\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

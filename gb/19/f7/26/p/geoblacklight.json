@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f726p",
+  "layer_slug_s": "princeton-gb19f726p",
+  "uuid": "princeton-gb19f726p",
+  "dc_title_s": "Virginia Rivers 2002",
+  "solr_geom": "ENVELOPE(-83.595135, -75.269574, 39.439814, 36.540767)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Virginia Rivers represents streams and rivers within Virginia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:49:19Z",
+  "layer_id_s": "restricted-figgy:c32f641b-5271-4243-809a-6726429143b8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4550e56a-4095-4682-be33-f05bad1852aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ec82600-68fc-45b5-bdc3-4a419e0c6a46/file/08ce6f70-d8cf-4fe3-b0eb-54a92a0589b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c32f641b-5271-4243-809a-6726429143b8/file/d5002ba7-9e95-4bd1-b6c7-01edd7400b86\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c32f641b-5271-4243-809a-6726429143b8/file/348f544b-0429-4167-9b9e-4bc30549579f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

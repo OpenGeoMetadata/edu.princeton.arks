@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9w032457x",
+  "layer_slug_s": "princeton-9w032457x",
+  "uuid": "princeton-9w032457x",
+  "dc_title_s": "Ocean County, New Jersey roads, 2008",
+  "solr_geom": "ENVELOPE(-74.553105, -74.033699, 40.172236, 39.508582)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Ocean County, New Jersey, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Ocean",
+    "Ocean County",
+    "Lakewood",
+    "Lakewood Township"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:35:12Z",
+  "layer_id_s": "restricted-figgy:6063196b-1143-4a73-ae89-197378060368",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/203f65a8-0812-468c-b4eb-752c9dcc7a53\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6eb0a9d5-364c-4542-a8ea-2710205fc131/file/8df2eb9b-d021-4148-ae0e-1587f9713407\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6063196b-1143-4a73-ae89-197378060368/file/6851e397-cd71-4cd9-8b47-337f253101e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6063196b-1143-4a73-ae89-197378060368/file/1d12cf71-f88a-481b-a448-797415d53f39\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

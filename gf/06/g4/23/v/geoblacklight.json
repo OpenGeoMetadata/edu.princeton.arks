@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g423v",
+  "layer_slug_s": "princeton-gf06g423v",
+  "uuid": "princeton-gf06g423v",
+  "dc_title_s": "Trenton Zones",
+  "solr_geom": "ENVELOPE(-74.819202, -74.728687, 40.248589, 40.183711)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This dataset shows planning zones in the City of Trenton, New Jersey",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "City of Trenton",
+  "dc_subject_sm": [
+    "Zoning",
+    "land use",
+    "PlanningCadastre"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:e50fb050-00a5-48d7-86b1-63eb121d6d02",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/38fffe17-626f-4f00-931a-148059d9ece0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a342a4c-38bb-4354-ada7-b4e480ba7466/file/6d7a2866-20d8-4a23-92d0-f5e0f56f7942\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e50fb050-00a5-48d7-86b1-63eb121d6d02/file/514cd378-58d7-49df-9e6e-a522365ddff5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e50fb050-00a5-48d7-86b1-63eb121d6d02/file/9d7fa574-42c3-4625-9b19-8fc96d8e64f4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

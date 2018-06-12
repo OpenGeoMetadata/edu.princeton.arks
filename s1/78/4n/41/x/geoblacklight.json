@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784n41x",
+  "layer_slug_s": "princeton-s1784n41x",
+  "uuid": "princeton-s1784n41x",
+  "dc_title_s": "Belize Major Roads, 1995",
+  "solr_geom": "ENVELOPE(-89.14563, -88.197716, 18.477032, 16.109365)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Belize major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Belize"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:24f131f4-53aa-4bda-b554-0ccf8f0d8df5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9108fac0-91d3-4ae6-911c-9a626b72f917\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4efd1198-1e53-41c0-8886-869e41666d21/file/56b69cb6-c220-4102-9b3f-35c87da704fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24f131f4-53aa-4bda-b554-0ccf8f0d8df5/file/dfb4824e-6692-4536-b853-c08d24948e33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24f131f4-53aa-4bda-b554-0ccf8f0d8df5/file/94a55eef-94d7-4657-997d-5753f83fe6bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rm94x",
+  "layer_slug_s": "princeton-d504rm94x",
+  "uuid": "princeton-d504rm94x",
+  "dc_title_s": "Faroe Islands Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(-7.429331, -6.341845, 62.355796, 61.403913)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Faroe Islands (Denmark) created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Faroe Islands",
+    "Faroes"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:15Z",
+  "layer_id_s": "restricted-figgy:54c72a97-c9bf-437d-88f1-5789082fd45c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e97ef31-43bf-46ad-b37c-9c22618afe43\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a753a2ea-2e58-4b64-b6eb-0da6ba9c46d1/file/92edba87-6f61-4666-ade2-5238cb672472\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54c72a97-c9bf-437d-88f1-5789082fd45c/file/f574a297-9c65-4a91-ab0c-358e0a5a9bbf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54c72a97-c9bf-437d-88f1-5789082fd45c/file/1df684c0-2afa-4ad3-b132-d5465ed17e21\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445ch59x",
+  "layer_slug_s": "princeton-g445ch59x",
+  "uuid": "princeton-g445ch59x",
+  "dc_title_s": "Rabun County, Georgia roads, 2014",
+  "solr_geom": "ENVELOPE(-83.661672, -83.116127, 35.000146, 34.727099)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Rabun County, Georgia, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Rabun",
+    "Rabun County",
+    "Georgia",
+    "Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:12Z",
+  "layer_id_s": "restricted-figgy:edb3d9d4-8179-445d-bfe6-2d7ecc5c8f87",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5a24c6c-db30-4e32-98b0-45ceb9257c0f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f72f9b3a-08ef-49f9-9a9f-b05561321226/file/5adc5302-7a66-4a35-8d83-ce6d0995b38e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edb3d9d4-8179-445d-bfe6-2d7ecc5c8f87/file/309b8481-8135-478a-96d6-8fe36c38f10c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edb3d9d4-8179-445d-bfe6-2d7ecc5c8f87/file/b4b70eaa-5d76-4eea-9ca8-f805494f04c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hb56h",
+  "layer_slug_s": "princeton-t722hb56h",
+  "uuid": "princeton-t722hb56h",
+  "dc_title_s": "Italy Minor Roads, 2005",
+  "solr_geom": "ENVELOPE(6.949972, 18.490221, 46.991196, 36.687805)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Italy minor roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:54Z",
+  "layer_id_s": "restricted-figgy:3d082a92-bf13-4f3b-9414-4260fa943ec1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22a5fd99-f06c-4f0a-9ac7-da230ece4844\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b6ddd853-d860-469b-8c62-364125e79dc0/file/d6278345-26a9-4170-bdb1-cb1a84d16437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d082a92-bf13-4f3b-9414-4260fa943ec1/file/8063f327-4f69-4765-9d5e-29d88dbf76b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d082a92-bf13-4f3b-9414-4260fa943ec1/file/7564a35a-96ce-4b47-a22e-f748a13d70e8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

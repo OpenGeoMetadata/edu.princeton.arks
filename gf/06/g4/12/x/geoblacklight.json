@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g412x",
+  "layer_slug_s": "princeton-gf06g412x",
+  "uuid": "princeton-gf06g412x",
+  "dc_title_s": "Portugal Elevations",
+  "solr_geom": "ENVELOPE(-31.265842, -6.191056, 42.152591, 32.627685)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Portugal created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:28Z",
+  "layer_id_s": "restricted-figgy:e3b3ff08-5465-44c2-bbf1-5cfbc56ce80a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0f456425-f510-43cc-bcd0-6d27aecb7021\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36165963-eb88-4b94-a987-41b62eb216dd/file/7c95dc35-cb65-4791-991d-cc4511766dfe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3b3ff08-5465-44c2-bbf1-5cfbc56ce80a/file/46b78dca-ccff-4e76-9a46-5338aa9758fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3b3ff08-5465-44c2-bbf1-5cfbc56ce80a/file/9a9ceca8-eacd-4358-be34-acc392b1cd6a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

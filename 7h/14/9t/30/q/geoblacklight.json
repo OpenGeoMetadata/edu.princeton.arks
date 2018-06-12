@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7h149t30q",
+  "layer_slug_s": "princeton-7h149t30q",
+  "uuid": "princeton-7h149t30q",
+  "dc_title_s": "Cumberland County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-79.10028, -78.508461, 35.263968, 34.835428)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Cumberland County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Raleigh",
+    "Fayetteville",
+    "Cumberland",
+    "Cumberland County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:27Z",
+  "layer_id_s": "restricted-figgy:a35595a7-675c-4051-bb22-d94719803640",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3159cf8d-ad23-4244-bbac-141c166a5563\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/acc00178-3f2b-411a-92b4-22f9b5b51c79/file/9baab8c8-1633-4f3b-b5be-3bbd7b9f9f91\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a35595a7-675c-4051-bb22-d94719803640/file/3f4e9af5-8b6f-45ea-8acc-0fc15197f667\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a35595a7-675c-4051-bb22-d94719803640/file/79cca4f8-1606-4f3e-8a54-121ff3fdefb8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

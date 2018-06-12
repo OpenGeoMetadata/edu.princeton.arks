@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dj52w618q",
+  "layer_slug_s": "princeton-dj52w618q",
+  "uuid": "princeton-dj52w618q",
+  "dc_title_s": "U.S. GDT Recreation Areas 2000",
+  "solr_geom": "ENVELOPE(-159.489593, -67.810057, 61.517273, 19.562999)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. GDT Recreation Areas represents point locations within United States for common recreation landmarks including golf courses, zoos, resorts, and other recreational facilities.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "recreation",
+    "golf courses",
+    "zoos",
+    "resorts",
+    "recreational facilities"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:31Z",
+  "layer_id_s": "restricted-figgy:82f165d6-c9f5-4695-8351-61f78d9ffd57",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/339c3bd1-9509-4647-9f92-c2ae6cf6797c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/65b33d84-918d-48d9-9754-0db522f4b96f/file/56f5e3c6-3090-4489-a05f-3f56f7cdd0dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82f165d6-c9f5-4695-8351-61f78d9ffd57/file/377330f4-b75e-4ad3-8234-ad28a4b94119\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82f165d6-c9f5-4695-8351-61f78d9ffd57/file/8e1ff0b3-ed42-47b3-baff-8892c08747eb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

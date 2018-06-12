@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n204252n",
+  "layer_slug_s": "princeton-3n204252n",
+  "uuid": "princeton-3n204252n",
+  "dc_title_s": "Cullman County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.150855, -86.451232, 34.313683, 33.858013)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cullman County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Cullman",
+    "Cullman County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:13Z",
+  "layer_id_s": "restricted-figgy:551cea5a-7a9e-4320-8693-b25f0f0a1460",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3656ed99-390a-4c51-bbef-171fd076ac18\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bfaf5584-7b0c-413c-9f4d-8fe0f1c1ea79/file/611242c2-c4ce-4394-8d66-92b0b0afb214\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/551cea5a-7a9e-4320-8693-b25f0f0a1460/file/9c78f492-c683-4358-afcc-ef6b61e9984c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/551cea5a-7a9e-4320-8693-b25f0f0a1460/file/1c9981c7-c686-4962-86ca-2ff60df0092b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

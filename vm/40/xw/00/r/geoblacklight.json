@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xw00r",
+  "layer_slug_s": "princeton-vm40xw00r",
+  "uuid": "princeton-vm40xw00r",
+  "dc_title_s": "Mineral County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-115.759347, -114.419374, 47.496789, 46.696563)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mineral County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mineral",
+    "Mineral County",
+    "Montana",
+    "Lolo National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:44Z",
+  "layer_id_s": "restricted-figgy:12e3e160-d2dc-42b6-b5fd-fbcc975c79f9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c2da08a-70bc-4ceb-bc34-62cdc40d2c2b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a1f66d4-2593-493d-a6af-a7b42d3a31b3/file/38f45752-143e-45cd-bca1-e7b2f70312fe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/12e3e160-d2dc-42b6-b5fd-fbcc975c79f9/file/91302ee2-d47c-481e-9ddb-c490be550537\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/12e3e160-d2dc-42b6-b5fd-fbcc975c79f9/file/bea4df1f-9a0e-4d5a-b885-5dd0b5a4e299\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

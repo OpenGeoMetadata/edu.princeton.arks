@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9c67wr26r",
+  "layer_slug_s": "princeton-9c67wr26r",
+  "uuid": "princeton-9c67wr26r",
+  "dc_title_s": "Egypt census data by city and village, 2010",
+  "solr_geom": "ENVELOPE(24.289174, 37.262683, 31.913976, 21.759108)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "2010 census data for Egypt by city or village.",
+  "dc_creator_sm": [
+    "Globe Technologies"
+  ],
+  "dc_subject_sm": [
+    "census",
+    "demographic",
+    "population",
+    "males",
+    "females",
+    "sex",
+    "families",
+    "household",
+    "households",
+    "age",
+    "age groups",
+    "education",
+    "literacy",
+    "marriage",
+    "marriages",
+    "employment",
+    "work",
+    "workers",
+    "labor",
+    "unemployment",
+    "energy",
+    "power",
+    "sewer",
+    "sewers",
+    "sewage",
+    "water",
+    "wells",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2013"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:49:02Z",
+  "layer_id_s": "restricted-figgy:be25bb44-053a-4f25-a405-a74135ffd710",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/23325a7f-20c6-408d-a8b6-ca1a82a77113\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/539db042-923c-460b-b8b8-41e5f7e48a03/file/2f7d191b-794f-424a-8713-ea123e83f89b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be25bb44-053a-4f25-a405-a74135ffd710/file/c92c5f2e-3043-4fc7-b1d7-2bf8fa3e487f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be25bb44-053a-4f25-a405-a74135ffd710/file/b621548c-d4ee-4741-b52e-6f99225b471e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

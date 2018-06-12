@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7p88ch99q",
+  "layer_slug_s": "princeton-7p88ch99q",
+  "uuid": "princeton-7p88ch99q",
+  "dc_title_s": "Nicaragua Major Rivers, 1995",
+  "solr_geom": "ENVELOPE(-87.300911, -83.157936, 15.025908, 10.711407)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Nicaragua created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:49Z",
+  "layer_id_s": "restricted-figgy:eedaab75-82c0-4f3c-85f9-cc97e09ce3d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cedc1e23-6ad6-41e2-9cda-5c78052b3d1d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eac9c82c-1afa-43f4-984f-d2e7b7e9654d/file/fae22013-dbdb-413a-bc0f-cc5c22b5ba0b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eedaab75-82c0-4f3c-85f9-cc97e09ce3d9/file/ab338d9f-4bac-40f3-8200-9f4957c89dc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eedaab75-82c0-4f3c-85f9-cc97e09ce3d9/file/849712ed-53fd-4c4b-8f53-e5ad51e9859e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

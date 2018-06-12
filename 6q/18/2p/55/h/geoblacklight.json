@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6q182p55h",
+  "layer_slug_s": "princeton-6q182p55h",
+  "uuid": "princeton-6q182p55h",
+  "dc_title_s": "Kern County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-120.254731, -117.570605, 35.817946, 34.783085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Kern County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Kern",
+    "Kern County",
+    "California",
+    "Bakersfield",
+    "Sequoia National Forest",
+    "Edwards Air Force Base"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:39Z",
+  "layer_id_s": "restricted-figgy:2ee92a69-6649-4625-b227-c466f6ac2cc2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22b9d770-2f27-420f-9cf3-df51cbab2150\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d855270d-ebe9-475f-b98f-243807083e96/file/5a39f60a-0618-4ff9-80f4-bbbb7dbe0173\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ee92a69-6649-4625-b227-c466f6ac2cc2/file/79ae4049-59c6-4dd1-afb4-f4552be5d421\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ee92a69-6649-4625-b227-c466f6ac2cc2/file/5b20e9d6-5f5c-419c-b19b-692eeadcf56b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

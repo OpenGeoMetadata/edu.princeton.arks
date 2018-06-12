@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qt30s",
+  "layer_slug_s": "princeton-5m60qt30s",
+  "uuid": "princeton-5m60qt30s",
+  "dc_title_s": "Maine Tracts 2002",
+  "solr_geom": "ENVELOPE(-71.084335, -66.949831, 47.459687, 43.064943)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Maine Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Maine.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:44:16Z",
+  "layer_id_s": "restricted-figgy:bc4e7a36-c3c9-4ed8-be49-d11dee5fbc9c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/98495946-84c1-4ce7-9692-5b9f6ef97e84\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a4b89cd-f057-4877-ae6d-8f27ff915a84/file/d0f7fc49-d202-4fb2-9733-4a20bdd258f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc4e7a36-c3c9-4ed8-be49-d11dee5fbc9c/file/0b51731c-ed77-43b8-a460-fed894a194f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc4e7a36-c3c9-4ed8-be49-d11dee5fbc9c/file/296716b0-0031-4aea-95f6-da6e85a0d5aa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

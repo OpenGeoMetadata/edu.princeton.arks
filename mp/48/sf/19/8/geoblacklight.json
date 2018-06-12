@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sf198",
+  "layer_slug_s": "princeton-mp48sf198",
+  "uuid": "princeton-mp48sf198",
+  "dc_title_s": "Italy Major Highways, 2005",
+  "solr_geom": "ENVELOPE(6.778094, 17.090391, 47.004864, 36.869076)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Italy major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:53Z",
+  "layer_id_s": "restricted-figgy:c1215ba3-93f4-4e4f-b281-75b5a5e13e3b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c41b7158-be6a-451a-814c-26fcd4649535\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0cdc1515-7c73-43f3-953b-2f2d62e4eb86/file/a8f9c100-7505-4e64-b13d-b73b6589f2a1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1215ba3-93f4-4e4f-b281-75b5a5e13e3b/file/ab723b9c-b40c-4c35-b5a0-c26e2f5e901d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1215ba3-93f4-4e4f-b281-75b5a5e13e3b/file/ef5aa505-29be-440f-a408-5e56815678d0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

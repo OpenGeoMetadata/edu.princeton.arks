@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nf71k",
+  "layer_slug_s": "princeton-qf85nf71k",
+  "uuid": "princeton-qf85nf71k",
+  "dc_title_s": "Ashtabula County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.003125, -80.519113, 41.97742, 41.498308)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ashtabula County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ashtabula",
+    "Ashtabula County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:54Z",
+  "layer_id_s": "restricted-figgy:1af92aac-a26f-4a73-b8b6-bdb5d9738734",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c78a066a-575d-4816-89db-b97869258f50\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3a17952-0a17-4af5-b144-d19e31e6f26c/file/0f6ed599-c156-4629-a5e9-1f082811ce34\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1af92aac-a26f-4a73-b8b6-bdb5d9738734/file/958a9374-f415-4ff2-9796-f7440c911b68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1af92aac-a26f-4a73-b8b6-bdb5d9738734/file/8217ad01-d8c0-4aa7-9580-237ce8ef6980\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp76t",
+  "layer_slug_s": "princeton-d504rp76t",
+  "uuid": "princeton-d504rp76t",
+  "dc_title_s": "Campbell County, Kentucky land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.503819, -84.237515, 39.118848, 38.806099)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Campbell County, Kentucky, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Campbell",
+    "Campbell County",
+    "Kentucky",
+    "Ohio River",
+    "Cincinnati"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:10Z",
+  "layer_id_s": "restricted-figgy:1590cc3f-0069-4779-9b29-a2c6e54b737c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c8a175cc-9e99-4853-aca7-a6e9e59c9b4e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d9ec2fc-d8d4-4453-aa25-9ad785d0a091/file/49976538-bf58-4e65-b00e-ed29ee199c0f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1590cc3f-0069-4779-9b29-a2c6e54b737c/file/97b0174a-aed8-4d0b-97ef-e49d38e2d9ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1590cc3f-0069-4779-9b29-a2c6e54b737c/file/b1c51920-a489-48bd-808b-a9085a707813\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

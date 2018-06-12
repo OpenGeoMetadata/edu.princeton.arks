@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/70795c12b",
+  "layer_slug_s": "princeton-70795c12b",
+  "uuid": "princeton-70795c12b",
+  "dc_title_s": "Franklin County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.726419, -73.909705, 45.00611, 44.098834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County",
+    "Franklin",
+    "New York",
+    "Adirondacks",
+    "Adirondack Park",
+    "Debar Mountain Wild Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:05Z",
+  "layer_id_s": "restricted-figgy:19cdd02b-541c-49a2-a3dd-c2f3f0597927",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/68091df9-bab1-4110-aacf-e740a9501c53\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/856f953f-dadc-4c01-bde3-510f8f177cf1/file/42ba9e6e-f6a2-4e5e-933c-5199b8efdc85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/19cdd02b-541c-49a2-a3dd-c2f3f0597927/file/d677b607-828c-4001-a136-8df35ff64293\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19cdd02b-541c-49a2-a3dd-c2f3f0597927/file/789ff963-d0e7-4595-b51d-d4d029a5ca81\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

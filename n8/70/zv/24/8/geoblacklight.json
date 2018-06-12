@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n870zv248",
+  "layer_slug_s": "princeton-n870zv248",
+  "uuid": "princeton-n870zv248",
+  "dc_title_s": "Madison County, Kentucky land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.525667, -84.074608, 37.916935, 37.515356)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Kentucky, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Madison",
+    "Madison County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:02Z",
+  "layer_id_s": "restricted-figgy:aa075c33-d028-4c95-b749-564efb33eb50",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/703a97b5-7f7f-44d2-80f1-7c5af46b1cab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/60fa772f-60e9-4e01-babc-0f3c44f70aca/file/8a948153-e0aa-447d-b9ae-fb6d3664f830\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa075c33-d028-4c95-b749-564efb33eb50/file/6847f48c-94c2-469e-95ea-a98a478d7208\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa075c33-d028-4c95-b749-564efb33eb50/file/f42f87cc-4564-4195-acf4-59f0dfcbed8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

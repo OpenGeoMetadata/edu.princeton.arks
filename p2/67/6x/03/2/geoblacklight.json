@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p2676x032",
+  "layer_slug_s": "princeton-p2676x032",
+  "uuid": "princeton-p2676x032",
+  "dc_title_s": "Riverside County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-117.676535, -114.434788, 34.080004, 33.426121)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Riverside County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "property",
+    "ownership",
+    "cadastral maps",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Riverside County",
+    "Riverside",
+    "Moreno Valley",
+    "Corona",
+    "Murrieta",
+    "Temecula"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:37:14Z",
+  "layer_id_s": "restricted-figgy:7e506a52-b8e2-4673-b965-e4eff83f0b80",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/25179ab6-dcfc-432b-be1d-bdb581b4cd28\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f790f18f-25b0-425a-84a0-68400c9527e6/file/d64b968d-3e98-4e24-8434-d126af9ebb3c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e506a52-b8e2-4673-b965-e4eff83f0b80/file/50541a84-ad21-42ad-88b1-cba7f722e1c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e506a52-b8e2-4673-b965-e4eff83f0b80/file/015ebee1-1396-461f-811d-a1d531e58aa0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

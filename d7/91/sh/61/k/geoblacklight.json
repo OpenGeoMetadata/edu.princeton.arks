@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d791sh61k",
+  "layer_slug_s": "princeton-d791sh61k",
+  "uuid": "princeton-d791sh61k",
+  "dc_title_s": "Iceland Elevations",
+  "solr_geom": "ENVELOPE(-24.527664, -13.490383, 66.563774, 63.286755)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Iceland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:11Z",
+  "layer_id_s": "restricted-figgy:7248966b-7cef-41ff-89a4-e2c68ac2fb17",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7efbb0b7-1bfb-41b0-8d56-80842bc4c9c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e20767d4-4829-47b7-985f-2a019e1d9068/file/75b18c50-9605-42a0-ae2b-639a76bb7c3a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7248966b-7cef-41ff-89a4-e2c68ac2fb17/file/b9b66e1f-b6d2-41d7-b8cf-bf7be86cf61a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7248966b-7cef-41ff-89a4-e2c68ac2fb17/file/361e8d85-f08c-4fb6-b89a-7e75131e918e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

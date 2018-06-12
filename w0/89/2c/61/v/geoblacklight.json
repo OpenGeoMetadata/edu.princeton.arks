@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w0892c61v",
+  "layer_slug_s": "princeton-w0892c61v",
+  "uuid": "princeton-w0892c61v",
+  "dc_title_s": "Latvia Elevations",
+  "solr_geom": "ENVELOPE(20.969358, 28.242383, 58.08363, 55.671203)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Latvia created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:11Z",
+  "layer_id_s": "restricted-figgy:dcd25038-30e7-4c21-a602-323e14416ffe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/75ddf252-b8ea-42b3-a28d-7e97dd05176f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b4e9a5d-bb43-4a6e-99d8-32791888ec08/file/8be9047b-fc7d-4956-b27c-0b7416cfd020\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcd25038-30e7-4c21-a602-323e14416ffe/file/65c7737f-0976-4896-9c41-aedfcab7f0b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcd25038-30e7-4c21-a602-323e14416ffe/file/ac6743c5-d440-4dba-98f0-236f091cd592\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6w924g257",
+  "layer_slug_s": "princeton-6w924g257",
+  "uuid": "princeton-6w924g257",
+  "dc_title_s": "China national boundaries, 2010",
+  "solr_geom": "ENVELOPE(73.488641, 135.097256, 53.561509, 16.824409)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygon shapefile representing national boundaries of China as of 2010.",
+  "dc_creator_sm": [
+    "East View Information Services, Inc."
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2017"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:48:09Z",
+  "layer_id_s": "restricted-figgy:e3a99c0f-0b86-4820-9a3f-a5ece319b050",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a50f0938-5d49-403c-b2ba-5d6145a5092d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75879bc3-d43c-4c86-a46f-156728e86c34/file/542cfe31-dcdb-4d29-998a-c6d44b11b4ca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3a99c0f-0b86-4820-9a3f-a5ece319b050/file/5d32aaa6-b4b8-441f-af0d-786401acfa0a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3a99c0f-0b86-4820-9a3f-a5ece319b050/file/c5205113-9e31-48f6-9b30-6c8bc72656cf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

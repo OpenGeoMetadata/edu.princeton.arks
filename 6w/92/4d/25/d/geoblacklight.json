@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6w924d25d",
+  "layer_slug_s": "princeton-6w924d25d",
+  "uuid": "princeton-6w924d25d",
+  "dc_title_s": "U.S. GDT Park Landmarks 2000",
+  "solr_geom": "ENVELOPE(-167.540447, -67.132814, 70.418945, 18.910842)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. GDT Park Landmarks represents parks and forests within United States at National, State, and local levels.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "parks",
+    "national park or forest",
+    "state park or forest",
+    "local park or forest"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:45:15Z",
+  "layer_id_s": "restricted-figgy:678308e8-cd42-4e54-b0e1-de16bde64e81",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7aa1b66d-46d9-49ed-a669-58ba7f4273f3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d9ed2c6-dbd1-41d5-880f-0c4a0b28baa7/file/30466793-6c90-4683-9b55-a77af1aa789b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/678308e8-cd42-4e54-b0e1-de16bde64e81/file/bba3d186-5aa0-48c7-8dfa-a1c75fa776b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/678308e8-cd42-4e54-b0e1-de16bde64e81/file/848b55ea-df54-489d-86f4-a34858265e4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

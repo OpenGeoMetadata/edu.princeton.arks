@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sm15p",
+  "layer_slug_s": "princeton-5t34sm15p",
+  "uuid": "princeton-5t34sm15p",
+  "dc_title_s": "Slovakia 1-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(16.832307, 22.566721, 49.61469, 47.729031)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovakia 1 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "1 digit"
+  ],
+  "dct_spatial_sm": [
+    "Slovakia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:17Z",
+  "layer_id_s": "restricted-figgy:ae481704-3f83-4282-933a-eab9d3c1b254",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/674e7abd-1cfb-4a22-be22-af405bcd6e63\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8dcc0c4e-201f-4e2b-8833-ea0dc7cb4e91/file/f559b246-88dd-47f2-8d20-63397003cfc7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae481704-3f83-4282-933a-eab9d3c1b254/file/88abb1fd-db6e-481a-aa9b-04feb56fffea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae481704-3f83-4282-933a-eab9d3c1b254/file/1e539973-b4b0-49a4-a02f-481ce8701f53\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

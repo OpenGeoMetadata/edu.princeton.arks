@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qg64c",
+  "layer_slug_s": "princeton-2b88qg64c",
+  "uuid": "princeton-2b88qg64c",
+  "dc_title_s": "Laramie County, Wyoming land parcels, 2006",
+  "solr_geom": "ENVELOPE(-105.848235, -104.619857, 41.48874, 40.829619)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Laramie County, Wyoming, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming",
+    "Laramie County",
+    "Laramie",
+    "Cheyenne"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:08:52Z",
+  "layer_id_s": "restricted-figgy:3a4d1061-c287-4183-b64e-1c6e9dca8c32",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0d4930a8-6ea7-47fa-a993-56577d25ff8b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e1f4a75-42d5-4a83-8bfc-d362ef081cfa/file/1def7955-635c-441f-a72b-9101ebdf62db\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a4d1061-c287-4183-b64e-1c6e9dca8c32/file/b9d30574-3c83-4b12-a19c-991b38d3ed0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a4d1061-c287-4183-b64e-1c6e9dca8c32/file/aa7fafe5-b828-4500-a4ed-24d8b848a065\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

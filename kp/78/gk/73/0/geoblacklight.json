@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kp78gk730",
+  "layer_slug_s": "princeton-kp78gk730",
+  "uuid": "princeton-kp78gk730",
+  "dc_title_s": "Roosevelt County, Montana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.843992, -104.04384, 48.563358, 47.999888)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Roosevelt County, Montana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Roosevelt",
+    "Roosevelt County",
+    "Montana",
+    "Fort Peck Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:53:01Z",
+  "layer_id_s": "restricted-figgy:ac3d30e4-6ccf-43e4-a496-c5cee01efdc9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2942e7f3-1f26-4675-94b5-e767b8c44aff\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6978e57-b134-4a58-9273-d75a8ab04fdb/file/ee40ac47-8c91-4e39-a903-eec147cd725a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac3d30e4-6ccf-43e4-a496-c5cee01efdc9/file/3bd2acc2-a11c-42e7-a763-2994f38259fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac3d30e4-6ccf-43e4-a496-c5cee01efdc9/file/ab98e356-93f8-4023-ba12-4946fc7eb22e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

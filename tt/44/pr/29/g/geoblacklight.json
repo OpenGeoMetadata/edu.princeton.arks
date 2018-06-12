@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pr29g",
+  "layer_slug_s": "princeton-tt44pr29g",
+  "uuid": "princeton-tt44pr29g",
+  "dc_title_s": "Morris County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.889819, -74.266803, 41.086115, 40.648447)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Morris County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Morris County",
+    "Morris",
+    "New Jersey",
+    "Hackleberry State Park",
+    "Black River Wildlife Management Area",
+    "Morristown National Historical Park",
+    "Great Swamp National Wildlife Refuge",
+    "Mahlon Dickerson Reservation",
+    "Wildcat Ridge Wildlife Management Area",
+    "Morristown",
+    "Parsippany-Troy Hills"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:54Z",
+  "layer_id_s": "restricted-figgy:67689fb0-4dd3-48ef-8bc3-4c866322d5ba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f876990b-856f-453f-aa5a-6da70939061d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afcf4a30-3cee-49f3-9d3a-e6cbd7ced76d/file/2e765cfd-0265-406b-b516-65729bb8b510\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67689fb0-4dd3-48ef-8bc3-4c866322d5ba/file/17b6805d-5e31-41be-8c73-8abcfe740491\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67689fb0-4dd3-48ef-8bc3-4c866322d5ba/file/77e197ce-c3c2-4115-945e-dbf2f49d4847\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

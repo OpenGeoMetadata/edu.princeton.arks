@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816p34b",
+  "layer_slug_s": "princeton-3x816p34b",
+  "uuid": "princeton-3x816p34b",
+  "dc_title_s": "Switzerland Elevations",
+  "solr_geom": "ENVELOPE(5.956958, 10.492472, 47.808595, 45.817393)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Switzerland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Switzerland"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:02Z",
+  "layer_id_s": "restricted-figgy:15b54bd1-cd2f-4c3a-9c76-3decf60277ff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/57289d3f-205d-47c2-845f-576fe7bc73aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0a68881-20c8-4ca5-9bb4-5eb0e83cdf4d/file/7a9dfb44-f70d-4aa4-8414-c39e9251c072\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15b54bd1-cd2f-4c3a-9c76-3decf60277ff/file/b5c31e0b-bc83-4ec6-a9e5-987f6007d87d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15b54bd1-cd2f-4c3a-9c76-3decf60277ff/file/27d55d85-cc1e-45bc-90c6-5a7253fcb013\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

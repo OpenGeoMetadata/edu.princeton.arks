@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dr26z006p",
+  "layer_slug_s": "princeton-dr26z006p",
+  "uuid": "princeton-dr26z006p",
+  "dc_title_s": "Taiwan Major Airports, 2005",
+  "solr_geom": "ENVELOPE(119.498498, 121.734039, 25.066705, 22.029645)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Taiwan major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Taiwan",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:34Z",
+  "layer_id_s": "restricted-figgy:bd3a3519-111b-468a-8db1-01a0447b3da8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2b97e573-a782-42bd-9f24-16065be35b43\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f739e4f1-8de8-4fef-b42c-a0ce5c33ebfa/file/b6cb2a94-db29-4fa6-b5fb-86f2af4cea6c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd3a3519-111b-468a-8db1-01a0447b3da8/file/b0531f07-aa77-4316-a6b1-05922005e0fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd3a3519-111b-468a-8db1-01a0447b3da8/file/fe276c7a-16a9-45c2-9d10-e92a2ec13d17\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

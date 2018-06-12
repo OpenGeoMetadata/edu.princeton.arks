@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v224",
+  "layer_slug_s": "princeton-3t945v224",
+  "uuid": "princeton-3t945v224",
+  "dc_title_s": "Westmoreland County, Pennsylvania land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.903682, -78.974892, 40.678394, 40.038157)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Westmoreland County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Westmoreland",
+    "Westmoreland County",
+    "Pennsylvania",
+    "Pittsburgh"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:06Z",
+  "layer_id_s": "restricted-figgy:4ce5111f-c6d9-4963-a5e3-5a8c5f418dba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/804a6d6b-c7e8-477b-a7e6-9e0f89da0b3a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aee1b257-8c84-4dfc-bc18-d83b9bc55395/file/f6a2002e-5a08-4bba-807e-2c1cc96526e9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ce5111f-c6d9-4963-a5e3-5a8c5f418dba/file/744da508-bda5-4663-9986-68d1342c59e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ce5111f-c6d9-4963-a5e3-5a8c5f418dba/file/a314d999-b422-493f-9a4a-3f385c734d8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd3760739",
+  "layer_slug_s": "princeton-wd3760739",
+  "uuid": "princeton-wd3760739",
+  "dc_title_s": "Kennebec County, Maine land parcels, 2012",
+  "solr_geom": "ENVELOPE(-70.124426, -69.401635, 44.654253, 44.112444)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Kennebec County, Maine, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kennebec",
+    "Kennebec County",
+    "Maine",
+    "Augusta"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:49:36Z",
+  "layer_id_s": "restricted-figgy:cf1c8894-a316-4a43-b1ae-70ff74a9639c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8d652f0-45dd-4637-b918-c855b7687168\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da1d6b88-6ebe-46ab-9d85-e5a5afdd4bca/file/7484397a-9a45-44b7-926b-2e8ef0b1c57d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf1c8894-a316-4a43-b1ae-70ff74a9639c/file/9e50ffbd-b2f7-4f70-9f04-4b9459c67e46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf1c8894-a316-4a43-b1ae-70ff74a9639c/file/c22c8b99-7f30-4d0f-aa7b-24cd5e2fd840\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

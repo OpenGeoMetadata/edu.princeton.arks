@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj139534k",
+  "layer_slug_s": "princeton-sj139534k",
+  "uuid": "princeton-sj139534k",
+  "dc_title_s": "Johnston County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.708955, -78.064787, 35.817625, 35.252889)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Johnston County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Johnston",
+    "Johnston County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:51Z",
+  "layer_id_s": "restricted-figgy:6e629507-bec7-4198-a5c6-d23943cbfbd2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/11031817-dc8a-46bb-b687-2ddc2d9ba8f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a08512fc-abc8-4b3e-b046-8dcb5d951fff/file/7337b4e7-bb47-4e79-95ff-6b0865db3eb1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e629507-bec7-4198-a5c6-d23943cbfbd2/file/f42841f6-20e7-437b-b472-0364bafb96ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e629507-bec7-4198-a5c6-d23943cbfbd2/file/8c86d1f8-a5e5-4440-bdb0-c144f447172c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt63z",
+  "layer_slug_s": "princeton-2z10wt63z",
+  "uuid": "princeton-2z10wt63z",
+  "dc_title_s": "New Haven County, Connecticut land parcels, 2014",
+  "solr_geom": "ENVELOPE(-73.326844, -72.534788, 41.578816, 41.172318)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in New Haven County, Connecticut, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New Haven",
+    "New Haven County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:41Z",
+  "layer_id_s": "restricted-figgy:84e59954-a682-403f-8f1e-3a99068cfdb3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b6e2c773-5df7-42db-b85c-b958092f65c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/00157291-3e28-4a81-a4f6-65b09bfdf1d7/file/82c78756-93a2-4c18-80ca-462a98b8a9eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84e59954-a682-403f-8f1e-3a99068cfdb3/file/94aa923a-80f9-4b9d-8489-b16f53ada32a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84e59954-a682-403f-8f1e-3a99068cfdb3/file/ce3668f0-100a-4046-a66b-a8455e63c746\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

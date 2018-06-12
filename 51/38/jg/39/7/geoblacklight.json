@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5138jg397",
+  "layer_slug_s": "princeton-5138jg397",
+  "uuid": "princeton-5138jg397",
+  "dc_title_s": "Poland Major Industrial Points, 2005",
+  "solr_geom": "ENVELOPE(14.588083, 22.280001, 53.501583, 50.35564)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Poland major industrial points created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "industry",
+    "economy",
+    "factories"
+  ],
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:39Z",
+  "layer_id_s": "restricted-figgy:be3dccce-c9eb-43fd-bce5-e0b106aed5b4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/054eb3a5-125e-4816-92c7-6d6cf0ffa447\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c8a344c0-2fbe-4655-a39a-116c233e6818/file/25825156-2f79-4f89-aed9-c6587088a259\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be3dccce-c9eb-43fd-bce5-e0b106aed5b4/file/34943fdb-bf17-466a-89db-e750b39c0354\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be3dccce-c9eb-43fd-bce5-e0b106aed5b4/file/48bd4e7d-b55c-41b6-a6a0-857ea569d5d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

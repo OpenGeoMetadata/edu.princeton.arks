@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg616",
+  "layer_slug_s": "princeton-ks65hg616",
+  "uuid": "princeton-ks65hg616",
+  "dc_title_s": "Story County, Iowa land parcels, 2011",
+  "solr_geom": "ENVELOPE(-93.698751, -93.231551, 42.209355, 41.862782)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Story County, Iowa, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Story",
+    "Story County",
+    "Iowa",
+    "Ames"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:48Z",
+  "layer_id_s": "restricted-figgy:7e805fa4-4c29-47ed-8db4-11b03882af56",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5b07d93-fa8f-47d2-b107-446710cd8248\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/791020cb-a808-4133-965d-83ef3890963b/file/c154c48c-dd72-4a1b-8f1e-f65a7bcafb74\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e805fa4-4c29-47ed-8db4-11b03882af56/file/f9f7dec2-6276-406b-8e96-6f0f3cad094d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e805fa4-4c29-47ed-8db4-11b03882af56/file/f56e5ae9-c898-47c1-9e32-3a456d867abc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

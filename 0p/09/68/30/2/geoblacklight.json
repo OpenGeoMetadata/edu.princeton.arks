@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p0968302",
+  "layer_slug_s": "princeton-0p0968302",
+  "uuid": "princeton-0p0968302",
+  "dc_title_s": "Dona Ana County, New Mexico land parcels, 2008",
+  "solr_geom": "ENVELOPE(-107.299921, -106.340527, 33.051736, 31.783591)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dona Ana County, New Mexico, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Dona Ana",
+    "Dona Ana County",
+    "Las Cruces",
+    "Rio Grande",
+    "El Paso"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:39:45Z",
+  "layer_id_s": "restricted-figgy:a337dd67-f1c2-4e24-b308-1814cc06242c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/436ea4bf-9b97-4fdc-83ba-7fbceb1cacc4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89acd738-8b11-46b8-a1b9-0a78b1027e1d/file/9c121531-af54-454e-95f5-1ec4d2ce1413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a337dd67-f1c2-4e24-b308-1814cc06242c/file/b2abc8fc-b847-4802-babc-02fd624ed9c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a337dd67-f1c2-4e24-b308-1814cc06242c/file/64d35c37-673e-4fcc-98e9-bd5cdef93f0c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

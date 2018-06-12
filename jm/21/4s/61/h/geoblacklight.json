@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jm214s61h",
+  "layer_slug_s": "princeton-jm214s61h",
+  "uuid": "princeton-jm214s61h",
+  "dc_title_s": "Clark County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.994942, -85.415681, 38.606682, 38.267144)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clark County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clark County",
+    "Clark",
+    "Indiana",
+    "Louisville"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2016"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:30Z",
+  "layer_id_s": "restricted-figgy:4e62c7ca-13c4-42c4-8db9-44ee14aa3da5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b465a021-4f07-43ab-a709-eb6300b21376\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3bb4f6cf-650a-4236-b36b-bc64f97de166/file/f8dd312f-fa5c-42f3-9447-1548dfaa553a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e62c7ca-13c4-42c4-8db9-44ee14aa3da5/file/da27d885-1b66-4706-9b4f-a9a229a56ab1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e62c7ca-13c4-42c4-8db9-44ee14aa3da5/file/da2b9464-545b-4606-aa15-020adbd866f3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

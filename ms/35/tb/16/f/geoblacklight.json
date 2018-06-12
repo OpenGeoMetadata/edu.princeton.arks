@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ms35tb16f",
+  "layer_slug_s": "princeton-ms35tb16f",
+  "uuid": "princeton-ms35tb16f",
+  "dc_title_s": "Romania Minor City Areas, 2005",
+  "solr_geom": "ENVELOPE(20.458973, 29.312361, 48.208152, 43.712639)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania minor city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Minor Cities"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:7d90cdd1-74cb-4660-b51e-e85d7bfc4fcd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bda77326-aa3f-4db8-bfa4-defebf5444f4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1394c0a3-fc52-4d5d-ae69-65df6a5e91df/file/cb039618-64dc-430c-ac84-1d218c8fdcd6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7d90cdd1-74cb-4660-b51e-e85d7bfc4fcd/file/b92eced7-1ead-44f0-81ea-5224c2e0e021\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d90cdd1-74cb-4660-b51e-e85d7bfc4fcd/file/d149a1a0-7b50-43e7-a155-6fbc5e9940df\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

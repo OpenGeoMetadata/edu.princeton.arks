@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xw42nc504",
+  "layer_slug_s": "princeton-xw42nc504",
+  "uuid": "princeton-xw42nc504",
+  "dc_title_s": "Grays Harbor County, Washington roads, 2012",
+  "solr_geom": "ENVELOPE(-124.336289, -123.151359, 47.542188, 46.788576)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Grays Harbor County, Washington, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Grays Harbor County",
+    "Grays Harbor",
+    "Washington",
+    "Washington State"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:f2e45cb4-db51-438c-92a3-74b3dd97abdf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/74c8462a-000f-4c9b-a9c6-6598e9fee1e4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3f8626e-ac6d-479c-b9b3-eb07225846c9/file/26acc569-bb67-4fd9-adb9-5c4f372c4e62\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2e45cb4-db51-438c-92a3-74b3dd97abdf/file/59fb3e6f-dde7-4e75-a839-957490aea778\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2e45cb4-db51-438c-92a3-74b3dd97abdf/file/346e1bd0-7769-41b1-9ee7-28be1ace7df1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

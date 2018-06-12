@@ -1,0 +1,56 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zs25xc956",
+  "layer_slug_s": "princeton-zs25xc956",
+  "uuid": "princeton-zs25xc956",
+  "dc_title_s": "Q3 flood data, Connecticut",
+  "solr_geom": "ENVELOPE(-73.728108, -71.788349, 42.050822, 40.980045)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Connecticut, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "Fairfield County",
+    "Hartford County",
+    "Litchfield County",
+    "Middlesex County",
+    "New Haven County",
+    "New London County",
+    "Tolland County",
+    "Fairfield",
+    "Hartford",
+    "Litchfield",
+    "Middlesex",
+    "New Haven",
+    "New London",
+    "Tolland"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T01:11:51Z",
+  "layer_id_s": "restricted-figgy:71ad763f-6219-46b5-ad7a-c4cd6d2540ef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b3485f77-2e9f-45cd-8259-1c13c93d8d5a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09cad0b7-b093-4fd2-bbd3-bfba211668ee/file/4d4063a8-e2a0-41c4-9c76-37ce429b7122\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71ad763f-6219-46b5-ad7a-c4cd6d2540ef/file/def58187-dc6f-48a3-bf90-06274c1ca374\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71ad763f-6219-46b5-ad7a-c4cd6d2540ef/file/54e7e112-f81c-44d9-b262-1bcda96780de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

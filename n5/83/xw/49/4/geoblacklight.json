@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xw494",
+  "layer_slug_s": "princeton-n583xw494",
+  "uuid": "princeton-n583xw494",
+  "dc_title_s": "Georgia Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-85.602337, -80.803337, 34.998192, 30.363127)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Georgia Block Centroid Populations represents the population of the U.S. Census block centroids for Georgia.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:13:16Z",
+  "layer_id_s": "restricted-figgy:62be4312-c53b-4584-8d6b-03862d040692",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac39abed-e9d6-423b-a570-783af783d15d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b94f20f9-ea6c-4645-9998-f60f0ce4e232/file/065939a6-5438-4af6-a9cd-e05b826c5d02\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/62be4312-c53b-4584-8d6b-03862d040692/file/bbe1a66b-5367-41a1-862b-80f7c14ba9e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/62be4312-c53b-4584-8d6b-03862d040692/file/0d7ead45-219c-4233-9b8c-a2b310ce510d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rg17v",
+  "layer_slug_s": "princeton-v118rg17v",
+  "uuid": "princeton-v118rg17v",
+  "dc_title_s": "Luxembourg Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(5.848545, 6.510361, 50.036388, 49.501499)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Luxembourg created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:58:55Z",
+  "layer_id_s": "restricted-figgy:bf94f53e-68e6-4b62-bb06-15968a2c8ce1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/17dc05ad-b24f-418e-9718-e0a331f4881d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d015a36d-0810-4cd7-80e6-ea12397d70c9/file/84f6d361-b737-4170-abb8-65c1208c8ee8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf94f53e-68e6-4b62-bb06-15968a2c8ce1/file/50b92be1-4aa2-4a12-87cf-7db4006ef58a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf94f53e-68e6-4b62-bb06-15968a2c8ce1/file/1f557614-8a84-4b3a-aaee-039f6483908b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pv63g191c",
+  "layer_slug_s": "princeton-pv63g191c",
+  "uuid": "princeton-pv63g191c",
+  "dc_title_s": "Finland Cities With Population From 20 Thousand To 50 Thousand, 2004",
+  "solr_geom": "ENVELOPE(21.498958, 28.902527, 66.496838, 60.124588)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Finland cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Finland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:49Z",
+  "layer_id_s": "restricted-figgy:98134a8f-36a6-494a-8426-a4e21d806502",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4ac73ec9-babb-4fcc-9e42-9d0264edd8c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22296117-719f-4102-ac44-119bb51f21ad/file/ba86a701-78d1-4fae-9493-c8a93c3a6280\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98134a8f-36a6-494a-8426-a4e21d806502/file/df5d671d-8dbb-4525-88fc-832b94f68d34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98134a8f-36a6-494a-8426-a4e21d806502/file/bf91f5fb-0072-4d8b-a6fa-0450acaa0f56\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

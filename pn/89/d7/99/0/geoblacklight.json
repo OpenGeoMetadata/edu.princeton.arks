@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89d7990",
+  "layer_slug_s": "princeton-pn89d7990",
+  "uuid": "princeton-pn89d7990",
+  "dc_title_s": "Spain Major Industrial Points, 2005",
+  "solr_geom": "ENVELOPE(-8.717639, -0.365611, 42.891888, 37.240555)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Spain major industrial points created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "industry",
+    "economy",
+    "factories"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:00Z",
+  "layer_id_s": "restricted-figgy:dc7bfa00-d2d0-42a9-89a9-e2fdae19b6df",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a19d17ed-3e18-46da-a44a-3c81dc7192ef\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6f646023-ec7c-4f04-b3e5-310d54742b1c/file/cad2435b-817f-4ccf-b8b8-41d6a2d4d129\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc7bfa00-d2d0-42a9-89a9-e2fdae19b6df/file/79d03e19-e3f2-4020-be1d-4eb0b5507602\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc7bfa00-d2d0-42a9-89a9-e2fdae19b6df/file/22f1c3d7-6ed1-40cb-aef8-05f7c5ba8ede\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

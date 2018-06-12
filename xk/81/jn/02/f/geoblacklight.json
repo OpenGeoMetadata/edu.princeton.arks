@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xk81jn02f",
+  "layer_slug_s": "princeton-xk81jn02f",
+  "uuid": "princeton-xk81jn02f",
+  "dc_title_s": "Netherlands Municipality Boundaries, 2005",
+  "solr_geom": "ENVELOPE(3.359959, 7.227495, 53.554903, 50.751288)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Netherlands created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:02Z",
+  "layer_id_s": "restricted-figgy:599f00fc-0ef8-47d4-b9c4-9326d5e624c9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a97ec33-3096-4cbf-8cf1-db69798614bb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de38f187-a7b4-4223-99b8-f3573d36b8b0/file/37e38b6f-1ca4-4d99-8f6f-1bf8ebad3775\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/599f00fc-0ef8-47d4-b9c4-9326d5e624c9/file/891ede62-a5b7-4e08-b13f-33121850a52e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/599f00fc-0ef8-47d4-b9c4-9326d5e624c9/file/fc886b6a-1551-40ab-b986-7248acd4b2bb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

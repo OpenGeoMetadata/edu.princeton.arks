@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sq87bw29j",
+  "layer_slug_s": "princeton-sq87bw29j",
+  "uuid": "princeton-sq87bw29j",
+  "dc_title_s": "Norway Major Geographic Names, 2005",
+  "solr_geom": "ENVELOPE(4.8208, 29.607059, 80.401768, 59.206209)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Norway major geographic names created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Location",
+    "geographic names",
+    "names"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:37Z",
+  "layer_id_s": "restricted-figgy:dd1b7524-e933-4d84-9e56-9db6cd9d0b1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/49eb34d6-4e2a-4f80-a208-ad652e4c6776\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a4a79918-2371-4fa2-81b9-5ba6da19e31c/file/545d4120-b668-407b-9d18-1090dd8e28e5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd1b7524-e933-4d84-9e56-9db6cd9d0b1c/file/ac6d0db8-7f04-4dcd-bfbb-cc15ac8c2ca3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd1b7524-e933-4d84-9e56-9db6cd9d0b1c/file/81f2029c-4db1-4aef-a6cf-26de6aa1a7c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

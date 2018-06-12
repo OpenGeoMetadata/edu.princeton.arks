@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v692t969j",
+  "layer_slug_s": "princeton-v692t969j",
+  "uuid": "princeton-v692t969j",
+  "dc_title_s": "Russell County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.434367, -84.889245, 32.509993, 32.061807)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Russell County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Russell",
+    "Russell County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:46Z",
+  "layer_id_s": "restricted-figgy:88cb1e35-1a05-4d89-a0eb-fa6fa1ffad81",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/13fcfcad-2d14-4306-8c11-5ebef64a5def\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/54da49c7-7070-4113-ad42-328dc87454f1/file/e3c2a7c3-2103-41b6-a351-0792e74fdf0a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88cb1e35-1a05-4d89-a0eb-fa6fa1ffad81/file/548b3646-073a-4226-95d0-94cbf0dd7d45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88cb1e35-1a05-4d89-a0eb-fa6fa1ffad81/file/2f85ab3e-de92-4f84-949f-9b4b3a847a49\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

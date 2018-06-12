@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ms35td05b",
+  "layer_slug_s": "princeton-ms35td05b",
+  "uuid": "princeton-ms35td05b",
+  "dc_title_s": "Hartford County, Maryland land parcels, 2010",
+  "solr_geom": "ENVELOPE(-76.569446, -76.083594, 39.7213, 39.391497)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hartford County, Maryland, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hartford County",
+    "Hartford",
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:48:56Z",
+  "layer_id_s": "restricted-figgy:9b525c3b-a74f-4067-8cf9-fb748792cc24",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/129084e7-21f7-4e83-a395-cd7c27b2a7aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a59a205d-734a-4be0-adb0-9908b92ccaa4/file/3ff160b9-4acc-4914-8850-9f5d4170173a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b525c3b-a74f-4067-8cf9-fb748792cc24/file/fe3eabc1-6fcf-4e75-900c-535c99506bf0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b525c3b-a74f-4067-8cf9-fb748792cc24/file/2280abc5-3c64-477f-b452-6865d1eca9be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

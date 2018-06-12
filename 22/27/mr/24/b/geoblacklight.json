@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mr24b",
+  "layer_slug_s": "princeton-2227mr24b",
+  "uuid": "princeton-2227mr24b",
+  "dc_title_s": "World Cities 1999",
+  "solr_geom": "ENVELOPE(-165.270004, 177.130188, 78.199997, -53.150002)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Cities represents the locations of major cities of the world.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "cities",
+    "capitals",
+    "administrative unit and international codes",
+    "population",
+    "country names",
+    "port identification numbers"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1993/1994",
+    "2000"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T02:55:11Z",
+  "layer_id_s": "restricted-figgy:d492eecc-9fe0-450a-995f-75a4322f6129",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2044cc6-a156-41ed-bd57-465e7d0a60db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/164a827a-4463-4d4c-aee9-d2508256901c/file/adb9a596-c88b-4d8d-acfa-401c8ff8383c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d492eecc-9fe0-450a-995f-75a4322f6129/file/3417789a-4630-4bd3-8769-13347184f700\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d492eecc-9fe0-450a-995f-75a4322f6129/file/5e52c939-872b-4dea-a4af-2490283eadca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mk61rm359",
+  "layer_slug_s": "princeton-mk61rm359",
+  "uuid": "princeton-mk61rm359",
+  "dc_title_s": "Humboldt County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-124.409594, -123.406378, 41.465939, 39.999988)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Humboldt County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Humboldt County",
+    "California",
+    "Humboldt"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:44Z",
+  "layer_id_s": "restricted-figgy:fe1473d2-cffd-4cc7-b9c6-01858688dfdd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8e0d28ba-6f96-430c-94e0-084bab90a0ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ed8bf23-0f97-4664-b523-965c9be079f1/file/f679eec5-426e-4909-b737-b56d34cb0b9b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe1473d2-cffd-4cc7-b9c6-01858688dfdd/file/98e2c8c7-1e23-4a63-bf75-a1089df4286c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe1473d2-cffd-4cc7-b9c6-01858688dfdd/file/7da1bace-0b6a-4d52-8061-418eab032440\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

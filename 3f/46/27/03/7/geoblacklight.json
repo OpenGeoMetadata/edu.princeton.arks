@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f4627037",
+  "layer_slug_s": "princeton-3f4627037",
+  "uuid": "princeton-3f4627037",
+  "dc_title_s": "Italy Major Rivers, 2005",
+  "solr_geom": "ENVELOPE(6.759983, 16.863916, 46.823563, 37.10265)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Italy created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "restricted-figgy:051f60fd-205b-402c-8bb0-2d40ea59a24a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bfe602ed-4f91-4493-a0a1-0de06da7b2ab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1bc3e90a-462b-466e-913b-acb1e5160209/file/444c35be-6fbb-42be-a15b-870feee33569\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/051f60fd-205b-402c-8bb0-2d40ea59a24a/file/0af85a5a-d35d-4599-a862-c501f18ef634\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/051f60fd-205b-402c-8bb0-2d40ea59a24a/file/b978054c-da16-4d0f-8fa4-771c2850b897\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

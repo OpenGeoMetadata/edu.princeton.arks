@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6t053k357",
+  "layer_slug_s": "princeton-6t053k357",
+  "uuid": "princeton-6t053k357",
+  "dc_title_s": "Clermont County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-84.326006, -83.980706, 39.274398, 38.769113)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Clermont County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Clermont",
+    "Clermont County",
+    "Ohio",
+    "Ohio River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:27:24Z",
+  "layer_id_s": "restricted-figgy:dd81f368-3824-4531-ab8c-c336414b7692",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c309e655-4774-4331-bba4-9d988cf20509\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/31b9fd33-326b-42e2-a878-3b733b48815d/file/1c53d589-5a5d-43e3-be35-489e0de032fe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd81f368-3824-4531-ab8c-c336414b7692/file/b925f1be-6491-4eb2-b6ae-6bd8275cde76\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd81f368-3824-4531-ab8c-c336414b7692/file/47cbf47d-5658-4443-ae32-6671e934fc06\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

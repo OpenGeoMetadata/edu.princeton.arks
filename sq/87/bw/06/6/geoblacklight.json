@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sq87bw066",
+  "layer_slug_s": "princeton-sq87bw066",
+  "uuid": "princeton-sq87bw066",
+  "dc_title_s": "Pinellas County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-82.851455, -82.582657, 28.173204, 27.611478)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pinellas County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pinellas County",
+    "Pinellas",
+    "Florida",
+    "St. Petersburg",
+    "Clearwater"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:10:49Z",
+  "layer_id_s": "restricted-figgy:ad9adf92-3ad3-4cd2-b32c-5320c7ad2907",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ad47aeaf-12ff-4531-a2a3-d2ac8ba59e31\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72a9bd46-49cf-4de5-a993-63f4f5a33cd9/file/4eb9bd7f-0e91-4a37-b8e0-57cd30ca9379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad9adf92-3ad3-4cd2-b32c-5320c7ad2907/file/709d5d56-9e6f-4f21-8870-e3f8cdafc095\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad9adf92-3ad3-4cd2-b32c-5320c7ad2907/file/b3abf83a-3f69-468e-8b36-62f042048f65\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

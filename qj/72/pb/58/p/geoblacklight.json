@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qj72pb58p",
+  "layer_slug_s": "princeton-qj72pb58p",
+  "uuid": "princeton-qj72pb58p",
+  "dc_title_s": "St. Louis, Missouri land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.320562, -90.17512, 38.77434, 38.532968)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the independent city of St. Louis, Missouri, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "St. Louis",
+    "St. Louis City",
+    "City of St. Louis",
+    "Saint Louis",
+    "Saint Louis City",
+    "City of Saint Louis",
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:21Z",
+  "layer_id_s": "restricted-figgy:c9fbdadc-3817-4a2a-a0b3-e02d71a6de2a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/00c287b9-f536-428c-b688-e1dfe42ced01\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4d69b12-be5e-477c-8c8c-5abb902e3aee/file/403fd3b9-4e2a-446f-b750-eba1957ed095\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9fbdadc-3817-4a2a-a0b3-e02d71a6de2a/file/41efe72b-a76b-465a-887e-a274d5c4f49b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9fbdadc-3817-4a2a-a0b3-e02d71a6de2a/file/f092c267-3516-4510-85af-79aaf3661907\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

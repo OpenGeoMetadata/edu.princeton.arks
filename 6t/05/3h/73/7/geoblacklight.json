@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6t053h737",
+  "layer_slug_s": "princeton-6t053h737",
+  "uuid": "princeton-6t053h737",
+  "dc_title_s": "Latvia Cities With Population 5 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(21.022861, 28.170195, 57.960777, 55.796938)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Latvia cities with population 5 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:17Z",
+  "layer_id_s": "restricted-figgy:90a02df5-025f-4eca-aee6-742389840ac3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cf47e997-cee2-4fb1-a503-0652ba7fd71e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e628ecde-fb73-4710-a615-8f6b5ea89029/file/3b6038ce-2993-42d1-92da-3b0dfa68c4b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90a02df5-025f-4eca-aee6-742389840ac3/file/5f9be3fa-054e-4592-8fa5-8a663d590e8d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90a02df5-025f-4eca-aee6-742389840ac3/file/2a7e2a80-5677-49ba-8494-774a1c4cc136\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

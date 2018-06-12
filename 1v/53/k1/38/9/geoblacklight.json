@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1v53k1389",
+  "layer_slug_s": "princeton-1v53k1389",
+  "uuid": "princeton-1v53k1389",
+  "dc_title_s": "Yancey County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.505615, -82.13312, 36.084008, 35.698437)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yancey County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Yancey",
+    "Yancey County",
+    "North Carolina",
+    "Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:56a569d2-83a4-48b4-8797-948b9df482a9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d7c3bd34-3d06-4b47-803b-cba772851292\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3b31513-63c2-4585-8502-1cd77efa489f/file/1013d3c5-39c3-4096-85d6-493549b24843\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56a569d2-83a4-48b4-8797-948b9df482a9/file/65df8a2d-d1d2-4640-95d4-a6aabbfc0b8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56a569d2-83a4-48b4-8797-948b9df482a9/file/6cef7d4b-ca72-4e71-8a8a-f94b42aa0631\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

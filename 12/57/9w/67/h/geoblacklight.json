@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w67h",
+  "layer_slug_s": "princeton-12579w67h",
+  "uuid": "princeton-12579w67h",
+  "dc_title_s": "New Orleans, Louisiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-90.137045, -89.736149, 30.163955, 29.870801)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orleans Parish (New Orleans), Louisiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Orleans",
+    "Orleans Parish",
+    "Louisiana",
+    "New Orleans",
+    "Mississippi River",
+    "Bayou Sauvage National Wildlife Refuge",
+    "Lake Pontchartrain"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:46Z",
+  "layer_id_s": "restricted-figgy:ed2574b2-3989-47ef-93c3-4f4f7848907a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cebe8063-1c95-481b-88ce-d596e48b289c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6904856-f865-47d9-bd30-9ec6f8f333fd/file/f3864316-e8a0-43a4-a78b-02ddbd04edf6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed2574b2-3989-47ef-93c3-4f4f7848907a/file/8736e656-8e8e-4f90-804b-1e3658f5fb39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed2574b2-3989-47ef-93c3-4f4f7848907a/file/01508f1e-319a-4fca-8a34-e04d0cc9e279\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

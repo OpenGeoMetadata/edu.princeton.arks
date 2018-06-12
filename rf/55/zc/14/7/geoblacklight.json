@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55zc147",
+  "layer_slug_s": "princeton-rf55zc147",
+  "uuid": "princeton-rf55zc147",
+  "dc_title_s": "Smith County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-95.619134, -94.985036, 32.687115, 32.059432)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Smith County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Smith",
+    "Smith County",
+    "Tyler"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:34:26Z",
+  "layer_id_s": "restricted-figgy:37c9cc99-c922-43d0-8318-f4c635cd241f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/12c42d6e-bafd-4b53-bdec-f7f53bf8245b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7c51d7aa-aea6-4b9d-8d91-f0fddfd3236b/file/63464862-0f28-4e71-9186-819066214745\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37c9cc99-c922-43d0-8318-f4c635cd241f/file/d5c4b832-b3f5-466f-9d09-6fddf59eacfe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37c9cc99-c922-43d0-8318-f4c635cd241f/file/08dd18e1-564f-43d9-b378-7ef13e8affd7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859k094",
+  "layer_slug_s": "princeton-ws859k094",
+  "uuid": "princeton-ws859k094",
+  "dc_title_s": "Monroe County, Florida roads, 2014",
+  "solr_geom": "ENVELOPE(-81.814851, -80.257435, 25.803988, 24.54418)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Monroe County, Florida, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Monroe County",
+    "Monroe",
+    "Florida Keys",
+    "Key West",
+    "Everglades",
+    "Everglades National Park",
+    "Big Cypress National Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:22Z",
+  "layer_id_s": "restricted-figgy:c1f06d73-6acd-4920-85fa-97792448b823",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1a9914ea-96a4-4e89-ada5-9456736a613d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f593702-ab68-4db9-8f77-4e25d03753c2/file/9b1951a1-8a59-4bd8-ba0a-5d601c100db2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1f06d73-6acd-4920-85fa-97792448b823/file/de01807f-9247-4f75-87fe-58635077442f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1f06d73-6acd-4920-85fa-97792448b823/file/31147977-48ea-42d3-9f43-463cb8c82913\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8623j211k",
+  "layer_slug_s": "princeton-8623j211k",
+  "uuid": "princeton-8623j211k",
+  "dc_title_s": "Richmond County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-80.074867, -79.459281, 35.188263, 34.802783)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Richmond County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Richmond",
+    "Richmond County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:14:27Z",
+  "layer_id_s": "restricted-figgy:ca9e40bb-e15d-422e-9de5-01b6ca82b499",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/413d4f9f-cea2-4719-8395-b5f14eb5c727\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/979e2c8e-87fd-4b28-a803-ea3ba1d72607/file/38060ca2-157b-4418-9393-a0e3d9d40829\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca9e40bb-e15d-422e-9de5-01b6ca82b499/file/8ea24da3-1042-407c-a740-7bab3c88eea7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca9e40bb-e15d-422e-9de5-01b6ca82b499/file/7a11c458-87e8-45e0-8356-eb4ae41f3b23\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

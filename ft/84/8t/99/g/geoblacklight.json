@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848t99g",
+  "layer_slug_s": "princeton-ft848t99g",
+  "uuid": "princeton-ft848t99g",
+  "dc_title_s": "Chelan County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-121.11981, -119.863751, 48.481349, 47.260847)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions in Chelan County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chelan",
+    "Chelan County",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:24:48Z",
+  "layer_id_s": "restricted-figgy:51cd4b4e-fd64-4373-bb90-62705d4baee7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/90a4400d-dfcc-4823-b0cb-12a76b06cc79\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/513d9501-f613-41d9-b413-67ee034bf7e6/file/d26bdc34-92b4-44d0-822b-75a6e6d4f62f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51cd4b4e-fd64-4373-bb90-62705d4baee7/file/3bbe2272-6c7a-4a31-bc3e-f40e252c0de8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51cd4b4e-fd64-4373-bb90-62705d4baee7/file/3bf5dc3a-0c2d-411a-ab4d-15479bb17957\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89db02t",
+  "layer_slug_s": "princeton-pn89db02t",
+  "uuid": "princeton-pn89db02t",
+  "dc_title_s": "Bastrop County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-97.649071, -97.024477, 30.419502, 29.786558)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bastrop County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Austin",
+    "Bastrop",
+    "Bastrop County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:23Z",
+  "layer_id_s": "restricted-figgy:40cdf145-b6c1-433e-8a92-afb29deb9631",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/30a1f0f4-4449-428b-9de8-87b57e8c4a82\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7760daaf-13c4-4de1-a167-6f7398b8bf97/file/d852f394-b703-447d-a33f-2b6c554f461f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40cdf145-b6c1-433e-8a92-afb29deb9631/file/9efc8ec9-fa95-4db9-85b5-1f15fb8d3881\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40cdf145-b6c1-433e-8a92-afb29deb9631/file/6756b471-2856-4659-bdf4-3b00162f2a6f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

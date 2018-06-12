@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xw42nc37m",
+  "layer_slug_s": "princeton-xw42nc37m",
+  "uuid": "princeton-xw42nc37m",
+  "dc_title_s": "Currituck County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-76.313287, -75.77236, 36.550591, 36.071714)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Currituck County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Currituck",
+    "Currituck County",
+    "North Carolina",
+    "Virginia Beach",
+    "Outer Banks"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:09:43Z",
+  "layer_id_s": "restricted-figgy:aabb764f-f9f9-4462-a860-78ee371f6830",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a74bd3c-6da8-44cc-9f92-56ee15142e39\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74292039-4238-4a57-b4dc-7c06319a7de2/file/dc505e58-0ae7-4d93-9ffc-815c431f2566\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aabb764f-f9f9-4462-a860-78ee371f6830/file/00ba5c6a-5df4-421f-b61f-0259306c71bf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aabb764f-f9f9-4462-a860-78ee371f6830/file/57107443-46e7-4d62-aa2c-b351ac8d81d3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

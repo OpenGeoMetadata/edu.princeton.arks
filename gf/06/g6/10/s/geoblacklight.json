@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g610s",
+  "layer_slug_s": "princeton-gf06g610s",
+  "uuid": "princeton-gf06g610s",
+  "dc_title_s": "Buchanan County, Iowa land parcels, 2011",
+  "solr_geom": "ENVELOPE(-92.08217, -91.597113, 42.643894, 42.296327)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Buchanan County, Iowa, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Buchanan",
+    "Buchanan County",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:03Z",
+  "layer_id_s": "restricted-figgy:67452198-91f6-4efc-8d48-331db553be18",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22a324aa-cc2f-44ae-9bc7-3ad8a9b569b7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bdd61c90-4f61-4dc7-aefb-6c0501cff635/file/ff8d2af8-cfe6-4f58-8e3d-d43f0a198afd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67452198-91f6-4efc-8d48-331db553be18/file/5b5b60a6-a3e4-4cdd-bcba-d4a03db63fab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67452198-91f6-4efc-8d48-331db553be18/file/0229556d-b6cd-4788-8097-c0f7d8576bf4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

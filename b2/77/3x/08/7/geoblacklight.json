@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2773x087",
+  "layer_slug_s": "princeton-b2773x087",
+  "uuid": "princeton-b2773x087",
+  "dc_title_s": "Texas Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-106.642301, -93.527587, 36.500087, 25.846098)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Texas Block Centroid Populations represents the population of the U.S. Census block centroids for Texas.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:50:06Z",
+  "layer_id_s": "restricted-figgy:bd0ae060-5230-4c16-b266-05f87ee5ac21",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5de358bd-d9db-4868-982d-1bf4e904df57\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09fc8647-2e08-43bb-aaf0-fa7e20f22b6c/file/585548da-b377-42a9-b7e1-b0417bf4f623\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd0ae060-5230-4c16-b266-05f87ee5ac21/file/d7090a40-863b-407c-8ab5-a9c7ab9553f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd0ae060-5230-4c16-b266-05f87ee5ac21/file/b2f011a6-6c4e-4745-904f-bdd59d98215b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

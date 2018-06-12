@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6108vc95g",
+  "layer_slug_s": "princeton-6108vc95g",
+  "uuid": "princeton-6108vc95g",
+  "dc_title_s": "Wisconsin Rivers 2002",
+  "solr_geom": "ENVELOPE(-92.88383, -87.04989, 47.034442, 42.493657)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Wisconsin Rivers represents streams and rivers within Wisconsin.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:16:38Z",
+  "layer_id_s": "restricted-figgy:d59730fb-5b12-4972-8b99-5f5220004a91",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c96f4b18-bbeb-4afe-98cd-5045df069ee0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4589f6d-0fca-4495-875e-7d2d3554741d/file/ee232121-d833-4044-ace9-34e2192af2c8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d59730fb-5b12-4972-8b99-5f5220004a91/file/b3263362-c5f1-42e5-8410-2a506555d0fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d59730fb-5b12-4972-8b99-5f5220004a91/file/2bb81b73-9399-4500-ac01-1491764f16e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

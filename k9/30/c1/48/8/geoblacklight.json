@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930c1488",
+  "layer_slug_s": "princeton-k930c1488",
+  "uuid": "princeton-k930c1488",
+  "dc_title_s": "Daniels County, Montana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-106.151932, -104.973292, 48.999723, 48.563113)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Daniels County, Montana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Daniels",
+    "Daniels County",
+    "Montana",
+    "Fort Peck Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:41Z",
+  "layer_id_s": "restricted-figgy:9d907a95-343c-4319-aba6-b36465d59f2f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/188f9893-6021-462a-8d32-34f5a44c2c51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e0a8481-e672-42bf-aa86-7381cc5b401a/file/f24ce7ec-b151-456d-a8bc-52cb32cb87bf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d907a95-343c-4319-aba6-b36465d59f2f/file/46712df5-2f5f-44f1-a4e5-af4e8f49f5b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d907a95-343c-4319-aba6-b36465d59f2f/file/24a0db04-5ecb-4294-971a-6ab033b863d7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

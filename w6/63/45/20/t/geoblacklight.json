@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w6634520t",
+  "layer_slug_s": "princeton-w6634520t",
+  "uuid": "princeton-w6634520t",
+  "dc_title_s": "Ukraine Karst Topography, 2004",
+  "solr_geom": "ENVELOPE(33.898334, 34.60986, 44.928612, 44.415417)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ukraine karst topography created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Karst Topography",
+    "geoscientificInformation",
+    "Karst"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:32Z",
+  "layer_id_s": "restricted-figgy:705995ee-d710-4956-90f3-7c69a1c04012",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cfbbc82f-2f79-4794-8215-e2410dd43837\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7ef6ade-caf6-42c0-9ebf-a9931632a178/file/e0e98eb1-5853-41cc-8e5d-1892f0323d16\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/705995ee-d710-4956-90f3-7c69a1c04012/file/e1a2c328-8291-43f6-a52e-3a40cfcf7cc3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/705995ee-d710-4956-90f3-7c69a1c04012/file/595802ba-f690-4344-ba42-7b4e0b7f54f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns064778x",
+  "layer_slug_s": "princeton-ns064778x",
+  "uuid": "princeton-ns064778x",
+  "dc_title_s": "Norway Municipality Boundaries, 2005",
+  "solr_geom": "ENVELOPE(-9.086359, 37.066794, 80.821188, 57.958555)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Norway created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:52Z",
+  "layer_id_s": "restricted-figgy:b0975cfe-b775-4d2a-8a57-2a80b00974a1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1d16acf8-4143-4e9d-84f6-1b9695bf5338\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7a8e863-abed-40ff-9234-e49793657af5/file/2735c519-31c6-4e02-8f5c-03850738aed2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0975cfe-b775-4d2a-8a57-2a80b00974a1/file/19acf58b-fea5-47d6-ba92-89ca565c71b5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0975cfe-b775-4d2a-8a57-2a80b00974a1/file/2cd90856-48f1-4051-ad75-669210606445\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

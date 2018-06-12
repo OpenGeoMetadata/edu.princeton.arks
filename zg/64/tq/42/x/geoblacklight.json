@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tq42x",
+  "layer_slug_s": "princeton-zg64tq42x",
+  "uuid": "princeton-zg64tq42x",
+  "dc_title_s": "Luzerne County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-76.323518, -75.600599, 41.425807, 40.902313)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Luzerne County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Luzerne",
+    "Luzerne County",
+    "Pennsylvania",
+    "Scranton"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:05Z",
+  "layer_id_s": "restricted-figgy:0691d2cb-ea15-43ba-8a61-0433b8113cf7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/418801d5-2a6c-450a-94d8-662f6367a9ae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7ffaaadb-a972-4f89-aead-70e3bd614c41/file/eb157aa3-db02-43f2-a511-d84538e3dd1c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0691d2cb-ea15-43ba-8a61-0433b8113cf7/file/9c5b50a4-9775-45a4-a3b6-ac3f274cc857\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0691d2cb-ea15-43ba-8a61-0433b8113cf7/file/fe5ae47b-b4fb-450a-addc-3f311ce7f4b1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

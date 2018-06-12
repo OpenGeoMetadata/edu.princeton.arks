@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207tr000",
+  "layer_slug_s": "princeton-r207tr000",
+  "uuid": "princeton-r207tr000",
+  "dc_title_s": "Portugal 3-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(-31.265842, -6.191056, 42.152591, 32.627685)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Portugal 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:07Z",
+  "layer_id_s": "restricted-figgy:7245e2a5-eeb8-4b44-990d-fc1b59ee0054",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2cc63f26-03cf-47a1-988f-4ea7d0bec3d8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0fe2121-71fa-41b5-babe-f0a3809befd1/file/1784f37b-1f57-4174-9859-426f7c1fa303\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7245e2a5-eeb8-4b44-990d-fc1b59ee0054/file/c16fd853-aaf1-49ef-a3fb-c62a34e542a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7245e2a5-eeb8-4b44-990d-fc1b59ee0054/file/5d27ca4c-5d14-412a-9e7b-be3801d6375b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

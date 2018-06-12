@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763850j",
+  "layer_slug_s": "princeton-w3763850j",
+  "uuid": "princeton-w3763850j",
+  "dc_title_s": "Ukraine Inundation Areas, 2004",
+  "solr_geom": "ENVELOPE(24.290277, 36.325584, 52.077965, 45.036667)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ukraine inundation areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inundation",
+    "Inland Waters",
+    "Inundation Areas",
+    "floods"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:15Z",
+  "layer_id_s": "restricted-figgy:0a07ec35-b1e3-440a-9e6b-21abd5e02c22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cfef962b-bb90-4872-83e2-dc4d8465d878\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e4420ce-f0dd-4e91-847e-ba262ca685af/file/cf3aaeef-90bd-4887-b46c-3fcc09a832b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a07ec35-b1e3-440a-9e6b-21abd5e02c22/file/3af34de7-d93e-4b42-bba8-97ec67b43697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a07ec35-b1e3-440a-9e6b-21abd5e02c22/file/607bdd2a-357f-4ce9-865b-9008e385c5fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

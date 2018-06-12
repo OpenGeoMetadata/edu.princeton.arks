@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930c1469",
+  "layer_slug_s": "princeton-k930c1469",
+  "uuid": "princeton-k930c1469",
+  "dc_title_s": "Warren County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.203429, -74.769425, 41.094457, 40.592268)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Warren County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Warren County",
+    "Warren",
+    "Delaware River",
+    "Delaware Water Gap",
+    "Lehigh Valley",
+    "Allentown"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:56Z",
+  "layer_id_s": "restricted-figgy:b8d9b4ce-f11d-4ed4-b41a-9b8b882b09c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bb40831f-5fde-41cc-b1a9-32f8f31abf54\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dff49f25-d3c2-4ace-bb52-b9f9e9331008/file/d12008c5-c018-4d3a-942e-05555a67fde2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8d9b4ce-f11d-4ed4-b41a-9b8b882b09c6/file/d794509b-dce8-4c67-91e0-602cf573a1e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8d9b4ce-f11d-4ed4-b41a-9b8b882b09c6/file/d3dc36b5-7203-4a89-b004-85568bdb8fc1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

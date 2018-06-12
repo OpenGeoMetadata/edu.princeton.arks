@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494986g",
+  "layer_slug_s": "princeton-fb494986g",
+  "uuid": "princeton-fb494986g",
+  "dc_title_s": "Yavapai County, Arizona land parcels, 2002",
+  "solr_geom": "ENVELOPE(-113.334359, -111.46054, 35.531142, 33.882469)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yavapai County, Arizona, 2002.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "Yavapai County"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:13:11Z",
+  "layer_id_s": "restricted-figgy:a08c53e2-120f-484f-87f8-c13760011d5f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5891c2e6-0856-41be-9772-266bc7c8aa71\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d85dd33-79f8-4e54-83a2-e53470f27b01/file/43e11c0e-5ece-4f3d-90b7-a18ba420f6a9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a08c53e2-120f-484f-87f8-c13760011d5f/file/d38c57a8-5f62-4272-89c4-229d0c27da2f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a08c53e2-120f-484f-87f8-c13760011d5f/file/22c113f3-f979-4c5a-96f0-2087c067381a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

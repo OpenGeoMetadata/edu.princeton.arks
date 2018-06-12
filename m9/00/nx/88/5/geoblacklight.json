@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m900nx885",
+  "layer_slug_s": "princeton-m900nx885",
+  "uuid": "princeton-m900nx885",
+  "dc_title_s": "Bradford County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.418691, -82.046158, 30.143224, 29.718368)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bradford County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bradford County",
+    "Bradford",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:50Z",
+  "layer_id_s": "restricted-figgy:a71f6456-676b-4857-9624-10912d181a4a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b8af88bb-7ddf-4222-a70b-903ef33687c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/12db1892-a787-4b43-8f4e-a3f84a26a133/file/398ab118-dc13-45b2-bcb8-a0bf5a59e8d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a71f6456-676b-4857-9624-10912d181a4a/file/8fe9b108-0455-4fe0-8417-d902fb1773d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a71f6456-676b-4857-9624-10912d181a4a/file/bdb7be90-f72b-4aab-9d7e-522890953c2f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

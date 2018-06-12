@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w9505188k",
+  "layer_slug_s": "princeton-w9505188k",
+  "uuid": "princeton-w9505188k",
+  "dc_title_s": "Ohio Rivers 2002",
+  "solr_geom": "ENVELOPE(-84.820159, -80.518793, 41.974081, 38.40373)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Ohio Rivers represents streams and rivers within Ohio.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:49:24Z",
+  "layer_id_s": "restricted-figgy:ba48adf4-9daa-42b0-8c03-1d465d4c2081",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8322a566-4d8f-46c3-a2e6-81d6eb2579a6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b4f4d6e-c368-4744-b08d-3fc44bd22097/file/1e571192-2600-43c4-b42f-6d2a82fce618\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba48adf4-9daa-42b0-8c03-1d465d4c2081/file/30f40f52-972c-431a-ae81-d3a749b1d631\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba48adf4-9daa-42b0-8c03-1d465d4c2081/file/1ac140f9-5bd4-433d-894d-c16f89441113\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

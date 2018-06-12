@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cp34z",
+  "layer_slug_s": "princeton-1831cp34z",
+  "uuid": "princeton-1831cp34z",
+  "dc_title_s": "St. Croix County, Wisconsin land parcels, 2010",
+  "solr_geom": "ENVELOPE(-92.800431, -92.135109, 45.210284, 44.857807)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in St. Croix County, Wisconsin, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "St. Croix",
+    "St. Croix County",
+    "Minneapolis"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:06Z",
+  "layer_id_s": "restricted-figgy:6cfb5a25-3706-4291-95c3-dd29001da965",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b1afe2d7-b70e-404a-ab4d-d8c8079cd40c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/29680311-3342-43b4-be9a-97f11608778c/file/2f828805-4d32-4ecb-a4dc-8c0c9998086e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cfb5a25-3706-4291-95c3-dd29001da965/file/68558ac3-7536-4954-a3fd-ca88b0579767\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cfb5a25-3706-4291-95c3-dd29001da965/file/7e5605c7-562c-4ecd-adae-ce749314d11a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

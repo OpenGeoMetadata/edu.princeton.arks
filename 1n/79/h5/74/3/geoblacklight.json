@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1n79h5743",
+  "layer_slug_s": "princeton-1n79h5743",
+  "uuid": "princeton-1n79h5743",
+  "dc_title_s": "Slovenia Karst Topography, 2005",
+  "solr_geom": "ENVELOPE(14.000389, 15.454972, 45.968693, 45.42134)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovenia karst topography created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Karst Topography",
+    "geoscientificInformation",
+    "Karst"
+  ],
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:17Z",
+  "layer_id_s": "restricted-figgy:f32e7599-b585-4e13-b97e-be0c8554e254",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b908c7cc-a083-44a2-a56c-ac25029cf827\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80fe4afd-b32b-4ee5-85ad-ed7814556601/file/066f1609-30a1-4774-bd16-d8ec1161ec3d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f32e7599-b585-4e13-b97e-be0c8554e254/file/c8e6da9f-95c0-4299-825c-24236148c9a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f32e7599-b585-4e13-b97e-be0c8554e254/file/40663a22-a102-4817-b33b-c8befb66b2df\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

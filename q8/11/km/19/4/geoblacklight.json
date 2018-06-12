@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q811km194",
+  "layer_slug_s": "princeton-q811km194",
+  "uuid": "princeton-q811km194",
+  "dc_title_s": "China Cities With Population From 70 Thousand To 100 Thousand, 2004",
+  "solr_geom": "ENVELOPE(77.25, 132.02, 50.63, 20.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes China cities with population between 70 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 70K"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:52Z",
+  "layer_id_s": "restricted-figgy:c2384bbf-4939-4804-a780-a874d377315b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/05e3f120-1567-45f6-8611-e39d8b243aca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e2383649-87f1-428c-8099-39d87df0282a/file/e25ab4da-c25e-446e-95e5-aed479bc9071\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2384bbf-4939-4804-a780-a874d377315b/file/e2f8e9dc-c100-4695-870c-f2757a8fbba1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2384bbf-4939-4804-a780-a874d377315b/file/062ea56d-7240-4551-87cc-a58425bec816\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

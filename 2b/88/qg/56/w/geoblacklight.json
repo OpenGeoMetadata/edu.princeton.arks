@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qg56w",
+  "layer_slug_s": "princeton-2b88qg56w",
+  "uuid": "princeton-2b88qg56w",
+  "dc_title_s": "Iredell County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-81.108047, -80.6932, 36.062641, 35.491355)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Iredell County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Iredell",
+    "Iredell County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:37:32Z",
+  "layer_id_s": "restricted-figgy:7ed6c264-946b-4f97-8140-73c4f41e444e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f3e38da3-e3c1-43e2-aa05-afddda238643\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/57bf1617-b62e-480c-bf55-49d26f933fc9/file/63252f66-d759-48bd-a374-eea6a029344c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ed6c264-946b-4f97-8140-73c4f41e444e/file/2a9b4956-19ef-4c00-b6a1-8e80cf5620f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ed6c264-946b-4f97-8140-73c4f41e444e/file/75fb717c-e992-4384-9f5d-be53ff79d61a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

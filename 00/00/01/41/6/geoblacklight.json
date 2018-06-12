@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/000001416",
+  "layer_slug_s": "princeton-000001416",
+  "uuid": "princeton-000001416",
+  "dc_title_s": "Louisiana ZIP Code Areas 2002",
+  "solr_geom": "ENVELOPE(-94.043286, -88.817478, 33.019481, 28.926478)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Louisiana ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-05-31T19:09:52Z",
+  "layer_id_s": "restricted-figgy:9b984606-728e-405c-83b0-d3b9908d6c41",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a1273982-aef9-4af1-9834-3c66d546225f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2573fd60-ab17-42e8-aecc-0432f6383320/file/81914ac3-d0c8-417e-8e4d-fa5e9897b2fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b984606-728e-405c-83b0-d3b9908d6c41/file/41e59898-06ae-4a7d-88cc-313de2d1c912\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b984606-728e-405c-83b0-d3b9908d6c41/file/a66556f7-d91f-4140-88cf-2372536c9c1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

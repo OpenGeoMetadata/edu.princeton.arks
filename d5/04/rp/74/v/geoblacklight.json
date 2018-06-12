@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp74v",
+  "layer_slug_s": "princeton-d504rp74v",
+  "uuid": "princeton-d504rp74v",
+  "dc_title_s": "Jefferson County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.683974, -85.201614, 38.914027, 38.585897)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson",
+    "Jefferson County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:52Z",
+  "layer_id_s": "restricted-figgy:d12aa904-114b-40f8-a8ab-bd821b3f69b7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/67c4b7b8-6c8b-4c64-8440-ca4d7f9f8228\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6f54808b-e149-4409-a5fe-c25d85ea51b7/file/7e2e947d-43fb-4c68-81e2-e77a251e9b3b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d12aa904-114b-40f8-a8ab-bd821b3f69b7/file/7089bd25-5f3b-47f0-8201-ebc00bd0e335\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d12aa904-114b-40f8-a8ab-bd821b3f69b7/file/cc93965e-c38f-4926-8bd3-2c361214cb79\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tz487",
+  "layer_slug_s": "princeton-9593tz487",
+  "uuid": "princeton-9593tz487",
+  "dc_title_s": "Pike County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.386648, -82.785857, 39.200621, 38.948222)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pike County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pike",
+    "Pike County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:02:58Z",
+  "layer_id_s": "restricted-figgy:3c226fbf-72ae-453d-8f9b-3036917a1c07",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/43f88709-863b-4bed-a0ec-8845cb736d6d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b7111ee6-f2af-4172-b826-7ee779936dab/file/01e92f5a-5bed-4f7c-a215-d7dbbfce49a9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c226fbf-72ae-453d-8f9b-3036917a1c07/file/6f94fc21-2732-4098-87b6-0a9e05781f4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c226fbf-72ae-453d-8f9b-3036917a1c07/file/b1a25a8c-8988-4d01-8e36-35efe49e7c9a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

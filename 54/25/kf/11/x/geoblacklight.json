@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kf11x",
+  "layer_slug_s": "princeton-5425kf11x",
+  "uuid": "princeton-5425kf11x",
+  "dc_title_s": "Fairfield County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-82.864266, -82.349625, 39.952082, 39.547379)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fairfield County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Fairfield",
+    "Fairfield County",
+    "Ohio",
+    "Columbus",
+    "Lancaster",
+    "Buckeye Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:43Z",
+  "layer_id_s": "restricted-figgy:fa8c064f-e2f2-4ce9-9fdd-d13fec307a95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/21e6205c-f3a3-4083-bdbd-21b0c4665466\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f72a3f26-288f-4e66-9f5e-4840290dbfcc/file/22214c13-0f49-4c24-b9ee-100cc25c605d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa8c064f-e2f2-4ce9-9fdd-d13fec307a95/file/01fef96f-d290-4d84-a26e-77dabf6b80ac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa8c064f-e2f2-4ce9-9fdd-d13fec307a95/file/fe0fa2d6-1c17-4519-a03c-c1ce115ce94f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

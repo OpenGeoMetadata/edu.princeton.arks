@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rx913r33f",
+  "layer_slug_s": "princeton-rx913r33f",
+  "uuid": "princeton-rx913r33f",
+  "dc_title_s": "West Virginia Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-82.644066, -77.724133, 40.63176, 37.20426)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "West Virginia Block Centroid Populations represents the population of the U.S. Census block centroids for West Virginia.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:49:41Z",
+  "layer_id_s": "restricted-figgy:fe658d5e-052a-44ba-8a30-8a0d4130edc0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b28e7e5a-4e39-431e-adaa-347d118b2e2b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0ef0d9be-d23b-443b-ba5b-5508458695b5/file/d384997d-ba83-4727-8cb3-6edc7de10a72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe658d5e-052a-44ba-8a30-8a0d4130edc0/file/705f8f7a-6f85-43fc-b6f2-5f744ccf1e38\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe658d5e-052a-44ba-8a30-8a0d4130edc0/file/252dbf66-4f6b-4e96-aba3-764f4bb845f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

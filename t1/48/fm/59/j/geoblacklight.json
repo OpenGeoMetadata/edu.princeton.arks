@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t148fm59j",
+  "layer_slug_s": "princeton-t148fm59j",
+  "uuid": "princeton-t148fm59j",
+  "dc_title_s": "Montgomery County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.614138, -80.173954, 37.368833, 36.981591)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Montgomery County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery",
+    "Montgomery County",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:42Z",
+  "layer_id_s": "restricted-figgy:e0214a02-44f1-4406-8649-adae45900058",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4f9a087-aafb-4344-b8f3-f36b360bb878\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7ca3c664-3e2e-4e24-87b3-92c1f0e197ed/file/81bc554a-f5cf-46ad-8af0-224129141c50\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0214a02-44f1-4406-8649-adae45900058/file/c12af7bc-f65a-49de-8b16-52bccd3ce83c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0214a02-44f1-4406-8649-adae45900058/file/a4efeb40-85a0-4f99-b999-9875d46087cc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

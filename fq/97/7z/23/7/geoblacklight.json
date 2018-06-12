@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fq977z237",
+  "layer_slug_s": "princeton-fq977z237",
+  "uuid": "princeton-fq977z237",
+  "dc_title_s": "Hamilton County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-83.309321, -82.645846, 30.634673, 30.317574)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hamilton County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Hamilton",
+    "Hamilton County",
+    "Suwannee River"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:38Z",
+  "layer_id_s": "restricted-figgy:1ed53f69-c53f-4b73-bbd2-548fcb226e57",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/317f0bba-4dde-481f-a9b4-8d6e83cb2465\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1c381ce3-5374-4731-a332-18dfdb05b876/file/40a8d2cf-8dea-4fdf-97cc-fa2b110fed51\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ed53f69-c53f-4b73-bbd2-548fcb226e57/file/0b88212b-28e0-4409-996d-bf7f1ae3b198\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ed53f69-c53f-4b73-bbd2-548fcb226e57/file/5800247c-fa33-4396-af71-795b900aed5c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

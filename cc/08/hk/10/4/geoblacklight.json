@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hk104",
+  "layer_slug_s": "princeton-cc08hk104",
+  "uuid": "princeton-cc08hk104",
+  "dc_title_s": "New York City Fire Divisions 2008",
+  "solr_geom": "ENVELOPE(-74.257233, -73.699214, 40.915808, 40.495972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The service area boundaries for New York City's fire companies.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "New York City Department of City Planning",
+  "dc_subject_sm": [
+    "Fire District",
+    "Fire Department",
+    "Fire Company",
+    "FDNY",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T02:49:24Z",
+  "layer_id_s": "restricted-figgy:4bc1f653-e72e-4032-943c-cdf1b6dfd90d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/387d46c0-7a4b-43fd-a386-bc7985912091\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e4bee25-5203-4ec2-9229-854fd6ea8527/file/12a7277e-41cf-41d7-b62d-a18d5e666d6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4bc1f653-e72e-4032-943c-cdf1b6dfd90d/file/130619c6-c574-458a-9301-3f03d7318c7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4bc1f653-e72e-4032-943c-cdf1b6dfd90d/file/57d6119b-95ed-4c44-bbaf-56160d33e61f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

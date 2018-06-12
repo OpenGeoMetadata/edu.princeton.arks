@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qg55d",
+  "layer_slug_s": "princeton-2b88qg55d",
+  "uuid": "princeton-2b88qg55d",
+  "dc_title_s": "Parke County, Indiana land parcels, 2012",
+  "solr_geom": "ENVELOPE(-87.433993, -87.261443, 39.952852, 39.782624)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Parke County, Indiana, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Parke",
+    "Parke County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:17:01Z",
+  "layer_id_s": "restricted-figgy:121dc989-020c-4581-b3f3-3fd8e33967ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d0892078-58ab-44af-b1ca-689307850c41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e93addae-0469-4ce4-b815-44fb48bcf2a9/file/30512aef-cdba-42e1-ae55-174c2c105ca9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/121dc989-020c-4581-b3f3-3fd8e33967ab/file/102ac84e-d1d3-4716-a675-34aaa0d2a12d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/121dc989-020c-4581-b3f3-3fd8e33967ab/file/e39dbfd4-6f63-4045-90bb-7e3d007a4313\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

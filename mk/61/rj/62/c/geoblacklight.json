@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mk61rj62c",
+  "layer_slug_s": "princeton-mk61rj62c",
+  "uuid": "princeton-mk61rj62c",
+  "dc_title_s": "Panama Major Roads, 1997",
+  "solr_geom": "ENVELOPE(-82.855461, -77.669083, 9.449406, 7.256108)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Panama major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Panama"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:41Z",
+  "layer_id_s": "restricted-figgy:bccce589-4d55-4667-b11c-3ff6206aaa37",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/05a6a369-30f6-4819-9590-66f2f715b4a4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fa1f0e98-1e08-4533-a6a6-cd0f48e23540/file/fb51540f-b596-417b-a71d-a56f670a4991\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bccce589-4d55-4667-b11c-3ff6206aaa37/file/eb7331d5-2baa-4e0f-a8ff-77ee0c182a3c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bccce589-4d55-4667-b11c-3ff6206aaa37/file/92f674c0-e773-48d2-bda9-bf54ce4c216c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

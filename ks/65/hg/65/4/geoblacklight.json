@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg654",
+  "layer_slug_s": "princeton-ks65hg654",
+  "uuid": "princeton-ks65hg654",
+  "dc_title_s": "Worcester County, Massachusetts land parcels, 2011",
+  "solr_geom": "ENVELOPE(-72.288559, -71.47777, 42.721549, 42.017274)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Worcester County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Worcester",
+    "Worcester County",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:22Z",
+  "layer_id_s": "restricted-figgy:cf7d5490-5233-4232-8788-02c2bcce2351",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/880a5ea0-76fa-42ad-a602-6c97ae9c052d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/157cc3eb-58f8-4b1a-94d8-b039ea43b4e5/file/efe368d7-dbb7-491a-b001-6aec5948449f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf7d5490-5233-4232-8788-02c2bcce2351/file/5495a142-ba49-4515-8cbd-d80f61d7b231\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf7d5490-5233-4232-8788-02c2bcce2351/file/97198bce-e6af-4f6b-8b90-cd0a9325e00b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

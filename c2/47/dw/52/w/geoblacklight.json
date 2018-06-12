@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dw52w",
+  "layer_slug_s": "princeton-c247dw52w",
+  "uuid": "princeton-c247dw52w",
+  "dc_title_s": "Holmes County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.431897, -89.748598, 33.374054, 32.879956)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Holmes County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Holmes County",
+    "Holmes",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:37Z",
+  "layer_id_s": "restricted-figgy:05a42f3c-1d25-43a5-bc46-f8fd6c470eb1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cf044141-8814-423a-a6be-0be55ad8126c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b26b239c-3966-466c-ab0e-5c4015c73063/file/0999e54a-8eb1-43be-9d2e-178b61fb39b4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/05a42f3c-1d25-43a5-bc46-f8fd6c470eb1/file/a60508d8-3bc6-4963-b724-b7f7442c0397\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/05a42f3c-1d25-43a5-bc46-f8fd6c470eb1/file/44463a7b-3dff-491c-b289-5ba53a3912e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

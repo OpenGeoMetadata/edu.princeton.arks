@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g1293",
+  "layer_slug_s": "princeton-x920g1293",
+  "uuid": "princeton-x920g1293",
+  "dc_title_s": "Johnson County, Iowa roads, 2010",
+  "solr_geom": "ENVELOPE(-91.834039, -91.365909, 41.861992, 41.423323)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Johnson County, Iowa, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Johnson County",
+    "Johnson",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:48:57Z",
+  "layer_id_s": "restricted-figgy:25443d00-7a79-485c-b1a2-8066233251f4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a03f365-5b00-45fa-9aa4-e3f08d3065af\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a409181-d0a0-44b7-965f-935cf85c6cb1/file/e3cb3c12-70e2-4baa-ae16-286b9b51c9b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/25443d00-7a79-485c-b1a2-8066233251f4/file/5c59c337-8a6a-4bf7-b25b-24f23f075bb6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/25443d00-7a79-485c-b1a2-8066233251f4/file/2dafb2e5-43c6-4b6f-8c5a-e8bde8f88af9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

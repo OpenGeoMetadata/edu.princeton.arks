@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg68k",
+  "layer_slug_s": "princeton-ks65hg68k",
+  "uuid": "princeton-ks65hg68k",
+  "dc_title_s": "Kings County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.041901, -73.833518, 40.739127, 40.56954)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kings County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kings County",
+    "Kings",
+    "New York",
+    "New York City",
+    "Brooklyn",
+    "Coney Island"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:37Z",
+  "layer_id_s": "restricted-figgy:e3f36cd1-873e-4a6a-9dcd-a410f975b283",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f2930f1e-5396-48b0-b7ba-26919e542163\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d4f49f5-dcd4-4b61-9d90-0094a9820d0a/file/4c952e46-6861-4767-b33f-622a20975d4a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3f36cd1-873e-4a6a-9dcd-a410f975b283/file/f891f48a-ea76-400b-a7c8-5fb8e0340954\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3f36cd1-873e-4a6a-9dcd-a410f975b283/file/7c88b456-125f-40d7-852b-29d47963c237\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

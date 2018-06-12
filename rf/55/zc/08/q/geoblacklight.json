@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55zc08q",
+  "layer_slug_s": "princeton-rf55zc08q",
+  "uuid": "princeton-rf55zc08q",
+  "dc_title_s": "Prairie County, Montana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-106.086688, -104.603522, 47.181593, 46.540389)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Prairie County, Montana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Prairie",
+    "Prairie County",
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:50Z",
+  "layer_id_s": "restricted-figgy:1cc8d2f2-8d1b-4437-8110-d942a1ef9258",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3bb301f1-ce84-4fc0-9a3a-ea29a06e9085\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd89367a-8c36-41ff-b6b9-ad9942fba5fc/file/af7fdff4-d21c-40f9-a7f3-28a88b00197b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1cc8d2f2-8d1b-4437-8110-d942a1ef9258/file/1cc423f7-bcdc-49f2-8bc1-5d93f95ed3b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1cc8d2f2-8d1b-4437-8110-d942a1ef9258/file/c2d14e76-3dba-4416-a06a-85dbe4d3b9fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

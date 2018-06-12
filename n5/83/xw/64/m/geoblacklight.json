@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xw64m",
+  "layer_slug_s": "princeton-n583xw64m",
+  "uuid": "princeton-n583xw64m",
+  "dc_title_s": "Netherlands Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(4.32388, 6.904422, 53.20777, 50.85583)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Netherlands cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:20Z",
+  "layer_id_s": "restricted-figgy:af00d492-4ad7-4d04-a024-77913b901436",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6aef5b1d-5668-447f-b821-df74db03c15d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/86d554b4-9666-45fe-be82-958c6f117015/file/3b877582-0e09-43fd-b419-8e2ab061d606\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af00d492-4ad7-4d04-a024-77913b901436/file/7086d626-50d2-4ada-bec6-73c48a33c22f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af00d492-4ad7-4d04-a024-77913b901436/file/3a11af03-4214-44f3-877f-4e307f044c9b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

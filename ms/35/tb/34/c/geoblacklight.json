@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ms35tb34c",
+  "layer_slug_s": "princeton-ms35tb34c",
+  "uuid": "princeton-ms35tb34c",
+  "dc_title_s": "New Mexico Tracts 2002",
+  "solr_geom": "ENVELOPE(-109.050173, -103.001965, 37.000294, 31.332172)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New Mexico Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New Mexico.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:44:23Z",
+  "layer_id_s": "restricted-figgy:cf48ee26-7c61-48a3-84c7-8f083254945b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8ab536d0-88c7-4976-a0bd-3c373160e6fe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bc7b3ddd-45ba-408e-b69d-278293f2f925/file/7c6de4ac-d9f0-4e49-b0c3-4b83cccc58cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf48ee26-7c61-48a3-84c7-8f083254945b/file/416296d9-f5ed-4409-aac2-8149e1a5ee40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf48ee26-7c61-48a3-84c7-8f083254945b/file/a48a59f2-97da-4b3b-b234-de7dcab5382a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

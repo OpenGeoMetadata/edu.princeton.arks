@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55zc166",
+  "layer_slug_s": "princeton-rf55zc166",
+  "uuid": "princeton-rf55zc166",
+  "dc_title_s": "Fremont County, Wyoming land parcels, 2011",
+  "solr_geom": "ENVELOPE(-110.054711, -107.501196, 44.011727, 42.261388)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fremont County , Wyoming , 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fremont",
+    "Fremont County",
+    "Wyoming"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:31Z",
+  "layer_id_s": "restricted-figgy:be7d1bfe-2720-41d6-9c2d-de65844e33b2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/064b1a2c-2954-4e83-b429-6b09f918b064\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/716ef12e-7ced-4700-b442-423dcc10edc2/file/a1d203df-8e26-4c48-ad0d-f270bd7f60ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be7d1bfe-2720-41d6-9c2d-de65844e33b2/file/9f43c2cf-a45d-486e-8d91-e02d28690568\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be7d1bfe-2720-41d6-9c2d-de65844e33b2/file/3281d857-e8c3-43cf-9c7f-898fc7aa6933\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

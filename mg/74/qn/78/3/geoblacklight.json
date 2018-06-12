@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mg74qn783",
+  "layer_slug_s": "princeton-mg74qn783",
+  "uuid": "princeton-mg74qn783",
+  "dc_title_s": "France Major Lighthouses, 2005",
+  "solr_geom": "ENVELOPE(-5.154139, 1.908861, 50.991501, 46.047085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes major lighthouses of France created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "lighthouse",
+    "Structures",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:14Z",
+  "layer_id_s": "restricted-figgy:92e2ed95-4a49-4456-829f-ae56b641b08b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b4c8d96a-e461-4a3c-91fa-5b2904208186\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a29c5cb-5244-4286-a69d-803fde2392ac/file/8a57218d-3f45-47df-94cb-1dab2d4b3d21\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92e2ed95-4a49-4456-829f-ae56b641b08b/file/9c60a36e-09ab-4472-8a9a-8dcbde033507\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92e2ed95-4a49-4456-829f-ae56b641b08b/file/27a54b53-a43f-4630-9fcd-a40a02026b29\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

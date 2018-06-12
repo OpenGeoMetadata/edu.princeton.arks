@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n296x252s",
+  "layer_slug_s": "princeton-n296x252s",
+  "uuid": "princeton-n296x252s",
+  "dc_title_s": "Spokane County, Washington land parcels, 2008",
+  "solr_geom": "ENVELOPE(-117.823698, -117.039878, 48.047734, 47.259233)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Spokane County, Washington, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Spokane",
+    "Spokane County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:07Z",
+  "layer_id_s": "restricted-figgy:de03e62d-f162-43d4-8c65-22d7cd1998b9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c41a5e30-4e5e-410f-b4f6-456f8363895e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/058736f3-0d58-4385-9a3d-5f78790957d3/file/35dcef30-e072-4258-8ecf-d001b8fd7f15\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/de03e62d-f162-43d4-8c65-22d7cd1998b9/file/7a5c8c6c-584b-465b-b2f9-671a1afdb2e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/de03e62d-f162-43d4-8c65-22d7cd1998b9/file/bfeff613-8f0a-4c57-980c-b60172933206\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

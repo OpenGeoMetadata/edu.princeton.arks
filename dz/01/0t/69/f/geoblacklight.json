@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010t69f",
+  "layer_slug_s": "princeton-dz010t69f",
+  "uuid": "princeton-dz010t69f",
+  "dc_title_s": "Webb County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-100.148919, -98.796812, 28.212012, 27.260004)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Webb County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Webb",
+    "Webb County",
+    "Texas",
+    "Laredo",
+    "Rio Grande"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-06-06T23:58:03Z",
+  "layer_id_s": "restricted-figgy:0b4e4203-c615-4c99-af48-799b7c9f6e13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3427a1e2-c896-47c6-93dc-3f93239f56da\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/681f89ea-eaee-4259-ac92-ac5d10258c63/file/9fad58e7-303a-447a-b491-6e93ffd9a43d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b4e4203-c615-4c99-af48-799b7c9f6e13/file/96c76db8-9640-4568-b7ee-92d9c8b6691c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b4e4203-c615-4c99-af48-799b7c9f6e13/file/9c31915e-b838-4521-a69b-50cd018ecb53\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

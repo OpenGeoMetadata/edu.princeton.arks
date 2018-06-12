@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hd190",
+  "layer_slug_s": "princeton-t722hd190",
+  "uuid": "princeton-t722hd190",
+  "dc_title_s": "Lorain County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.348175, -81.87696, 41.515741, 41.063578)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lorain County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lorain",
+    "Lorain County",
+    "Ohio",
+    "Lake Erie",
+    "Cleveland",
+    "Oberlin College"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:50Z",
+  "layer_id_s": "restricted-figgy:0fe542f0-174b-46ac-8e0d-09eb91970fc5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a0bbb39-34ff-41ab-9b8a-aa78e5923d79\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3ee51b5-8b28-4e4e-b547-fd9fd422ecb0/file/f1f2384c-5548-4228-863c-a0896a594941\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fe542f0-174b-46ac-8e0d-09eb91970fc5/file/e4b997b9-b6be-4d9c-b36e-a8213cfb86f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fe542f0-174b-46ac-8e0d-09eb91970fc5/file/ff12277b-25a5-4f84-b942-265185fd9ea0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

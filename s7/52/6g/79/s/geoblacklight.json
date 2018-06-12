@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526g79s",
+  "layer_slug_s": "princeton-s7526g79s",
+  "uuid": "princeton-s7526g79s",
+  "dc_title_s": "Gilpin County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.700171, -105.39327, 39.938457, 39.74642)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gilpin County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Gilpin",
+    "Gilpin County",
+    "Denver"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:23:33Z",
+  "layer_id_s": "restricted-figgy:91f4c9c1-3821-45df-ba87-ed62ba214dac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1aa0eb78-9a56-4ffc-b09a-54dba6b62023\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8bd368d7-a9dc-4870-88f8-fb9459cd564a/file/5b684eaa-ddb3-461d-b059-8646f352da28\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91f4c9c1-3821-45df-ba87-ed62ba214dac/file/6e4535df-e4b8-4368-ae0d-671c34176e3d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91f4c9c1-3821-45df-ba87-ed62ba214dac/file/7153fb74-684d-4e4d-a3ea-dce86939abb5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

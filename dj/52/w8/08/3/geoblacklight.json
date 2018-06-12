@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dj52w8083",
+  "layer_slug_s": "princeton-dj52w8083",
+  "uuid": "princeton-dj52w8083",
+  "dc_title_s": "Austin County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.622156, -95.870157, 30.096743, 29.494132)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Austin County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Austin",
+    "Austin County",
+    "Texas",
+    "Houston"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:06Z",
+  "layer_id_s": "restricted-figgy:a2097fcc-055d-4311-aefd-59e13c10dfee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ac1b617-95bc-482e-9d03-d20438487605\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e565b7cb-fb3c-43ac-bd3d-1de1e21b6cb2/file/706e3d2c-961a-4fc3-b1af-66e58689bbeb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2097fcc-055d-4311-aefd-59e13c10dfee/file/c4ad7e61-d02d-4490-bc1f-410f4f2bdc17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2097fcc-055d-4311-aefd-59e13c10dfee/file/bf0a3db5-5888-45d0-9879-fc793773ae63\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

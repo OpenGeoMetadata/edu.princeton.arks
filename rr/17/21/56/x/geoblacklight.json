@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rr172156x",
+  "layer_slug_s": "princeton-rr172156x",
+  "uuid": "princeton-rr172156x",
+  "dc_title_s": "Dallas County, Iowa roads, 2005",
+  "solr_geom": "ENVELOPE(-94.281873, -93.789423, 41.864258, 41.502233)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Dallas County, Iowa, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Dallas County",
+    "Dallas",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T21:57:57Z",
+  "layer_id_s": "restricted-figgy:dcc73ffe-cdf5-4c75-bf58-cb2f5b88dc8a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8facd01-a6aa-4d8b-b9bd-e99c7b2abbbb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b040fba2-089a-4320-8e4b-2e55b33ae7b3/file/9071ca89-534a-47fa-b006-e6c0ee7db829\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcc73ffe-cdf5-4c75-bf58-cb2f5b88dc8a/file/4c2f47ce-98e4-4984-8cca-3cfaba9c2403\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcc73ffe-cdf5-4c75-bf58-cb2f5b88dc8a/file/cdf1a07b-7028-4dbd-9110-bf84d976d4d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

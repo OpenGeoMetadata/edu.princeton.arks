@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5q47rs22w",
+  "layer_slug_s": "princeton-5q47rs22w",
+  "uuid": "princeton-5q47rs22w",
+  "dc_title_s": "Pamlico County, North Carolina roads, 2014",
+  "solr_geom": "ENVELOPE(-76.982427, -76.493208, 35.330197, 34.965807)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Pamlico County, North Carolina, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Pamlico",
+    "Pamlico County",
+    "North Carolina",
+    "New Bern"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:26Z",
+  "layer_id_s": "restricted-figgy:c7b053bb-af55-48b5-a44b-b4c7c143a8a0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3e10da5d-d1bc-476f-90bf-15a92dd8e4aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8aff39ba-9d91-4357-99ab-c9bf2cbee188/file/bdd8a58c-1bef-4204-a9aa-03d75f41f1ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7b053bb-af55-48b5-a44b-b4c7c143a8a0/file/c7687ddd-1228-4212-bf47-a5ade0a05809\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7b053bb-af55-48b5-a44b-b4c7c143a8a0/file/4f141832-d23b-409d-8aa0-0097e709c225\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

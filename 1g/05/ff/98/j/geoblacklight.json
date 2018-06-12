@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1g05ff98j",
+  "layer_slug_s": "princeton-1g05ff98j",
+  "uuid": "princeton-1g05ff98j",
+  "dc_title_s": "Erie County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.902822, -82.34243, 41.624171, 41.283946)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Erie County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Erie",
+    "Erie County",
+    "Ohio",
+    "Sandusky",
+    "Lake Erie",
+    "Kelleys Island"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:07Z",
+  "layer_id_s": "restricted-figgy:52575b2e-1034-4981-8440-b5d51baa736c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5c43eb06-5069-45e6-a24c-45ceb7148eb9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b0738946-6b1a-4fc9-9705-d2f9e1ed8e79/file/dbcd4d38-3506-46c1-b66f-d3466c8dceeb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/52575b2e-1034-4981-8440-b5d51baa736c/file/32155901-5987-4a3c-b313-5bf10fc6a5c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/52575b2e-1034-4981-8440-b5d51baa736c/file/2b22e07f-0314-4058-814b-40dbbc2dc46e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

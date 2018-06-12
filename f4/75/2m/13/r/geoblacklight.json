@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f4752m13r",
+  "layer_slug_s": "princeton-f4752m13r",
+  "uuid": "princeton-f4752m13r",
+  "dc_title_s": "Fresno County, California roads, 2009",
+  "solr_geom": "ENVELOPE(-120.886751, -118.587205, 37.369629, 35.995724)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fresno County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Fresno",
+    "Fresno County",
+    "Sierra Nevada"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:54Z",
+  "layer_id_s": "restricted-figgy:113848ca-af2e-4ee4-90bd-311fff2a23f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/62f0940d-f9b3-4e9c-b2d7-53196b2f0902\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/825cf13c-8d08-4345-a78c-3dc75f5e91a6/file/45639a18-3ac3-4355-bf00-8c61ccdf7900\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/113848ca-af2e-4ee4-90bd-311fff2a23f7/file/5d7c03fc-803e-4aed-a41a-40dc8768c2e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/113848ca-af2e-4ee4-90bd-311fff2a23f7/file/7c9139b3-4f82-4539-a99e-135ef49a8081\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

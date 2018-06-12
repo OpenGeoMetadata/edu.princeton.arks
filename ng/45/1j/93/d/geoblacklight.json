@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ng451j93d",
+  "layer_slug_s": "princeton-ng451j93d",
+  "uuid": "princeton-ng451j93d",
+  "dc_title_s": "New Hampshire Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-72.554791, -70.613124, 45.284907, 42.698122)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New Hampshire Block Centroid Populations represents the population of the U.S. Census block centroids for New Hampshire.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New Hampshire"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:45:08Z",
+  "layer_id_s": "restricted-figgy:ddc6e4e7-e6cb-46b0-9eda-037aa34b6bc2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/27fad2e1-fa03-472c-ba67-2d6d46907450\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a075c26-fa93-4ff3-8825-ffd03cc52049/file/575cb047-ab1f-4359-8780-a023f5c002c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddc6e4e7-e6cb-46b0-9eda-037aa34b6bc2/file/245ec3ba-a41d-4eb2-ba0a-3f69b41bcf7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddc6e4e7-e6cb-46b0-9eda-037aa34b6bc2/file/bdfd427f-f053-464b-8b54-4e38d85ec16c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

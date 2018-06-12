@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tt301",
+  "layer_slug_s": "princeton-hm50tt301",
+  "uuid": "princeton-hm50tt301",
+  "dc_title_s": "Greece Cities With Population 10 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(19.66036, 28.17275, 41.667694, 34.854778)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greece cities with population 10 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:12Z",
+  "layer_id_s": "restricted-figgy:96081267-6b66-49e1-82e0-102aba028535",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eebd7c3b-b5b9-429a-bca6-2604b009a790\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/308682b7-be9b-47f9-94bb-c3a4e366837f/file/1818f280-febb-45f9-ab8d-a79ce3339bc9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/96081267-6b66-49e1-82e0-102aba028535/file/ee175508-926b-4df0-8eec-3cb6f0e10f79\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/96081267-6b66-49e1-82e0-102aba028535/file/f1281b53-5929-4c5b-bd80-fb9011cf46fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

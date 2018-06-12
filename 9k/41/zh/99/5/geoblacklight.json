@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9k41zh995",
+  "layer_slug_s": "princeton-9k41zh995",
+  "uuid": "princeton-9k41zh995",
+  "dc_title_s": "Angelina County, Texas land parcels, 2005",
+  "solr_geom": "ENVELOPE(-95.005277, -94.128006, 31.52698, 31.026069)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Angelina County, Texas, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Angelina",
+    "Angelina County"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-05T01:11:32Z",
+  "layer_id_s": "restricted-figgy:ab7e4509-fc8b-4209-af6a-e57523ca1041",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b4f06c18-5da7-4f08-9dec-39296b8b591d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e976363-99ca-4779-99d4-b9215ccfe660/file/bdb5f063-900e-4d53-8f00-d9b0375ad1e0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab7e4509-fc8b-4209-af6a-e57523ca1041/file/10fdf5ab-fbd7-40c2-923f-8f8f5b41eefd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab7e4509-fc8b-4209-af6a-e57523ca1041/file/40b5c337-aefb-4d24-a769-35b7a393254a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

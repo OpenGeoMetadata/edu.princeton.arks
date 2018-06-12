@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7w62fc68z",
+  "layer_slug_s": "princeton-7w62fc68z",
+  "uuid": "princeton-7w62fc68z",
+  "dc_title_s": "Grant County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.864752, -85.444417, 40.653685, 40.378373)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grant County, land parcels, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Grant County",
+    "Grant",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:17Z",
+  "layer_id_s": "restricted-figgy:ff0832d4-915d-4d55-afde-2d56540db553",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e305a213-ee1f-41ce-8b4c-741d3856d8f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e3c8a199-f7ca-4c61-b389-81cd73875039/file/e7d4f1cf-92bd-46b7-94b0-f56a60d3f30e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff0832d4-915d-4d55-afde-2d56540db553/file/e46d7c6a-7f38-41bd-a690-dadcb6e85f59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff0832d4-915d-4d55-afde-2d56540db553/file/9297eedd-8ad3-41d3-bc56-caa3c53aba1b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

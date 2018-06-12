@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w333p",
+  "layer_slug_s": "princeton-vd66w333p",
+  "uuid": "princeton-vd66w333p",
+  "dc_title_s": "Harrison County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.339948, -80.865524, 40.433508, 40.159571)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Harrison County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Harrison",
+    "Harrison County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:20Z",
+  "layer_id_s": "restricted-figgy:b4e9b8ae-ab4a-46a4-af12-68602d0e7828",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/82b299cc-a20a-476e-828c-71ae2a39cff9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e5dd80ba-473f-4549-b430-02f6a3eb8865/file/8d92b159-dd89-405d-9c61-d7693c04eae8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4e9b8ae-ab4a-46a4-af12-68602d0e7828/file/ea97eecb-0210-4052-a015-9528bdfd8a55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4e9b8ae-ab4a-46a4-af12-68602d0e7828/file/5c9f6cab-291f-4ee6-ad29-640f4cc0cc89\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xt187",
+  "layer_slug_s": "princeton-vm40xt187",
+  "uuid": "princeton-vm40xt187",
+  "dc_title_s": "Missouri Rivers 2002",
+  "solr_geom": "ENVELOPE(-95.71148, -89.130399, 40.606758, 35.995745)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Missouri Rivers represents streams and rivers within Missouri.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Missouri"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:17:03Z",
+  "layer_id_s": "restricted-figgy:cabc3565-5e8a-4da0-8096-bfb52e05603d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c54ef307-a378-4e4d-a501-f2d40171aa95\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/77553a60-f97c-470b-b906-7704debfe96f/file/0df388bc-0739-4c6a-9947-fd41547b2fa8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cabc3565-5e8a-4da0-8096-bfb52e05603d/file/508df478-5139-49ad-b272-ed2e0034591a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cabc3565-5e8a-4da0-8096-bfb52e05603d/file/b0ad9716-b097-4bf9-bbd0-b209181ce84a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

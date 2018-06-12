@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6m311s656",
+  "layer_slug_s": "princeton-6m311s656",
+  "uuid": "princeton-6m311s656",
+  "dc_title_s": "Rockland County, New York roads, 2014",
+  "solr_geom": "ENVELOPE(-74.233034, -73.8947, 41.320021, 41.000978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Rockland County, New York, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Rockland",
+    "Rockland County",
+    "Hudson Valley"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:50:08Z",
+  "layer_id_s": "restricted-figgy:2fd404a9-f5a3-4532-82a0-9d883b7f23f5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f3494b60-96b1-4ab1-b3a9-a385b0b96067\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c00d864-bb23-42b2-b6a0-60072cf59e55/file/29e337a1-9a74-4085-941a-f5787b3d76d7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fd404a9-f5a3-4532-82a0-9d883b7f23f5/file/40bc1990-e8b8-4359-b4ba-ea139bfe5a5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fd404a9-f5a3-4532-82a0-9d883b7f23f5/file/081b0949-30ef-4e62-999c-4707ea85fe2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

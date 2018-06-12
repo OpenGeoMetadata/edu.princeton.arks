@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq489",
+  "layer_slug_s": "princeton-3197xq489",
+  "uuid": "princeton-3197xq489",
+  "dc_title_s": "Perry County, Tennessee land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.041797, -87.648538, 35.840726, 35.424731)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Perry County, Tennessee, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Perry",
+    "Perry County",
+    "Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:12Z",
+  "layer_id_s": "restricted-figgy:ffbe8930-65d1-473a-8742-2138e43bf7f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7ba1ba60-e27f-4f55-a989-de3de0348da6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/472f97db-d78b-47fe-9d89-15a87f84cab1/file/28751652-5039-47cd-8bd5-e6c92dad2ee1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffbe8930-65d1-473a-8742-2138e43bf7f6/file/918e63b5-9f95-47bf-8409-ccdf9d1eb2cc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffbe8930-65d1-473a-8742-2138e43bf7f6/file/d507d6b6-37b7-4e79-b3a8-1885aa6ff426\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

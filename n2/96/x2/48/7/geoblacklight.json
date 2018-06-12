@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n296x2487",
+  "layer_slug_s": "princeton-n296x2487",
+  "uuid": "princeton-n296x2487",
+  "dc_title_s": "Kenai Peninsula Borough, Alaska land parcels, 2012",
+  "solr_geom": "ENVELOPE(-154.698671, -148.562233, 61.426239, 58.652747)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kenai Peninsula Borough, Alaska, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kenai",
+    "Kenai Peninsula",
+    "Alaska",
+    "Kenai Peninsula Borough",
+    "Chugach National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T21:57:08Z",
+  "layer_id_s": "restricted-figgy:bbcf8557-0222-4ccd-a90a-cb85e96bf2fc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b1e705a8-c8d6-4ba5-8515-499de2bff9fb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/490580b8-0b1f-4ea2-a301-1d446f25ae4e/file/ea295a44-5114-4007-a21b-a340fcf69747\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbcf8557-0222-4ccd-a90a-cb85e96bf2fc/file/bd53411e-c8a9-4b2d-80a4-a180348ffc65\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbcf8557-0222-4ccd-a90a-cb85e96bf2fc/file/8ff831b3-f9dc-4ff9-9560-638954833ba3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

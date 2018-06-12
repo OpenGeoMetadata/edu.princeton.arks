@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kp78gk83f",
+  "layer_slug_s": "princeton-kp78gk83f",
+  "uuid": "princeton-kp78gk83f",
+  "dc_title_s": "Waukesha County, Wisconsin land parcels, 2005",
+  "solr_geom": "ENVELOPE(-88.542085, -88.063398, 43.196043, 42.841961)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Waukesha County, Wisconsin, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Waukesha County",
+    "Waukesha",
+    "Milwaukee"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-05T00:36:20Z",
+  "layer_id_s": "restricted-figgy:fe4a5525-e988-45df-a6e3-377887cedf82",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9022049-3f0d-401d-a47b-19c42d487733\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/17719fc6-bff4-4e7d-872c-cfa9c0d190af/file/f09aba53-0f04-4da9-9735-6b749135d0b2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe4a5525-e988-45df-a6e3-377887cedf82/file/6b99d41e-f5ff-4743-b96f-1eb149b80966\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe4a5525-e988-45df-a6e3-377887cedf82/file/048dad80-41ce-4128-bf0c-e46dc401765b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

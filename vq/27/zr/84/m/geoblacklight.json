@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zr84m",
+  "layer_slug_s": "princeton-vq27zr84m",
+  "uuid": "princeton-vq27zr84m",
+  "dc_title_s": "Mono County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-119.650505, -117.831802, 38.705595, 37.462642)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mono County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mono",
+    "Mono County",
+    "California",
+    "Yosemite National Park",
+    "June Lake",
+    "Mono Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:08Z",
+  "layer_id_s": "restricted-figgy:fe7e682d-31f2-449b-b353-c49070c948ed",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/afb47b22-1ea7-4661-87ff-69262c335b61\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f575052-b7f0-4f30-88d7-afbbed36b774/file/19a5f593-6eff-45d5-ae54-7c39a8c432bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe7e682d-31f2-449b-b353-c49070c948ed/file/3d6aa025-beb9-40b8-a9dd-67960273ced0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe7e682d-31f2-449b-b353-c49070c948ed/file/f22072f2-dfad-4bbc-8d5f-1203120fa98e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

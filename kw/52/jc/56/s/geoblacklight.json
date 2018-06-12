@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kw52jc56s",
+  "layer_slug_s": "princeton-kw52jc56s",
+  "uuid": "princeton-kw52jc56s",
+  "dc_title_s": "New York City Building Footprint 2005",
+  "solr_geom": "ENVELOPE(-74.257465, -73.69945, 40.915808, 40.495805)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Building footprints represent the perimeter extent of buildings. ",
+  "dc_creator_sm": [
+    "Department of Information Technology and Telecommunication"
+  ],
+  "dc_publisher_s": "Department of Information Technology and Telecommunication",
+  "dc_subject_sm": [
+    "Buildings",
+    "Building footprint",
+    "BIN",
+    "Structure"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-05T02:59:00Z",
+  "layer_id_s": "restricted-figgy:c851b72b-c70a-4c4a-934b-c10dd8d4a40f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/70bed680-0b3e-4d7e-9816-0faf5d1c3c42\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88dd0652-e5c2-4b20-905d-f6c45f7cd920/file/a296eef7-5d2a-4a2c-91bf-1bf21f78eefe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c851b72b-c70a-4c4a-934b-c10dd8d4a40f/file/6cb1512d-f8ce-41c8-b4cc-203bb6f8bc52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c851b72b-c70a-4c4a-934b-c10dd8d4a40f/file/f00156a4-e9c4-4497-bca7-d9336617e79d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

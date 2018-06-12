@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/000003411",
+  "layer_slug_s": "princeton-000003411",
+  "uuid": "princeton-000003411",
+  "dc_title_s": "Shenandoah County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.869072, -78.300355, 39.102907, 38.604661)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shenandoah County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "value",
+    "land value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Shenandoah",
+    "Shenandoah County"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:18Z",
+  "layer_id_s": "restricted-figgy:ab668793-ae43-4f82-a220-654767bdb637",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc0ecef0-f094-4158-a2d1-4ae40da38c45\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d942c0f8-82bc-49db-a2c3-b1cd72604d8c/file/2e323d6f-e0cc-4f35-b80b-93e53fafd763\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab668793-ae43-4f82-a220-654767bdb637/file/e837d67d-cef7-4fcb-8e1a-0f01a2f81dad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab668793-ae43-4f82-a220-654767bdb637/file/b2b00972-dfc6-4b4e-a82f-f23b55eb7d5c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

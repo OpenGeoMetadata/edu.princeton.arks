@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0c483n85j",
+  "layer_slug_s": "princeton-0c483n85j",
+  "uuid": "princeton-0c483n85j",
+  "dc_title_s": "Pierce County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.841563, -121.446583, 47.403623, 46.738845)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions in Pierce County , Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pierce",
+    "Pierce County",
+    "Tacoma",
+    "Washington",
+    "Seattle"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:56Z",
+  "layer_id_s": "restricted-figgy:e27d7268-ff21-488b-b879-a8fe666178ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e87e67e3-14c3-4a6d-95c4-ff8d8437e1d4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36a5e432-cbf1-4954-a65d-65d44d805347/file/6a53d6a6-25c8-476c-a4b8-51bbc94a49af\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e27d7268-ff21-488b-b879-a8fe666178ee/file/77283905-c222-4733-8361-1023176cb89d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e27d7268-ff21-488b-b879-a8fe666178ee/file/7c56f02d-ad33-4f3d-99cb-a0ac1cb77ff2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

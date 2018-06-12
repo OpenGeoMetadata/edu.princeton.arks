@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w337m",
+  "layer_slug_s": "princeton-vd66w337m",
+  "uuid": "princeton-vd66w337m",
+  "dc_title_s": "Buncombe County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.88778, -82.175505, 35.82414, 35.416459)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Buncombe County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Buncombe County",
+    "Buncombe",
+    "Asheville",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:18Z",
+  "layer_id_s": "restricted-figgy:7194d073-7b18-4153-966a-4ccc188a5c12",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1d7e4088-622a-4644-8dae-92c0c8c615fe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b39220ae-8884-49b6-a27e-c5fcaffaf3ef/file/623c948c-9743-4e96-9d3d-936cd30f1d9a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7194d073-7b18-4153-966a-4ccc188a5c12/file/b4006f0f-c464-4a88-a58f-f183df16790c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7194d073-7b18-4153-966a-4ccc188a5c12/file/279294e4-9c99-4466-8734-5c9aeb603c47\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xd07gx16k",
+  "layer_slug_s": "princeton-xd07gx16k",
+  "uuid": "princeton-xd07gx16k",
+  "dc_title_s": "Prince William County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.716409, -77.216612, 38.943111, 38.500778)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Prince William County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Prince William",
+    "Prince William County",
+    "Virginia",
+    "Washington",
+    "District of Columbia",
+    "Potomac River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:07Z",
+  "layer_id_s": "restricted-figgy:a57c792a-918f-436a-abe0-c0fdb54d7213",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/448187d2-d4cf-42aa-b5e6-5c4bcb981c2f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ade5a51-dde4-4a57-b79b-057766e6a2ec/file/8972f745-0b1a-438e-ac34-c6b1ad5f4587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a57c792a-918f-436a-abe0-c0fdb54d7213/file/081f3bbd-2d2a-466f-9369-f0d69b8bd771\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a57c792a-918f-436a-abe0-c0fdb54d7213/file/fb9d0514-fac9-480f-8475-2eddd8912bb3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

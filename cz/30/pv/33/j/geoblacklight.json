@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cz30pv33j",
+  "layer_slug_s": "princeton-cz30pv33j",
+  "uuid": "princeton-cz30pv33j",
+  "dc_title_s": "Trenton Neighborhoods",
+  "solr_geom": "ENVELOPE(-74.819202, -74.728687, 40.248589, 40.183711)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This dataset contains the name and boundaries of Neighborhoods in the City of Trenton, New Jersey. There are three known gaps in this dataset: Two omissions are near the Battle Monument neighborhood, the third omission is the Pennington Prospect neighborhood. These problems will be fixed when time allows.",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "Trenton",
+  "dc_subject_sm": [
+    "Neighborhood",
+    "Boundaries",
+    "Neighborhood boundary"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T02:59:13Z",
+  "layer_id_s": "restricted-figgy:74f041c8-903a-45f1-9648-adc498d5ffdc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/343ccb55-8288-4a9a-9178-ec2cf5c46a62\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/948e6b36-7ada-4e70-bdeb-119f8b0270c6/file/b8b71c60-5c93-411e-8cb8-d9aa68375386\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74f041c8-903a-45f1-9648-adc498d5ffdc/file/66184805-73ee-430e-a620-a0fec6116191\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74f041c8-903a-45f1-9648-adc498d5ffdc/file/e10f3358-a6c8-4fc9-ba3d-8b355f8013b8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

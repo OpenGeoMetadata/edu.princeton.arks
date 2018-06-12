@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5q47rs17v",
+  "layer_slug_s": "princeton-5q47rs17v",
+  "uuid": "princeton-5q47rs17v",
+  "dc_title_s": "Ouray County, Colorado land parcels, 2012",
+  "solr_geom": "ENVELOPE(-108.131482, -107.510978, 38.333658, 37.892108)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ouray County, Colorado, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ouray",
+    "Ouray County",
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:49:38Z",
+  "layer_id_s": "restricted-figgy:fd814faf-c0e6-463f-8f03-f03f47b02154",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f34a5193-9eb3-4328-ab72-c4eb336545ea\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/743fea26-20d7-45c3-abca-5fa128a49b6c/file/9a78d857-f132-4c5d-81ad-adea2c5f0d32\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd814faf-c0e6-463f-8f03-f03f47b02154/file/bc686caf-7c1d-42da-b004-300741e89580\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd814faf-c0e6-463f-8f03-f03f47b02154/file/95515de8-1634-42dc-b28e-8981f996f5a6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

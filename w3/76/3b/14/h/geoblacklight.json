@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763b14h",
+  "layer_slug_s": "princeton-w3763b14h",
+  "uuid": "princeton-w3763b14h",
+  "dc_title_s": "Guthrie County, Iowa land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.744753, -94.241176, 41.863239, 41.50365)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Guthrie County, Iowa, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Guthrie",
+    "Guthrie County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:22:31Z",
+  "layer_id_s": "restricted-figgy:7cc108c4-a867-46c2-ae94-fb67d548cea6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b57a1c5f-5c7d-4f03-b019-580cd5c06d69\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fa2fc0ed-1f4b-47e0-b0af-d90917fce26b/file/4b0ac4e8-a2db-4cc7-91d8-c0f578a8b7ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cc108c4-a867-46c2-ae94-fb67d548cea6/file/5209e314-bc49-4c4d-8aa9-d683e9a6599d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cc108c4-a867-46c2-ae94-fb67d548cea6/file/f01cd7fc-6abb-445e-8fba-bdc030bedab6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

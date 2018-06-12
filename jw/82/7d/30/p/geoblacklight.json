@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jw827d30p",
+  "layer_slug_s": "princeton-jw827d30p",
+  "uuid": "princeton-jw827d30p",
+  "dc_title_s": "Spain Major Bridges and Tunnels, 2005",
+  "solr_geom": "ENVELOPE(-8.599334, 3.043917, 43.71764, 36.946472)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Spain major bridges and tunnels created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Bridges",
+    "Transportation",
+    "Tunnels"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:45Z",
+  "layer_id_s": "restricted-figgy:29f2e436-e21c-4979-b26c-bdeb87e13d8c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7d0d500f-0e93-4e99-8014-e3915d408dc2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0aa1c6be-83aa-4a0f-855a-3bb8a8098910/file/83296877-6071-4fbf-8ff2-b3a75f765c65\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29f2e436-e21c-4979-b26c-bdeb87e13d8c/file/041df669-0961-4a1c-8990-dc958977400e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29f2e436-e21c-4979-b26c-bdeb87e13d8c/file/091e6207-da8e-4a55-ad17-3208825b1e8b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w9505219b",
+  "layer_slug_s": "princeton-w9505219b",
+  "uuid": "princeton-w9505219b",
+  "dc_title_s": "Nebraska Rivers 2002",
+  "solr_geom": "ENVELOPE(-104.053289, -95.382329, 43.001516, 40.000211)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Nebraska Rivers represents streams and rivers within Nebraska.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Nebraska"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:bfbbfcb2-fb86-4bfe-b1c0-f2980011e377",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4f909a1f-4b87-4c55-b765-18be40878989\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/501639c7-8edc-4b93-8c75-dc4d852cb4e8/file/67b1a844-3c1f-43b5-8f59-8198293faa46\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bfbbfcb2-fb86-4bfe-b1c0-f2980011e377/file/69597093-89f2-4c0d-bce4-83fa4cd39a82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bfbbfcb2-fb86-4bfe-b1c0-f2980011e377/file/a10cfeb5-616f-4b3f-ac94-8c57e6f22808\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

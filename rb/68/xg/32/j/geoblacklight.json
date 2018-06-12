@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rb68xg32j",
+  "layer_slug_s": "princeton-rb68xg32j",
+  "uuid": "princeton-rb68xg32j",
+  "dc_title_s": "Ripley County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.443355, -85.065097, 39.310352, 38.91343)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ripley County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ripley",
+    "Ripley County",
+    "Indiana",
+    "Big Oaks National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:51Z",
+  "layer_id_s": "restricted-figgy:46ab59b5-84b6-4a59-9e80-c2d6f1f912c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a8762a60-2f3a-4322-a551-eda3fa0670ea\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/11325156-3f46-46ea-b977-3af9890be114/file/914cba76-55b8-491c-92bd-1a0050f687b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46ab59b5-84b6-4a59-9e80-c2d6f1f912c6/file/9bcc2916-99be-41a4-b797-3893cb72698e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46ab59b5-84b6-4a59-9e80-c2d6f1f912c6/file/e50b3a91-a5dc-4310-9c15-f710fdda10fa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

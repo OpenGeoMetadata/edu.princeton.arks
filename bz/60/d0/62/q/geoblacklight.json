@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bz60d062q",
+  "layer_slug_s": "princeton-bz60d062q",
+  "uuid": "princeton-bz60d062q",
+  "dc_title_s": "Buncombe County, North Carolina roads, 2014",
+  "solr_geom": "ENVELOPE(-82.867996, -82.174934, 35.821469, 35.416651)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Buncombe County, North Carolina, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Buncombe",
+    "Buncombe County",
+    "North Carolina",
+    "Asheville",
+    "Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:03:40Z",
+  "layer_id_s": "restricted-figgy:ded081b9-eed4-4735-8ecb-2cabee5f6751",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/576b32c1-8ad8-4007-8c07-cbf23d009611\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af5a9586-bb96-40d2-b0d6-c067bc5946df/file/1661b728-e0bb-4485-a125-afddad9efe14\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ded081b9-eed4-4735-8ecb-2cabee5f6751/file/a28f1f0d-26c7-4d7c-ab7b-e209aac5561a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ded081b9-eed4-4735-8ecb-2cabee5f6751/file/17431607-580e-4e45-be3b-7d801c1e2142\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

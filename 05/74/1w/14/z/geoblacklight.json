@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/05741w14z",
+  "layer_slug_s": "princeton-05741w14z",
+  "uuid": "princeton-05741w14z",
+  "dc_title_s": "Kankakee County, Illinois land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.251347, -87.526319, 41.29796, 40.994653)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kankakee County, Illinois, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Kankakee",
+    "Kankakee County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:38Z",
+  "layer_id_s": "restricted-figgy:71b13d5f-f3f7-433f-99c3-6e95ef8e3f4c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd8fc676-78d3-4dec-bb9d-e9c7dacf462a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d1254959-2afe-48e5-87b5-f5962d9590c7/file/e1ad91da-a103-4dc2-b816-9e8a51f7607c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71b13d5f-f3f7-433f-99c3-6e95ef8e3f4c/file/53d68e53-ae4d-459b-b3ae-90e4074fe319\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71b13d5f-f3f7-433f-99c3-6e95ef8e3f4c/file/80e1e173-9d7f-4fdc-8a35-320eda352801\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

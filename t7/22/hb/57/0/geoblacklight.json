@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hb570",
+  "layer_slug_s": "princeton-t722hb570",
+  "uuid": "princeton-t722hb570",
+  "dc_title_s": "Oklahoma Rivers 2002",
+  "solr_geom": "ENVELOPE(-103.002242, -94.436285, 37.002211, 33.661081)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Oklahoma Rivers represents streams and rivers within Oklahoma.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:59:10Z",
+  "layer_id_s": "restricted-figgy:bdd5cc56-7b32-41ae-a1c9-77847d9f1b95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8b197fea-d196-4ee3-baf3-f2e3b5929217\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b6e41484-ced2-4363-9f0b-96b7636d9c61/file/218a6668-c608-46ce-9971-926eef6351fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdd5cc56-7b32-41ae-a1c9-77847d9f1b95/file/bc0c36a3-c7dc-46cc-a0fd-1b79bb4b0c02\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdd5cc56-7b32-41ae-a1c9-77847d9f1b95/file/d0415759-16cd-46d0-883a-569c6ba709a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

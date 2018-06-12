@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zr834",
+  "layer_slug_s": "princeton-vq27zr834",
+  "uuid": "princeton-vq27zr834",
+  "dc_title_s": "Oneida County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.886597, -75.069043, 43.615194, 42.863226)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Oneida County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "2014"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:26Z",
+  "layer_id_s": "restricted-figgy:fe88a9c0-b029-4fd8-bdf2-a2ca16776c32",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b9021f03-b1e7-429a-bd97-ca4bb800aac3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ae0769e5-27c4-4022-85ad-17638fbc20d5/file/3483aee6-fa7a-4ae3-a8e5-9c1edf4e91eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe88a9c0-b029-4fd8-bdf2-a2ca16776c32/file/8f7b3314-9cff-44f5-8bb7-9ef14565b0d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe88a9c0-b029-4fd8-bdf2-a2ca16776c32/file/497cec3b-17d4-49ff-999e-eb6097154748\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1v53jz64h",
+  "layer_slug_s": "princeton-1v53jz64h",
+  "uuid": "princeton-1v53jz64h",
+  "dc_title_s": "Netherlands Minor Rivers, 2005",
+  "solr_geom": "ENVELOPE(3.370593, 7.21228, 53.351582, 50.758899)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include minor rivers of Netherlands created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Minor rivers"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:11Z",
+  "layer_id_s": "restricted-figgy:b2380f0c-ddda-4330-b160-1d163c4bb282",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4d059360-fb37-47a1-9d37-035f65706aa8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88020501-ec40-42f0-a1f7-71e7990e4663/file/d2fa433c-1c6f-4a0a-a5cd-eaf617cdd38c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2380f0c-ddda-4330-b160-1d163c4bb282/file/354c637a-1a47-4570-8bea-3f8bec7dc476\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2380f0c-ddda-4330-b160-1d163c4bb282/file/bc353fdf-e36f-4636-b6a7-6b48188b39e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

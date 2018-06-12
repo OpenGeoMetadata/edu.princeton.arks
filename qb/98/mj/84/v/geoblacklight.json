@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj84v",
+  "layer_slug_s": "princeton-qb98mj84v",
+  "uuid": "princeton-qb98mj84v",
+  "dc_title_s": "Athens County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.29827, -81.721808, 39.556435, 39.180295)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Athens County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Athens",
+    "Athens County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:13:39Z",
+  "layer_id_s": "restricted-figgy:6b4797e9-dac0-4266-a887-f1917bae8a3b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/90f4cacf-b0b1-4ec3-b0c8-abb46ca4dbfd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1baf87bb-531e-48b6-beb8-f277ee17c78b/file/40a7896a-7eaa-4ebc-a9f9-fd4ac33c08ea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b4797e9-dac0-4266-a887-f1917bae8a3b/file/9b5a1ae3-7c2a-40a4-8013-26066ee4eae8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b4797e9-dac0-4266-a887-f1917bae8a3b/file/68d7eeb8-e69a-47e4-9a06-b4160856494a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

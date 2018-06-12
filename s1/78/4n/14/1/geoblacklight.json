@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784n141",
+  "layer_slug_s": "princeton-s1784n141",
+  "uuid": "princeton-s1784n141",
+  "dc_title_s": "Virginia Block Groups 2002",
+  "solr_geom": "ENVELOPE(-83.675413, -75.242266, 39.466012, 36.540739)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Virginia Block Groups represents the U.S. Census block groups of Virginia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:19Z",
+  "layer_id_s": "restricted-figgy:d797f461-e9f5-4347-a24e-c747ef945b5b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e114360-de60-464b-beaa-981276902a52\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4f5359d-1331-4132-a2d5-f36374187b41/file/d4ea93cd-db43-4b57-a5e3-61ce3cd2c797\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d797f461-e9f5-4347-a24e-c747ef945b5b/file/ce5f9912-1e46-47ee-9289-480c3566156a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d797f461-e9f5-4347-a24e-c747ef945b5b/file/08f05ee1-69e0-477e-a428-6d73825040de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

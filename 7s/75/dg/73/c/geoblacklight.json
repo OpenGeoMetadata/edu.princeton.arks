@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dg73c",
+  "layer_slug_s": "princeton-7s75dg73c",
+  "uuid": "princeton-7s75dg73c",
+  "dc_title_s": "Medina County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.17363, -81.68501, 41.277092, 40.988138)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Medina County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Medina",
+    "Medina County",
+    "Ohio",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:08:36Z",
+  "layer_id_s": "restricted-figgy:2bfaef06-4fc1-455c-b6a8-151e3cabcf15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/514c8c10-d3b9-40f6-be0a-9c39137fd332\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09f72a14-65fd-4363-9c4b-6a8a6d1ad5c6/file/7c9c83b0-ae55-4cb3-821f-06a6a8df1b23\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bfaef06-4fc1-455c-b6a8-151e3cabcf15/file/feb7f6b6-313b-477e-a13d-7bbcb59d8031\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bfaef06-4fc1-455c-b6a8-151e3cabcf15/file/12ddb310-ac81-4bba-9797-d7eb74f68a09\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

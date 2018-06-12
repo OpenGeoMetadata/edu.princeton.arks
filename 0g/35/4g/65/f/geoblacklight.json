@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0g354g65f",
+  "layer_slug_s": "princeton-0g354g65f",
+  "uuid": "princeton-0g354g65f",
+  "dc_title_s": "United Kingdom Level-2 NUTS Boundaries, 2005",
+  "solr_geom": "ENVELOPE(-8.166391, 1.76362, 60.846801, 49.162554)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the level-2 NUTS boundaries of United Kingdom created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "NUTS",
+    "Boundaries",
+    "NUTS boundaries",
+    "NUTS2",
+    "Level 2"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:17Z",
+  "layer_id_s": "restricted-figgy:e22b6d94-ac97-46e1-a763-595077ef7e62",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0855d29d-941b-43a5-aff5-c650be42b92c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c654bbb-4a4a-4606-b5c2-ad9f795f6786/file/872244fb-4d7a-411a-887b-4f0cf51f2e80\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e22b6d94-ac97-46e1-a763-595077ef7e62/file/d73d0b97-54d6-4dde-b271-dcceee736d05\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e22b6d94-ac97-46e1-a763-595077ef7e62/file/5971b727-db81-487e-a8e1-52670265173a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

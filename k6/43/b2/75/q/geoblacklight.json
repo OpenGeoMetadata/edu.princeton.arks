@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b275q",
+  "layer_slug_s": "princeton-k643b275q",
+  "uuid": "princeton-k643b275q",
+  "dc_title_s": "United Kingdom Major Geographic Names, 2005",
+  "solr_geom": "ENVELOPE(-7.703769, 1.68375, 60.649273, 49.277246)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes United Kingdom major geographic names created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Location",
+    "geographic names",
+    "names"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:4d55eb2f-df9f-4bf9-acfe-0827a11fb7d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/40153e45-6709-4107-872f-93e5643b68f3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b1e0776-d632-4cba-975f-12361a4c3113/file/e53ea73e-5271-4c53-bc09-cc5264e9cc0c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d55eb2f-df9f-4bf9-acfe-0827a11fb7d7/file/8ee76fc4-19e8-4265-bce1-a4f091d99a7f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d55eb2f-df9f-4bf9-acfe-0827a11fb7d7/file/90020329-b3cc-489e-b9fc-b89378cf98c8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

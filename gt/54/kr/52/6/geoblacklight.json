@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kr526",
+  "layer_slug_s": "princeton-gt54kr526",
+  "uuid": "princeton-gt54kr526",
+  "dc_title_s": "Tanzania extracted historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(29.367572, 40.542267, -0.974082, -11.78647)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces in Tanganyika (Tanzania) for 1948. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province"
+  ],
+  "dct_spatial_sm": [
+    "Tanzania",
+    "Tanganyika"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "2016"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-04-05T06:48:18Z",
+  "layer_id_s": "public-figgy:db5575df-09b3-4bf7-b015-9e7346f67954",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c1fb1065-f4ed-4a7d-b956-ea34dc556556\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d85fd4f7-44a0-41f1-8349-9eabce9b4e8e/file/aa0ee6e1-ffb8-4512-828e-a55f566ddd82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db5575df-09b3-4bf7-b015-9e7346f67954/file/4d7def83-1c5a-4945-935c-83136faf04b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db5575df-09b3-4bf7-b015-9e7346f67954/file/622b0871-75e7-47e2-9fe3-54a57ac5bb2d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

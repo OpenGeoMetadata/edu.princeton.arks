@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k5920",
+  "layer_slug_s": "princeton-td96k5920",
+  "uuid": "princeton-td96k5920",
+  "dc_title_s": "Smith County, Texas roads, 2011",
+  "solr_geom": "ENVELOPE(-95.616286, -94.94101, 32.67459, 32.047516)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Smith County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Smith",
+    "Smith County",
+    "Texas",
+    "Tyler"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:31Z",
+  "layer_id_s": "restricted-figgy:47fc5258-7e91-468b-9235-9a6a60c8c72d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c6053ca-f724-4f37-bce3-daa01e71d8c8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/00d0efb6-34cb-466a-96e1-a6bbb068999d/file/0ff6874d-b73b-4373-ad2c-f058a0c710f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/47fc5258-7e91-468b-9235-9a6a60c8c72d/file/2908dc6b-9f25-41f3-a217-bb8a2c6a2a7a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/47fc5258-7e91-468b-9235-9a6a60c8c72d/file/5dd6b15d-1921-4b2f-a9dd-aa67016df45c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

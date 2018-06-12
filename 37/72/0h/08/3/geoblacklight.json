@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/37720h083",
+  "layer_slug_s": "princeton-37720h083",
+  "uuid": "princeton-37720h083",
+  "dc_title_s": "Summit County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-111.649131, -110.000674, 41.251623, 40.548344)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Summit County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Summit",
+    "Summit County",
+    "Utah",
+    "Uinta-Wasatch-Cache National Forest",
+    "Ashley National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:56:37Z",
+  "layer_id_s": "restricted-figgy:c87b8c64-008a-4969-a261-114f360a17d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ca2b1b39-e765-4bd6-a9b7-58bd972307c4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1338ec51-10bb-43a0-8acd-751ec45e371b/file/0dbdebf1-403b-4fad-bfb5-91a0ead5f057\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c87b8c64-008a-4969-a261-114f360a17d9/file/fa3ef331-d802-4cfe-9ca1-f2acfc0b4cff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c87b8c64-008a-4969-a261-114f360a17d9/file/2c13bb3b-777d-4bb6-b47c-d8bdf57532ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

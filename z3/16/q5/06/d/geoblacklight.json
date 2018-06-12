@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z316q506d",
+  "layer_slug_s": "princeton-z316q506d",
+  "uuid": "princeton-z316q506d",
+  "dc_title_s": "Harrison County, Mississippi land parcels, 2014.",
+  "solr_geom": "ENVELOPE(-89.341514, -88.818209, 30.677681, 30.205013)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Harrison County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Harrison County",
+    "Harrison",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2006"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:07Z",
+  "layer_id_s": "restricted-figgy:990bd541-cde1-42e8-9fa1-286b49162c12",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9c6e3aa0-13f2-4859-ad97-6b12acadf206\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5adc70ea-c521-4a20-bdf4-6317f210d3e0/file/56e45de6-5912-494e-82a3-5d425deba6b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/990bd541-cde1-42e8-9fa1-286b49162c12/file/d544a509-ce51-4c00-acce-3f63ddf1e6f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/990bd541-cde1-42e8-9fa1-286b49162c12/file/4530f66a-0ef0-4b99-a0e4-84c37cf3a44d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

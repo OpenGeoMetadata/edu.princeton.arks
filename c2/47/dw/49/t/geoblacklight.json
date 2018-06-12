@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dw49t",
+  "layer_slug_s": "princeton-c247dw49t",
+  "uuid": "princeton-c247dw49t",
+  "dc_title_s": "Q3 flood data, Nevada",
+  "solr_geom": "ENVELOPE(-120.004631, -114.044935, 41.997794, 35.001882)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Nevada, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "Clark",
+    "Washoe",
+    "Carson City",
+    "Clark County",
+    "Washoe County"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-04T22:39:04Z",
+  "layer_id_s": "restricted-figgy:ee1ed552-26ad-474a-b8be-c9cb03c8232d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1ce29453-cf25-4368-9d26-c1896e478e21\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c85fcea-257f-4284-8176-138a7a50d537/file/6f443839-3aa9-4223-85f0-cd1ae1e581cb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee1ed552-26ad-474a-b8be-c9cb03c8232d/file/ce5e6bea-4932-402f-aae0-49d5864487b5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee1ed552-26ad-474a-b8be-c9cb03c8232d/file/d503c920-3d04-4d17-9f4a-e4c6ebd5a24d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

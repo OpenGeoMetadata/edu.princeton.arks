@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n870zs52t",
+  "layer_slug_s": "princeton-n870zs52t",
+  "uuid": "princeton-n870zs52t",
+  "dc_title_s": "Texas Tracts 2002",
+  "solr_geom": "ENVELOPE(-106.645646, -93.508131, 36.500704, 25.837377)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Texas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Texas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:47Z",
+  "layer_id_s": "restricted-figgy:fec33915-5b3c-4c31-a7af-fda91253bf0d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9145f637-c011-47a0-bb3d-7a82d707fe7e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a03069c-cb25-41d3-9257-1e662619785f/file/42a50682-0cc7-4239-b06b-c7dcb0a9e2e0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fec33915-5b3c-4c31-a7af-fda91253bf0d/file/56f4352d-279a-4d85-9dcc-84955f1af8f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fec33915-5b3c-4c31-a7af-fda91253bf0d/file/2efb36a6-61d4-41f9-9ed4-472651286f74\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

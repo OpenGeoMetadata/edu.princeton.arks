@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sq87bz21h",
+  "layer_slug_s": "princeton-sq87bz21h",
+  "uuid": "princeton-sq87bz21h",
+  "dc_title_s": "San Francisco, California roads, 2013",
+  "solr_geom": "ENVELOPE(-122.515003, -122.355684, 37.832365, 37.706032)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in the consolidated city-county of San Francisco, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Francisco",
+    "City and County of San Francisco",
+    "California",
+    "San Francisco Bay",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:1b5a0d3b-370c-492a-8312-beb0bb097be7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d306604-ef35-4b9f-89c3-851334d541e5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c9f0a05c-c935-436d-948c-837fe3e30873/file/e8296837-fde4-4975-b2c1-0a47b042ac83\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b5a0d3b-370c-492a-8312-beb0bb097be7/file/8eba0977-65db-4232-810c-efc2a947ba96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b5a0d3b-370c-492a-8312-beb0bb097be7/file/72c7b207-75b5-4ee9-b942-3d200fa46ffe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

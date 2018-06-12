@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gp19q",
+  "layer_slug_s": "princeton-c821gp19q",
+  "uuid": "princeton-c821gp19q",
+  "dc_title_s": "Schoharie County, New York roads, 2014",
+  "solr_geom": "ENVELOPE(-74.707573, -74.166241, 42.82535, 42.355484)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Schoharie County, New York, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Schoharie",
+    "Schoharie County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:03Z",
+  "layer_id_s": "restricted-figgy:214e98d2-748d-40d6-a471-3622def03118",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/85aacc10-027a-4032-b435-1db59c2ca680\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3cabfefe-6a9a-4aa5-92f9-689a9e69e11b/file/d3b7fddc-98a1-485c-9d53-b815d646ef60\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/214e98d2-748d-40d6-a471-3622def03118/file/5a859056-00e9-4e62-bf4d-cc7c5a08c6e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/214e98d2-748d-40d6-a471-3622def03118/file/f78a3b01-5e12-4540-8325-9e8d30033e1a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

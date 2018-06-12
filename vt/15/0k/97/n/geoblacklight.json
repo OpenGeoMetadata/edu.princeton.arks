@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150k97n",
+  "layer_slug_s": "princeton-vt150k97n",
+  "uuid": "princeton-vt150k97n",
+  "dc_title_s": "World Gazetteer 2008",
+  "solr_geom": "ENVELOPE(-179.989, 179.996987, 85.213996, -86.906)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "point",
+    "gazetteer",
+    "airports",
+    "coastal features",
+    "drainage features",
+    "islands",
+    "land features",
+    "ocean features",
+    "political features",
+    "populated places",
+    "Location",
+    "Oceans",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1993/1994",
+    "2000",
+    "1996",
+    "2002",
+    "2007"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:8d057882-af9e-456f-93ba-007dab871472",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dd4230f3-cc85-4c1a-af7c-6053e417584e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3898bd68-85ed-4800-a3b8-f42d6155e943/file/f3332980-4e1b-4dee-82c1-3d295a2d5114\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d057882-af9e-456f-93ba-007dab871472/file/c1601681-2086-462f-8592-5c7f25d57de1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d057882-af9e-456f-93ba-007dab871472/file/4f97d6a9-516d-4329-82c0-92c37fef95fa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

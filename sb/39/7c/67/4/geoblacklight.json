@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c674",
+  "layer_slug_s": "princeton-sb397c674",
+  "uuid": "princeton-sb397c674",
+  "dc_title_s": "Skagit County, Washington land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.762115, -120.685392, 48.676108, 48.253887)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Skagit County, Washington, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Skagit",
+    "Skagit County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:47:52Z",
+  "layer_id_s": "restricted-figgy:df30c6a0-3b56-4899-975f-4cab6fb0eab9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a0ace9b9-4c9e-4a70-8989-8d23a03e1944\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ee495cf2-31a7-4d8d-a3d8-e3d93d7d988c/file/301dee5d-31b4-452a-bd7f-64abee6ae38a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df30c6a0-3b56-4899-975f-4cab6fb0eab9/file/7c68bb0f-7690-45cc-add9-d0717a442577\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df30c6a0-3b56-4899-975f-4cab6fb0eab9/file/82d06fe0-1203-4e5c-8626-e5634c2b9cdf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

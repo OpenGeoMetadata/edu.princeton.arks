@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v016w",
+  "layer_slug_s": "princeton-2r36v016w",
+  "uuid": "princeton-2r36v016w",
+  "dc_title_s": "Berrien County, Georgia land parcels, 2005",
+  "solr_geom": "ENVELOPE(-83.439207, -83.033733, 31.476162, 31.024583)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Berrien County, Georgia, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Berrien County",
+    "Berrien",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T22:11:00Z",
+  "layer_id_s": "restricted-figgy:e85adada-2b8b-4ac9-befe-ea2758c719fd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a75a4c5-55a1-4b25-b406-a2844938c369\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71112344-7b71-4eda-91c3-c71b8ea7255b/file/4f70ab3c-f146-4d51-8846-907c18098763\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e85adada-2b8b-4ac9-befe-ea2758c719fd/file/833096df-629d-499e-930d-b0bee82e76c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e85adada-2b8b-4ac9-befe-ea2758c719fd/file/52bb1b9b-ee6d-4cea-a133-8ccd4d270404\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

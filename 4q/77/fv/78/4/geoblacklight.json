@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77fv784",
+  "layer_slug_s": "princeton-4q77fv784",
+  "uuid": "princeton-4q77fv784",
+  "dc_title_s": "King County, Washington land parcels, 2007",
+  "solr_geom": "ENVELOPE(-122.536024, -121.087536, 47.780576, 47.083559)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in King County, Washington, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "King",
+    "King County",
+    "Seattle",
+    "Bellevue"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:49:40Z",
+  "layer_id_s": "restricted-figgy:a2bdb843-e62b-496b-aa39-55d154f5056d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44313962-57a8-4c87-9409-ff2cc606ce27\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c18d595f-e9cf-4606-b92a-86663ffdbdae/file/f29e2cd0-bbf9-4b56-a751-3e7859d1e8c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2bdb843-e62b-496b-aa39-55d154f5056d/file/3453cfe5-f1ab-4d42-9a7c-41d25c86db7f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2bdb843-e62b-496b-aa39-55d154f5056d/file/bca2e9e4-cc84-492b-9256-329b5342c33a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

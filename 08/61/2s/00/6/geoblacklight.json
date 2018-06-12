@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612s006",
+  "layer_slug_s": "princeton-08612s006",
+  "uuid": "princeton-08612s006",
+  "dc_title_s": "Miami County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.169124, -85.863641, 40.999195, 40.562649)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Miami County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Miami County",
+    "Miami",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:05Z",
+  "layer_id_s": "restricted-figgy:6fe00094-6eae-4955-a1d5-7984fdfec38b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f0918e32-5022-4a72-b132-1c49e6c2304a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f1353305-e805-4476-8cb2-0c32d13b04c7/file/b7888bba-8fd4-40a1-9c55-3ec7aa2945f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6fe00094-6eae-4955-a1d5-7984fdfec38b/file/0b81be7a-daae-463e-a057-7d78f8c13290\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6fe00094-6eae-4955-a1d5-7984fdfec38b/file/10fa2b74-48cf-4f8c-b418-470c02b277ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

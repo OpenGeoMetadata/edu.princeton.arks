@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848v02g",
+  "layer_slug_s": "princeton-ft848v02g",
+  "uuid": "princeton-ft848v02g",
+  "dc_title_s": "Tift County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.666357, -83.338791, 31.597777, 31.326273)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tift County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tift",
+    "Tift County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:05Z",
+  "layer_id_s": "restricted-figgy:dd6af956-a204-4e4c-a038-48197c1fbbb2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/98446f0d-ad0e-40bd-9747-319f76d9e742\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5221beb-01b8-4eb5-b688-4f1095486e91/file/34d07055-8910-42b5-980c-bc970b7e2903\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd6af956-a204-4e4c-a038-48197c1fbbb2/file/e82cb10a-4999-4c12-a1eb-abe4d89a10f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd6af956-a204-4e4c-a038-48197c1fbbb2/file/cf393ae6-1e57-4cac-a98c-62cc06833a18\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

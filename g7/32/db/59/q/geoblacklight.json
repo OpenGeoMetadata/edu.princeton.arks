@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db59q",
+  "layer_slug_s": "princeton-g732db59q",
+  "uuid": "princeton-g732db59q",
+  "dc_title_s": "U.S. GDT Transportation Terminals 2000",
+  "solr_geom": "ENVELOPE(-131.720039, -66.984444, 55.360922, 24.554827)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. GDT Transportation Terminals represents locations within United States for transportation terminals such as bus terminals, train stations, marine terminals, and other significant transportation nodes.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "transportation terminals",
+    "train stations",
+    "bus terminals",
+    "marine terminals"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:44:18Z",
+  "layer_id_s": "restricted-figgy:856129ba-36ad-4529-914f-ace920f86789",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/480f4a34-787a-476b-bcf6-b424734a2f03\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f82601d3-7875-49a1-9fdf-6189eb7fd2f1/file/a8190743-d217-434b-937a-70de25cc988b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/856129ba-36ad-4529-914f-ace920f86789/file/913f7c81-ac89-4599-9777-61211d1a4d99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/856129ba-36ad-4529-914f-ace920f86789/file/57188485-019b-4e30-b3e1-62de6f7fe8f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

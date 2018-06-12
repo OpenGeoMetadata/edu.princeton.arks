@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207ts82z",
+  "layer_slug_s": "princeton-r207ts82z",
+  "uuid": "princeton-r207ts82z",
+  "dc_title_s": "Clarke County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.914244, -88.43168, 32.227639, 31.826679)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clarke County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clarke County",
+    "Clarke",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:03Z",
+  "layer_id_s": "restricted-figgy:f5f6c912-a462-4ec7-8725-d776e9232163",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7d33d447-1615-41ee-8051-7d9116f4c225\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d3d8eaa-c368-4496-879f-a3ae9bb61996/file/293490a2-475a-4782-bd14-069c4b9fcdf1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5f6c912-a462-4ec7-8725-d776e9232163/file/59595a1b-09f6-463d-9c55-cf0cc1b11a1f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5f6c912-a462-4ec7-8725-d776e9232163/file/9f948fda-5e68-4515-be50-ce168e144f07\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

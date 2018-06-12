@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d754s",
+  "layer_slug_s": "princeton-x346d754s",
+  "uuid": "princeton-x346d754s",
+  "dc_title_s": "Logan County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-103.581821, -102.650941, 41.002571, 40.435382)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Logan County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Logan",
+    "Logan County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:22:02Z",
+  "layer_id_s": "restricted-figgy:250bd907-c1d7-4660-883e-e9dfb5d14db9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bf9e52d5-6834-47c8-80ce-90f92c91652a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/83ae4e59-530e-4f82-9dba-83afef638d85/file/78923fab-999b-4a34-8ace-d6dcea3fd9b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/250bd907-c1d7-4660-883e-e9dfb5d14db9/file/3222e83b-2964-448c-9d44-761740c14e7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/250bd907-c1d7-4660-883e-e9dfb5d14db9/file/8d60b8c0-a736-403a-9d89-c1def463b2d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

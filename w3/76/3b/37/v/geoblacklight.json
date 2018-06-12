@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763b37v",
+  "layer_slug_s": "princeton-w3763b37v",
+  "uuid": "princeton-w3763b37v",
+  "dc_title_s": "Sacramento County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-121.7864, -121.024287, 38.735947, 38.024906)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Sacramento County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Sacramento",
+    "Sacramento County",
+    "California",
+    "Central Valley",
+    "Sierra Nevada",
+    "Elk Grove",
+    "Arden-Arcade",
+    "Citrus Heights"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:90dab6a1-fbdf-4d63-94d9-a71f709f7429",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8232f064-0954-4fb7-95e8-1658eca33d6b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0b250d0-ab28-4860-9d0c-0af9a20e47f8/file/1e95ec0b-86ef-49da-a90f-f2079254db5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90dab6a1-fbdf-4d63-94d9-a71f709f7429/file/c87ddecb-36ed-4545-b039-325e93195294\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90dab6a1-fbdf-4d63-94d9-a71f709f7429/file/1697a9c2-6839-4abe-9103-2d0171c6fcc7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7h149t25p",
+  "layer_slug_s": "princeton-7h149t25p",
+  "uuid": "princeton-7h149t25p",
+  "dc_title_s": "Pulaski County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.922019, -80.515409, 37.244555, 36.880624)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pulaski County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pulaski",
+    "Pulaski County",
+    "Virginia",
+    "Claytor Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:17Z",
+  "layer_id_s": "restricted-figgy:ce72ab1b-3266-4003-bee6-414720e256a4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b35b5ea-5d92-4014-ae06-9ee33f8d9cf4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0854e4a-195e-4b16-b840-42558311bdc8/file/fde99065-2d20-4650-859e-9f83b60da376\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce72ab1b-3266-4003-bee6-414720e256a4/file/014bd57c-63b9-442b-8f95-22a5a9e4e7e1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce72ab1b-3266-4003-bee6-414720e256a4/file/f67f5a3b-4590-4974-906e-90594b4e034a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

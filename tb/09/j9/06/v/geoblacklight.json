@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j906v",
+  "layer_slug_s": "princeton-tb09j906v",
+  "uuid": "princeton-tb09j906v",
+  "dc_title_s": "Crawford County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.493114, -93.892293, 35.764764, 35.343521)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Crawford County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Crawford",
+    "Crawford County",
+    "Fort Smith",
+    "Arkansas River",
+    "Ozark National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:38Z",
+  "layer_id_s": "restricted-figgy:f8fc769e-e406-45eb-8ff3-2ce9463cd112",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b967a98-bf7e-440c-9964-877252a74b58\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/30196770-0fe2-4071-8144-838bb8354368/file/45d8eaea-245d-4ff3-9e97-339054f103f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8fc769e-e406-45eb-8ff3-2ce9463cd112/file/8636a987-53fe-4760-b961-0346ceef8610\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8fc769e-e406-45eb-8ff3-2ce9463cd112/file/b24f388d-c116-424a-bdb7-6c8be8d7d1a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

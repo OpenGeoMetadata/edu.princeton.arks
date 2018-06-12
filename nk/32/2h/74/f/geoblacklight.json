@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nk322h74f",
+  "layer_slug_s": "princeton-nk322h74f",
+  "uuid": "princeton-nk322h74f",
+  "dc_title_s": "Clay County, Minnesota land parcels, 2012",
+  "solr_geom": "ENVELOPE(-96.839967, -96.172458, 47.151487, 46.628781)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clay County, Minnesota, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clay",
+    "Clay County",
+    "Minnesota",
+    "Fargo"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:39:41Z",
+  "layer_id_s": "restricted-figgy:101db851-902f-4251-8f5c-77b8e416f27b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8f47e35c-0485-4659-b1c1-b0a637c83152\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e051961-8d37-4f84-8ec1-e7f2cb0986e8/file/437774e2-737b-4c63-9dcd-2548a6afd8cd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/101db851-902f-4251-8f5c-77b8e416f27b/file/f0ef2d2d-472e-4368-9aed-4deba60eede1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/101db851-902f-4251-8f5c-77b8e416f27b/file/96085cf4-9c5b-40a2-bce4-320b73a4edf2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

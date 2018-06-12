@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9019s3941",
+  "layer_slug_s": "princeton-9019s3941",
+  "uuid": "princeton-9019s3941",
+  "dc_title_s": "Mexico Drainage Systems 2000",
+  "solr_geom": "ENVELOPE(-115.042196, -90.658269, 32.720877, 15.440791)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico Drainage represents the major drainage systems within Mexico.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "drainage",
+    "drainage system",
+    "river",
+    "hydrography"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:54:26Z",
+  "layer_id_s": "restricted-figgy:625e7af7-302c-4e8c-b9ca-e6fff0d3cf5e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f96ec7b9-d04b-4d10-9e57-2d7f92e5be46\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e54d61f4-b773-4f92-8074-caea9f259efe/file/59ec452b-28cf-4f1f-a9a8-f4cd0a344342\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/625e7af7-302c-4e8c-b9ca-e6fff0d3cf5e/file/6988fd6b-8d54-46f8-88ac-c7cd67659945\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/625e7af7-302c-4e8c-b9ca-e6fff0d3cf5e/file/31c10ef2-e93a-451b-aa02-5879921f0ceb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

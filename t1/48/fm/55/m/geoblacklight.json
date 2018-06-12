@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t148fm55m",
+  "layer_slug_s": "princeton-t148fm55m",
+  "uuid": "princeton-t148fm55m",
+  "dc_title_s": "U.S. Airports, 2013",
+  "solr_geom": "ENVELOPE(-171.744183, -64.786178, 71.289058, 17.695601)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Airports represents airport grounds and airport runways within the United States. All airports have a boundary, and most have at least one runway.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "airports",
+    "runways",
+    "enplanements",
+    "hubs",
+    "control towers",
+    "airport codes",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011",
+    "2010",
+    "2002",
+    "2003",
+    "1994",
+    "1992",
+    "1991"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:48:01Z",
+  "layer_id_s": "restricted-figgy:d4b16013-a074-4598-af6d-3f9a72f9a9b6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e015a6f3-a068-4c34-b81a-efd4d7cc7828\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24ad3638-6a86-4088-88cb-948fa61a9f02/file/8474b18a-211f-4a32-9635-f32b651e6192\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4b16013-a074-4598-af6d-3f9a72f9a9b6/file/4f947e14-c16b-476e-b7f5-b3f186344184\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4b16013-a074-4598-af6d-3f9a72f9a9b6/file/8b091d48-ae6d-4541-8937-71faf77461bf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

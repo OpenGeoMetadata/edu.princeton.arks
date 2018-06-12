@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687k14f",
+  "layer_slug_s": "princeton-41687k14f",
+  "uuid": "princeton-41687k14f",
+  "dc_title_s": "Matanuska-Susitna Borough, Alaska land parcels, 2006",
+  "solr_geom": "ENVELOPE(-153.025909, -146.421784, 63.478061, 61.19308)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Matanuska-Susitna Borough, Alaska, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "property",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alaska",
+    "Matanuska-Susitna Borough"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:01:45Z",
+  "layer_id_s": "restricted-figgy:206c507d-0ccf-4334-be05-05437aa671b4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5e2fc051-43ac-41fb-a5c5-1023bb1492b7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b62f99b-dda0-42fc-a50e-550c4ce5334c/file/d31b6c7c-f801-415b-8cfa-8edfaf7d9224\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/206c507d-0ccf-4334-be05-05437aa671b4/file/bb950b18-49f1-4c77-93c3-02fa6427ca11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/206c507d-0ccf-4334-be05-05437aa671b4/file/c60e0b3c-3eb7-42c9-b80d-3ee63be69360\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

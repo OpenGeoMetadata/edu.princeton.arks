@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h702q985f",
+  "layer_slug_s": "princeton-h702q985f",
+  "uuid": "princeton-h702q985f",
+  "dc_title_s": "Erie County, Ohio land parcels, 2008",
+  "solr_geom": "ENVELOPE(-82.902822, -82.34243, 41.624171, 41.283946)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Erie County, Ohio, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Erie",
+    "Erie County",
+    "Sandusky",
+    "Cedar Point"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:10:18Z",
+  "layer_id_s": "restricted-figgy:1a12ffa9-f68f-4de6-ab86-e448b3fa0967",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/56423d49-e1bb-4620-81a2-90daa3477851\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09ddc785-fa85-43d6-b7af-fe1729aec053/file/43400748-4b3e-4270-bd78-b3285c1ac90c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a12ffa9-f68f-4de6-ab86-e448b3fa0967/file/4a17f3d8-c26d-4bb2-a21d-a706d6888ce9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a12ffa9-f68f-4de6-ab86-e448b3fa0967/file/97c06f94-a137-4cdb-80ed-baebb049457e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

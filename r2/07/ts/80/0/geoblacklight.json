@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207ts800",
+  "layer_slug_s": "princeton-r207ts800",
+  "uuid": "princeton-r207ts800",
+  "dc_title_s": "Jasper County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-87.276534, -86.929637, 41.286275, 40.736537)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Jasper County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jasper County",
+    "Jasper",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:49Z",
+  "layer_id_s": "restricted-figgy:f4c86d88-1e0a-4386-b575-6c3f46289542",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/be9fd700-c6fb-4c37-9d58-3df7f21093bd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d76d4491-4713-4212-acfb-2a203058dc83/file/b83edac7-ca5c-498a-8334-3ed4b57ba8fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4c86d88-1e0a-4386-b575-6c3f46289542/file/450c866c-8df2-4fdb-b861-9139a425a874\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4c86d88-1e0a-4386-b575-6c3f46289542/file/d90af789-f427-453f-b331-62e45c146459\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

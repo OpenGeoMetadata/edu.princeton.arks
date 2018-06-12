@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gq67jv65g",
+  "layer_slug_s": "princeton-gq67jv65g",
+  "uuid": "princeton-gq67jv65g",
+  "dc_title_s": "Jefferson County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-94.445424, -93.837647, 30.188748, 29.559487)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson",
+    "Jefferson County",
+    "Texas",
+    "Beaumont",
+    "McFaddin National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:37:27Z",
+  "layer_id_s": "restricted-figgy:eb5efb91-df87-4d64-aeeb-76894f4ac1f5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dbc68d9d-18a4-4ec6-a46d-0d395082c3c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/90de47bc-78a4-4336-b7ba-af8d29f332bc/file/54078097-2557-4165-be37-96eed111849a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb5efb91-df87-4d64-aeeb-76894f4ac1f5/file/f679d508-6495-4b12-99b6-a8eaf2bdcc57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb5efb91-df87-4d64-aeeb-76894f4ac1f5/file/d74fbb81-6b1b-4bf2-bb14-910fc4720711\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

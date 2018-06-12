@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c706",
+  "layer_slug_s": "princeton-sb397c706",
+  "uuid": "princeton-sb397c706",
+  "dc_title_s": "Yalobusha County, Mississippi roads, 2014",
+  "solr_geom": "ENVELOPE(-89.928051, -89.507336, 34.192307, 33.867046)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Yalobusha County, Mississippi, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Yalobusha",
+    "Yalobusha County",
+    "Mississippi",
+    "Holly Springs National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:33Z",
+  "layer_id_s": "restricted-figgy:4a1caf46-3f87-44bf-bc3d-89983000af2a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/60ee3f72-cee6-4dff-92fe-2bbf194f94a8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9fc7f6e-cd8a-471f-9092-154287818797/file/844797eb-b21f-433d-b4b1-7c3eb111b37e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a1caf46-3f87-44bf-bc3d-89983000af2a/file/1d7b5abe-3c49-404c-809f-86fb98ec97c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a1caf46-3f87-44bf-bc3d-89983000af2a/file/f5b1bd6f-696b-46d9-a650-d4fc65a5a6d5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

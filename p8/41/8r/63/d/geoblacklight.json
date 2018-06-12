@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418r63d",
+  "layer_slug_s": "princeton-p8418r63d",
+  "uuid": "princeton-p8418r63d",
+  "dc_title_s": "Shelby County, Ohio land parcels, 2010",
+  "solr_geom": "ENVELOPE(-84.434618, -84.001899, 40.483262, 40.183978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shelby County, Ohio, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Shelby",
+    "Shelby County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:48:39Z",
+  "layer_id_s": "restricted-figgy:c701f84d-9006-4b7a-995a-32a29b810092",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/efea6a69-3301-497b-839d-6e9466e5d157\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6505de69-665a-4778-a895-2052fc850271/file/e8ef454a-1f53-48c2-95f1-59d502e78fd2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c701f84d-9006-4b7a-995a-32a29b810092/file/10834eb3-85eb-46f7-86cc-8836359bfda4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c701f84d-9006-4b7a-995a-32a29b810092/file/2fff00da-d868-4de9-ac46-f003f4c99ce6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

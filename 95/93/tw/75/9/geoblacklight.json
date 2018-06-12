@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tw759",
+  "layer_slug_s": "princeton-9593tw759",
+  "uuid": "princeton-9593tw759",
+  "dc_title_s": "U.S. Geographic Names Information System Schools 2008",
+  "solr_geom": "ENVELOPE(-170.834167, 167.737222, 64.871816, -14.363056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Schools represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "point",
+    "school",
+    "place name",
+    "geographic feature",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Territories",
+    "U.S. Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "1981",
+    "2007",
+    "1974-Present"
+  ],
+  "solr_year_i": 1981,
+  "layer_modified_dt": "2018-04-05T02:44:09Z",
+  "layer_id_s": "restricted-figgy:a609bbea-09d5-4bd0-a9c9-628271579d28",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ecc2325f-5d6b-446b-bb61-59215353cf6e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/299d50bf-de7e-4c43-8bbd-ecc379c26a72/file/cad70e76-0415-4d85-bc09-62964bdb4981\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a609bbea-09d5-4bd0-a9c9-628271579d28/file/c9ecae5c-3fee-4e1c-929e-4e76d093f703\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a609bbea-09d5-4bd0-a9c9-628271579d28/file/cbf09793-be88-4883-8aeb-a779d0a67d42\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

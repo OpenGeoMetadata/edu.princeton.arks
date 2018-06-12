@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8p58pf55w",
+  "layer_slug_s": "princeton-8p58pf55w",
+  "uuid": "princeton-8p58pf55w",
+  "dc_title_s": "Austria District Boundaries, 2006",
+  "solr_geom": "ENVELOPE(9.529923, 17.159856, 49.020364, 46.372056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the district boundaries of Austria created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "districts",
+    "Boundaries",
+    "district boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:53Z",
+  "layer_id_s": "restricted-figgy:564a8fd1-4795-4c92-8d45-3ca32b55153a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e14711cc-138b-40ba-8d35-b8177772ca59\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4900f6a4-a6c6-48d1-a9ac-6437d43e2395/file/ee6d85bb-0772-46d1-9497-061bea0a8b1d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/564a8fd1-4795-4c92-8d45-3ca32b55153a/file/fce10417-ee33-4325-84fd-24f34f05d318\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/564a8fd1-4795-4c92-8d45-3ca32b55153a/file/d5beaa72-5222-4a01-ba87-bbe86da4fd5d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

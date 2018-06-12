@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w335n",
+  "layer_slug_s": "princeton-vd66w335n",
+  "uuid": "princeton-vd66w335n",
+  "dc_title_s": "U.S. Institutions, 2013",
+  "solr_geom": "ENVELOPE(-166.52961, -65.441171, 71.292682, 17.962753)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, places of worship, government offices, cemeteries, museums, and libraries.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "point",
+    "institutions",
+    "hospitals",
+    "polyclinics",
+    "schools",
+    "colleges/universities",
+    "vocational schools",
+    "educational institutions",
+    "child care facilities",
+    "places of worship",
+    "religious institutions",
+    "government offices",
+    "cemeteries",
+    "museums",
+    "libraries",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:35:09Z",
+  "layer_id_s": "restricted-figgy:a3fe9601-ee03-4131-b269-d52c3f64d4ea",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bdb29fb2-da4c-449f-adda-95477df0a239\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0f80e0e-b735-45c6-8123-5dd2c7f16843/file/e69f2796-e648-47f8-bf51-d90a0c8caf24\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3fe9601-ee03-4131-b269-d52c3f64d4ea/file/37399b2c-545a-4181-8111-68a38eda5970\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3fe9601-ee03-4131-b269-d52c3f64d4ea/file/0ebc3581-922a-41e8-b722-86d7aa9de454\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bj300",
+  "layer_slug_s": "princeton-pg15bj300",
+  "uuid": "princeton-pg15bj300",
+  "dc_title_s": "Floyd County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.462315, -85.005145, 34.587303, 34.079019)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Floyd County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Floyd",
+    "Floyd County",
+    "Georgia",
+    "Rome"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:07Z",
+  "layer_id_s": "restricted-figgy:369a2216-0fd7-4129-a799-6fa6d0003bd1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b954f3b-55b6-4d86-b6db-d5fff538d688\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80f37f57-f132-4dc8-bfdd-47666a4a813f/file/f07adc7b-7853-498e-8bfd-035898bdc54a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/369a2216-0fd7-4129-a799-6fa6d0003bd1/file/f38ad0e2-fba7-4a16-bf25-722d0a448077\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/369a2216-0fd7-4129-a799-6fa6d0003bd1/file/8b568730-4f81-4090-9384-ece61a5ef7e7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

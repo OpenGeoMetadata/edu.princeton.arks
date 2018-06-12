@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429d52x",
+  "layer_slug_s": "princeton-47429d52x",
+  "uuid": "princeton-47429d52x",
+  "dc_title_s": "Stillwater County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-110.044053, -108.843016, 46.132371, 45.167339)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Stillwater County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Stillwater",
+    "Stillwater County",
+    "Montana",
+    "Yellowstone River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:03Z",
+  "layer_id_s": "restricted-figgy:434bf4da-5c00-4662-a143-5e5a5ff4ee9b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/97aa7829-514b-49d6-b390-beb58fbe893b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0161bb70-3851-415a-a94a-7face8fd9d00/file/90f03ce3-00bb-4c20-ba91-b4f6124b6d8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/434bf4da-5c00-4662-a143-5e5a5ff4ee9b/file/4f1f0997-7bba-4f67-8778-87aca88b8d4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/434bf4da-5c00-4662-a143-5e5a5ff4ee9b/file/09062e9a-0bad-47cc-9d32-228bfa36f9b0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

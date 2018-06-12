@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m7548",
+  "layer_slug_s": "princeton-cn69m7548",
+  "uuid": "princeton-cn69m7548",
+  "dc_title_s": "Tehama County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-123.066677, -121.341999, 40.446113, 39.797232)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tehama County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tehama",
+    "Tehama County",
+    "California",
+    "Mendocino National Forest",
+    "Sacramento River",
+    "Lassen Volcanic National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:08Z",
+  "layer_id_s": "restricted-figgy:619403c4-705f-4d84-852d-7766d76f5889",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e3a54da-295f-45fb-8734-a6c5789703b8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8cfccd89-e350-4c0e-97e0-d1f9084662ac/file/965b2e3c-8095-4d77-89cb-7eae80a59d56\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/619403c4-705f-4d84-852d-7766d76f5889/file/93030642-6d44-4832-a0d8-f4a6386b1425\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/619403c4-705f-4d84-852d-7766d76f5889/file/03cac1c2-0f6c-483f-b861-9188994bd7cf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

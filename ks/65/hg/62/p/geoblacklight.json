@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg62p",
+  "layer_slug_s": "princeton-ks65hg62p",
+  "uuid": "princeton-ks65hg62p",
+  "dc_title_s": "Taylor County, Geogria land parcels, 2005",
+  "solr_geom": "ENVELOPE(-84.452848, -84.000452, 32.744545, 32.372032)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Taylor County, Georgia, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Georgia",
+    "Taylor",
+    "Taylor County"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T22:48:28Z",
+  "layer_id_s": "restricted-figgy:8fbf9569-2c05-405e-9965-419565f4f64b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f4b85557-7e6f-42f8-9af1-9254b49be8f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e19bb275-ca7f-4941-af2d-1bfeeb6edb18/file/25b21160-5f36-4804-a4e4-42dbe8c1c86f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8fbf9569-2c05-405e-9965-419565f4f64b/file/34424b87-b2a8-4379-ae0b-0f7a09328ca5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8fbf9569-2c05-405e-9965-419565f4f64b/file/80fde759-d474-4615-8765-33135d572e48\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

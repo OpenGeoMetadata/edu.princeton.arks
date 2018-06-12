@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zs00h",
+  "layer_slug_s": "princeton-vq27zs00h",
+  "uuid": "princeton-vq27zs00h",
+  "dc_title_s": "Tulare County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-119.574978, -117.994447, 36.741298, 35.78624)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Tulare County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Tulare",
+    "Tulare County",
+    "California",
+    "Visalia",
+    "Inyo National Forest",
+    "Kings Canyon National Park",
+    "Sequoia National Forest",
+    "Sequoia National Park",
+    "Central Valley",
+    "Sierra Nevada"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:8d48cc24-d319-42aa-a31a-7042e7815a73",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b2e9969b-7805-4165-887d-b9e967068bc2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8b3ea903-c2b8-47c9-b01e-8cd7b53bd609/file/88c9018a-ee4f-4cd4-8ad7-607cc85c24c7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d48cc24-d319-42aa-a31a-7042e7815a73/file/d1fb806e-6d45-4674-964a-39c35392b14d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d48cc24-d319-42aa-a31a-7042e7815a73/file/d6ace72c-9b06-420e-9f0a-7a04dba9380d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

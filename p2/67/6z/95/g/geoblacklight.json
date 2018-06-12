@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p2676z95g",
+  "layer_slug_s": "princeton-p2676z95g",
+  "uuid": "princeton-p2676z95g",
+  "dc_title_s": "Avery County, North Carolina roads, 2014",
+  "solr_geom": "ENVELOPE(-82.069168, -81.74683, 36.284487, 35.923146)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Avery County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Avery",
+    "Avery County",
+    "North Carolina",
+    "Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:20Z",
+  "layer_id_s": "restricted-figgy:cc4fab8c-daa2-4264-a465-9e019369d948",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7926d354-7903-4a57-8860-7f7b13a694da\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8fa1d974-ca44-47cb-b03a-d4328f96ecfd/file/2b114e68-a7ae-4dcf-9d5f-854b4c2d15a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc4fab8c-daa2-4264-a465-9e019369d948/file/e543523e-16fa-41aa-a99f-96fe08222cf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc4fab8c-daa2-4264-a465-9e019369d948/file/de81726c-cf17-44b6-a1cd-24df49c7600c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

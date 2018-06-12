@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xp68kk61t",
+  "layer_slug_s": "princeton-xp68kk61t",
+  "uuid": "princeton-xp68kk61t",
+  "dc_title_s": "Riley County, Kansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.961592, -96.388991, 39.566508, 39.043319)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Riley County, Kansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kansas",
+    "Riley",
+    "Riley County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:09Z",
+  "layer_id_s": "restricted-figgy:cc43df35-5e2d-4fa1-b3c1-cf2328f36d36",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d6ba42f3-2814-477f-a594-66b461d75233\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/944f3205-7da1-415d-95d1-abffafbd0ad6/file/3e7e1191-1f8f-447a-be68-8bd6caeee517\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc43df35-5e2d-4fa1-b3c1-cf2328f36d36/file/2a200d77-243c-48ac-a255-96a2dc1bdd49\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc43df35-5e2d-4fa1-b3c1-cf2328f36d36/file/d27a199b-f153-4c7f-8e96-3ef1bdb17805\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jd473094f",
+  "layer_slug_s": "princeton-jd473094f",
+  "uuid": "princeton-jd473094f",
+  "dc_title_s": "Madison County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-83.81847, -83.171493, 30.651392, 30.260262)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Madison County",
+    "Madison",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:11:14Z",
+  "layer_id_s": "restricted-figgy:3d317fb7-ce92-46c3-a09c-b1f06666e048",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/06727749-df85-4c2b-80d4-89de8a7b8527\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98539e1c-8e09-4da2-bf1e-46c69a617427/file/993f4ec3-fac5-48b7-a5fc-1374b1b53a83\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d317fb7-ce92-46c3-a09c-b1f06666e048/file/e03ac323-040e-4194-858f-8aadf76089f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d317fb7-ce92-46c3-a09c-b1f06666e048/file/db3512c5-43ff-4ea7-be03-31da4dc9a61f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

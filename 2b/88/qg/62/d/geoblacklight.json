@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qg62d",
+  "layer_slug_s": "princeton-2b88qg62d",
+  "uuid": "princeton-2b88qg62d",
+  "dc_title_s": "San Francisco County, California roads, 2009",
+  "solr_geom": "ENVELOPE(-122.515003, -122.355684, 37.832365, 37.706032)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Francisco County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Francisco County",
+    "San Francisco",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:33:56Z",
+  "layer_id_s": "restricted-figgy:2b21ab25-6fa8-4911-be90-08f6354ba437",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/224e0939-1e1f-46f3-b27a-54b0a4a994d1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/55a6f782-26f5-464d-870b-0dd3e819d3ec/file/f5f23898-afe3-4c9a-b822-1bdf8f1a7d42\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b21ab25-6fa8-4911-be90-08f6354ba437/file/91c27c11-8cb2-4892-af7f-8a104028763d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b21ab25-6fa8-4911-be90-08f6354ba437/file/9f027ed8-7d64-4614-bf49-7ab39231ba43\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

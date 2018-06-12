@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2f75r9448",
+  "layer_slug_s": "princeton-2f75r9448",
+  "uuid": "princeton-2f75r9448",
+  "dc_title_s": "Spain Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(-16.665183, 2.825034, 43.55665, 27.906372)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Spain cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:00Z",
+  "layer_id_s": "restricted-figgy:74a6e87c-4efc-4409-b8e3-2e44d92132ca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/14eb8c35-9369-438e-a040-d89b2145eabe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e558df7-5cd0-4156-ba38-07ae68c2306a/file/5507f293-9ec3-4544-85d2-0a5ef01c8ad7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74a6e87c-4efc-4409-b8e3-2e44d92132ca/file/04db6d58-ab43-4c36-aa0a-e181ff72c54c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74a6e87c-4efc-4409-b8e3-2e44d92132ca/file/2b9c96e5-5177-40a7-be05-e1ed8a22dd14\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

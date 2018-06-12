@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547s78t",
+  "layer_slug_s": "princeton-p5547s78t",
+  "uuid": "princeton-p5547s78t",
+  "dc_title_s": "Greece 3-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(19.377169, 29.603453, 41.74889, 34.79932)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greece 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:26Z",
+  "layer_id_s": "restricted-figgy:eec6522e-26bc-483f-be50-342daed2bdbc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9ebc85ed-0743-48c1-8db7-dba22551a8e4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/93badf43-b129-4f69-b982-4d256644b510/file/ee534cb9-8b13-48c6-bb8d-0b958be8795a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eec6522e-26bc-483f-be50-342daed2bdbc/file/7cb7046d-4a84-4ab2-905f-ed92b4801f0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eec6522e-26bc-483f-be50-342daed2bdbc/file/47c37fa6-a2f7-429b-93b9-048883014b69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

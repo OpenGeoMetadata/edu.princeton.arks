@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx82r",
+  "layer_slug_s": "princeton-2v23vx82r",
+  "uuid": "princeton-2v23vx82r",
+  "dc_title_s": "Shasta County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-123.068806, -121.320902, 41.185808, 40.285085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shasta County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Shasta",
+    "Shasta County",
+    "California",
+    "Redding"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:02Z",
+  "layer_id_s": "restricted-figgy:c1a41759-7dc5-4db6-b3fa-ba0338e4d4be",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6563a964-4c88-4661-bb30-a47eb88da9a4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/584bec96-b3e0-4611-b914-3fd67ce0f1ed/file/56b8afb2-c465-4d5d-824d-6387e89f6b34\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1a41759-7dc5-4db6-b3fa-ba0338e4d4be/file/8a00f1d7-95ad-498a-b5d0-2aea21edfc67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1a41759-7dc5-4db6-b3fa-ba0338e4d4be/file/37411f42-3918-4227-940f-647bccde27b2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

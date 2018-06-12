@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494c84b",
+  "layer_slug_s": "princeton-fb494c84b",
+  "uuid": "princeton-fb494c84b",
+  "dc_title_s": "Hampden County, Massachusetts roads, 2011",
+  "solr_geom": "ENVELOPE(-73.072979, -72.13486, 42.343807, 41.998395)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hampden County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Hampden",
+    "Hampden County",
+    "Massachusetts",
+    "Springfield",
+    "Connecticut River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:46:52Z",
+  "layer_id_s": "restricted-figgy:20396ef5-2628-481a-8bcd-506864c91a18",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/77b26b6a-d45a-4664-8723-ca7bed1e8f91\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22d4748c-4dbc-4507-9bbd-d0183bb13dfa/file/d66c845f-0211-4420-8828-b8f10fc69447\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20396ef5-2628-481a-8bcd-506864c91a18/file/2de59917-8877-4c35-831e-c8a32959dc49\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20396ef5-2628-481a-8bcd-506864c91a18/file/d03eb394-178a-4261-a96d-8859221e59c0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7w62fc590",
+  "layer_slug_s": "princeton-7w62fc590",
+  "uuid": "princeton-7w62fc590",
+  "dc_title_s": "Box Elder County, Utah land parcels, 2011",
+  "solr_geom": "ENVELOPE(-114.042057, -111.873171, 42.001224, 40.999894)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Box Elder County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Box Elder",
+    "Box Elder County",
+    "Utah",
+    "Great Salt Lake",
+    "Ogden"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:34Z",
+  "layer_id_s": "restricted-figgy:0ca0c6a7-77b0-46b5-ae08-fcad6974f385",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/800968bd-939c-474d-83a5-8b17b477cb95\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e67bf79a-12c3-4348-8c9d-e4104e149591/file/623579ad-9017-4e58-b2a7-7d48ee814b38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ca0c6a7-77b0-46b5-ae08-fcad6974f385/file/7284a2dc-b672-444e-8a6b-63fb05f3dc6e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ca0c6a7-77b0-46b5-ae08-fcad6974f385/file/697c6074-ea52-4da5-a8fc-5d621de84833\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

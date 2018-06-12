@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9880vv35z",
+  "layer_slug_s": "princeton-9880vv35z",
+  "uuid": "princeton-9880vv35z",
+  "dc_title_s": "Fairfax County, Virginia land parcels, 2006",
+  "solr_geom": "ENVELOPE(-77.537011, -77.041451, 39.057677, 38.617303)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fairfax County, Virginia, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Northern Virginia",
+    "Fairfax",
+    "Fairfax County",
+    "Washington",
+    "Washington DC",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:12:43Z",
+  "layer_id_s": "restricted-figgy:c9180ab5-a42a-49de-b3ca-22c10bd370c2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99e4718c-2ad8-4f5c-90ea-9ea8eb495055\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6059e623-c52b-408e-806b-f6aadc562804/file/dd326eb2-5583-4b0a-9551-c7ef9db8b1d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9180ab5-a42a-49de-b3ca-22c10bd370c2/file/00cc4f65-799e-4ba3-8c5c-7b6953e4b5b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9180ab5-a42a-49de-b3ca-22c10bd370c2/file/14947eec-a0f8-4882-8f01-ce4881c0eea1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

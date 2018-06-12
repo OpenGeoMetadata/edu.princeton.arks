@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547s83v",
+  "layer_slug_s": "princeton-p5547s83v",
+  "uuid": "princeton-p5547s83v",
+  "dc_title_s": "Europe Provinces 2002",
+  "solr_geom": "ENVELOPE(-31.2672, 66.0633, 71.1839, 27.6359)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Europe Provinces represents provinces or province-like areas for Europe.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "provinces",
+    "Boundaries",
+    "coastlines"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:55:12Z",
+  "layer_id_s": "restricted-figgy:52454b1f-4d8b-4155-b625-3865a69bf1e7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/151d01cf-52dc-4f37-a15e-1020c2489d1e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/93472f43-48e3-47ce-a38f-8d29cf83f472/file/31363531-e0e9-477c-bb80-aa494ce3266b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/52454b1f-4d8b-4155-b625-3865a69bf1e7/file/e6c775bb-3ff2-4f6f-9004-31f2e3bd4aef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/52454b1f-4d8b-4155-b625-3865a69bf1e7/file/f1411ff8-968b-407b-8b0a-4b1475993798\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

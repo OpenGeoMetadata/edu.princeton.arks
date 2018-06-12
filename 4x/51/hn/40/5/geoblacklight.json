@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4x51hn405",
+  "layer_slug_s": "princeton-4x51hn405",
+  "uuid": "princeton-4x51hn405",
+  "dc_title_s": "New Castle County, Delaware land parcels, 2008",
+  "solr_geom": "ENVELOPE(-75.789004, -75.421089, 39.839537, 39.290451)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in New Castle County, Delaware, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Delaware Valley",
+    "New Castle",
+    "New Castle County",
+    "Wilmington",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:37:40Z",
+  "layer_id_s": "restricted-figgy:909e8079-9f50-4f5b-b568-cacdb9713941",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b14a367d-2337-4ec3-a448-3372e8434a42\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/00dbe208-e887-4a05-baaf-b2534405e868/file/58d2973a-c621-4303-ba92-dff3bac00e26\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/909e8079-9f50-4f5b-b568-cacdb9713941/file/887553a2-610d-4ae7-b966-e35b9947b74d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/909e8079-9f50-4f5b-b568-cacdb9713941/file/b1b61bd2-f81e-4de5-95fd-c7e562a82988\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m900nx90r",
+  "layer_slug_s": "princeton-m900nx90r",
+  "uuid": "princeton-m900nx90r",
+  "dc_title_s": "Kit Carson County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-103.163162, -102.046664, 39.573961, 39.038027)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kit Carson County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Kit Carson",
+    "Kit Carson County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:09Z",
+  "layer_id_s": "restricted-figgy:8048a0bc-522b-40e5-978c-4a458edf65df",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4445cd7d-85f2-4c78-b13c-aceeb7850b55\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7806a208-b4b2-4509-9844-8cae8a64af56/file/0865b694-153a-4fa6-bd86-cde9473449c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8048a0bc-522b-40e5-978c-4a458edf65df/file/69ef656d-5cd8-4289-b994-fb8183913185\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8048a0bc-522b-40e5-978c-4a458edf65df/file/5b7ad63f-fc68-4224-868e-140b28d702dc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

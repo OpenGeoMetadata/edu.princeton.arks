@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9k41zg03t",
+  "layer_slug_s": "princeton-9k41zg03t",
+  "uuid": "princeton-9k41zg03t",
+  "dc_title_s": "Czech Republic Minor Lakes, 2005",
+  "solr_geom": "ENVELOPE(12.255789, 18.122639, 50.629082, 48.761528)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include minor lakes of Czech Republic created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:08Z",
+  "layer_id_s": "restricted-figgy:231451e1-492b-4ba5-b73a-d0722deadf45",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eca839aa-075f-4cce-8870-8cdbe2af084e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ae173ac-5aa8-47f4-818f-d838d4d7e337/file/1670b0d2-1aed-4aee-aa5d-c0b2ef8543bd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/231451e1-492b-4ba5-b73a-d0722deadf45/file/b2e4b4ba-12ba-4802-8ec6-5fb575a805d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/231451e1-492b-4ba5-b73a-d0722deadf45/file/0e518f89-a635-4cbe-8e28-774f6e8b58ea\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

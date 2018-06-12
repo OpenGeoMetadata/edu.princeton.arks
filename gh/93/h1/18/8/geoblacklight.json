@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gh93h1188",
+  "layer_slug_s": "princeton-gh93h1188",
+  "uuid": "princeton-gh93h1188",
+  "dc_title_s": "Nepal Cities With Population 100 Thousand and More, 1994",
+  "solr_geom": "ENVELOPE(83.990616, 87.278816, 28.211807, 26.455975)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Nepal cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1994"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:36Z",
+  "layer_id_s": "restricted-figgy:7e643f6a-0a1d-486c-a1d3-69cb99ddfe75",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc7eda6f-faa1-42bc-bd90-aca6661b8871\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea5b7f1e-350e-4b79-bf59-6107198f0ffc/file/c035d218-b567-4639-8d89-172182e7807d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e643f6a-0a1d-486c-a1d3-69cb99ddfe75/file/5cca59e5-e584-4a62-9abe-8bfc276de8fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e643f6a-0a1d-486c-a1d3-69cb99ddfe75/file/5badee5e-1c8d-459e-86d3-c04d0f85010b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

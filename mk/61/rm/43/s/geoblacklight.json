@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mk61rm43s",
+  "layer_slug_s": "princeton-mk61rm43s",
+  "uuid": "princeton-mk61rm43s",
+  "dc_title_s": "Mono County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-119.650505, -117.830884, 38.705595, 37.462642)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mono County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Mono County",
+    "Mono",
+    "Sierra Nevada",
+    "Inyo National Forest",
+    "Toiyabe National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:52Z",
+  "layer_id_s": "restricted-figgy:4c7116a1-ca96-45a4-b61d-0863c973314c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/69f06131-aff6-4225-b93d-5704aa02e137\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25bfa717-f56a-46c5-8387-659eb38215f8/file/8c449bb8-0058-482d-b97a-6535bfbe269a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c7116a1-ca96-45a4-b61d-0863c973314c/file/e005ea4c-3241-444a-8ef2-2bfd9772d6c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c7116a1-ca96-45a4-b61d-0863c973314c/file/88b37936-9bef-4ac1-9dac-dd3183ae0995\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

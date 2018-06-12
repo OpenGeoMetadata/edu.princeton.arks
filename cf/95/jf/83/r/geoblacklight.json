@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jf83r",
+  "layer_slug_s": "princeton-cf95jf83r",
+  "uuid": "princeton-cf95jf83r",
+  "dc_title_s": "Guadalupe County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-98.311828, -97.631017, 29.858291, 29.362162)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Guadalupe County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Guadalupe",
+    "Guadalupe County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:58:02Z",
+  "layer_id_s": "restricted-figgy:f2ad718a-7170-455a-9950-5962e088db8d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc86a901-4234-4449-a002-2c0d6a9a21fc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd239c9d-7784-4ff2-a23c-b275c7e3b447/file/fcc7cdfb-3bc3-431c-8211-2a7746a58504\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2ad718a-7170-455a-9950-5962e088db8d/file/23a25aee-4af0-4675-86f4-47eabb43cd53\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2ad718a-7170-455a-9950-5962e088db8d/file/fa4321f6-07e0-4d95-aada-cb64c035030e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

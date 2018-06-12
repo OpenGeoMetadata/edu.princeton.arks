@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj236350g",
+  "layer_slug_s": "princeton-fj236350g",
+  "uuid": "princeton-fj236350g",
+  "dc_title_s": "Ukraine Major Power Lines, 2004",
+  "solr_geom": "ENVELOPE(22.186251, 40.054416, 52.176361, 44.400501)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Ukraine created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:58:54Z",
+  "layer_id_s": "restricted-figgy:6b9da721-647a-4e27-8e37-9d367538e463",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/12531e63-c55f-4290-8fef-23f1e67c8f81\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/99169b0a-32d1-453f-b76e-1832677e04d7/file/fd06fdba-6ed8-4183-ba0e-5f3725edfe7a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b9da721-647a-4e27-8e37-9d367538e463/file/9c761af0-eb94-40f5-a057-1f36f84849a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b9da721-647a-4e27-8e37-9d367538e463/file/67865182-ec91-4ea4-9ab0-d9c95f45fba3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

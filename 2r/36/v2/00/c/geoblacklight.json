@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v200c",
+  "layer_slug_s": "princeton-2r36v200c",
+  "uuid": "princeton-2r36v200c",
+  "dc_title_s": "Taylor County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.21355, -79.885788, 39.453173, 39.236878)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Taylor County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Taylor",
+    "Taylor County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:09:34Z",
+  "layer_id_s": "restricted-figgy:71bc9729-639f-4ad9-8b72-0d95e1099d15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c0a0ed44-b724-4cb5-8c80-8889b786abdf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1facb90-9abb-437d-9ec8-835553d3e91c/file/51a5729f-e968-45b4-aad4-00733c5d2ffa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71bc9729-639f-4ad9-8b72-0d95e1099d15/file/a61ad7fc-37ea-4a52-99bb-0c7872303356\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71bc9729-639f-4ad9-8b72-0d95e1099d15/file/5cdae5ca-e1dd-44bc-91b3-0e657e5a2be2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

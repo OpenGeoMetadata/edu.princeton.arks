@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m748r",
+  "layer_slug_s": "princeton-cn69m748r",
+  "uuid": "princeton-cn69m748r",
+  "dc_title_s": "El Dorado County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-121.148704, -119.876965, 39.067376, 38.50241)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in El Dorado County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "El Dorado",
+    "El Dorado County",
+    "Sacramento",
+    "Eldorado National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:07:05Z",
+  "layer_id_s": "restricted-figgy:6d65dc3d-4b83-4a13-8608-2a552a49470a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a521fb09-9dc6-4dbd-8224-53a62fc2a2eb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7fb39018-f417-491c-a447-2018734157ef/file/b9a7e25c-73d2-44c0-8998-410da31e8c2d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d65dc3d-4b83-4a13-8608-2a552a49470a/file/4d1eb626-15f1-4582-97c2-920e31d8b2ec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d65dc3d-4b83-4a13-8608-2a552a49470a/file/5674a622-f9e6-4c14-bc55-bfa5102bf342\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

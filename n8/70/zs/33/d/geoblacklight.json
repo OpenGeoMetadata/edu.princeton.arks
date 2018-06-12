@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n870zs33d",
+  "layer_slug_s": "princeton-n870zs33d",
+  "uuid": "princeton-n870zs33d",
+  "dc_title_s": "Philadelphia County, Pennsylvania land parcels, 2007",
+  "solr_geom": "ENVELOPE(-75.277755, -74.955805, 40.137851, 39.87091)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This dataset is composed of the entire City of Philadelphia's parcels based on their legal descriptions as of 2007.",
+  "dc_creator_sm": [
+    "Department of Records"
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "tax map",
+    "registry",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Philadelphia County",
+    "Philadelphia",
+    "North Philadelphia",
+    "Center City",
+    "South Philadelphia",
+    "West Philadelphia",
+    "Northeast Philadelphia",
+    "Manayunk",
+    "Germantown"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:15:40Z",
+  "layer_id_s": "restricted-figgy:86f112a2-1dfd-425d-9b73-dae16ee18c8f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2335b494-dfb7-44f5-a15e-3ab2bbcc4aff\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8113c01b-8edb-413a-86ad-f79efa73cffa/file/94b4056e-6cab-4326-9879-67e2c6a43337\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86f112a2-1dfd-425d-9b73-dae16ee18c8f/file/b97aacab-2762-4b45-beb3-56968f832689\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86f112a2-1dfd-425d-9b73-dae16ee18c8f/file/2f74ffd3-cb2d-43d9-a220-8e35908d9f18\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

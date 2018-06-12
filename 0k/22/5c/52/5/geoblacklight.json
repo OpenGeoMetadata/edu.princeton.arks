@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0k225c525",
+  "layer_slug_s": "princeton-0k225c525",
+  "uuid": "princeton-0k225c525",
+  "dc_title_s": "Malta 5- and 6-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(14.183136, 14.576155, 36.082695, 35.80599)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Malta 5 and 6 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "5 digit",
+    "6 digit"
+  ],
+  "dct_spatial_sm": [
+    "Malta"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:08Z",
+  "layer_id_s": "restricted-figgy:037179b4-d2c0-4cfc-96e1-fe95bffbd278",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a3507f9f-a3bb-48bc-ab51-88ae546cf177\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/caa4d932-b19b-4bfe-bd70-dd86caefeeac/file/812f2018-91ea-469f-b62b-bc54a60d7738\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/037179b4-d2c0-4cfc-96e1-fe95bffbd278/file/4dba46f7-aa9f-4d95-b06a-4d05fd24d475\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/037179b4-d2c0-4cfc-96e1-fe95bffbd278/file/18013663-14be-47e8-a5a9-1fa5fcf36639\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

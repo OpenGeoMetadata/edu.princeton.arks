@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b466k",
+  "layer_slug_s": "princeton-k643b466k",
+  "uuid": "princeton-k643b466k",
+  "dc_title_s": "Edgecombe County, North Carolina land parcels, 2007",
+  "solr_geom": "ENVELOPE(-77.828196, -77.332116, 36.154433, 35.672224)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Edgecombe County, North Carolina, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Edgecombe",
+    "Edgecombe County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T01:13:08Z",
+  "layer_id_s": "restricted-figgy:01c19a90-06ba-45dc-907d-1b7cd306e828",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eb8d1094-1bcc-4733-a53b-f8dc6a93fe34\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/97d35b2a-c482-4642-89d4-9b3c557568e9/file/c538c2b1-fd83-428f-8dd4-f46a74f67e65\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01c19a90-06ba-45dc-907d-1b7cd306e828/file/88fc34a2-10af-4bf7-b846-73a24da0b612\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01c19a90-06ba-45dc-907d-1b7cd306e828/file/83953c57-e7b7-4e2c-9292-0cfa92f440c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

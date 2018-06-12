@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bc386n66c",
+  "layer_slug_s": "princeton-bc386n66c",
+  "uuid": "princeton-bc386n66c",
+  "dc_title_s": "Putnam County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.399389, -83.880406, 41.167822, 40.859241)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Putnam County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Putnam",
+    "Putnam County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:22Z",
+  "layer_id_s": "restricted-figgy:0f15a62b-ea4a-4f86-9c96-dd3044101019",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a2eaa65-47d2-4bcd-be3b-dfe1cd6b4525\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c19f903-a4be-44e9-92ab-6f279be83c73/file/7a55666f-349e-475d-9491-73ca3788d0f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f15a62b-ea4a-4f86-9c96-dd3044101019/file/dc0f06de-cd7b-4054-b660-1d6a20c43768\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f15a62b-ea4a-4f86-9c96-dd3044101019/file/fd7bcb36-af5f-4a55-8ad2-de08bea6e521\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

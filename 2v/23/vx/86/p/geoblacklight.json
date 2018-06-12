@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx86p",
+  "layer_slug_s": "princeton-2v23vx86p",
+  "uuid": "princeton-2v23vx86p",
+  "dc_title_s": "Pulaski County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.93093, -86.467009, 41.174628, 40.909794)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pulaski County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pulaski",
+    "Pulaski County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:27Z",
+  "layer_id_s": "restricted-figgy:bfd90652-93d2-4864-908b-0a644ed9fb52",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9c5e1f6-8f02-4d7a-a67a-01138c20a08d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c65120af-4f0b-4995-8b0d-b612c52e8e05/file/b5d9c337-0410-49c2-ba88-3d20949f1510\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bfd90652-93d2-4864-908b-0a644ed9fb52/file/13957138-adfd-4510-89c1-d4a6103e275f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bfd90652-93d2-4864-908b-0a644ed9fb52/file/833bf46e-4349-42d4-a8d9-f1b3fb6e7066\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

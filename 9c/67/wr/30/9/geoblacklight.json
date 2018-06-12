@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9c67wr309",
+  "layer_slug_s": "princeton-9c67wr309",
+  "uuid": "princeton-9c67wr309",
+  "dc_title_s": "Hancock County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-68.828271, -68.311331, 44.817544, 44.306098)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Hancock County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hancock",
+    "Hancock County",
+    "Maine",
+    "Acadia National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:42Z",
+  "layer_id_s": "restricted-figgy:0bd1faa5-fc36-46c8-a8c5-154251d05e68",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/833349b6-6de6-468d-aba0-7dbd58376808\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7136ec20-7dab-4a2b-9068-19c558801519/file/953f5fee-2cc9-4d49-b231-38780ecb04f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0bd1faa5-fc36-46c8-a8c5-154251d05e68/file/6fbd6d63-fcfd-4304-afaf-7490124ad494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0bd1faa5-fc36-46c8-a8c5-154251d05e68/file/c4a6158d-6f4d-4031-8ee2-46ee490498f9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

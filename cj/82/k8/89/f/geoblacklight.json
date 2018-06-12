@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cj82k889f",
+  "layer_slug_s": "princeton-cj82k889f",
+  "uuid": "princeton-cj82k889f",
+  "dc_title_s": "Polk County, Oregon land parcels, 2010",
+  "solr_geom": "ENVELOPE(-123.725816, -123.03678, 45.076222, 44.720051)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Polk County, Oregon, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Polk",
+    "Polk County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T00:35:27Z",
+  "layer_id_s": "restricted-figgy:6ed68c24-cadd-4342-b98f-9f44b46ae957",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dd0e2867-8216-46fa-bc46-685337c03769\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/78ebe76b-a3b7-4916-ae71-97e59b752fd2/file/80bc2028-67af-45f9-b885-ba4a1f9d7633\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ed68c24-cadd-4342-b98f-9f44b46ae957/file/c820e839-650b-40c6-8b4b-1f73a45082a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ed68c24-cadd-4342-b98f-9f44b46ae957/file/fa82a863-7efb-492e-a51c-549900415067\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

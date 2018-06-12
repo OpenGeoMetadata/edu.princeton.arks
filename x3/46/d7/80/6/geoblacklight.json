@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d7806",
+  "layer_slug_s": "princeton-x346d7806",
+  "uuid": "princeton-x346d7806",
+  "dc_title_s": "Zambia tsetse fly presence, 1938",
+  "solr_geom": "ENVELOPE(23.94217, 33.311266, -8.259892, -17.582956)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing areas of tsetse presence in Northern Rhodesia (Zambia) for 1938. Boundaries of these areas were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "disease",
+    "diseases",
+    "tsetse",
+    "tsetse fly",
+    "Health"
+  ],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Rhodesia",
+    "Northern Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1938",
+    "2018"
+  ],
+  "solr_year_i": 1938,
+  "layer_modified_dt": "2018-06-06T23:58:35Z",
+  "layer_id_s": "public-figgy:5bb30077-389c-4284-a4cc-c7cd2385456d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0dd9ebfa-2eab-4537-9e98-d61c1c57d433\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b00e13eb-f23c-4ab7-846f-7b1ff0e3aa76/file/325431e4-dbfb-41c5-922a-34774521f8eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bb30077-389c-4284-a4cc-c7cd2385456d/file/b380f27d-e836-4820-99a6-a57220b9758f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bb30077-389c-4284-a4cc-c7cd2385456d/file/69ff3a3c-fed8-430f-99e7-1b0b158980e7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

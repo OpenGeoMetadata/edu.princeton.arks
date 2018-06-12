@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d791sh91x",
+  "layer_slug_s": "princeton-d791sh91x",
+  "uuid": "princeton-d791sh91x",
+  "dc_title_s": "Alabama Major Roads 2002",
+  "solr_geom": "ENVELOPE(-88.468249, -84.991681, 35.006605, 30.227182)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Alabama Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Alabama.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Alabama"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:16:49Z",
+  "layer_id_s": "restricted-figgy:9309a0b3-4985-4692-8404-61c8a8a28ebb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d744c474-0320-448d-a6aa-5beac3f22b79\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f13cbe68-037d-4984-8c31-dac47bd51146/file/3bf12b27-4ddb-4b05-b3ae-16dfd1a2cff2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9309a0b3-4985-4692-8404-61c8a8a28ebb/file/3eaf980d-40f3-4724-b370-d6da70257d3d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9309a0b3-4985-4692-8404-61c8a8a28ebb/file/65eb7b0e-66f2-462e-82ca-04ad20827ffd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

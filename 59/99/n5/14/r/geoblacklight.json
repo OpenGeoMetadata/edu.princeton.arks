@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5999n514r",
+  "layer_slug_s": "princeton-5999n514r",
+  "uuid": "princeton-5999n514r",
+  "dc_title_s": "Serbia-Montenegro Major Dams and Islands, 2005",
+  "solr_geom": "ENVELOPE(18.853582, 22.33939, 43.517334, 42.089443)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major dams and islands of Serbia-Montenegro created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Major islands",
+    "Islands",
+    "Dams"
+  ],
+  "dct_spatial_sm": [
+    "Serbia-Montenegro",
+    "Serbia",
+    "Montenegro"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:59Z",
+  "layer_id_s": "restricted-figgy:e1db393f-a2cd-44d5-b8f1-e262c1bb892a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a7d056ba-2d6a-40c6-817a-c3324e2518be\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f3546c7-4a6f-4b7d-9844-6ea7b08e146d/file/08c19979-e0f1-408b-9962-b0cb2c3ef250\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1db393f-a2cd-44d5-b8f1-e262c1bb892a/file/4958ede2-ad76-4fc9-aade-315cd092bbe3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1db393f-a2cd-44d5-b8f1-e262c1bb892a/file/8c4e8c70-09df-4bf3-ab5d-5f2a252b0b6c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tq57nv49r",
+  "layer_slug_s": "princeton-tq57nv49r",
+  "uuid": "princeton-tq57nv49r",
+  "dc_title_s": "Baldwin County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.431977, -83.044653, 33.19064, 32.924356)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Baldwin County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "value",
+    "land use",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Baldwin",
+    "Baldwin County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:00Z",
+  "layer_id_s": "restricted-figgy:a9f265bf-d8ce-456d-8b8e-870ade605cbd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b1e5bae-b085-4b81-9c56-e1507d70ad8a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ec84a96-2451-4cd0-b586-f71764aeac6d/file/d74deb97-f597-4adf-8282-97ff81bd5813\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9f265bf-d8ce-456d-8b8e-870ade605cbd/file/37161b64-be7c-435a-99ee-da5372e4a898\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9f265bf-d8ce-456d-8b8e-870ade605cbd/file/719e8703-c2fd-4e8b-9c4a-3a35e20d87c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bz60d064p",
+  "layer_slug_s": "princeton-bz60d064p",
+  "uuid": "princeton-bz60d064p",
+  "dc_title_s": "Marion County, Indiana roads, 2007",
+  "solr_geom": "ENVELOPE(-86.332772, -85.934979, 39.941762, 39.625834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Marion County, Indiana, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Marion County",
+    "Marion",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:37:23Z",
+  "layer_id_s": "restricted-figgy:82f5e5d2-ace5-4606-bce5-109fab8c9dd2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d00934a8-b3e2-4ec0-a974-b63200337e10\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9eb8a3e4-5c13-46cb-9aed-a089aa268b97/file/cc13abb1-c33c-49ec-9090-c80e6e011898\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82f5e5d2-ace5-4606-bce5-109fab8c9dd2/file/c798f637-daa4-4158-8f46-2fb9e9a36c25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82f5e5d2-ace5-4606-bce5-109fab8c9dd2/file/c5ed00d6-b16c-47fd-a69d-cf0464798c1f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wh246t80q",
+  "layer_slug_s": "princeton-wh246t80q",
+  "uuid": "princeton-wh246t80q",
+  "dc_title_s": "San Bernardino County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-117.802541, -114.131502, 35.809235, 33.870891)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Bernardino County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "property",
+    "ownership",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Bernardino County",
+    "San Bernardino",
+    "Fontana",
+    "Rancho Cucamonga",
+    "Ontario"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:12:24Z",
+  "layer_id_s": "restricted-figgy:56644bfc-da74-4af0-9b74-fca88e589806",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f46657e4-21ff-452f-a568-a920f89e7915\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/038558c6-f994-470d-a63c-c962471162c7/file/22789c72-f3b0-4455-9507-6a36f511d1bb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56644bfc-da74-4af0-9b74-fca88e589806/file/53f9cb98-d45b-4df5-a054-2d1329eb5f69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56644bfc-da74-4af0-9b74-fca88e589806/file/63f1db99-de8e-4d89-84f4-7f2945612a61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

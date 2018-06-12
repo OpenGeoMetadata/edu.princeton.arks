@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q237ht529",
+  "layer_slug_s": "princeton-q237ht529",
+  "uuid": "princeton-q237ht529",
+  "dc_title_s": "Germany Major Bridges and Tunnels, 2006",
+  "solr_geom": "ENVELOPE(6.663431, 12.465595, 52.496885, 49.208694)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany major bridges and tunnels created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Transportation",
+    "Tunnels",
+    "Bridges"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:11Z",
+  "layer_id_s": "restricted-figgy:c13257e7-89fc-4985-8f43-1b15bc2c8a8e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d256b31c-819b-42c8-b1b8-01014ff41c04\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d9df10d8-5f0e-41a8-ab48-a85aedcb161a/file/288b65bb-5f3f-4f1d-87a3-f0ed38dfc1ab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c13257e7-89fc-4985-8f43-1b15bc2c8a8e/file/0bc9cea4-b73c-4e9c-85f0-f1d9f00e5b51\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c13257e7-89fc-4985-8f43-1b15bc2c8a8e/file/e0e3db33-ee18-4509-95ef-3cab06a2d0f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

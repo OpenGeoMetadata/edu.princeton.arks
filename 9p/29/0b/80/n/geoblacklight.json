@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9p290b80n",
+  "layer_slug_s": "princeton-9p290b80n",
+  "uuid": "princeton-9p290b80n",
+  "dc_title_s": "U.S. Cities 2002",
+  "solr_geom": "ENVELOPE(-158.176464, -68.783012, 64.848302, 19.702482)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Cities represents locations for cities within United States with populations of 10,000 or greater and all state capitals.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "cities",
+    "capitals",
+    "demographics",
+    "population",
+    "households",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T03:06:21Z",
+  "layer_id_s": "restricted-figgy:3e940822-93f5-4824-9937-c4bd363b5495",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c69f017a-4ef2-41e8-b5c7-c71a07c2adf8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42aaf8fb-0c87-4c7c-930c-03f9a5a2f7ec/file/f1c4df84-00ff-47e4-be8d-587441394748\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e940822-93f5-4824-9937-c4bd363b5495/file/29b3e9f9-05fa-4a8e-a9be-0685155647b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e940822-93f5-4824-9937-c4bd363b5495/file/9d10fb89-d390-49e0-9220-a90484a53474\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

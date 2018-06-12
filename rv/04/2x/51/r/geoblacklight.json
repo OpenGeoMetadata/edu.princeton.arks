@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042x51r",
+  "layer_slug_s": "princeton-rv042x51r",
+  "uuid": "princeton-rv042x51r",
+  "dc_title_s": "Wake County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-78.986017, -78.253796, 36.076623, 35.520499)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Wake County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Wake County",
+    "North Carolina",
+    "Wake",
+    "Raleigh",
+    "Cary"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:57Z",
+  "layer_id_s": "restricted-figgy:cefcda6e-bb0d-453d-afcb-774cd2d8473d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5916d21-043d-4ed1-b9de-2497bc3c094b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9685a77c-ba08-4345-9a27-0b785a5d4c75/file/b771cd83-6f41-4bc1-8b89-8614ed13b98a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cefcda6e-bb0d-453d-afcb-774cd2d8473d/file/1c8746db-8362-4aff-8eb5-a15374d4dffa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cefcda6e-bb0d-453d-afcb-774cd2d8473d/file/b5fb55f1-ebaa-4a71-8ece-b78eb41698e2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

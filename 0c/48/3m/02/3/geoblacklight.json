@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0c483m023",
+  "layer_slug_s": "princeton-0c483m023",
+  "uuid": "princeton-0c483m023",
+  "dc_title_s": "U.S. Roads (Generalized) 2002",
+  "solr_geom": "ENVELOPE(-158.201337, -67.097243, 70.319233, 19.064057)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Roads (Generalized) represents interstate highways and major roads within the United States.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "interstates",
+    "highways",
+    "major roads",
+    "routes",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:49:34Z",
+  "layer_id_s": "restricted-figgy:9fbb63e1-e60b-4c94-a5ec-63c6cda8fc1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/250d4ac9-08b3-4f56-941b-93d3e187de41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d700519-d249-40b1-9f8b-4e98f9feac27/file/fc546feb-f026-4f8e-8cab-1b3e8e4957d6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fbb63e1-e60b-4c94-a5ec-63c6cda8fc1c/file/90f209fd-3d7a-4647-9596-aacc16ceb715\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fbb63e1-e60b-4c94-a5ec-63c6cda8fc1c/file/5cd21468-e5ac-4cb3-b1c3-fc4b893baf76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

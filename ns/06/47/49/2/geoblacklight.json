@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns0647492",
+  "layer_slug_s": "princeton-ns0647492",
+  "uuid": "princeton-ns0647492",
+  "dc_title_s": "Hungary Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(16.59506, 22.527306, 48.316165, 45.841667)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Hungary created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:14Z",
+  "layer_id_s": "restricted-figgy:687ed351-7896-4793-9394-02784169bd3a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d7547397-e17d-4b7b-8932-f09c992c8c1d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/10762f7e-89be-49f7-9db6-0cb00aaf192d/file/6ec88fe3-1f00-433f-84a2-176e43dabb67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/687ed351-7896-4793-9394-02784169bd3a/file/13b48231-35af-4395-9bd2-dfd42f648681\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/687ed351-7896-4793-9394-02784169bd3a/file/f451398c-55cf-45e2-bde6-3c9fdbf3613b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

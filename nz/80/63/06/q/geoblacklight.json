@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz806306q",
+  "layer_slug_s": "princeton-nz806306q",
+  "uuid": "princeton-nz806306q",
+  "dc_title_s": "Wood County, Wisconsin land parcels, 2011",
+  "solr_geom": "ENVELOPE(-90.318038, -89.724562, 44.685369, 44.247614)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wood County , Wisconsin, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wood",
+    "Wood County",
+    "Wisconsin",
+    "Wisconsin River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:50Z",
+  "layer_id_s": "restricted-figgy:add4a5e8-959d-42a8-bf1c-9498e377e82e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/987b940d-b857-40d6-bae4-c744701de936\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/69e74fc6-1adb-45a1-a87a-b28434b19653/file/ebd76802-245c-42b2-b42c-8a22949138a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/add4a5e8-959d-42a8-bf1c-9498e377e82e/file/167e8b69-1b83-4afb-97c8-690dbf778d98\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/add4a5e8-959d-42a8-bf1c-9498e377e82e/file/efb97431-988d-4ef6-b80f-b6747ace6641\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

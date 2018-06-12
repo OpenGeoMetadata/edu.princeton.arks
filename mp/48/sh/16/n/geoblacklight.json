@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sh16n",
+  "layer_slug_s": "princeton-mp48sh16n",
+  "uuid": "princeton-mp48sh16n",
+  "dc_title_s": "Caldwell County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-97.90493, -97.315468, 30.071529, 29.629851)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Caldwell County, Texas, 2008. Caldwell County, Texas is located in the South Central Zone of the Texas State Plane Coordinate System and is in the overlap zone with the Central Zone. All data received from CAPCO and various State Agencies are projected on the Central Zone NAD83. WE HAVE NOW PROJECTED ALL MAPS TO THE CENTRAL ZONE NAD83. The original maps created by this Appraisal District were hand drafted, based US Geological Survey maps with the South Central Zone projection NAD27, ACS 1989 aerial photography, and other available sources. There were 119 maps sheets at a scale of 1in=660ft with 11 detail maps of the rural communities, 13 detail maps of the City of Lockhart, and 10 details maps of the City of Luling, all at a scale of 1in=200ft. These maps were digitized using ESRI ArcInfo coverage files, starting in 1994 and completed in 1998. Much additional data and many special map coverages were added to the coverages during this process. Individual map coverage files were edge matched and combined to provide 4 major coverage files; East and West of Highway 183, and the cities of Lockhart and Luling. In 1999 all coverages were projected to the South Central Zone NAD 83.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Caldwell",
+    "Caldwell County",
+    "Austin"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:b2c728b2-e9a4-4dd9-90c2-74d6c71b8e01",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ddc3a585-47da-4e25-890c-5d69ab0fb4e6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fd93d12c-4d73-412d-bcae-fd302280e5b1/file/61e1f6c5-c702-49e9-9c11-e6956b7c6aae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2c728b2-e9a4-4dd9-90c2-74d6c71b8e01/file/e4b86375-c768-41eb-bdb4-cabf565b4dde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2c728b2-e9a4-4dd9-90c2-74d6c71b8e01/file/2a6f9b6e-be2a-452e-a914-3922f79630c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

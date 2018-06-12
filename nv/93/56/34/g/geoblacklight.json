@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv935634g",
+  "layer_slug_s": "princeton-nv935634g",
+  "uuid": "princeton-nv935634g",
+  "dc_title_s": "Miller County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.92242, -84.536869, 31.259499, 31.06789)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Miller County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Miller County",
+    "Miller",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:12Z",
+  "layer_id_s": "restricted-figgy:6a9d40bb-4428-4038-99bd-6d56c3c89fe4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c53f9d9-687b-4692-a823-fbabe6aaa672\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b104ca2-ccd1-4755-a70b-61d0ba8427d8/file/80f1df0a-f634-47ce-a200-2b575f5dd991\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a9d40bb-4428-4038-99bd-6d56c3c89fe4/file/97953337-bdfa-42c0-b2b9-b5cf2ea9557c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a9d40bb-4428-4038-99bd-6d56c3c89fe4/file/3e819b0b-800f-473d-8714-08519580eda8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

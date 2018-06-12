@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zs25xb16p",
+  "layer_slug_s": "princeton-zs25xb16p",
+  "uuid": "princeton-zs25xb16p",
+  "dc_title_s": "Belarus Cities With Population 10 Thousand and More, 2004",
+  "solr_geom": "ENVELOPE(23.367077, 32.587528, 56.104557, 51.433333)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Belarus cities with population 10 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Belarus"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:01Z",
+  "layer_id_s": "restricted-figgy:5fbb1f2b-5ec2-466d-8a7f-27483a59cbb6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1cd1f789-36ce-4e7f-bd26-908d6b38dbc5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a24782e5-814c-41be-8011-6120f24801e1/file/86cd0065-3021-491b-991d-d6e6aa0e24aa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fbb1f2b-5ec2-466d-8a7f-27483a59cbb6/file/9377c602-4ed5-44b3-a3cc-1fd2a599a2c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fbb1f2b-5ec2-466d-8a7f-27483a59cbb6/file/15e1c5fd-05d5-4b19-bcfb-33ad6bbdbc73\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

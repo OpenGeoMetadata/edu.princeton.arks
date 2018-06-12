@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hk06k",
+  "layer_slug_s": "princeton-cc08hk06k",
+  "uuid": "princeton-cc08hk06k",
+  "dc_title_s": "Barnstable County, Massachusetts roads, 2011",
+  "solr_geom": "ENVELOPE(-70.686821, -69.928591, 42.081367, 41.515479)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Barnstable County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Barnstable",
+    "Barnstable County",
+    "Massachusetts",
+    "Cape Cod",
+    "Mashpee National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:10Z",
+  "layer_id_s": "restricted-figgy:4fddf669-7896-4cf6-af7e-63d27e46321b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fb4cc9b1-cdbb-4c39-b01e-227c9d7eb53b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2f25e9d-1c49-4b60-997a-38c8338f5e50/file/2629acb1-c2ee-4c96-9b7e-e3e4c8245af6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4fddf669-7896-4cf6-af7e-63d27e46321b/file/bbed868b-fbb5-439d-8404-178bbf77811e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4fddf669-7896-4cf6-af7e-63d27e46321b/file/db9e81d8-4bc4-4e7f-a35a-456527c96b4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

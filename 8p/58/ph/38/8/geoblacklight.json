@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8p58ph388",
+  "layer_slug_s": "princeton-8p58ph388",
+  "uuid": "princeton-8p58ph388",
+  "dc_title_s": "Yavapai County, Arizona land parcels, 2011",
+  "solr_geom": "ENVELOPE(-113.334359, -111.46054, 35.531142, 33.882469)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yavapai County, Arizona, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Yavapai County",
+    "Yavapai",
+    "Arizona",
+    "Prescott National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2002"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:09Z",
+  "layer_id_s": "restricted-figgy:56eb61d4-e2dd-461d-bbd3-1c0e9b224862",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d4450fcf-7c40-45b0-a59e-eb97c05a5930\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c387873d-2c25-42e4-a10b-f7b7d86b77f4/file/608f9fc6-b4ce-4b1b-80a2-5742093f1cc6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56eb61d4-e2dd-461d-bbd3-1c0e9b224862/file/56050be8-a176-475b-864e-6c5cf9e1a2aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56eb61d4-e2dd-461d-bbd3-1c0e9b224862/file/9b383471-01b5-4481-ad80-6da66777ed87\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zm41j",
+  "layer_slug_s": "princeton-3484zm41j",
+  "uuid": "princeton-3484zm41j",
+  "dc_title_s": "Sedgwick County, Kansas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-97.8083, -97.152267, 37.91265, 37.474257)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sedgwick County, Kansas, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sedgwick County",
+    "Sedgwick",
+    "Kansas",
+    "Wichita"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:12:09Z",
+  "layer_id_s": "restricted-figgy:772eb44c-631f-414b-8f3b-7d35f2fb2baa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/23463e2f-0729-4cd8-a400-336293cc7bfb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bf50bb9b-c3b1-47b9-8651-0fbeaf66234c/file/519e64b3-0c29-419a-89b7-d7b36ad3639b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/772eb44c-631f-414b-8f3b-7d35f2fb2baa/file/938a1824-7c10-49b7-8114-4d97d69489a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/772eb44c-631f-414b-8f3b-7d35f2fb2baa/file/9a04c36b-2141-4780-9abb-f35c0d0acb84\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

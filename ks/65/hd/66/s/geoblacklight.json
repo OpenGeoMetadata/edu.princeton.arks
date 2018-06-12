@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hd66s",
+  "layer_slug_s": "princeton-ks65hd66s",
+  "uuid": "princeton-ks65hd66s",
+  "dc_title_s": "Hungary Major Airports, 2005",
+  "solr_geom": "ENVELOPE(17.163055, 21.615833, 47.815556, 46.390835)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:11Z",
+  "layer_id_s": "restricted-figgy:0448a113-80cb-478f-9ae0-8be0e70d36f5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/15ff7947-86c7-4775-8606-ed6986aa9647\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/115af127-0ad4-4aaa-8e79-af77fcb3610d/file/1ff19033-da8e-4ecb-a8b9-f33e86f8d3e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0448a113-80cb-478f-9ae0-8be0e70d36f5/file/07e2dc74-631c-4c81-9b3f-3fabae2c079c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0448a113-80cb-478f-9ae0-8be0e70d36f5/file/6c211c53-72bd-42a5-aea2-fee1a818fe35\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

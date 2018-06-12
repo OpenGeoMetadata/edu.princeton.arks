@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bg257j552",
+  "layer_slug_s": "princeton-bg257j552",
+  "uuid": "princeton-bg257j552",
+  "dc_title_s": "Crow Wing County, Minnesota land parcels, 2010",
+  "solr_geom": "ENVELOPE(-94.395954, -93.776021, 46.805353, 46.155978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Crow Wing County, Minnesota, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "lot size",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Crow Wing County",
+    "Crow Wing",
+    "Minnesota",
+    "Crow Wing State Forest"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:12:21Z",
+  "layer_id_s": "restricted-figgy:bf3ccfce-0027-436f-9fe2-3588ead946eb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3561330d-b7cd-430e-8f85-9dbfcf3b92e5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c94e1cce-bcd8-4806-9acb-9bb41c69b222/file/f251a173-12e8-4fd8-9f68-20ba073268be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf3ccfce-0027-436f-9fe2-3588ead946eb/file/33c0e57e-1563-464a-8942-a7f212dc4c30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf3ccfce-0027-436f-9fe2-3588ead946eb/file/59ff9e97-e404-4d8a-9739-953238526394\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

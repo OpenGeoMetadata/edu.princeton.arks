@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jh343t89t",
+  "layer_slug_s": "princeton-jh343t89t",
+  "uuid": "princeton-jh343t89t",
+  "dc_title_s": "U.S. States (Generalized), 2013",
+  "solr_geom": "ENVELOPE(-178.217598, -66.969271, 71.406235, 18.921786)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. States (Generalized) represents the 50 states and the District of Columbia of the United States.",
+  "dc_subject_sm": [
+    "polygon",
+    "area",
+    "demographics",
+    "population",
+    "households",
+    "Farming",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. States",
+    "States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "2002",
+    "2010",
+    "2011",
+    "2007",
+    "2012"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T00:36:17Z",
+  "layer_id_s": "restricted-figgy:a254311f-0615-4a5e-8110-6fefad1d3278",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ab6b316e-819e-46de-975b-c27209222d38\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a4b0204-5b3e-4db3-9e18-3ff49590aadb/file/3383da86-07ed-4e36-a219-5ef9a32f76bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a254311f-0615-4a5e-8110-6fefad1d3278/file/ecee1350-a0f1-4d30-b9b4-70fa2bbb77b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a254311f-0615-4a5e-8110-6fefad1d3278/file/44874ef6-4045-4b1b-b638-a11f14e5fcae\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

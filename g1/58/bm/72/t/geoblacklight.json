@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g158bm72t",
+  "layer_slug_s": "princeton-g158bm72t",
+  "uuid": "princeton-g158bm72t",
+  "dc_title_s": "Sacramento County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-121.858329, -121.022588, 38.735947, 38.020362)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sacramento County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sacramento",
+    "Sacramento County",
+    "California",
+    "Elk Grove",
+    "Citrus Heights",
+    "Sacramento Valley"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:49:01Z",
+  "layer_id_s": "restricted-figgy:e5ad7fd0-e42d-48d0-ac01-9ec7ab7e576c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/293988c1-739f-49a9-8069-04dd929d8150\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6dc54158-0902-43b2-bbe8-f2884ae48cb2/file/194fcb75-ba01-4135-ab4b-0ee311486036\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5ad7fd0-e42d-48d0-ac01-9ec7ab7e576c/file/fe080618-df16-4107-8074-35bbe3c418fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5ad7fd0-e42d-48d0-ac01-9ec7ab7e576c/file/5d9343a9-5ad3-44be-af53-80d16577ad27\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

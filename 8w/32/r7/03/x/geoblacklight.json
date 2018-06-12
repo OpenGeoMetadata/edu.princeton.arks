@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8w32r703x",
+  "layer_slug_s": "princeton-8w32r703x",
+  "uuid": "princeton-8w32r703x",
+  "dc_title_s": "Mississippi Tracts 2002",
+  "solr_geom": "ENVELOPE(-91.655009, -88.097889, 34.99611, 30.173943)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mississippi Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Mississippi.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:24Z",
+  "layer_id_s": "restricted-figgy:d57ec6cf-b97b-41fb-af8c-9e63f55264b8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ad95cdae-8a06-439e-ac73-181bc6548322\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8a4ee53-85f2-439d-805b-026d977b149f/file/bbdbffaa-2d09-464c-9f2c-aa02f747e655\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d57ec6cf-b97b-41fb-af8c-9e63f55264b8/file/593a456a-f7b6-4ca6-bb48-01735da6f0b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d57ec6cf-b97b-41fb-af8c-9e63f55264b8/file/33a00bf1-33f0-4c60-a000-de99b4186e4a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

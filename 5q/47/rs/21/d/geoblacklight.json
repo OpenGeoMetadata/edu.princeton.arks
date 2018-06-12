@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5q47rs21d",
+  "layer_slug_s": "princeton-5q47rs21d",
+  "uuid": "princeton-5q47rs21d",
+  "dc_title_s": "Piute County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-112.421389, -111.775743, 38.512249, 38.145621)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Piute County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Piute",
+    "Piute County",
+    "Utah",
+    "Fishlake National Forest",
+    "Dixie National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:38Z",
+  "layer_id_s": "restricted-figgy:d9ed3fe8-f3c0-469b-a1cc-0c0fde61982f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/105ec595-79aa-400e-aab5-e5a19799da26\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/312bed70-e0c0-44bb-a375-694e04b65ef7/file/8f20c232-ec82-4b11-8b34-144aaee63821\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9ed3fe8-f3c0-469b-a1cc-0c0fde61982f/file/b9c47ab3-85e9-479e-8f99-7b5523474768\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9ed3fe8-f3c0-469b-a1cc-0c0fde61982f/file/6267a9c6-b06e-4ede-97b3-dbc4841fc749\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

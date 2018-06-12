@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526f129",
+  "layer_slug_s": "princeton-s7526f129",
+  "uuid": "princeton-s7526f129",
+  "dc_title_s": "New Hampshire Tracts 2002",
+  "solr_geom": "ENVELOPE(-72.557247, -70.708433, 45.305476, 42.696986)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New Hampshire Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New Hampshire.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New Hampshire"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:13Z",
+  "layer_id_s": "restricted-figgy:367a6cfb-b82c-4c30-b31c-0b2af2168291",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7da425f1-82af-4954-af08-7c854de6b5a9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b2f7d19-3f59-485e-a7a3-7671357e7c32/file/27b091d7-8d51-4b63-9fc2-b0bfabf6428c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/367a6cfb-b82c-4c30-b31c-0b2af2168291/file/25e5b492-dc3f-4d7e-8bfd-9a55454c0ac8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/367a6cfb-b82c-4c30-b31c-0b2af2168291/file/16cc89fd-ca24-46bb-8360-cbf64cee1582\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

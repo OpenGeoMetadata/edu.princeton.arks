@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv935628z",
+  "layer_slug_s": "princeton-nv935628z",
+  "uuid": "princeton-nv935628z",
+  "dc_title_s": "Fannin County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.622937, -84.092309, 34.988909, 34.602875)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fannin County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fannin",
+    "Fannin County",
+    "Georgia",
+    "Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:16Z",
+  "layer_id_s": "restricted-figgy:5ef934cf-f790-46fd-8255-91e83ac4664f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1bbcffea-b6f6-4366-a73a-b391ab51e637\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a117f62-604e-4f0e-8668-7840b299c569/file/50d0ca3c-aaf0-40b8-b561-4ee38afc3b90\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ef934cf-f790-46fd-8255-91e83ac4664f/file/434fc6f6-7f39-457b-abab-16d5332ef8df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ef934cf-f790-46fd-8255-91e83ac4664f/file/b76c9213-aa38-480a-83c2-f4c4559fe2dc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

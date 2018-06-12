@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/765373048",
+  "layer_slug_s": "princeton-765373048",
+  "uuid": "princeton-765373048",
+  "dc_title_s": "Louisiana Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-94.043182, -88.835161, 33.019489, 29.020788)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Louisiana Block Centroid Populations represents the population of the U.S. Census block centroids for Louisiana.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:21:05Z",
+  "layer_id_s": "restricted-figgy:560bae2e-27d8-45b8-bbc6-bd245367ba22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/55733b75-0fdc-4e6f-a492-b37ed9ba1d4b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bfddc581-f619-47f4-8b27-3f2c8855f59e/file/32de0ccd-b3c0-4583-ac3b-349d323bc122\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/560bae2e-27d8-45b8-bbc6-bd245367ba22/file/6b858a3b-e323-4173-9d7c-9a9bf351482a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/560bae2e-27d8-45b8-bbc6-bd245367ba22/file/9f317da1-5dc9-4269-9507-b1fa13123209\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

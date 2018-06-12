@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zc77st556",
+  "layer_slug_s": "princeton-zc77st556",
+  "uuid": "princeton-zc77st556",
+  "dc_title_s": "Mineral County, Nevada roads, 2014",
+  "solr_geom": "ENVELOPE(-119.124548, -117.724151, 39.074692, 37.893819)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Mineral County, Nevada, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "Mineral",
+    "Mineral County",
+    "Walker River Reservation",
+    "Inyo National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:05Z",
+  "layer_id_s": "restricted-figgy:236c2913-19e0-45dd-b9d1-d2de80659d99",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8324c351-4cb0-420c-83de-6a3cd3d4ffb0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cab9b408-fa57-4a51-a977-1f9220a5f62d/file/ae939073-66e7-45eb-aebb-053df849f4db\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/236c2913-19e0-45dd-b9d1-d2de80659d99/file/e5393adc-195f-4977-a03e-385a886966a5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/236c2913-19e0-45dd-b9d1-d2de80659d99/file/0ae9f5cd-8938-42cd-a908-830eb4ef5883\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

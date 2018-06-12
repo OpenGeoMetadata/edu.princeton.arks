@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qv33rz392",
+  "layer_slug_s": "princeton-qv33rz392",
+  "uuid": "princeton-qv33rz392",
+  "dc_title_s": "Mexico Municipality Boundaries, 1995",
+  "solr_geom": "ENVELOPE(-118.485359, -86.707255, 32.718716, 14.529415)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Mexico created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:11Z",
+  "layer_id_s": "restricted-figgy:61a372e1-fac0-4aa4-8842-acf98ae7848c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8b793a3-c317-4cae-994e-fcdfc3bdbd8f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2cee2998-b62f-493f-afe0-52b78e58e943/file/77dec262-89a5-4e0f-963d-45913ceba5ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61a372e1-fac0-4aa4-8842-acf98ae7848c/file/62db7149-86e6-4b29-a996-cc594256914a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61a372e1-fac0-4aa4-8842-acf98ae7848c/file/91f4e2cb-9d94-4f99-9220-a2c59f6583f0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

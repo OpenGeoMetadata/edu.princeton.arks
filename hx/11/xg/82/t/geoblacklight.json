@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xg82t",
+  "layer_slug_s": "princeton-hx11xg82t",
+  "uuid": "princeton-hx11xg82t",
+  "dc_title_s": "U.S. National Transportation Atlas Interstate Highways 2000",
+  "solr_geom": "ENVELOPE(-158.090074, -67.781177, 62.145207, 21.277505)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Transportation Atlas Interstate Highways represents rural and urban interstate highways. U.S. National Transportation Atlas Interstate Highways is part of the National Highway Planning Network version 2.1 published by the Bureau of Transportation Statistics as part of the National Transportation Atlas Databases for the United States.",
+  "dc_creator_sm": [
+    "Bureau of Transportation Statistics",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "interstates",
+    "highways",
+    "rural",
+    "urban"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1997",
+    "1992–1996",
+    "1978"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:44:30Z",
+  "layer_id_s": "restricted-figgy:02fa0e12-dcfa-4093-bf34-b09dfcb65ee1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4f951e2a-ff86-4c61-847d-b79e5a5e43c8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16495814-2584-4ccb-bab6-f87564dba0c3/file/45166c9f-7b44-433a-8f92-8a88c949adfd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02fa0e12-dcfa-4093-bf34-b09dfcb65ee1/file/30c2d9d1-a698-4d59-9848-c14996344ecc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02fa0e12-dcfa-4093-bf34-b09dfcb65ee1/file/af31dbb8-9326-4998-b0e5-ba64e5c62d7a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

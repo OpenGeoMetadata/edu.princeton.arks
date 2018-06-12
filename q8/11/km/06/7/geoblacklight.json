@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q811km067",
+  "layer_slug_s": "princeton-q811km067",
+  "uuid": "princeton-q811km067",
+  "dc_title_s": "India Major Roads, 1997",
+  "solr_geom": "ENVELOPE(69.585343, 96.18129, 34.198904, 8.108777)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes India major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:36b71c5e-2227-47c8-9abe-76a998e23df9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f5131216-d22b-4a86-a850-155889c04ca2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4db73eb5-b970-4eca-b134-6b0b3e3bddfe/file/458c1028-b36f-4836-9b13-8b9f5ff0a9ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36b71c5e-2227-47c8-9abe-76a998e23df9/file/a5e7531f-74e3-4687-a5a0-30b6b0136804\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36b71c5e-2227-47c8-9abe-76a998e23df9/file/e814d91e-1e57-4713-859c-e60282d234dc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z7090888",
+  "layer_slug_s": "princeton-0z7090888",
+  "uuid": "princeton-0z7090888",
+  "dc_title_s": "Franklin County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.547924, -78.006935, 36.266063, 35.81978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin",
+    "Franklin County",
+    "North Carolina",
+    "Raleigh"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:18Z",
+  "layer_id_s": "restricted-figgy:5e33714f-49b0-422b-bac4-eaab2cea8724",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/14ac7f28-d53e-4040-a36e-8ccface0b62d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/01a55638-b39a-4495-adf2-7401599615b8/file/748822b0-2d6f-4b50-827f-1640c113d768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e33714f-49b0-422b-bac4-eaab2cea8724/file/eea4f563-c247-48c1-872b-4e5e940aad07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e33714f-49b0-422b-bac4-eaab2cea8724/file/9f0bc757-2a9d-4e59-8714-2d5ab3202aa8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

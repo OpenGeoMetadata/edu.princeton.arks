@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vj493",
+  "layer_slug_s": "princeton-zk51vj493",
+  "uuid": "princeton-zk51vj493",
+  "dc_title_s": "Czech Republic Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(12.226694, 18.760443, 50.954834, 48.622055)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Czech Republic created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:08Z",
+  "layer_id_s": "restricted-figgy:bcfa31b0-7bb8-43f3-b78f-1153cf8d4cdf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de3c7727-17c1-4995-a785-342afe60beec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e84e232f-f007-4d42-9867-a5f267ca067f/file/860efcb5-740f-44a3-8c2e-2243494278d2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcfa31b0-7bb8-43f3-b78f-1153cf8d4cdf/file/15ef5c53-fc88-4e1f-b99a-a584dc9115cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcfa31b0-7bb8-43f3-b78f-1153cf8d4cdf/file/e4b3ad37-adf8-4202-89d4-d6d7a341e8b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

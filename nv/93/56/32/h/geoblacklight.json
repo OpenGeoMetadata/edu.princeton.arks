@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv935632h",
+  "layer_slug_s": "princeton-nv935632h",
+  "uuid": "princeton-nv935632h",
+  "dc_title_s": "Kenton County, Kentucky land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.624237, -84.417755, 39.097172, 38.790119)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kenton County, Kentucky, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kenton",
+    "Kenton County",
+    "Kentucky",
+    "Ohio River",
+    "Cincinnati"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2002"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:07Z",
+  "layer_id_s": "restricted-figgy:fee47180-ef8b-4331-aabb-b4f829236889",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5622d925-f59f-42e4-a001-8a4e3561a3e7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/730c844e-2746-41f0-a18b-bd27ea4a40fe/file/fda4682b-a5a8-45e5-8d71-b373700b3e0b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fee47180-ef8b-4331-aabb-b4f829236889/file/1e07cb2f-0541-47c9-97d3-c97314a08069\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fee47180-ef8b-4331-aabb-b4f829236889/file/75c95bd3-0f57-470b-b876-170678a3ae84\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

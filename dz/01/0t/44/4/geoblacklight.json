@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010t444",
+  "layer_slug_s": "princeton-dz010t444",
+  "uuid": "princeton-dz010t444",
+  "dc_title_s": "Yolo County, California roads, 2009",
+  "solr_geom": "ENVELOPE(-122.391201, -121.502573, 38.92596, 38.308264)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Yolo County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Yolo",
+    "Yolo County",
+    "Sacramento",
+    "Davis",
+    "University of California Davis"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:30:29Z",
+  "layer_id_s": "restricted-figgy:928a55d3-d295-4f7d-a013-6f929aa91622",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de776730-f474-44b1-8961-c9c835e9bf34\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ccd2b3b1-6135-4b43-b096-14fe7d213672/file/00b39e4d-040a-4413-b6f5-94f723ab00b6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/928a55d3-d295-4f7d-a013-6f929aa91622/file/668c2b29-bd69-4abf-8136-12300cbfc2a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/928a55d3-d295-4f7d-a013-6f929aa91622/file/7fea0f9c-66c1-4a53-8d6c-fd0cb467b116\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

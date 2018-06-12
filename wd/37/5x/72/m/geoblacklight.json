@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd375x72m",
+  "layer_slug_s": "princeton-wd375x72m",
+  "uuid": "princeton-wd375x72m",
+  "dc_title_s": "Iceland Major Airports, 2005",
+  "solr_geom": "ENVELOPE(-23.816111, -14.426598, 66.313614, 63.423889)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Iceland major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:18Z",
+  "layer_id_s": "restricted-figgy:37b99b09-58b9-42f3-8a3e-3857e2b53fae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8e1c618b-ea21-4711-8962-096d68fa2508\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64a0f36b-b08b-4eb4-abc1-ca77dee9534e/file/1c6961bc-08fd-4ce7-be39-f3fc07543e3c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/37b99b09-58b9-42f3-8a3e-3857e2b53fae/file/3f3ae4c1-6064-4c46-ba04-9fd72d244a6a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/37b99b09-58b9-42f3-8a3e-3857e2b53fae/file/d9267fe7-8dda-40d2-8ae3-0f5044658abb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

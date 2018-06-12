@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sm127",
+  "layer_slug_s": "princeton-5t34sm127",
+  "uuid": "princeton-5t34sm127",
+  "dc_title_s": "Turkey Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(26.565097, 43.39908, 41.681249, 36.205057)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Turkey cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:38Z",
+  "layer_id_s": "restricted-figgy:888de18e-443c-4c22-bbd6-89c655da72fd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f351d7b-96c1-4583-b46c-66740e97ead2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e50cf6eb-5763-4b4d-bb3f-1d443e29a1a3/file/43e8016f-f434-4ada-b103-d61c457a818a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/888de18e-443c-4c22-bbd6-89c655da72fd/file/8247d0d8-da07-4f6a-bfa5-1b3fbd978341\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/888de18e-443c-4c22-bbd6-89c655da72fd/file/acc4c453-2293-437e-9e1b-bc42e884ac07\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3j333382j",
+  "layer_slug_s": "princeton-3j333382j",
+  "uuid": "princeton-3j333382j",
+  "dc_title_s": "Estonia Cities With Population 5 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(21.973679, 28.044526, 59.656139, 57.609306)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Estonia cities with population 5 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Estonia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:06:25Z",
+  "layer_id_s": "restricted-figgy:99e167ec-e7c0-46c0-b186-9dabf7f91871",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fa8ba03-d7e8-413a-950f-6190d5ce1b76\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/053e5ecc-bb06-453d-b78f-d0d261f549e1/file/8f3f2d25-28e9-4ffd-af6b-01e4f1a40111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99e167ec-e7c0-46c0-b186-9dabf7f91871/file/bd2cb7b0-0fe3-4d3f-a713-f60716220b08\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99e167ec-e7c0-46c0-b186-9dabf7f91871/file/03f00753-ab41-4a5d-9b78-32b97a6b5009\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

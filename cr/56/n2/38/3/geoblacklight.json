@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cr56n2383",
+  "layer_slug_s": "princeton-cr56n2383",
+  "uuid": "princeton-cr56n2383",
+  "dc_title_s": "Tennessee Major Roads 2002",
+  "solr_geom": "ENVELOPE(-90.126994, -81.725113, 36.676192, 34.982972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Tennessee Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Tennessee.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:44:14Z",
+  "layer_id_s": "restricted-figgy:8caac7d6-75d8-4a6a-94ed-ab23223c8a0a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b04c7743-0851-443e-ae82-9788f24e0d10\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/23b30e3c-b46b-42b6-b27e-b2a4c3e97d96/file/245f190b-fd38-44a7-be4a-07cf47eb35af\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8caac7d6-75d8-4a6a-94ed-ab23223c8a0a/file/147eb198-d8d0-4638-a666-b80a56afa6a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8caac7d6-75d8-4a6a-94ed-ab23223c8a0a/file/7fefc3f8-b03b-4e94-bc8f-8b819a0cbd70\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1g05ff991",
+  "layer_slug_s": "princeton-1g05ff991",
+  "uuid": "princeton-1g05ff991",
+  "dc_title_s": "Ohio County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.140237, -84.831961, 39.030539, 38.900768)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ohio County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Ohio County",
+    "Indiana",
+    "Cincinnati"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:02Z",
+  "layer_id_s": "restricted-figgy:dccfc2db-32dc-49dc-90c6-f14000473f96",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c05fcd0-1490-4d30-a1e3-3bc06cbf2640\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/12aae15c-ca31-4768-bf1e-81cfa3e44e58/file/f160f7c1-615a-47f9-8450-7ee523fe6d14\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dccfc2db-32dc-49dc-90c6-f14000473f96/file/827660a1-b8a0-490c-ae54-55d47785c63d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dccfc2db-32dc-49dc-90c6-f14000473f96/file/a9ea6833-d3b9-494d-80b7-9fdb65d8829d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

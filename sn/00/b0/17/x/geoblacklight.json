@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sn00b017x",
+  "layer_slug_s": "princeton-sn00b017x",
+  "uuid": "princeton-sn00b017x",
+  "dc_title_s": "Austria 4-Digit Postcode Areas, 2006",
+  "solr_geom": "ENVELOPE(9.529923, 17.159856, 49.020364, 46.372056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Austria 4 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "4 digit"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:07Z",
+  "layer_id_s": "restricted-figgy:f0a49488-a1f0-4328-9461-c8bce51c66a5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eb63f669-2218-41d7-9c46-d73b697c3e7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72f18a1f-985a-491f-be47-65b6c936cb85/file/3bf3c9f0-f171-4448-90b3-f6a6b6ad2416\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f0a49488-a1f0-4328-9461-c8bce51c66a5/file/29f47ba8-d160-4f15-bf4e-2656099df7e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f0a49488-a1f0-4328-9461-c8bce51c66a5/file/8aa8f6ee-d70e-42e3-8c70-0951fd65b454\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

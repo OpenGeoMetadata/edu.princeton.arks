@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mg99w",
+  "layer_slug_s": "princeton-qb98mg99w",
+  "uuid": "princeton-qb98mg99w",
+  "dc_title_s": "Greenland 3-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(-73.263465, -11.312318, 83.627419, 59.777267)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greenland (Denmark) 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Greenland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:46Z",
+  "layer_id_s": "restricted-figgy:f968a2fc-56fa-45d0-a4de-56ec60b80995",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/390e28f9-f93e-4933-8a9e-d6d13b30c02f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d551f72-8bc4-451f-b11e-e2e0ed1eaedd/file/58ce0068-696e-49d3-90e9-1003a5c354dd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f968a2fc-56fa-45d0-a4de-56ec60b80995/file/2e651847-3efd-41eb-a5ca-18df5c237f19\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f968a2fc-56fa-45d0-a4de-56ec60b80995/file/979af06d-dd39-48e7-af75-73b4ce58aba1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

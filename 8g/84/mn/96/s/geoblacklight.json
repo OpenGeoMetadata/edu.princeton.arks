@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mn96s",
+  "layer_slug_s": "princeton-8g84mn96s",
+  "uuid": "princeton-8g84mn96s",
+  "dc_title_s": "Germany 1-Digit Postcode Areas, 2006",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany 1 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "1 digit"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:06Z",
+  "layer_id_s": "restricted-figgy:62f58b18-f537-40c8-925d-c1e8b0e1b257",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/baf9abdb-43ab-4ee7-b551-81d43c46ccc7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/deb69128-b623-4692-b5b1-635ad6ec88b5/file/938b95a1-fe6b-4fab-85a9-fcfbb2f695bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/62f58b18-f537-40c8-925d-c1e8b0e1b257/file/3db85797-6880-4ed9-add3-01d8df18a89d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/62f58b18-f537-40c8-925d-c1e8b0e1b257/file/4740c5ec-5b26-4ea9-aa28-4275035ed9e8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

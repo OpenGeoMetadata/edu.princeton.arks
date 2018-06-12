@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db695",
+  "layer_slug_s": "princeton-g732db695",
+  "uuid": "princeton-g732db695",
+  "dc_title_s": "Mexico Cities 2002",
+  "solr_geom": "ENVELOPE(-115.294943, -88.264435, 32.620249, 16.6311)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico Cities represents the locations of major cities of Mexico.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "cities",
+    "capitals",
+    "populations",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T03:00:25Z",
+  "layer_id_s": "restricted-figgy:fb72c5dc-592f-4d1e-8449-a5be56620ff2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d6651001-02d1-4903-9a31-fb1e0caf10e9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13b6a3e5-1c93-44b0-a1e6-b29c7c4ee837/file/af119ab8-9320-4670-b19b-5b296cc61bf3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb72c5dc-592f-4d1e-8449-a5be56620ff2/file/f84b9cd2-20a4-4c53-9256-ed2e624807af\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb72c5dc-592f-4d1e-8449-a5be56620ff2/file/a0b4bf18-8f49-4aad-92bb-724c82f0da46\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

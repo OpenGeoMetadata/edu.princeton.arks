@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hk00p",
+  "layer_slug_s": "princeton-cc08hk00p",
+  "uuid": "princeton-cc08hk00p",
+  "dc_title_s": "Gibson County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.988196, -87.315865, 38.532929, 38.165446)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gibson County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gibson",
+    "Gibson County",
+    "Indiana",
+    "Evansville"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:47Z",
+  "layer_id_s": "restricted-figgy:d4be704e-1965-4444-a5f6-234ec76b7b62",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cdbbf97c-ff80-44ed-9e7e-99dc880fc202\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2bf68ece-7c0b-4383-aacb-284b12c74dd6/file/38fec8c4-fbcd-4306-91ea-eef41bdeabc1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4be704e-1965-4444-a5f6-234ec76b7b62/file/4f2231a4-4264-437d-9acd-9649a75bfadd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4be704e-1965-4444-a5f6-234ec76b7b62/file/41be97e4-6abc-4081-a10e-40cb7db7d169\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

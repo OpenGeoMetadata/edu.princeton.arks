@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz736",
+  "layer_slug_s": "princeton-gm80hz736",
+  "uuid": "princeton-gm80hz736",
+  "dc_title_s": "Columbia County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-118.24439, -117.611266, 46.624575, 46.0621)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Columbia County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Columbia",
+    "Columbia County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:58Z",
+  "layer_id_s": "restricted-figgy:8ecde107-a052-4b5d-b35d-520f3d01ce0e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/15e6d498-1842-411e-9283-fdb9e1331064\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc8d875b-eb6c-4864-bebf-71ed8f5d8e18/file/6cec94fc-ff82-4216-95ae-e2babdeb0621\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ecde107-a052-4b5d-b35d-520f3d01ce0e/file/04c7d649-d1f1-46bb-8f84-114dbde8dcf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ecde107-a052-4b5d-b35d-520f3d01ce0e/file/238bcf4c-484a-4d19-be08-e5f6875a55bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

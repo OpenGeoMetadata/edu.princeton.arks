@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1v53k141c",
+  "layer_slug_s": "princeton-1v53k141c",
+  "uuid": "princeton-1v53k141c",
+  "dc_title_s": "Franklin County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.260673, -82.761907, 40.14276, 39.7949)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin",
+    "Franklin County",
+    "Ohio",
+    "Columbus",
+    "Scioto River",
+    "Olentangy River",
+    "Big Darby Creek",
+    "Hoover Reservoir",
+    "Griggs Reservoir",
+    "Ohio State University"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:05Z",
+  "layer_id_s": "restricted-figgy:e7ba8445-8730-4d4b-a99e-ccf54626e0a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d7ff160-4d49-4bd2-94ab-aa0376d461e0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/011d2f05-5be5-4a74-a7f0-17a04ffbabf3/file/868c55bc-46ee-4e1d-8bfa-2901ab262b85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e7ba8445-8730-4d4b-a99e-ccf54626e0a3/file/33f3d176-8c88-466a-a474-f65dec500088\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e7ba8445-8730-4d4b-a99e-ccf54626e0a3/file/24bdfeeb-4920-47d2-901e-f72404ac60d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

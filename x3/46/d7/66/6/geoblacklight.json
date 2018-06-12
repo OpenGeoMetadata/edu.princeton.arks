@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d7666",
+  "layer_slug_s": "princeton-x346d7666",
+  "uuid": "princeton-x346d7666",
+  "dc_title_s": "Delaware County, Pennsylvania roads, 2011",
+  "solr_geom": "ENVELOPE(-75.598511, -75.217681, 40.065534, 39.809567)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Delaware County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Delaware County",
+    "Pennsylvania",
+    "Philadelphia",
+    "Delaware Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:34Z",
+  "layer_id_s": "restricted-figgy:c374447a-3926-4e7d-9c9c-0f93226f1afd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5acedb12-11f5-4507-aa4a-57e897ca49a1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b23ea961-d41c-4629-a72a-462c8f61f76e/file/c93e1cc5-835c-4df1-9f73-f35cb090ffe0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c374447a-3926-4e7d-9c9c-0f93226f1afd/file/d256e801-c265-46e7-a728-208a298f28b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c374447a-3926-4e7d-9c9c-0f93226f1afd/file/839168de-e8ef-4f4b-bfa6-3de2fce3facd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

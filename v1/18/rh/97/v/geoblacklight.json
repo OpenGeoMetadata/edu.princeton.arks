@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rh97v",
+  "layer_slug_s": "princeton-v118rh97v",
+  "uuid": "princeton-v118rh97v",
+  "dc_title_s": "Floyd County, Georgia roads, 2014",
+  "solr_geom": "ENVELOPE(-85.459974, -85.005263, 34.587304, 34.079175)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Floyd County, Georgia, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Floyd",
+    "Floyd County",
+    "Georgia",
+    "Rome"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:19Z",
+  "layer_id_s": "restricted-figgy:816cf084-d37e-4078-bdf7-f048296fbf39",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/294786dd-0e2d-463d-92c4-91224a8dfd38\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75f42f89-4c9b-477e-a8d0-984e0c7de9ec/file/0ab5f125-ea13-4bf2-aaeb-543e11887f13\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/816cf084-d37e-4078-bdf7-f048296fbf39/file/b2f51e04-19c7-42bf-b44c-7a50748884db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/816cf084-d37e-4078-bdf7-f048296fbf39/file/c85a9e7c-6d82-496a-abcb-a7f8d42a676c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

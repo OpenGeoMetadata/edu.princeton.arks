@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r494vp62h",
+  "layer_slug_s": "princeton-r494vp62h",
+  "uuid": "princeton-r494vp62h",
+  "dc_title_s": "Hamilton County, Tennessee land parcels, 2002",
+  "solr_geom": "ENVELOPE(-85.475769, -84.942433, 35.45977, 34.982801)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hamilton County, Tennessee, 2002.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "Hamilton County",
+    "Hamilton",
+    "Chattanooga"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T00:34:44Z",
+  "layer_id_s": "restricted-figgy:4dfc1dc2-ba0f-4c3b-bbcd-f5128f8135e1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/504fc20c-8529-4444-a0a5-80ffc457a25e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/146aa45c-9e90-458a-8e72-809a05421554/file/f1c4cb92-048b-495a-9104-e5f9b83119f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4dfc1dc2-ba0f-4c3b-bbcd-f5128f8135e1/file/bd4315b2-a19e-424e-ad7d-d70de0aaea70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4dfc1dc2-ba0f-4c3b-bbcd-f5128f8135e1/file/1bf59c48-bf94-4a25-9695-3ae76b60a5a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

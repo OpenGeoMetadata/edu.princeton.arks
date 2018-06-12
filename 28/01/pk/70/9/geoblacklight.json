@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2801pk709",
+  "layer_slug_s": "princeton-2801pk709",
+  "uuid": "princeton-2801pk709",
+  "dc_title_s": "Harrison County, Mississippi roads, 2011",
+  "solr_geom": "ENVELOPE(-89.681008, -88.400354, 30.735731, 30.208892)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in portions of Harrison County, Mississippi, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Harrison",
+    "Harrison County",
+    "Mississippi",
+    "Gulfport"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:45Z",
+  "layer_id_s": "restricted-figgy:d1f79727-839c-41ca-9493-955b929e1cdc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2c2d86ee-e523-4239-be40-8360255433e5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed4d11cf-8002-4a47-afe8-f55c2ef3a45e/file/3e3a9532-a6cb-474b-89c0-ffa0f2e37872\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1f79727-839c-41ca-9493-955b929e1cdc/file/e0cc5d73-08b3-433c-88af-4478d37b5a23\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1f79727-839c-41ca-9493-955b929e1cdc/file/1c0d1bfe-18a7-46b4-92b8-3590c713f3ba\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f9181",
+  "layer_slug_s": "princeton-gb19f9181",
+  "uuid": "princeton-gb19f9181",
+  "dc_title_s": "Warren County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.394692, -78.004244, 39.036528, 38.757019)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Warren County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Warren County",
+    "Warren",
+    "Virginia",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:27:21Z",
+  "layer_id_s": "restricted-figgy:0cdc4973-dfeb-435a-bec6-a2e6f065edd7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/70070833-edcd-4c09-8397-d5f67a1ebac3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ba0d0fe0-bf12-4adf-becd-d7c5df56b795/file/78727507-bb0b-4a3c-a78f-3564de1a5a2f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0cdc4973-dfeb-435a-bec6-a2e6f065edd7/file/338c8430-e688-40f8-8b4b-9e1dccb1f600\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0cdc4973-dfeb-435a-bec6-a2e6f065edd7/file/7539a1e2-8255-4269-a05b-f7e8ddc0e916\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

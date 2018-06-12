@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9880vv44x",
+  "layer_slug_s": "princeton-9880vv44x",
+  "uuid": "princeton-9880vv44x",
+  "dc_title_s": "Camden County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.135436, -74.736216, 39.996216, 39.608352)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Camden County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Camden",
+    "Camden County",
+    "New Jersey",
+    "Cherry Hill"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:24Z",
+  "layer_id_s": "restricted-figgy:b78e45d3-f0a8-4992-855e-34a7d9b41043",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b1b70740-a8f6-4cfb-84cd-d37d7602f9c2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/94850166-6544-468f-ae9c-f09f4937e48b/file/b30d7fd6-56a9-46b1-808c-891f48623979\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b78e45d3-f0a8-4992-855e-34a7d9b41043/file/a26410f2-033c-4c65-af70-8427134f3997\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b78e45d3-f0a8-4992-855e-34a7d9b41043/file/8b0c7577-fc10-43b2-b4a4-437b3f3ae345\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

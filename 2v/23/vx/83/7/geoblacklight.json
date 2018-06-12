@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx837",
+  "layer_slug_s": "princeton-2v23vx837",
+  "uuid": "princeton-2v23vx837",
+  "dc_title_s": "Henry County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.096264, -79.640448, 36.856007, 36.539334)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Henry County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Henry",
+    "Henry County",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:22Z",
+  "layer_id_s": "restricted-figgy:aa8fefd2-08ab-4ee8-b9eb-5452c2b4fe6f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/394fbce2-68b1-4be6-bceb-462c05997823\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1afa3971-6f65-4c03-8086-15149ccb5c3a/file/610ec14b-2cc1-46f3-9f46-a8f3a83fb2b6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa8fefd2-08ab-4ee8-b9eb-5452c2b4fe6f/file/0c2c3ec0-01b0-4da0-b7b8-596c8699ebf2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa8fefd2-08ab-4ee8-b9eb-5452c2b4fe6f/file/827a96d5-3b97-47cc-85d9-30e597d5709f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

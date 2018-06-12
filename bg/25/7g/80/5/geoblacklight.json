@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bg257g805",
+  "layer_slug_s": "princeton-bg257g805",
+  "uuid": "princeton-bg257g805",
+  "dc_title_s": "Mariposa County, California land parcels, 2005",
+  "solr_geom": "ENVELOPE(-120.39544, -119.309067, 37.90276, 37.183062)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mariposa County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "parcel",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Mariposa County"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-05T00:36:36Z",
+  "layer_id_s": "restricted-figgy:baf163b2-d30a-4dd5-a196-3dfd2bd2b354",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c181c94-9aa2-4047-8b7f-e0018fbd7e46\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9256f1e0-e76c-4ab7-bde6-e3edd87e049e/file/f35430f7-7522-45cd-95fc-cd1b7b92a422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baf163b2-d30a-4dd5-a196-3dfd2bd2b354/file/e88db988-f4c3-451c-b73b-b99c379d755d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baf163b2-d30a-4dd5-a196-3dfd2bd2b354/file/72406dc7-cd69-46fa-946e-266cd10d6f54\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

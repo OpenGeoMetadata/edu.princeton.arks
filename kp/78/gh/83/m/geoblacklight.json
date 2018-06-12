@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kp78gh83m",
+  "layer_slug_s": "princeton-kp78gh83m",
+  "uuid": "princeton-kp78gh83m",
+  "dc_title_s": "Madrid roads and streets",
+  "solr_geom": "ENVELOPE(-3.828543, -3.527997, 40.536825, 40.278044)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Madrid streets and roads data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets"
+  ],
+  "dct_spatial_sm": [
+    "Madrid",
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:20Z",
+  "layer_id_s": "restricted-figgy:7775e8b5-dbe2-460c-8499-e659f6befb99",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c6b2fd1-ab7d-4313-b464-16c46eb9fcdc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74966e20-5ab8-4253-815d-13a3db2b042e/file/3b5d1371-4240-4157-8f8c-42d1aa8aeb0c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7775e8b5-dbe2-460c-8499-e659f6befb99/file/d6be9d61-b5be-48a0-9586-f0c4dd1b535c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7775e8b5-dbe2-460c-8499-e659f6befb99/file/e96de7c6-f390-4cd3-ac05-6a00c3634509\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jm214s601",
+  "layer_slug_s": "princeton-jm214s601",
+  "uuid": "princeton-jm214s601",
+  "dc_title_s": "Roanoke County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.268979, -79.839998, 37.422469, 37.108631)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Roanoke County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Roanoke",
+    "Roanoke County",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:28Z",
+  "layer_id_s": "restricted-figgy:57665733-33ca-4917-beaf-eb6624014b60",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/57bcabcf-fc49-4dcd-96e0-f5e7d1400ec3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22f3fdaf-bac8-4a61-bba3-36ee328c4262/file/77148410-306f-470d-8a63-4c43404add11\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/57665733-33ca-4917-beaf-eb6624014b60/file/414f1108-20df-433f-9011-74ed2c468eb3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57665733-33ca-4917-beaf-eb6624014b60/file/ac49fc96-b96f-4985-8da9-ee5bea69b7e5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

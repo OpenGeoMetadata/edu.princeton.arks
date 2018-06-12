@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f438f",
+  "layer_slug_s": "princeton-x633f438f",
+  "uuid": "princeton-x633f438f",
+  "dc_title_s": "Shelby County, Tennessee land parcels, 2007",
+  "solr_geom": "ENVELOPE(-90.30541, -89.633522, 35.409212, 34.993009)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shelby County Assessor of Property parcel polygons, certified for tax year 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "Shelby County",
+    "Shelby",
+    "Memphis"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T21:52:36Z",
+  "layer_id_s": "restricted-figgy:199095ed-a615-4123-b006-f8416ba0c6d8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7274f64f-c040-4165-b342-4e239776aa0c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e8caffa-d962-4879-be11-1b9e1dd626bb/file/4d06e1e5-3372-41ee-9513-f12a897f0df1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/199095ed-a615-4123-b006-f8416ba0c6d8/file/cd2fbe30-3706-4ceb-86e7-17632f24d859\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/199095ed-a615-4123-b006-f8416ba0c6d8/file/60bd1342-4620-4534-a904-e0a7c2e350a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

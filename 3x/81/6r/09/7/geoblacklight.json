@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816r097",
+  "layer_slug_s": "princeton-3x816r097",
+  "uuid": "princeton-3x816r097",
+  "dc_title_s": "Hendry County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-81.56657, -80.87971, 26.783477, 26.253053)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hendry County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hendry County",
+    "Hendry",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:10:18Z",
+  "layer_id_s": "restricted-figgy:c8bb50f7-dab2-4c0d-b701-b6b38c1d0d35",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c4bbfc22-7dba-4161-aed2-1941de3212c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/840f88e8-72c6-481b-89f9-74e882bff1f5/file/3332c906-415e-4e34-887c-efbc6bce1fbe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c8bb50f7-dab2-4c0d-b701-b6b38c1d0d35/file/9796b76f-b4ac-4ae0-b4b0-5057c9a8c234\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c8bb50f7-dab2-4c0d-b701-b6b38c1d0d35/file/2bfe9dda-ea83-4328-88d0-6927f8311b11\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

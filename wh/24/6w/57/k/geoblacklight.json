@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wh246w57k",
+  "layer_slug_s": "princeton-wh246w57k",
+  "uuid": "princeton-wh246w57k",
+  "dc_title_s": "Lincoln County, North Carolina land parcels, March 2014",
+  "solr_geom": "ENVELOPE(-81.537702, -80.946543, 35.572568, 35.401399)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lincoln County, North Carolina, March 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Lincoln",
+    "Lincoln County",
+    "Charlotte"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:30Z",
+  "layer_id_s": "restricted-figgy:0fd3e62f-8edc-414d-a97e-cfb99af7eded",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b1608957-5579-4f29-aebe-e67210ba0031\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a1117970-c8ae-41aa-bf78-85e30a39ae41/file/b5ae8d4c-54b3-4be5-9498-c65d769d117a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fd3e62f-8edc-414d-a97e-cfb99af7eded/file/c3ea1a4d-9899-488f-97cf-6feac81694a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fd3e62f-8edc-414d-a97e-cfb99af7eded/file/05f6ef0b-651c-4c34-acad-c50c45dbd66b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

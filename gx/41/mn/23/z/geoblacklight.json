@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gx41mn23z",
+  "layer_slug_s": "princeton-gx41mn23z",
+  "uuid": "princeton-gx41mn23z",
+  "dc_title_s": "Guadalupe County, New Mexico roads, 2014",
+  "solr_geom": "ENVELOPE(-105.312898, -104.124814, 35.217085, 34.346866)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Guadalupe County, New Mexico, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Guadalupe",
+    "Guadalupe County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:51Z",
+  "layer_id_s": "restricted-figgy:c36630aa-48b1-4a48-bd1c-c8284bcaa1ec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/810f5e60-ede8-442d-b76f-bdd96a543143\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6283ee7-7f8f-44fb-8c1c-bc11fea2e067/file/eaf96563-e0a3-4897-bf11-3998f488ce86\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c36630aa-48b1-4a48-bd1c-c8284bcaa1ec/file/ae0a01a8-7e7b-4f8d-868a-af51de6fc79e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c36630aa-48b1-4a48-bd1c-c8284bcaa1ec/file/0c966d4f-79f1-47ac-bd4b-ac7170e56c1b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

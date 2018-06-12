@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g135m",
+  "layer_slug_s": "princeton-x920g135m",
+  "uuid": "princeton-x920g135m",
+  "dc_title_s": "U.S. Rivers and Streams, 2013",
+  "solr_geom": "ENVELOPE(-160.220853, -66.988396, 49.376613, 18.922673)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "U.S. Rivers and Streams represents detailed rivers and streams in the United States.",
+  "dc_creator_sm": [
+    "U.S. Geological Survey in cooperation with U.S. Environmental Protection Agency"
+  ],
+  "dc_subject_sm": [
+    "line",
+    "rivers",
+    "streams",
+    "hydrography",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-06-07T15:01:14Z",
+  "layer_id_s": "public-figgy:f00e7679-cf99-492f-8f94-bd4c3c125146",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5e4bee89-1c5f-4167-8b71-624a51fbc063\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/92f74d81-dc27-413e-b1bb-126f75ea2e94/file/1204b49e-f6c1-4496-bf05-3a9187ae166f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f00e7679-cf99-492f-8f94-bd4c3c125146/file/04819aed-e865-4bae-bf65-104448520fdc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f00e7679-cf99-492f-8f94-bd4c3c125146/file/e8a5f540-c586-4c19-9264-b340b7faf46b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

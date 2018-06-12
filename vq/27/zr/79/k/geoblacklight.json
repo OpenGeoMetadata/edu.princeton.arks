@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zr79k",
+  "layer_slug_s": "princeton-vq27zr79k",
+  "uuid": "princeton-vq27zr79k",
+  "dc_title_s": "Guilford County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-80.046836, -79.53238, 36.257488, 35.900004)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Guilford County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Guilford",
+    "Guilford County",
+    "North Carolina",
+    "Winston-Salem",
+    "Greensboro",
+    "High Point"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:21Z",
+  "layer_id_s": "restricted-figgy:d817a7ca-c3a9-49f5-9fa9-489bdc29b643",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c02d8cf6-de83-4f3d-9811-234d3ce6bd6d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e9efba2-0296-46c2-a91c-2ac6f8c0f396/file/8a87d518-d63e-44c3-9d78-e5269d1c419d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d817a7ca-c3a9-49f5-9fa9-489bdc29b643/file/41df6b3b-e563-454a-a4c2-d0b285e0300b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d817a7ca-c3a9-49f5-9fa9-489bdc29b643/file/84d2893f-1223-4ef9-9d4d-e2542abb776e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

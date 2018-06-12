@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6108vc86h",
+  "layer_slug_s": "princeton-6108vc86h",
+  "uuid": "princeton-6108vc86h",
+  "dc_title_s": "Panama Cities With Population From 20 Thousand To 100 Thousand",
+  "solr_geom": "ENVELOPE(-82.248894, -79.549004, 9.340629, 7.767941)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Panama cities with population between 20 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Panama"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:57Z",
+  "layer_id_s": "restricted-figgy:f893fd69-2ea8-45d2-ab1f-916dcbf3d04a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc2a881c-fe78-4f6b-a127-ae58cbc0bb26\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/885f28dd-ef79-4038-b40f-abec3371bf73/file/91ec0eb9-b20c-49c5-b3a7-ff5edbe3c7c4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f893fd69-2ea8-45d2-ab1f-916dcbf3d04a/file/203e2c2f-5d98-4786-9c02-7737ef6a50af\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f893fd69-2ea8-45d2-ab1f-916dcbf3d04a/file/1d4abd85-1e7c-4efd-b328-c2a4169c005e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

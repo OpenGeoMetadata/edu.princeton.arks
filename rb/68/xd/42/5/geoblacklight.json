@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rb68xd425",
+  "layer_slug_s": "princeton-rb68xd425",
+  "uuid": "princeton-rb68xd425",
+  "dc_title_s": "China Major Power Lines, 2004",
+  "solr_geom": "ENVELOPE(73.742081, 134.663628, 52.905251, 19.037195)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of China created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:26Z",
+  "layer_id_s": "restricted-figgy:70d0e134-b27e-402c-ba1f-9917d825be08",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/18c0f31d-a51d-45c7-b224-daf2338fe190\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81fe26a6-d81e-4db6-adc0-40b47e3bc450/file/18eac9d6-df58-42c3-9ab2-4cf4f23b84cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70d0e134-b27e-402c-ba1f-9917d825be08/file/e0d8eaca-f29a-4d85-9028-c620f778cc95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70d0e134-b27e-402c-ba1f-9917d825be08/file/f0e90dc2-d914-4cf5-95dd-76b7dc0b55c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

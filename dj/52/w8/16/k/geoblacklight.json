@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dj52w816k",
+  "layer_slug_s": "princeton-dj52w816k",
+  "uuid": "princeton-dj52w816k",
+  "dc_title_s": "Washington County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.073589, -82.510738, 33.242215, 32.756276)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:43Z",
+  "layer_id_s": "restricted-figgy:0bab0c5c-4475-47db-9fa3-0e5829b444bf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/94bc99dd-9d4d-4592-8910-9534b2da9fae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a6a9361-d8b4-41b6-b240-3fd2665c37d4/file/13d2c946-6f1f-4d68-955e-ff5329f5a3e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0bab0c5c-4475-47db-9fa3-0e5829b444bf/file/8dace81a-02d7-444b-b707-1422f2270b59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0bab0c5c-4475-47db-9fa3-0e5829b444bf/file/48399186-93c0-45b8-bdb3-8a7b76737a4f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

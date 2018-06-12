@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289n51r",
+  "layer_slug_s": "princeton-pc289n51r",
+  "uuid": "princeton-pc289n51r",
+  "dc_title_s": "McLennan County, Texas roads, 2008",
+  "solr_geom": "ENVELOPE(-97.638859, -96.636804, 31.874805, 31.187552)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in McLennan County, Texas, 2008. Line work for the center lines of all public streets.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "centerline",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "McLennan",
+    "McLennan County",
+    "Waco"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:33:37Z",
+  "layer_id_s": "restricted-figgy:e3a27d37-7fc1-4318-a796-ee42d08b0f6b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bba63e58-48eb-4927-85a7-1cbaf0381e01\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/07ee310a-12e0-4c9b-a717-51a4bd49724c/file/376a3ea1-aa3f-4c4d-82b2-dbeb68e98de0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3a27d37-7fc1-4318-a796-ee42d08b0f6b/file/606efbcf-61b6-4664-b519-917ce308a4f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3a27d37-7fc1-4318-a796-ee42d08b0f6b/file/819e1aa2-1044-41cb-8f2a-9ae5e9eac220\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

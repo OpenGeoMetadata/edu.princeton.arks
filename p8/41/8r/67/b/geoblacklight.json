@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418r67b",
+  "layer_slug_s": "princeton-p8418r67b",
+  "uuid": "princeton-p8418r67b",
+  "dc_title_s": "Hartford County, Maryland roads, 2010",
+  "solr_geom": "ENVELOPE(-76.569395, -76.066159, 39.721277, 39.303199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hartford County, Maryland, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Hartford County",
+    "Hartford",
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:08:46Z",
+  "layer_id_s": "restricted-figgy:6813cc83-e60e-430a-b3f5-2de44442053c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99b2ab4c-97a8-40b5-8bc4-e4a45bd0dbfe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c47200ac-0e24-4547-8fc6-a2a0e0dffadb/file/27173fa4-8674-4a56-8543-db4894ac353d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6813cc83-e60e-430a-b3f5-2de44442053c/file/58bab0ca-3946-4afa-a3e5-a3df4426bce1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6813cc83-e60e-430a-b3f5-2de44442053c/file/d6828ba0-151f-4366-bf33-f2f45b35720d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

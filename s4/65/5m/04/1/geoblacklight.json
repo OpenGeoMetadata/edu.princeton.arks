@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s4655m041",
+  "layer_slug_s": "princeton-s4655m041",
+  "uuid": "princeton-s4655m041",
+  "dc_title_s": "Hamilton County, Indiana land parcels, 2009",
+  "solr_geom": "ENVELOPE(-86.242667, -85.862045, 40.218894, 39.926116)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hamilton County, Indiana, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hamilton County",
+    "Hamilton",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:33Z",
+  "layer_id_s": "restricted-figgy:979995a1-2fb7-41b5-b9a3-4babc9630da5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a9848f8-575c-4579-9fcd-78b8bcc7b4cb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0510da1-35bc-49c3-85be-a136d50090f3/file/e70ad785-7b96-4bed-bd99-37eb7dfcbc97\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/979995a1-2fb7-41b5-b9a3-4babc9630da5/file/5eaf0676-dfa3-4d1e-918f-0ff81153a41f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/979995a1-2fb7-41b5-b9a3-4babc9630da5/file/c26aa1b0-fd62-4d7b-921d-803eea1619a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

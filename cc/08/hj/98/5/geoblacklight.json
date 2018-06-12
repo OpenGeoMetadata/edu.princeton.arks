@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hj985",
+  "layer_slug_s": "princeton-cc08hj985",
+  "uuid": "princeton-cc08hj985",
+  "dc_title_s": "Baker County, Florida roads, 2014",
+  "solr_geom": "ENVELOPE(-82.459495, -82.048826, 30.583167, 30.136449)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Baker County, Florida, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Baker County",
+    "Baker",
+    "Jacksonville",
+    "Osceola National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:21:09Z",
+  "layer_id_s": "restricted-figgy:2bbe2e27-7b68-4dda-8d6b-68eeeeb9f720",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2e54d75c-5bf1-40ad-a80d-d6147f1f0e02\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b264be7-1a06-4501-ae1d-1a54f6e897e3/file/d9129e00-313f-409e-a85a-229f5d094651\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bbe2e27-7b68-4dda-8d6b-68eeeeb9f720/file/e2615bec-fcbd-4822-a58d-489b4966527a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bbe2e27-7b68-4dda-8d6b-68eeeeb9f720/file/0eff9c77-157a-4103-a537-10867283add2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

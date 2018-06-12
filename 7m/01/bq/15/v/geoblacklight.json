@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7m01bq15v",
+  "layer_slug_s": "princeton-7m01bq15v",
+  "uuid": "princeton-7m01bq15v",
+  "dc_title_s": "Granville County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.807623, -78.453595, 36.542941, 36.021561)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Granville County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Granville",
+    "Granville County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:26Z",
+  "layer_id_s": "restricted-figgy:e81bb5ca-17f2-4ea1-9cd6-3a80ba8a029b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/823d86da-5e85-4209-8a26-47681b5a20ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a276b77c-f927-47a5-9cf7-90852ee60a3f/file/f5bf2691-5b71-4ae4-83f1-e4e62cafa196\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e81bb5ca-17f2-4ea1-9cd6-3a80ba8a029b/file/bbda467b-83fc-4f4c-a17d-e7c1773adb3b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e81bb5ca-17f2-4ea1-9cd6-3a80ba8a029b/file/e5a9ccd4-2acd-4f18-b324-7322aa87a6f0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

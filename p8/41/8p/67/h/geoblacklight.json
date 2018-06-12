@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418p67h",
+  "layer_slug_s": "princeton-p8418p67h",
+  "uuid": "princeton-p8418p67h",
+  "dc_title_s": "Europe Countries 1999",
+  "solr_geom": "ENVELOPE(-31.265747, 69.07032, 81.857368, 32.397476)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Europe Countries represents the countries of Europe including those countries created from the former Soviet Union, Yugoslavia, and Czechoslovakia; such as Ukraine and Slovenia.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "countries",
+    "Boundaries",
+    "coastlines"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "1999"
+  ],
+  "solr_year_i": 1998,
+  "layer_modified_dt": "2018-04-05T02:54:38Z",
+  "layer_id_s": "restricted-figgy:2ebcfcf3-db66-4f68-ab15-a0aa754607c3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6847bda5-6a0c-4839-a9b0-2d0017fe5d09\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4f66688e-698e-4e03-bf8c-0e17c87c41d5/file/f7c47d42-db52-43a4-b401-222b21eeae0d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ebcfcf3-db66-4f68-ab15-a0aa754607c3/file/3eefece1-5cb7-4bb9-b56f-57b58769e78e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ebcfcf3-db66-4f68-ab15-a0aa754607c3/file/64ae8afb-09f5-4bc1-a2b5-ae66d579b409\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

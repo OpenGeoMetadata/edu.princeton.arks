@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150n617",
+  "layer_slug_s": "princeton-vt150n617",
+  "uuid": "princeton-vt150n617",
+  "dc_title_s": "Essex County, Massachusetts land parcels, 2009",
+  "solr_geom": "ENVELOPE(-71.255878, -70.61807, 42.886778, 42.429752)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Essex County, Massachusetts, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "lot size",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Essex County",
+    "Essex",
+    "Massachusetts",
+    "Essex National Heritage Area"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:05:24Z",
+  "layer_id_s": "restricted-figgy:a58b9af6-0771-425e-af18-5b888dfbe419",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44a145fc-01bd-4b4b-9e85-56d6c8015a5f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61583f1a-9f03-4033-81ef-528f6924e8d1/file/8490a429-19a8-49d8-9e08-ababf83b9bd1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a58b9af6-0771-425e-af18-5b888dfbe419/file/827a2319-1548-406b-ac4c-d7826f4e8205\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a58b9af6-0771-425e-af18-5b888dfbe419/file/23c20ef4-e298-4d73-8ce7-0f0ad2068a21\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

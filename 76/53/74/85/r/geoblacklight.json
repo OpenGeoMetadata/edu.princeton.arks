@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/76537485r",
+  "layer_slug_s": "princeton-76537485r",
+  "uuid": "princeton-76537485r",
+  "dc_title_s": "Gambia conflated historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(-16.813194, -13.790928, 13.82689, 13.064655)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in The Gambia for 1948. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Gambia"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "public-figgy:3d3a7fb2-86f8-458d-a2f0-70fc5a232868",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/91ae92f5-75cf-4309-83eb-4b408925034f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/251c96b6-5c4e-430b-88af-dad0a4fdbfe1/file/7bed16ef-85a6-45c9-8d02-7ecf27c87d69\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d3a7fb2-86f8-458d-a2f0-70fc5a232868/file/8320276d-4e2f-4307-8185-ad7894fb68e1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d3a7fb2-86f8-458d-a2f0-70fc5a232868/file/dd1e9d80-1493-48a9-85fc-9f05191dec9c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

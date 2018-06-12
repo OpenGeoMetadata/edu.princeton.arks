@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kp73r",
+  "layer_slug_s": "princeton-gt54kp73r",
+  "uuid": "princeton-gt54kp73r",
+  "dc_title_s": "District of Columbia Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-77.119132, -76.910185, 38.99336, 38.792763)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "District of Columbia Block Centroid Populations represents the population of the U.S. Census block centroids for District of Columbia.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:436e7946-4259-402c-a9d8-fe0730630470",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aaee4706-bf4a-4025-ae74-719157ed598a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a37fdbf-2efa-444e-b076-dad28b2ddf86/file/5ed5b52f-c25d-4d7b-b632-e7e005d2fda0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/436e7946-4259-402c-a9d8-fe0730630470/file/14548391-19ee-471f-8452-6931b4d4d49b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/436e7946-4259-402c-a9d8-fe0730630470/file/517151ee-300b-4803-ad2a-761c40d5cf1e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623g97g",
+  "layer_slug_s": "princeton-f7623g97g",
+  "uuid": "princeton-f7623g97g",
+  "dc_title_s": "Sierra County, New Mexico land parcels, 2014",
+  "solr_geom": "ENVELOPE(-108.003819, -106.340529, 33.480415, 32.605245)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sierra County, New Mexico, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Sierra",
+    "Sierra County",
+    "Gila National Forest",
+    "White Sands Missile Range"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:15Z",
+  "layer_id_s": "restricted-figgy:3e882f2a-f69b-4561-9a21-987ae0ec4fc1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5b6b8160-55a8-4972-9d07-794da5d0ac63\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd04b5dd-983d-4fb8-bfc7-896283e1ba09/file/83496507-8da6-40b9-bf49-853e859a3e53\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e882f2a-f69b-4561-9a21-987ae0ec4fc1/file/2be96eb6-5dca-4e0b-97d2-86eaf1418623\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e882f2a-f69b-4561-9a21-987ae0ec4fc1/file/82cfd8b6-8b2a-4f4c-82d8-68f132928036\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

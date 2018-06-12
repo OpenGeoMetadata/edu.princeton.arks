@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dn39x502z",
+  "layer_slug_s": "princeton-dn39x502z",
+  "uuid": "princeton-dn39x502z",
+  "dc_title_s": "Nez Perce County, Idaho land parcels, 2014",
+  "solr_geom": "ENVELOPE(-117.061122, -116.3599, 46.631165, 45.855591)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nez Perce County, Idaho, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Idaho",
+    "Nez Perce",
+    "Nez Perce County",
+    "Nez Perce Indian Reservation",
+    "Snake River",
+    "Clearwater River"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:13:02Z",
+  "layer_id_s": "restricted-figgy:bb1af6fc-6d0f-4d1d-b67b-97ab36950c1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/06fbecb1-9867-4914-ab5d-94c6b3ebee19\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bc7d3bb7-769f-4353-aa50-ac1c211be76f/file/0c015419-b0db-408c-89a2-3aac7f1587f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb1af6fc-6d0f-4d1d-b67b-97ab36950c1c/file/20989ae6-9054-4b9d-abc4-0fa6ecf0c11c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb1af6fc-6d0f-4d1d-b67b-97ab36950c1c/file/483f590e-9e06-46ee-9e0d-6049cc040f01\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

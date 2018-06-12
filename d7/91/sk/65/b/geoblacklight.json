@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d791sk65b",
+  "layer_slug_s": "princeton-d791sk65b",
+  "uuid": "princeton-d791sk65b",
+  "dc_title_s": "District of Columbia roads, 2011",
+  "solr_geom": "ENVELOPE(-77.116639, -76.909531, 38.995248, 38.793219)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in the District of Columbia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Washington D.C.",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:31Z",
+  "layer_id_s": "restricted-figgy:b6015c6d-debf-4ff9-adde-426acc331d77",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2c4d2298-86b8-4644-bd77-8368bb0d8c3d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d2e5f1d-62c1-4854-a168-cc8aef65d182/file/6d881297-d332-4ddb-8f26-632d390b6405\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6015c6d-debf-4ff9-adde-426acc331d77/file/ab13c375-d145-4328-81ee-52fd4e95b63e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6015c6d-debf-4ff9-adde-426acc331d77/file/39fefaa7-f548-4ba7-9883-dc9766be573f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

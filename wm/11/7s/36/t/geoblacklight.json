@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wm117s36t",
+  "layer_slug_s": "princeton-wm117s36t",
+  "uuid": "princeton-wm117s36t",
+  "dc_title_s": "Essex County, Massachusetts roads, 2011",
+  "solr_geom": "ENVELOPE(-71.253356, -70.593097, 42.88669, 42.416697)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Essex County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Essex",
+    "Essex County",
+    "Massachusetts",
+    "Lynn",
+    "Haverhill",
+    "Lawrence",
+    "Boston"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:34Z",
+  "layer_id_s": "restricted-figgy:299a00f3-5726-461e-a433-a22b94d1742a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a96fad98-68e7-44e4-981a-8b83b8b7d340\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a28e120-268e-4154-8b40-06cfb80ede03/file/f506a739-94e2-46ea-81b9-9d19e158382b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/299a00f3-5726-461e-a433-a22b94d1742a/file/c2ee757a-9a18-43c1-86cb-418eafd85ff2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/299a00f3-5726-461e-a433-a22b94d1742a/file/5e8aabf9-7184-4d35-971d-d861486aabfd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

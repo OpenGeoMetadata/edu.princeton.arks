@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dw47v",
+  "layer_slug_s": "princeton-c247dw47v",
+  "uuid": "princeton-c247dw47v",
+  "dc_title_s": "Rich County, Utah roads, 2014",
+  "solr_geom": "ENVELOPE(-111.511874, -111.045789, 42.00157, 41.142758)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Rich County, Utah, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Rich",
+    "Rich County",
+    "Utah",
+    "Uinta-Wasatch-Cache National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:30:04Z",
+  "layer_id_s": "restricted-figgy:4d294175-22d8-4c77-bc8c-c6da0ce41a53",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc948145-3475-42d0-8cec-ce49b3811daf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16729982-594a-4359-99a1-b51bbae30686/file/30f3443c-175e-4a1f-b71b-27aa8042dae1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d294175-22d8-4c77-bc8c-c6da0ce41a53/file/a30ee8a2-e64a-4afd-ae4f-209f6d179340\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d294175-22d8-4c77-bc8c-c6da0ce41a53/file/4cf1b58f-b03f-41b6-aac9-9d2f3209898b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

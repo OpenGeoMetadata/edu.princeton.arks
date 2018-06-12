@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7m01bq17t",
+  "layer_slug_s": "princeton-7m01bq17t",
+  "uuid": "princeton-7m01bq17t",
+  "dc_title_s": "St. Clair County, Illinois land parcels, 2009",
+  "solr_geom": "ENVELOPE(-90.058791, -89.947676, 38.636315, 38.555834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of the cities of O'Fallon, Fairview Heights, and Belleville, and the villages of Swansea and Caseyville, in St. Clair County, Illinois, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "St. Clair County",
+    "St. Clair",
+    "Illinois",
+    "St. Louis",
+    "Swansea",
+    "O'Fallon",
+    "Fairview Heights",
+    "Caseyville",
+    "Belleville"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:12:28Z",
+  "layer_id_s": "restricted-figgy:0e712cc8-f304-45a9-b09f-3d205c3b0c0c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b605afd8-57ae-45fa-ba50-a025b2ec3595\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/58e525c3-6d10-479d-8e83-13ee1e0203ca/file/5f092fd1-b1c0-4928-9caa-119fac58cae5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e712cc8-f304-45a9-b09f-3d205c3b0c0c/file/ff8abf2d-5af7-45fe-986e-8f5822a1d187\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e712cc8-f304-45a9-b09f-3d205c3b0c0c/file/8aeb4039-25cb-4da1-a1c1-9f185638000e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

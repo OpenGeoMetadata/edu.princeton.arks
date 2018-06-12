@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j908t",
+  "layer_slug_s": "princeton-tb09j908t",
+  "uuid": "princeton-tb09j908t",
+  "dc_title_s": "San Diego County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-117.59618, -116.08088, 33.505379, 32.534273)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Diego County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "San Diego County",
+    "California",
+    "San Diego",
+    "Chula Vista",
+    "Oceanside",
+    "Escondido",
+    "Carlsbad",
+    "El Cajon",
+    "Vista",
+    "San Marcos"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:03Z",
+  "layer_id_s": "restricted-figgy:095e90b2-7fb5-483f-b9b1-cab643be3e86",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9bbe051c-9e79-47d7-807e-29a0bae85854\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/30ca35e6-8206-4fbb-9673-21a0f2328018/file/188b2d08-4a0c-4bbe-b682-ddec2aae5ae7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/095e90b2-7fb5-483f-b9b1-cab643be3e86/file/b66dbc79-5b4d-4688-ac96-2e29304aa2ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/095e90b2-7fb5-483f-b9b1-cab643be3e86/file/6d102bdf-e89c-468b-be55-e8479ac6268b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gx41mn31f",
+  "layer_slug_s": "princeton-gx41mn31f",
+  "uuid": "princeton-gx41mn31f",
+  "dc_title_s": "Bastrop County, Texas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-97.649071, -97.024477, 30.419502, 29.786558)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This is a polygon feature class representing parcel and tax roll data for Bastrop, Caldwell, Hays, Travis and Williamson Counties for 2008. There are fields representing whether the land was classified as vacant for 2005 and 2008 according to the CAPCOG land fragmentation analysis; parcel and tax roll information; and additional notes on water, road, and percent improvements within each parcel.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "land",
+    "inventory",
+    "regional",
+    "improvement",
+    "vacant",
+    "fragment",
+    "fragmentation",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Bastrop",
+    "Bastrop County",
+    "Austin"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:09:32Z",
+  "layer_id_s": "restricted-figgy:69251e91-704b-45a2-8a91-12188826bc97",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/580badde-c24e-49b9-83ef-e7375a200bf0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4f244fd6-e04f-4add-8ec9-ff03dda55b0a/file/80dca486-7672-4337-aff1-34b2e54e6989\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69251e91-704b-45a2-8a91-12188826bc97/file/2a512133-db15-4c2e-b8e4-74d68c13b3a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69251e91-704b-45a2-8a91-12188826bc97/file/8bab8b1b-2986-4b29-b037-51be15e281e3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

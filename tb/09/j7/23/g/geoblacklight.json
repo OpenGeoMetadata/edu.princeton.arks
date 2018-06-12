@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j723g",
+  "layer_slug_s": "princeton-tb09j723g",
+  "uuid": "princeton-tb09j723g",
+  "dc_title_s": "Belgium Major Airports, 2005",
+  "solr_geom": "ENVELOPE(2.863611, 5.471111, 51.199722, 50.241112)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Belgium major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:07Z",
+  "layer_id_s": "restricted-figgy:3c8afb20-c75f-498d-acfd-1afe7d64b775",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/70fe41b5-3952-40df-9626-6c6d5b4137d9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40edd8a3-335b-4e71-ad31-81a9ef605edd/file/e263444f-2773-45e1-8569-f4c24ed285bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c8afb20-c75f-498d-acfd-1afe7d64b775/file/8477c70b-4d05-474c-a1df-7dd1a6e67d52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c8afb20-c75f-498d-acfd-1afe7d64b775/file/52f1d88b-02ff-4e4b-923b-7b91da423e6c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

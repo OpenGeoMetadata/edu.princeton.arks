@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9c67wr239",
+  "layer_slug_s": "princeton-9c67wr239",
+  "uuid": "princeton-9c67wr239",
+  "dc_title_s": "Orleans Parish, Louisiana land parcels, 2007",
+  "solr_geom": "ENVELOPE(-90.137045, -89.736149, 30.163955, 29.870801)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orleans Parish, Louisiana, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Orleans Parish",
+    "Orleans",
+    "Louisiana",
+    "New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:47:00Z",
+  "layer_id_s": "restricted-figgy:14fa537d-514f-48e3-aa4a-008c0c102563",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3ac25a38-e8f7-4fb7-8794-c03c66baca59\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c3105cf5-d8b1-4cbd-94b1-2519db016d28/file/af5fcf71-a933-4442-989b-89ab9dd83ee2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14fa537d-514f-48e3-aa4a-008c0c102563/file/42f08fb7-592b-4368-accb-672d7c7cbc96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14fa537d-514f-48e3-aa4a-008c0c102563/file/44296f99-75aa-44dd-a5dc-1dadbab55371\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

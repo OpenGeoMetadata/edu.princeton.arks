@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p096b40b",
+  "layer_slug_s": "princeton-0p096b40b",
+  "uuid": "princeton-0p096b40b",
+  "dc_title_s": "Jackson County, West Virginia roads, 2011",
+  "solr_geom": "ENVELOPE(-81.904878, -81.501473, 39.09451, 38.555748)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Jackson County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Jackson",
+    "Jackson County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2003"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:55Z",
+  "layer_id_s": "restricted-figgy:dd61e5c4-79ea-4896-a596-d9236e1213f4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b011948-dd41-44d2-8a9a-23b07e55e694\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d80f1be-1230-412f-8eaa-9b0026499e73/file/0e030c04-0533-4ea4-8213-760ba3fd2077\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd61e5c4-79ea-4896-a596-d9236e1213f4/file/644a1f93-4db6-4fb5-8bf7-2f478a9666b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd61e5c4-79ea-4896-a596-d9236e1213f4/file/886f061c-fc01-4380-bc29-572658b0a81e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

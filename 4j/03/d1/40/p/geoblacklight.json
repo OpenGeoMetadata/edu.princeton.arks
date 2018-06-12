@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d140p",
+  "layer_slug_s": "princeton-4j03d140p",
+  "uuid": "princeton-4j03d140p",
+  "dc_title_s": "Taiwan Major Highways, 2005",
+  "solr_geom": "ENVELOPE(120.227907, 121.740612, 25.128885, 22.570108)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Taiwan major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Taiwan",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:18Z",
+  "layer_id_s": "restricted-figgy:d8bd947e-6d79-471d-aded-c56e7acd4e5a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a15aab2-c329-4270-b85a-546be28b6ffd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/583a001f-a070-46bf-8c4a-b6f5c91d3c60/file/c1baac90-d348-4b93-8329-a17608570d8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8bd947e-6d79-471d-aded-c56e7acd4e5a/file/9b1fae5d-8872-4699-90f2-6f090980c47e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8bd947e-6d79-471d-aded-c56e7acd4e5a/file/826e7270-ec40-4c64-9342-66596772ba95\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

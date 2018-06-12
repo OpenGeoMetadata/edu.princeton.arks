@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6682x744n",
+  "layer_slug_s": "princeton-6682x744n",
+  "uuid": "princeton-6682x744n",
+  "dc_title_s": "Marion County, Oregon land parcels, 2012",
+  "solr_geom": "ENVELOPE(-123.179762, -121.733045, 45.285171, 44.683867)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Oregon, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Willamette Valley",
+    "Salem",
+    "Marion County",
+    "Marion",
+    "Oregon"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:11:59Z",
+  "layer_id_s": "restricted-figgy:8625eb5d-f6a4-42ae-a31d-f66f8a763bf2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fcbf0811-56b4-4574-b410-e0fab001894c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8ffc13ab-5fcd-4b32-ba77-c63543672987/file/375a621a-3f64-498d-8e46-528caecff4e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8625eb5d-f6a4-42ae-a31d-f66f8a763bf2/file/ee215187-7250-4a4b-a36b-45283ad3f41d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8625eb5d-f6a4-42ae-a31d-f66f8a763bf2/file/918c976e-c3b3-4f14-97aa-0493c5e31a2e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

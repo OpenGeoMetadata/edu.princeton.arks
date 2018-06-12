@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074z44j",
+  "layer_slug_s": "princeton-3r074z44j",
+  "uuid": "princeton-3r074z44j",
+  "dc_title_s": "Walton County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.397322, -85.844535, 30.995053, 30.269115)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Walton County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Walton County",
+    "Walton",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:44Z",
+  "layer_id_s": "restricted-figgy:bb21ec61-686b-410c-9d40-c70b4684c091",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a99905fc-b35a-452d-a079-b8874e797eef\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75a3de47-4829-4926-bbc1-8c82d02c3472/file/4ec2cf79-1297-48c2-b16f-2c74516e19dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb21ec61-686b-410c-9d40-c70b4684c091/file/2968e4ec-ea1a-4d20-8f91-7f281ddfbd74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb21ec61-686b-410c-9d40-c70b4684c091/file/72ce6cbb-66de-4ff6-83ea-57387050047e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

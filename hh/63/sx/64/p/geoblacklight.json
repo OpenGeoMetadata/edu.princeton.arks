@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hh63sx64p",
+  "layer_slug_s": "princeton-hh63sx64p",
+  "uuid": "princeton-hh63sx64p",
+  "dc_title_s": "Poland Major Bridges and Tunnels, 2005",
+  "solr_geom": "ENVELOPE(15.764621, 21.838904, 53.146607, 50.51026)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Poland major bridges and tunnels created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Bridges",
+    "Transportation",
+    "Tunnels"
+  ],
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:51Z",
+  "layer_id_s": "restricted-figgy:5c13e339-628f-464c-ad7d-0e06848a865e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7e4f77eb-a7e2-47ad-8c34-267d0740256c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/090053e8-bf90-4c60-a63d-7e7e20f56d43/file/5d262f42-caa7-4cfe-ae79-28c02540e003\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c13e339-628f-464c-ad7d-0e06848a865e/file/b1bbf484-3c80-412e-b93d-849088b5e97e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c13e339-628f-464c-ad7d-0e06848a865e/file/c75c89a6-46f0-4b9a-9e33-e14bc1c5fd2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m039k665x",
+  "layer_slug_s": "princeton-m039k665x",
+  "uuid": "princeton-m039k665x",
+  "dc_title_s": "Chile Cities With Population From 1 Thousand to 5 Thousand, 1995",
+  "solr_geom": "ENVELOPE(-75.8331, -66.7964, -17.5612, -55.5632)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Chile cities with population 1,000 to 10,000 created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 1to 10 thousands",
+    "Cities 10K",
+    "Cities 1K"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "solr_year_i": 1995,
+  "layer_modified_dt": "2018-06-06T22:15:04Z",
+  "layer_id_s": "restricted-figgy:ff29769e-9135-4355-bc18-807ca0acea3d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3529e903-d079-4844-8787-40245a93a250\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39da2483-20fe-4aa8-98a6-2008ea6af77b/file/c63a8f49-ac21-45b7-acd2-f79ff860544a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff29769e-9135-4355-bc18-807ca0acea3d/file/c97d86fe-1377-4224-b40e-c402b6afc190\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff29769e-9135-4355-bc18-807ca0acea3d/file/8ea0c867-212e-4649-9e86-157541672163\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

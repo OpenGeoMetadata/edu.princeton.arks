@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ht24wm16d",
+  "layer_slug_s": "princeton-ht24wm16d",
+  "uuid": "princeton-ht24wm16d",
+  "dc_title_s": "Lithuania Major Lakes, 2004",
+  "solr_geom": "ENVELOPE(23.382064, 26.682786, 55.665095, 54.138203)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Lithuania created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:27Z",
+  "layer_id_s": "restricted-figgy:7cccf09e-1d9c-4aac-89c5-062ad27bb20d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/46f67467-e44d-4eaa-bbd7-0cc636e87899\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1afafbb0-5f3f-4c3c-82d7-0b9fc0a26ff1/file/787a25ab-aa49-4b1b-a935-b2235569d425\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cccf09e-1d9c-4aac-89c5-062ad27bb20d/file/1589e197-64d3-457e-8b5e-5e0520661f3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cccf09e-1d9c-4aac-89c5-062ad27bb20d/file/dfb5bd6d-f164-4155-8eb1-8e605210338a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

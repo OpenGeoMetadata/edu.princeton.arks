@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sv07c",
+  "layer_slug_s": "princeton-qz20sv07c",
+  "uuid": "princeton-qz20sv07c",
+  "dc_title_s": "Denmark Major Dams, 2005",
+  "solr_geom": "ENVELOPE(9.559283, 12.643283, 55.707955, 55.075508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major dams of Denmark created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Dams",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:09Z",
+  "layer_id_s": "restricted-figgy:c932e35e-5a27-4950-9660-25123071b31b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/540b18d3-ed20-4af8-9efc-9650c8238d65\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e1bf2fa-e40a-4829-9118-ccf34c34e972/file/8af9b05d-d085-4c29-bdbe-ddb38a20b951\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c932e35e-5a27-4950-9660-25123071b31b/file/aacdea6a-1ff8-4eca-96df-f278dea878ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c932e35e-5a27-4950-9660-25123071b31b/file/1f0a1832-07fa-416e-8592-935bdd05e59e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

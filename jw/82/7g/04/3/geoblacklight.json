@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jw827g043",
+  "layer_slug_s": "princeton-jw827g043",
+  "uuid": "princeton-jw827g043",
+  "dc_title_s": "Lake County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-81.956586, -81.349714, 29.277329, 28.345703)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lake County",
+    "Florida",
+    "Lake",
+    "Orlando",
+    "Kissimmee",
+    "Sanford"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:28:45Z",
+  "layer_id_s": "restricted-figgy:82f154af-8071-431c-beb7-e0b4bf2a86ba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8ffd819e-dfe8-457b-93bc-fd76afc0cdce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/48491ebb-c0bd-4d6b-b927-ef7bb26a96e8/file/0ac45242-5e5d-4706-9c2e-fd3156e6bb88\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82f154af-8071-431c-beb7-e0b4bf2a86ba/file/8fd8e09d-5164-4acc-a7b5-be534394405e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82f154af-8071-431c-beb7-e0b4bf2a86ba/file/848f54d5-5790-443a-b381-c448e446dae7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

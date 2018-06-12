@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445ch54h",
+  "layer_slug_s": "princeton-g445ch54h",
+  "uuid": "princeton-g445ch54h",
+  "dc_title_s": "Halifax County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-78.007238, -77.230281, 36.511829, 35.992256)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Halifax County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Halifax",
+    "Halifax County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:53Z",
+  "layer_id_s": "restricted-figgy:022152e5-2f27-4764-b0d0-6f89dbc48e08",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e95b7998-ea5a-4aea-89bf-30cf208a95e8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab021792-3a57-4423-872f-0ba96c1f0c94/file/5c678429-d8a6-4f9a-ae4c-a988af2679cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/022152e5-2f27-4764-b0d0-6f89dbc48e08/file/0fb1fa7e-ded4-4122-a973-0b10412da0e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/022152e5-2f27-4764-b0d0-6f89dbc48e08/file/e90f16d4-83d5-49b5-b3d4-ec6da192f729\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w750",
+  "layer_slug_s": "princeton-12579w750",
+  "uuid": "princeton-12579w750",
+  "dc_title_s": "McLennan County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-97.636456, -96.640831, 31.863132, 31.201374)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in McLennan County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "McLennan",
+    "McLennan County",
+    "Waco"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T01:12:27Z",
+  "layer_id_s": "restricted-figgy:6e11794b-8087-4442-ac09-e9756b2d7764",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7a89d50d-844f-411d-b114-7882a71bd788\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/569b380c-21a4-4ee0-b14c-f8bed93ffc66/file/2d76a67b-d1b0-4db5-ac63-bad87d1b0f41\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e11794b-8087-4442-ac09-e9756b2d7764/file/05792955-6326-4ee7-bb2a-6f556d1e0dfa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e11794b-8087-4442-ac09-e9756b2d7764/file/b8fe7e65-a788-4d45-b34b-47f5259be7e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

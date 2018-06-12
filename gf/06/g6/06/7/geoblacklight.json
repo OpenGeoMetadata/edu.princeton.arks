@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g6067",
+  "layer_slug_s": "princeton-gf06g6067",
+  "uuid": "princeton-gf06g6067",
+  "dc_title_s": "Cleveland County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.768126, -81.320577, 35.584813, 35.16351)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cleveland County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cleveland County",
+    "Cleveland",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:40:07Z",
+  "layer_id_s": "restricted-figgy:536ffddf-fa93-47db-809e-3300e9dc95b2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b7511ecb-8492-467a-acad-267c86ca820f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2eaa22ec-b891-418b-9ba0-9cc9a0eafda4/file/b81d0fe3-7840-4473-82b7-2063b86cd0c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/536ffddf-fa93-47db-809e-3300e9dc95b2/file/18b47498-fbe8-4808-ae23-1e217a2bd916\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/536ffddf-fa93-47db-809e-3300e9dc95b2/file/d8309885-93a7-4798-84f6-db5dfde58b9a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

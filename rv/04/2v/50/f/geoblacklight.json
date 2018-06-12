@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042v50f",
+  "layer_slug_s": "princeton-rv042v50f",
+  "uuid": "princeton-rv042v50f",
+  "dc_title_s": "Moldova Major Roads, 2005",
+  "solr_geom": "ENVELOPE(26.629149, 29.985722, 48.452705, 45.473012)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Moldova major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Moldova"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:20e17fd6-31b3-4fa0-8939-a08f27946588",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1fbb7c1a-5710-4c68-a9a2-3e50cda3c364\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4756a4ec-68b4-48c5-94ae-359e894e96c1/file/93b5e933-6c39-4600-ac9e-fffa67e943e0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20e17fd6-31b3-4fa0-8939-a08f27946588/file/65d4f66e-76c4-4484-bce6-24373b8bbd59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20e17fd6-31b3-4fa0-8939-a08f27946588/file/f1727e80-aa35-453a-8ba9-c1420138b4c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

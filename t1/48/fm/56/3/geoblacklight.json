@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t148fm563",
+  "layer_slug_s": "princeton-t148fm563",
+  "uuid": "princeton-t148fm563",
+  "dc_title_s": "Huntingdon County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.643825, -85.334607, 41.005253, 40.653119)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Huntingdon County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Huntingdon",
+    "Huntingdon County",
+    "Indiana",
+    "Salamonie Lake"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:21Z",
+  "layer_id_s": "restricted-figgy:fbb699d9-c72e-466e-9a05-04ea2ded924e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/46b8098b-3bae-422c-8b19-131761a8f2f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/453d71f8-5f3e-40cc-b90b-2f4b2bd18f32/file/aba3afa8-565a-489f-83cd-274b855d8d04\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fbb699d9-c72e-466e-9a05-04ea2ded924e/file/6330bfac-a147-4b63-a113-efbfc6dc6d7b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fbb699d9-c72e-466e-9a05-04ea2ded924e/file/276e78db-ffce-44fd-b544-1783561ac301\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

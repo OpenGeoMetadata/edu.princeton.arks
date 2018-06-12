@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jd07p",
+  "layer_slug_s": "princeton-cf95jd07p",
+  "uuid": "princeton-cf95jd07p",
+  "dc_title_s": "Nevada Major Roads 2002",
+  "solr_geom": "ENVELOPE(-120.005685, -114.040564, 41.99819, 35.04261)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Nevada Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Nevada.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Nevada"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:59:19Z",
+  "layer_id_s": "restricted-figgy:02b22ea2-f53d-41a5-81c8-883632e8e02f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/57faa3f4-5815-497e-872c-995e41582cab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d49fb232-b4f1-4feb-8c12-912be43679e7/file/313c7d70-07b6-4bac-95ca-b455d6a57266\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02b22ea2-f53d-41a5-81c8-883632e8e02f/file/a7426f67-e64c-4ca4-be9f-8b64bb786985\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02b22ea2-f53d-41a5-81c8-883632e8e02f/file/9ca85033-34d7-4f9a-a869-8a5899790a31\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

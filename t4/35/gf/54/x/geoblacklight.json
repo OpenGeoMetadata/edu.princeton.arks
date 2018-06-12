@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gf54x",
+  "layer_slug_s": "princeton-t435gf54x",
+  "uuid": "princeton-t435gf54x",
+  "dc_title_s": "Macedonia Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(20.547709, 22.581901, 42.211539, 41.040443)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Macedonia created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Macedonia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:07Z",
+  "layer_id_s": "restricted-figgy:80a54d81-51f9-4f96-be91-3481da0e6b13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1fb7451b-6de5-477b-bc52-27fc6af86e95\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab5b3cf1-061d-42e6-91b9-4680d06f717b/file/ff81be06-35a5-4f75-a50d-3a9737e65120\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80a54d81-51f9-4f96-be91-3481da0e6b13/file/6c76aac9-37c0-4646-8429-de9ae86cbb1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80a54d81-51f9-4f96-be91-3481da0e6b13/file/b23d7e8b-51ac-4094-bb77-5b12e9e56c38\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

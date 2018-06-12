@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2801pj02q",
+  "layer_slug_s": "princeton-2801pj02q",
+  "uuid": "princeton-2801pj02q",
+  "dc_title_s": "Indiana Tracts 2002",
+  "solr_geom": "ENVELOPE(-88.097892, -84.78458, 41.760689, 37.771743)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Indiana Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Indiana.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:18Z",
+  "layer_id_s": "restricted-figgy:f7fece3a-a299-4000-b9f8-b4e2c92904bf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/29293957-24c1-4874-948f-66661974fc5e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33862b99-572e-4e29-940a-1885347c9c00/file/f6757896-8555-4426-b4f6-4d40af477f2a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7fece3a-a299-4000-b9f8-b4e2c92904bf/file/6da2a7a9-4463-48e7-b55e-73d67f050eb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7fece3a-a299-4000-b9f8-b4e2c92904bf/file/72e096b9-3b8f-47dd-bb00-a0a2561a63dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

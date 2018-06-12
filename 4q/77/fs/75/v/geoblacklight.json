@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77fs75v",
+  "layer_slug_s": "princeton-4q77fs75v",
+  "uuid": "princeton-4q77fs75v",
+  "dc_title_s": "Romania Major Bridges and Tunnels, 2005",
+  "solr_geom": "ENVELOPE(22.289583, 28.72608, 47.67336, 44.212759)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania major bridges and tunnels created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Bridges",
+    "Transportation",
+    "Tunnels"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:04Z",
+  "layer_id_s": "restricted-figgy:c524f441-bf1a-4931-b03d-9483dababfba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6d60a4b6-bcdf-406e-bc9b-9840a10bb145\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/56dabc0d-e5a0-4b2e-8365-3d64e704a53a/file/ac3a48c5-5ad3-48b6-965a-b07b881c3f86\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c524f441-bf1a-4931-b03d-9483dababfba/file/68c96f6b-1e26-4c49-8b46-c0f191fc515f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c524f441-bf1a-4931-b03d-9483dababfba/file/00418250-8e85-41e6-a2b7-1eca7ad8322c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

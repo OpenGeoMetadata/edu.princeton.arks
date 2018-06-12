@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vx021j53c",
+  "layer_slug_s": "princeton-vx021j53c",
+  "uuid": "princeton-vx021j53c",
+  "dc_title_s": "Lake County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-123.096288, -122.338387, 39.59265, 38.67766)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Lake County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Lake",
+    "Lake County",
+    "California",
+    "Shasta-Trinity National Forest",
+    "Clear Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:37Z",
+  "layer_id_s": "restricted-figgy:53e97b81-fe69-4c96-83ce-ab34823579a4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aaea1a4b-236a-4126-90d2-0b49ac2eadec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9133049b-e3ba-443b-b5b2-dd0e6a5f557a/file/d99b46e0-c11b-4b3c-8709-6fe274c0574a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53e97b81-fe69-4c96-83ce-ab34823579a4/file/5eaea17f-2d43-46a4-84ed-60a312de17dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53e97b81-fe69-4c96-83ce-ab34823579a4/file/706b2347-fa30-4697-9224-768df581168f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

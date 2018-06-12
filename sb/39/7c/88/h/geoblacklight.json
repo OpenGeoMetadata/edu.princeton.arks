@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c88h",
+  "layer_slug_s": "princeton-sb397c88h",
+  "uuid": "princeton-sb397c88h",
+  "dc_title_s": "U.S. Hospitals 2008",
+  "solr_geom": "ENVELOPE(-165.40657, -65.659686, 71.292578, 17.970815)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Hospitals represents the locations and selected attributes for hospitals included in the FY2005 edition of the American Hospital Association (AHA) Annual Survey Database.",
+  "dc_creator_sm": [
+    "Health Forum, L.L.C."
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "point",
+    "hospitals",
+    "services",
+    "admissions",
+    "visits",
+    "beds",
+    "Medicare",
+    "Health",
+    "Society",
+    "Structures",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2007",
+    "2006"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-06-06T23:57:45Z",
+  "layer_id_s": "restricted-figgy:6a953839-0207-4586-852e-6158aee6de4d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fe51f9f9-8666-4943-a94c-12e4feb63bbb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d3b4226-01ff-4596-b8ab-27162bff83e7/file/bb96f1c9-673e-4215-8a17-8387e0c06f2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a953839-0207-4586-852e-6158aee6de4d/file/4a1c2265-cfce-43ca-9fda-91dd6bff53d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a953839-0207-4586-852e-6158aee6de4d/file/57c21cfc-a2b4-4f6c-aebf-14478d67aa94\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

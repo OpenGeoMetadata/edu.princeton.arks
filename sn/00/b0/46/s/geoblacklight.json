@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sn00b046s",
+  "layer_slug_s": "princeton-sn00b046s",
+  "uuid": "princeton-sn00b046s",
+  "dc_title_s": "Ukraine Region Boundaries, 2004",
+  "solr_geom": "ENVELOPE(22.13757, 40.22559, 52.375374, 44.390419)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the region boundaries of Ukraine created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "regions",
+    "Boundaries",
+    "region boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:53Z",
+  "layer_id_s": "restricted-figgy:8d461fb8-cb4f-4fa8-a1d7-aefc12677f46",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f524e18f-1e79-4cb4-a1e9-40af5675e974\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a9bacf3-807d-4e62-8083-99dbd240349b/file/9ca64e92-92e0-4bcf-b2c7-498e173ad2f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d461fb8-cb4f-4fa8-a1d7-aefc12677f46/file/ac2981e3-bce2-44ff-b800-bf07d4596423\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d461fb8-cb4f-4fa8-a1d7-aefc12677f46/file/b2377113-d8a4-48ff-a781-e9d057b8f980\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

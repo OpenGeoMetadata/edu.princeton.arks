@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4t64gp91f",
+  "layer_slug_s": "princeton-4t64gp91f",
+  "uuid": "princeton-4t64gp91f",
+  "dc_title_s": "Poland Elevations",
+  "solr_geom": "ENVELOPE(14.12218, 24.145496, 54.836476, 49.000789)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Poland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:40Z",
+  "layer_id_s": "restricted-figgy:4bbf3158-de78-40f8-8d08-a1e541af02ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/df80ab06-a21b-4556-beae-86dffde59f38\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ffb48560-85ed-4256-bfa7-ad2d42c78b05/file/406f695e-718b-47c0-ac50-529b2d8728c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4bbf3158-de78-40f8-8d08-a1e541af02ae/file/9137990e-ebdf-41db-bcde-fe3d074202d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4bbf3158-de78-40f8-8d08-a1e541af02ae/file/7d6a299b-9eaf-4f18-809e-1020ab2500f2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

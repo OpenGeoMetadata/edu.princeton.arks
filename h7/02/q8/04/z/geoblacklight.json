@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h702q804z",
+  "layer_slug_s": "princeton-h702q804z",
+  "uuid": "princeton-h702q804z",
+  "dc_title_s": "Albania Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(19.438306, 20.08924, 41.333358, 41.114592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Albania cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:09Z",
+  "layer_id_s": "restricted-figgy:4e73c84a-a420-441b-8b07-f2ff36a11a85",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/860e56b7-66d2-44ca-8d07-3b435c57e25b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4f6f98b-f904-486e-a88a-af447b9100a0/file/44bd159c-8165-46fa-bd94-22a4eca4ccca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e73c84a-a420-441b-8b07-f2ff36a11a85/file/bb740dbd-2971-46dd-95f2-257636f9aa39\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e73c84a-a420-441b-8b07-f2ff36a11a85/file/9def67ea-5b84-4134-9b0f-806efb55c4dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q811km315",
+  "layer_slug_s": "princeton-q811km315",
+  "uuid": "princeton-q811km315",
+  "dc_title_s": "Alaska Block Groups 2002",
+  "solr_geom": "ENVELOPE(-178.227822, -130.007704, 71.38269, 51.590982)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Alaska Block Groups represents the U.S. Census block groups of Alaska.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Alaska"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:15Z",
+  "layer_id_s": "restricted-figgy:35cdf852-5f5f-4831-9630-c17a2687043d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b9440d8f-db76-4ca8-9dba-598f98ad3cd4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bfaee517-6c7f-4722-b00e-17d290d6e72c/file/557ba926-be73-41b4-80b9-629ba07b79da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35cdf852-5f5f-4831-9630-c17a2687043d/file/dd4bd77f-6c30-4f4d-9fad-d2af0c282bee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35cdf852-5f5f-4831-9630-c17a2687043d/file/d6a5128b-d52a-4f38-80b9-cee2f2eafd55\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

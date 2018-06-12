@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7h149r429",
+  "layer_slug_s": "princeton-7h149r429",
+  "uuid": "princeton-7h149r429",
+  "dc_title_s": "Canada Highways 2002",
+  "solr_geom": "ENVELOPE(-141.002143, -52.712795, 68.354385, 42.057625)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Highways represents the expressways and primary highways of Canada. The highways are from the National Atlas Information Service (NAIS) 1:2 million digital maps created by Natural Resources Canada for publishing of the National Atlas of Canada.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "expressways",
+    "primary highways",
+    "major multi lanes",
+    "roads",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T02:44:09Z",
+  "layer_id_s": "restricted-figgy:5d71bb8d-a5ef-4633-957a-5f66722caac9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/65932030-8297-4071-8712-409c55f931ab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1614d004-a785-41ed-afbc-9d6b6510f52a/file/39df7141-e38c-449f-b382-20fde12b419c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d71bb8d-a5ef-4633-957a-5f66722caac9/file/77d0b8af-272a-40af-93c3-bad82cd0eaf3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d71bb8d-a5ef-4633-957a-5f66722caac9/file/5e296ebc-b51b-40e8-b27e-de3af0e9e3dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

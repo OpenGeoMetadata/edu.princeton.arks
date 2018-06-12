@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p817q",
+  "layer_slug_s": "princeton-z029p817q",
+  "uuid": "princeton-z029p817q",
+  "dc_title_s": "Pontotoc County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.246421, -88.824401, 34.380878, 34.073925)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pontotoc County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pontotoc",
+    "Pontotoc County",
+    "Mississippi",
+    "Holly Springs National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:33Z",
+  "layer_id_s": "restricted-figgy:c13d21af-ba98-4bdd-a2c9-04f14bfc5370",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8de8f18e-c253-491d-bf55-2a9dd23a719a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e851703d-389c-45e7-b3ec-83735dd430b0/file/359ed03c-a342-4570-aabf-391e97302242\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c13d21af-ba98-4bdd-a2c9-04f14bfc5370/file/cfa86947-32e4-48f3-aa9f-367e65dc0c10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c13d21af-ba98-4bdd-a2c9-04f14bfc5370/file/899ab6e8-7f7a-445e-be6c-6026f777a8c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

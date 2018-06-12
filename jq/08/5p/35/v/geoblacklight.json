@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jq085p35v",
+  "layer_slug_s": "princeton-jq085p35v",
+  "uuid": "princeton-jq085p35v",
+  "dc_title_s": "Laramie County, Wyoming roads, 2011",
+  "solr_geom": "ENVELOPE(-105.279236, -104.050598, 41.655937, 40.994411)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Laramie County, Wyoming , 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Laramie",
+    "Laramie County",
+    "Wyoming",
+    "Cheyenne"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:23:15Z",
+  "layer_id_s": "restricted-figgy:31ccfa1a-c267-4535-a307-52a0d78b08af",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d459bb2-976d-41ea-bd7a-99857548c1cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/448abdd0-5613-4e88-be38-177883f1deb1/file/73d5d95a-dd9d-4156-82aa-0698ef7b77fd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31ccfa1a-c267-4535-a307-52a0d78b08af/file/1de6eb3e-b6af-456c-af5f-4e5818a12c03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31ccfa1a-c267-4535-a307-52a0d78b08af/file/ef134830-1faf-4123-8db7-401deeb991d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

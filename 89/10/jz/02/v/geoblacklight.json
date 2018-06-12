@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jz02v",
+  "layer_slug_s": "princeton-8910jz02v",
+  "uuid": "princeton-8910jz02v",
+  "dc_title_s": "Cameron County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-97.864679, -97.146224, 26.410647, 25.837211)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cameron County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cameron",
+    "Cameron County",
+    "Texas",
+    "Brownsville"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:38Z",
+  "layer_id_s": "restricted-figgy:91fd7e7e-035f-48d4-8dbe-4420618cca8a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f72b7793-ed82-47c0-97cb-c3780a8f488a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a15e2bb-8d0a-4a9a-b5b1-345dea453b4c/file/e3ead603-96b6-4000-bbed-09b202827bb8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91fd7e7e-035f-48d4-8dbe-4420618cca8a/file/23cdd55d-4e87-4ea8-8473-80e46c577d68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91fd7e7e-035f-48d4-8dbe-4420618cca8a/file/99dee488-cca8-4185-af7d-820d6489515c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

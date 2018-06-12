@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5138jg575",
+  "layer_slug_s": "princeton-5138jg575",
+  "uuid": "princeton-5138jg575",
+  "dc_title_s": "Wyoming Block Groups 2002",
+  "solr_geom": "ENVELOPE(-111.056888, -104.052056, 45.005904, 40.994746)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Wyoming Block Groups represents the U.S. Census block groups of Wyoming.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Wyoming"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:53Z",
+  "layer_id_s": "restricted-figgy:e7d2a5c0-fb2e-449b-8089-ae6f72035b84",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6214a780-33a2-4ce5-a0e4-a40a273da216\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/806ea811-a954-46a0-b403-35241a1e9ae9/file/1541dcc5-1e49-4538-97c7-d5869b1ed314\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e7d2a5c0-fb2e-449b-8089-ae6f72035b84/file/d80cf363-64bc-49b2-8908-3592aee4770e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e7d2a5c0-fb2e-449b-8089-ae6f72035b84/file/90761ed8-8828-45da-91a4-5df50d982032\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

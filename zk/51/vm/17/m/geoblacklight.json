@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vm17m",
+  "layer_slug_s": "princeton-zk51vm17m",
+  "uuid": "princeton-zk51vm17m",
+  "dc_title_s": "San Joaquin County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-121.58316, -120.920601, 38.300114, 37.481842)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Joaquin County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Joaquin",
+    "San Joaquin County",
+    "Stockton",
+    "Tracy"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:58Z",
+  "layer_id_s": "restricted-figgy:564d6f08-1863-4d19-b275-1bfadc0941f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/243043d8-5b11-4bc7-be76-3801a5675172\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0a3e34d-4bd1-4ecc-8105-73913e3ca269/file/7b2f2bfa-9298-49ef-8a8a-dffcd92d2bb1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/564d6f08-1863-4d19-b275-1bfadc0941f7/file/480cd3e6-96f0-4ffb-a296-e8800ae54fed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/564d6f08-1863-4d19-b275-1bfadc0941f7/file/cb78719a-f96c-4b80-9b9e-c6f0d22c00c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

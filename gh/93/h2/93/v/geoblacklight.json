@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gh93h293v",
+  "layer_slug_s": "princeton-gh93h293v",
+  "uuid": "princeton-gh93h293v",
+  "dc_title_s": "Sutter County, Califonia roads, 2011",
+  "solr_geom": "ENVELOPE(-121.943591, -121.414377, 39.30569, 38.734579)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Sutter County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Sutter County",
+    "Sutter",
+    "California",
+    "Sacramento River",
+    "Yuba City",
+    "Sacramento"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:41Z",
+  "layer_id_s": "restricted-figgy:3b1b201a-e2c1-4b3f-b171-29e841a1b5c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/25ed7cae-85bb-41f9-9433-92a6d4b68aae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff9b7ce7-53d3-4df8-938d-6002da7800f9/file/f4be1104-3c5e-40b3-9814-8aae73171ade\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b1b201a-e2c1-4b3f-b171-29e841a1b5c6/file/1c108249-574b-48cd-b56d-26a792b123e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b1b201a-e2c1-4b3f-b171-29e841a1b5c6/file/bdf593e2-844e-4fec-aefc-04beba293fee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

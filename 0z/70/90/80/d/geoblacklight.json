@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z709080d",
+  "layer_slug_s": "princeton-0z709080d",
+  "uuid": "princeton-0z709080d",
+  "dc_title_s": "Douglas County, Nebraska land parcels, 2011",
+  "solr_geom": "ENVELOPE(-96.474181, -95.871239, 41.393423, 41.190208)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Douglas County, Nebraska, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Douglas",
+    "Douglas County",
+    "Nebraska",
+    "Omaha",
+    "Missouri River",
+    "Platte River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:11:06Z",
+  "layer_id_s": "restricted-figgy:09e69040-f4d2-4d7f-bedd-069d5092c5ad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b06795bd-3ea4-4c82-8921-2062e44da0c4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/105b8bad-78c2-46b3-8258-4c8ce307fef9/file/2352010a-8caa-4b95-8d6c-6ebb27097c26\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09e69040-f4d2-4d7f-bedd-069d5092c5ad/file/73bcc775-d274-4d59-84b8-ef7d6df1d559\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09e69040-f4d2-4d7f-bedd-069d5092c5ad/file/5405e8ae-5a1b-44d7-8894-5d0cbb1f9aca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

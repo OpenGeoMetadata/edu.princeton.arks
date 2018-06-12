@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj139541k",
+  "layer_slug_s": "princeton-sj139541k",
+  "uuid": "princeton-sj139541k",
+  "dc_title_s": "Lamoille County, Vermont land parcels, 2014",
+  "solr_geom": "ENVELOPE(-72.95374, -72.263302, 44.831188, 44.312429)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lamoille County, Vermont, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Lamoille",
+    "Lamoille County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:23Z",
+  "layer_id_s": "restricted-figgy:58c4ab8d-6972-4f0f-a645-59a6e9e0db05",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fef22842-1885-47d5-868f-6f93b1460c54\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e45a51d-6a37-467a-97ae-404fd8845daf/file/4f4e0978-e00a-45ee-998c-62e5c2215d53\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58c4ab8d-6972-4f0f-a645-59a6e9e0db05/file/4c314d98-9441-45f9-84a4-9a39171e909e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58c4ab8d-6972-4f0f-a645-59a6e9e0db05/file/6ab3d01e-d2b9-4f69-95e5-767ad3c0b215\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

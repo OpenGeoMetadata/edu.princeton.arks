@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0r967532g",
+  "layer_slug_s": "princeton-0r967532g",
+  "uuid": "princeton-0r967532g",
+  "dc_title_s": "Macedonia Cities With Population From 5 Thousand To 10 Thousand, 2005",
+  "solr_geom": "ENVELOPE(20.59645, 22.891432, 42.2, 41.204317)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Macedonia cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Macedonia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:03Z",
+  "layer_id_s": "restricted-figgy:4b1a01f9-2d01-4ff9-85d6-02e31ace25ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1af27049-0538-41b5-b493-5f95c17ef4ce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e52c44e3-c49f-4717-a112-b9a9550e4e09/file/9bc55109-3df7-4e11-8687-ed69a8bf7902\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b1a01f9-2d01-4ff9-85d6-02e31ace25ae/file/750a6039-98c0-4cc4-9858-5e7eed78cf4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b1a01f9-2d01-4ff9-85d6-02e31ace25ae/file/d8fc959d-d11e-41d1-8488-97d217d99bbf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

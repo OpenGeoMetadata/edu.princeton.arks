@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qd613",
+  "layer_slug_s": "princeton-2b88qd613",
+  "uuid": "princeton-2b88qd613",
+  "dc_title_s": "Hungary Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(16.538944, 22.700253, 48.399169, 45.955307)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:23Z",
+  "layer_id_s": "restricted-figgy:98f8de03-bf62-4a25-a04d-b06865f68f9f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/87c02af0-e2f4-4812-98b4-3fecb787a643\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/446ea452-266f-4f59-908c-4af0212506d7/file/5932aff9-3a7a-481b-adcd-8329969174f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98f8de03-bf62-4a25-a04d-b06865f68f9f/file/7fbd6ebb-6e09-4b55-af9b-0792e9e4b944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98f8de03-bf62-4a25-a04d-b06865f68f9f/file/0a94e8d4-dd1c-4dda-a476-d8e432ef26b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

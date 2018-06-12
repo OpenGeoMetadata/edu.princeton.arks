@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429b580",
+  "layer_slug_s": "princeton-47429b580",
+  "uuid": "princeton-47429b580",
+  "dc_title_s": "Europe Places 2000",
+  "solr_geom": "ENVELOPE(-21.9393, 64.0256, 70.9769, 28.1019)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Europe Places represents the populated places of Europe.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "places",
+    "cities"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:59:05Z",
+  "layer_id_s": "restricted-figgy:8e53c1a8-3d48-42ad-80ee-df755c943cd0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1868757e-6935-42fa-a6bc-2aff42f5a6af\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91aa0099-b38c-45d1-95d4-77b585f1cb57/file/46eebbc3-b069-4aa4-9603-93b1aa8dbe3c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e53c1a8-3d48-42ad-80ee-df755c943cd0/file/8e997ff5-834b-49d6-9715-5805cdab2e8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e53c1a8-3d48-42ad-80ee-df755c943cd0/file/a288873b-3262-4e49-a2c4-bab60c4cb4ef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dk20b",
+  "layer_slug_s": "princeton-1c18dk20b",
+  "uuid": "princeton-1c18dk20b",
+  "dc_title_s": "Douglas County, Washington roads, 2014",
+  "solr_geom": "ENVELOPE(-120.316608, -118.957837, 48.146163, 47.224994)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Douglas County, Washington, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Douglas",
+    "Douglas County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:43Z",
+  "layer_id_s": "restricted-figgy:20a3ce96-94ec-43c6-99eb-c46b0ee6e6dc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/829422c2-f52d-4a01-884f-78a0038c6f47\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47b0c9d4-35ca-436f-a79c-19e7a870f976/file/bc9428e1-6f9c-4e04-88fe-e63e801fda3f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20a3ce96-94ec-43c6-99eb-c46b0ee6e6dc/file/1ce2d139-2dae-4129-b398-1bd7734ca98a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20a3ce96-94ec-43c6-99eb-c46b0ee6e6dc/file/d39ca0bd-46a3-4661-be56-865c4e969968\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

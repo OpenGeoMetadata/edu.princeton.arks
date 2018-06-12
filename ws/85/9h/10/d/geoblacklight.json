@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859h10d",
+  "layer_slug_s": "princeton-ws859h10d",
+  "uuid": "princeton-ws859h10d",
+  "dc_title_s": "Road data of India, 2001",
+  "solr_geom": "ENVELOPE(68.196831, 97.409096, 37.069954, 6.767454)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Road data for India, 2001.",
+  "dc_creator_sm": [
+    "ML InfoMap Pvt. Ltd."
+  ],
+  "dc_publisher_s": "ML InfoMap Pvt. Ltd.",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Transportation",
+    "Road"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-06-06T22:17:01Z",
+  "layer_id_s": "restricted-figgy:4a17f97b-0049-46b3-b3ec-493a5ac88e05",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4d012297-be59-47f7-9753-756b182c9986\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/07a9cb6d-0693-4bbd-9488-7e57541bd2e0/file/67b7ff5b-6dcb-4323-b459-507d2a773c13\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a17f97b-0049-46b3-b3ec-493a5ac88e05/file/ed567922-da77-4d65-a6f6-179ced21108a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a17f97b-0049-46b3-b3ec-493a5ac88e05/file/626071c1-fb58-4ab1-972f-c4113bd27436\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

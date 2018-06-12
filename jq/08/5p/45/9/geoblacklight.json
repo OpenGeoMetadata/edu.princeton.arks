@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jq085p459",
+  "layer_slug_s": "princeton-jq085p459",
+  "uuid": "princeton-jq085p459",
+  "dc_title_s": "Teton County, Wyoming land parcels, 2010",
+  "solr_geom": "ENVELOPE(-111.055331, -110.051131, 44.666802, 43.235178)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Teton County, Wyoming, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming",
+    "Teton",
+    "Teton County",
+    "Grand Teton National Park",
+    "Yellowstone National Park",
+    "Jackson Hole"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:09:35Z",
+  "layer_id_s": "restricted-figgy:65f1deed-6f1b-44a3-8afe-4bb5a01f9dd2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f3f44093-66e9-418c-b85d-b18e78fbd8b0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/551f492f-89f7-4a8b-87b8-aeb3d3b77139/file/39653122-34c0-41a2-af6e-cdd5bdd09e72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65f1deed-6f1b-44a3-8afe-4bb5a01f9dd2/file/f8f61bfc-7661-42fe-982a-307cb4e5e8bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65f1deed-6f1b-44a3-8afe-4bb5a01f9dd2/file/4c04c0f0-e8ab-4994-ae62-42f6ea5f6c22\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

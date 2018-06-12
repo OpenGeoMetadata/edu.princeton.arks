@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f462891q",
+  "layer_slug_s": "princeton-3f462891q",
+  "uuid": "princeton-3f462891q",
+  "dc_title_s": "Knox County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.755609, -87.090689, 38.907875, 38.415571)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Knox County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Knox",
+    "Knox County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:25Z",
+  "layer_id_s": "restricted-figgy:0fa9cf07-e3f0-4046-9187-46075c224e2e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e85adc0-8e99-4874-89e8-95a1993aea41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e4b945d7-50f5-4ee8-ac87-9312d5cd40e7/file/a7b708da-529e-475b-adab-46ed0a67fc17\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fa9cf07-e3f0-4046-9187-46075c224e2e/file/9b5c0e6d-ceb4-47ea-a6c5-a7e5e3526ab9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fa9cf07-e3f0-4046-9187-46075c224e2e/file/2d9a08cd-c54d-47f3-b1f4-d9ff51dd445a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

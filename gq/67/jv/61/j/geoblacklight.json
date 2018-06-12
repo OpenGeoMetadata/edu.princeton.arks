@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gq67jv61j",
+  "layer_slug_s": "princeton-gq67jv61j",
+  "uuid": "princeton-gq67jv61j",
+  "dc_title_s": "Fairfield County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.842956, -82.366294, 39.94102, 39.554445)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fairfield County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fairfield",
+    "Fairfield County",
+    "Ohio",
+    "Columbus",
+    "Lancaster",
+    "Buckeye Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:18Z",
+  "layer_id_s": "restricted-figgy:ff02c8a2-41db-44e8-9d4f-3174e42b466a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/89cab780-52bc-4642-b33a-6f8e33845c0c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6b0a31e5-9d0d-4e49-ae6a-8af5e0070bde/file/4262729d-7c69-4a3e-850e-dce94448015a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff02c8a2-41db-44e8-9d4f-3174e42b466a/file/d046b220-ffc0-4664-ba7e-c54f3e8ba2c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff02c8a2-41db-44e8-9d4f-3174e42b466a/file/025076bc-e04c-429c-a5fe-c8dca4afbfc5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

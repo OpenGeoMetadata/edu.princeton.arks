@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mr41s",
+  "layer_slug_s": "princeton-2227mr41s",
+  "uuid": "princeton-2227mr41s",
+  "dc_title_s": "Cumberland County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-75.419234, -74.851794, 39.568746, 39.176013)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cumberland County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Cumberland",
+    "Cumberland County",
+    "Vineland"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:50Z",
+  "layer_id_s": "restricted-figgy:d4a8e8f8-5448-44c1-8ccd-8b209dcdc808",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b5fa413d-e5ad-41e0-a883-914d85b74d2b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b657b8b5-1ae2-4cd9-8abe-c4866090a390/file/5734614d-e83a-47de-acca-287b06eb371b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4a8e8f8-5448-44c1-8ccd-8b209dcdc808/file/a3193c14-5687-43ad-94be-6892d45812e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4a8e8f8-5448-44c1-8ccd-8b209dcdc808/file/ef5f17f4-d3da-4500-9fc2-a985e61fa02a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

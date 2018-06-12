@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s1617916",
+  "layer_slug_s": "princeton-9s1617916",
+  "uuid": "princeton-9s1617916",
+  "dc_title_s": "Germany Postal Direct Areas, 2006",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany postal direct areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "postal areas",
+    "Location",
+    "postal direct areas"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:21Z",
+  "layer_id_s": "restricted-figgy:2cb1b929-f95f-4721-901b-3960bcbfff06",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ddade779-d687-402c-a62b-0ea876428a5a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c6367a90-ff73-4a47-a48b-2a4c45fe97f9/file/06430f76-f95c-42a6-990d-22904ef443b3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cb1b929-f95f-4721-901b-3960bcbfff06/file/2410694c-ad2f-48b3-8a80-ebf64c5004d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cb1b929-f95f-4721-901b-3960bcbfff06/file/798c872e-a437-4c40-8609-39ae86d39c0d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

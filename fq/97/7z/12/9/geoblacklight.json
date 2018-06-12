@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fq977z129",
+  "layer_slug_s": "princeton-fq977z129",
+  "uuid": "princeton-fq977z129",
+  "dc_title_s": "Carteret County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.167684, -76.035539, 35.080059, 34.588375)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Carteret County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Carteret",
+    "Carteret County",
+    "North Carolina",
+    "Outer Banks",
+    "Croatan National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:55:23Z",
+  "layer_id_s": "restricted-figgy:ba628d3d-b628-4df6-a1f1-e51df9f23975",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22dd845d-8817-49f6-96b9-c1d08905fed2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/19c3a150-17d9-4650-beed-9f8297224205/file/456fba06-25b2-42f8-9819-2912d7be53bb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba628d3d-b628-4df6-a1f1-e51df9f23975/file/2fdbde18-aef4-4095-939a-2fd659e5b2b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba628d3d-b628-4df6-a1f1-e51df9f23975/file/b155f104-3202-48bd-8235-cb83d3c8cee2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

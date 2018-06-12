@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cc43p",
+  "layer_slug_s": "princeton-pk02cc43p",
+  "uuid": "princeton-pk02cc43p",
+  "dc_title_s": "Faroe Islands Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(-6.80059, -6.752204, 62.026585, 61.99519)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Faroe Islands (Denmark) major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Faroe Islands",
+    "Faroes"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:4223ef13-7065-49cd-9234-96d9e2aa4489",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/18f902d3-76ae-49ac-84b6-bdb67dc310d6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71ecdc59-e7bc-4672-8557-3a3b7fb61006/file/a47dcac5-901e-4e8a-a65f-fa1d85b0705c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4223ef13-7065-49cd-9234-96d9e2aa4489/file/05825795-53ba-4fb5-97a7-1b23e901ac5f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4223ef13-7065-49cd-9234-96d9e2aa4489/file/5c39bbff-3f40-47d0-b873-61304ba59168\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tq35x",
+  "layer_slug_s": "princeton-zg64tq35x",
+  "uuid": "princeton-zg64tq35x",
+  "dc_title_s": "Cherokee County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.32181, -83.690021, 35.292213, 34.987023)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cherokee County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cherokee County",
+    "Cherokee",
+    "North Carolina",
+    "Nantahala National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:10Z",
+  "layer_id_s": "restricted-figgy:257b43b2-e2bb-4d13-9bf4-fdfb14eff545",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/777df8e3-4a0b-4a78-b59e-6572187badf1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a819dc4-d85c-4017-af49-42cde514a488/file/066817be-a5e3-44e9-b57b-243679a4807d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/257b43b2-e2bb-4d13-9bf4-fdfb14eff545/file/2b84e6d3-53ea-4ff3-a1a4-f11d1036d5a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/257b43b2-e2bb-4d13-9bf4-fdfb14eff545/file/65ab35dc-3c3f-4c29-8644-55d07aae5591\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

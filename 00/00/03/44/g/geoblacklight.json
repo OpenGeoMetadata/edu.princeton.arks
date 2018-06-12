@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/00000344g",
+  "layer_slug_s": "princeton-00000344g",
+  "uuid": "princeton-00000344g",
+  "dc_title_s": "Benton County, Oregon land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.816833, -123.073587, 44.720887, 44.2767)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Benton County, Oregon, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Benton County",
+    "Benton"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:28Z",
+  "layer_id_s": "restricted-figgy:765340ec-be8e-43c6-90fd-bb0e98f005c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/098f67e5-479f-4b86-9314-ef1830f28de5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a4071933-595a-4407-a43c-c1ee684d963f/file/8f88687c-2ea4-4947-9b7c-e7a73713a11b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/765340ec-be8e-43c6-90fd-bb0e98f005c7/file/e7580dea-a4dc-4fac-bb61-612b0353b8d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/765340ec-be8e-43c6-90fd-bb0e98f005c7/file/ec23fdad-a782-41d9-974e-db4ad21c5d3f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784q08b",
+  "layer_slug_s": "princeton-s1784q08b",
+  "uuid": "princeton-s1784q08b",
+  "dc_title_s": "England and Wales registration counties, 1851",
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of counties used in England and Wales for vital registration and also for the administration and reporting of the Census of Population. They were defined as aggregates of Registration Districts and existed only for purposes of statistical reporting. They differed significantly from both Ancient and Administrative Counties, which the same censuses often also reported on. This file represents the system as it was used to report the 1851 Census of Population.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "history",
+    "administrative units",
+    "registration counties",
+    "counties",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1851",
+    "2009"
+  ],
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2018-04-04T21:56:14Z",
+  "layer_id_s": "restricted-figgy:16727023-576a-4341-a777-d37fef759ce7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a16dd71b-2db5-4b38-870f-f388f0443a7d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e5022ed-4931-4746-b8d0-562f2601942b/file/b5fd7e54-4815-433f-8bd9-9a3718493e50\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16727023-576a-4341-a777-d37fef759ce7/file/72b004fd-60c1-4a57-a55f-a84805aceb20\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16727023-576a-4341-a777-d37fef759ce7/file/91f6c343-ecd6-4145-967c-de95bcf0bccd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

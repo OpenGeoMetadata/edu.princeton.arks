@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hd73s",
+  "layer_slug_s": "princeton-ks65hd73s",
+  "uuid": "princeton-ks65hd73s",
+  "dc_title_s": "Nevada Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-120.005248, -114.040645, 41.999772, 35.005951)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Nevada Block Centroid Populations represents the population of the U.S. Census block centroids for Nevada.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Nevada"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:59:32Z",
+  "layer_id_s": "restricted-figgy:365f2e6b-4bb0-46e8-898e-2fb02ebffcfc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c669f908-5951-4c18-8902-79a9dfec5b9b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aee6b144-069d-49ae-920b-06786c593e05/file/7aeda5c8-a1ea-488c-8f6b-a1f86e0e4a8d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/365f2e6b-4bb0-46e8-898e-2fb02ebffcfc/file/1e943a33-c9a6-4c83-91de-39cf7df2e059\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/365f2e6b-4bb0-46e8-898e-2fb02ebffcfc/file/beb83e16-bdfe-4f38-ad11-bae8f0ba34f7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

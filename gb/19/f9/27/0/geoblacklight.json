@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f9270",
+  "layer_slug_s": "princeton-gb19f9270",
+  "uuid": "princeton-gb19f9270",
+  "dc_title_s": "Hancock County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.953957, -85.574095, 39.945805, 39.697198)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hancock County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hancock",
+    "Hancock County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:08Z",
+  "layer_id_s": "restricted-figgy:9efdbdf4-7e53-4ff3-a672-af64c405d3e6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4362bc0e-37f1-4e82-99c9-470ef5f2d604\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/67540e4e-acd5-44fe-bc00-92f227772cef/file/f4cc3fb2-4f03-492a-981d-87cb2cdaba48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9efdbdf4-7e53-4ff3-a672-af64c405d3e6/file/c34a6f47-096c-4f41-b221-5be5e14e3a93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9efdbdf4-7e53-4ff3-a672-af64c405d3e6/file/16a24aad-30d8-4a1b-af4e-a4af5421f12b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

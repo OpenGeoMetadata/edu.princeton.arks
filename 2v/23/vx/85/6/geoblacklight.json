@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx856",
+  "layer_slug_s": "princeton-2v23vx856",
+  "uuid": "princeton-2v23vx856",
+  "dc_title_s": "Henderson County, Texas land parcels, 2014.",
+  "solr_geom": "ENVELOPE(-96.455297, -95.441204, 32.376706, 31.972235)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Henderson County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Henderson County",
+    "Henderson",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:07Z",
+  "layer_id_s": "restricted-figgy:fd98b7cc-cd86-47db-af78-c8135d767d2a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3e346ab0-9d7c-4deb-b7aa-ffa31c43c6df\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c19bf8fa-29a8-4246-ba9f-285f09a1098b/file/541cfbd0-0951-4919-b915-70c80ea96645\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd98b7cc-cd86-47db-af78-c8135d767d2a/file/25f6f7a0-37a1-4d6b-a1ee-9db49a6ae786\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd98b7cc-cd86-47db-af78-c8135d767d2a/file/f9c96cbd-8b8d-4594-a48c-2c4020cfb261\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3j3333742",
+  "layer_slug_s": "princeton-3j3333742",
+  "uuid": "princeton-3j3333742",
+  "dc_title_s": "San Luis Obispo County, California land parcels, 2004",
+  "solr_geom": "ENVELOPE(-121.347753, -119.472594, 35.7952, 34.89749)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Luis Obispo County, California, 2004.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Luis Obispo County"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T00:34:14Z",
+  "layer_id_s": "restricted-figgy:fcde792f-d7cf-406e-a4a1-cbabc17f5136",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b1993c9c-315c-46d0-b5d5-c2777fcf3979\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fedc2a56-8108-41ab-b4b0-6d2e172b5b7b/file/bd5198e3-ba2f-41a2-9162-1ee260d10d25\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fcde792f-d7cf-406e-a4a1-cbabc17f5136/file/bcc6ba19-6924-4a2d-a16e-2f386b68f2d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fcde792f-d7cf-406e-a4a1-cbabc17f5136/file/95e286b4-7f41-4088-9f59-981ca05539a2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

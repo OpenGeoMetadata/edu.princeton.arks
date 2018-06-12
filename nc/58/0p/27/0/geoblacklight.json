@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nc580p270",
+  "layer_slug_s": "princeton-nc580p270",
+  "uuid": "princeton-nc580p270",
+  "dc_title_s": "U.S. Telephone Area Code Boundaries, 2013",
+  "solr_geom": "ENVELOPE(-178.227822, -65.244128, 71.390482, 17.926706)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Telephone Area Code Boundaries represents the telephone area codes for the United States. They are also known as Numbering Plan Areas (NPA). The Numbering Plan Areas reflect current and accurate boundary changes both where new NPAs split from existing NPAs and where new NPAs overlay existing NPAs.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "area codes",
+    "telephones",
+    "numbering plan areas",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:49Z",
+  "layer_id_s": "restricted-figgy:ecc6cb02-185f-4a05-bbca-e37bc5cac86f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aa63cb7a-e601-417c-8f62-95c899daa44e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8fbfaac8-c432-4ac8-a568-6840ca78f420/file/aea2afd6-51e6-4a49-b7f4-b8e5338dab83\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ecc6cb02-185f-4a05-bbca-e37bc5cac86f/file/997f05f6-d32f-4820-b7af-982d40355156\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ecc6cb02-185f-4a05-bbca-e37bc5cac86f/file/89d18b19-75ea-4118-be50-92b7e9cd930e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

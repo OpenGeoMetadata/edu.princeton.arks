@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55z9298",
+  "layer_slug_s": "princeton-rf55z9298",
+  "uuid": "princeton-rf55z9298",
+  "dc_title_s": "Ukraine Major Airports, 2004",
+  "solr_geom": "ENVELOPE(22.260834, 36.245834, 50.608334, 44.691387)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ukraine major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:37Z",
+  "layer_id_s": "restricted-figgy:be4c1f5b-389b-4979-9b01-b9931789d5ba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0d451cb3-0ca4-4d93-b0d4-cecf5256cf21\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0bb55daa-dca4-47ed-809e-206ff29c11f9/file/51f164bc-ec54-4b45-b231-deb3a5f3b811\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be4c1f5b-389b-4979-9b01-b9931789d5ba/file/5e09a855-61ce-40f6-a09e-520380933a44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be4c1f5b-389b-4979-9b01-b9931789d5ba/file/98b426af-9f72-402b-b10e-73333fa36da6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

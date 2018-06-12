@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9g54xk28h",
+  "layer_slug_s": "princeton-9g54xk28h",
+  "uuid": "princeton-9g54xk28h",
+  "dc_title_s": "Switzerland 2-Digit Postcode Areas, 2006",
+  "solr_geom": "ENVELOPE(5.956958, 10.492472, 47.808595, 45.817393)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Switzerland 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Switzerland"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:28Z",
+  "layer_id_s": "restricted-figgy:c7f86f8f-8e77-4084-ad70-7e7c82ebebad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/be258a17-da20-40cc-8970-e2ec3904eda2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aced8e1e-f956-46a0-ab23-be5b749cbe59/file/21c35005-3fe1-4e8e-b155-d470c9cb50a0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7f86f8f-8e77-4084-ad70-7e7c82ebebad/file/2ee39c05-75e3-4f18-847b-142662f23596\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7f86f8f-8e77-4084-ad70-7e7c82ebebad/file/caa87f4f-1357-49c1-9948-22e4a5736557\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nk322h84w",
+  "layer_slug_s": "princeton-nk322h84w",
+  "uuid": "princeton-nk322h84w",
+  "dc_title_s": "Mississippi voting districts from 2010 Census",
+  "solr_geom": "ENVELOPE(-91.655009, -88.097888, 34.996099, 30.139845)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Voting districts in Mississippi based on the US decennial Census of 2010. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census.",
+  "dc_creator_sm": [
+    "US Census Bureau, Geography Division"
+  ],
+  "dc_subject_sm": [
+    "Census",
+    "voting districts",
+    "electoral districts",
+    "electoral boundaries",
+    "state legislative district",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2012"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "public-figgy:40eaef7f-e96e-4803-a2ed-749b66f23f81",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d9d86c1a-202e-43d5-a75f-25662ecb5a27\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/be900be2-77d9-493d-bd42-9b3de79b7684/file/b504e6dc-4241-43d8-95e5-12cd5fe91fa9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40eaef7f-e96e-4803-a2ed-749b66f23f81/file/84e56ad9-dba8-40f8-bfa6-48dd99359b37\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40eaef7f-e96e-4803-a2ed-749b66f23f81/file/27866d5f-0873-42ca-b2c5-686d87b85668\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

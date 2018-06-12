@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff365863k",
+  "layer_slug_s": "princeton-ff365863k",
+  "uuid": "princeton-ff365863k",
+  "dc_title_s": "Somerset County, New Jersey roads, 2011",
+  "solr_geom": "ENVELOPE(-74.797217, -74.402023, 40.757689, 40.374367)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Somerset County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Somerset County",
+    "Somerset",
+    "New Jersey",
+    "New York City",
+    "Bridgewater",
+    "Franklin",
+    "Sourland Mountain Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:36Z",
+  "layer_id_s": "restricted-figgy:a9988994-d423-495e-8e66-4246786b767c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/54495e79-07ae-488f-a540-0331517d1192\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fab1ba58-cf65-45c2-a070-d96ba810e804/file/0c7c486e-b30a-4c58-aea3-3ddb73014813\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9988994-d423-495e-8e66-4246786b767c/file/1cbbff19-2bca-402b-a6a5-d6c7c888f069\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9988994-d423-495e-8e66-4246786b767c/file/fb4054ee-05a8-4a63-8375-273036bb3038\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

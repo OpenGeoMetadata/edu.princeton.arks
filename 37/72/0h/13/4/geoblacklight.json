@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/37720h134",
+  "layer_slug_s": "princeton-37720h134",
+  "uuid": "princeton-37720h134",
+  "dc_title_s": "Brevard County, Florida roads, 2012",
+  "solr_geom": "ENVELOPE(-80.965373, -80.448412, 28.791315, 27.822234)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Brevard County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Brevard County",
+    "Florida",
+    "Brevard",
+    "Titusville",
+    "Palm Bay",
+    "Melbourne",
+    "John F. Kennedy Space Center"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:24Z",
+  "layer_id_s": "restricted-figgy:17eec239-06ab-4b20-b441-b1f59b4e067a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99c4425f-274c-42be-b1fd-236947600902\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6887d1b6-dc2b-4543-a38f-73673dad18a4/file/0507e52a-27d3-459d-b676-04f55f1006ab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17eec239-06ab-4b20-b441-b1f59b4e067a/file/8d3f54be-e92f-4ee5-86db-c39b0d8737ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17eec239-06ab-4b20-b441-b1f59b4e067a/file/3aebb55e-92c6-4f69-95a2-9dc321ca4d31\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

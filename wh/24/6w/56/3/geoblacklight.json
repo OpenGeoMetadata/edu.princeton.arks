@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wh246w563",
+  "layer_slug_s": "princeton-wh246w563",
+  "uuid": "princeton-wh246w563",
+  "dc_title_s": "Jones County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-77.730817, -77.0491, 35.24288, 34.780638)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jones County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jones",
+    "Jones County",
+    "North Carolina",
+    "New Bern",
+    "Croatan National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2007"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:48:12Z",
+  "layer_id_s": "restricted-figgy:59430d2d-6f3d-412e-bc2f-009cc19eed95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2bc15b14-7112-4f7e-a948-f1af6b9c5397\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8e12c677-aa04-4ff9-a8dd-8725608e9a07/file/3ba30575-4f2c-438b-9f3a-4e15fb026581\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59430d2d-6f3d-412e-bc2f-009cc19eed95/file/866a720b-b5e3-45df-a771-44e34a1135b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59430d2d-6f3d-412e-bc2f-009cc19eed95/file/870ad551-f06d-442a-85db-1ac4fb1c6db0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

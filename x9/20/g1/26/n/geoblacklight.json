@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g126n",
+  "layer_slug_s": "princeton-x920g126n",
+  "uuid": "princeton-x920g126n",
+  "dc_title_s": "China province boundaries, 2010",
+  "solr_geom": "ENVELOPE(73.488641, 135.097256, 53.561509, 16.824409)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygon shapefile representing province-level boundaries in China as of 2010.",
+  "dc_creator_sm": [
+    "East View Information Services, Inc."
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "province",
+    "provinces"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2017"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:46:51Z",
+  "layer_id_s": "restricted-figgy:372ef4d4-236a-4c47-9271-aacd528a8218",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/561ff93a-ca82-45b8-8311-394cd0b27fa4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e1df77f9-f61b-4145-b44c-2460e0f478b3/file/ffeeb908-4346-4c0a-a26b-bdf513ea9bb0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/372ef4d4-236a-4c47-9271-aacd528a8218/file/391f0b1f-9bee-48eb-a927-56f9cac1fb24\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/372ef4d4-236a-4c47-9271-aacd528a8218/file/27979b4f-8ba4-4cf1-a71c-999b2c3d8b8f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

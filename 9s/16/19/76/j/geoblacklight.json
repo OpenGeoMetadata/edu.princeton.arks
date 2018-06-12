@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161976j",
+  "layer_slug_s": "princeton-9s161976j",
+  "uuid": "princeton-9s161976j",
+  "dc_title_s": "Infogroup Business Locations for Washington, District of Columbia, 2015",
+  "solr_geom": "ENVELOPE(-77.1135, -76.9113, 38.9955, 38.8145)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing businesses in Washington, District of Columbia for 2015, taken from ESRI's national Infogroup Business Locations data. This dataset contains the locations of over 13 million private and public companies in United States. Businesses can be retrieved by their Standard Industrial Classification Code (SIC) as well as by North American Industry Classification System (NAICS) Code and Location.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "business",
+    "businesses",
+    "sales",
+    "assets",
+    "headquarters",
+    "branch",
+    "branches",
+    "employment",
+    "employees",
+    "workers",
+    "workforce",
+    "SIC code",
+    "SIC codes",
+    "NAICS code",
+    "NAICS codes",
+    "economy"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:9fdf7e61-606f-4785-82e7-9706994c0ff0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a249c20d-ddc0-45cc-8f12-7b0b388bdf21\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7166d90b-6e2a-4ff1-aeda-b7be67af4679/file/2a3e0b93-9197-41b1-989e-08a6c72fed79\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fdf7e61-606f-4785-82e7-9706994c0ff0/file/fb73f9cd-428e-45b1-9fe0-a5d4a699c917\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fdf7e61-606f-4785-82e7-9706994c0ff0/file/4cdb1da6-c009-4ae8-8b1b-a7c62dadb167\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

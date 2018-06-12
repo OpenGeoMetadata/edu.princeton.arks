@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff3658661",
+  "layer_slug_s": "princeton-ff3658661",
+  "uuid": "princeton-ff3658661",
+  "dc_title_s": "Barbour County, West Virginia  land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.231075, -79.808846, 39.303222, 38.946419)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Barbour County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Barbour",
+    "Barbour County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:51Z",
+  "layer_id_s": "restricted-figgy:3c1d0db0-8b93-4e15-8d3b-518505f0b508",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/98e52267-fef3-47a6-ad2a-8176659526e2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d19556a-1336-4a00-8b0e-1d37eb5dd010/file/383c01de-c81b-4acc-8231-c0c97b061cb6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c1d0db0-8b93-4e15-8d3b-518505f0b508/file/f0b635e0-5352-49e7-8e0a-964f4cbedc63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c1d0db0-8b93-4e15-8d3b-518505f0b508/file/bd5cd8d0-2873-46f0-a1ff-31e626d1c14d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

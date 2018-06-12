@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vx021j54v",
+  "layer_slug_s": "princeton-vx021j54v",
+  "uuid": "princeton-vx021j54v",
+  "dc_title_s": "Dutchess County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-73.992313, -73.487335, 42.081069, 41.442088)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dutchess County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Poughkeepsie",
+    "Dutchess County",
+    "Dutchess",
+    "New York",
+    "Vassar College"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:45Z",
+  "layer_id_s": "restricted-figgy:462abde9-2966-47ef-9983-a1337374f5dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8051878-5f63-42f2-a856-1c4bc8e5f7ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d2943ef6-87d6-43c5-a382-6c56a11c864a/file/1d3cb67c-63c0-4ded-a156-64b5a8a9ca61\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/462abde9-2966-47ef-9983-a1337374f5dd/file/bc28392d-c126-4038-bc5c-0a002868980f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/462abde9-2966-47ef-9983-a1337374f5dd/file/243f9a17-f4dd-4072-bb7a-0cad6a684260\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

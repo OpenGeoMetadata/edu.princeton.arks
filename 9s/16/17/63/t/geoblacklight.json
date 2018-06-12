@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161763t",
+  "layer_slug_s": "princeton-9s161763t",
+  "uuid": "princeton-9s161763t",
+  "dc_title_s": "Moldova Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(27.289009, 29.41666, 48.164984, 45.678289)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Moldova cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Moldova"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:ff77ad5e-cb3f-44ac-8f9e-92262be29d93",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5319855d-5131-4a1d-ba42-05ec4a4c181e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/06116b22-4136-4a56-8246-8f2031714cf1/file/a2769228-0d53-468d-9b1a-2c7935ad78de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff77ad5e-cb3f-44ac-8f9e-92262be29d93/file/e1aa627f-4eda-45b8-b5d7-84dd19356d07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff77ad5e-cb3f-44ac-8f9e-92262be29d93/file/e85d6194-ca8e-4b79-a211-b316c2573bdf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2774008f",
+  "layer_slug_s": "princeton-b2774008f",
+  "uuid": "princeton-b2774008f",
+  "dc_title_s": "York County, South Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.491949, -80.866557, 35.164316, 34.818165)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in York County, South Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "York",
+    "York County",
+    "Rock Hill",
+    "Charlotte",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:57Z",
+  "layer_id_s": "restricted-figgy:f726be20-8855-48b5-b082-92a104944fcb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/693b4b9f-ad1f-47c0-b9bd-73f502696ab1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c4b96145-3c97-4a48-aea6-5b23aea91353/file/ad85ad7c-17c9-41f1-bfae-6c56805fd9da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f726be20-8855-48b5-b082-92a104944fcb/file/294bf06b-663c-492d-b836-8c83b1c372fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f726be20-8855-48b5-b082-92a104944fcb/file/ee5d7c03-a86d-4271-8642-6c1b4a368e11\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

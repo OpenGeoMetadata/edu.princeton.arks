@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj38n",
+  "layer_slug_s": "princeton-3484zj38n",
+  "uuid": "princeton-3484zj38n",
+  "dc_title_s": "Norway Major Bridges and Tunnels, 2005",
+  "solr_geom": "ENVELOPE(6.630139, 20.526305, 69.670914, 58.153137)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Norway major bridges and tunnels created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Bridges",
+    "Transportation",
+    "Tunnels"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:33Z",
+  "layer_id_s": "restricted-figgy:6369c494-d9f9-4705-8e2d-a3c8102c0e13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8d8c605d-ba85-4c78-be99-f3940137705f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9553e8c3-ed87-4566-9c0d-4a13683d839a/file/0f1d4ac3-f5bf-4f68-a09e-2cfd16612478\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6369c494-d9f9-4705-8e2d-a3c8102c0e13/file/ba3556ef-2878-4d90-9594-73204480b3ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6369c494-d9f9-4705-8e2d-a3c8102c0e13/file/4f09b815-2723-48e6-ae21-8c229937ab51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

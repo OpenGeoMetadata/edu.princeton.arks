@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gh93h1258",
+  "layer_slug_s": "princeton-gh93h1258",
+  "uuid": "princeton-gh93h1258",
+  "dc_title_s": "Barcelona roads",
+  "solr_geom": "ENVELOPE(1.980961, 2.279891, 41.466089, 41.26831)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Barcelona streets and roads data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets"
+  ],
+  "dct_spatial_sm": [
+    "Barcelona",
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:54Z",
+  "layer_id_s": "restricted-figgy:0c257f24-7807-4a08-8260-ad38f455fdd5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d2c989da-844e-45fb-b018-52889288bfd0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c3f0b4db-c698-49b2-b00f-297ce7addd46/file/b70b81f6-e089-4bb0-b36d-6cf65ebd26a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0c257f24-7807-4a08-8260-ad38f455fdd5/file/68573fb3-5d52-4fe0-b5f8-0fc456bca28a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0c257f24-7807-4a08-8260-ad38f455fdd5/file/eaef50b2-502d-4de1-bffa-abf6362eb8fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

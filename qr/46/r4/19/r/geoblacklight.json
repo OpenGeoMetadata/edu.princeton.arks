@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qr46r419r",
+  "layer_slug_s": "princeton-qr46r419r",
+  "uuid": "princeton-qr46r419r",
+  "dc_title_s": "Marion County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.206971, -87.634303, 34.321115, 33.914729)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Marion",
+    "Marion County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:19:27Z",
+  "layer_id_s": "restricted-figgy:1970a3b5-c955-4221-b630-e2f43c9cb13c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6c35659d-44a5-4ef9-b55f-700c445d9f19\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13751891-b4a4-41c8-97eb-1df601790075/file/f8249b73-8b7b-457a-9843-660e5b8842e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1970a3b5-c955-4221-b630-e2f43c9cb13c/file/a76847db-87e7-4816-afaa-fa75ccc06bc3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1970a3b5-c955-4221-b630-e2f43c9cb13c/file/cd480a2c-06e0-47c9-a781-d284abec9914\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

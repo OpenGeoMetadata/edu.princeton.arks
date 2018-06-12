@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/02871034m",
+  "layer_slug_s": "princeton-02871034m",
+  "uuid": "princeton-02871034m",
+  "dc_title_s": "Laurens County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.224282, -82.635087, 32.719846, 32.151092)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Laurens County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Laurens County",
+    "Laurens",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:37Z",
+  "layer_id_s": "restricted-figgy:8940695f-359e-4d11-a733-29ed77d25378",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48c0c851-b9a9-47b8-befa-fcc4e72e4881\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28d1d635-4441-4de7-b7bd-c9a67a262fb4/file/97d08eb2-03b4-4ba1-ad06-d640ca9f505b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8940695f-359e-4d11-a733-29ed77d25378/file/85fbe305-9f5e-4cd2-8f8e-81904c145c55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8940695f-359e-4d11-a733-29ed77d25378/file/b9884d96-fb12-4b4c-951e-97b186995a26\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

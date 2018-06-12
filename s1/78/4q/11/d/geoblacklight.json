@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784q11d",
+  "layer_slug_s": "princeton-s1784q11d",
+  "uuid": "princeton-s1784q11d",
+  "dc_title_s": "Fort Bend County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-96.082998, -95.424189, 29.788621, 29.262729)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fort Bend County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fort Bend County",
+    "Fort Bend",
+    "Texas",
+    "Sugar Land",
+    "Houston"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:25:15Z",
+  "layer_id_s": "restricted-figgy:54bbff79-8e23-4d38-9a7a-e7097506674d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5669ddc5-4f8b-435e-afa6-34ba4f114c3a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/015e0d15-dbe9-4a97-875e-cfe094f54ac4/file/34f83c17-8180-4f8f-bce8-f5c79996c459\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54bbff79-8e23-4d38-9a7a-e7097506674d/file/b04628f9-8ffc-45b2-965a-5d564659e778\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54bbff79-8e23-4d38-9a7a-e7097506674d/file/54ce4d9b-f080-4e57-9407-ed07459d546b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

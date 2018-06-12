@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429b75f",
+  "layer_slug_s": "princeton-47429b75f",
+  "uuid": "princeton-47429b75f",
+  "dc_title_s": "Panama Cities With Population 100 Thousand and More, 1997",
+  "solr_geom": "ENVELOPE(-82.429794, -79.497215, 9.347834, 8.421974)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Panama cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Panama"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:42Z",
+  "layer_id_s": "restricted-figgy:b20b89b5-8abd-4e7a-a0b3-3a58131299e0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/54d2b707-9962-47dd-9e0b-3d2083b817ee\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/60674dcf-89f8-4288-8cc7-ec8199759750/file/5abc678b-d49d-4d36-9cf7-3f357826be8a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b20b89b5-8abd-4e7a-a0b3-3a58131299e0/file/5b227361-50c5-4dea-9cac-535b3046a3f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b20b89b5-8abd-4e7a-a0b3-3a58131299e0/file/a909583c-f973-4df5-8ed7-7a77ce860ce3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

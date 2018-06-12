@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sw96b",
+  "layer_slug_s": "princeton-qz20sw96b",
+  "uuid": "princeton-qz20sw96b",
+  "dc_title_s": "Flagler County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.523598, -81.102383, 29.670695, 29.261073)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Flagler County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Flagler County",
+    "Flagler",
+    "Florida",
+    "Daytona Beach"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:39Z",
+  "layer_id_s": "restricted-figgy:04cab735-73ec-482e-992a-daa36b3c4c6e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/26347b4c-a83a-44b7-ad87-4bf29fe7ebbb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b830e49b-43a9-4e85-8348-a54cfd67edb5/file/6d920976-1018-4fe6-bae0-4b47cc7fb4f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04cab735-73ec-482e-992a-daa36b3c4c6e/file/13593e1e-9b2a-4223-a1aa-34ef038a23e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04cab735-73ec-482e-992a-daa36b3c4c6e/file/1f134cdc-f4e6-413f-9274-0b592a44ad9a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

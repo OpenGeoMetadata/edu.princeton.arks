@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515p837",
+  "layer_slug_s": "princeton-b8515p837",
+  "uuid": "princeton-b8515p837",
+  "dc_title_s": "U.S. Designated Market Areas 2000",
+  "solr_geom": "ENVELOPE(-160.246909, -66.951007, 65.445013, 18.91116)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "A U.S. Designated Market Area (DMA) is generally the group of surrounding counties or split counties (by five-digit ZIP) in which metropolitan central area commercial TV stations achieve the largest audience share.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "marketing",
+    "television",
+    "audience share",
+    "market share"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "Fall"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:50:11Z",
+  "layer_id_s": "restricted-figgy:6d25e1e9-194a-49d3-ade7-2f048fa176e3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac53f04f-4183-40f7-ac70-a0fc1198c063\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e5ec6709-0623-4fb1-a739-1dc007e2a60d/file/2e2590da-6646-4324-b6b9-01c91fd4c175\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d25e1e9-194a-49d3-ade7-2f048fa176e3/file/bec5651f-b328-47e7-aab1-fa66691ba2a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d25e1e9-194a-49d3-ade7-2f048fa176e3/file/9a1ca187-97cc-47c5-be39-f6411be90cb4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

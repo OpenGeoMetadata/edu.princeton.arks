@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vx021g71g",
+  "layer_slug_s": "princeton-vx021g71g",
+  "uuid": "princeton-vx021g71g",
+  "dc_title_s": "Cairo Parks",
+  "solr_geom": "ENVELOPE(31.020267, 31.537957, 30.174426, 29.840834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing parks in Cairo.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "parks",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:29:09Z",
+  "layer_id_s": "restricted-figgy:fd273d04-d4a4-42d0-b1d6-ab1dd54b85f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48fad283-a865-487c-a704-94fe66f19813\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af92cf01-055b-4d91-acc0-10f854dfb313/file/e5c1bbc7-4fe4-4d85-9ae5-00004aed6c76\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd273d04-d4a4-42d0-b1d6-ab1dd54b85f7/file/71144dce-adf4-450d-b520-75b8431fb6a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd273d04-d4a4-42d0-b1d6-ab1dd54b85f7/file/79452078-98e1-4c2b-8e83-b6d7d89b93a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

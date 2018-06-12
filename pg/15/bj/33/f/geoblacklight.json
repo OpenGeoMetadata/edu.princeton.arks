@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bj33f",
+  "layer_slug_s": "princeton-pg15bj33f",
+  "uuid": "princeton-pg15bj33f",
+  "dc_title_s": "Contra Costa County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-122.434172, -121.533596, 38.100845, 37.716199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Contra Costa County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Contra Costa County",
+    "California",
+    "Contra Costa",
+    "Richmond",
+    "Concord",
+    "Antioch",
+    "Walnut Creek",
+    "San Ramon",
+    "San Francisco",
+    "Bay Area",
+    "Pittsburg",
+    "Mount Diablo",
+    "Black Diamond Mines Regional Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:34Z",
+  "layer_id_s": "restricted-figgy:7ffe605a-e657-4124-87b2-61b96088e82a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bb7bd97a-0a72-4c5b-b927-c365b85a756b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f46e6466-818f-4b61-9de4-6b6613d564c6/file/f7cd81a7-f1eb-4eb4-a174-a3c01a895edc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ffe605a-e657-4124-87b2-61b96088e82a/file/67c048df-8459-45d7-ad17-68cdf043fd8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ffe605a-e657-4124-87b2-61b96088e82a/file/b5fe70a1-7ffe-4385-bae3-280867f08f8e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1n79h779b",
+  "layer_slug_s": "princeton-1n79h779b",
+  "uuid": "princeton-1n79h779b",
+  "dc_title_s": "Conway County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-93.041079, -92.479341, 35.463055, 35.071762)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Conway County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Conway",
+    "Conway County",
+    "Arkansas River"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:42Z",
+  "layer_id_s": "restricted-figgy:2f9d61ab-0eb1-44cd-a271-1e55927157e4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/595ced69-592e-459e-8a22-2981f59abb96\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6bc0e2c-60d4-47ae-b6cf-9106b504d6fd/file/9034915f-6de9-4c6c-b219-3481b20a518d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f9d61ab-0eb1-44cd-a271-1e55927157e4/file/3851e01f-f479-43f8-8734-3a93c5748eff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f9d61ab-0eb1-44cd-a271-1e55927157e4/file/09131a5c-8344-4fb3-b083-91160c778306\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

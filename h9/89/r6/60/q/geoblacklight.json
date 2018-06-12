@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h989r660q",
+  "layer_slug_s": "princeton-h989r660q",
+  "uuid": "princeton-h989r660q",
+  "dc_title_s": "Essex County, Massachusetts roads, 2014",
+  "solr_geom": "ENVELOPE(-71.254729, -70.592635, 42.886619, 42.416822)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Essex County, Massachusetts, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Essex",
+    "Essex County",
+    "Lawrence",
+    "Lynn",
+    "Boston"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:21Z",
+  "layer_id_s": "restricted-figgy:207b7cf7-12b1-4110-a7b7-810a567d48e9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1fe92943-b190-44d9-bc80-1ff47e764ccf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1fe4a8c7-9ae1-4c99-b765-d97bb2201a5e/file/a2f4892e-af8f-4863-89d9-c623758ccfbc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/207b7cf7-12b1-4110-a7b7-810a567d48e9/file/28392b0d-cd24-4b8e-b65d-1b013f211441\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/207b7cf7-12b1-4110-a7b7-810a567d48e9/file/f6104dca-f43b-4377-bb56-ccde3d8b0817\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

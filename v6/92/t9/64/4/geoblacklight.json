@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v692t9644",
+  "layer_slug_s": "princeton-v692t9644",
+  "uuid": "princeton-v692t9644",
+  "dc_title_s": "Lincoln County, New Mexico land parcels, 2011",
+  "solr_geom": "ENVELOPE(-106.373782, -104.885032, 34.347464, 33.131905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lincoln County, New Mexico, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "value",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County",
+    "Lincoln",
+    "New Mexico",
+    "Fort Stanton"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:13Z",
+  "layer_id_s": "restricted-figgy:007166ac-6611-4fab-95c0-71c842c64587",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bcb954c6-00cf-4c6a-ae33-3786271c118c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a961be62-6334-47c8-bee7-2aff9940e670/file/9bbaea06-f431-422f-9794-fd88dcdb5152\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/007166ac-6611-4fab-95c0-71c842c64587/file/cfd80cd7-06ba-4b7a-8936-2576a01dfdf9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/007166ac-6611-4fab-95c0-71c842c64587/file/4e528f48-7682-4c93-87d8-78390d2bfc76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

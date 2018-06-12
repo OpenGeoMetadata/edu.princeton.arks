@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dw48b",
+  "layer_slug_s": "princeton-c247dw48b",
+  "uuid": "princeton-c247dw48b",
+  "dc_title_s": "Mahoning County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.086676, -80.518927, 41.134431, 40.89983)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mahoning County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mahoning",
+    "Mahoning County",
+    "Ohio",
+    "Youngstown"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:56Z",
+  "layer_id_s": "restricted-figgy:81f29baf-f10b-4ed6-ac69-6b38658436cb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c03f7909-fc72-48e3-bfde-358f2ff5c831\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0cce309c-5c51-42b2-b2fe-f88adf83b685/file/a8572540-15ab-4c80-aa76-ed4a8e46e59f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/81f29baf-f10b-4ed6-ac69-6b38658436cb/file/4f0dc6fa-20ef-4148-b23f-a36ee9b012df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/81f29baf-f10b-4ed6-ac69-6b38658436cb/file/ec804f28-a423-4dac-9662-97b431541bdc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

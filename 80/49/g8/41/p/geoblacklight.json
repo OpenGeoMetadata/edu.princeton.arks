@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8049g841p",
+  "layer_slug_s": "princeton-8049g841p",
+  "uuid": "princeton-8049g841p",
+  "dc_title_s": "Hardin County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.734393, -94.070972, 30.528513, 30.096864)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hardin County, Texas, 2014",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hardin County",
+    "Texas",
+    "Hardin",
+    "Beaumont"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:56:22Z",
+  "layer_id_s": "restricted-figgy:4c286377-0f44-44a8-bb39-5410a9ec6309",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ba92e2ce-8ea4-4d03-a9b7-232d0a06aba4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/860c5df6-1b85-438d-8dd5-55353766d28f/file/b574f337-3391-4f9b-93e5-7199fbecd135\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c286377-0f44-44a8-bb39-5410a9ec6309/file/588996e8-abc2-44ff-a0b2-fedb1c99b435\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c286377-0f44-44a8-bb39-5410a9ec6309/file/c3d8e3dc-3ff7-412d-ade8-58bd320b7d4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

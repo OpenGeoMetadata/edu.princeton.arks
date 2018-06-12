@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj236546r",
+  "layer_slug_s": "princeton-fj236546r",
+  "uuid": "princeton-fj236546r",
+  "dc_title_s": "Erie County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.903491, -82.34243, 41.624171, 41.283946)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Erie County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "ownership",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Erie",
+    "Erie County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:26:39Z",
+  "layer_id_s": "restricted-figgy:64c5aac5-adf1-40af-b4de-f27ccc20cbc5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5ccf5d4-e27b-43d8-bbe3-39c6881732c7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/07af49e2-a35c-48f6-80cd-b931481e485e/file/20bf4743-f5f5-47ad-afaf-5902951ad851\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64c5aac5-adf1-40af-b4de-f27ccc20cbc5/file/e68e3160-8f7b-4f07-8fbd-74791c9dbcf5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64c5aac5-adf1-40af-b4de-f27ccc20cbc5/file/e452f3ae-1a38-4d5b-a8e3-0a9e3cc20955\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

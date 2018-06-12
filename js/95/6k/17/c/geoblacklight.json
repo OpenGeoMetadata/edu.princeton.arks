@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/js956k17c",
+  "layer_slug_s": "princeton-js956k17c",
+  "uuid": "princeton-js956k17c",
+  "dc_title_s": "Ventura County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-119.567855, -118.632495, 34.900933, 33.215521)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Ventura County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Ventura",
+    "Ventura County",
+    "Oxnard",
+    "Thousand Oaks",
+    "Simi Valley",
+    "San Buenaventura",
+    "Los Padres National Forest",
+    "San Nicolas Island",
+    "Anacapa Island"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:01:05Z",
+  "layer_id_s": "restricted-figgy:2695ada2-9523-4729-97ab-9dcbe0d9415c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fcc9da3d-b898-4b35-9996-2a0832fac556\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/10a6389b-7ac1-4908-a4c4-8d28be2f0fc9/file/019e6ed8-4281-4806-81b0-afb11b3814e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2695ada2-9523-4729-97ab-9dcbe0d9415c/file/3b89c168-6add-4602-a645-692d3fe21228\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2695ada2-9523-4729-97ab-9dcbe0d9415c/file/aa0d3456-6445-4fee-af11-d75aa8b36778\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pv63g369q",
+  "layer_slug_s": "princeton-pv63g369q",
+  "uuid": "princeton-pv63g369q",
+  "dc_title_s": "Lee County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.272699, -81.562122, 26.789975, 26.316222)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lee County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lee",
+    "Lee County",
+    "Florida",
+    "Fort Myers",
+    "Cape Coral"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:49:35Z",
+  "layer_id_s": "restricted-figgy:f2853d23-527c-4c72-9795-f8ff6d173c1a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/31a285e9-baa3-44cc-a2ae-ea5d4cf84116\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e7ca0cd4-e13e-4b07-97cb-19c5ee0f24b7/file/66c95884-440b-4ab5-a1ac-7f3d05f092c7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2853d23-527c-4c72-9795-f8ff6d173c1a/file/1fdc635e-9645-4c1f-94f1-281c2094fd94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2853d23-527c-4c72-9795-f8ff6d173c1a/file/f3d3bb39-60f0-4c09-be33-ae287a37e3c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

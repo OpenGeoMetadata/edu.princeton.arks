@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gh38s",
+  "layer_slug_s": "princeton-t435gh38s",
+  "uuid": "princeton-t435gh38s",
+  "dc_title_s": "Greene County, Missouri land parcels, 2008",
+  "solr_geom": "ENVELOPE(-93.625752, -93.061503, 37.427343, 37.088758)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Greene County, Missouri, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Greene County",
+    "Greene",
+    "Missouri",
+    "Springfield"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:24Z",
+  "layer_id_s": "restricted-figgy:e2ffb286-8944-478e-9a0e-bffc1962fefc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b6f0c4c0-3cee-4816-9494-7ea42d8c2db9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/151de8e4-d42f-4a1f-82e7-0efb4395b192/file/e61d7463-4801-40bf-a4d5-570c7265908b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e2ffb286-8944-478e-9a0e-bffc1962fefc/file/7fbb19e3-6041-4ba0-ac89-6be173d7f6ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e2ffb286-8944-478e-9a0e-bffc1962fefc/file/350d8fac-10c5-43d8-bf17-56990706acbd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

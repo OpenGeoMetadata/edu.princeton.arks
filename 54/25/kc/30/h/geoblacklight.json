@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc30h",
+  "layer_slug_s": "princeton-5425kc30h",
+  "uuid": "princeton-5425kc30h",
+  "dc_title_s": "Netherlands Elevations",
+  "solr_geom": "ENVELOPE(3.359959, 7.227495, 53.554903, 50.751288)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Netherlands created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:58Z",
+  "layer_id_s": "restricted-figgy:5f65c6e2-c934-4a9e-be05-2ad997f15f64",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/08bf8803-3982-4d1a-a75c-b407fd80ea0f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de3682d9-ba0d-4155-9105-82834fc46112/file/d9d9af17-25db-48b1-bd6b-ecb2f96f75e2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f65c6e2-c934-4a9e-be05-2ad997f15f64/file/842fa0b6-19db-483d-a25b-439706396ddb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f65c6e2-c934-4a9e-be05-2ad997f15f64/file/a6f5bdb7-bd56-4584-9e25-d13642c114af\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

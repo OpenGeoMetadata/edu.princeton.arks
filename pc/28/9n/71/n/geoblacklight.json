@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289n71n",
+  "layer_slug_s": "princeton-pc289n71n",
+  "uuid": "princeton-pc289n71n",
+  "dc_title_s": "Knox County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.750745, -82.178522, 40.573079, 40.239049)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Knox County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Knox",
+    "Knox County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:42Z",
+  "layer_id_s": "restricted-figgy:3c11a307-f8be-4717-8983-0d473acf6ce1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d2c5e11b-d087-419f-9a06-06eab46975f4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc73336d-6b41-4ffc-b28b-98547991e40d/file/cf469602-f659-4f9f-ac85-859a89f9c1cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c11a307-f8be-4717-8983-0d473acf6ce1/file/8693c833-2b41-4229-b33c-fe3216330037\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c11a307-f8be-4717-8983-0d473acf6ce1/file/f874b143-e31f-407a-8964-51881c4834d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

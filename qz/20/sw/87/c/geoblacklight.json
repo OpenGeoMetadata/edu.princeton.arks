@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sw87c",
+  "layer_slug_s": "princeton-qz20sw87c",
+  "uuid": "princeton-qz20sw87c",
+  "dc_title_s": "Madison County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.653463, -83.206627, 40.111402, 39.695396)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Madison",
+    "Madison County",
+    "Ohio",
+    "Columbus"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:22Z",
+  "layer_id_s": "restricted-figgy:688fcd20-1bed-4526-baa0-b150de74d5f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/668f8ca7-7fe1-4ca1-84f9-aaeb6782b80f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4692bb71-73cd-4624-b519-aeedb4384012/file/0dc7fdb8-55fe-446a-8b41-2696a5a0f151\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/688fcd20-1bed-4526-baa0-b150de74d5f6/file/e78b8d45-bb88-4373-8603-a42f6dcf7cce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/688fcd20-1bed-4526-baa0-b150de74d5f6/file/93c18066-d2ff-4af6-990a-7655200bb629\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

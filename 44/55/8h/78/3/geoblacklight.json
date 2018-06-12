@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/44558h783",
+  "layer_slug_s": "princeton-44558h783",
+  "uuid": "princeton-44558h783",
+  "dc_title_s": "Ascension Parish, Louisiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-91.106681, -90.632391, 30.346883, 30.062353)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ascension Parish, Louisiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ascension",
+    "Ascension Parish",
+    "Louisiana",
+    "Mississippi River",
+    "Baton Rouge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:10Z",
+  "layer_id_s": "restricted-figgy:5516dd33-50de-43b3-b93e-61dbe548d05b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9e0228d-28be-4759-9aa8-73be46de8fe9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b28cde4f-9e3d-4029-a9bb-f9334201a3ef/file/c3cae4c9-2745-48c9-beb4-47d62544864f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5516dd33-50de-43b3-b93e-61dbe548d05b/file/39322c45-144a-491a-945c-2c760328e808\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5516dd33-50de-43b3-b93e-61dbe548d05b/file/5be3636d-5b87-4073-a529-8a4816a1b422\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

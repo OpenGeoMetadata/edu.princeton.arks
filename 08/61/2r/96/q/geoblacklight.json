@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612r96q",
+  "layer_slug_s": "princeton-08612r96q",
+  "uuid": "princeton-08612r96q",
+  "dc_title_s": "Tulare County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-119.573053, -117.980759, 36.753674, 35.786734)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tulare County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Tulare",
+    "Tulare County",
+    "Visalia",
+    "Sequoia National Park"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:29Z",
+  "layer_id_s": "restricted-figgy:27e97cde-0a20-458e-849a-a984c1cac6c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bbda72b9-d718-4ffd-af02-a5507725ab75\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c162fc79-4b09-4334-999f-79906ce53bbf/file/95c0186a-6138-4cdf-b516-6b9220fcdab1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27e97cde-0a20-458e-849a-a984c1cac6c6/file/c9c42d14-0b2d-4522-90b6-7d328870ab25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27e97cde-0a20-458e-849a-a984c1cac6c6/file/37b0693a-9b85-4741-9e3f-be8950549de5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

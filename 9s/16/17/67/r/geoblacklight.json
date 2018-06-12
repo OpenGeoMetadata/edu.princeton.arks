@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161767r",
+  "layer_slug_s": "princeton-9s161767r",
+  "uuid": "princeton-9s161767r",
+  "dc_title_s": "U.S. National Atlas Urbanized Areas 2000",
+  "solr_geom": "ENVELOPE(-165.447891, -66.986389, 64.856133, 19.191788)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Urbanized Areas represents urban areas in the United States derived from the urban areas layer of the Digital Chart of the World (DCW).",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "urbanized areas",
+    "urban areas",
+    "cities"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "1996",
+    "1994"
+  ],
+  "solr_year_i": 1998,
+  "layer_modified_dt": "2018-04-05T02:49:50Z",
+  "layer_id_s": "restricted-figgy:1db4cf10-1a39-43cf-851b-88235731425b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2ed8d7c2-1a11-4c31-a975-dea0d60dbf62\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd077857-9271-4fdf-8283-ade7b7b1ac33/file/75984e84-03f0-4520-90de-9ba363ac4304\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1db4cf10-1a39-43cf-851b-88235731425b/file/db8f1bd6-10cb-4677-80a5-e4b451f001fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1db4cf10-1a39-43cf-851b-88235731425b/file/1633a23b-b43e-448e-9fcb-d19a73d9a3d1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xd07gx03p",
+  "layer_slug_s": "princeton-xd07gx03p",
+  "uuid": "princeton-xd07gx03p",
+  "dc_title_s": "Middlesex County, Massachusetts land parcels, 2007",
+  "solr_geom": "ENVELOPE(-71.904512, -71.028316, 42.727956, 42.152033)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Middlesex County, Massachusetts, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "value",
+    "land use",
+    "lot size",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Middlesex County",
+    "Middlesex",
+    "Massachusetts",
+    "Cambridge",
+    "Minute Man National Historic Park"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T21:57:41Z",
+  "layer_id_s": "restricted-figgy:f7458c18-9c3a-4951-8bf5-ab37df93ba9d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/121f1bdb-0849-4c31-b8ee-dc05c255bdd7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d6ba6b9-f402-497c-85a5-0f88e673e723/file/de787644-c1b6-4192-9eb6-f5217ced5215\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7458c18-9c3a-4951-8bf5-ab37df93ba9d/file/5f2d66b7-8cfe-4b05-b5e7-e3ca721be0e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7458c18-9c3a-4951-8bf5-ab37df93ba9d/file/365f4421-0015-4531-8620-97386bf53ab7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

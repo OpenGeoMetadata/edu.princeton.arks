@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042v786",
+  "layer_slug_s": "princeton-rv042v786",
+  "uuid": "princeton-rv042v786",
+  "dc_title_s": "Honduras Major Highways, 1996",
+  "solr_geom": "ENVELOPE(-89.3856, -83.1179, 16.0315, 12.9774)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Honduras major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Honduras"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:44Z",
+  "layer_id_s": "restricted-figgy:db6cadb0-314c-4950-a0ef-f04f9e6c4ae3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/89ef689e-47f4-4671-aebf-465667e4379e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f578cc23-615a-431f-abbc-7553b0a85e19/file/dafd67b8-b42a-4bb9-87a2-4e97629131d2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db6cadb0-314c-4950-a0ef-f04f9e6c4ae3/file/90cb864a-ee01-4af3-a3c2-0c5c49034a47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db6cadb0-314c-4950-a0ef-f04f9e6c4ae3/file/af861b9d-6d77-4834-97fc-c5fa2363ff88\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

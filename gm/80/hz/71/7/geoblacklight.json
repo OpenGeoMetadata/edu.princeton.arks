@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz717",
+  "layer_slug_s": "princeton-gm80hz717",
+  "uuid": "princeton-gm80hz717",
+  "dc_title_s": "Guadalupe County, New Mexico land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.312973, -104.129145, 35.216232, 34.347138)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Guadalupe County, New Mexico, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Guadalupe",
+    "Guadalupe County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:58Z",
+  "layer_id_s": "restricted-figgy:17fb330d-0a65-4d40-af3d-80da5a71551c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/33f4554b-f434-4786-9657-a13655ca84eb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c2b03147-9ce7-42b0-b0cf-277e684a5fab/file/755b83bd-ac76-4bb3-9422-05bc7f4ac503\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17fb330d-0a65-4d40-af3d-80da5a71551c/file/26ac28e1-d19d-4472-8429-154fb15a7a17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17fb330d-0a65-4d40-af3d-80da5a71551c/file/aa9599a6-b9ff-4287-9dcb-bf04fc312887\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

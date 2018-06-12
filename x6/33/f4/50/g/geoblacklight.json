@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f450g",
+  "layer_slug_s": "princeton-x633f450g",
+  "uuid": "princeton-x633f450g",
+  "dc_title_s": "Union County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.179186, -83.780401, 34.987798, 34.640553)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Union",
+    "Union County",
+    "Georgia",
+    "Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:30Z",
+  "layer_id_s": "restricted-figgy:282ffaa4-37a6-44df-be10-011d87cc010d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c45b0511-54eb-49e5-b90c-d2d451096262\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de432fe8-305b-4c3a-980a-b5aeae84d5c6/file/0c304a7f-7f76-4391-9843-39ace58332a1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/282ffaa4-37a6-44df-be10-011d87cc010d/file/bc5b63a2-71fd-4b82-bbd3-f4e1f6533051\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/282ffaa4-37a6-44df-be10-011d87cc010d/file/d20dd881-0f21-4033-a70d-96334553fc1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

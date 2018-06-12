@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jm214s550",
+  "layer_slug_s": "princeton-jm214s550",
+  "uuid": "princeton-jm214s550",
+  "dc_title_s": "Ector County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-102.799216, -102.230884, 32.087501, 31.651304)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ector County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ector County",
+    "Ector",
+    "Texas",
+    "Odessa"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:14Z",
+  "layer_id_s": "restricted-figgy:b7325561-864f-4f48-b139-b8c1f45a34ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/62a99e87-bddf-47d9-bb49-41f4dc8e97bb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c8769dac-01a7-4d38-9220-3136b778d99a/file/b6deb3a8-30e2-4dd0-bd0f-153c7bb3cfe5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7325561-864f-4f48-b139-b8c1f45a34ab/file/9ec3f3f3-bef9-4f74-95d5-2226cd629603\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7325561-864f-4f48-b139-b8c1f45a34ab/file/3ec613e6-89aa-457b-b9f2-5a669600765e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

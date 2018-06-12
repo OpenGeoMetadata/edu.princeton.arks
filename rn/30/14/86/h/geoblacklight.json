@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn301486h",
+  "layer_slug_s": "princeton-rn301486h",
+  "uuid": "princeton-rn301486h",
+  "dc_title_s": "Napa County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.646813, -122.061372, 38.864289, 38.154937)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Napa County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Napa",
+    "Napa County",
+    "California",
+    "Napa Valley",
+    "Lake Berryessa"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:18Z",
+  "layer_id_s": "restricted-figgy:10b4d544-adde-4a79-bf8a-790320ca0612",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/24dda81d-f3de-4f3e-a814-afaad1731850\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40733989-3f46-4d2d-b847-36685f513543/file/e0f75f2b-c85c-4f49-b0bf-332c4937aa87\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/10b4d544-adde-4a79-bf8a-790320ca0612/file/90d808b3-06c6-4005-a9a0-90995fa5ced6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/10b4d544-adde-4a79-bf8a-790320ca0612/file/de9fea5d-5b57-49ca-85fa-60c44829a1e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

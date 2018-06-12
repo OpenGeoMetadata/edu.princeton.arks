@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cj82k8733",
+  "layer_slug_s": "princeton-cj82k8733",
+  "uuid": "princeton-cj82k8733",
+  "dc_title_s": "Lancaster County, Pennsylvania land parcels, 2008",
+  "solr_geom": "ENVELOPE(-76.719809, -75.87406, 40.315303, 39.720719)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lancaster County, Pennsylvania, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Lancaster",
+    "Lancaster County",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:05Z",
+  "layer_id_s": "restricted-figgy:e52b349a-d292-4d14-8ab5-44f8c38b2b22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/954e0ff8-fab7-4ce0-ab2d-52bc744431fe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a5c81552-e81e-484a-94cb-cc84515e40c4/file/8e624ffe-e855-4be9-b736-f7c1662c1e6c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e52b349a-d292-4d14-8ab5-44f8c38b2b22/file/321c87d7-31da-4977-af4f-38283c10519c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e52b349a-d292-4d14-8ab5-44f8c38b2b22/file/fa42c3fb-ee57-45a4-b9f2-b4e5becf1c00\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

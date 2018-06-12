@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494c85t",
+  "layer_slug_s": "princeton-fb494c85t",
+  "uuid": "princeton-fb494c85t",
+  "dc_title_s": "Aroostook County, Maine land parcels, 2014",
+  "solr_geom": "ENVELOPE(-70.014145, -67.781056, 47.453335, 45.573378)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Aroostook County, Maine, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Aroostook",
+    "Aroostook County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:16Z",
+  "layer_id_s": "restricted-figgy:5661188c-d0af-4b67-bc72-76ea4b9d2e8c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/864eac79-d17e-4162-bf60-f4a63c206179\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9204a322-320d-4324-a479-e8f61be33d84/file/50ebe4cd-ba7a-44d7-8097-11a3e4bb395a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5661188c-d0af-4b67-bc72-76ea4b9d2e8c/file/836dff20-5cb8-4ccb-b099-460810187459\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5661188c-d0af-4b67-bc72-76ea4b9d2e8c/file/9c532125-9d03-4857-b8c5-a8cd837c6702\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

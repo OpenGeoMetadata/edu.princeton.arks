@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m326m5205",
+  "layer_slug_s": "princeton-m326m5205",
+  "uuid": "princeton-m326m5205",
+  "dc_title_s": "China county map, 2008",
+  "solr_geom": "ENVELOPE(68.196555, 136.429552, 54.139796, 5.036617)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Map of administrative divisions in China, at the county level and above, for the year 2008.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries",
+    "county",
+    "counties",
+    "district",
+    "districts",
+    "cities"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:12:11Z",
+  "layer_id_s": "restricted-figgy:29ce810c-26db-4456-8249-31c2eb08f6b4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0cd4dcb2-ddaf-4a3f-986e-9892fd296223\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f867790a-3700-47c7-993e-a72bdec7b4a9/file/b47d4b02-762b-4a2c-aaa4-41883014d8c6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29ce810c-26db-4456-8249-31c2eb08f6b4/file/28f9ff59-f828-4985-8281-65cfaf18a2c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29ce810c-26db-4456-8249-31c2eb08f6b4/file/22f65a35-485c-4d72-a7d9-a59194c38904\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

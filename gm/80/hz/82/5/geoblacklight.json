@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz825",
+  "layer_slug_s": "princeton-gm80hz825",
+  "uuid": "princeton-gm80hz825",
+  "dc_title_s": "Tucker County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.834791, -79.289434, 39.273491, 38.964327)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tucker County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tucker",
+    "Tucker County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:56Z",
+  "layer_id_s": "restricted-figgy:c59005e6-9699-40fb-b0ac-ca91ed41e48d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/09199b0b-6bbb-4f9e-a5f2-e742a59ea994\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/585ed48d-0f3b-46b3-9654-d3b5ca297135/file/5f87385a-0f06-4f5b-9a4d-c5996986297a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c59005e6-9699-40fb-b0ac-ca91ed41e48d/file/e69027c7-47de-417e-a9f9-5cf8bb074424\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c59005e6-9699-40fb-b0ac-ca91ed41e48d/file/9f83f269-d259-48f2-9e9d-632bef6b65b0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f4401",
+  "layer_slug_s": "princeton-x633f4401",
+  "uuid": "princeton-x633f4401",
+  "dc_title_s": "Harding County, New Mexico land parcels, 2014",
+  "solr_geom": "ENVELOPE(-104.439283, -103.364808, 36.21872, 35.389506)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Harding County, New Mexico, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Harding",
+    "Harding County",
+    "Kiowa National Grassland"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:28:56Z",
+  "layer_id_s": "restricted-figgy:501982f6-17ea-413d-9bba-d12fd9e463c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc9a9717-48f0-4c0f-8fe3-1c5cc0a488e4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/607d71a1-bc5a-4b3b-a442-b0f2f9715329/file/ef504f66-f2f2-4c91-83c2-a8da7b544b93\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/501982f6-17ea-413d-9bba-d12fd9e463c6/file/8eea7c8a-aa7e-4ed7-9686-f0b23d70618b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/501982f6-17ea-413d-9bba-d12fd9e463c6/file/62123918-8133-4092-84e5-7c917a4f64ed\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

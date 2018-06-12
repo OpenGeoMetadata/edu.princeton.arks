@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sp033",
+  "layer_slug_s": "princeton-5t34sp033",
+  "uuid": "princeton-5t34sp033",
+  "dc_title_s": "Cumberland County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.091698, -78.494882, 35.266888, 34.835285)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cumberland County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Raleigh",
+    "Fayetteville",
+    "Cumberland",
+    "Cumberland County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:04Z",
+  "layer_id_s": "restricted-figgy:6c1be5dc-6615-475f-aa00-c7c869b3c195",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4a1b61aa-de30-4bd4-b43d-ad182a0c5afb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6cd3b63f-76a8-4454-bc3e-f1c63abda7f8/file/f699345d-ca51-4359-92e0-7f4ff94882a0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c1be5dc-6615-475f-aa00-c7c869b3c195/file/b0206797-41e8-473b-9045-7b4dfcd4204d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c1be5dc-6615-475f-aa00-c7c869b3c195/file/8d22ce59-44c2-4870-89c6-c0043d0ba829\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

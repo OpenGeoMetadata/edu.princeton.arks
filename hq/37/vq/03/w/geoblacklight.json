@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hq37vq03w",
+  "layer_slug_s": "princeton-hq37vq03w",
+  "uuid": "princeton-hq37vq03w",
+  "dc_title_s": "U.S. National Atlas Federal Land Lines 2000",
+  "solr_geom": "ENVELOPE(-163.226227, -69.074638, 69.046425, 26.91095)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Federal Land Lines represents the linear federally owned land features (e.g., national parkways and wild and scenic rivers) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "federal lands",
+    "parkways",
+    "rivers",
+    "scenic rivers",
+    "wild and scenic rivers"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1972–1999",
+    "1970–1995",
+    "1998",
+    "199903"
+  ],
+  "solr_year_i": 1972,
+  "layer_modified_dt": "2018-04-05T02:49:51Z",
+  "layer_id_s": "restricted-figgy:691777cc-e258-4b40-95c9-8d809983fc33",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de4e1778-006a-427f-93e6-62fdb0b2ef75\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7b2560cc-6115-4e05-8706-1bbe1891cbec/file/9e6cc616-dbb8-4951-9335-616225ffd5f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/691777cc-e258-4b40-95c9-8d809983fc33/file/f370539c-319a-4fce-be90-3f39f34b11ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/691777cc-e258-4b40-95c9-8d809983fc33/file/31f5ae76-2e25-4afa-a794-7c67405a6f72\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

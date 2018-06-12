@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c60r",
+  "layer_slug_s": "princeton-sb397c60r",
+  "uuid": "princeton-sb397c60r",
+  "dc_title_s": "McCone County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-106.424391, -105.194703, 48.095754, 47.092927)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in McCone County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "McCone",
+    "McCone County",
+    "Montana",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:53:27Z",
+  "layer_id_s": "restricted-figgy:a3092fd4-3e55-4c53-bc34-d4f42bfed1b7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2241477b-3974-4550-9ce6-b4042b4670f1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7b866928-db09-42f0-b525-6ba359924c7b/file/33c07cb3-9e27-4979-9836-45ccf5d9edfc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3092fd4-3e55-4c53-bc34-d4f42bfed1b7/file/9eba8a4b-2ea2-4cfa-92d4-e2cc56cce2ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3092fd4-3e55-4c53-bc34-d4f42bfed1b7/file/5ab9eb9b-d395-4184-a44e-a6953461165e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

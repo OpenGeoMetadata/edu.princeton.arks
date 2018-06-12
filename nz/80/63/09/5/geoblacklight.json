@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz8063095",
+  "layer_slug_s": "princeton-nz8063095",
+  "uuid": "princeton-nz8063095",
+  "dc_title_s": "Riverside County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-117.674931, -114.435498, 34.079884, 33.425978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Riverside County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Riverside County",
+    "Riverside",
+    "Moreno Valley",
+    "Corona",
+    "Murrieta",
+    "Temecula",
+    "Morongo Indian Reservation",
+    "Agua Caliente Indian Reservation",
+    "Joshua Tree National Park",
+    "Santa Rosa and San Jacinto Mountains National Monument"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:46:42Z",
+  "layer_id_s": "restricted-figgy:030369a2-08cc-4258-976c-11d835c5ae59",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7ac58395-3e7d-4802-93b0-e09b293b19bb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f7877245-51a6-49a0-b946-0ab3c20eb3c0/file/fd036193-2825-4610-a0ae-398b5923280d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/030369a2-08cc-4258-976c-11d835c5ae59/file/ef32c7b0-19b6-43b8-939e-40debddae82b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/030369a2-08cc-4258-976c-11d835c5ae59/file/b17d7690-d557-4881-9bc6-10f29cc1a2b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7m01bq03f",
+  "layer_slug_s": "princeton-7m01bq03f",
+  "uuid": "princeton-7m01bq03f",
+  "dc_title_s": "Gadsden County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-84.932031, -84.282739, 30.711246, 30.388163)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gadsden County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Gadsden",
+    "Gadsden County",
+    "Tallahassee"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T21:49:57Z",
+  "layer_id_s": "restricted-figgy:da1bf104-b5fc-4dac-bc91-34b70817afcb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/af3be05f-f261-4d92-840f-b069ef5232b3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b7029c32-74b6-44d0-82a7-1ae0e12df155/file/5171b372-ed1c-40b2-9189-4a5c9f81dedd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da1bf104-b5fc-4dac-bc91-34b70817afcb/file/eb36842d-2dcf-4900-9c71-f326da331cec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da1bf104-b5fc-4dac-bc91-34b70817afcb/file/cc6708ac-9cd6-47ff-8e3e-b053e9d5642a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

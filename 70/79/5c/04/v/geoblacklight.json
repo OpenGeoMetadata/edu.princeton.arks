@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/70795c04v",
+  "layer_slug_s": "princeton-70795c04v",
+  "uuid": "princeton-70795c04v",
+  "dc_title_s": "Mitchell County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.508858, -83.997886, 31.443663, 31.076657)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mitchell County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mitchell",
+    "Mitchell County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:14Z",
+  "layer_id_s": "restricted-figgy:f680e574-bf8b-471b-88a6-00917642ffcd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/32ebbecd-4de8-47c9-b588-cbdbda60871c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a34582a-d94d-42f4-a902-e742fe0720dd/file/0ddd9001-51e3-4d01-8383-704661a674d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f680e574-bf8b-471b-88a6-00917642ffcd/file/7f3d0d7b-337e-4f22-8fce-c8e58cd75676\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f680e574-bf8b-471b-88a6-00917642ffcd/file/682305c1-d187-43f6-a12a-b7ea4bf412d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gh398",
+  "layer_slug_s": "princeton-t435gh398",
+  "uuid": "princeton-t435gh398",
+  "dc_title_s": "Clatsop County, Oregon land parcels, 2014",
+  "solr_geom": "ENVELOPE(-124.037265, -123.358411, 46.292292, 45.773294)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clatsop County, Oregon, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Clatsop County",
+    "Clatsop",
+    "Columbia River",
+    "Lewis and Clark National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:06Z",
+  "layer_id_s": "restricted-figgy:0f3896d8-12f9-4518-adc2-2ef6dac3d73c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/28390029-2e70-4dc8-af91-2fb0449b9410\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75d4d168-2dec-401d-9d16-42776f13263d/file/6179380d-d3cf-4080-9bcb-122b137b40d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f3896d8-12f9-4518-adc2-2ef6dac3d73c/file/3e4c866e-cf10-42d2-bf60-027ebcebb8a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f3896d8-12f9-4518-adc2-2ef6dac3d73c/file/f02769ac-1cb9-49d7-ae05-75a5feb8a2f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

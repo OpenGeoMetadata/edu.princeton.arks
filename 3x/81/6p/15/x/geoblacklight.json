@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816p15x",
+  "layer_slug_s": "princeton-3x816p15x",
+  "uuid": "princeton-3x816p15x",
+  "dc_title_s": "Germany Region Boundaries, 2006",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the region boundaries of Germany created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "regions",
+    "Boundaries",
+    "region boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:20Z",
+  "layer_id_s": "restricted-figgy:f5095669-9189-47c6-9793-a0c4a6775fba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/202d4c5c-5004-4551-abdb-b3c71c943810\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/65c5279c-09e1-4a92-b53d-f911805e12ba/file/b06b6f80-367a-4a0a-aeee-21af0e729570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5095669-9189-47c6-9793-a0c4a6775fba/file/60c25da7-6844-4b46-ba6b-3602cdc3970f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5095669-9189-47c6-9793-a0c4a6775fba/file/34708253-1ba2-4bbf-a8f1-ded72fef0b98\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207tr07c",
+  "layer_slug_s": "princeton-r207tr07c",
+  "uuid": "princeton-r207tr07c",
+  "dc_title_s": "Hungary Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(16.604911, 21.089926, 47.894112, 46.355369)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:08Z",
+  "layer_id_s": "restricted-figgy:0a508861-e089-4c87-8eb1-43fd5ec1cdb1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b882bffd-9db0-4c9b-97b2-dc3fc302f7fd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dea94168-cd7b-4810-a5e0-fa15768815d9/file/f03b3860-85d7-4084-94c3-cb0599117dad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a508861-e089-4c87-8eb1-43fd5ec1cdb1/file/80fd2df5-0066-4088-bddf-3c99ab894be2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a508861-e089-4c87-8eb1-43fd5ec1cdb1/file/b50befec-9199-4a4b-8d73-7bb6d37e1550\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

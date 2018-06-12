@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bn999b13h",
+  "layer_slug_s": "princeton-bn999b13h",
+  "uuid": "princeton-bn999b13h",
+  "dc_title_s": "Martin County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.924138, -86.682371, 38.904498, 38.49502)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Martin County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Martin",
+    "Martin County",
+    "Indiana",
+    "Hoosier National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:43Z",
+  "layer_id_s": "restricted-figgy:9c1be760-7afb-48a7-9d25-127acfc50a8e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1db69661-a0b3-4852-b4fe-ec00c7533da4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d674fbd-ae01-456f-8d4f-f682937d5802/file/fe29b282-6836-4a6b-8d55-1b7a44efc415\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c1be760-7afb-48a7-9d25-127acfc50a8e/file/76eddb34-2f37-4679-a46f-6de68bf245b5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c1be760-7afb-48a7-9d25-127acfc50a8e/file/73f3c79b-4837-44a9-9fc0-4f9370ddd5a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

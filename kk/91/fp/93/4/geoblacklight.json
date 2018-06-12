@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fp934",
+  "layer_slug_s": "princeton-kk91fp934",
+  "uuid": "princeton-kk91fp934",
+  "dc_title_s": "Hocking County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.748676, -82.159288, 39.661619, 39.36128)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hocking County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hocking",
+    "Hocking County",
+    "Ohio",
+    "Hocking River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:30:11Z",
+  "layer_id_s": "restricted-figgy:73ce51a4-9e92-4f14-8c85-c9ae410ed181",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/17c03e00-fe64-48bd-a777-c1ce9ca95afc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/96f34ee4-be46-473b-abc4-a1edb8dc74b6/file/c03a8565-cfdb-45e2-89e9-dec3db7e0bb2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73ce51a4-9e92-4f14-8c85-c9ae410ed181/file/4b92f007-0fc7-4d0f-b960-de04b167dcc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73ce51a4-9e92-4f14-8c85-c9ae410ed181/file/99c63945-ea3c-4cd1-be12-406b6fd4337e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

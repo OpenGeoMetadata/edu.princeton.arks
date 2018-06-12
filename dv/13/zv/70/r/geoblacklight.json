@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dv13zv70r",
+  "layer_slug_s": "princeton-dv13zv70r",
+  "uuid": "princeton-dv13zv70r",
+  "dc_title_s": "Ukraine Major Industrial Points, 2004",
+  "solr_geom": "ENVELOPE(24.523277, 36.835083, 51.49939, 45.279667)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ukraine major industrial points created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "industry",
+    "economy",
+    "factories"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:19Z",
+  "layer_id_s": "restricted-figgy:ee88946e-9511-4070-ad03-7bb15cf00491",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9195c945-37f4-4c3e-ad14-eed44921c8fd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a6eb7d2-44f8-4ebf-bc12-ba320e94c69f/file/ec796b25-9cac-46b1-be6b-e8257aac03f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee88946e-9511-4070-ad03-7bb15cf00491/file/ad15a638-d333-4fb5-8716-7eed6625cf2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee88946e-9511-4070-ad03-7bb15cf00491/file/0ab44d8b-df9a-4c16-8b30-b2e1dc68a891\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

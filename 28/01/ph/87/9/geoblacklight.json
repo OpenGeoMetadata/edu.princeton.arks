@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2801ph879",
+  "layer_slug_s": "princeton-2801ph879",
+  "uuid": "princeton-2801ph879",
+  "dc_title_s": "World Latitude and Longitude Grids 2008",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow you to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid, for example, a 15-degree interval, define the theme properties as lines with the Degree15 attribute equal to Y.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "line",
+    "latitudes",
+    "longitudes",
+    "grids",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T02:44:55Z",
+  "layer_id_s": "restricted-figgy:9b125f8d-b540-4327-97f2-8ca02b5270d8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9cfd2b1d-df93-40d4-8d2f-1b6b9cbc8cb4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/79b76a46-51a3-41a8-a522-975f28e9aa75/file/015a1799-1304-440a-b60e-57e2a0b962e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b125f8d-b540-4327-97f2-8ca02b5270d8/file/c4c6ef12-8671-45a6-b73c-cf679930223e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b125f8d-b540-4327-97f2-8ca02b5270d8/file/689ebe1a-518b-4a9f-8a06-1a2492a7ed0e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

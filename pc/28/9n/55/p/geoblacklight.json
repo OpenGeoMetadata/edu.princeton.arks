@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289n55p",
+  "layer_slug_s": "princeton-pc289n55p",
+  "uuid": "princeton-pc289n55p",
+  "dc_title_s": "Hopkins County, Kentucky roads, 2014",
+  "solr_geom": "ENVELOPE(-87.84641, -87.30519, 37.56338, 37.11362)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hopkins County, Kentucky, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Hopkins",
+    "Hopkins County",
+    "Madisonville"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:23Z",
+  "layer_id_s": "restricted-figgy:e686945f-8baa-4fad-b3fa-48749bcab13f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9bfbe3ec-3f2a-4b9a-856f-05f7d5f2327f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ec7d042-262b-4735-9d86-a067e5dfbf9c/file/6ef65e25-acce-47a1-bc0a-a66e5299582b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e686945f-8baa-4fad-b3fa-48749bcab13f/file/ff33f230-5d41-46a5-b904-66b14d94451a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e686945f-8baa-4fad-b3fa-48749bcab13f/file/2b3c2a31-f786-4ba3-82d9-c051f833d9a4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pz50h055z",
+  "layer_slug_s": "princeton-pz50h055z",
+  "uuid": "princeton-pz50h055z",
+  "dc_title_s": "Greenbrier County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.893994, -80.127094, 38.267703, 37.857302)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Greenbrier County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Greenbrier",
+    "Greenbrier County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:53Z",
+  "layer_id_s": "restricted-figgy:0fc1274c-fdde-4aa2-bdb0-b7a1253a52f2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e35757d0-0975-4f88-a9b4-6bbf992f0c21\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d9ffc25-836c-4179-b2fc-bf48882bedd2/file/bea4d6cd-11fb-41fc-b120-a37d9005e4df\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fc1274c-fdde-4aa2-bdb0-b7a1253a52f2/file/6bed258b-c764-4bc1-8fbb-6e8e61d658f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc1274c-fdde-4aa2-bdb0-b7a1253a52f2/file/1a28160d-846a-4779-a92d-ee0cb7e31f93\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

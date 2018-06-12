@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pz50h047g",
+  "layer_slug_s": "princeton-pz50h047g",
+  "uuid": "princeton-pz50h047g",
+  "dc_title_s": "Fergus County, Montana land parcels, 2009",
+  "solr_geom": "ENVELOPE(-110.213585, -108.31303, 47.804737, 46.693469)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fergus County, Montana, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "Fergus",
+    "Fergus County",
+    "Upper Missouri River Breaks National Monument",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:37:37Z",
+  "layer_id_s": "restricted-figgy:01c2a879-068b-40fc-8273-2940a02dca55",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/18f33181-fb59-4c84-8fcb-089a5722d75e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cb585e67-0120-4528-94ae-78def5389348/file/af0c9ccb-b762-4c96-a77f-124867a0a561\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01c2a879-068b-40fc-8273-2940a02dca55/file/304dcf41-3f8d-4d71-9ed7-cddca585a6d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01c2a879-068b-40fc-8273-2940a02dca55/file/53f7640c-6f7e-4287-b2df-7e062aaed886\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6969z2433",
+  "layer_slug_s": "princeton-6969z2433",
+  "uuid": "princeton-6969z2433",
+  "dc_title_s": "Ohio Major Roads 2002",
+  "solr_geom": "ENVELOPE(-84.82005, -80.518794, 41.961455, 38.404499)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Ohio Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Ohio.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:54:24Z",
+  "layer_id_s": "restricted-figgy:c26802a3-f4ee-46d2-84f2-50d1e6669682",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d739fde4-c5a7-4f4c-9642-b50126da2d01\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bba05423-bfec-4a6f-9e8b-6869fb0a43e5/file/9defe947-981c-4e64-8812-9056bc898a31\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c26802a3-f4ee-46d2-84f2-50d1e6669682/file/48bec47f-495f-4e74-8a8a-c14ae75ce485\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c26802a3-f4ee-46d2-84f2-50d1e6669682/file/44fa53eb-11ef-4846-9f41-bfe17bd0e475\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

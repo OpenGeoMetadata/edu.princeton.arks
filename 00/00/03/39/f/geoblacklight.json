@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/00000339f",
+  "layer_slug_s": "princeton-00000339f",
+  "uuid": "princeton-00000339f",
+  "dc_title_s": "Salem County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.559566, -75.06248, 39.787441, 39.380458)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Salem County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Salem County",
+    "Salem",
+    "New Jersey",
+    "Salem River Wildlife Management Area",
+    "Supawna Meadows National Wildlife Refuge",
+    "Parvin State Park"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:29:21Z",
+  "layer_id_s": "restricted-figgy:95daf6a5-15f3-4cb7-a15c-8905cb209467",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4173cbbd-cef3-4374-a1d4-bbde2a44c87b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8f6db8e1-8910-4a82-99c6-564ea72b568a/file/e877b1d8-8dca-4993-91f2-e49893bc1cc7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95daf6a5-15f3-4cb7-a15c-8905cb209467/file/01694deb-a019-4811-aa49-1469a0d6058d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95daf6a5-15f3-4cb7-a15c-8905cb209467/file/bc6d5d37-4b9f-48d3-9150-17cba4427ccf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

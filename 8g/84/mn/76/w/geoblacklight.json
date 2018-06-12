@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mn76w",
+  "layer_slug_s": "princeton-8g84mn76w",
+  "uuid": "princeton-8g84mn76w",
+  "dc_title_s": "World Drainage Systems 2008",
+  "solr_geom": "ENVELOPE(-134.458591, 135.874609, 71.3925, -34.050564)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Drainage Systems represents the major drainage systems of the world.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "line",
+    "drainage",
+    "drainage systems",
+    "rivers",
+    "hydrography",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:49:48Z",
+  "layer_id_s": "restricted-figgy:4562dc5c-3580-456f-bf81-417b0c9cdf10",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/52aede56-138d-4fa5-b3aa-ac132436b1a5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6af09b93-f996-4ff5-abc9-7448caae896c/file/43decab7-a0d8-48b6-830f-f0381ad781cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4562dc5c-3580-456f-bf81-417b0c9cdf10/file/9972288a-7440-4785-b0a0-0950deaa1256\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4562dc5c-3580-456f-bf81-417b0c9cdf10/file/71edc324-3fce-41f1-a703-7e51260a6f64\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

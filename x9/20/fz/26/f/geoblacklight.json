@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920fz26f",
+  "layer_slug_s": "princeton-x920fz26f",
+  "uuid": "princeton-x920fz26f",
+  "dc_title_s": "Georgia Major Roads 2002",
+  "solr_geom": "ENVELOPE(-85.59667, -80.841184, 34.99927, 30.362137)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Georgia Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Georgia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:58:54Z",
+  "layer_id_s": "restricted-figgy:b394e09d-1f98-4b54-a8e1-78c775dbd60b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/daf5c419-ab1b-4035-9d68-a57e849ba9ab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d86eefd-b68a-475d-8c9a-9f1a39e695df/file/48c2d5eb-2a8c-4710-a9d4-8d86496fbd68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b394e09d-1f98-4b54-a8e1-78c775dbd60b/file/047ae4db-8307-48c8-a343-3123e9ef7e92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b394e09d-1f98-4b54-a8e1-78c775dbd60b/file/b8dc918e-f706-4851-b77f-2047c95d67a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

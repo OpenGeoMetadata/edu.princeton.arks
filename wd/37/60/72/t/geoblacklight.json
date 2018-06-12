@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd376072t",
+  "layer_slug_s": "princeton-wd376072t",
+  "uuid": "princeton-wd376072t",
+  "dc_title_s": "Torrance County, New Mexico land parcels, 2014",
+  "solr_geom": "ENVELOPE(-106.471114, -105.290273, 35.041933, 34.259779)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Torrance County, New Mexico, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Torrance",
+    "Torrance County",
+    "Albuquerque"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:51Z",
+  "layer_id_s": "restricted-figgy:9aac4246-eff1-4bb2-9f88-c75c694b85f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd300534-5e1e-496e-be62-3479f8d45ea0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/60024891-7940-4491-baa2-98491a20a89d/file/4d9b7716-fcf3-4f41-b202-956a1d3f8f02\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9aac4246-eff1-4bb2-9f88-c75c694b85f6/file/cd283909-8f67-40f5-9670-d96fd5d46ef8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9aac4246-eff1-4bb2-9f88-c75c694b85f6/file/697f2e09-e73a-464a-90a5-965d0a220148\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

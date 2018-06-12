@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cv43nz38b",
+  "layer_slug_s": "princeton-cv43nz38b",
+  "uuid": "princeton-cv43nz38b",
+  "dc_title_s": "Canada Major Cities 2000",
+  "solr_geom": "ENVELOPE(-135.051874, -52.729022, 62.453498, 42.300042)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Major Cities represents locations of the largest cities within Canada.  The major cities are based on the Canadian Geographic Names Database from Natural Resources Canada.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "major cities",
+    "ville"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:21:03Z",
+  "layer_id_s": "restricted-figgy:5cf9628e-54be-4a0e-a3f0-f99a51e83049",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/86fdb1a1-501f-41e8-809d-22edd5a21170\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc4da47c-1967-4204-98a9-ab7d0e0f488a/file/802935b6-ac9f-40a2-a171-68501830fae7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cf9628e-54be-4a0e-a3f0-f99a51e83049/file/55e9af7c-682e-4213-89f3-728a4909fcde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cf9628e-54be-4a0e-a3f0-f99a51e83049/file/08ec6487-0f9a-4a8a-902c-a0a40e63dc66\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

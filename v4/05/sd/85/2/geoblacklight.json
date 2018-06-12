@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sd852",
+  "layer_slug_s": "princeton-v405sd852",
+  "uuid": "princeton-v405sd852",
+  "dc_title_s": "Lancaster County, Pennsylvania roads, 2014",
+  "solr_geom": "ENVELOPE(-76.714905, -75.875107, 40.314281, 39.721035)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Lancaster County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Lancaster",
+    "Lancaster County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:55Z",
+  "layer_id_s": "restricted-figgy:a9f06f75-20dc-4f80-a297-b88cdf70870e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8e12fc17-c5c2-44b5-9dc4-686c0771acf6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e39fcbfa-72c1-4b5c-a39e-8b7f0d3cefa2/file/262efa27-45d0-4a26-a139-efce4dd0fd92\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9f06f75-20dc-4f80-a297-b88cdf70870e/file/182b538b-2c86-4560-b0ec-ded7cd66fe82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9f06f75-20dc-4f80-a297-b88cdf70870e/file/a0551fee-2a4d-4fb3-b3e1-c7f5ef5ab846\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

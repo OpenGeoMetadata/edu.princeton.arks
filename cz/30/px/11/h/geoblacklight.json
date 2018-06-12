@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cz30px11h",
+  "layer_slug_s": "princeton-cz30px11h",
+  "uuid": "princeton-cz30px11h",
+  "dc_title_s": "Alexander County, North Carolina land parcels, 2007",
+  "solr_geom": "ENVELOPE(-81.345131, -81.001209, 36.043172, 35.777406)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alexander County, North Carolina, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Alexander",
+    "Alexander County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T00:35:34Z",
+  "layer_id_s": "restricted-figgy:df27cbaf-b74a-41e6-a83e-02ed1d23d86d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/62235b78-c04a-4c38-bb7e-da0c943b5388\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/56499203-7a3f-42c3-9501-703d5ec39d55/file/448e1f5b-d4f9-4d37-8b62-bf34933c6cce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df27cbaf-b74a-41e6-a83e-02ed1d23d86d/file/127e7299-17ec-4f6f-a7eb-aeaeddebf7ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df27cbaf-b74a-41e6-a83e-02ed1d23d86d/file/8d3015d7-0efc-45f7-b14e-c35fbf6fe67e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6682x539s",
+  "layer_slug_s": "princeton-6682x539s",
+  "uuid": "princeton-6682x539s",
+  "dc_title_s": "Sonoma County, California land parcels, 2010",
+  "solr_geom": "ENVELOPE(-123.532891, -122.350206, 38.852772, 38.112457)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sonoma County, California, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Sonoma County",
+    "San Francisco"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:11:50Z",
+  "layer_id_s": "restricted-figgy:b9eff4b7-47e6-48d0-b345-37df9a6ba79c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/07769b1c-1951-425d-8d90-583892b06f9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2aa2a0f6-44dd-455e-906c-4f9280b3e5a6/file/21bf8056-71eb-494f-bb55-9506a7bc8269\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9eff4b7-47e6-48d0-b345-37df9a6ba79c/file/7eaa66c1-a641-48b3-88a9-a99279a6260f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9eff4b7-47e6-48d0-b345-37df9a6ba79c/file/5d0a3ca7-8246-4bf7-8cd0-cbb493cb2a3b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

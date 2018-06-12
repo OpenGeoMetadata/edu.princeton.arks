@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d1078",
+  "layer_slug_s": "princeton-4j03d1078",
+  "uuid": "princeton-4j03d1078",
+  "dc_title_s": "Croatia Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(14.42633, 18.697368, 45.800027, 43.512089)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Croatia cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Croatia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:10Z",
+  "layer_id_s": "restricted-figgy:ba1949ab-a0dc-40a8-b5cc-7fcd08210314",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/948e3f12-5e9e-4267-a5f1-fe8fcb913f9c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/27ea8805-d483-441e-9d6c-608160f7a24d/file/def028b3-5843-4d07-a59c-37ec3fbc61f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba1949ab-a0dc-40a8-b5cc-7fcd08210314/file/d729e4ef-5663-45cc-aac0-d64d86018f30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba1949ab-a0dc-40a8-b5cc-7fcd08210314/file/9ecac5bf-f11e-49c1-b523-03b630290c1f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

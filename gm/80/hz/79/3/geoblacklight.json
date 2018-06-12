@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz793",
+  "layer_slug_s": "princeton-gm80hz793",
+  "uuid": "princeton-gm80hz793",
+  "dc_title_s": "Chester County, Tennessee land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.843015, -88.352015, 35.59204, 35.247253)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chester County, Tennessee, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "Chester County",
+    "Chester"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:47Z",
+  "layer_id_s": "restricted-figgy:7ff595ab-741f-48f6-8750-2a2a6f6e3811",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d6390f4-5fa1-48d1-9aa6-cca8492b49f5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da10b77b-d722-439e-bf06-96afd811548f/file/abea4f89-4bb0-4b39-bff5-705e642813ea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ff595ab-741f-48f6-8750-2a2a6f6e3811/file/ca0976dc-3a42-484d-acb4-bf830f5e5c13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ff595ab-741f-48f6-8750-2a2a6f6e3811/file/0d7d8ed5-109c-447a-8034-032b864d7246\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

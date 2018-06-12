@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv9356241",
+  "layer_slug_s": "princeton-nv9356241",
+  "uuid": "princeton-nv9356241",
+  "dc_title_s": "Clark County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.788669, -122.245213, 46.05877, 45.547891)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clark County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clark",
+    "Clark  County",
+    "Washington",
+    "Vancouver",
+    "Portland"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:11Z",
+  "layer_id_s": "restricted-figgy:ce15b6ab-dc0e-442c-869e-4cc3d6ca70e2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/928181d1-6602-483f-8d97-fa5d139c50f9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef0f31fe-6054-490c-9f70-a44318e12bd3/file/fd2c1f2f-5db1-457b-a352-275d17b2700b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce15b6ab-dc0e-442c-869e-4cc3d6ca70e2/file/1827523e-c605-49a1-a0d1-3f75c55115d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce15b6ab-dc0e-442c-869e-4cc3d6ca70e2/file/02c021c1-8385-42e0-8202-7aa48a4fbf90\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

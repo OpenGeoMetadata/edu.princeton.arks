@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qw332",
+  "layer_slug_s": "princeton-5m60qw332",
+  "uuid": "princeton-5m60qw332",
+  "dc_title_s": "Henry County, Virginia roads, 2011",
+  "solr_geom": "ENVELOPE(-80.094207, -79.645748, 36.850532, 36.541976)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Henry County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Henry",
+    "Henry County",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:51Z",
+  "layer_id_s": "restricted-figgy:b5382530-b6dc-4b7e-90b2-72691b235289",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f68c1dbd-0015-49e3-93be-d6c3879cf3ef\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dcc54097-8dd3-4d45-9f2e-35392a281c2b/file/02cab74d-a07d-47b9-8412-d7f5fd349060\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5382530-b6dc-4b7e-90b2-72691b235289/file/d7e5fada-05fc-4266-afb5-5d5a17b9f468\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5382530-b6dc-4b7e-90b2-72691b235289/file/218f7ac0-418e-4cb8-bd71-9a1d6f1c32ff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

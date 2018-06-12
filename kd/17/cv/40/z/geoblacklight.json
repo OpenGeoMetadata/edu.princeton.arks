@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kd17cv40z",
+  "layer_slug_s": "princeton-kd17cv40z",
+  "uuid": "princeton-kd17cv40z",
+  "dc_title_s": "France Elevations",
+  "solr_geom": "ENVELOPE(-5.155606, 9.559856, 51.090167, 41.333307)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of France created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:46Z",
+  "layer_id_s": "restricted-figgy:8cae70da-626f-4a0c-b005-3fabb3d625ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f962fb5a-a736-45c9-aecc-b4894b7e9709\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/56f400be-b2a8-47e9-892c-1885aa433dcf/file/3ae5eb0f-0dd1-46c0-9fb6-ccd47942d27c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cae70da-626f-4a0c-b005-3fabb3d625ab/file/f831cf2a-20e2-4e63-bc31-f3bc49bd0038\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cae70da-626f-4a0c-b005-3fabb3d625ab/file/abc576f3-0752-4d32-8bb6-fc62a34765c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

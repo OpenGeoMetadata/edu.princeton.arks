@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2773x32p",
+  "layer_slug_s": "princeton-b2773x32p",
+  "uuid": "princeton-b2773x32p",
+  "dc_title_s": "Sri Lanka Cities With Population 500 Thousand and More, 1997",
+  "solr_geom": "ENVELOPE(79.8666, 79.8666, 6.920748, 6.920748)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Sri Lanka cities with population 500 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 500K"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:53Z",
+  "layer_id_s": "restricted-figgy:5a2d1071-9b88-4691-b4fb-223c89262a1d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3b7080e8-bc4d-4405-a7cd-c8b03702ed49\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a54c470-0667-4867-a42c-fa2aeafb602a/file/3d95fd81-178e-4b02-ab25-65fe7b7a497c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a2d1071-9b88-4691-b4fb-223c89262a1d/file/e66ae01f-596a-4698-9284-3e93885b61c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a2d1071-9b88-4691-b4fb-223c89262a1d/file/e9003794-b111-4d58-8db1-ff14e77898aa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

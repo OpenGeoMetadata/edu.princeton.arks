@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/37720h10p",
+  "layer_slug_s": "princeton-37720h10p",
+  "uuid": "princeton-37720h10p",
+  "dc_title_s": "Phillips County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-108.891144, -107.179808, 49.000186, 47.45523)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Phillips County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Phillips",
+    "Phillips County",
+    "Montana",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:29Z",
+  "layer_id_s": "restricted-figgy:1f6abf1a-972f-459b-a44d-b6d063023575",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9ab51b8c-e6ae-4ec2-a0e8-641bcfdcd940\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e87f490-64d3-4b12-af8e-c1aeeebc8e20/file/efc3f85d-3c06-4b66-8d36-a19e8eb094c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f6abf1a-972f-459b-a44d-b6d063023575/file/125d8ff0-c060-4401-bc90-6d6a9e02b180\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f6abf1a-972f-459b-a44d-b6d063023575/file/ab5252a7-377a-48df-a888-dbc7b2df7e62\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/000001702",
+  "layer_slug_s": "princeton-000001702",
+  "uuid": "princeton-000001702",
+  "dc_title_s": "Sweden Major Railways, 2005",
+  "solr_geom": "ENVELOPE(11.186916, 24.153921, 68.435364, 55.370834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Sweden major railways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Railways",
+    "Transportation",
+    "Major Railways",
+    "Railroads"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:03Z",
+  "layer_id_s": "restricted-figgy:5f07c45b-e728-41eb-b61d-eef1b7e4ccc5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/288f46f1-c75a-476f-932b-56f4caafa42c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0f9cb752-c797-4605-9a30-df4f44541b6a/file/b4f09f21-073b-4137-993f-eb7def248524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f07c45b-e728-41eb-b61d-eef1b7e4ccc5/file/1dd8d6f3-bf12-4089-955e-4784d0fdc999\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f07c45b-e728-41eb-b61d-eef1b7e4ccc5/file/94a1210c-9081-4b9a-a540-13983902f298\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

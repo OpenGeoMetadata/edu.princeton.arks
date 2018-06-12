@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77fv765",
+  "layer_slug_s": "princeton-4q77fv765",
+  "uuid": "princeton-4q77fv765",
+  "dc_title_s": "Washington County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.794608, -96.081969, 30.40005, 30.044283)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington County",
+    "Texas",
+    "Houston",
+    "The Woodlands",
+    "Sugar Land"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:45Z",
+  "layer_id_s": "restricted-figgy:f1ea8206-dce9-42b1-b392-6bc1e8107985",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ca47f503-971d-412f-8d30-85ab51a34dcd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/32eddc91-8013-4a26-baa1-7f8f35bb52e2/file/6d23d91f-7211-4707-b78f-c971ce08058e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1ea8206-dce9-42b1-b392-6bc1e8107985/file/00e53ce4-8eda-4874-9bfd-c6d6dd66e01d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1ea8206-dce9-42b1-b392-6bc1e8107985/file/bce23826-eefe-4886-822e-8b5da73f3233\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q811kp03m",
+  "layer_slug_s": "princeton-q811kp03m",
+  "uuid": "princeton-q811kp03m",
+  "dc_title_s": "Talbot County, Georgia land parcels, 2006",
+  "solr_geom": "ENVELOPE(-84.703437, -84.285246, 32.883562, 32.518465)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Talbot County, Georgia, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Talbot",
+    "Talbot County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:48:00Z",
+  "layer_id_s": "restricted-figgy:a2b25879-ab11-4934-839b-c3e19c23a1e1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3ac12b45-4a1d-4376-bbad-ff79128f1323\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d92b83fd-1de6-44f5-be45-9f06935ca2fd/file/ad1b9a86-a602-4d61-be5b-5adc41156681\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2b25879-ab11-4934-839b-c3e19c23a1e1/file/808f0c63-3102-4014-a905-83580665d16b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2b25879-ab11-4934-839b-c3e19c23a1e1/file/135eef98-c823-4725-a05e-00fe5d88a2eb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v838395n",
+  "layer_slug_s": "princeton-0v838395n",
+  "uuid": "princeton-0v838395n",
+  "dc_title_s": "Gulf County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-85.417737, -85.010168, 30.20117, 29.665907)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gulf County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gulf County",
+    "Florida",
+    "Gulf"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:37:50Z",
+  "layer_id_s": "restricted-figgy:70a8e312-f996-4990-bde7-45956e15553d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fdbf51d4-875b-488a-821f-ffb08fdc2e97\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3418dcad-40d1-47e8-86cf-9df278f78675/file/525b34fa-fa00-4566-a30f-26b6e0d81b7e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70a8e312-f996-4990-bde7-45956e15553d/file/72173969-9594-4e40-a50b-12f3c8254089\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70a8e312-f996-4990-bde7-45956e15553d/file/88171fff-57f3-44a6-a0f0-33e6fa15b431\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

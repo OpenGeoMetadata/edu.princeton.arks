@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5138jj354",
+  "layer_slug_s": "princeton-5138jj354",
+  "uuid": "princeton-5138jj354",
+  "dc_title_s": "Summit County, Ohio roads, 2008",
+  "solr_geom": "ENVELOPE(-81.690048, -81.386846, 41.352129, 40.906162)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The Streets layer contains lines depicting the centerline of the traveled way of public and private streets for all of Summit County, Ohio, 2008. Lines are segmented by street name, address range, and CFCC code. Direction of each line is from smallest to largest address. The dataset was originally derived from United States Census Bureau TIGER files, and updated using road centerlines, as interpreted from 1994 and 2000 aerial photography; right-of-way and access easement centerlines, as shown on the Summit County parcel maps; other recorded documents and surveys; and some field checks. Currently, the Summit County Engineer assigns street names and addresses for areas within the townships, while each municipality is responsible for its own addressing system. The Engineer and municipalities have also contributed corrections to this dataset. This layer is currently under development.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road",
+    "street",
+    "CFCC",
+    "address",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Summit",
+    "Summit County",
+    "Akron",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:10:02Z",
+  "layer_id_s": "restricted-figgy:285bc2d2-051c-4fc2-8d90-365f768c4daa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/618ae00d-a848-4c05-9077-492d4ad30a3f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/49095163-4483-4fe2-907a-e2eee784e62e/file/8a72304b-4258-4fad-8fa6-4174910f51a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/285bc2d2-051c-4fc2-8d90-365f768c4daa/file/c9d1fb26-6e0f-4a7a-a61c-8a38cddd91c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/285bc2d2-051c-4fc2-8d90-365f768c4daa/file/704f99ba-82d9-4761-ab29-6bba2c5546a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

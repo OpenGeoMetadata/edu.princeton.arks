@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h989r6584",
+  "layer_slug_s": "princeton-h989r6584",
+  "uuid": "princeton-h989r6584",
+  "dc_title_s": "Lee County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-91.102507, -90.417215, 34.911972, 34.637331)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lee County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Lee",
+    "Lee County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:27:02Z",
+  "layer_id_s": "restricted-figgy:6cc19a2b-e315-4b5e-9c3b-7972a1f730d3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/13fb685d-a519-4f01-b1e7-15ab77e143f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0d7dddc-43e2-41cd-be70-2cfcdac2db71/file/fb978e2a-c5b2-46b0-95fd-f6f49e5e3751\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cc19a2b-e315-4b5e-9c3b-7972a1f730d3/file/f535f09e-b975-4c26-928d-ff9e9829ba46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cc19a2b-e315-4b5e-9c3b-7972a1f730d3/file/5af7e803-8ea1-4394-a942-f55b0fdf26d3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

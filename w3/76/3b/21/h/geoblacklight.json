@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763b21h",
+  "layer_slug_s": "princeton-w3763b21h",
+  "uuid": "princeton-w3763b21h",
+  "dc_title_s": "Adams County, Illinois land parcels, 2014",
+  "solr_geom": "ENVELOPE(-91.512957, -90.911949, 40.199997, 39.756844)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Adams County, Illinois, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Adams",
+    "Adams County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:36Z",
+  "layer_id_s": "restricted-figgy:2c92abaf-f2f5-4b25-af2b-992c5d6ae84e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e1268bed-e899-4040-967b-3015765c5b2d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5f6e8d63-d118-47f6-99a1-fca60a1df668/file/b346e94b-9cad-4918-978c-93219c46c5be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c92abaf-f2f5-4b25-af2b-992c5d6ae84e/file/bd47f951-8029-452f-9a2a-a7f13b059ab9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c92abaf-f2f5-4b25-af2b-992c5d6ae84e/file/cb62a2dc-4d3c-4751-9918-9014abe2d4bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

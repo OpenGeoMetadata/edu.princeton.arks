@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dr26z1856",
+  "layer_slug_s": "princeton-dr26z1856",
+  "uuid": "princeton-dr26z1856",
+  "dc_title_s": "Wilkes County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.545726, -80.868566, 36.44029, 35.980108)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wilkes County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wilkes County",
+    "North Carolina",
+    "Wilkes"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:47Z",
+  "layer_id_s": "restricted-figgy:734cc9b9-c187-463f-a1db-80983c70b577",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c6af64f6-7e67-4b35-a5ab-368db0326c0b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d2be3bf-ee82-4fbd-ba5e-4a78ab8f583a/file/b17df05b-7402-4626-b86d-f42a028f204b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/734cc9b9-c187-463f-a1db-80983c70b577/file/9f423004-e095-4382-a936-cda7ed237816\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/734cc9b9-c187-463f-a1db-80983c70b577/file/19885c40-b794-4ffe-8dc9-96faeaf0475e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

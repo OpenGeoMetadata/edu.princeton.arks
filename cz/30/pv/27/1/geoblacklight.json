@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cz30pv271",
+  "layer_slug_s": "princeton-cz30pv271",
+  "uuid": "princeton-cz30pv271",
+  "dc_title_s": "Serbia-Montenegro 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(18.435428, 23.00603, 46.193608, 41.855686)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Serbia-Montenegro 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Serbia-Montenegro",
+    "Serbia",
+    "Montenegro"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:22Z",
+  "layer_id_s": "restricted-figgy:e72cbbeb-6dea-4b70-93c3-cec9700e5bb0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0ba6280b-2d03-4fe7-82b0-35d1158c1e2a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b0f79ec2-614f-4756-949e-6708e4700b5e/file/3f446148-8f60-4828-9553-43fad1282482\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e72cbbeb-6dea-4b70-93c3-cec9700e5bb0/file/dd58f1e1-21a4-4717-8b12-b5281d08ac08\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e72cbbeb-6dea-4b70-93c3-cec9700e5bb0/file/0e009dfe-bf60-419f-b316-a52242c48aad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

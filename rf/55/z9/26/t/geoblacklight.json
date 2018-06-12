@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55z926t",
+  "layer_slug_s": "princeton-rf55z926t",
+  "uuid": "princeton-rf55z926t",
+  "dc_title_s": "Faroe Islands Major Geographic Names, 2005",
+  "solr_geom": "ENVELOPE(-7.284251, -6.775314, 62.008648, 61.890893)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Faroe Islands (Denmark) major geographic names created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Location",
+    "geographic names",
+    "names"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Faroe Islands",
+    "Faroes"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:43Z",
+  "layer_id_s": "restricted-figgy:da049d16-a8e0-4b34-a2c1-e464d8f8491b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9a555413-05dc-416d-b53c-c0d805a4b5aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/695102fa-2abf-4218-b2b1-09f82999c8b0/file/ecf42fc7-6dd4-4d34-b485-04d1f74b5079\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da049d16-a8e0-4b34-a2c1-e464d8f8491b/file/6871d65e-b52a-41a9-8091-3cb021738056\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da049d16-a8e0-4b34-a2c1-e464d8f8491b/file/3844e7b5-86b7-42d4-9993-5be974dd0d3f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p096b378",
+  "layer_slug_s": "princeton-0p096b378",
+  "uuid": "princeton-0p096b378",
+  "dc_title_s": "Polk County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.36046, -81.960365, 35.409274, 35.185066)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Polk County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Polk",
+    "Polk County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:31Z",
+  "layer_id_s": "restricted-figgy:7f807843-2642-43c2-97ee-e362a5405ff6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/88659348-fab9-4e37-ad0b-dc021d9372e3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/becb99bc-cae7-4691-9f8d-c5b0d2dba04c/file/30768361-d13a-4793-b8ed-b96c869bdf4f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f807843-2642-43c2-97ee-e362a5405ff6/file/ce1aa7c1-6995-4bc6-9454-546a566ea09c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f807843-2642-43c2-97ee-e362a5405ff6/file/364d1be9-fd84-46b5-b1a3-40f99987e4db\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

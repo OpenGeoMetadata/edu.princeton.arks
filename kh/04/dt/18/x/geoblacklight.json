@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kh04dt18x",
+  "layer_slug_s": "princeton-kh04dt18x",
+  "uuid": "princeton-kh04dt18x",
+  "dc_title_s": "Randolph County, North Carolina land parcels, 2006",
+  "solr_geom": "ENVELOPE(-80.066842, -79.541978, 35.920663, 35.505661)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Randolph County, North Carolina, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Randolph",
+    "Randolph County",
+    "High Point",
+    "Winston-Salem"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:12:49Z",
+  "layer_id_s": "restricted-figgy:dd8ef7a0-39fe-48a2-87a9-4d9c273cd6f5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a72246c-8825-4494-8603-649efb0288fd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d313555-f5e8-482c-a812-d8e54ab785e6/file/ffe229a8-0b59-4c7b-821c-c808c0ba9449\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd8ef7a0-39fe-48a2-87a9-4d9c273cd6f5/file/a35015bf-2644-4ceb-aa4e-6b5956d9fff4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd8ef7a0-39fe-48a2-87a9-4d9c273cd6f5/file/442da75e-b8de-4d92-88c5-dffaa085b4f9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

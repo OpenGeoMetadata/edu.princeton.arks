@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn301299k",
+  "layer_slug_s": "princeton-rn301299k",
+  "uuid": "princeton-rn301299k",
+  "dc_title_s": "Lithuania Elevations",
+  "solr_geom": "ENVELOPE(20.956236, 26.848927, 56.447964, 53.898434)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Lithuania created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:19Z",
+  "layer_id_s": "restricted-figgy:dd4df87a-91a7-4cee-a21d-98e19821e4c5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e60f608-0c56-41d1-b632-d63ffe06976d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea6d2c0c-6b00-4b1f-9530-249ec943aff8/file/2ab65de1-6958-4da2-a498-b3e4ff4fa61a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd4df87a-91a7-4cee-a21d-98e19821e4c5/file/b1279abf-fa15-48ac-8ae7-2de8e34de51b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd4df87a-91a7-4cee-a21d-98e19821e4c5/file/4bf69d3a-e7c4-4e46-ad9b-13e80421753f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

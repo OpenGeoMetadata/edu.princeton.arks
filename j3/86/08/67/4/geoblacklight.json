@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j38608674",
+  "layer_slug_s": "princeton-j38608674",
+  "uuid": "princeton-j38608674",
+  "dc_title_s": "Germany Cities With Population From 50 Thousand To 100 Thousand, 2006",
+  "solr_geom": "ENVELOPE(6.22705, 14.973634, 54.786701, 47.653757)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:6493d5ce-a28d-4c36-9580-ce00621ed337",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e97f1148-4541-49fa-a687-05958e79ddbd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/63daf3b1-06d1-41fa-ab36-fbb62bbcb68e/file/3a95cbce-c777-449e-a551-d12290d170b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6493d5ce-a28d-4c36-9580-ce00621ed337/file/525ae51e-b5fc-4682-bb3d-4c8968553f62\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6493d5ce-a28d-4c36-9580-ce00621ed337/file/538c5c43-4323-4465-9bc2-a2ebff2384b2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

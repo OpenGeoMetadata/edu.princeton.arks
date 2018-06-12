@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2774007z",
+  "layer_slug_s": "princeton-b2774007z",
+  "uuid": "princeton-b2774007z",
+  "dc_title_s": "Austin County, Texas roads, 2011",
+  "solr_geom": "ENVELOPE(-96.631926, -96.009174, 30.10285, 29.593078)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Austin County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Austin",
+    "Austin County",
+    "Texas",
+    "Houston"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:24:49Z",
+  "layer_id_s": "restricted-figgy:65e9dfe7-edce-47b6-8a05-c10f699fa5c3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6304338a-dba7-4716-ae24-1448c83fe435\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eff06886-c80e-4015-952b-3b18e916cd22/file/a125e25b-d27f-4fde-a85c-69d5eb1bb4ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65e9dfe7-edce-47b6-8a05-c10f699fa5c3/file/a6a261f4-589a-4a4e-ab64-1c49eec113a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65e9dfe7-edce-47b6-8a05-c10f699fa5c3/file/164491ef-52ac-43fa-b5c5-369be6dd27fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

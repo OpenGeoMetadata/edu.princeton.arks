@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hh63t030m",
+  "layer_slug_s": "princeton-hh63t030m",
+  "uuid": "princeton-hh63t030m",
+  "dc_title_s": "Marinette County, Wisconsin land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.428095, -87.489673, 45.795251, 44.965382)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marinette County, Wisconsin, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Marinette",
+    "Marinette County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:12Z",
+  "layer_id_s": "restricted-figgy:ffed8c67-a6ca-400c-8807-86a9401b5106",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8be5b67b-7409-4cfe-996a-55aff818f28a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fcb6dba4-159d-4ef3-87a7-74f157956af6/file/4ba42342-2121-43da-8e12-78a4ec97b57d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffed8c67-a6ca-400c-8807-86a9401b5106/file/5aa0f1ea-82be-44cb-8fb2-9f1a6617d13f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffed8c67-a6ca-400c-8807-86a9401b5106/file/7d7eb859-a38f-42f5-9e38-14e5c95f106f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j098zf55k",
+  "layer_slug_s": "princeton-j098zf55k",
+  "uuid": "princeton-j098zf55k",
+  "dc_title_s": "Lincoln County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-118.979736, -117.81947, 47.958212, 47.26001)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lincoln County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Lincoln",
+    "Lincoln County",
+    "Columbia River"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:16Z",
+  "layer_id_s": "restricted-figgy:5c1d1956-badb-40da-8eda-ee0b623383a6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d3b0f998-fe85-46d8-80a7-c2e7fc96124f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/31129ade-4ebc-46c1-983a-8be82ce524dd/file/91b2c209-4c70-463c-b15a-4dd3f33d882a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c1d1956-badb-40da-8eda-ee0b623383a6/file/df12ede7-c90a-4215-b0cc-5263ce12b8f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c1d1956-badb-40da-8eda-ee0b623383a6/file/18c81610-12b9-41a9-836e-7379bcea5d7e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

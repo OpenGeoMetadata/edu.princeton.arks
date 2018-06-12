@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xt03c",
+  "layer_slug_s": "princeton-vm40xt03c",
+  "uuid": "princeton-vm40xt03c",
+  "dc_title_s": "Malta Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(14.198946, 14.573094, 36.076996, 35.822858)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Malta major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Malta"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:16Z",
+  "layer_id_s": "restricted-figgy:093f4bb6-723a-4437-9a96-a6d663d6e52e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e576dabc-e95b-4bcf-818f-c3310250fe1d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/43b8c62c-4b3f-4d30-9985-1bafc295e5c5/file/a801380b-c7e4-4d47-8853-048d0a03619e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/093f4bb6-723a-4437-9a96-a6d663d6e52e/file/bfa3fa0f-feb1-40ae-8a3f-c7dd6b15df54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/093f4bb6-723a-4437-9a96-a6d663d6e52e/file/6aa5fe64-d2ca-4908-9a3a-c81375f0e21d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

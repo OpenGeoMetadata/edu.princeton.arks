@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj680",
+  "layer_slug_s": "princeton-3484zj680",
+  "uuid": "princeton-3484zj680",
+  "dc_title_s": "Multnomah County, Oregon land parcels, 2006",
+  "solr_geom": "ENVELOPE(-122.929605, -121.820506, 45.728573, 45.432664)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Multnomah County, Oregon, 2006. Tax lots, right-of-way outlines and tax account numbers as represented on county tax assessor hard copy maps. Each tax lot is a polygon with an associated tax lot number which is the \"hook\" to the county tax assessor's tabular data base. Selected items from each County Assessor's file are included. The tax lot spatial features are maintained by each county and delivered to Metro quarterly.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "tax lots",
+    "assessor",
+    "cadastral",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Multnomah",
+    "Multnomah County",
+    "Portland",
+    "Gresham"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T00:35:54Z",
+  "layer_id_s": "restricted-figgy:efee5025-4553-44cb-bb62-bc38e72712c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5811a98a-1b0a-4132-8b52-0467f642c954\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2fc8dbce-cb9b-4ef7-bc2d-fdd15c1f43e6/file/af2e9ee7-730e-4c7e-b5fe-a2f2bc3d3492\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/efee5025-4553-44cb-bb62-bc38e72712c7/file/d3cd870a-2094-4ee7-82f7-2c1b31ee445f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/efee5025-4553-44cb-bb62-bc38e72712c7/file/681aaf1b-85c0-46f6-aec1-8758cb4aada1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

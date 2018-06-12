@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rr171z932",
+  "layer_slug_s": "princeton-rr171z932",
+  "uuid": "princeton-rr171z932",
+  "dc_title_s": "Idaho Block Groups 2002",
+  "solr_geom": "ENVELOPE(-117.243028, -111.043496, 49.001147, 41.988006)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Idaho Block Groups represents the U.S. Census block groups of Idaho.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:55Z",
+  "layer_id_s": "restricted-figgy:5d0793c3-6c79-45cb-9cfd-4449b69dcd01",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c2a48059-b5ba-4c71-8960-e8d28711cd83\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/909d327b-4d52-4815-9eec-5db425989595/file/81935c1d-8208-4486-995b-2c2c05b9d293\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d0793c3-6c79-45cb-9cfd-4449b69dcd01/file/e6834e31-faa5-4fd9-8c4c-ad000729f765\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d0793c3-6c79-45cb-9cfd-4449b69dcd01/file/4bd48867-a082-4f34-9756-7bb32a02532d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

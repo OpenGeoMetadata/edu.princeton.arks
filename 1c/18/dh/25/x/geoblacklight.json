@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dh25x",
+  "layer_slug_s": "princeton-1c18dh25x",
+  "uuid": "princeton-1c18dh25x",
+  "dc_title_s": "Sharp County, Arkansas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-91.710183, -91.25792, 36.497348, 35.890588)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sharp County, Arkansas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Sharp County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:48:07Z",
+  "layer_id_s": "restricted-figgy:afddc48c-0149-45d6-bbd3-b84ace9f09e3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/169b10db-79f4-4749-89f9-fa611779ea22\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2564869a-92df-4102-b416-29c367678a19/file/1778edaf-65c5-4eb8-a72f-650c3b9e2f59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afddc48c-0149-45d6-bbd3-b84ace9f09e3/file/15b3b595-036b-4bbb-9520-0efd561ddbad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afddc48c-0149-45d6-bbd3-b84ace9f09e3/file/5b3078da-f688-431b-9ec9-bb106bd94799\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

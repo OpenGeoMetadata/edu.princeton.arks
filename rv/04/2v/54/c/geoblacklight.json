@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042v54c",
+  "layer_slug_s": "princeton-rv042v54c",
+  "uuid": "princeton-rv042v54c",
+  "dc_title_s": "Arizona Tracts 2002",
+  "solr_geom": "ENVELOPE(-114.816591, -109.045223, 37.004261, 31.332178)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Arizona Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Arizona.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Arizona"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:16:12Z",
+  "layer_id_s": "restricted-figgy:4e5a49c0-0704-418f-b3a7-fe0e23c862e8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9df57189-8fe4-478e-ba09-ca9925f4b657\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a15474b-7167-4aec-9561-5d80549e9b34/file/45bd6af4-6b88-4972-8b4b-da29f77a0bab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e5a49c0-0704-418f-b3a7-fe0e23c862e8/file/52fe310c-fa3f-45e5-b079-5ab8d2a92f51\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e5a49c0-0704-418f-b3a7-fe0e23c862e8/file/368a1a22-c42d-4e48-bfd5-32b0fcfca670\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nc79m",
+  "layer_slug_s": "princeton-qf85nc79m",
+  "uuid": "princeton-qf85nc79m",
+  "dc_title_s": "Arkansas Tracts 2002",
+  "solr_geom": "ENVELOPE(-94.617919, -89.644838, 36.49962, 33.004106)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Arkansas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Arkansas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T03:00:00Z",
+  "layer_id_s": "restricted-figgy:7c543662-58d4-4400-8e1f-e7a684c75af5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6b0dc913-9b42-4dbb-85be-fe0f657629fa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c73fd6c3-86a0-4e56-9398-18f2fad4aae4/file/8cf1f437-4cbf-4f8e-b3b7-acc5cda765e0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7c543662-58d4-4400-8e1f-e7a684c75af5/file/a6597522-113c-4644-93d6-7b74f3e5e2c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7c543662-58d4-4400-8e1f-e7a684c75af5/file/9cd0ab5b-70ac-4687-be2a-f9f973aa9824\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd375z03c",
+  "layer_slug_s": "princeton-wd375z03c",
+  "uuid": "princeton-wd375z03c",
+  "dc_title_s": "Sweden County Boundaries, 2005",
+  "solr_geom": "ENVELOPE(10.967347, 24.1856, 69.065308, 55.336319)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the county boundaries of Sweden created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "counties",
+    "Boundaries",
+    "county boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:07Z",
+  "layer_id_s": "restricted-figgy:1f72630e-9d00-4c1f-9aad-91289e0ef2b1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ec22d7e-63fd-4d66-a59f-13bceb28a2af\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab4289f2-d628-4a92-bcb1-dd92c156bafc/file/a696485b-6b21-44af-b819-43982489a1ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f72630e-9d00-4c1f-9aad-91289e0ef2b1/file/c232ee20-a6da-424e-a398-c159d67d0b01\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f72630e-9d00-4c1f-9aad-91289e0ef2b1/file/a72d822a-7900-466d-a32d-6d5818cafeb4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

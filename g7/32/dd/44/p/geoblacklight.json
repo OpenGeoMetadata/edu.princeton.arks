@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732dd44p",
+  "layer_slug_s": "princeton-g732dd44p",
+  "uuid": "princeton-g732dd44p",
+  "dc_title_s": "Whatcom County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-123.105653, -121.872848, 49.002478, 48.640297)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions in Whatcom County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Whatcom",
+    "Whatcom County",
+    "Washington",
+    "Lake Whatcom",
+    "Point Roberts"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:57Z",
+  "layer_id_s": "restricted-figgy:02095e51-3e0f-4f39-ae59-f3da74fc9616",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/97f588b6-83b0-4506-af86-9e4c54cd58bb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7439b297-3a9a-4a61-b79f-b50fe075571f/file/c4281ebc-83e7-447d-a516-e7697a4baf35\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02095e51-3e0f-4f39-ae59-f3da74fc9616/file/1b7c7efc-b36b-43fb-afd0-7ece26695da2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02095e51-3e0f-4f39-ae59-f3da74fc9616/file/71adbba6-ba97-4c9e-aa80-ff93a9e013cc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

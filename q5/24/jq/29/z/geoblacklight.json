@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q524jq29z",
+  "layer_slug_s": "princeton-q524jq29z",
+  "uuid": "princeton-q524jq29z",
+  "dc_title_s": "U.S. Geographic Names Information System Summit 2002",
+  "solr_geom": "ENVELOPE(-178.794296, 179.680588, 70.4925, -14.3575)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Summit represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "summit",
+    "place name",
+    "geographic feature",
+    "Environment"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Commonwealths",
+    "Territories",
+    "Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "unkn"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:14Z",
+  "layer_id_s": "restricted-figgy:8b047d8f-ad7e-4dcf-9988-dbe979212a4f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44a2511a-f28b-42e4-9a27-515fc423c79c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74a52bf3-edf6-4300-97e1-bbf59ba5a532/file/8b32ee51-b59c-48ec-9df0-91d70829d4a4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b047d8f-ad7e-4dcf-9988-dbe979212a4f/file/b45c5d43-c095-467d-ba2c-239fa9901168\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b047d8f-ad7e-4dcf-9988-dbe979212a4f/file/badaf74b-f430-418c-bbd7-62f3ac92d007\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

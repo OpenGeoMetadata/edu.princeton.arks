@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1v53k133w",
+  "layer_slug_s": "princeton-1v53k133w",
+  "uuid": "princeton-1v53k133w",
+  "dc_title_s": "Teton County, Wyoming land parcels, 2014",
+  "solr_geom": "ENVELOPE(-111.055331, -110.051131, 44.666802, 43.235178)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Teton County, Wyoming, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming",
+    "Teton",
+    "Teton County",
+    "Grand Teton National Park",
+    "Bridger-Teton National Forest",
+    "Gros Ventre Wilderness",
+    "Jackson",
+    "Jackson Hole",
+    "Yellowstone National Park"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:01:15Z",
+  "layer_id_s": "restricted-figgy:3ae60a87-9256-419d-845d-a2eb0de5a68f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/56df0dec-7150-4207-af9e-d133bc5d9e3c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/878c3af9-b8d9-4e28-8885-d51345fcb951/file/e8e02565-b062-49fa-bc04-7760310ea1c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ae60a87-9256-419d-845d-a2eb0de5a68f/file/8152bd48-b16f-465c-9de9-7eb4b753503f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ae60a87-9256-419d-845d-a2eb0de5a68f/file/0af325cb-7ada-4fe8-a1bd-2bd0d9670657\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

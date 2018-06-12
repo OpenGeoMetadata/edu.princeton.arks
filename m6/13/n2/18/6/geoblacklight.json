@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m613n2186",
+  "layer_slug_s": "princeton-m613n2186",
+  "uuid": "princeton-m613n2186",
+  "dc_title_s": "Humboldt County, California land parcels, 2013",
+  "solr_geom": "ENVELOPE(-124.409594, -123.406378, 41.465939, 39.999988)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Humboldt County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Humboldt",
+    "Humboldt County",
+    "California",
+    "Redwood National Park",
+    "Six Rivers National Forest",
+    "Trinity National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2011"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:b6aa0ccc-d7dd-4fc1-bbca-dfdc0e62f307",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e83a62b6-bf43-4571-8157-db60c7f97b07\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/86d01e16-2880-4f06-9d23-abaf08b62eb1/file/14b5edea-4a6b-4dce-b0c9-8b131461915c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6aa0ccc-d7dd-4fc1-bbca-dfdc0e62f307/file/9b15a90b-4973-457d-bd04-891a78552505\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6aa0ccc-d7dd-4fc1-bbca-dfdc0e62f307/file/dd7f0f74-8554-4f3f-a547-1f9359e07229\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

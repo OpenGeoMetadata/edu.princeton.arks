@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jq085m59v",
+  "layer_slug_s": "princeton-jq085m59v",
+  "uuid": "princeton-jq085m59v",
+  "dc_title_s": "Egypt Water Bodies",
+  "solr_geom": "ENVELOPE(25.102925, 39.711953, 32.374915, 21.856676)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygons representing water bodies in Egypt.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "lakes",
+    "dams",
+    "reservoirs",
+    "oasis",
+    "oases",
+    "ponds",
+    "pools",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:58Z",
+  "layer_id_s": "restricted-figgy:d05148c3-d73b-494f-8102-014aae0de940",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e9bcc25-b351-495a-99a9-ac03b51c62b8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/314f7a2c-0a0a-48d8-b048-2a6727f4a962/file/ae61840c-421c-4910-8982-0bab810c03b6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d05148c3-d73b-494f-8102-014aae0de940/file/8aa4e459-02a5-45de-bf58-f7dffac741ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d05148c3-d73b-494f-8102-014aae0de940/file/c0808155-e78f-4b68-9e36-df4c1cfcee4c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

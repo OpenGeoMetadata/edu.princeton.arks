@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848s38w",
+  "layer_slug_s": "princeton-ft848s38w",
+  "uuid": "princeton-ft848s38w",
+  "dc_title_s": "Oklahoma Block Groups 2002",
+  "solr_geom": "ENVELOPE(-103.002648, -94.431215, 37.002328, 33.615765)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Oklahoma Block Groups represents the U.S. Census block groups of Oklahoma.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:45:07Z",
+  "layer_id_s": "restricted-figgy:7fd43792-4ff9-4359-b252-a62abf351b5a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9ce784ea-08e8-4589-9a6f-b6a3299a3bcb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8db34418-44f0-435d-848c-c65b2832f24f/file/29456661-5e15-4f4b-8009-d72c3cbfa6a5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7fd43792-4ff9-4359-b252-a62abf351b5a/file/ddd27df5-b0eb-41db-b450-fa52699d1989\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7fd43792-4ff9-4359-b252-a62abf351b5a/file/c41ee773-8917-4825-9d21-2c2fcf3bff8e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

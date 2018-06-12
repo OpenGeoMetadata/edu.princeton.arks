@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6108vc921",
+  "layer_slug_s": "princeton-6108vc921",
+  "uuid": "princeton-6108vc921",
+  "dc_title_s": "Santa Barbara County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-120.671561, -119.440087, 35.114223, 33.893951)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Barbara County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "land value",
+    "land use",
+    "agriculture",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Santa Barbara County",
+    "Santa Barbara",
+    "Santa Maria",
+    "San Miguel",
+    "Santa Rosa",
+    "Santa Cruz"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:59Z",
+  "layer_id_s": "restricted-figgy:45393535-93ca-4373-991a-5f2a13bfc428",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d92a673-7ae0-4d68-9166-260162eec325\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eed51ddc-ff72-45e5-878e-4107c202f822/file/2ca14b3a-3ad1-4b7b-86f8-56859a8fb67c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45393535-93ca-4373-991a-5f2a13bfc428/file/45f01ab8-0772-4d6c-b447-e64c8823979b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45393535-93ca-4373-991a-5f2a13bfc428/file/95330802-13dd-4520-b2b2-be99ece73622\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kt79j",
+  "layer_slug_s": "princeton-8c97kt79j",
+  "uuid": "princeton-8c97kt79j",
+  "dc_title_s": "Queens County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-73.962649, -73.700192, 40.800995, 40.540213)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Queens County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Queens County",
+    "Queens",
+    "New York",
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:37:49Z",
+  "layer_id_s": "restricted-figgy:7a2e9334-04ad-4f96-871d-569febfd7f28",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/34adbeb3-5d8a-47a4-b571-dee89c8fd4b3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ef85516-549b-4931-a277-13ab78a6f5ad/file/05499422-41b2-4880-a406-fe3d96d669c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a2e9334-04ad-4f96-871d-569febfd7f28/file/2a1913be-e38f-4898-924b-92da8f143d77\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a2e9334-04ad-4f96-871d-569febfd7f28/file/2289cf7f-c096-43f3-8e07-d77d8a5709a1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

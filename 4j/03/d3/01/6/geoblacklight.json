@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d3016",
+  "layer_slug_s": "princeton-4j03d3016",
+  "uuid": "princeton-4j03d3016",
+  "dc_title_s": "Mercer County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-74.941608, -74.481095, 40.424156, 40.136771)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mercer County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Mercer County",
+    "Mercer",
+    "Hamilton",
+    "Trenton",
+    "Ewing",
+    "Lawrence",
+    "Princeton",
+    "Princeton University",
+    "East Windsor",
+    "West Windsor",
+    "Hopewell",
+    "Robbinsville",
+    "Delaware River"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:03:25Z",
+  "layer_id_s": "restricted-figgy:9890e9ef-b056-482a-9094-d959588c6598",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/967e86ce-1d53-4d73-b352-da031a12b82b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d7368e25-520d-437a-8304-c128eb870d63/file/16126c4d-9da4-4a42-982f-1f511fb5093f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9890e9ef-b056-482a-9094-d959588c6598/file/c4510791-ca9e-456a-b645-c57832770267\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9890e9ef-b056-482a-9094-d959588c6598/file/f914cf73-d901-41db-a8cc-2750ef4a883e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

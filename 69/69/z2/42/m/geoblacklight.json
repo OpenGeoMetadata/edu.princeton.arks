@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6969z242m",
+  "layer_slug_s": "princeton-6969z242m",
+  "uuid": "princeton-6969z242m",
+  "dc_title_s": "Netherlands 3-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(3.359959, 7.227495, 53.554903, 50.751288)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Netherlands 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:23Z",
+  "layer_id_s": "restricted-figgy:bc884d91-6227-48c7-bee3-22155245f289",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d09f866a-7f67-4028-a771-85dcfa51bd8b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22f56f79-335a-428a-934e-56459a161440/file/d3b07e9d-705e-408d-8cc9-87761967f61f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc884d91-6227-48c7-bee3-22155245f289/file/329f3e45-91fa-4fbb-84ee-d68bd630f643\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc884d91-6227-48c7-bee3-22155245f289/file/bfc8fbe8-d229-4d23-97d2-cfd349009da4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/70795c08s",
+  "layer_slug_s": "princeton-70795c08s",
+  "uuid": "princeton-70795c08s",
+  "dc_title_s": "Seneca County, Ohio land parcels, 2008",
+  "solr_geom": "ENVELOPE(-83.421249, -82.829512, 41.256889, 40.991894)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Seneca County, Ohio, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Seneca",
+    "Seneca County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:33:53Z",
+  "layer_id_s": "restricted-figgy:d293eccc-63a3-4ca5-84cc-21e108c49b51",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2b7876f9-1b9f-4fda-82a1-1e5fc719a29d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59b704cf-e3a0-439e-b731-53fd286f9ed5/file/c3b9e403-fb16-4396-92fd-a516f86fe599\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d293eccc-63a3-4ca5-84cc-21e108c49b51/file/421cc4b3-6c09-4d2e-b246-026d57783c68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d293eccc-63a3-4ca5-84cc-21e108c49b51/file/ec38ad9a-cb76-4c5d-879c-3fd1a5f7722b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

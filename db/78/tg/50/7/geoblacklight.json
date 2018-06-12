@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/db78tg507",
+  "layer_slug_s": "princeton-db78tg507",
+  "uuid": "princeton-db78tg507",
+  "dc_title_s": "Clallam County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-124.764141, -122.914554, 48.408036, 47.866672)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clallam County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Clallam",
+    "Clallam County",
+    "Olympic Peninsula",
+    "Olympic National Park",
+    "Olympic National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:20Z",
+  "layer_id_s": "restricted-figgy:f5eea330-fce3-4f41-8b70-286c6e12ee80",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/00c6bcd6-ee2a-4410-9afa-f024328aa054\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a44dc012-8ed1-497c-9d88-f8152bc26e5f/file/256c7f01-03fa-4439-97d6-a25860a98682\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5eea330-fce3-4f41-8b70-286c6e12ee80/file/8e0237e5-fd69-4288-a2b7-af8322b088b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5eea330-fce3-4f41-8b70-286c6e12ee80/file/49a677f1-35bf-4586-a26d-77c9c4462051\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

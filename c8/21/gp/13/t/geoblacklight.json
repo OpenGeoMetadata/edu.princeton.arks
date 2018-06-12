@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gp13t",
+  "layer_slug_s": "princeton-c821gp13t",
+  "uuid": "princeton-c821gp13t",
+  "dc_title_s": "Vigo County, Indiana roads, 2014",
+  "solr_geom": "ENVELOPE(-87.614997, -87.19911, 39.608259, 39.258993)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Vigo County, Indiana, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Vigo",
+    "Vigo County",
+    "Indiana",
+    "Terre Haute"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:52:52Z",
+  "layer_id_s": "restricted-figgy:354d3d31-3818-4934-a8d4-3ab38a7e2b56",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/606e6d4a-c072-4285-92f6-721b87431e9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4658822-be9c-4ef5-85fe-25074f066f52/file/c591bc43-7767-4c0f-91bf-5374d1c552c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/354d3d31-3818-4934-a8d4-3ab38a7e2b56/file/2d2af632-8813-4e2f-930d-02903381d9c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/354d3d31-3818-4934-a8d4-3ab38a7e2b56/file/092e1d09-e7fa-464e-ae58-4354bd76892c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

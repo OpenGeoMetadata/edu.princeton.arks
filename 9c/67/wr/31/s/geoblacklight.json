@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9c67wr31s",
+  "layer_slug_s": "princeton-9c67wr31s",
+  "uuid": "princeton-9c67wr31s",
+  "dc_title_s": "Glascock County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.755926, -82.432157, 33.327178, 33.115553)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Glascock County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Glascock",
+    "Glascock County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:38Z",
+  "layer_id_s": "restricted-figgy:70e3c493-7f9f-408d-b9ab-44675a60ae6d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/85a783c4-fd29-4921-b353-426d3d2a54db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f467c930-78a2-4ce3-9e07-39095f9a2a2a/file/13ad41c9-ad87-482d-a094-13f51eaa1e2d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70e3c493-7f9f-408d-b9ab-44675a60ae6d/file/73fcb48f-1b40-4e22-8782-eea25c0cccde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70e3c493-7f9f-408d-b9ab-44675a60ae6d/file/0cf78918-a293-4c35-bcaf-b0000e28ce61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

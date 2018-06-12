@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ht24wn87f",
+  "layer_slug_s": "princeton-ht24wn87f",
+  "uuid": "princeton-ht24wn87f",
+  "dc_title_s": "Sampson County, North Carolina land parcels, 2010",
+  "solr_geom": "ENVELOPE(-78.672216, -78.113078, 35.315338, 34.552784)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sampson County, North Carolina, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Sampson",
+    "Sampson County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T00:33:36Z",
+  "layer_id_s": "restricted-figgy:6d86f4c4-fee9-46e3-8f35-ece5538ae04f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e2f5beee-9fbb-4cc5-9e1a-1281ca0725ba\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/96160c81-b5f9-42f3-8f5b-95508835f018/file/ba947039-0da6-4bea-9e41-c14a54895b3b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d86f4c4-fee9-46e3-8f35-ece5538ae04f/file/b9e0c37b-fc7f-4e5a-9df2-99896cc6d803\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d86f4c4-fee9-46e3-8f35-ece5538ae04f/file/9248c808-8867-4739-86b8-b575a64e88fb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

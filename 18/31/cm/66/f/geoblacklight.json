@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cm66f",
+  "layer_slug_s": "princeton-1831cm66f",
+  "uuid": "princeton-1831cm66f",
+  "dc_title_s": "Warren County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-75.203429, -74.769425, 41.094457, 40.592268)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Warren County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Warren",
+    "Warren County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:36:12Z",
+  "layer_id_s": "restricted-figgy:d2dcc98b-747d-4ed5-944b-5e694a7eaae9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c047a73-7b5d-4ee4-82a5-2646dd0fe1c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fdd9ea36-d70b-4ded-ac10-5ce4165ab218/file/fdb5d4aa-15e6-4b9f-aa9a-249efbb09ea9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2dcc98b-747d-4ed5-944b-5e694a7eaae9/file/e03ecda6-b434-4e1a-903e-7f8467f8cd35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2dcc98b-747d-4ed5-944b-5e694a7eaae9/file/2a06f70b-a6c1-463f-ab13-8e73a4806c23\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

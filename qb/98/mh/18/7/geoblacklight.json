@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mh187",
+  "layer_slug_s": "princeton-qb98mh187",
+  "uuid": "princeton-qb98mh187",
+  "dc_title_s": "Utah Tracts 2002",
+  "solr_geom": "ENVELOPE(-114.052999, -109.041059, 42.001618, 36.997905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Utah Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Utah.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Utah"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:44:54Z",
+  "layer_id_s": "restricted-figgy:118bb435-f017-4857-b423-156c8baf93fb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a376a45f-b207-4495-9f62-56339cc14972\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cc921f94-e31f-4154-ab4c-7906cc46f1d3/file/31e6a322-472b-4d48-80ee-7fad885d2e35\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/118bb435-f017-4857-b423-156c8baf93fb/file/7c87a471-ac74-49ca-b3e8-4a06144d8c25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/118bb435-f017-4857-b423-156c8baf93fb/file/d585cafc-c1a8-47af-88cb-a9606a3e3a8c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

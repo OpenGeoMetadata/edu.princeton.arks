@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4t64gp87w",
+  "layer_slug_s": "princeton-4t64gp87w",
+  "uuid": "princeton-4t64gp87w",
+  "dc_title_s": "Rhode Island Major Roads 2002",
+  "solr_geom": "ENVELOPE(-71.907259, -71.126246, 42.018498, 41.101837)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Rhode Island Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Rhode Island.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:49:38Z",
+  "layer_id_s": "restricted-figgy:fdce142c-88b8-4c44-9e07-646b590e9d29",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/309dacb1-334d-46db-b4f8-2090a3b69232\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bdaef051-2406-4787-bc23-ac071d4185b7/file/3c90138c-c8f3-4bcc-a118-e13aae0c01f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fdce142c-88b8-4c44-9e07-646b590e9d29/file/3a61924f-cedf-413a-b119-bed828ef9fde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdce142c-88b8-4c44-9e07-646b590e9d29/file/7154e9b0-efa5-4f5f-a270-982418a00c3b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

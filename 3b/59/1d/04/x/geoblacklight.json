@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3b591d04x",
+  "layer_slug_s": "princeton-3b591d04x",
+  "uuid": "princeton-3b591d04x",
+  "dc_title_s": "Spencer County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.268779, -86.765042, 38.205123, 37.782419)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Spencer County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Spencer",
+    "Spencer County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:10Z",
+  "layer_id_s": "restricted-figgy:b8797d00-41d5-475e-b65b-b735769a2857",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6cae61db-6e3e-47fe-8202-9b845bd3c2ad\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b1c25d3f-eefb-42ec-8fec-9639df9e80e6/file/6a552403-993a-4abe-97c4-252d18b25a9e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8797d00-41d5-475e-b65b-b735769a2857/file/e9b85e00-dbad-4f2f-9a13-57f3ee7ef32a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8797d00-41d5-475e-b65b-b735769a2857/file/42aa13d2-e558-4b0e-9c7c-3a471a7537b9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

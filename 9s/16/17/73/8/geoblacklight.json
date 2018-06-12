@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s1617738",
+  "layer_slug_s": "princeton-9s1617738",
+  "uuid": "princeton-9s1617738",
+  "dc_title_s": "Norway Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(5.209094, 31.094973, 70.99469, 58.098721)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Norway major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:32Z",
+  "layer_id_s": "restricted-figgy:7a9a1cf0-0d1d-48a7-bf5e-597f6778cead",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/19732ead-e268-4d10-8f4f-b8274c883b51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/20fc4481-b979-41ce-ad60-6c9a9ea3b626/file/0a766ec6-3bee-441c-911d-3528e98c8387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a9a1cf0-0d1d-48a7-bf5e-597f6778cead/file/217e6d91-e944-496c-8345-e44a5e800f0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a9a1cf0-0d1d-48a7-bf5e-597f6778cead/file/196a8d1f-46e3-4b4d-82e1-900c6bdc60ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

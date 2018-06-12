@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gf430",
+  "layer_slug_s": "princeton-t435gf430",
+  "uuid": "princeton-t435gf430",
+  "dc_title_s": "Texas ZIP Code Areas 2002",
+  "solr_geom": "ENVELOPE(-106.645504, -93.508131, 36.500689, 25.837223)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Texas ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T01:16:50Z",
+  "layer_id_s": "restricted-figgy:d2fb0ba9-92ec-4cda-b75c-002162b43179",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d5189a6b-d320-4854-a21e-3e68889f1539\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ee098b04-be24-4bc1-9194-e6e06f770325/file/03a039f8-a75b-4515-b3e0-0a7468247cbd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2fb0ba9-92ec-4cda-b75c-002162b43179/file/100a83d4-c745-4303-8b05-4702e1dc842e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2fb0ba9-92ec-4cda-b75c-002162b43179/file/fb704af0-7a54-4900-8a92-bac20e191eb9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

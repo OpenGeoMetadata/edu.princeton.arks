@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xz46h",
+  "layer_slug_s": "princeton-n583xz46h",
+  "uuid": "princeton-n583xz46h",
+  "dc_title_s": "Saratoga County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-74.159728, -73.573858, 43.397635, 42.7759)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Saratoga County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Saratoga",
+    "Saratoga County",
+    "Albany",
+    "Hudson River"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:16Z",
+  "layer_id_s": "restricted-figgy:13053f1d-92ec-4f01-b28c-442a433bf854",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8987eb56-2346-471b-b84c-fa273f78fb38\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5f9a1a62-f314-41c2-badf-0c9e3da8cb9e/file/0cbe3b71-88dc-48f0-ac89-45ef5be234d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13053f1d-92ec-4f01-b28c-442a433bf854/file/6130f377-2b8b-422a-9dde-5fd7d74fda5b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13053f1d-92ec-4f01-b28c-442a433bf854/file/7a401822-abe6-4e07-957f-ac5e7f4f79f4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

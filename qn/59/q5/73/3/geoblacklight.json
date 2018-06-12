@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qn59q5733",
+  "layer_slug_s": "princeton-qn59q5733",
+  "uuid": "princeton-qn59q5733",
+  "dc_title_s": "U.S. National Transportation Atlas Major Road Net 2002",
+  "solr_geom": "ENVELOPE(-158.090074, -67.075209, 62.145207, 21.277505)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Transportation Atlas Major Road Net represents rural interstates and arteries; and urban freeways, expressways, interstates, and arteries. U.S. National Transportation Atlas Major Road Net is part of the National Highway Planning Network version 2.1 published by the Bureau of Transportation Statistics as part of the National Transportation Atlas Databases for the United States.",
+  "dc_creator_sm": [
+    "Bureau of Transportation Statistics",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "interstates",
+    "arteries",
+    "freeways or expressways",
+    "network routes",
+    "rural",
+    "urban",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1997",
+    "1992–1996",
+    "1978"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:49:54Z",
+  "layer_id_s": "restricted-figgy:127098a7-9683-46d8-8783-37b215251983",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/75427efa-cd94-40cc-bdd4-33cf392b5664\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33a10b1a-a7a7-4502-88b5-eaa57a19cc6d/file/31f2f654-ec24-4679-ada4-04fca76fda7d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/127098a7-9683-46d8-8783-37b215251983/file/f422bf0c-9754-4464-9261-365ed2340128\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/127098a7-9683-46d8-8783-37b215251983/file/4f31e8e2-507c-4629-9405-00d1b446af6a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

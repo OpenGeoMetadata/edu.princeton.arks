@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cj82kb64z",
+  "layer_slug_s": "princeton-cj82kb64z",
+  "uuid": "princeton-cj82kb64z",
+  "dc_title_s": "Lee County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-79.359777, -78.97033, 35.627903, 35.307099)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lee County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Lee",
+    "Lee County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T21:57:11Z",
+  "layer_id_s": "restricted-figgy:aaf5a11f-da7b-4bf6-8423-0b48db9b26ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b0257bb-70c5-476f-baef-dd397bbd5809\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7b00b1f9-fa61-4db2-ad10-32938986cac0/file/ea34333a-28d9-45b5-8d0b-d8e638ff7249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aaf5a11f-da7b-4bf6-8423-0b48db9b26ae/file/4017f740-174c-41e9-a70f-a0fa1072488c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aaf5a11f-da7b-4bf6-8423-0b48db9b26ae/file/47e19c28-a5c0-49b9-9609-a6fc3eaa57e0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

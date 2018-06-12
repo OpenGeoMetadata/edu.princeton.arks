@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b5644t02z",
+  "layer_slug_s": "princeton-b5644t02z",
+  "uuid": "princeton-b5644t02z",
+  "dc_title_s": "Nigeria state boundaries",
+  "solr_geom": "ENVELOPE(2.66843, 14.68007, 13.89201, 4.27714)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "State-level administrative boundaries of Nigeria in .shp format.",
+  "dc_creator_sm": [
+    "Kontex Geomatics"
+  ],
+  "dc_subject_sm": [
+    "states",
+    "state",
+    "Boundaries",
+    "boundary",
+    "administrative boundaries",
+    "administrative divisions",
+    "area",
+    "population",
+    "male",
+    "female",
+    "households",
+    "LGA",
+    "local government area"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:34Z",
+  "layer_id_s": "restricted-figgy:75965273-cfb9-4b87-be23-a80f8e85351d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ccf84abc-90bc-43d6-b4bd-1eaea590ab70\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9ad4afef-aea7-479c-a9e5-94e1fa4094a5/file/066882d8-3f15-4f65-8a2c-cd2c67315c30\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75965273-cfb9-4b87-be23-a80f8e85351d/file/2aab0862-7524-4a15-91fa-9b0d1e05e428\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75965273-cfb9-4b87-be23-a80f8e85351d/file/0d9f9fb0-209b-4cf1-a805-11eec36f173c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

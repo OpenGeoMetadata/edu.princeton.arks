@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fs371",
+  "layer_slug_s": "princeton-c534fs371",
+  "uuid": "princeton-c534fs371",
+  "dc_title_s": "Millard County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-114.049406, -112.016086, 39.554102, 38.57208)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Millard County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Millard",
+    "Millard County",
+    "Utah",
+    "Sevier Lake",
+    "Fishlake National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:12Z",
+  "layer_id_s": "restricted-figgy:0bbe99f2-0cab-4100-a828-e8913b2c6690",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/17bbcb99-726b-46ff-af1a-7ef514648120\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7c0e0fe7-2055-4da7-bba3-9b83bc0c5288/file/ed3b37e1-6f01-4d09-991d-434d3e5d95bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0bbe99f2-0cab-4100-a828-e8913b2c6690/file/ae58f4d9-d245-424c-bbca-9c3c101853ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0bbe99f2-0cab-4100-a828-e8913b2c6690/file/f4d29a13-5d77-4f6d-a419-9a032e72ddd9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

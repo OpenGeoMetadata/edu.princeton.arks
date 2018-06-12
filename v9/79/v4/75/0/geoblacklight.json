@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v979v4750",
+  "layer_slug_s": "princeton-v979v4750",
+  "uuid": "princeton-v979v4750",
+  "dc_title_s": "Berlin roads, streets and railroads.",
+  "solr_geom": "ENVELOPE(13.131836, 13.65684, 52.649713, 52.362929)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Berlin street, road and railroad data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets",
+    "Railroads"
+  ],
+  "dct_spatial_sm": [
+    "Berlin",
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:33Z",
+  "layer_id_s": "restricted-figgy:16bad194-f81d-4e2e-ad4e-24f4ccbd109b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a3dfb6c6-dc49-49d2-9bcb-39bab0999138\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7a2737f0-b5c7-42de-a606-496aa6243c10/file/6799f55b-3a84-4b3c-ba95-71be36d8fefd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16bad194-f81d-4e2e-ad4e-24f4ccbd109b/file/8542b66d-ca55-4bf6-a364-a775961c9060\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16bad194-f81d-4e2e-ad4e-24f4ccbd109b/file/9ed8d6bb-3ab6-4138-811c-629d9a31c611\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

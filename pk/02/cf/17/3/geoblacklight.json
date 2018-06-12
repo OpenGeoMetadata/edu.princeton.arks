@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cf173",
+  "layer_slug_s": "princeton-pk02cf173",
+  "uuid": "princeton-pk02cf173",
+  "dc_title_s": "Iowa County, Iowa land parcels, 2014",
+  "solr_geom": "ENVELOPE(-92.299975, -91.826886, 41.863193, 41.509881)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Iowa County, Iowa, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Iowa County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:33Z",
+  "layer_id_s": "restricted-figgy:efee4dc0-e312-412b-8e60-e55852f60899",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac726291-004e-4d0f-9771-1b94666b6ed1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2686caca-6813-4c0f-9091-ed6327b60f9f/file/a6bfb1cb-55d8-4190-8586-57e8f02f0ea5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/efee4dc0-e312-412b-8e60-e55852f60899/file/cd490b87-2388-4a24-b675-1b15e9efa6c6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/efee4dc0-e312-412b-8e60-e55852f60899/file/3a8d7cd8-cf5d-4122-89e8-a78339b08662\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

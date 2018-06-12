@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g158bm917",
+  "layer_slug_s": "princeton-g158bm917",
+  "uuid": "princeton-g158bm917",
+  "dc_title_s": "New York City Open Space 2004",
+  "solr_geom": "ENVELOPE(-74.268667, -73.707281, 40.920486, 40.495738)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "The \"Open_space\" dataset is a polygon representation of New York City parks and open space. The data is comprised of polygon geometries with attribute information. Feature classifications include: \r\n1.\tBall fields within park,\r\n2.\tCemetery Outline,\r\n3.\tHard surface courts within park,\r\n4.\tParking areas within park,\r\n5.\tPlaygrounds within park,\r\n6.\tPools within park,\r\n7.\tRecreational area over 2 acres,\r\n8.\tSkating rinks within park.\r\n",
+  "dc_creator_sm": [
+    "New York City Department of Information and Technology."
+  ],
+  "dc_subject_sm": [
+    "New York City Open Space, Cemetery Outline, Recreational area over 2 acres, Ball fields within park, Hard surface courts within park, Playgrounds within park, Pools within park, Skating rinks within park and Parking areas within park."
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-06-05T23:08:37Z",
+  "layer_id_s": "public-figgy:d942a0a2-6838-4c49-9f40-2642e83ad837",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0aafa01b-7e1f-42de-b093-2a015fe1a039\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ea802d0-6047-4a4d-af7e-347b0e99b2a6/file/eede3a92-65d2-4414-bab3-9ad83b1ee51f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d942a0a2-6838-4c49-9f40-2642e83ad837/file/a9caa8ea-df53-4354-b029-56476001e6fa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d942a0a2-6838-4c49-9f40-2642e83ad837/file/7b3d695b-1d4f-4dac-a7a8-1cf1c8407175\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

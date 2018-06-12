@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dt71g",
+  "layer_slug_s": "princeton-c247dt71g",
+  "uuid": "princeton-c247dt71g",
+  "dc_title_s": "Trenton Fire Department Districts",
+  "solr_geom": "ENVELOPE(-74.819202, -74.728687, 40.248589, 40.183711)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "\nThis dataset represents Fire Department Districts for the City of Trenton, New Jersey\n",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "City of Trenton",
+  "dc_subject_sm": [
+    "Fire district",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T02:59:59Z",
+  "layer_id_s": "restricted-figgy:265b2770-ac48-4473-8d94-6b24df520add",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ea6f572-4989-45aa-9b30-70f265b2534e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dea60de5-4646-4b49-90ae-d3ab4b3b3407/file/924128e2-9f10-4581-852f-69e86b7d7671\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/265b2770-ac48-4473-8d94-6b24df520add/file/92752256-fd14-4c2a-9849-959405927cf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/265b2770-ac48-4473-8d94-6b24df520add/file/e455585b-3d3a-4dd3-84f0-ea4f36464b8e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

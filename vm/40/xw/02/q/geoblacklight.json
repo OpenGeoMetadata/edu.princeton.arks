@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xw02q",
+  "layer_slug_s": "princeton-vm40xw02q",
+  "uuid": "princeton-vm40xw02q",
+  "dc_title_s": "Coos County, Oregon land parcels, 2014",
+  "solr_geom": "ENVELOPE(-124.480955, -123.702066, 43.611462, 42.666684)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Coos County, Oregon, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Coos County",
+    "Coos"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:02Z",
+  "layer_id_s": "restricted-figgy:6314d688-34a1-4f88-b6aa-564e701a6b08",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4bd1eab9-486e-4762-b12c-2107c07fa562\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6d22d0c3-5dc7-4309-b7d4-1dfa10864b92/file/bb033c77-6618-4c8e-b87a-e22f0c1c001c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6314d688-34a1-4f88-b6aa-564e701a6b08/file/e128583a-e932-482a-83de-01d0ab545a7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6314d688-34a1-4f88-b6aa-564e701a6b08/file/a303fb12-052f-4eda-ba67-264f78824f0f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

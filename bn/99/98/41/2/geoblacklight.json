@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bn9998412",
+  "layer_slug_s": "princeton-bn9998412",
+  "uuid": "princeton-bn9998412",
+  "dc_title_s": "Orange County, New York roads, 2007",
+  "solr_geom": "ENVELOPE(-74.756111, -73.952224, 41.628095, 41.145766)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Orange County, New York, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Orange",
+    "Orange County",
+    "Hudson Valley"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:38:06Z",
+  "layer_id_s": "restricted-figgy:5666e73e-9395-4f68-8eff-d63de2f72016",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/00fb5874-1521-4090-9aae-202721f2f540\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1dbdd5ae-3a3a-45df-a1aa-cbce759600c5/file/e06f163f-0dea-4321-a72c-444f46b7f5be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5666e73e-9395-4f68-8eff-d63de2f72016/file/face7e8b-31c7-4280-900e-bb1f6a115612\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5666e73e-9395-4f68-8eff-d63de2f72016/file/8f87cc86-f29f-4896-8ea5-fa2ccbc06271\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

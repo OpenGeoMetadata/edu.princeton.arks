@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55z918b",
+  "layer_slug_s": "princeton-rf55z918b",
+  "uuid": "princeton-rf55z918b",
+  "dc_title_s": "Oklahoma Major Roads 2002",
+  "solr_geom": "ENVELOPE(-103.002488, -94.432115, 37.001615, 33.66336)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Oklahoma Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Oklahoma.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Oklahoma"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:59:53Z",
+  "layer_id_s": "restricted-figgy:a0c7d415-1fe4-4d88-9cb3-c3d6c081d560",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7c98b281-0cea-424d-93e6-f86a7b1a6f7d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71a4856a-201e-4293-b2de-592597bb5cdc/file/b636af1d-aa3c-477f-a530-5f9b421e9a3b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a0c7d415-1fe4-4d88-9cb3-c3d6c081d560/file/79fee2ad-1739-494c-a167-f3823f9d0bd4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a0c7d415-1fe4-4d88-9cb3-c3d6c081d560/file/bc2929c4-0aa2-4027-a9ba-4ba5444796f4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t517k",
+  "layer_slug_s": "princeton-2n49t517k",
+  "uuid": "princeton-2n49t517k",
+  "dc_title_s": "Bergen County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.272118, -73.902466, 41.134256, 40.762358)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bergen County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bergen",
+    "Bergen County",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:55Z",
+  "layer_id_s": "restricted-figgy:ea7f573b-1fa2-44c8-a215-74d9b3faa10a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fa23da6-26a4-4066-8e8d-37826addaf17\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/511b0a9a-26b8-4281-bcb4-5bdba9a91cf2/file/f61c5002-6c92-48fe-a4de-de8600290b43\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea7f573b-1fa2-44c8-a215-74d9b3faa10a/file/8912e05f-f3de-4d22-ba6a-0af45092a82f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea7f573b-1fa2-44c8-a215-74d9b3faa10a/file/dc4fc322-1872-4394-9632-7bc47af193d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

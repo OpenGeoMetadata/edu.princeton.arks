@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cm700",
+  "layer_slug_s": "princeton-1831cm700",
+  "uuid": "princeton-1831cm700",
+  "dc_title_s": "Sweden Major Ice and Snow Fields, 2005",
+  "solr_geom": "ENVELOPE(16.10043, 18.110111, 68.10173, 67.08361)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the major ice and snow fields of Sweden created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "ice fields",
+    "snow fields",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:24Z",
+  "layer_id_s": "restricted-figgy:ad7d3da6-0c28-445b-b679-ce930984ddd4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/183c967a-0ac2-47a5-a32d-06c46d61afda\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2dd03892-5ab4-4a72-bc4f-743c7c326473/file/f22d2463-0127-4171-b045-d13b79fd498d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad7d3da6-0c28-445b-b679-ce930984ddd4/file/32c4b640-db4d-40ef-b546-12392da31b8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad7d3da6-0c28-445b-b679-ce930984ddd4/file/96c7c436-593b-4c0a-ade0-7f69d8835225\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

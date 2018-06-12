@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397b00n",
+  "layer_slug_s": "princeton-sb397b00n",
+  "uuid": "princeton-sb397b00n",
+  "dc_title_s": "New York Block Groups 2002",
+  "solr_geom": "ENVELOPE(-79.762153, -71.85615, 45.015851, 40.495908)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New York Block Groups represents the U.S. Census block groups of New York.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:33Z",
+  "layer_id_s": "restricted-figgy:582df54f-b739-472d-bdc7-7e65dc996765",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/83a07a02-2334-4d03-b493-9a5b7d9ac926\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6107ce47-d5c8-439d-bf59-7bf90fc4f1ca/file/1dbe8acb-8af3-4b2c-8735-d1dd96748b9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/582df54f-b739-472d-bdc7-7e65dc996765/file/21ff94d9-5e21-4342-b1f1-67cc73e8ad2a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/582df54f-b739-472d-bdc7-7e65dc996765/file/6da9dee5-28b9-4dc9-80d1-04e4766251f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

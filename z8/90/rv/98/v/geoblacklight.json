@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z890rv98v",
+  "layer_slug_s": "princeton-z890rv98v",
+  "uuid": "princeton-z890rv98v",
+  "dc_title_s": "Romania Elevations",
+  "solr_geom": "ENVELOPE(20.264495, 29.719604, 48.265073, 43.618237)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Romania created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:04Z",
+  "layer_id_s": "restricted-figgy:d567cbe7-843c-4760-a64a-b2c954b03832",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b5ebc9ce-d831-4823-8643-7fe84cae2162\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/49681450-c6f2-4119-a416-429385a0bf77/file/7d69ac7d-3d9a-4624-9235-bfbaa4ceaf9e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d567cbe7-843c-4760-a64a-b2c954b03832/file/94b6600a-66b2-4505-92a4-65912004e56c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d567cbe7-843c-4760-a64a-b2c954b03832/file/86a1b411-70c7-4117-a43c-b25bc9bf18e3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

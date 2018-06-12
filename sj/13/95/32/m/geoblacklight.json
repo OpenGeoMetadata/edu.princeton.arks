@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj139532m",
+  "layer_slug_s": "princeton-sj139532m",
+  "uuid": "princeton-sj139532m",
+  "dc_title_s": "Cowlitz County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.218373, -122.239482, 46.388044, 45.854994)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cowlitz County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Cowlitz",
+    "Cowlitz County",
+    "Columbia River"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:20:22Z",
+  "layer_id_s": "restricted-figgy:ddf82f94-7dcc-4229-b0c0-6239d3c5423d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aaeb26e6-536e-485e-9a0b-84a2e61ffd19\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b8246a34-17a8-4b5b-8454-1c058a4033f6/file/a1d401e1-aa50-4879-972b-654665ac63d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddf82f94-7dcc-4229-b0c0-6239d3c5423d/file/03bcc781-527a-4b72-874c-bb9a695070af\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddf82f94-7dcc-4229-b0c0-6239d3c5423d/file/60e65df7-53d5-4334-8627-b258d6578502\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

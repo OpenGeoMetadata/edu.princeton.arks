@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rx913t25s",
+  "layer_slug_s": "princeton-rx913t25s",
+  "uuid": "princeton-rx913t25s",
+  "dc_title_s": "Nueces County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-97.941331, -97.046784, 27.995345, 27.558496)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nueces County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Newton County",
+    "Newton",
+    "Texas",
+    "Corpus Christi"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:06:57Z",
+  "layer_id_s": "restricted-figgy:94e4d06d-7e4d-4390-9892-634a79d73e6c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/62ad3d35-5545-4bf5-81a1-f274690044e9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f94a9ff4-424a-499d-9d25-865005477e42/file/35551b7b-386b-4e75-a0f1-d0440e45458d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94e4d06d-7e4d-4390-9892-634a79d73e6c/file/8cecfc23-7227-4cd5-b70b-443255582f5c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94e4d06d-7e4d-4390-9892-634a79d73e6c/file/9bf7be1d-6692-4215-95fe-dc5d297b31de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

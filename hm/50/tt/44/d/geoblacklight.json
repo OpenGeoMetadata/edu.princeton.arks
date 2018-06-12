@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tt44d",
+  "layer_slug_s": "princeton-hm50tt44d",
+  "uuid": "princeton-hm50tt44d",
+  "dc_title_s": "Czech Republic Cities With Population From 5 Thousand To 10 Thousand, 2005",
+  "solr_geom": "ENVELOPE(12.359762, 18.767049, 51.001037, 48.737074)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Czech Republic cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:44Z",
+  "layer_id_s": "restricted-figgy:a11ad5a2-bdf4-4f28-8e97-d988c983c1ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3f8ccfdc-5afa-4f1a-8e64-810224ae0a17\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d1ea49c1-56ea-4c3d-8eed-82ea4c3e0120/file/2388190f-c56b-483f-9c6b-95c71088b1b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a11ad5a2-bdf4-4f28-8e97-d988c983c1ab/file/59e3aeb6-e789-46db-b0bb-3d26b6779848\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a11ad5a2-bdf4-4f28-8e97-d988c983c1ab/file/4e9d23b8-61fb-4405-a0c4-f693a4012bcd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

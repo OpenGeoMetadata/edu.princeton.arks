@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5999n510t",
+  "layer_slug_s": "princeton-5999n510t",
+  "uuid": "princeton-5999n510t",
+  "dc_title_s": "South Korea Major Roads, 1997",
+  "solr_geom": "ENVELOPE(126.399193, 129.458221, 38.551998, 34.53273)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes South Korea major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "South Korea"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:18Z",
+  "layer_id_s": "restricted-figgy:a5349c38-e682-4fd3-8497-8567c877e103",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c341276c-12fd-4315-9f7c-6b672dc2a52f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/296cbad1-dd67-4112-9e5d-485869157a51/file/bc16d9ad-c364-4bdb-a160-67f68408b06e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5349c38-e682-4fd3-8497-8567c877e103/file/be8daa33-2c68-4a9f-aaf3-8d67a00e20bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5349c38-e682-4fd3-8497-8567c877e103/file/407f2eaf-5728-4510-a766-6bf0b18eeca9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

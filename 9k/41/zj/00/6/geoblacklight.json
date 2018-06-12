@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9k41zj006",
+  "layer_slug_s": "princeton-9k41zj006",
+  "uuid": "princeton-9k41zj006",
+  "dc_title_s": "Liberty County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-95.165897, -94.438004, 30.495656, 29.876779)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Liberty County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Liberty",
+    "Liberty County",
+    "Houston"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:13:17Z",
+  "layer_id_s": "restricted-figgy:791b527a-2327-4004-a795-962fcd68f1ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2bd57166-f83c-427d-9682-0b88cda6b157\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bf35b9a-6ed1-43ab-b480-3553e6cec0c7/file/ee7afd63-ba3a-4599-8145-23dd6c38880f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/791b527a-2327-4004-a795-962fcd68f1ee/file/f2eed43f-59b5-40a3-b7f5-fc3eb68ae983\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/791b527a-2327-4004-a795-962fcd68f1ee/file/27925120-48ee-41bf-b23f-f52f7b85ae64\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

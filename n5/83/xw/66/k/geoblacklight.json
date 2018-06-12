@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xw66k",
+  "layer_slug_s": "princeton-n583xw66k",
+  "uuid": "princeton-n583xw66k",
+  "dc_title_s": "Modoc County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-121.457342, -119.998623, 41.997585, 41.183875)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Modoc County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "parcel",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Modoc County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:06:00Z",
+  "layer_id_s": "restricted-figgy:69cddc3c-d673-4ca8-8792-7563076bb710",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd43e291-2aab-4ccc-919f-3ec24d1777c0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/18e20404-a89e-4ffe-a789-e9add7a51507/file/e872a7cd-b069-4571-86b2-872b65908a66\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69cddc3c-d673-4ca8-8792-7563076bb710/file/6b8d9a6c-a352-4116-abe3-f073e16959da\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69cddc3c-d673-4ca8-8792-7563076bb710/file/df614360-853f-474c-95c7-f673ea1f77c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

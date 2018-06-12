@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mg74qq60m",
+  "layer_slug_s": "princeton-mg74qq60m",
+  "uuid": "princeton-mg74qq60m",
+  "dc_title_s": "Clark County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.053875, -83.51243, 40.040195, 39.768435)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clark County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clark",
+    "Clark County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:45Z",
+  "layer_id_s": "restricted-figgy:b3268430-270c-4074-aefd-c6cd49ea3c12",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8618e526-e1df-4066-8e85-305397db2b1d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/30837eb3-4583-4b0c-ac47-ce76f51f76d0/file/3d3ed0c2-bb95-45a2-a7a0-1675b2e96ff4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b3268430-270c-4074-aefd-c6cd49ea3c12/file/0ba46406-5469-4820-88a0-d884d28d84a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b3268430-270c-4074-aefd-c6cd49ea3c12/file/b728c7ca-53a8-458b-9394-22bad6290c63\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p096b31c",
+  "layer_slug_s": "princeton-0p096b31c",
+  "uuid": "princeton-0p096b31c",
+  "dc_title_s": "Henderson County, Tennessee land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.613116, -88.179192, 35.825335, 35.414046)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Henderson County, Tennessee, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Henderson",
+    "Henderson County",
+    "Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:05Z",
+  "layer_id_s": "restricted-figgy:9c52c64c-fd09-40e8-adfc-1f4ab682b6a4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4a282562-40d8-4cff-a3ff-2a64da7c07c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/033914f2-8b1c-41ab-a34d-f3a01707d900/file/658185ce-9fbd-4fd5-bd8e-8acef070135c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c52c64c-fd09-40e8-adfc-1f4ab682b6a4/file/a05033c6-6fe3-4f01-9bde-86c46bf1b89c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c52c64c-fd09-40e8-adfc-1f4ab682b6a4/file/3dbc519d-4c63-42b9-aac1-d8137b3c6d7f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

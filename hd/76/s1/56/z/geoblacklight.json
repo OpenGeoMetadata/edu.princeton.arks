@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hd76s156z",
+  "layer_slug_s": "princeton-hd76s156z",
+  "uuid": "princeton-hd76s156z",
+  "dc_title_s": "Anchorage Borough, Alaska land parcels, 2008",
+  "solr_geom": "ENVELOPE(-150.28461, -148.827014, 61.483944, 60.769111)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Anchorage Borough, Alaska, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "land use",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alaska",
+    "Anchorage",
+    "Anchorage Borough"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:06:51Z",
+  "layer_id_s": "restricted-figgy:e926ba3f-3026-44ff-a2f8-c07c7da19eb2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3c689be9-210a-41c9-b794-9318fbe45018\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ada8270-8395-4aa0-9dcd-80a568124acb/file/6abeae8f-95ca-4020-a996-dfc98a9af6b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e926ba3f-3026-44ff-a2f8-c07c7da19eb2/file/f4914de5-c2b4-4aa5-ad72-226bee1410e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e926ba3f-3026-44ff-a2f8-c07c7da19eb2/file/842529a1-710d-43bd-841a-9553f265483c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848s34z",
+  "layer_slug_s": "princeton-ft848s34z",
+  "uuid": "princeton-ft848s34z",
+  "dc_title_s": "World Lakes 1999",
+  "solr_geom": "ENVELOPE(-124.911781, 110.176537, 67.11203, -16.534355)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Lakes represents the major lakes and inland seas within the world.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "lakes",
+    "seas",
+    "hydrography"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:44:10Z",
+  "layer_id_s": "restricted-figgy:8d13b1b9-d7e9-4c9f-a69f-5ada1979367e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8f3f5b7c-d501-42b5-bec4-3a298f0cb4cf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/90470abd-87e9-42bc-a168-317ca92b2548/file/4db755a0-33b1-4e1a-81d7-75633b700c40\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d13b1b9-d7e9-4c9f-a69f-5ada1979367e/file/93b3bdd1-6890-40bf-adc5-fc9b8da6f43c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d13b1b9-d7e9-4c9f-a69f-5ada1979367e/file/0785ef6b-6888-4aba-a451-c4577c0df103\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

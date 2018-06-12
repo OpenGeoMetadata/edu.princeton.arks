@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6682x559p",
+  "layer_slug_s": "princeton-6682x559p",
+  "uuid": "princeton-6682x559p",
+  "dc_title_s": "Iowa Major Roads 2002",
+  "solr_geom": "ENVELOPE(-96.632593, -90.161144, 43.601265, 40.385594)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Iowa Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Iowa.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:45:05Z",
+  "layer_id_s": "restricted-figgy:0af281ec-f61f-46e1-a645-7cd5c2f17692",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e7ae7e69-09a6-417f-aa19-d394c2ad758b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5cdf362a-21d5-41fa-b64a-082de3d85f3a/file/17a36490-daa3-44de-b369-47a9783820ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0af281ec-f61f-46e1-a645-7cd5c2f17692/file/01fc8df7-0e6d-4e2a-a2a8-852ac9fe9f93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0af281ec-f61f-46e1-a645-7cd5c2f17692/file/0e137492-3666-4066-931d-c627cd9820d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

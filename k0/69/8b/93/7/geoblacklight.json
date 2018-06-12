@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k0698b937",
+  "layer_slug_s": "princeton-k0698b937",
+  "uuid": "princeton-k0698b937",
+  "dc_title_s": "Bronx County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-73.933616, -73.765613, 40.915442, 40.785335)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bronx County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Bronx",
+    "Bronx County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:56Z",
+  "layer_id_s": "restricted-figgy:d4649d23-c5bd-4c0a-acac-c67bbf529260",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0cf3f1b5-68e3-4d28-b2ae-60950f883167\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80a266fa-e2b8-4e6b-85ec-7742bc77e065/file/9bdde6cd-fb69-4e1d-8445-1c26d5c615eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4649d23-c5bd-4c0a-acac-c67bbf529260/file/cc5fc256-7f97-48fc-81f5-44d9d263f4e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4649d23-c5bd-4c0a-acac-c67bbf529260/file/86c8b1eb-0e76-4bac-bce5-ee649527b6e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

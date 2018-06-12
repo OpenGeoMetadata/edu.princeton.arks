@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6108vf67x",
+  "layer_slug_s": "princeton-6108vf67x",
+  "uuid": "princeton-6108vf67x",
+  "dc_title_s": "Monongalia County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.42123, -79.755121, 39.722162, 39.438204)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monongalia County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Monongalia",
+    "Monongalia County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:48:42Z",
+  "layer_id_s": "restricted-figgy:6e051079-1b43-4779-bdaf-6da0ed45ab54",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c24808aa-e090-4477-8d42-289d9b5cd13b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eb1d2e3e-b454-4b60-be23-739f6a9bb68a/file/a781a12a-6f14-4c57-a236-c00bf58c5178\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e051079-1b43-4779-bdaf-6da0ed45ab54/file/bae9ff68-098c-42f0-b21a-d354496d8030\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e051079-1b43-4779-bdaf-6da0ed45ab54/file/4b75939d-2dee-4bc3-bb6e-6c05456b7425\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

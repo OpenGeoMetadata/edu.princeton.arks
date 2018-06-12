@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cp43x",
+  "layer_slug_s": "princeton-1831cp43x",
+  "uuid": "princeton-1831cp43x",
+  "dc_title_s": "Nash County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.257227, -77.698145, 36.203144, 35.727737)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nash County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nash",
+    "Nash County",
+    "North Carolina",
+    "Rocky Mount"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:03Z",
+  "layer_id_s": "restricted-figgy:de3dad38-123c-489d-a62c-ab7bfb0efd4b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/25ce88c7-1ee9-4da8-96cd-939bb59df913\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04982c33-b6c8-4747-a89c-7577b9e2c9b3/file/ab043b6e-d9b3-43dd-9dcd-6ae017afbb55\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/de3dad38-123c-489d-a62c-ab7bfb0efd4b/file/cd7aa8c1-630d-43ea-bfab-5da740956b71\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/de3dad38-123c-489d-a62c-ab7bfb0efd4b/file/df171b10-63a5-42be-9213-72d1414dc585\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

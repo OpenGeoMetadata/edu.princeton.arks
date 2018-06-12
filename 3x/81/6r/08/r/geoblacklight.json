@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816r08r",
+  "layer_slug_s": "princeton-3x816r08r",
+  "uuid": "princeton-3x816r08r",
+  "dc_title_s": "Orange County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-79.271297, -78.95068, 36.250592, 35.856561)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Orange County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Orange",
+    "Orange County",
+    "Chapel Hill",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:54Z",
+  "layer_id_s": "restricted-figgy:9170d0b9-d737-48d9-b675-d0d82d3e39c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc83a5cf-0dcb-410c-9670-65dcd623bf31\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c551f75c-733f-4842-b3f1-f5a97933f0ff/file/86950cd0-41b0-4c84-a470-fc6ff786f663\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9170d0b9-d737-48d9-b675-d0d82d3e39c7/file/d24c304a-858b-49d6-8504-786297400de4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9170d0b9-d737-48d9-b675-d0d82d3e39c7/file/0bd7ab8f-e1d9-43be-a04e-f6ab49cdf176\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

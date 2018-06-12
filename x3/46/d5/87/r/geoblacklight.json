@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d587r",
+  "layer_slug_s": "princeton-x346d587r",
+  "uuid": "princeton-x346d587r",
+  "dc_title_s": "Romania 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(20.264495, 29.719604, 48.265073, 43.618237)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:15:59Z",
+  "layer_id_s": "restricted-figgy:e615cc00-acd3-4ca0-a568-b88995bb9dac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/78a39bfb-4802-4f69-8260-1e1638000734\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c7e1470b-c5cb-4f3d-89be-ed0c1b61d05d/file/53cd8e96-addf-4b23-bd6e-324292480446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e615cc00-acd3-4ca0-a568-b88995bb9dac/file/ad6727b3-b05f-4a82-9aa1-d856089f3ca8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e615cc00-acd3-4ca0-a568-b88995bb9dac/file/5e31d366-ed4d-4b84-ab01-399c44273ca8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2f75r974m",
+  "layer_slug_s": "princeton-2f75r974m",
+  "uuid": "princeton-2f75r974m",
+  "dc_title_s": "Italy Elevations",
+  "solr_geom": "ENVELOPE(6.627059, 18.520342, 47.092139, 36.650169)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Italy created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:10Z",
+  "layer_id_s": "restricted-figgy:04a2b8e3-51c6-403b-94df-aa426618ad9b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c3f7635-6d0c-4491-9f04-e079960ec61b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea57de62-db00-4931-84cc-409af835e223/file/a6098f02-c725-433a-9ec5-7d70d1c68642\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04a2b8e3-51c6-403b-94df-aa426618ad9b/file/45af650e-ca61-44fd-aee6-809152d66f58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04a2b8e3-51c6-403b-94df-aa426618ad9b/file/63fab33c-f49c-4f06-8f8b-f4898ce755fb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

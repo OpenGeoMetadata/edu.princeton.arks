@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g1274",
+  "layer_slug_s": "princeton-x920g1274",
+  "uuid": "princeton-x920g1274",
+  "dc_title_s": "Tuolumne County, California roads, 2012",
+  "solr_geom": "ENVELOPE(-120.639469, -119.622718, 38.432085, 37.624137)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in portions of Tuolumne County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Tuolumne",
+    "Tuolumne County",
+    "California",
+    "Sierra Nevada",
+    "Stanislaus National Forest",
+    "Yosemite National Park"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:43Z",
+  "layer_id_s": "restricted-figgy:300816c2-1419-45a8-8b6a-5e721fb8c4f1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/803969a2-bf7a-48fd-a9c8-ad054af1f3d4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cec0323b-589e-4a0f-a581-0cd09240e0b8/file/9b7af2d8-cf26-440d-b68c-d2d646422837\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/300816c2-1419-45a8-8b6a-5e721fb8c4f1/file/32dd6815-b27b-4695-b654-e32b566e92a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/300816c2-1419-45a8-8b6a-5e721fb8c4f1/file/ffd862ba-c1b7-401a-9b38-e020fd231e5b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

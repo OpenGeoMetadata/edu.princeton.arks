@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n870zs29v",
+  "layer_slug_s": "princeton-n870zs29v",
+  "uuid": "princeton-n870zs29v",
+  "dc_title_s": "Sutter County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-121.948216, -121.414543, 39.305395, 38.734775)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sutter County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "value",
+    "land value",
+    "land use",
+    "zone",
+    "zones",
+    "zoning",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Sutter County",
+    "Sacramento"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:47:37Z",
+  "layer_id_s": "restricted-figgy:e638d6cf-ef2d-410f-b955-2252cade94de",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5f771ed4-12c6-41ca-9887-f61cffdcf912\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81cd9341-9278-454f-9552-59271902e1d3/file/9144d1fe-93dd-4c27-875d-7e9d9ad84e95\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e638d6cf-ef2d-410f-b955-2252cade94de/file/d5b1dc9d-3b8b-4f9a-bc99-435c958add61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e638d6cf-ef2d-410f-b955-2252cade94de/file/77f621d6-ab6e-49cf-bed4-050d0854c0ba\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

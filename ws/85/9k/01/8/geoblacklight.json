@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859k018",
+  "layer_slug_s": "princeton-ws859k018",
+  "uuid": "princeton-ws859k018",
+  "dc_title_s": "Macon County, Missouri land parcels, 2010",
+  "solr_geom": "ENVELOPE(-92.8577, -92.287879, 40.038287, 39.605472)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Macon County, Missouri land parcels, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Macon",
+    "Macon County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:04:53Z",
+  "layer_id_s": "restricted-figgy:0e06f8c0-ade2-45e6-a104-8254bdeddbab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/adc86dd0-49fd-4c1c-aa76-189a56041751\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f61d9462-d48c-4732-9f80-251f60f01c3b/file/00e625c5-c6bf-419c-ab3d-4de18579d233\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e06f8c0-ade2-45e6-a104-8254bdeddbab/file/7553a5c6-028b-4b78-b908-412145e8e886\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e06f8c0-ade2-45e6-a104-8254bdeddbab/file/467128c7-a5bb-4574-a5bb-dc721c0eadce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

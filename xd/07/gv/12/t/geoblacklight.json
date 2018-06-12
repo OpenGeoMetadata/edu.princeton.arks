@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xd07gv12t",
+  "layer_slug_s": "princeton-xd07gv12t",
+  "uuid": "princeton-xd07gv12t",
+  "dc_title_s": "Latvia Major Roads, 2005",
+  "solr_geom": "ENVELOPE(21.000012, 28.195388, 57.981289, 55.741877)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Latvia major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:20Z",
+  "layer_id_s": "restricted-figgy:bb960c98-80ff-4bfc-ac74-b79eec92a01a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ef97e5a-19af-4fa3-b49f-b41509a65048\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c1d4f35-4831-43e6-9bd7-fdce917b231c/file/3ccf9fd2-1d24-4fe7-bf6d-56345b868266\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb960c98-80ff-4bfc-ac74-b79eec92a01a/file/720e4494-9b8b-42d0-b1cb-5601d95826df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb960c98-80ff-4bfc-ac74-b79eec92a01a/file/8440202e-eb86-4999-bd2e-e71bdc179df9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bz60cx79b",
+  "layer_slug_s": "princeton-bz60cx79b",
+  "uuid": "princeton-bz60cx79b",
+  "dc_title_s": "Puerto Rico Major Airports, 2003",
+  "solr_geom": "ENVELOPE(-67.16, -65.30472, 18.49472, 17.96583)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Puerto Rico major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2003"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:30Z",
+  "layer_id_s": "restricted-figgy:f9e2c7d4-b8b2-4315-a3ed-668bad965e52",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bf52ff4e-1a16-4190-9218-453b7b4676f5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ad308d79-0ce4-4fe0-a680-2918c0f37fd9/file/bdfa8984-f48f-4187-a1de-038858cf6a52\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9e2c7d4-b8b2-4315-a3ed-668bad965e52/file/321655ae-ac7f-4185-a97f-ddf07ab14b8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9e2c7d4-b8b2-4315-a3ed-668bad965e52/file/67e745a9-ad82-4389-9a26-d1bb790b2cce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

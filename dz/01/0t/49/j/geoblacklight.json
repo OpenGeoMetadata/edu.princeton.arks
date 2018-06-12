@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010t49j",
+  "layer_slug_s": "princeton-dz010t49j",
+  "uuid": "princeton-dz010t49j",
+  "dc_title_s": "Bristol County, Massachusetts land parcels, 2007",
+  "solr_geom": "ENVELOPE(-71.38144, -70.820603, 42.100164, 41.480574)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bristol County, Massachusetts, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Bristol",
+    "Bristol County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:49:15Z",
+  "layer_id_s": "restricted-figgy:20af74fc-6f57-4cfa-a860-cf5494a47b21",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b964ce1b-b315-4050-a342-e7027c4195e2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a2a30657-3a86-4295-a615-a0d47e2255c9/file/5980b4c7-52b8-4771-9b51-7a3aad0d001d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20af74fc-6f57-4cfa-a860-cf5494a47b21/file/5aacff50-199d-4956-982a-385631f86649\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20af74fc-6f57-4cfa-a860-cf5494a47b21/file/b3378bc4-e676-4087-9185-c654bec7f3ef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

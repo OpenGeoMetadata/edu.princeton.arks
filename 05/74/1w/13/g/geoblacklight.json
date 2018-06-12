@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/05741w13g",
+  "layer_slug_s": "princeton-05741w13g",
+  "uuid": "princeton-05741w13g",
+  "dc_title_s": "Cache County, Utah land parcels, 2008",
+  "solr_geom": "ENVELOPE(-112.166108, -111.401524, 41.999555, 41.368952)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cache County, Utah, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Cache",
+    "Cache County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:48:53Z",
+  "layer_id_s": "restricted-figgy:101b6ab9-437f-4669-b260-aad0deca2478",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/642cc37e-9e50-4c83-b107-d734a77cfb80\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b7af3394-445e-4dfd-8900-b20c86548afd/file/d5fe9627-269c-4282-98c9-f3820eb06c76\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/101b6ab9-437f-4669-b260-aad0deca2478/file/aa3c3b34-a08c-43eb-9c08-059ee9c0dc91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/101b6ab9-437f-4669-b260-aad0deca2478/file/a29f47a1-4b0d-4c04-a68a-6c829c844355\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

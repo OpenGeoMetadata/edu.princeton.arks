@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns064768g",
+  "layer_slug_s": "princeton-ns064768g",
+  "uuid": "princeton-ns064768g",
+  "dc_title_s": "Luxembourg Major Highways, 2005",
+  "solr_geom": "ENVELOPE(5.894499, 6.501954, 49.828904, 49.472085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Luxembourg major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:03Z",
+  "layer_id_s": "restricted-figgy:971128ad-5ca9-434e-8a3c-7e830668bbb0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/314c888f-9634-4993-bffa-4491d371305d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2fc9f078-6339-4701-86fe-1e68bd1daf02/file/ade57590-5334-4db4-8414-b3259109cc19\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/971128ad-5ca9-434e-8a3c-7e830668bbb0/file/bac9a1e7-3bd7-41ff-af82-14c47b170806\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/971128ad-5ca9-434e-8a3c-7e830668bbb0/file/7ef76f14-6771-4307-862f-1a527a3db108\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

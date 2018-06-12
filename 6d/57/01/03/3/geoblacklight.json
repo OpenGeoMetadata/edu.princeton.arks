@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6d5701033",
+  "layer_slug_s": "princeton-6d5701033",
+  "uuid": "princeton-6d5701033",
+  "dc_title_s": "Monmouth County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.614551, -73.971388, 40.458622, 40.079246)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monmouth County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Monmouth County",
+    "Monmouth",
+    "New Jersey",
+    "Allaire State Park",
+    "Assunpik Wildlife Management Area",
+    "Gateway National Recreation Area",
+    "Middletown",
+    "Marlboro",
+    "Howell",
+    "Manapalan",
+    "Monmouth University",
+    "Freehold",
+    "Sandy Hook Bay",
+    "Asbury Park",
+    "Sandy Hook"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:55Z",
+  "layer_id_s": "restricted-figgy:8180d794-b9d9-42be-a6fb-b0e93f6f8576",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/94837ba3-52e0-44f9-a35b-14c1f73a7d58\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2285494c-4924-429e-813c-a19dabbfdc3a/file/8cf134bb-1e54-45ec-8b84-7bd391ce4ec2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8180d794-b9d9-42be-a6fb-b0e93f6f8576/file/6d6b1ecb-09d6-4547-aa63-0a80e7e15e1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8180d794-b9d9-42be-a6fb-b0e93f6f8576/file/1e5f9670-0d96-4d2a-8def-1cce61d4a3be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

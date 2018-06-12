@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418p661",
+  "layer_slug_s": "princeton-p8418p661",
+  "uuid": "princeton-p8418p661",
+  "dc_title_s": "Czech Republic Major Rivers, 2005",
+  "solr_geom": "ENVELOPE(12.217359, 18.351695, 51.044721, 48.603563)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Czech Republic created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:32Z",
+  "layer_id_s": "restricted-figgy:85b3892f-4634-427c-9ec8-55cd0231302e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/68d471bd-81ce-43f5-86cd-58faab373992\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/218ec3f0-6950-4fca-948d-e40260bc27e8/file/62dead2f-b900-4ea0-b094-8317ffc307bf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/85b3892f-4634-427c-9ec8-55cd0231302e/file/6573347f-f6f1-40f0-a88c-7f5cf3e23cb9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/85b3892f-4634-427c-9ec8-55cd0231302e/file/14b0764e-9063-47a2-8a27-4cd35c1de6a6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

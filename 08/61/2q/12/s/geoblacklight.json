@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612q12s",
+  "layer_slug_s": "princeton-08612q12s",
+  "uuid": "princeton-08612q12s",
+  "dc_title_s": "California Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-124.413732, -114.13534, 42.007832, 32.539886)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "California Block Centroid Populations represents the population of the U.S. Census block centroids for California.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:49:58Z",
+  "layer_id_s": "restricted-figgy:bdce65ea-d6a0-40d7-963f-87638d70da1e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9dd03358-b630-4f11-8681-40222cc26ef0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/165a258a-47b5-41b2-aad5-7bec31893b3b/file/30c4a484-246f-48d4-ac66-a6da0eb72a81\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdce65ea-d6a0-40d7-963f-87638d70da1e/file/ce2e1052-272a-4349-b6a9-f95a261dfaa8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdce65ea-d6a0-40d7-963f-87638d70da1e/file/abd75a33-4ce2-4ce6-b92f-f0c9570fd353\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

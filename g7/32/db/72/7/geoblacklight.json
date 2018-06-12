@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db727",
+  "layer_slug_s": "princeton-g732db727",
+  "uuid": "princeton-g732db727",
+  "dc_title_s": "Denmark 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(8.072815, 15.197479, 57.748161, 54.556986)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Denmark 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:25Z",
+  "layer_id_s": "restricted-figgy:0a630cd4-05f5-48ad-84ee-a38e8d4df424",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4a11ba8f-9184-47d2-9415-ec0038328a0d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b6179481-50ca-4ee0-9d73-bc54c91f6cce/file/ca08357b-b5a0-4c95-9b7c-d8d3f4b699ad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a630cd4-05f5-48ad-84ee-a38e8d4df424/file/7227ecb0-6e64-41ac-b81f-1ce019d812b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a630cd4-05f5-48ad-84ee-a38e8d4df424/file/74b217b1-f4c3-4a4f-a03e-f1f070b3c841\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

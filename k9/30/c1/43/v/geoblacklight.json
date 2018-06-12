@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930c143v",
+  "layer_slug_s": "princeton-k930c143v",
+  "uuid": "princeton-k930c143v",
+  "dc_title_s": "Mason County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.099315, -81.897731, 39.030151, 38.912814)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Mason County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mason",
+    "Mason County",
+    "West Virginia",
+    "2011"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:15Z",
+  "layer_id_s": "restricted-figgy:f393ea88-7f35-4c65-a454-72e56fd4010e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4237d4c2-fad9-4a56-80ad-6a789e17beaa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84dab3d1-e1c6-444a-8050-d83febb1faf8/file/4e06d57c-85ea-4158-b83c-a0cf536a220d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f393ea88-7f35-4c65-a454-72e56fd4010e/file/c7f12bb0-1e9a-410a-b119-179805d1259e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f393ea88-7f35-4c65-a454-72e56fd4010e/file/655b02dd-120c-4d72-990e-ca510830a929\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418p712",
+  "layer_slug_s": "princeton-p8418p712",
+  "uuid": "princeton-p8418p712",
+  "dc_title_s": "Alpine County, California land parcels, 2010",
+  "solr_geom": "ENVELOPE(-120.073155, -119.54233, 38.933326, 38.326878)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alpine County, California, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Alpine County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:16:09Z",
+  "layer_id_s": "restricted-figgy:f6327ed7-89d9-43ef-aafd-a06ab5e8864b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2beea1c3-8056-4f64-843e-6f84e01a3484\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6ecffba2-554f-4bd6-a1c3-9eff6e0a4378/file/fdd8f2de-4e69-46eb-b0af-021e4973a348\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6327ed7-89d9-43ef-aafd-a06ab5e8864b/file/465b33d8-8a07-461f-95b5-90b6915ff434\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6327ed7-89d9-43ef-aafd-a06ab5e8864b/file/54f66654-75d6-411b-8f52-8e6a0b3578f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

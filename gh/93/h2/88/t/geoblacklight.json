@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gh93h288t",
+  "layer_slug_s": "princeton-gh93h288t",
+  "uuid": "princeton-gh93h288t",
+  "dc_title_s": "Braxton County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.028456, -80.442205, 38.905709, 38.508033)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Braxton County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Braxton",
+    "Braxton County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:29Z",
+  "layer_id_s": "restricted-figgy:fe4f9859-5a1a-471d-8fcf-f3f41fa34a1b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc34ea34-32d0-443e-bfa3-bcddb3aecfb8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dcb5d409-06aa-4b34-8568-88dd89a49605/file/8006adce-6a37-4e5b-8496-de54246fa134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe4f9859-5a1a-471d-8fcf-f3f41fa34a1b/file/246e4737-b895-451f-912e-ee7b73d26006\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe4f9859-5a1a-471d-8fcf-f3f41fa34a1b/file/7e42d402-b85b-48c1-b845-ec0142f508a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

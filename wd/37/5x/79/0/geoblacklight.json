@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd375x790",
+  "layer_slug_s": "princeton-wd375x790",
+  "uuid": "princeton-wd375x790",
+  "dc_title_s": "Illinois Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-91.507949, -87.336277, 42.507902, 36.977946)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Illinois Block Centroid Populations represents the population of the U.S. Census block centroids for Illinois.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Illinois"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:21:28Z",
+  "layer_id_s": "restricted-figgy:711efe58-4a72-4d22-8179-e3f4f56e19fe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/95d0d0d4-0919-4253-a015-db8885425f89\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6c2b32e-c6dd-4b8d-b4fd-98991580f371/file/875a9f40-f31a-4959-9291-ad89749b3f6f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/711efe58-4a72-4d22-8179-e3f4f56e19fe/file/f58b5621-6242-493d-837f-111e0a411a2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/711efe58-4a72-4d22-8179-e3f4f56e19fe/file/3594defc-4963-4382-b4fd-6f925edb369e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

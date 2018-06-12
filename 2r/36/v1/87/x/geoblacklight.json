@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v187x",
+  "layer_slug_s": "princeton-2r36v187x",
+  "uuid": "princeton-2r36v187x",
+  "dc_title_s": "U.S. National Atlas Water Feature Lines, 2013",
+  "solr_geom": "ENVELOPE(-178.06572, -65.387969, 71.222237, 17.958974)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (for example, aqueducts, canals, intracoastal waterways, and streams) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
+  "dc_subject_sm": [
+    "line",
+    "hydrography",
+    "water",
+    "rivers",
+    "streams",
+    "canals",
+    "dams",
+    "falls",
+    "aqueducts",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "1995–2002",
+    "2006",
+    "2004",
+    "1995"
+  ],
+  "solr_year_i": 1995,
+  "layer_modified_dt": "2018-04-04T21:53:08Z",
+  "layer_id_s": "restricted-figgy:1dab7e55-7ce6-41f1-99c5-debb13db580f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fd40c0eb-0883-4fed-a84c-f33dea8603fa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/14aff1b1-1e9c-43d9-80c6-a1de87e0042a/file/7b8e7a38-b42f-4fe2-96ec-e17d6d8a35f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1dab7e55-7ce6-41f1-99c5-debb13db580f/file/06526002-a4b9-4d14-b16f-23d1b87c1c50\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1dab7e55-7ce6-41f1-99c5-debb13db580f/file/6097c158-cbb7-49cd-b64b-a1b7a8d4401b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

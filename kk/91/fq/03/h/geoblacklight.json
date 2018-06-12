@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fq03h",
+  "layer_slug_s": "princeton-kk91fq03h",
+  "uuid": "princeton-kk91fq03h",
+  "dc_title_s": "Cameron County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.431781, -77.985737, 41.617881, 41.21727)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cameron County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cameron",
+    "Cameron County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:42Z",
+  "layer_id_s": "restricted-figgy:f1b6f3da-6c0d-4669-88aa-5f83d2f1bba5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/450ccf84-fec7-4c6b-8f16-96825293a1c7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ce5efc61-0a6a-488d-8150-051d751ae543/file/f82eb3b6-0cc5-4768-a76f-b0fd24c8ddad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1b6f3da-6c0d-4669-88aa-5f83d2f1bba5/file/e61ffc2b-3389-4038-a832-41fe968aba24\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1b6f3da-6c0d-4669-88aa-5f83d2f1bba5/file/b5453ed2-19ee-462d-aedd-85d1942dc7b8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

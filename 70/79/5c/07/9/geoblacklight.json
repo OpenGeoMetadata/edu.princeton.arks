@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/70795c079",
+  "layer_slug_s": "princeton-70795c079",
+  "uuid": "princeton-70795c079",
+  "dc_title_s": "Fairfield County, Connecticut land parcels, 2011",
+  "solr_geom": "ENVELOPE(-73.727786, -73.29612, 41.194803, 40.980702)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Fairfield County, Connecticut , 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fairfield County",
+    "Fairfield",
+    "Connecticut",
+    "New York City",
+    "Stamford",
+    "Norwalk",
+    "Bridgeport",
+    "Danbury"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:29Z",
+  "layer_id_s": "restricted-figgy:30cda16d-41e9-472f-8e5e-ad40510df3e1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7f0d9906-04aa-4b39-b083-682da1c5a9ec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b044b56-7c91-466b-8246-0a7cb79de97f/file/fae0001d-ee49-4779-94fb-8646428cd0d9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30cda16d-41e9-472f-8e5e-ad40510df3e1/file/379858a5-02b8-4de6-80bb-99411db0205c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30cda16d-41e9-472f-8e5e-ad40510df3e1/file/0ea06f70-cdca-41e1-ba05-9c714130ab4e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

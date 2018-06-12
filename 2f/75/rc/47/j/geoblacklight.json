@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2f75rc47j",
+  "layer_slug_s": "princeton-2f75rc47j",
+  "uuid": "princeton-2f75rc47j",
+  "dc_title_s": "Contra Costa County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-122.435601, -121.534675, 38.100949, 37.718508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Contra Costa County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Contra Costa",
+    "Contra Costa County",
+    "California",
+    "Concord",
+    "Richmond",
+    "Antioch",
+    "Bay Area",
+    "San Francisco Bay",
+    "San Francisco"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:34:47Z",
+  "layer_id_s": "restricted-figgy:b5a866a4-00a3-4812-abc7-21e0dc1c3dff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/93bd060d-eae6-44e5-a311-f49ade913f71\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c66717c-3c60-4da2-abe7-0048179a706f/file/4b2f8409-5916-4a24-8a0c-91bb73af75f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5a866a4-00a3-4812-abc7-21e0dc1c3dff/file/f49616b7-f225-4be3-b9bc-f2592d3e0ec9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5a866a4-00a3-4812-abc7-21e0dc1c3dff/file/7a9a002c-6fc2-49a2-b6be-e40b64a7a306\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

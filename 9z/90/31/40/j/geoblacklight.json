@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9z903140j",
+  "layer_slug_s": "princeton-9z903140j",
+  "uuid": "princeton-9z903140j",
+  "dc_title_s": "Merced County, California land parcels, 2006",
+  "solr_geom": "ENVELOPE(-121.247653, -120.052517, 37.633492, 36.740427)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Merced County, California, 2006.",
+  "dc_creator_sm": [
+    "Merced Data Special Services"
+  ],
+  "dc_publisher_s": "Boundary Solutions, Inc.",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "land use",
+    "ownership",
+    "parcel",
+    "property",
+    "tax",
+    "value",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Merced County"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T00:34:19Z",
+  "layer_id_s": "restricted-figgy:5b5b08e8-787b-488c-9ebe-95b0229cd410",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dfe4e766-7c71-4928-b448-95ec45088048\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f33d85a4-79cf-40df-adbb-6f8d5a02ccd1/file/032e2137-cf9d-481d-80fb-3227b0c73bd3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5b5b08e8-787b-488c-9ebe-95b0229cd410/file/651b3412-0916-4d0e-85d2-246f7b87c241\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5b5b08e8-787b-488c-9ebe-95b0229cd410/file/e70dbcda-4ccb-4bee-b2e5-56a9a5df0fb1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

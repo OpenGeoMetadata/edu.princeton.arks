@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz8063057",
+  "layer_slug_s": "princeton-nz8063057",
+  "uuid": "princeton-nz8063057",
+  "dc_title_s": "Hampshire County, Massachusetts land parcels, 2011",
+  "solr_geom": "ENVELOPE(-72.875154, -72.212119, 42.507351, 42.183323)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Hampshire County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hampshire",
+    "Hampshire County",
+    "Massachusetts",
+    "Connecticut River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:18:39Z",
+  "layer_id_s": "restricted-figgy:daa67c5b-c877-4be2-a242-d814dc9f2907",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ced6f1be-ce70-49e0-9d2e-0815099c15d4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e35049bd-97f6-4059-af9b-e204d3a3ef0f/file/8ae72e0f-3eed-45ea-ab3a-e4ac532cea8e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/daa67c5b-c877-4be2-a242-d814dc9f2907/file/be354d53-318a-44cd-b086-4e94586f4466\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/daa67c5b-c877-4be2-a242-d814dc9f2907/file/30813dbf-d10f-40c0-9ddc-3040be2330f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

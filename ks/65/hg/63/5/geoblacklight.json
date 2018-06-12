@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg635",
+  "layer_slug_s": "princeton-ks65hg635",
+  "uuid": "princeton-ks65hg635",
+  "dc_title_s": "Whitley County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.686669, -85.307745, 41.295363, 41.001904)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Whitley County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Whitley",
+    "Whitley County",
+    "Indiana",
+    "Fort Wayne"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:10Z",
+  "layer_id_s": "restricted-figgy:b641e4a6-6f5f-41a1-a85f-921f54b02721",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f89185c5-7f26-40be-95d3-31b08d1daf26\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40178aa1-a51a-4eb1-a365-253a78659a17/file/f60c4946-4f56-4c13-ae41-cd944f07ce8b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b641e4a6-6f5f-41a1-a85f-921f54b02721/file/b54564e9-6e49-4f36-bc86-d93792d16eb0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b641e4a6-6f5f-41a1-a85f-921f54b02721/file/7bc51088-2091-456e-8214-c66a1919d719\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

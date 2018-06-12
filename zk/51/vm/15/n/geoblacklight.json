@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vm15n",
+  "layer_slug_s": "princeton-zk51vm15n",
+  "uuid": "princeton-zk51vm15n",
+  "dc_title_s": "Amritsar ward boundaries and census information, 2011",
+  "solr_geom": "ENVELOPE(74.77417, 74.97051, 31.69323, 31.57573)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Boundaries of all wards in Amritsar, in the state of Punjab, India, shown linked to Primary Census Abstract 2011 data.",
+  "dc_creator_sm": [
+    "ML Infomap"
+  ],
+  "dc_subject_sm": [
+    "cities",
+    "ward",
+    "wards",
+    "census",
+    "population",
+    "demographic",
+    "household",
+    "households",
+    "sex",
+    "male",
+    "males",
+    "female",
+    "females",
+    "caste",
+    "castes",
+    "tribe",
+    "tribes",
+    "literacy",
+    "employment",
+    "work",
+    "workers",
+    "labor",
+    "laborers",
+    "marginal",
+    "agriculture",
+    "agricultural",
+    "industry",
+    "industrial",
+    "unemployment",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Amritsar",
+    "Punjab",
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:30Z",
+  "layer_id_s": "restricted-figgy:b6a7d3db-8625-418a-82e9-6f44135da520",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b89ab6c9-2499-4786-9917-746961f22665\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cd687709-3cb6-425d-a145-d8866373474c/file/6476f698-9496-4b0d-88fc-98114c95f6e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6a7d3db-8625-418a-82e9-6f44135da520/file/db2795a4-f6e2-48fd-81a4-078d91b01bbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6a7d3db-8625-418a-82e9-6f44135da520/file/b1c8436e-48e8-4068-9912-3680a5cd2864\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/db78tg526",
+  "layer_slug_s": "princeton-db78tg526",
+  "uuid": "princeton-db78tg526",
+  "dc_title_s": "New York City Borough Boundaries Water Included 2008",
+  "solr_geom": "ENVELOPE(-74.26038, -73.699206, 40.917691, 40.485808)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The borough boundaries of the New York City including portions of the borough under water.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "City of New York Department of City Planning",
+  "dc_subject_sm": [
+    "boundary",
+    "borough",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T01:21:51Z",
+  "layer_id_s": "restricted-figgy:dad99212-d44b-4172-97c1-d726b6c40fb3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6c7886d7-79ce-451d-a466-ceae2291de8b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/240d3a2d-8aca-4727-8635-797f461a5ca5/file/53253466-e196-4e8f-9d50-31ad9323479e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dad99212-d44b-4172-97c1-d726b6c40fb3/file/4693fcb1-593c-43d4-b002-652af7ad7e94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dad99212-d44b-4172-97c1-d726b6c40fb3/file/10171a73-e0d9-4d32-bc6b-0dca0358bc18\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

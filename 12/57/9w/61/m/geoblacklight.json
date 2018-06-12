@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w61m",
+  "layer_slug_s": "princeton-12579w61m",
+  "uuid": "princeton-12579w61m",
+  "dc_title_s": "Rowan County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.775374, -80.182868, 35.863506, 35.50056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Rowan County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Rowan",
+    "Rowan County",
+    "North Carolina",
+    "Charlotte"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:48:37Z",
+  "layer_id_s": "restricted-figgy:721f7a6b-e5e8-4d0c-af17-439265df5bac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c4f908d0-3573-4cfa-9cc1-55b623f9b071\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61f0ca11-35e5-4430-a14a-d619fa2cee8a/file/65c87d36-ae12-452c-8263-cdfb82f4f753\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/721f7a6b-e5e8-4d0c-af17-439265df5bac/file/22b2a76c-7b16-4a86-aa8b-93c3a33e40b3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/721f7a6b-e5e8-4d0c-af17-439265df5bac/file/82845511-6fb6-4eca-8551-86df28822694\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

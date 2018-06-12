@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n296x261r",
+  "layer_slug_s": "princeton-n296x261r",
+  "uuid": "princeton-n296x261r",
+  "dc_title_s": "Lenoir County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.83724, -77.390918, 35.426526, 35.007374)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lenoir County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lenoir",
+    "Lenoir County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:07Z",
+  "layer_id_s": "restricted-figgy:6e4bd968-98e7-4981-a552-9fa76c577534",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0ffcd22d-a532-4d46-a84d-03608485f30c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ed66294-3be0-4cd3-a8f1-62f6419eccd3/file/ef67c929-ccf2-4a0c-88a2-dfe5cccbe45a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e4bd968-98e7-4981-a552-9fa76c577534/file/2f45e615-7bd8-4ce7-b307-451d9b7d7e82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e4bd968-98e7-4981-a552-9fa76c577534/file/cd1671b8-c182-4bb3-91cb-815217811e83\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

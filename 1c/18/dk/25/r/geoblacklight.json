@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dk25r",
+  "layer_slug_s": "princeton-1c18dk25r",
+  "uuid": "princeton-1c18dk25r",
+  "dc_title_s": "Pike County, Pennsylvania roads, 2014",
+  "solr_geom": "ENVELOPE(-75.348698, -74.693695, 41.600676, 41.084943)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Pike County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Pike",
+    "Pike County",
+    "Pennsylvania",
+    "New York City",
+    "Delaware Water Gap National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:15Z",
+  "layer_id_s": "restricted-figgy:d8b38a19-d281-42cc-a43a-6415a2d4afbc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ef11f788-6b36-44f9-b6b9-6471a5ce54f3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5cb3067e-ec3c-442c-8025-caf040a78d71/file/b33da902-e7db-4a2f-8297-9549b7dbb648\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8b38a19-d281-42cc-a43a-6415a2d4afbc/file/4227697c-e371-48d6-8aa0-7d83209fc107\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8b38a19-d281-42cc-a43a-6415a2d4afbc/file/807c862e-803a-4fe3-8019-8933182725ea\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

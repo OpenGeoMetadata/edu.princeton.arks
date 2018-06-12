@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526g86s",
+  "layer_slug_s": "princeton-s7526g86s",
+  "uuid": "princeton-s7526g86s",
+  "dc_title_s": "Preble County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.815121, -84.478792, 39.918496, 39.567327)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Preble County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Preble",
+    "Preble County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:35Z",
+  "layer_id_s": "restricted-figgy:c566b37f-3e78-4953-8612-8ffb5bec5b00",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0f479cb1-63cc-4d00-992f-218378b39666\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5cc6d49-b6b7-4509-a0a2-dffc4920ba26/file/44c2675f-b863-4e25-b1b4-0ceec254b648\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c566b37f-3e78-4953-8612-8ffb5bec5b00/file/9afb838b-acf0-4153-8441-405a85cb5d44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c566b37f-3e78-4953-8612-8ffb5bec5b00/file/4c749d5e-36db-4c8c-a486-ef03a18149ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

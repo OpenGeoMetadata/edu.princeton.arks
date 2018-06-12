@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g158bm885",
+  "layer_slug_s": "princeton-g158bm885",
+  "uuid": "princeton-g158bm885",
+  "dc_title_s": "Fresno County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-120.886751, -118.587205, 37.369629, 35.995724)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fresno County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Fresno",
+    "Fresno County",
+    "California",
+    "Central Valley",
+    "Clovis",
+    "Giant Sequoia National Monument",
+    "Kings Canyon National Park",
+    "Sequoia National Forest",
+    "Sierra National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:1029c85e-7fc2-44c1-9c99-f8bbf29018ff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/264e10b2-1f01-41e0-be0a-e2f7df4a3463\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ff503b7-0235-4686-991f-9f4286422779/file/6f891c33-16f7-4dde-a051-24b9e951beb2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1029c85e-7fc2-44c1-9c99-f8bbf29018ff/file/afa584fa-adef-4aa3-ab13-a0b50bf3bcbd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1029c85e-7fc2-44c1-9c99-f8bbf29018ff/file/3190783b-8cd4-477c-9fae-e5c662a67e34\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

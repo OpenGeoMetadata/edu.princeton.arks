@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mq63t",
+  "layer_slug_s": "princeton-8g84mq63t",
+  "uuid": "princeton-8g84mq63t",
+  "dc_title_s": "Pembina County, North Dakota land parcels, 2012",
+  "solr_geom": "ENVELOPE(-97.950605, -97.090108, 49.000222, 48.542263)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pembina County, North Dakota, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pembina",
+    "Pembina County",
+    "North Dakota",
+    "Cavalier Air Force Station"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:11:01Z",
+  "layer_id_s": "restricted-figgy:1fd2dcc4-59c8-4395-b34e-162cc2ff2c88",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/324fcc20-96d3-4302-812b-272409d37c13\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1172f970-85d9-4881-9b2b-8c3d646bb660/file/f481790f-0f0a-4c58-a1f4-1132402b25d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1fd2dcc4-59c8-4395-b34e-162cc2ff2c88/file/2ec732df-f796-4434-bbfd-244655bacd2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1fd2dcc4-59c8-4395-b34e-162cc2ff2c88/file/3f7d5138-3b8d-4a47-ba5c-ea9c4382bb36\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

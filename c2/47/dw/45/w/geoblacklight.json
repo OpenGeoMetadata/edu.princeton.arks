@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c247dw45w",
+  "layer_slug_s": "princeton-c247dw45w",
+  "uuid": "princeton-c247dw45w",
+  "dc_title_s": "Culpeper County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.232183, -77.619073, 38.698892, 38.308526)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Culpeper County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Culpeper",
+    "Culpeper County",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:13:22Z",
+  "layer_id_s": "restricted-figgy:88ccb02d-a470-465e-9ec9-77818b4813aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a7d08581-5f07-4830-823f-932db36fa8d1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/825035b3-6407-4d34-bd9d-f3c1aff38be7/file/0236f767-c051-4df8-a625-f8de018a03f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88ccb02d-a470-465e-9ec9-77818b4813aa/file/f6996083-5828-4ee6-b359-cb91aa7e5db8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88ccb02d-a470-465e-9ec9-77818b4813aa/file/e3b44fa3-21d5-4d43-9817-32d5a8a2d1fb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

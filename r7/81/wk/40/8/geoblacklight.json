@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk408",
+  "layer_slug_s": "princeton-r781wk408",
+  "uuid": "princeton-r781wk408",
+  "dc_title_s": "Forsyth County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.515892, -80.033234, 36.266576, 35.973281)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Forsyth County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Forsyth",
+    "Forsyth County",
+    "North Carolina",
+    "Winston-Salem"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:23:50Z",
+  "layer_id_s": "restricted-figgy:92db2787-e58c-4b8b-9f6f-41ed1aa37346",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5feffad-74e1-4209-a0c7-0767bd457ccd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ae8e5e6d-c512-46ed-920f-ebdf780ff824/file/4cd92c31-8c71-4f3c-baa7-f721ba314a2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92db2787-e58c-4b8b-9f6f-41ed1aa37346/file/55081a06-8ffc-425c-9ab0-b397b8050ec7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92db2787-e58c-4b8b-9f6f-41ed1aa37346/file/905a7458-7f91-4cd6-b192-6e88a5242223\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w95053900",
+  "layer_slug_s": "princeton-w95053900",
+  "uuid": "princeton-w95053900",
+  "dc_title_s": "Glynn County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.782915, -81.268926, 31.453036, 31.011097)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Glynn County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Glynn",
+    "Glynn County",
+    "Georgia",
+    "Brunswick"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:58Z",
+  "layer_id_s": "restricted-figgy:244ddaf0-4614-45d2-8a6c-6ef98c8b03e4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a177027b-0dec-4aad-b5b3-6bff621102d3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1501e628-8a51-4da5-b795-d4a2cd68dd80/file/fc068a71-0e37-436f-a81e-73b7097587ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/244ddaf0-4614-45d2-8a6c-6ef98c8b03e4/file/7fbfc215-a183-4f43-9903-436a1a209ec2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/244ddaf0-4614-45d2-8a6c-6ef98c8b03e4/file/efdc7b0d-1f1c-4d87-81be-c909471f0f3c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

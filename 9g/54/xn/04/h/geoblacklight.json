@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9g54xn04h",
+  "layer_slug_s": "princeton-9g54xn04h",
+  "uuid": "princeton-9g54xn04h",
+  "dc_title_s": "Monroe County, Florida roads, 2011",
+  "solr_geom": "ENVELOPE(-81.807035, -80.257507, 25.333832, 24.546541)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Monroe County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Monroe County",
+    "Monroe",
+    "Florida",
+    "Key West",
+    "Florida Keys"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:16Z",
+  "layer_id_s": "restricted-figgy:f36be61d-4587-40be-90c2-fafbbd9a3668",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/094a89fa-0b72-43b2-88b0-75768d53d9b8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91184743-d60d-4c30-8f59-f4a9ea5ee620/file/2640efc1-e914-419c-ae1c-cccaf6ab90dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f36be61d-4587-40be-90c2-fafbbd9a3668/file/a5d02a74-f47f-443b-8aaa-e58bf31c63d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f36be61d-4587-40be-90c2-fafbbd9a3668/file/30387599-9624-4f5b-8ba0-774c4676caa7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

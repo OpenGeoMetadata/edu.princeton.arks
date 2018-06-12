@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m1006",
+  "layer_slug_s": "princeton-th83m1006",
+  "uuid": "princeton-th83m1006",
+  "dc_title_s": "North Korea Cities With Population 100 Thousand and More, 1997",
+  "solr_geom": "ENVELOPE(124.389107, 130.316772, 42.256321, 37.964306)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes North Korea cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "North Korea"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:48Z",
+  "layer_id_s": "restricted-figgy:ae05913a-d32e-4cb0-900b-f744af3193ec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/251aa292-0984-462f-8f40-eb01f8de4a41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db4cae44-f45c-4e7a-be48-fc8ece355572/file/200a17eb-e060-4740-8358-fa6e9a96b6e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae05913a-d32e-4cb0-900b-f744af3193ec/file/24694c97-6dbb-4d94-b73a-fdc135c1a60c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae05913a-d32e-4cb0-900b-f744af3193ec/file/cfb943b6-6049-42bc-8afb-46182f97b27f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zm370",
+  "layer_slug_s": "princeton-3484zm370",
+  "uuid": "princeton-3484zm370",
+  "dc_title_s": "Montgomery County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-95.830207, -95.096433, 30.630317, 30.026636)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Montgomery County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery County",
+    "Texas",
+    "Houston",
+    "The Woodlands",
+    "Sugar Land",
+    "Montgomery"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:52Z",
+  "layer_id_s": "restricted-figgy:17e070c6-9d21-4f01-80dc-5534fa2c1755",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c810203a-7b5d-49fd-9333-b1764da146a0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33b9d6e6-6e2d-4844-8a75-652fa173e8ff/file/05190cc4-de35-4949-9e12-2ba5e9fce13b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17e070c6-9d21-4f01-80dc-5534fa2c1755/file/16ae5de3-0336-42c3-9563-0908c7e89ef9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17e070c6-9d21-4f01-80dc-5534fa2c1755/file/8e168134-bc85-46ed-a0f1-19cd58d77252\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

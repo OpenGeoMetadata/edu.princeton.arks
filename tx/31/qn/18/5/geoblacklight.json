@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tx31qn185",
+  "layer_slug_s": "princeton-tx31qn185",
+  "uuid": "princeton-tx31qn185",
+  "dc_title_s": "Baker County, Oregon land parcels, 2014",
+  "solr_geom": "ENVELOPE(-118.518756, -116.783581, 45.08057, 44.255054)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Baker County, Oregon, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Baker County",
+    "Baker"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:59Z",
+  "layer_id_s": "restricted-figgy:b70ff20a-2dc5-4fc0-b24f-7b9e8681d890",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2917c766-760b-4dcb-aeb4-fc9ba2036f01\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/089b8d9d-8c0e-4e7c-b74f-0c09360bb0f4/file/9a184133-5642-4f00-ab1d-a7598ca066bd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b70ff20a-2dc5-4fc0-b24f-7b9e8681d890/file/4bc9bd04-6ae2-44f5-9857-7e6e361558fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b70ff20a-2dc5-4fc0-b24f-7b9e8681d890/file/5c3c79a0-3494-4524-bf45-08aefc9ef2db\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

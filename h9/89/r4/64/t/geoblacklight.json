@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h989r464t",
+  "layer_slug_s": "princeton-h989r464t",
+  "uuid": "princeton-h989r464t",
+  "dc_title_s": "Eddy County, New Mexico land parcels, 2010",
+  "solr_geom": "ENVELOPE(-104.851762, -103.722894, 32.96542, 31.99995)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Eddy County, New Mexico, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Eddy",
+    "Eddy County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:48:03Z",
+  "layer_id_s": "restricted-figgy:0f001995-f3b8-4de9-a7ca-6f6bcbf540c6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5b52fd98-b7bf-49c0-8f28-9cfccefd3ede\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5da911e0-f124-4568-a096-2a1c732ecbcd/file/b3627c4b-d1b7-4c17-a418-95d6e3f2c4f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f001995-f3b8-4de9-a7ca-6f6bcbf540c6/file/8a0fdbbc-1e49-4e29-9ede-086dde62b870\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f001995-f3b8-4de9-a7ca-6f6bcbf540c6/file/988d78fe-8b36-48bb-b0d8-0af07cd14e09\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

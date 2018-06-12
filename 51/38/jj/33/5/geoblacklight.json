@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5138jj335",
+  "layer_slug_s": "princeton-5138jj335",
+  "uuid": "princeton-5138jj335",
+  "dc_title_s": "Mason County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.505589, -122.800235, 47.607397, 47.082159)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Mason County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Mason",
+    "Mason County",
+    "Puget Sound",
+    "Hood Canal",
+    "Salish Sea",
+    "Olympic Peninsula",
+    "Olympic National Park",
+    "Olympic National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:40Z",
+  "layer_id_s": "restricted-figgy:995f45d0-fd7a-4c6c-899f-ccb0617b9750",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/334c912a-dc6e-4c1e-b7f8-7719ac840505\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f2e19a62-2fad-4d37-8a15-24a0643ec6c9/file/52a73ecc-a155-414f-b2da-3fa6886e6780\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/995f45d0-fd7a-4c6c-899f-ccb0617b9750/file/2f5ade48-19d2-486e-be2e-06e7acfe550e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/995f45d0-fd7a-4c6c-899f-ccb0617b9750/file/2ce2ea4c-260d-4c5b-b711-4aad4a932886\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sv13w",
+  "layer_slug_s": "princeton-qz20sv13w",
+  "uuid": "princeton-qz20sv13w",
+  "dc_title_s": "U.S. Rivers (Generalized) 2002",
+  "solr_geom": "ENVELOPE(-164.765831, -67.79098, 70.409756, 25.845557)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Rivers (Generalized) represents the major rivers within United States.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "rivers",
+    "drainage",
+    "hydrography",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:49:29Z",
+  "layer_id_s": "restricted-figgy:84a23eab-d1e3-42e6-8231-920cc7afddd8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/49b8b77c-bf88-4690-9e28-7ae069f05315\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e3c952d-6a6f-46d2-afb5-3467f2ffdf9f/file/a1d0d40b-7602-4ddd-b012-e7bf95816bae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84a23eab-d1e3-42e6-8231-920cc7afddd8/file/1a10ee13-542a-4c06-82d7-6cc413955952\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84a23eab-d1e3-42e6-8231-920cc7afddd8/file/db7513d4-f05d-49d0-9c6a-6be4d7f71bbb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

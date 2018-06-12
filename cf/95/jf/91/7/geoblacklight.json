@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jf917",
+  "layer_slug_s": "princeton-cf95jf917",
+  "uuid": "princeton-cf95jf917",
+  "dc_title_s": "Suwannee County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.252816, -82.760167, 30.442649, 29.882507)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Suwannee County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Suwannee",
+    "Suwannee County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:09Z",
+  "layer_id_s": "restricted-figgy:9a3e9c2e-fee4-4606-9baa-c4740cad7baf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/192431e4-6067-4ab8-ab5c-d7e56fddd9a2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b2f836e-aeda-4c67-897d-d1dcf348ed72/file/a8e33fb7-c885-4f36-a30b-32a2c2499a1c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9a3e9c2e-fee4-4606-9baa-c4740cad7baf/file/15fa5904-4712-4d7c-91da-34a677d39405\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9a3e9c2e-fee4-4606-9baa-c4740cad7baf/file/352762de-9c2a-4db4-9048-19db900dcae1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

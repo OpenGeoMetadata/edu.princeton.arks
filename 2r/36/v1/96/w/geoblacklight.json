@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v196w",
+  "layer_slug_s": "princeton-2r36v196w",
+  "uuid": "princeton-2r36v196w",
+  "dc_title_s": "Leon County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.715508, -83.978034, 30.685272, 30.273661)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Leon County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Leon County",
+    "Leon",
+    "Florida",
+    "Tallahassee"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:33Z",
+  "layer_id_s": "restricted-figgy:47f773d3-8dd7-45dd-b04d-37cee48280f8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ae1e041f-09a1-473e-a796-7f638c0ce90f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec0d54db-053f-4c4c-a461-041808730a0a/file/f6cecade-c87b-4391-bea2-ed0b44fdfe85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/47f773d3-8dd7-45dd-b04d-37cee48280f8/file/6ed5e9a5-14f3-43b9-932c-2017a7f00331\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/47f773d3-8dd7-45dd-b04d-37cee48280f8/file/eca99fa8-9e69-4f01-8d7a-7c445b938c53\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

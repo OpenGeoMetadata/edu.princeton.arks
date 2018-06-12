@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mq62b",
+  "layer_slug_s": "princeton-8g84mq62b",
+  "uuid": "princeton-8g84mq62b",
+  "dc_title_s": "Fairfield County, Ohio land parcels, 2010",
+  "solr_geom": "ENVELOPE(-82.842956, -82.366294, 39.94102, 39.554445)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fairfield County, Ohio, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Fairfield",
+    "Fairfield County",
+    "Columbus"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T21:59:00Z",
+  "layer_id_s": "restricted-figgy:30a6073d-737d-46b9-954f-19f51345276d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5dca23be-1d4d-417e-a76e-04da8387a1aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e17eb2a-dbce-42ec-ab4c-cc0d2bfcf150/file/a1934dc7-17d2-4305-8743-51c3f33d4cd6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30a6073d-737d-46b9-954f-19f51345276d/file/33504580-dbed-4ebd-a84e-3c8265315bc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30a6073d-737d-46b9-954f-19f51345276d/file/cf506d23-28d0-4654-9d1f-c9f10833a884\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

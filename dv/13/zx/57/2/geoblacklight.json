@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dv13zx572",
+  "layer_slug_s": "princeton-dv13zx572",
+  "uuid": "princeton-dv13zx572",
+  "dc_title_s": "Sumter County, Florida land parcels , 2012",
+  "solr_geom": "ENVELOPE(-82.311304, -81.95332, 28.960499, 28.306654)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sumter County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sumter County",
+    "Florida",
+    "Sumter"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:04:49Z",
+  "layer_id_s": "restricted-figgy:5a2ce387-5e70-4368-a191-f1783eba7c81",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bdbe226b-e8d1-4d26-ab21-2c310734d628\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b911be0-26db-4ea4-9e37-7cd2eb47e75d/file/38424702-53a4-4ce3-9782-165e40c4edc5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a2ce387-5e70-4368-a191-f1783eba7c81/file/cbb768d4-a4aa-43bb-9318-85401db54787\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a2ce387-5e70-4368-a191-f1783eba7c81/file/25830c39-c297-4cc3-afe8-c962e5f71040\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

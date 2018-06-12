@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj236375s",
+  "layer_slug_s": "princeton-fj236375s",
+  "uuid": "princeton-fj236375s",
+  "dc_title_s": "New York Major Roads 2002",
+  "solr_geom": "ENVELOPE(-79.762153, -71.790636, 45.010462, 40.502923)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New York Major Roads represents interstate, U.S., and state highways and other major thoroughfares within New York.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:45:21Z",
+  "layer_id_s": "restricted-figgy:ea9a06c2-5a7f-4e5e-9c55-4c8dea5b7f32",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a25840bc-d03d-40b8-a732-feb7407d668f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f03a08a6-cedf-47c0-819e-e3bd447c6192/file/ffcf387d-0eb4-4c1f-9f08-59476454789a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea9a06c2-5a7f-4e5e-9c55-4c8dea5b7f32/file/f36255fc-9465-404e-a073-d1bc74cc4df6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea9a06c2-5a7f-4e5e-9c55-4c8dea5b7f32/file/053ff9a0-67d2-4ec1-bfb5-0dc21b2df74a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

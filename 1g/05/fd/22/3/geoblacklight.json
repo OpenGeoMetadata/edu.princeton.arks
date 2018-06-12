@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1g05fd223",
+  "layer_slug_s": "princeton-1g05fd223",
+  "uuid": "princeton-1g05fd223",
+  "dc_title_s": "Puerto Rico Cities With Population 100 Thousand and More, 2003",
+  "solr_geom": "ENVELOPE(-67.13528, -65.90917, 18.467472, 17.9625)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Puerto Rico cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2003"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:28Z",
+  "layer_id_s": "restricted-figgy:e597238f-a3d0-4fc4-9a48-e5379d3b5dec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/64586435-9431-4989-984f-c521379b2778\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c42c3c44-d637-4495-a5b1-b5af52e8a0d6/file/c0ec2473-ae00-448e-a547-9a90758b24ba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e597238f-a3d0-4fc4-9a48-e5379d3b5dec/file/da7e92a2-8a30-4b4a-ae6c-a12344b2bd93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e597238f-a3d0-4fc4-9a48-e5379d3b5dec/file/c23e0e84-95b1-4ef8-af9b-0778bd5cd8fa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

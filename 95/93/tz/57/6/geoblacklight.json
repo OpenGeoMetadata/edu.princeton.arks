@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tz576",
+  "layer_slug_s": "princeton-9593tz576",
+  "uuid": "princeton-9593tz576",
+  "dc_title_s": "Lewis County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.731718, -80.29548, 39.171142, 38.72271)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lewis County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:34Z",
+  "layer_id_s": "restricted-figgy:2fb4b26d-983e-4baf-8904-db3f9d1f7a1b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2591276-3202-4438-8a96-72efff0a78a9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bc86ddf0-0d08-4efc-8bd1-7418d2abb9cd/file/2c333e32-2ed6-465d-807e-6117a4a00c33\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fb4b26d-983e-4baf-8904-db3f9d1f7a1b/file/fb37b8c3-4d80-49b3-a009-0a94acdd713e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fb4b26d-983e-4baf-8904-db3f9d1f7a1b/file/443f0922-4def-4d4f-beeb-2f39e06bf16b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

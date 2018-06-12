@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dn39x498g",
+  "layer_slug_s": "princeton-dn39x498g",
+  "uuid": "princeton-dn39x498g",
+  "dc_title_s": "Ferry County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-118.869979, -118.104313, 49.000101, 47.829564)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ferry County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Ferry",
+    "Ferry County",
+    "Columbia River",
+    "Colville National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:47Z",
+  "layer_id_s": "restricted-figgy:8a8480ac-7637-4b93-8d15-3f4fd27198a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/211a4855-4908-414a-aec6-f0b5d4afbd5d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b31576a3-2a88-464f-aa14-e8feaf583723/file/5722c90b-77af-482b-ac71-ad01d6dec16f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a8480ac-7637-4b93-8d15-3f4fd27198a3/file/073d0fc1-a490-44d5-8a75-b5e07b58bd79\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a8480ac-7637-4b93-8d15-3f4fd27198a3/file/c1769e08-388f-4df3-b94e-e81fae5d8ff1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

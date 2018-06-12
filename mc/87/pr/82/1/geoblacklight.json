@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mc87pr821",
+  "layer_slug_s": "princeton-mc87pr821",
+  "uuid": "princeton-mc87pr821",
+  "dc_title_s": "Cape May County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-74.972697, -74.550911, 39.324286, 38.924656)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cape May County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Cape May",
+    "Cape May County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:02Z",
+  "layer_id_s": "restricted-figgy:c6be741c-2851-4dd9-ae15-74899da8a49b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9f5be4d3-e091-48f5-86be-be5803657597\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/799e8cbb-060f-48dc-8639-3d3c03211109/file/f085b9db-a58a-4907-b6e4-1af0921b7775\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6be741c-2851-4dd9-ae15-74899da8a49b/file/3269c701-a27f-4cab-af31-d21c302ede8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6be741c-2851-4dd9-ae15-74899da8a49b/file/f914745a-733c-4f6f-bb29-f5e80f8cc918\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

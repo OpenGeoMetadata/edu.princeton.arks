@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9306t2803",
+  "layer_slug_s": "princeton-9306t2803",
+  "uuid": "princeton-9306t2803",
+  "dc_title_s": "Routt County, Colorado land parcels, 2011",
+  "solr_geom": "ENVELOPE(-107.442663, -106.625241, 41.003298, 39.918795)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Routt County, Colorado, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Routt County",
+    "Routt",
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2016"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:53Z",
+  "layer_id_s": "restricted-figgy:d5aaa35f-4a04-4e09-b769-bfab9924dcc5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5eede599-7344-409f-b93c-348102fb8cb2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b8c407d-040a-4c36-84c0-898f18d5e93c/file/8cc1a17a-e75f-4291-b1d9-69d77a93288e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5aaa35f-4a04-4e09-b769-bfab9924dcc5/file/9eee7df3-bcb9-4e00-b47f-3581815a819b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5aaa35f-4a04-4e09-b769-bfab9924dcc5/file/fdf969fe-1052-4407-8836-6a31591abe18\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

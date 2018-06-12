@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt72x",
+  "layer_slug_s": "princeton-2z10wt72x",
+  "uuid": "princeton-2z10wt72x",
+  "dc_title_s": "HYDRO 1K Elevation Derivative Database",
+  "solr_geom": "ENVELOPE(-179.999347, 179.999, 83.217361, -59.484882)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The drainage basins distributed with the HYDRO1k data set suite are \nderived using the vector stream networks along with the flow direction data set. \nEach polygon in the basin data set has been tagged with a Pfafstetter code \nuniquely identifying each sub-basin. A detailed description of the coding scheme \ncan be found in Verdin. Additional attributes defining the characteristics of \neach sub-basin have been developed.",
+  "dc_creator_sm": [
+    "EROS Data Center"
+  ],
+  "dc_subject_sm": [
+    "drainage basin"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:9dd4ef21-339b-443a-9636-8b7c76bba34f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/31c32808-faab-43de-bf9b-b7a5beb3d969\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74ad11ad-e1a7-4bf9-a125-19a15a5c9e5d/file/2688f122-5217-465b-8374-e8709b0bbd5c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9dd4ef21-339b-443a-9636-8b7c76bba34f/file/38cf9530-6581-4a42-8b8e-bfa27f0edd6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9dd4ef21-339b-443a-9636-8b7c76bba34f/file/a840a9dd-b858-4b27-b012-13c4f00a44cd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

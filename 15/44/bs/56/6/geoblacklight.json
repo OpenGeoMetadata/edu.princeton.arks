@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1544bs566",
+  "layer_slug_s": "princeton-1544bs566",
+  "uuid": "princeton-1544bs566",
+  "dc_title_s": "Utah County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-112.214268, -110.857496, 40.568861, 39.775579)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Utah County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Utah County",
+    "Provo",
+    "Orem",
+    "Ashley National Forest",
+    "Manti-La Sal National Forest",
+    "Timpanogos Cave National Monument",
+    "Uinta-Wasatch-Cache National Forest",
+    "Utah Lake"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:15Z",
+  "layer_id_s": "restricted-figgy:9ff5fbd0-f263-4231-9a2a-21672ecd4b26",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c7a93b30-beb4-4972-94fa-c543f4544ac7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88026b66-5dfd-4fda-8b66-7ac30e56ec41/file/a08392da-7e2a-48f3-b0b6-3daaa939e98c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ff5fbd0-f263-4231-9a2a-21672ecd4b26/file/b5ea1c37-8bc6-4d4b-9336-818e59944697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ff5fbd0-f263-4231-9a2a-21672ecd4b26/file/adeaefb5-398f-4895-a233-c2eba820818d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

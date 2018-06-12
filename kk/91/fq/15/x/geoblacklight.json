@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fq15x",
+  "layer_slug_s": "princeton-kk91fq15x",
+  "uuid": "princeton-kk91fq15x",
+  "dc_title_s": "Wyoming County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-76.2831, -75.712334, 41.654671, 41.376517)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wyoming County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming County",
+    "Wyoming",
+    "Pennsylvania",
+    "Scranton"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:5d23f7d4-fae6-41f7-a3b2-4d2051e9cd52",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f28c9839-6c84-4f50-ae86-d322cd7be629\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d68e614-d767-4a7e-bbaa-ce5c485eb308/file/d9871917-6a30-463e-b655-6ea033590fe4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d23f7d4-fae6-41f7-a3b2-4d2051e9cd52/file/c7551a01-2c7a-46ef-86d9-7ff529b9078d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d23f7d4-fae6-41f7-a3b2-4d2051e9cd52/file/8f1dbce6-8adc-4af3-b498-623b2f13ce58\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

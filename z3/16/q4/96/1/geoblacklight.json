@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z316q4961",
+  "layer_slug_s": "princeton-z316q4961",
+  "uuid": "princeton-z316q4961",
+  "dc_title_s": "Ray County, Missouri land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.21238, -93.758746, 39.527109, 39.135629)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ray County, Missouri, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Ray",
+    "Ray County",
+    "Missouri River",
+    "Kansas City"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:21:38Z",
+  "layer_id_s": "restricted-figgy:ab358140-a6ed-44c5-98e7-94d01a19aaba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f695238e-4c38-4d65-92db-4fec185890c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e901e753-4a27-4f67-af52-3a82b963b7d7/file/ca6806e4-59cb-48b1-b0a4-1c92f2933b40\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab358140-a6ed-44c5-98e7-94d01a19aaba/file/1870beab-1a2c-4cf1-adfb-6f0c7fd51ed6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab358140-a6ed-44c5-98e7-94d01a19aaba/file/9adcd3fe-2326-4190-a11e-dd011d991efb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

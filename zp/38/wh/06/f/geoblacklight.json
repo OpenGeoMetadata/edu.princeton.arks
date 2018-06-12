@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wh06f",
+  "layer_slug_s": "princeton-zp38wh06f",
+  "uuid": "princeton-zp38wh06f",
+  "dc_title_s": "Washington County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.993301, -85.431998, 30.830486, 30.389582)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington County",
+    "Washington",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:43Z",
+  "layer_id_s": "restricted-figgy:88a30c62-1b78-4147-bfe3-3622843c9ad3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a6141545-29c9-4d75-b432-a01e62fd6d26\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6b2dee4-a74d-4861-be0a-e4760642804d/file/0f840982-a350-4431-9a64-e4be6a2d9edb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88a30c62-1b78-4147-bfe3-3622843c9ad3/file/bd8c34cf-bc0b-498c-93b0-aa7628633050\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88a30c62-1b78-4147-bfe3-3622843c9ad3/file/0b0016ba-f19e-4911-b511-10b88dbe97a5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

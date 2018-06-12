@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/76537481t",
+  "layer_slug_s": "princeton-76537481t",
+  "uuid": "princeton-76537481t",
+  "dc_title_s": "Q3 flood data, Maine",
+  "solr_geom": "ENVELOPE(-70.864918, -67.886527, 45.255284, 43.51341)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Maine, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Cumberland County",
+    "Hancock County",
+    "Kennebec County",
+    "Oxford County",
+    "Penobscot County",
+    "Sagadahoc County",
+    "Waldo County",
+    "Washington County",
+    "York County",
+    "Cumberland",
+    "Hancock",
+    "Kennebec",
+    "Oxford",
+    "Penobscot",
+    "Sagadahoc",
+    "Waldo",
+    "Washington",
+    "York"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T00:37:27Z",
+  "layer_id_s": "restricted-figgy:d912a648-5239-4c88-98df-4cf1e63aa817",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a0a83d07-8f80-44ba-99b3-cdee9045181b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/52e138ff-305f-4ff0-b6ad-ee2a96d9ab06/file/77b38898-52b4-45e0-93c7-9044b5162d9e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d912a648-5239-4c88-98df-4cf1e63aa817/file/686721c9-d98a-4228-855a-5db9841870b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d912a648-5239-4c88-98df-4cf1e63aa817/file/d49440bd-c069-453b-871b-76bc9399bc0f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n009w5727",
+  "layer_slug_s": "princeton-n009w5727",
+  "uuid": "princeton-n009w5727",
+  "dc_title_s": "Morgan County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.68748, -86.249736, 39.633772, 39.33824)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Morgan County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Morgan County",
+    "Morgan",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:13Z",
+  "layer_id_s": "restricted-figgy:6cdd59e5-a325-43b0-903d-52afcf51e3ea",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f1509916-c6e8-4110-a84e-0490759286b1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c472d52-6b66-454a-91d2-225f061eb053/file/e50ce8e0-efee-4cbf-917d-e20c14da3ecf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cdd59e5-a325-43b0-903d-52afcf51e3ea/file/b672be77-b1dc-4cb3-b45e-480e11a31123\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cdd59e5-a325-43b0-903d-52afcf51e3ea/file/cbd1764b-ee8c-4af7-9cb1-6eb4e3c68824\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wm117s379",
+  "layer_slug_s": "princeton-wm117s379",
+  "uuid": "princeton-wm117s379",
+  "dc_title_s": "Jackson County, West Virginia land parcels, 2003",
+  "solr_geom": "ENVELOPE(-81.750863, -81.51702, 38.863841, 38.680746)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, West Virginia, 2003.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Jackson",
+    "Jackson County",
+    "Charleston"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "solr_year_i": 2003,
+  "layer_modified_dt": "2018-04-04T22:38:35Z",
+  "layer_id_s": "restricted-figgy:a3668835-8a84-44a2-9a99-8db135ae6280",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/282fad70-2c83-47d2-b2f5-b08f9257a845\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3bb393ab-d0c3-4547-8790-07f242cbdb6a/file/d1a57a83-91d2-4154-ab3c-4a62e26ebca0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3668835-8a84-44a2-9a99-8db135ae6280/file/b4398bb2-f7a8-4ce5-b932-97927cee2819\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3668835-8a84-44a2-9a99-8db135ae6280/file/00b4a4cc-03fb-45b7-9ccd-c4006773611f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

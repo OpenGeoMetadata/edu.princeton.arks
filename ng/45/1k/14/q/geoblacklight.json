@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ng451k14q",
+  "layer_slug_s": "princeton-ng451k14q",
+  "uuid": "princeton-ng451k14q",
+  "dc_title_s": "Ohio Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-84.819544, -80.519152, 42.0927, 38.404754)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Ohio Block Centroid Populations represents the population of the U.S. Census block centroids for Ohio.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:58Z",
+  "layer_id_s": "restricted-figgy:a271afe2-643c-4631-bb77-3595ec5b04d1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aa1b576a-f043-461d-a812-90dae4c9d712\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/098100f1-05fd-446d-b8c2-43d453618b6e/file/0ca92ce1-1d7e-487f-8bc7-ad7457ddab38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a271afe2-643c-4631-bb77-3595ec5b04d1/file/7f292d20-d87d-4e6c-9575-40d2cabdcb18\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a271afe2-643c-4631-bb77-3595ec5b04d1/file/13ff5f5e-e59e-49ad-b1a1-280fa7c21d0b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

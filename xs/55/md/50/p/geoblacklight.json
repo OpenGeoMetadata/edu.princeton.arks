@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55md50p",
+  "layer_slug_s": "princeton-xs55md50p",
+  "uuid": "princeton-xs55md50p",
+  "dc_title_s": "Mexico States 2000",
+  "solr_geom": "ENVELOPE(-117.12312, -86.735045, 32.720854, 14.55146)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico States represents the states of Mexico with coastlines, international boundaries, state boundaries, and demographics.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "states",
+    "demographics"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1988–1992",
+    "1984"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T03:00:22Z",
+  "layer_id_s": "restricted-figgy:c15e80cf-6c4b-44aa-9d18-56e19a1cdc86",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3a10b35e-d424-48a7-aa67-38e6f2856d8d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec60370d-2dd7-432d-b036-dcda3de531b9/file/272b763c-9eb9-45f5-9bee-2b61bd050338\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c15e80cf-6c4b-44aa-9d18-56e19a1cdc86/file/56db47f0-e9b7-446e-bac4-8a5d6d1e6113\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c15e80cf-6c4b-44aa-9d18-56e19a1cdc86/file/48e94307-75b2-4cc2-85f4-9447486a6b5f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns064965v",
+  "layer_slug_s": "princeton-ns064965v",
+  "uuid": "princeton-ns064965v",
+  "dc_title_s": "Fresno County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-120.886751, -118.587205, 37.369629, 35.995724)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fresno County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Fresno County",
+    "California",
+    "Fresno",
+    "Clovis",
+    "Central Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-06-07T02:29:53Z",
+  "layer_id_s": "restricted-figgy:b53f3311-bd88-4c5d-9e78-ef6f24cdec33",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/571634a4-3d17-497f-bc2a-8c5298745af8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6b460b4-d3f3-4ffb-8ca6-d2a003d15088/file/638805a8-b916-4028-b3d5-56c4b79e2e55\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b53f3311-bd88-4c5d-9e78-ef6f24cdec33/file/28be5c13-7c75-47ce-a08d-ada65850260b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b53f3311-bd88-4c5d-9e78-ef6f24cdec33/file/224bf368-1c63-4b2a-a20b-c5e1ed45b496\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

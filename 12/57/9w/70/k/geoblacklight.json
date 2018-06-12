@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w70k",
+  "layer_slug_s": "princeton-12579w70k",
+  "uuid": "princeton-12579w70k",
+  "dc_title_s": "Summit County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.688378, -81.391717, 41.35127, 40.906581)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Summit County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Summit",
+    "Summit County",
+    "Ohio",
+    "Akron",
+    "Cuyahoga Valley National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:17Z",
+  "layer_id_s": "restricted-figgy:cc0f5662-1e19-4c30-b5d7-996526518e1f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b72ad4ab-d274-4dbd-89ce-456ab3ebd8c2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88f5737f-9536-4818-8bf7-ad7b88124cd8/file/73e7b7b7-5c1f-4641-a419-64542e1a5480\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc0f5662-1e19-4c30-b5d7-996526518e1f/file/e6a6f07e-e62b-49ac-9ce4-f8fc94f9a4fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc0f5662-1e19-4c30-b5d7-996526518e1f/file/c822af93-a087-4f30-836d-e0e5ee8a1483\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

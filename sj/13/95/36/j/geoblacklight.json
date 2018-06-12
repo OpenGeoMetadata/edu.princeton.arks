@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj139536j",
+  "layer_slug_s": "princeton-sj139536j",
+  "uuid": "princeton-sj139536j",
+  "dc_title_s": "Lewis County, Washington roads, 2014",
+  "solr_geom": "ENVELOPE(-123.371356, -121.390131, 46.794198, 46.384348)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Lewis County, Washington, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Lewis County",
+    "Lewis",
+    "Cascade Mountains",
+    "Cascade Range",
+    "Gifford Pinchot National Forest",
+    "Mount Baker-Snoqualmie National Forest",
+    "Mount Rainier National Park",
+    "Mount St. Helens National Volcanic Monument"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:46:54Z",
+  "layer_id_s": "restricted-figgy:04bfd928-ffb6-4161-a52b-d5e080c112c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b6a8af0-34da-4d79-b44a-5dcfd0ae4285\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1adeb416-b635-4bda-82b3-bbce38998849/file/83bcd586-dc0b-462c-8c2e-102776e80a3e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04bfd928-ffb6-4161-a52b-d5e080c112c7/file/553d01b0-c110-4feb-9c83-891454bd3970\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04bfd928-ffb6-4161-a52b-d5e080c112c7/file/71199a6f-6fed-4ac3-a7d7-eab9b1eaf9b1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

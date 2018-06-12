@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3j333566d",
+  "layer_slug_s": "princeton-3j333566d",
+  "uuid": "princeton-3j333566d",
+  "dc_title_s": "Jackson County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.60041, -84.858206, 31.000846, 30.564289)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jackson County",
+    "Jackson",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:59Z",
+  "layer_id_s": "restricted-figgy:ca79fec3-4d16-4f65-9257-dead04daad7d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de7ad963-9852-41e9-9b95-5f29ebd24451\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d41f4ad-9baa-4b5e-8ff4-459adc03cd7c/file/bf9655d2-0690-4ddb-83ea-805b07e86f09\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca79fec3-4d16-4f65-9257-dead04daad7d/file/b893cc23-6fe3-479e-aba0-6e6629663970\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca79fec3-4d16-4f65-9257-dead04daad7d/file/79dd244f-46e1-4702-851e-744fc85fb21c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

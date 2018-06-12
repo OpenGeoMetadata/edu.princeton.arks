@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150k93q",
+  "layer_slug_s": "princeton-vt150k93q",
+  "uuid": "princeton-vt150k93q",
+  "dc_title_s": "Hungary Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(17.655445, 21.735503, 48.100745, 46.072207)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:28Z",
+  "layer_id_s": "restricted-figgy:435b01d5-4c54-49a9-8490-ae58e403fcef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2b971ea-8df9-4a63-9218-bc33bb404d6f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/526f5a76-c60e-4454-aa69-2eec1bfb9d3b/file/b261c923-7d97-4e49-95cf-1a2b5e5226d9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/435b01d5-4c54-49a9-8490-ae58e403fcef/file/3cf08490-df17-424d-bdfb-92a91451e902\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/435b01d5-4c54-49a9-8490-ae58e403fcef/file/02517cb9-d1fe-4000-88f6-5c4dbd5c69a2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

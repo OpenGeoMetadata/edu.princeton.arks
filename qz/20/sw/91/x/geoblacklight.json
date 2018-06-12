@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20sw91x",
+  "layer_slug_s": "princeton-qz20sw91x",
+  "uuid": "princeton-qz20sw91x",
+  "dc_title_s": "Yolo County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.422916, -121.501107, 38.925957, 38.313253)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yolo County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Yolo County",
+    "Yolo",
+    "California",
+    "Sacramento",
+    "Roseville",
+    "Arden",
+    "Arcade",
+    "Sacremento Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:40:04Z",
+  "layer_id_s": "restricted-figgy:92c9204e-80eb-400a-8e93-87e4384d4534",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ab87c51-8c6c-4bc5-8420-88a8c1ea8d72\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/06ea187c-0c40-4d0d-bd86-25458e155519/file/b98c5286-1dd2-4570-88ef-db4854f8c6b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92c9204e-80eb-400a-8e93-87e4384d4534/file/968799c0-e352-47d1-b400-ee91707db840\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92c9204e-80eb-400a-8e93-87e4384d4534/file/8bbe073a-4657-49d0-ae81-ef90398f4280\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

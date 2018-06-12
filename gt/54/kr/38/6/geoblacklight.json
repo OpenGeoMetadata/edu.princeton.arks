@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kr386",
+  "layer_slug_s": "princeton-gt54kr386",
+  "uuid": "princeton-gt54kr386",
+  "dc_title_s": "Randolph County, North Carolina roads, 2006",
+  "solr_geom": "ENVELOPE(-80.067011, -79.541702, 35.920674, 35.505685)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Road centerlines for Randolph County, North Carolina, 2006, including NC highways, state roads, city streets, and private drives.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "street addresses",
+    "roads",
+    "street centerlines",
+    "highways",
+    "streets",
+    "centerlines",
+    "infrastructure",
+    "private roads",
+    "state roads",
+    "routes",
+    "private drives",
+    "intersections",
+    "cross streets",
+    "addresses",
+    "address ranges",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Randolph",
+    "Randolph County",
+    "High Point",
+    "Winston-Salem"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T21:54:00Z",
+  "layer_id_s": "restricted-figgy:af18845c-352f-4447-b497-b17ae8687010",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6ada4d67-844e-4233-a82e-02b971788b80\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59a7a403-8a42-46cc-97e5-2379939ef677/file/30bbf095-d941-47b4-9835-f6ff59d07361\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af18845c-352f-4447-b497-b17ae8687010/file/fe93964f-3d5b-48e6-be50-7c8086951cdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af18845c-352f-4447-b497-b17ae8687010/file/ff29b523-3c2f-47ac-91fd-a6b24dd3ae51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

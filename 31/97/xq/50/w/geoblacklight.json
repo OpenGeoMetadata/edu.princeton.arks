@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq50w",
+  "layer_slug_s": "princeton-3197xq50w",
+  "uuid": "princeton-3197xq50w",
+  "dc_title_s": "Grant County, New Mexico land parcels, 2014",
+  "solr_geom": "ENVELOPE(-109.047894, -107.608283, 33.209444, 31.863645)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grant County, New Mexico, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Grant",
+    "Grant County",
+    "Gila National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:01Z",
+  "layer_id_s": "restricted-figgy:f310f00b-b805-4702-b354-8f8f339a22e7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/749ff04b-86ee-4f4f-9551-7b53dd25ecef\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c741e9bd-037b-4cc3-a272-84af8d57b51e/file/da52b89e-edc6-4063-a51f-163553e9acb3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f310f00b-b805-4702-b354-8f8f339a22e7/file/de84f7e3-80a0-4674-9212-7bfb38ee0115\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f310f00b-b805-4702-b354-8f8f339a22e7/file/ccfd878d-a491-4f79-8e10-bc71d2975e3e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

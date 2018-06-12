@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg82k",
+  "layer_slug_s": "princeton-ks65hg82k",
+  "uuid": "princeton-ks65hg82k",
+  "dc_title_s": "Pakistan Division Boundary, 2010",
+  "solr_geom": "ENVELOPE(60.893558, 79.285512, 37.093082, 23.693722)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Pakistan division boundary. This LeadDog dataset is released Semi-Annually.",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
+  "dc_subject_sm": [
+    "Location",
+    "Boundaries",
+    "Division boundary",
+    "Roadmap",
+    "Navigation",
+    "Routing",
+    "Geocoding",
+    "LeadDog",
+    "Provinces"
+  ],
+  "dct_spatial_sm": [
+    "PAKISTAN"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-06-06T23:57:43Z",
+  "layer_id_s": "restricted-figgy:301d02ee-4e0a-48e4-aad5-fb0bc24a21b9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cb2a48ed-e0f6-4476-b43e-d2cc59fb7e80\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/366967c8-80aa-4383-b3f3-8705782dfeeb/file/4508c1c8-ceff-4479-b2eb-f42a9be356e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/301d02ee-4e0a-48e4-aad5-fb0bc24a21b9/file/85ae82cd-a431-4ce6-a638-90c18a9b1322\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/301d02ee-4e0a-48e4-aad5-fb0bc24a21b9/file/a72b880f-40c7-4671-a9ab-d81237c0f68a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

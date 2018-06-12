@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x059cb704",
+  "layer_slug_s": "princeton-x059cb704",
+  "uuid": "princeton-x059cb704",
+  "dc_title_s": "Kittitas County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-121.465191, -119.917948, 47.596599, 46.736153)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kittitas County, Washington , 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kittitas County",
+    "Kittitas",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:03:04Z",
+  "layer_id_s": "restricted-figgy:14eea280-0ebd-487c-92e8-6d157278f221",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5457f54f-0677-4d11-ad38-daae345b2b9c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b80d84c3-d51c-43b5-bc51-f77e13ec8d30/file/38b5e7a0-820c-486b-b1ce-091a8c6367aa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14eea280-0ebd-487c-92e8-6d157278f221/file/0060e0da-c9df-49cf-bf62-f344d203850a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14eea280-0ebd-487c-92e8-6d157278f221/file/1aeece1d-2827-472c-b5e5-519610d77961\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

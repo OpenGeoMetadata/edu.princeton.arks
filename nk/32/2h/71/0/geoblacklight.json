@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nk322h710",
+  "layer_slug_s": "princeton-nk322h710",
+  "uuid": "princeton-nk322h710",
+  "dc_title_s": "Global 4G network operators, 2015",
+  "solr_geom": "ENVELOPE(-101.828565, 170.48107, 64.793399, -43.98665)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing 4G mobile network operators within particular countries as of December 2015.",
+  "dc_creator_sm": [
+    "Collins Bartholomew Ltd."
+  ],
+  "dc_subject_sm": [
+    "telephone",
+    "telephones",
+    "telecommunications",
+    "telecom",
+    "mobile",
+    "network",
+    "communications",
+    "operator",
+    "operators",
+    "provider",
+    "providers",
+    "service provider",
+    "service providers",
+    "GSMA",
+    "4G",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2018-04-04T22:12:55Z",
+  "layer_id_s": "restricted-figgy:2fcdfb57-cf04-486a-bec4-7852f24f79b0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/388f859f-3333-47cf-9e0d-bff0a2eff575\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff8b253e-bade-44be-a821-7ed091f93c22/file/dc866b75-8f13-4a68-941d-432945ba951b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fcdfb57-cf04-486a-bec4-7852f24f79b0/file/99d095b8-2e58-428b-aa0d-a261c1837fd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fcdfb57-cf04-486a-bec4-7852f24f79b0/file/20f12376-2e17-41cf-8cf8-ff4a0f241dee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

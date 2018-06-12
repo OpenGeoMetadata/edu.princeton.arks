@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mc87pt69b",
+  "layer_slug_s": "princeton-mc87pt69b",
+  "uuid": "princeton-mc87pt69b",
+  "dc_title_s": "Alameda County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-122.373828, -121.469326, 37.90669, 37.454188)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alameda County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oakland",
+    "Fremont",
+    "Hayward",
+    "Berkeley",
+    "San Leandro",
+    "Livermore",
+    "Bay Area",
+    "San Francisco",
+    "San Francisco Bay"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:34:45Z",
+  "layer_id_s": "restricted-figgy:95cdcc97-299b-4a6f-a8a4-1ced406f1da4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d1823d70-c0a5-4203-ae1b-d237d9ffbd18\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0413f959-293d-44a3-aecd-6b020ce3d3df/file/3f5c4a27-efde-4ee2-8a5b-6c19e017aebd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95cdcc97-299b-4a6f-a8a4-1ced406f1da4/file/8797bef0-3295-4a18-8dbb-b7699a56052b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95cdcc97-299b-4a6f-a8a4-1ced406f1da4/file/a0f9fbbb-633b-4631-9520-9c9e429e5eb4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

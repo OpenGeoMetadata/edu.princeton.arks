@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bg44j",
+  "layer_slug_s": "princeton-pg15bg44j",
+  "uuid": "princeton-pg15bg44j",
+  "dc_title_s": "Chile Major Roads, 1995",
+  "solr_geom": "ENVELOPE(-75.952, -66.6559, -17.7832, -56.0896)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Chile major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-06-07T04:33:07Z",
+  "layer_id_s": "restricted-figgy:edb26b9d-4f85-4746-b7cc-3afb0dd3f369",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3922920c-bb79-4b6b-835e-a22635889a72\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d15265f4-e2c5-41aa-9f63-076ccd47af77/file/3d4a03f0-4118-4660-932e-6c4f362611ba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edb26b9d-4f85-4746-b7cc-3afb0dd3f369/file/4c2696dc-c99e-4955-abb5-40c5ad90f1b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edb26b9d-4f85-4746-b7cc-3afb0dd3f369/file/dbed188c-51b0-462d-b45b-5c59d64a00c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

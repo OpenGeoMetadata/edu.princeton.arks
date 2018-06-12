@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150n674",
+  "layer_slug_s": "princeton-vt150n674",
+  "uuid": "princeton-vt150n674",
+  "dc_title_s": "Benton County, Minnesota land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.351778, -93.759288, 45.82426, 45.55908)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Benton County, Minnesota, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Benton",
+    "Benton County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:02Z",
+  "layer_id_s": "restricted-figgy:a7e5f141-eed9-47ea-b9f0-8b03eb2a45fd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/32b2ba31-16f3-4e23-811a-27118d5a82a5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/67bc6d3a-28e3-4d2e-b906-29da542449ba/file/8c45b2b2-32d9-4859-88a7-7f22c5908f72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7e5f141-eed9-47ea-b9f0-8b03eb2a45fd/file/6dc9ed88-0f23-4cc0-a2d3-8a0ab51ff491\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7e5f141-eed9-47ea-b9f0-8b03eb2a45fd/file/c88ce4ce-d6d4-4aef-a824-290d31ba8b9d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

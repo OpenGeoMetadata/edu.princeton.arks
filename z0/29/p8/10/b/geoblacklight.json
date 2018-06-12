@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p810b",
+  "layer_slug_s": "princeton-z029p810b",
+  "uuid": "princeton-z029p810b",
+  "dc_title_s": "Potter County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-102.167447, -101.622566, 35.620294, 35.181286)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Potter County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Potter County",
+    "Texas",
+    "Amarillo",
+    "Potter"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:29:32Z",
+  "layer_id_s": "restricted-figgy:80edebe8-e4f7-41f3-bb1c-9c1e32b07a91",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2305499-769c-4e29-89fb-73b6c6226ed8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a3a13ea-151a-47cc-b5b5-505edee8adbd/file/ac74cad9-536f-4c82-81cc-fba9ec024c1e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80edebe8-e4f7-41f3-bb1c-9c1e32b07a91/file/37e6e159-8d19-49fe-8611-389b9c0083c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80edebe8-e4f7-41f3-bb1c-9c1e32b07a91/file/9e06f03c-92b9-4506-8f73-d16a34deec84\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

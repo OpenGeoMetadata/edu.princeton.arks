@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j3860840v",
+  "layer_slug_s": "princeton-j3860840v",
+  "uuid": "princeton-j3860840v",
+  "dc_title_s": "Minnesota Tracts 2002",
+  "solr_geom": "ENVELOPE(-97.239209, -89.491638, 49.384359, 43.499357)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Minnesota Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Minnesota.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:5da579fc-fe65-41f3-a47e-9417ebe294d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/14bd4894-cc83-4de2-9085-0c8cf0f35815\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2134999e-05ff-4be7-847e-1e48d467d234/file/32177538-d459-484c-9504-9df2d92db1d5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5da579fc-fe65-41f3-a47e-9417ebe294d7/file/b6f2c283-1267-49f4-87ac-a862c43dc1f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5da579fc-fe65-41f3-a47e-9417ebe294d7/file/d3e7ec4c-22bf-4525-b823-82e4d8a89110\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

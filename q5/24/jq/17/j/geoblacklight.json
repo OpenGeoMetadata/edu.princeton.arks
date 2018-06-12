@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q524jq17j",
+  "layer_slug_s": "princeton-q524jq17j",
+  "uuid": "princeton-q524jq17j",
+  "dc_title_s": "Mexico Major Lakes, 1997",
+  "solr_geom": "ENVELOPE(-109.925247, -92.057312, 29.631775, 15.857027)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Mexico created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:03Z",
+  "layer_id_s": "restricted-figgy:b123654d-98d0-4b34-ab4c-284204f48c00",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/668d8c54-5e68-4c85-bed1-46261af8e7fb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/681330a8-aacf-4101-84a9-b70416c12f6f/file/e594ffa0-3c28-4940-b30c-e181c2ed7a21\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b123654d-98d0-4b34-ab4c-284204f48c00/file/dc9dfb56-db33-4fcc-860d-368f90f343b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b123654d-98d0-4b34-ab4c-284204f48c00/file/1def626d-ed48-4516-8ed8-067f5f789cd7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

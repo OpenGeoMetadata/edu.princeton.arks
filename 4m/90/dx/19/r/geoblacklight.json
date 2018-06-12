@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dx19r",
+  "layer_slug_s": "princeton-4m90dx19r",
+  "uuid": "princeton-4m90dx19r",
+  "dc_title_s": "Germany Major Roads, 2006",
+  "solr_geom": "ENVELOPE(5.904498, 14.985178, 54.903584, 47.387378)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:36Z",
+  "layer_id_s": "restricted-figgy:75aab271-04b7-4364-afb0-b862de6550d4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c3f7f7f-366c-40b3-91d1-d32c2660d6eb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a57d0a53-d681-460e-a7b6-25e9178a0cea/file/af3e6f03-63fa-42b3-8bbe-319b13089888\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75aab271-04b7-4364-afb0-b862de6550d4/file/c6a92c0d-6610-4693-af3e-1679470f2b7f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75aab271-04b7-4364-afb0-b862de6550d4/file/722d2dae-86d1-4035-bd5b-f4862f82b06e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

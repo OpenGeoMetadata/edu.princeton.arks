@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w9505397c",
+  "layer_slug_s": "princeton-w9505397c",
+  "uuid": "princeton-w9505397c",
+  "dc_title_s": "Essex County, Massachusetts land parcels, 2011",
+  "solr_geom": "ENVELOPE(-71.255878, -70.573177, 42.886778, 42.415876)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Essex County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Essex",
+    "Essex County",
+    "Massachusetts",
+    "Lynn",
+    "Haverhill",
+    "Lawrence",
+    "Boston"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:27Z",
+  "layer_id_s": "restricted-figgy:8c74c8bf-4fb6-41f3-859a-ebf7262d42cd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/20246e4d-cb86-4a31-aa03-8ae8eda1faad\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef5b7f49-5e67-414d-9afe-f4ebfbf25ef7/file/694bd77a-a25a-42f9-9753-4f5a65d3efbe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8c74c8bf-4fb6-41f3-859a-ebf7262d42cd/file/8fc8b17e-7d7a-4e81-aded-50df596ef0c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8c74c8bf-4fb6-41f3-859a-ebf7262d42cd/file/006f9d7f-e9e7-408b-abf1-3163d8ab124e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qv33rz29m",
+  "layer_slug_s": "princeton-qv33rz29m",
+  "uuid": "princeton-qv33rz29m",
+  "dc_title_s": "Cairo Water Bodies",
+  "solr_geom": "ENVELOPE(30.819827, 31.780551, 30.280867, 29.723395)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygons representing water bodies in Cairo.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "rivers",
+    "waterways",
+    "lakes",
+    "coasts",
+    "ponds",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Cairo"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:04:34Z",
+  "layer_id_s": "restricted-figgy:1351f2b2-19ec-4e8b-aa4d-2e0fd6cf3d5b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e3b699f-f237-48d9-9bac-a2ed7c6a1a72\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/929e7d39-0de9-4443-8a67-3cca498a4983/file/72758b16-4a32-4d5e-8dec-dc2568a5b71b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1351f2b2-19ec-4e8b-aa4d-2e0fd6cf3d5b/file/76c164e6-1cbf-4e5c-9869-b51be0af19f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1351f2b2-19ec-4e8b-aa4d-2e0fd6cf3d5b/file/d2150de4-09ca-496b-9119-d743f0f0728c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

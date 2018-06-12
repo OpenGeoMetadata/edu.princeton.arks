@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429b64h",
+  "layer_slug_s": "princeton-47429b64h",
+  "uuid": "princeton-47429b64h",
+  "dc_title_s": "Albania Karst Topography, 2005",
+  "solr_geom": "ENVELOPE(19.466555, 20.877138, 42.411888, 40.177723)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Albania karst topography created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Karst Topography",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:01Z",
+  "layer_id_s": "restricted-figgy:8a350171-a5cd-4562-9e11-93a2176ca8ad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d900ac4-a8f2-4730-a54e-8d6ce7e06820\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/01bce29d-3c1f-4aa7-85cb-9b0dc2847cbb/file/dbf0f20e-246e-41b9-8082-822b739d72a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a350171-a5cd-4562-9e11-93a2176ca8ad/file/26e88ece-e11a-4fd9-b4c2-f5ccfb676710\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a350171-a5cd-4562-9e11-93a2176ca8ad/file/91f4b927-d45f-4389-9e54-7a3886d801fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

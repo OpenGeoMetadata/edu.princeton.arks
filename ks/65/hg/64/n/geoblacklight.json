@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg64n",
+  "layer_slug_s": "princeton-ks65hg64n",
+  "uuid": "princeton-ks65hg64n",
+  "dc_title_s": "Randolph County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-91.406902, -90.748641, 36.498687, 36.116095)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Randolph County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Randolph",
+    "Randolph County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:31Z",
+  "layer_id_s": "restricted-figgy:b311bcab-9cb8-4a1d-b9bb-e119d610a732",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/307e3f51-29f2-4f24-b945-7c31eacaedd6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5fbca9d9-4ad2-4325-90f1-2d377b9ac5c5/file/88751730-cfd6-40b0-b028-4d81df5d5e9d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b311bcab-9cb8-4a1d-b9bb-e119d610a732/file/b20d5fe1-8dcb-45f9-a4ab-30ec74e1c904\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b311bcab-9cb8-4a1d-b9bb-e119d610a732/file/207bea1d-17cf-437d-8058-1a95e8cfa1e3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

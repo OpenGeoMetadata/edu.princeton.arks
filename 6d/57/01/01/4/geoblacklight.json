@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6d5701014",
+  "layer_slug_s": "princeton-6d5701014",
+  "uuid": "princeton-6d5701014",
+  "dc_title_s": "Doddridge County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.914072, -80.527876, 39.451794, 39.088637)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Doddridge County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Doddridge",
+    "Doddridge County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:23Z",
+  "layer_id_s": "restricted-figgy:aba96b94-ec59-407f-a0c9-53457d828694",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e66b71e7-4a54-4690-982c-68f69ea3e3cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e1aac295-8d5a-4d05-8cdd-cb016fbaf156/file/c349ac9a-c916-44c4-8ffd-19832b53023b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aba96b94-ec59-407f-a0c9-53457d828694/file/312da78d-c19d-4fad-bf4f-1d11df702911\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aba96b94-ec59-407f-a0c9-53457d828694/file/6ffaa467-4112-4928-919c-1cb0d2b4c4c5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

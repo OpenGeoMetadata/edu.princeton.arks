@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/794081640",
+  "layer_slug_s": "princeton-794081640",
+  "uuid": "princeton-794081640",
+  "dc_title_s": "Somervell County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-97.945624, -97.613493, 32.322591, 32.087343)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Somervell County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dallas",
+    "Fort Worth",
+    "Arlington",
+    "Texas",
+    "Somervell",
+    "Somervell County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:52Z",
+  "layer_id_s": "restricted-figgy:33bfc234-4a0a-4edf-9e45-2121f2754531",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/affd1cbf-993f-4c7b-a42e-9ca9cffb9821\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b82baf0a-72eb-4baa-bbb7-1973415969b2/file/7b0a6af9-452e-4a9f-94d7-a6e200e51a44\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33bfc234-4a0a-4edf-9e45-2121f2754531/file/2b4e326e-9c34-417b-8ff8-fed30f2a3132\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33bfc234-4a0a-4edf-9e45-2121f2754531/file/aa5c142b-dd0b-4b7a-a650-dce3a2929c23\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

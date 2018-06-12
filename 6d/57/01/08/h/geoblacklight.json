@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6d570108h",
+  "layer_slug_s": "princeton-6d570108h",
+  "uuid": "princeton-6d570108h",
+  "dc_title_s": "Scott County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.888409, -85.570187, 38.831977, 38.561233)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Scott County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Scott",
+    "Scott County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:21Z",
+  "layer_id_s": "restricted-figgy:93258159-f547-405e-adac-c474a33b190a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f98f20cd-ef0f-497a-9f9e-8b362c8eb25f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f632355-f473-4e3a-b1ee-97f114b10288/file/848e6e9a-cfee-4144-8d16-c4b2d96f60d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93258159-f547-405e-adac-c474a33b190a/file/a794d26e-7a96-44e7-bb34-1e60b847a54d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93258159-f547-405e-adac-c474a33b190a/file/8d44aa62-c162-47d8-8982-f9e89574fc2d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

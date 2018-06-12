@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc41f",
+  "layer_slug_s": "princeton-5425kc41f",
+  "uuid": "princeton-5425kc41f",
+  "dc_title_s": "Middlesex County, New Jersey land parcels, 2010",
+  "solr_geom": "ENVELOPE(-74.624409, -74.227297, 40.608671, 40.328623)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Middlesex County, New Jersey, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Middlesex County",
+    "Middlesex",
+    "New Brunswick"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:12:54Z",
+  "layer_id_s": "restricted-figgy:dec35397-3112-46ae-94ff-b0caa57a2d3b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bf6401fb-9fe2-4666-8fcd-4ac7f900863b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a482dc63-b175-499d-970a-349a305a56b2/file/c7280ac4-9478-4b18-8a14-a8dc10132e25\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dec35397-3112-46ae-94ff-b0caa57a2d3b/file/bcf1e996-b789-4bff-b5fa-947c7dda4113\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dec35397-3112-46ae-94ff-b0caa57a2d3b/file/908dd435-512f-4356-a641-e18bf9c64992\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

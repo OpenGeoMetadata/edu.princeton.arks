@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dv13zx661",
+  "layer_slug_s": "princeton-dv13zx661",
+  "uuid": "princeton-dv13zx661",
+  "dc_title_s": "Dakota County, Minnesota roads, 2014",
+  "solr_geom": "ENVELOPE(-93.329796, -92.731989, 44.923287, 44.471149)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Dakota County, Minnesota, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Dakota",
+    "Dakota County",
+    "Eagan",
+    "Minneapolis",
+    "Saint Paul",
+    "St. Paul",
+    "Twin Cities"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:40Z",
+  "layer_id_s": "restricted-figgy:1fa51963-53e3-492b-9401-60b204fe2184",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9a92691-cad7-4395-a5ae-a653c0d164e8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d2ff001c-538f-455d-ab07-3def98cc13ef/file/949b478a-606b-46f8-baa7-282226896107\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1fa51963-53e3-492b-9401-60b204fe2184/file/b58174c7-d933-4cc9-ad36-2cd0e7f4b834\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1fa51963-53e3-492b-9401-60b204fe2184/file/4adfb237-19e0-48fe-a76d-63a4e20c19d8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2801pk817",
+  "layer_slug_s": "princeton-2801pk817",
+  "uuid": "princeton-2801pk817",
+  "dc_title_s": "Harrison County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.328477, -85.899456, 38.422717, 37.95874)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Harrison County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Harrison County",
+    "Harrison",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:23Z",
+  "layer_id_s": "restricted-figgy:3964bf7e-744f-4791-90e9-e2ba102538c0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d6161f84-b49d-4f64-a189-99fccf61d504\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1fba5293-7331-4084-bd6d-d4c290d95d63/file/765a0cc3-77c9-4755-b228-d65b3dadbe97\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3964bf7e-744f-4791-90e9-e2ba102538c0/file/3a59d4c4-77e4-41b8-acbe-587ec0975b63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3964bf7e-744f-4791-90e9-e2ba102538c0/file/4b093d9c-c547-4983-b0d4-fbb1af561fc8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

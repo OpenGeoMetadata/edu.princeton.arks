@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848v24b",
+  "layer_slug_s": "princeton-ft848v24b",
+  "uuid": "princeton-ft848v24b",
+  "dc_title_s": "Licking County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.782413, -82.182839, 40.276948, 39.913255)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Licking County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Licking",
+    "Licking County",
+    "Ohio",
+    "Columbus"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:40Z",
+  "layer_id_s": "restricted-figgy:6c095841-0d26-4847-9964-68d81b7e5ae2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cba3b0a7-33aa-489a-891b-a5a499a80caa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8cb08e25-db2e-4285-b8e7-4c6fae0fe20e/file/038d7f54-6f94-490a-8222-465e880ba25d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c095841-0d26-4847-9964-68d81b7e5ae2/file/22f19334-eed4-459e-9e66-2a7237f5b1e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c095841-0d26-4847-9964-68d81b7e5ae2/file/d5cabb0e-a675-4b31-8f44-2a5b21509c5f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

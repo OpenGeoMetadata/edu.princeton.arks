@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8049g661r",
+  "layer_slug_s": "princeton-8049g661r",
+  "uuid": "princeton-8049g661r",
+  "dc_title_s": "Slovenia Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(13.728693, 15.264325, 46.359923, 45.547445)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovenia cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:25Z",
+  "layer_id_s": "restricted-figgy:e6c12c3b-ca17-4cbf-9954-66a7bfb38dfb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/84aa3825-9d09-43c6-b2c7-8e5363f6c77b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e138eaf5-9298-434b-9f47-9d35a7d11ea8/file/93776033-471c-4e61-a1db-09181c8ef1de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6c12c3b-ca17-4cbf-9954-66a7bfb38dfb/file/20eb8f85-29ff-4182-b1f6-f00c9e18b1d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6c12c3b-ca17-4cbf-9954-66a7bfb38dfb/file/91c1dcd4-0e77-4412-9df4-589e7401fb25\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

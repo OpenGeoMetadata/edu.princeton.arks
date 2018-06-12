@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rr172162f",
+  "layer_slug_s": "princeton-rr172162f",
+  "uuid": "princeton-rr172162f",
+  "dc_title_s": "Jefferson County, Missouri land parcels, 2010",
+  "solr_geom": "ENVELOPE(-90.780186, -90.251378, 38.501939, 38.003498)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Missouri, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson County",
+    "Jefferson",
+    "Missouri",
+    "St. Louis"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:46:45Z",
+  "layer_id_s": "restricted-figgy:08109280-e239-4d0e-956e-d97fb4e6dc8d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d1857650-3f39-4c8d-bbf0-2ca7b9841f63\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08e8f96b-cc72-40fc-bf1f-de7b6e2b5ee5/file/0bdb2310-2148-4b41-87e8-33fc26ad5139\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08109280-e239-4d0e-956e-d97fb4e6dc8d/file/e730d54b-05f3-40ee-a023-984285cdb57f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08109280-e239-4d0e-956e-d97fb4e6dc8d/file/3850b53f-2481-4529-b9c2-061fb386eb56\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

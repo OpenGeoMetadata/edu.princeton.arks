@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440v17w",
+  "layer_slug_s": "princeton-6h440v17w",
+  "uuid": "princeton-6h440v17w",
+  "dc_title_s": "Mexico Lakes 2000",
+  "solr_geom": "ENVELOPE(-117.2024, -86.7705, 32.6502, 14.5735)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico Lakes represents the major lakes and reservoirs within Mexico.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "lake",
+    "reservoir",
+    "hydrography"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:59:57Z",
+  "layer_id_s": "restricted-figgy:e6e0840c-2883-4b57-a8f6-9144c58cb7c4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0535ab2b-85b3-49ea-88bb-95a81e791748\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e67ad141-1480-4a97-9c5b-3fc172a12d30/file/5bdbff96-0d29-4156-bee2-30017e26665c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6e0840c-2883-4b57-a8f6-9144c58cb7c4/file/c39a71f0-f8d7-48ee-b543-33e1fc48f6aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6e0840c-2883-4b57-a8f6-9144c58cb7c4/file/0fa27a41-66a2-4aeb-8c2a-a9a2661bf692\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

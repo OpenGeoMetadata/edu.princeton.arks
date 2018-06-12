@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547s82c",
+  "layer_slug_s": "princeton-p5547s82c",
+  "uuid": "princeton-p5547s82c",
+  "dc_title_s": "Belarus 2-Digit Postcode Areas, 2004",
+  "solr_geom": "ENVELOPE(23.190115, 32.770797, 56.168457, 51.256405)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Belarus 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Belarus"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:15:55Z",
+  "layer_id_s": "restricted-figgy:0d16603e-afa6-4a94-9abe-09bfad62c332",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c621071e-76d9-4301-9287-1dee549674df\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c285f907-d70c-499a-8320-891a1c4bd05f/file/9add9bd2-f320-421f-a276-0aabba06ddfc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d16603e-afa6-4a94-9abe-09bfad62c332/file/a8f7e653-8185-4ea8-9315-08621228bd44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d16603e-afa6-4a94-9abe-09bfad62c332/file/783ae868-79aa-41bb-b1b3-92673cc11971\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161952q",
+  "layer_slug_s": "princeton-9s161952q",
+  "uuid": "princeton-9s161952q",
+  "dc_title_s": "Sussex County, Delaware land parcels, 2007",
+  "solr_geom": "ENVELOPE(-75.722822, -75.049436, 38.961652, 38.450684)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sussex County, Delaware, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Sussex",
+    "Sussex County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:07:43Z",
+  "layer_id_s": "restricted-figgy:39d0bf0f-47a7-4982-a323-eb93c7452d91",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/46c6386e-e293-4c65-b5cd-88416f51bf07\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47e601b9-3f8d-45eb-97d0-6398d8508c4b/file/e9c9c08d-9ad3-4faa-b037-816f4bcfa16f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/39d0bf0f-47a7-4982-a323-eb93c7452d91/file/699b07a9-6e84-4a21-a89b-3d047ee408b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/39d0bf0f-47a7-4982-a323-eb93c7452d91/file/204cfc22-dd6f-4122-8c5a-5d9614c3f7e5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

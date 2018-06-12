@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nf68h",
+  "layer_slug_s": "princeton-qf85nf68h",
+  "uuid": "princeton-qf85nf68h",
+  "dc_title_s": "Alachua County, Florida roads, 2011",
+  "solr_geom": "ENVELOPE(-82.659966, -82.049225, 29.946074, 29.427895)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Alachua County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Alachua County",
+    "Alachua",
+    "Florida",
+    "Gainesville"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:52Z",
+  "layer_id_s": "restricted-figgy:9f70e639-9ad2-4ad6-92ea-1f71a4f8d0c5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5014f83-87be-4175-9ad4-800999c9491e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/093e1f32-c117-45f1-a7d0-ba375ee1da3f/file/3c719712-aa80-4e7c-a8e1-f9a17c75c2d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f70e639-9ad2-4ad6-92ea-1f71a4f8d0c5/file/e95aa6f8-4742-4999-9b7e-671829eb5cb0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f70e639-9ad2-4ad6-92ea-1f71a4f8d0c5/file/cda84c6b-2336-4fdc-9484-f1bdea38df88\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

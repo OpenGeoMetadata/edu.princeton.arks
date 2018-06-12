@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v202b",
+  "layer_slug_s": "princeton-2r36v202b",
+  "uuid": "princeton-2r36v202b",
+  "dc_title_s": "Sierra Leone extracted historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(-13.311122, -10.255915, 10.014225, 6.924225)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Sierra Leone for 1948. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Sierra Leone"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "2016"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-04-05T06:48:42Z",
+  "layer_id_s": "public-figgy:aaf86b35-bc0b-44ca-8570-8986d6d25096",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/05c41d9f-fdfd-41ce-a433-a7131da0de52\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91abce74-9317-429f-948d-59b09425821a/file/73445d0a-138a-4390-869b-0119d5413853\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aaf86b35-bc0b-44ca-8570-8986d6d25096/file/36f62878-d2b5-4147-afd0-4fe3cd9adcc1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aaf86b35-bc0b-44ca-8570-8986d6d25096/file/bc84bf0f-4d30-4598-b393-035745ac6333\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

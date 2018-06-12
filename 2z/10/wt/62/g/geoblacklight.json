@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt62g",
+  "layer_slug_s": "princeton-2z10wt62g",
+  "uuid": "princeton-2z10wt62g",
+  "dc_title_s": "Blackford County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.446997, -85.200615, 40.567334, 40.378217)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Blackford County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Blackford County",
+    "Blackford",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:31Z",
+  "layer_id_s": "restricted-figgy:ba1f804d-df62-48c9-bcbe-3e9c6ac28e55",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22534907-eae2-417b-936d-f231d5ced6ec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/adc0484c-0f09-4a1f-a1bd-a8327145f03d/file/9a80b08a-28e4-4f61-bc7d-6e97f5d8bf48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba1f804d-df62-48c9-bcbe-3e9c6ac28e55/file/124d729f-b2bc-452d-88ec-a0e27279e9c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba1f804d-df62-48c9-bcbe-3e9c6ac28e55/file/fc77e5dc-3314-4e93-8ca9-ecabbcd544ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

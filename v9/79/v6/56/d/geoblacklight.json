@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v979v656d",
+  "layer_slug_s": "princeton-v979v656d",
+  "uuid": "princeton-v979v656d",
+  "dc_title_s": "Hyde County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-76.638261, -75.771505, 35.705387, 35.065385)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hyde County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hyde",
+    "Hyde County",
+    "North Carolina",
+    "Pamlico Sound"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:12:29Z",
+  "layer_id_s": "restricted-figgy:7f677fb8-8579-46d2-b64d-8683e4e37783",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d96946b4-e5c8-49bf-8aac-76b89649c7e8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a44c3bdd-7650-4a7f-997a-867804f2ae95/file/438a0e2c-2316-41db-8514-adf761da0bb3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f677fb8-8579-46d2-b64d-8683e4e37783/file/0470766e-cefe-40ec-8eae-edb583554e47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f677fb8-8579-46d2-b64d-8683e4e37783/file/18c39dbc-0516-4e22-8ac4-3fec565b4c2f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

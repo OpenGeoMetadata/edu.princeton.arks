@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042x546",
+  "layer_slug_s": "princeton-rv042x546",
+  "uuid": "princeton-rv042x546",
+  "dc_title_s": "Marion County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.328054, -85.938102, 39.934302, 39.632232)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Marion County",
+    "Marion",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:55Z",
+  "layer_id_s": "restricted-figgy:8f70369c-6493-4d65-887c-88dd3b623ec5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0014b166-77d2-4d59-bbc5-0a2030ba2c31\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ba87301b-e73b-4007-bf92-4ae9acdd2a78/file/9a4ede5e-cbd7-4f87-8d4f-5a38c4a21b1a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f70369c-6493-4d65-887c-88dd3b623ec5/file/593d3408-6941-4233-a397-69a68351011d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f70369c-6493-4d65-887c-88dd3b623ec5/file/807362a6-f3f5-4369-beaa-08b8fe28ec5d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

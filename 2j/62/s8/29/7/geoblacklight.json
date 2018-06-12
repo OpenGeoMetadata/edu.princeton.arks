@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2j62s8297",
+  "layer_slug_s": "princeton-2j62s8297",
+  "uuid": "princeton-2j62s8297",
+  "dc_title_s": "Q3 flood data, Iowa",
+  "solr_geom": "ENVELOPE(-96.498764, -90.312642, 42.642359, 41.159522)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Iowa, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Black Hawk County",
+    "Johnson County",
+    "Linn County",
+    "Polk County",
+    "Pottawattamie County",
+    "Scott County",
+    "Story County",
+    "Woodbury County",
+    "Black Hawk",
+    "Johnson",
+    "Linn",
+    "Polk",
+    "Pottawattamie",
+    "Scott",
+    "Story",
+    "Woodbury"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-04T22:49:19Z",
+  "layer_id_s": "restricted-figgy:0737c100-b83e-4a59-a544-7782707660d0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e11900f3-f501-4912-b14f-fed3ab7169fb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/adebf91d-3c0f-4a9f-b477-0a0499b4d124/file/6ba27355-a203-4454-a2ea-efe910cc4e3d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0737c100-b83e-4a59-a544-7782707660d0/file/1839cbf1-f9e0-479e-98b1-dc9cad1d392a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0737c100-b83e-4a59-a544-7782707660d0/file/012ff5ab-3adb-4c2c-b3b7-d4a75548daa0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

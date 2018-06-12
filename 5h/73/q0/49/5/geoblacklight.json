@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5h73q0495",
+  "layer_slug_s": "princeton-5h73q0495",
+  "uuid": "princeton-5h73q0495",
+  "dc_title_s": "Wyandotte County, Kansas land parcels, 2007",
+  "solr_geom": "ENVELOPE(-94.914125, -94.590632, 39.204429, 38.984324)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wyandotte County, Kansas, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wyandotte County",
+    "Wyandotte",
+    "Kansas",
+    "Kansas City"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T00:33:34Z",
+  "layer_id_s": "restricted-figgy:2b835c34-a246-4c44-af17-8d7d66a56778",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/87029b5c-7c93-491d-86b0-37bb1d0a9c06\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/12e33d77-2f91-4a66-927e-280f7b080418/file/431f7791-0346-4ee7-b63b-049d14ca3155\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b835c34-a246-4c44-af17-8d7d66a56778/file/1f7efff4-e24e-497b-891d-a4cfc74da45c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b835c34-a246-4c44-af17-8d7d66a56778/file/d195f1b5-49cd-4463-b7d7-8b708a0f9c78\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

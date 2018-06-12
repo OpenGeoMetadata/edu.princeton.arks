@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515r88g",
+  "layer_slug_s": "princeton-b8515r88g",
+  "uuid": "princeton-b8515r88g",
+  "dc_title_s": "Ghana extracted historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(-3.281098, 1.228055, 11.124731, 4.755069)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of colonies, provinces, and districts in Gold Coast and British Togoland (Ghana) for 1948. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Ghana",
+    "Gold Coast",
+    "Togoland",
+    "British Togoland"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "2016"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "public-figgy:4b5b4098-e08b-4e4a-af45-fdfae7c60c50",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9245ec9-c9e5-47a1-baa8-d4fa10c2fc7a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9702a6b1-9614-4084-b3d0-d0ec904257f5/file/e581dc66-fc10-4f78-87d7-4eb583063cac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b5b4098-e08b-4e4a-af45-fdfae7c60c50/file/f9c1fbfd-0b3a-4772-8e99-f865f0bf676d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b5b4098-e08b-4e4a-af45-fdfae7c60c50/file/d029ff5a-d878-45ff-af74-bbea29d6cbf7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/37720h191",
+  "layer_slug_s": "princeton-37720h191",
+  "uuid": "princeton-37720h191",
+  "dc_title_s": "Effingham County, Georgia roads, 2014",
+  "solr_geom": "ENVELOPE(-81.53886, -81.147682, 32.592143, 32.102486)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Effingham County, Georgia, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Effingham",
+    "Effingham County",
+    "Georgia",
+    "Savannah"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:02Z",
+  "layer_id_s": "restricted-figgy:d0ce9868-4a97-47a3-93cd-0d5aebf35e49",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3b58add2-fb61-4683-becb-f2eff0acbeb9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/050143ec-4c43-45b2-87b8-b6720b4cb377/file/51d557bf-8980-4ee8-9cde-943228d736bb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0ce9868-4a97-47a3-93cd-0d5aebf35e49/file/7ab3d413-cb12-466b-8142-30a957b864bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0ce9868-4a97-47a3-93cd-0d5aebf35e49/file/dcfa0347-e874-40eb-9f28-2e7c80c2f22e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

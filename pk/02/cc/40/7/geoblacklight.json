@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cc407",
+  "layer_slug_s": "princeton-pk02cc407",
+  "uuid": "princeton-pk02cc407",
+  "dc_title_s": "Delaware Tracts 2002",
+  "solr_geom": "ENVELOPE(-75.788758, -75.04829, 39.839007, 38.451014)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Delaware Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Delaware.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:27Z",
+  "layer_id_s": "restricted-figgy:13d132d1-7121-42e8-9732-eecff7ad3b86",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/58dd31b3-0a71-4c10-a7d0-edd79dd4ad16\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b329e434-44f9-4876-90e3-e7498bd68f7b/file/ce1fe8b9-63d8-436e-9b5b-681e65e5d37b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13d132d1-7121-42e8-9732-eecff7ad3b86/file/eb688ed9-4d89-4cd6-b912-b9b2bf201b75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13d132d1-7121-42e8-9732-eecff7ad3b86/file/8737cf96-20a3-44f8-8967-7ecc9095a5b8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

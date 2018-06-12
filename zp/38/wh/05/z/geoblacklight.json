@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wh05z",
+  "layer_slug_s": "princeton-zp38wh05z",
+  "uuid": "princeton-zp38wh05z",
+  "dc_title_s": "Alleghany County, North Carolina land parcels, 2005",
+  "solr_geom": "ENVELOPE(-81.35574, -80.901665, 36.575958, 36.366159)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alleghany County, North Carolina, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Alleghany",
+    "Alleghany County"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T22:48:37Z",
+  "layer_id_s": "restricted-figgy:fea6802c-032f-4fe8-9c28-e2c3ea76de6b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9f021c45-2153-4265-839f-cca46e3f7f29\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0243c7c1-18b1-4a80-a60d-42ff0808c4a4/file/5f2057b1-d0bf-4bf0-aff6-d8b09893a8f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fea6802c-032f-4fe8-9c28-e2c3ea76de6b/file/77822896-0fd6-41b7-8b1c-63affa8db1dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fea6802c-032f-4fe8-9c28-e2c3ea76de6b/file/a531679c-3145-43fd-94fc-015bb8ac8d20\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

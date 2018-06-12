@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/79408161j",
+  "layer_slug_s": "princeton-79408161j",
+  "uuid": "princeton-79408161j",
+  "dc_title_s": "Kern County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-120.194369, -117.616518, 35.798393, 34.78858)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kern County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kern",
+    "Kern County",
+    "California",
+    "Bakersfield",
+    "Sequoia National Forest",
+    "Edwards Air Force Base"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:37Z",
+  "layer_id_s": "restricted-figgy:d9073829-d7ee-4588-ad4e-9b33b675edff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6a7c1d8a-9de1-45c7-99c9-233707ac2833\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e656887a-2603-4579-b3d8-f527d10c17ae/file/fc36419f-7b00-4b87-a7a7-aff18f16724d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9073829-d7ee-4588-ad4e-9b33b675edff/file/86871c3f-6528-4a4f-aa68-573a09180f6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9073829-d7ee-4588-ad4e-9b33b675edff/file/cf7f9fec-b337-4ac8-bf16-d3c0ab9237a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

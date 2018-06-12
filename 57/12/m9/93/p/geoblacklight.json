@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712m993p",
+  "layer_slug_s": "princeton-5712m993p",
+  "uuid": "princeton-5712m993p",
+  "dc_title_s": "Berkeley County, South Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.358454, -79.445652, 33.507489, 32.81899)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Berkeley County, South Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Berkeley",
+    "Berkeley County",
+    "Francis Marion National Forest",
+    "Charleston"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2007"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:11Z",
+  "layer_id_s": "restricted-figgy:d8343c2c-6d6c-4584-a97f-d61818ca1d77",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4537857a-d135-45f6-aeac-b8531025a743\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3a3a648-8b5b-48cf-bc20-98c482ad37da/file/00373066-736d-44c5-909e-7439882d8296\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8343c2c-6d6c-4584-a97f-d61818ca1d77/file/49a842b3-ef32-45c6-a8fd-b5473cee9b50\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8343c2c-6d6c-4584-a97f-d61818ca1d77/file/d7e8e52d-ca4c-4dc3-8aa2-549c6bcdc787\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

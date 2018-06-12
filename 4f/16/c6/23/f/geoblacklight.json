@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4f16c623f",
+  "layer_slug_s": "princeton-4f16c623f",
+  "uuid": "princeton-4f16c623f",
+  "dc_title_s": "Franklin County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-119.454238, -118.198402, 46.740054, 46.197967)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Franklin",
+    "Franklin County",
+    "Snake River",
+    "Columbia River"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:18Z",
+  "layer_id_s": "restricted-figgy:02a11092-ee75-4230-85cd-14bb23e64121",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9ef5a05f-50cd-43f8-9e46-dbef372058a4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/967848c0-3d36-4210-8e8f-0ded716f7e3c/file/eee4bb7e-3b00-444d-9348-016d960bc956\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02a11092-ee75-4230-85cd-14bb23e64121/file/28bce2a7-e234-41e7-ac50-8f5d53b55191\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02a11092-ee75-4230-85cd-14bb23e64121/file/fa94aea1-bffb-4780-a753-e2668f62ebab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

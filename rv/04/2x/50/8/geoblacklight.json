@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042x508",
+  "layer_slug_s": "princeton-rv042x508",
+  "uuid": "princeton-rv042x508",
+  "dc_title_s": "Hardee County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.055902, -81.56341, 27.646714, 27.336815)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hardee County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hardee County",
+    "Hardee",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:01Z",
+  "layer_id_s": "restricted-figgy:c5ad3708-9e10-4240-b117-b4d311a85983",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6fe38f9e-2c32-480f-adf5-a48dd9b90a7d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da81598d-f60e-449f-aecf-54db68f53f3f/file/dcc86760-17ef-4baf-9fa1-e9b2859d58a6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c5ad3708-9e10-4240-b117-b4d311a85983/file/3d2dba11-9823-4bcf-a103-30a4f4b8c06d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c5ad3708-9e10-4240-b117-b4d311a85983/file/b1052ef4-dfb4-4d80-a72d-baa7fc2f6431\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

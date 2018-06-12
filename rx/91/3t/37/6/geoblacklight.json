@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rx913t376",
+  "layer_slug_s": "princeton-rx913t376",
+  "uuid": "princeton-rx913t376",
+  "dc_title_s": "Boone County, Arkansas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-93.300707, -92.856075, 36.498473, 36.114234)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Boone County, Arkansas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Boone County",
+    "Boone",
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:02Z",
+  "layer_id_s": "restricted-figgy:0e301c2c-8509-4186-bcb5-2003fc8f152c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/813b02e9-2541-40df-a904-365b1ee964a9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2cb6ab6e-4351-49aa-8937-9fd01fd9ce3d/file/9341e996-9ba3-47dd-9947-8044849bdb48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e301c2c-8509-4186-bcb5-2003fc8f152c/file/6ab60315-68fc-4c63-a9dd-35448738f2ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e301c2c-8509-4186-bcb5-2003fc8f152c/file/5636027b-5a72-4244-a0d6-30ba911a6e33\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494c81w",
+  "layer_slug_s": "princeton-fb494c81w",
+  "uuid": "princeton-fb494c81w",
+  "dc_title_s": "Alameda County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-122.373828, -121.469326, 37.90669, 37.454292)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alameda County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Alameda",
+    "Alameda County",
+    "Bay Area",
+    "Berkeley",
+    "Fremont",
+    "Hayward",
+    "Livermore",
+    "Oakland",
+    "Pleasanton",
+    "San Leandro",
+    "Union City"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:10Z",
+  "layer_id_s": "restricted-figgy:d30b48bb-2630-4c57-9854-2329780ae3e4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f9a72627-6519-4fa5-94fc-d76c9f79ad99\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b8506ff-c44f-460a-9417-7a9dc424341c/file/baed31a4-ece2-4b29-aebf-426df9c577e4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d30b48bb-2630-4c57-9854-2329780ae3e4/file/566683d5-c2ba-4593-90b9-d0ad2550513d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d30b48bb-2630-4c57-9854-2329780ae3e4/file/e8d02032-1683-4409-96b8-39908a8a02b6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

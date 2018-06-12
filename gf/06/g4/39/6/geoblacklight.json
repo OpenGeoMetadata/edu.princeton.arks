@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g4396",
+  "layer_slug_s": "princeton-gf06g4396",
+  "uuid": "princeton-gf06g4396",
+  "dc_title_s": "Bulgaria Municipality Boundaries, 2005",
+  "solr_geom": "ENVELOPE(22.357041, 28.607525, 44.215463, 41.235367)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Bulgaria created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Bulgaria"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:49Z",
+  "layer_id_s": "restricted-figgy:bcae54e4-8d55-4d2a-9cdf-7ceb945ef7e0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e0b6ff21-d656-4221-bc24-0547d0383777\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b7b48505-b1a1-4d63-b368-b79905b9a67d/file/7c0e7050-d954-4723-ba62-6e8234cb5bb6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcae54e4-8d55-4d2a-9cdf-7ceb945ef7e0/file/e0d71550-07f7-4043-a1e7-12b416b5c0ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcae54e4-8d55-4d2a-9cdf-7ceb945ef7e0/file/ba8dd36c-ff2e-45bc-b59d-a13441115bbc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

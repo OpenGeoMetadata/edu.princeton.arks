@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m613n022x",
+  "layer_slug_s": "princeton-m613n022x",
+  "uuid": "princeton-m613n022x",
+  "dc_title_s": "Tompkins County, New York land parcels, 2009",
+  "solr_geom": "ENVELOPE(-76.696211, -76.237347, 42.627348, 42.262716)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tompkins County, New York, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Tompkins",
+    "Tompkins County",
+    "Ithaca",
+    "Finger Lakes"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:40:02Z",
+  "layer_id_s": "restricted-figgy:e88744c3-769f-4f1c-801b-f6bbf16c7b79",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5669a2ba-3c42-4f04-804e-26a55762d9c7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/baf564f0-d41c-461a-83f8-2af6efaa7aca/file/e50184e0-a5bf-4617-a477-88abbc1967df\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e88744c3-769f-4f1c-801b-f6bbf16c7b79/file/2d8616bd-87d1-42c0-a8c9-3df3d3f74d83\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e88744c3-769f-4f1c-801b-f6bbf16c7b79/file/27deb773-8a81-4422-89a1-3e0c8c1e33a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

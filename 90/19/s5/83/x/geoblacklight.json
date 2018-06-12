@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9019s583x",
+  "layer_slug_s": "princeton-9019s583x",
+  "uuid": "princeton-9019s583x",
+  "dc_title_s": "Piscataquis County, Maine land parcels, 2009",
+  "solr_geom": "ENVELOPE(-69.299168, -69.109046, 45.272633, 45.090166)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Piscataquis County, Maine, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Piscataquis",
+    "Piscataquis County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:15:43Z",
+  "layer_id_s": "restricted-figgy:dae4af71-6a15-42ab-a585-123cb6000d79",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eb829245-7ee3-4a00-b814-c81dfe223d8b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b38dac3-b539-4ac9-9e40-9429be954342/file/300b0194-2ec7-499b-83d8-6ad9f78fb9a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dae4af71-6a15-42ab-a585-123cb6000d79/file/384e596d-2e9f-4328-affe-b76dce8c6e42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dae4af71-6a15-42ab-a585-123cb6000d79/file/77b39a6a-a13a-44dd-860c-c80b31a2c20e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

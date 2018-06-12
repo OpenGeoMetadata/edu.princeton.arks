@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn3012926",
+  "layer_slug_s": "princeton-rn3012926",
+  "uuid": "princeton-rn3012926",
+  "dc_title_s": "Malta Elevations",
+  "solr_geom": "ENVELOPE(14.183136, 14.576155, 36.082695, 35.80599)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Malta created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Malta"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:02Z",
+  "layer_id_s": "restricted-figgy:1e63259a-2fc9-4461-b135-7a45bff22963",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/553af573-92ff-431a-9e8e-fe898758aa5b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a17c369-7e6c-4091-83fe-d764c6b06c5f/file/6989b710-a827-44c7-89bb-4eac38a59bfd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1e63259a-2fc9-4461-b135-7a45bff22963/file/18fa6920-7527-4f4d-b9dd-ae158cb5aba4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1e63259a-2fc9-4461-b135-7a45bff22963/file/a43e2868-25c8-41d4-bb2f-7e90ec458b76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

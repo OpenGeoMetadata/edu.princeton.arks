@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d7577",
+  "layer_slug_s": "princeton-x346d7577",
+  "uuid": "princeton-x346d7577",
+  "dc_title_s": "Scott County, Iowa land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.899853, -90.315527, 41.77786, 41.451429)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Scott County, Iowa, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Scott",
+    "Scott County",
+    "Davenport"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:19Z",
+  "layer_id_s": "restricted-figgy:d008c3ff-74e0-43da-b8ee-a46967524155",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b80ade12-fcc7-4c57-87f2-b4e1d24fff09\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6e8c5fe-ebf9-4494-a5a9-9bf636997c70/file/69f0d4f6-649c-4df1-aa68-24c5a53b6ad8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d008c3ff-74e0-43da-b8ee-a46967524155/file/6b6eecee-aa38-47a9-a06f-35249f163449\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d008c3ff-74e0-43da-b8ee-a46967524155/file/45d0a3a0-4cdf-4e12-852c-ab28afd55e01\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

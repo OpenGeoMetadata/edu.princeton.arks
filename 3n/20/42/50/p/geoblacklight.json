@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n204250p",
+  "layer_slug_s": "princeton-3n204250p",
+  "uuid": "princeton-3n204250p",
+  "dc_title_s": "McDowell County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-81.998204, -81.307635, 37.549047, 37.20151)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in McDowell County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "McDowell",
+    "McDowell County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:46Z",
+  "layer_id_s": "restricted-figgy:a834d8e4-85bc-478e-902b-03bdfa3afba3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a74edf38-45d6-41c6-a684-23bdf62d2396\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e097ef36-d632-4353-9c3b-c49eaf199847/file/e0484bc4-2557-4e41-a1b3-4cac04776972\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a834d8e4-85bc-478e-902b-03bdfa3afba3/file/4c076c4d-9bf9-4194-a2e5-7326daee4609\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a834d8e4-85bc-478e-902b-03bdfa3afba3/file/8d922a6b-77ff-4e67-a783-d8fec977a53a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

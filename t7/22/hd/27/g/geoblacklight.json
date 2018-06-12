@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hd27g",
+  "layer_slug_s": "princeton-t722hd27g",
+  "uuid": "princeton-t722hd27g",
+  "dc_title_s": "City and County of Broomfield, Colorado roads, 2012",
+  "solr_geom": "ENVELOPE(-105.165876, -104.961074, 40.045009, 39.889726)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in City and County of Broomfield, Colorado, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Broomfield",
+    "City and County of Broomfield",
+    "Colorado",
+    "Denver"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:09:35Z",
+  "layer_id_s": "restricted-figgy:054b64ba-3b53-43bc-95c9-98ab7fe46df1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a4888bf-e1da-4e3e-903c-35ff17623904\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f9eeb476-3f9d-4fa1-a4b5-e914de0163a2/file/0a1f04cd-bbec-4f63-aea3-80340b01998b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/054b64ba-3b53-43bc-95c9-98ab7fe46df1/file/a4e7866e-76c0-4af3-9b40-c020b2910ce0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/054b64ba-3b53-43bc-95c9-98ab7fe46df1/file/afe7394b-17cb-4d73-9e14-5e2bb0868d95\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

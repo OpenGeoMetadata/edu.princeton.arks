@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dz988",
+  "layer_slug_s": "princeton-4m90dz988",
+  "uuid": "princeton-4m90dz988",
+  "dc_title_s": "Brevard County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-80.985479, -80.446388, 28.79143, 27.822044)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Brevard County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Brevard County",
+    "Florida",
+    "Brevard",
+    "Titusville",
+    "Palm Bay",
+    "Melbourne",
+    "John F. Kennedy Space Center"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:10:47Z",
+  "layer_id_s": "restricted-figgy:56b52ef6-927a-4d6f-bcde-a25f89054163",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/adfb1157-df72-453c-9640-30999637410d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9eb1eb2c-5cb8-47bd-a817-0e392dc595d5/file/c8435be8-24db-4e03-b94e-192547e1f5c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56b52ef6-927a-4d6f-bcde-a25f89054163/file/d20b8661-cd4b-49d4-a8c4-af9c73737e20\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56b52ef6-927a-4d6f-bcde-a25f89054163/file/ef1d5ce8-8bc8-4167-bf8d-67da98e5408c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

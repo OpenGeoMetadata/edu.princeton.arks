@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4b29b7578",
+  "layer_slug_s": "princeton-4b29b7578",
+  "uuid": "princeton-4b29b7578",
+  "dc_title_s": "Canada Provinces 2002",
+  "solr_geom": "ENVELOPE(-141.002121, -52.619172, 83.115061, 41.687971)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Provinces represents the Canadian provinces and territories as well as coastline, international boundaries, provincial boundaries, and demographics.  The boundaries are digitized from CanMap®.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "provinces",
+    "territories",
+    "population",
+    "dwellings",
+    "area",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "1996"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:58Z",
+  "layer_id_s": "restricted-figgy:b806d0de-0f0b-49bb-849d-4789d6a198ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/95a56ae6-8c3b-4936-acd7-8e71076824d3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/34634875-d9be-4e9a-848a-22c58bc28360/file/f8d65b4e-96b0-46ab-9b4a-c212df3b3630\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b806d0de-0f0b-49bb-849d-4789d6a198ae/file/f10a1dcf-e358-4aa0-9bc9-0f04a16be934\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b806d0de-0f0b-49bb-849d-4789d6a198ae/file/cc8be079-f66d-498b-98c1-4facce738683\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

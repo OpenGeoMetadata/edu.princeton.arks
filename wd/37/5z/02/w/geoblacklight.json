@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd375z02w",
+  "layer_slug_s": "princeton-wd375z02w",
+  "uuid": "princeton-wd375z02w",
+  "dc_title_s": "Georgia Tracts 2002",
+  "solr_geom": "ENVELOPE(-85.605166, -80.840569, 35.000771, 30.355644)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Georgia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Georgia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:30Z",
+  "layer_id_s": "restricted-figgy:5dd47357-3bfb-4bc3-b8ab-2eb4c610f577",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/510aaa46-6b11-438f-a64e-52a0ec8e2652\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eacdf349-8566-440b-80cd-c431706dee1a/file/6cd6a779-399a-4bb4-af83-cebe006b4c1f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5dd47357-3bfb-4bc3-b8ab-2eb4c610f577/file/938a9e2b-4001-45b8-a01a-0dfc8cdc76d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5dd47357-3bfb-4bc3-b8ab-2eb4c610f577/file/6b4dbd15-0b7d-4473-b7c1-7ec2292db224\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vw06p",
+  "layer_slug_s": "princeton-2v23vw06p",
+  "uuid": "princeton-2v23vw06p",
+  "dc_title_s": "Siskiyou County, California land parcels, 2008",
+  "solr_geom": "ENVELOPE(-123.719217, -121.445973, 42.009714, 40.992157)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Siskiyou County, California, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "land use",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Siskiyou County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:09:42Z",
+  "layer_id_s": "restricted-figgy:ab09da6f-4c3b-4320-a7e9-3d87a169b792",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/871af7bf-0d76-4aa4-b89e-554743cc3124\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/60be50f5-d759-4f75-9b44-406c9b2dd9ab/file/08397616-44ea-4073-a0c1-b2cb41601f86\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab09da6f-4c3b-4320-a7e9-3d87a169b792/file/26f9e8fe-47ea-4260-9057-9cdd2f0f424e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab09da6f-4c3b-4320-a7e9-3d87a169b792/file/e17138f0-90fc-4c6d-9ec2-01301fea2185\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

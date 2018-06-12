@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4t64gp740",
+  "layer_slug_s": "princeton-4t64gp740",
+  "uuid": "princeton-4t64gp740",
+  "dc_title_s": "Louisiana Rivers 2002",
+  "solr_geom": "ENVELOPE(-94.043341, -88.817668, 33.019467, 29.031657)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Louisiana Rivers represents streams and rivers within Louisiana.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:21:53Z",
+  "layer_id_s": "restricted-figgy:096ed837-eba6-40c3-9cf2-bae70aa069ff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/32c16494-8221-4a1d-8ec4-ddda80187d37\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/df83376e-acfc-4edc-a3eb-f08ba0a5908f/file/fbeb9204-176c-4a8c-b259-f57299c56de2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/096ed837-eba6-40c3-9cf2-bae70aa069ff/file/eadd35cc-3b84-411a-a403-cd5ec200dc36\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/096ed837-eba6-40c3-9cf2-bae70aa069ff/file/75c8f354-fdd4-4a32-8bca-901228e6587b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7p88ck925",
+  "layer_slug_s": "princeton-7p88ck925",
+  "uuid": "princeton-7p88ck925",
+  "dc_title_s": "Herkimer County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.212293, -74.751026, 42.986504, 42.824871)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the southern portions of Herkimer County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Herkimer",
+    "Herkimer County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:19:09Z",
+  "layer_id_s": "restricted-figgy:042fb8e3-5687-4ad7-ac71-b669352d193e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7e250989-7da3-488d-a117-97ad27c33b2d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d3208a4-1c4c-4e23-aa6d-edab38474738/file/3a5beb0d-d151-4b5e-8cae-46a9374895f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/042fb8e3-5687-4ad7-ac71-b669352d193e/file/e6e2dec5-5dec-487d-98e6-d01c94934299\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/042fb8e3-5687-4ad7-ac71-b669352d193e/file/aa2a86a1-d14a-4b0d-a008-d422f1b7f9e0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

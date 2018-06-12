@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6395wb511",
+  "layer_slug_s": "princeton-6395wb511",
+  "uuid": "princeton-6395wb511",
+  "dc_title_s": "Custer County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-106.19176, -104.732666, 46.860835, 45.786963)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Custer County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Custer County",
+    "Montana",
+    "Custer"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:05Z",
+  "layer_id_s": "restricted-figgy:f06cc848-6d60-4651-b4bb-4f0c35676ce2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8bd05c14-82f8-4cb8-b7bd-e84db48af72b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d6e8594-3b54-4a21-8567-017904fd4e79/file/21b6e709-5f5a-4d6e-85bb-6a381663b9c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f06cc848-6d60-4651-b4bb-4f0c35676ce2/file/847de4bf-c4e5-49b9-aa94-039ce7d20e66\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f06cc848-6d60-4651-b4bb-4f0c35676ce2/file/94b666ea-187c-40d6-8ce5-7e400dfdc896\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

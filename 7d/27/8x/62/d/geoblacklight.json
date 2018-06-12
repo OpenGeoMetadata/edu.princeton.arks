@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7d278x62d",
+  "layer_slug_s": "princeton-7d278x62d",
+  "uuid": "princeton-7d278x62d",
+  "dc_title_s": "Stanislaus County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-121.456457, -120.392999, 38.011754, 37.208216)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Stanislaus County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Stanislaus",
+    "Stanislaus County",
+    "California",
+    "Modesto"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:b247d9fa-6f94-415e-9af9-63aee84749e5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/edfb0a72-30bc-4997-8fd0-7ce25b01aab6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b954ff96-7641-41b6-ba3b-c1eaaa030b14/file/5ac6450a-d426-42e9-94bd-57988c79acbb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b247d9fa-6f94-415e-9af9-63aee84749e5/file/eb638243-08e0-4129-b6d0-3668624a5c65\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b247d9fa-6f94-415e-9af9-63aee84749e5/file/b7bd77e0-314b-41fe-a15c-5a67735284ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

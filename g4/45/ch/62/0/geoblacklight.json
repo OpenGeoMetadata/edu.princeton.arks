@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445ch620",
+  "layer_slug_s": "princeton-g445ch620",
+  "uuid": "princeton-g445ch620",
+  "dc_title_s": "Gallatin County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.805351, -110.783834, 46.192883, 44.475195)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gallatin County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gallatin",
+    "Gallatin County",
+    "Montana",
+    "Gallatin National Forest",
+    "Yellowstone National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:36Z",
+  "layer_id_s": "restricted-figgy:5e8b399c-f791-4cfa-bafb-dcffb242c30e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9c1e69ac-06ec-4883-b031-d8376d7e26ec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aa73260a-be0e-4f15-bf86-f0868670f9af/file/fed0fc7c-50a4-4930-a9e3-16d7053238b2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e8b399c-f791-4cfa-bafb-dcffb242c30e/file/3d6f0a4a-9839-4715-a6bb-6cbadcc0bc20\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e8b399c-f791-4cfa-bafb-dcffb242c30e/file/133ec5bc-8abc-4818-bf87-f0db28604fa3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

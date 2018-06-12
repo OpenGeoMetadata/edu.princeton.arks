@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ht24wk883",
+  "layer_slug_s": "princeton-ht24wk883",
+  "uuid": "princeton-ht24wk883",
+  "dc_title_s": "Texas Block Groups 2002",
+  "solr_geom": "ENVELOPE(-106.645646, -93.508131, 36.500704, 25.837377)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Texas Block Groups represents the U.S. Census block groups of Texas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:48Z",
+  "layer_id_s": "restricted-figgy:4c51ddc0-65a9-40ce-b7db-5dd19731b2ca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d7d03f0f-84c2-4470-92a4-826bf979fb2a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/27402cfa-6db4-4cee-a409-306c896c518f/file/f9607ca2-1cd5-4d68-bb54-d6936905da59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c51ddc0-65a9-40ce-b7db-5dd19731b2ca/file/44040623-211a-47a2-804b-e630d951edbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c51ddc0-65a9-40ce-b7db-5dd19731b2ca/file/df8ebef6-8582-426d-bae1-98fbc66ba9f7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

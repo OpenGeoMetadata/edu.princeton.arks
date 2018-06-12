@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9g54xn09x",
+  "layer_slug_s": "princeton-9g54xn09x",
+  "uuid": "princeton-9g54xn09x",
+  "dc_title_s": "Cheyenne County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-103.172835, -102.045129, 39.04701, 38.612502)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cheyenne County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Cheyenne",
+    "Cheyenne County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:13Z",
+  "layer_id_s": "restricted-figgy:885426fc-c401-4abf-afea-f8cc7284fa09",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a3d895b4-f84c-485b-bc47-199be1d44810\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7a0e3921-6d39-4092-b3d3-d4b83bcabf50/file/bce7d94d-1cb8-4f3d-b9ec-081e2789eab9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/885426fc-c401-4abf-afea-f8cc7284fa09/file/d83dff90-8bda-4e12-954d-a16554837735\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/885426fc-c401-4abf-afea-f8cc7284fa09/file/8e948ff0-1b0f-4a90-b48f-5acaf8e30202\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

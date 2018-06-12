@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ww72bf91h",
+  "layer_slug_s": "princeton-ww72bf91h",
+  "uuid": "princeton-ww72bf91h",
+  "dc_title_s": "England and Wales local government districts, 1951",
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of districts essentially created by the 1894 Local Government Act and continuing to exist until 1974. England and Wales were divided into County Boroughs, Municipal Boroughs, Urban Districts and Rural Districts. These generally functioned as sub-divisions of Administrative Counties with powers varying according to status, but County Boroughs were large cities with full independence from their County. The County of London was divided into Metropolitan Boroughs, plus the City of London which had the unique status of County Corporate. This file represents the system as it was used to report the 1951 Census of Population.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "Local Government Districts",
+    "history",
+    "administrative units",
+    "districts",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1951",
+    "2009"
+  ],
+  "solr_year_i": 1951,
+  "layer_modified_dt": "2018-04-04T22:39:51Z",
+  "layer_id_s": "restricted-figgy:ebefe769-7282-4cbe-820c-edc889a031fd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7f2e6efc-3fca-4534-8a3f-58186ce7ef08\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e4b6a957-9934-45ae-ae28-0e1b9b221eb8/file/9871592c-0e81-43d0-b96d-afefeb63487e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ebefe769-7282-4cbe-820c-edc889a031fd/file/893ac508-052c-478e-a50a-e7ae34d93d30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ebefe769-7282-4cbe-820c-edc889a031fd/file/0eeac27a-2f1a-40eb-9cdc-522bdf701db7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

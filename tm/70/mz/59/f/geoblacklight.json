@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tm70mz59f",
+  "layer_slug_s": "princeton-tm70mz59f",
+  "uuid": "princeton-tm70mz59f",
+  "dc_title_s": "Screven County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.868667, -81.389751, 33.04565, 32.491312)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Screven County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Screven",
+    "Screven County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:36Z",
+  "layer_id_s": "restricted-figgy:bd1b10f7-138d-4d9a-a59d-acaeefd348c8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3e8ddc1e-c485-40bc-9d79-b4ecec74d710\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4981d17b-958c-4421-ac07-bbe6607d07fc/file/16c40307-35ff-43d2-90c1-351f999dba38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd1b10f7-138d-4d9a-a59d-acaeefd348c8/file/c2632333-949b-4f02-91b3-a48cdd061f3f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd1b10f7-138d-4d9a-a59d-acaeefd348c8/file/74b1c7c2-c753-4c3d-b231-07157deb9800\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

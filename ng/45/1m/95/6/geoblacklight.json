@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ng451m956",
+  "layer_slug_s": "princeton-ng451m956",
+  "uuid": "princeton-ng451m956",
+  "dc_title_s": "Nassau County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.050336, -81.426356, 30.829857, 30.2734)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nassau County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nassau County",
+    "Nassau",
+    "Florida",
+    "Jacksonville"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:34:36Z",
+  "layer_id_s": "restricted-figgy:e488739c-cc1e-4783-94f4-9664cc8a3592",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eb31e634-33cd-431a-b9d8-10384b588f8f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bfbc0626-3eb5-4b71-9322-e78769687c27/file/f0283b85-8b03-4c85-8ebd-050274e39870\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e488739c-cc1e-4783-94f4-9664cc8a3592/file/db2275b3-9b58-4b97-b83c-652f568cf00f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e488739c-cc1e-4783-94f4-9664cc8a3592/file/0719d526-c9e5-49d5-a072-e2caa611e637\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

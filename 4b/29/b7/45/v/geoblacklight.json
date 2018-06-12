@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4b29b745v",
+  "layer_slug_s": "princeton-4b29b745v",
+  "uuid": "princeton-4b29b745v",
+  "dc_title_s": "U.S. National Atlas Volcanoes 2002",
+  "solr_geom": "ENVELOPE(-178.802628, 179.59726, 66.349304, 18.917242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Volcanoes represents volcanoes thought to be active in the last 10,000 years, in and near the United States.",
+  "dc_creator_sm": [
+    "Smithsonian Institution, Global Volcanism Program, National Atlas of the United States, and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "volcanoes",
+    "eruptions",
+    "geological effects",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1993"
+  ],
+  "solr_year_i": 1993,
+  "layer_modified_dt": "2018-04-05T02:54:47Z",
+  "layer_id_s": "restricted-figgy:eebe97f2-e01a-4c8a-b50a-1381f226da5f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/67b88183-ec25-4cd3-8aa2-8a5acf7e3709\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab4a8a25-c89e-42e5-b91e-e357817ad46e/file/5dd4049d-0500-4982-a767-89749475331b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eebe97f2-e01a-4c8a-b50a-1381f226da5f/file/09ea2fd4-a90b-4038-b90a-d3a4f862054b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eebe97f2-e01a-4c8a-b50a-1381f226da5f/file/2deae37c-586d-4788-87f3-982f6ef1b1d0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

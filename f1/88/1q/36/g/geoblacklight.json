@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f1881q36g",
+  "layer_slug_s": "princeton-f1881q36g",
+  "uuid": "princeton-f1881q36g",
+  "dc_title_s": "Ada County, Idaho land parcels, 2011",
+  "solr_geom": "ENVELOPE(-116.513619, -115.974887, 43.807422, 43.112631)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ada County, Idaho, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ada",
+    "Ada County",
+    "Idaho",
+    "Boise",
+    "Meridian",
+    "Morley Nelson Snake River Birds of Prey National Conservation Area"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:37Z",
+  "layer_id_s": "restricted-figgy:06e0ffa4-2981-4678-8737-af9ee45c2540",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/440ed417-c2b5-4135-bb03-cbe56519f50f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b28ff8c2-f668-4aa5-88bb-c4b7d6131fa8/file/f6fade85-1bea-4b36-8785-9344fad25b37\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06e0ffa4-2981-4678-8737-af9ee45c2540/file/74532c04-68d0-44e8-97f0-19776075f9f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06e0ffa4-2981-4678-8737-af9ee45c2540/file/e08a07ee-2252-4cd9-8a09-c24c05436bb6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

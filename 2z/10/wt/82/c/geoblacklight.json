@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt82c",
+  "layer_slug_s": "princeton-2z10wt82c",
+  "uuid": "princeton-2z10wt82c",
+  "dc_title_s": "San Juan County, Washington land parcels, 2012",
+  "solr_geom": "ENVELOPE(-123.237385, -122.741802, 48.789179, 48.414655)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Juan County, Washington, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "San Juan",
+    "San Juan County",
+    "Washington",
+    "Washington State"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:50Z",
+  "layer_id_s": "restricted-figgy:7ae01e12-be6e-4505-ab70-92f0bc4261ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d710a540-d1da-45aa-9a93-5e0f4687f709\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/70dbeb58-635f-4696-ab4c-6bce4f90b565/file/7a976950-c47f-4a23-9feb-8d1845eefced\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ae01e12-be6e-4505-ab70-92f0bc4261ab/file/785bcf20-87ff-4fe9-ad46-150cf03c3172\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ae01e12-be6e-4505-ab70-92f0bc4261ab/file/5c534314-6969-4d61-b10a-2f4874d62444\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

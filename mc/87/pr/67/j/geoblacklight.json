@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mc87pr67j",
+  "layer_slug_s": "princeton-mc87pr67j",
+  "uuid": "princeton-mc87pr67j",
+  "dc_title_s": "U.S. Urbanized Areas 2002",
+  "solr_geom": "ENVELOPE(-158.081251, -68.630472, 61.46271, 21.253821)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Urbanized Areas represents boundaries for urban areas with a population greater than 50,000. The data set covers the 50 States plus the District of Columbia within United States.",
+  "dc_creator_sm": [
+    "Bureau of Transportation Statistics",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "urbanized areas",
+    "cities",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1997",
+    "1992",
+    "1995"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:50:03Z",
+  "layer_id_s": "restricted-figgy:164c41fa-aa0b-4e18-812b-02ef4f7de3ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d1e985f0-7d75-4afe-8412-001110fbf100\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bf9edb8c-e270-45a0-a592-0d20e664293b/file/5c04b06a-d298-4f70-a614-00943ee919f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/164c41fa-aa0b-4e18-812b-02ef4f7de3ac/file/53c204a4-625b-4e81-9b1d-603efec65dd7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/164c41fa-aa0b-4e18-812b-02ef4f7de3ac/file/67c99f41-7841-4e4a-8f88-fb0265bab088\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

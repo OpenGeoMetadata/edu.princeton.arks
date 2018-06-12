@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623h00g",
+  "layer_slug_s": "princeton-f7623h00g",
+  "uuid": "princeton-f7623h00g",
+  "dc_title_s": "Garfield County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-109.05152, -107.03167, 40.091256, 39.359364)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Garfield County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Garfield",
+    "Garfield County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:56Z",
+  "layer_id_s": "restricted-figgy:bc3bffb5-7cc9-41cc-998d-339323d6b90e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a9441dd8-d820-4c5c-aa8e-483fc80375df\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff9b061a-17fd-452e-b396-8edde7810d79/file/ee6dc1bb-1533-4884-ae78-236d350d8c2e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc3bffb5-7cc9-41cc-998d-339323d6b90e/file/a7a4b2de-242b-4157-a6f4-944e93ca441d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc3bffb5-7cc9-41cc-998d-339323d6b90e/file/465bd776-6ffe-4dd8-8e26-9b27aafb823e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

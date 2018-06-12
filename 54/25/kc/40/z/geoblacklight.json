@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc40z",
+  "layer_slug_s": "princeton-5425kc40z",
+  "uuid": "princeton-5425kc40z",
+  "dc_title_s": "Egypt Railways",
+  "solr_geom": "ENVELOPE(27.208975, 34.18798, 31.480301, 23.877266)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polylines representing railways in Egypt.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "rails",
+    "railroads",
+    "railways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:40:00Z",
+  "layer_id_s": "restricted-figgy:deb9c008-93ae-406a-9db3-8ba01cfc30d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c31954e2-6c58-47dc-8d29-f988ea34ec98\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0a03e1d-dd87-49a1-8e19-4cd4bf05a85a/file/8ce5b0bf-5d35-4023-a8f8-489cc6581893\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/deb9c008-93ae-406a-9db3-8ba01cfc30d9/file/0e226619-4854-4d8d-b516-811f42bfba0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/deb9c008-93ae-406a-9db3-8ba01cfc30d9/file/80f36f48-9d94-4438-b190-3879df51ffcf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k602c",
+  "layer_slug_s": "princeton-td96k602c",
+  "uuid": "princeton-td96k602c",
+  "dc_title_s": "Zambia extracted historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(21.98282, 33.674164, -8.194617, -18.043492)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of Northern Rhodesia (Zambia) for 1948. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Zambia",
+    "Northern Rhodesia",
+    "Rhodesia"
+  ],
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-05-31T19:09:52Z",
+  "layer_id_s": "public-figgy:360cc4c3-33b8-4ff8-a729-e8354baa338e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/874a7d05-7ce3-4a6a-8c73-81cedf314f32\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b1d65480-69cb-499a-950e-683d9b0e52b4/file/cef14e92-a519-4914-b2ff-56c24760ca2e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/360cc4c3-33b8-4ff8-a729-e8354baa338e/file/17d02bf4-bb91-42dc-a6e9-45a01dd4507c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/360cc4c3-33b8-4ff8-a729-e8354baa338e/file/03c4fe8d-422f-4fef-8d81-2dbf4966fccd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

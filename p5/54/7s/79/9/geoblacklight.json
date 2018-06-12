@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547s799",
+  "layer_slug_s": "princeton-p5547s799",
+  "uuid": "princeton-p5547s799",
+  "dc_title_s": "Norway Major Highways, 2005",
+  "solr_geom": "ENVELOPE(5.256555, 11.313305, 61.20639, 58.349082)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Norway major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:57Z",
+  "layer_id_s": "restricted-figgy:b691bf8a-78df-446c-8410-1896a96272a2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6680f45b-8c89-46c4-8303-293c321946f5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f1ae5aa8-3b06-4f8e-a3a5-78ede2055147/file/00d776f7-1203-4109-ba74-8bc6822d4668\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b691bf8a-78df-446c-8410-1896a96272a2/file/2d10732c-c387-4185-ad47-a442da721282\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b691bf8a-78df-446c-8410-1896a96272a2/file/18d4a2fc-dbd0-42f1-9abe-462d59f120c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

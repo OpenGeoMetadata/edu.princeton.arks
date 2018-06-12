@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ft848s053",
+  "layer_slug_s": "princeton-ft848s053",
+  "uuid": "princeton-ft848s053",
+  "dc_title_s": "Iowa Rivers 2002",
+  "solr_geom": "ENVELOPE(-96.639706, -90.161612, 43.500901, 40.386578)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Iowa Rivers represents streams and rivers within Iowa.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:49:43Z",
+  "layer_id_s": "restricted-figgy:011f78bf-df48-4d6b-8a53-461d7dda0ad9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0f0d285a-872e-4e0c-b58e-3939298a05c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a57d8e29-4d1b-46e5-a996-74bec1346227/file/c3f28850-1a51-4cc5-8e9e-fa27fb256874\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/011f78bf-df48-4d6b-8a53-461d7dda0ad9/file/c581345a-471f-4e26-a512-2d0f19224782\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/011f78bf-df48-4d6b-8a53-461d7dda0ad9/file/f3021d57-0279-4e9e-8cd9-a39742147465\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

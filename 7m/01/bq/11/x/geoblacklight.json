@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7m01bq11x",
+  "layer_slug_s": "princeton-7m01bq11x",
+  "uuid": "princeton-7m01bq11x",
+  "dc_title_s": "Thomas County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.119408, -83.736129, 31.077962, 30.657794)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Thomas County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Thomas",
+    "Thomas County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:00Z",
+  "layer_id_s": "restricted-figgy:5c7f2a0e-5014-47d9-880e-38801cfe99f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/87269810-f0da-4f6c-9bd4-c99b0867655e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a85d5cf-5edf-4b6a-a8e5-a0d7d14937c0/file/0130ee5a-f7d9-4e68-a8d6-3c04ff26d908\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c7f2a0e-5014-47d9-880e-38801cfe99f7/file/db0869f2-6e77-45ea-b4cd-718f11951e13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c7f2a0e-5014-47d9-880e-38801cfe99f7/file/b77135ec-49e6-4cf8-abff-87f928d9cab1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

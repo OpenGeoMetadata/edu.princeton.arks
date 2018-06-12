@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tn461",
+  "layer_slug_s": "princeton-zg64tn461",
+  "uuid": "princeton-zg64tn461",
+  "dc_title_s": "Netherlands Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(3.547611, 7.058361, 53.343421, 50.826805)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Netherlands major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:31Z",
+  "layer_id_s": "restricted-figgy:7d656c6d-d3a8-48e5-91ef-6195a5efa4b0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8d5d324f-1d1e-44bc-9be8-195deb825360\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f816652b-6d37-4557-8f37-cb8813a31443/file/b50e27f8-0b58-4e97-a503-af3e18e22dbe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7d656c6d-d3a8-48e5-91ef-6195a5efa4b0/file/6eddfc4d-8f4a-4060-95b0-8a9b5d3b8c55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d656c6d-d3a8-48e5-91ef-6195a5efa4b0/file/6b74153d-33e1-4b51-b648-7882b7494005\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

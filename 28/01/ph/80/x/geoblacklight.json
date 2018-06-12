@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2801ph80x",
+  "layer_slug_s": "princeton-2801ph80x",
+  "uuid": "princeton-2801ph80x",
+  "dc_title_s": "Idaho Rivers 2002",
+  "solr_geom": "ENVELOPE(-117.224151, -111.043699, 49.001121, 41.988154)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Idaho Rivers represents streams and rivers within Idaho.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:59:49Z",
+  "layer_id_s": "restricted-figgy:51fe1a94-8c18-4604-8a14-46235b82536e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2450a8d9-4121-4b54-b44d-c16d9c3537e2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84d2a5a4-802a-4c36-91b9-7fbb7a3657a9/file/86266760-aa56-406e-b74b-0f12be8e6341\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51fe1a94-8c18-4604-8a14-46235b82536e/file/a00ab29a-b71e-44a8-ab0f-332068b8c1d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51fe1a94-8c18-4604-8a14-46235b82536e/file/49f026c0-30d5-4984-9f0f-7a0c2aa72de7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

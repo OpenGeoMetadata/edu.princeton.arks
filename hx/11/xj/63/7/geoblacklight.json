@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xj637",
+  "layer_slug_s": "princeton-hx11xj637",
+  "uuid": "princeton-hx11xj637",
+  "dc_title_s": "Geauga County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.391951, -81.002651, 41.714764, 41.347322)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Geauga County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Geauga",
+    "Geauga County",
+    "Ohio",
+    "Akron City Reservoir",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:615d8b2a-c3f0-4488-af33-c33137875925",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a37df664-b58f-4d35-92de-90a642e9f56f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9f10400-0236-4c42-a300-442be1112dcb/file/5191d8d0-4811-4c39-aed2-d3bf253ab70a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/615d8b2a-c3f0-4488-af33-c33137875925/file/2e4f4b50-bd5b-4bc8-b031-8e7ac601abe6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/615d8b2a-c3f0-4488-af33-c33137875925/file/48e8dda1-6784-4989-946b-15b2f08d2e54\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

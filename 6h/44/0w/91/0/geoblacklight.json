@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440w910",
+  "layer_slug_s": "princeton-6h440w910",
+  "uuid": "princeton-6h440w910",
+  "dc_title_s": "Loudoun County, Virginia roads, 2011",
+  "solr_geom": "ENVELOPE(-77.956048, -77.337491, 39.321274, 38.849413)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Loudoun County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Loudoun",
+    "Loudoun County",
+    "Virginia",
+    "Potomac River",
+    "Washington",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:22Z",
+  "layer_id_s": "restricted-figgy:1c1541da-26f8-4140-a68d-833a730d8dfe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/39665dd1-30cb-412d-8f05-a320d5038e30\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04e7fdb9-3cb9-4e17-b283-096fd5d0094e/file/b6a2d891-e87e-48b2-bc01-48ed88dcd52e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1c1541da-26f8-4140-a68d-833a730d8dfe/file/09d863ba-3ea1-4ae1-aeef-a1ce38128271\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1c1541da-26f8-4140-a68d-833a730d8dfe/file/2d23fe47-73c1-4116-bd36-3218f041ccd1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

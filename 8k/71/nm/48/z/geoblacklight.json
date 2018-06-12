@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8k71nm48z",
+  "layer_slug_s": "princeton-8k71nm48z",
+  "uuid": "princeton-8k71nm48z",
+  "dc_title_s": "Wake County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-78.99507, -78.25337, 36.076951, 35.519475)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Property data. Land parcels in Wake County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Wake",
+    "Wake County",
+    "Raleigh"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:37:55Z",
+  "layer_id_s": "restricted-figgy:4d265add-aa7a-4a34-8cbe-9ad05c7920b7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e7f8b7e9-40fb-4b6b-bb8c-3f6a80e25a2c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bf3b2e6e-a837-4006-8749-d72670de2ccf/file/de33cc3f-2e21-4c77-ae01-98e6bf18dc63\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d265add-aa7a-4a34-8cbe-9ad05c7920b7/file/08a41ac5-b003-425d-9a95-30c633dabf70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d265add-aa7a-4a34-8cbe-9ad05c7920b7/file/397cc1bd-9341-4e2f-9501-0e0f88709a3c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

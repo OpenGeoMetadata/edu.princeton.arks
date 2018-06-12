@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89d995w",
+  "layer_slug_s": "princeton-pn89d995w",
+  "uuid": "princeton-pn89d995w",
+  "dc_title_s": "Q3 flood data, Utah",
+  "solr_geom": "ENVELOPE(-112.25942, -110.85702, 40.92192, 39.776205)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Utah, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Salt Lake",
+    "Utah County",
+    "Salt Lake County"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-04T21:50:13Z",
+  "layer_id_s": "restricted-figgy:ae45eea0-f9b2-4f55-a6d9-f7e9433caaa2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f49d522a-55c3-4b04-9937-84208f7952d0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2df5238f-6084-4190-bfa0-ff3e2587d748/file/d3e02024-b71a-4c01-8768-bd1ba7df9804\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae45eea0-f9b2-4f55-a6d9-f7e9433caaa2/file/23e24586-9053-4822-aca1-1f3eff22622c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae45eea0-f9b2-4f55-a6d9-f7e9433caaa2/file/38175b1c-e85d-4781-b203-fe1b4050fa81\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

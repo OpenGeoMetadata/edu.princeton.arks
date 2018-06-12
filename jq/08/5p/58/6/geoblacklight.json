@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jq085p586",
+  "layer_slug_s": "princeton-jq085p586",
+  "uuid": "princeton-jq085p586",
+  "dc_title_s": "Infogroup Business Locations for Delaware, 2015",
+  "solr_geom": "ENVELOPE(-75.7883, -75.0501, 39.839, 38.4513)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing businesses in Delaware for 2015, taken from ESRI's national Infogroup Business Locations data. This dataset contains the locations of over 13 million private and public companies in United States. Businesses can be retrieved by their Standard Industrial Classification Code (SIC) as well as by North American Industry Classification System (NAICS) Code and Location.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "business",
+    "businesses",
+    "sales",
+    "assets",
+    "headquarters",
+    "branch",
+    "branches",
+    "employment",
+    "employees",
+    "workers",
+    "workforce",
+    "SIC code",
+    "SIC codes",
+    "NAICS code",
+    "NAICS codes",
+    "economy"
+  ],
+  "dct_spatial_sm": [
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:3450d156-08eb-4113-9892-30f09dc8f903",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a0553dec-a0cf-43c1-bfab-1013620b4591\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ba65023-522f-4b56-a4e3-a43849cfccb7/file/62301b67-3ef4-4ce5-a0d1-bbb8877cea91\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3450d156-08eb-4113-9892-30f09dc8f903/file/0c319c11-bdae-49d1-826c-3a27125a8207\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3450d156-08eb-4113-9892-30f09dc8f903/file/82979c80-dedf-44aa-aab2-1cb092b560f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

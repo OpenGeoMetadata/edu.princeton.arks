@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj34q",
+  "layer_slug_s": "princeton-3484zj34q",
+  "uuid": "princeton-3484zj34q",
+  "dc_title_s": "Camden County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-75.135436, -74.73621, 39.996216, 39.60843)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Camden County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "ownership",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Camden County",
+    "Camden"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:46:39Z",
+  "layer_id_s": "restricted-figgy:0f1485da-291f-4a7f-b30f-19f13dbdc9cc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/227cf56b-fcb3-4249-b4b5-4dca0f17eb14\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d639261d-ce5f-437b-bfd5-617bddbca206/file/bbe68907-278f-4ed3-bff6-740f68ae6487\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f1485da-291f-4a7f-b30f-19f13dbdc9cc/file/7d04bf66-baf8-4201-9585-1daac27ec3d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f1485da-291f-4a7f-b30f-19f13dbdc9cc/file/e2d82f09-4e45-4af7-9c53-b65d80cf50f9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

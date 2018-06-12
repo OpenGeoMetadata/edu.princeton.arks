@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pp533",
+  "layer_slug_s": "princeton-tt44pp533",
+  "uuid": "princeton-tt44pp533",
+  "dc_title_s": "South Carolina Tracts 2002",
+  "solr_geom": "ENVELOPE(-83.353955, -78.549197, 35.21554, 32.047044)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "South Carolina Tracts represents the U.S. Census tracts and block numbering areas (BNA) of South Carolina.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:21:24Z",
+  "layer_id_s": "restricted-figgy:59032cd2-7e64-4c6b-925a-c4a2de2b76e4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c34e2b2-9f9c-4c5a-8fa8-95217a67e82e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98ff3d99-f781-4e4f-855e-2224e3a17413/file/20ebf6cb-a4fe-44a1-bd30-196e7cfca915\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59032cd2-7e64-4c6b-925a-c4a2de2b76e4/file/15da2044-284c-4a6a-8e14-f5d526c1c0fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59032cd2-7e64-4c6b-925a-c4a2de2b76e4/file/3f27e73b-0d59-4b2b-a2f4-2232859e3b56\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

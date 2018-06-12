@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1544bq50g",
+  "layer_slug_s": "princeton-1544bq50g",
+  "uuid": "princeton-1544bq50g",
+  "dc_title_s": "Mexico City streets and roads",
+  "solr_geom": "ENVELOPE(-99.359457, -98.8281, 19.861811, 19.164689)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico City streets and roads",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
+  "dc_publisher_s": "LeadDog Consulting, LLC",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Streets",
+    "Roads"
+  ],
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico City"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:28Z",
+  "layer_id_s": "restricted-figgy:40a3b2ad-1d0d-43bc-a62c-12d461c4cf20",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7381ee5c-cff5-4ed5-993a-32a07a94ea47\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a81c84eb-2ef0-4fa7-8d18-5624131dda55/file/0c9630dd-bfa0-4c77-a54b-22f9f584b28d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40a3b2ad-1d0d-43bc-a62c-12d461c4cf20/file/9e8825c6-dd31-481d-aced-a1dd77ebcbbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40a3b2ad-1d0d-43bc-a62c-12d461c4cf20/file/7097f179-a74d-45a7-814b-d8828b752d75\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

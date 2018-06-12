@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cp37d",
+  "layer_slug_s": "princeton-1831cp37d",
+  "uuid": "princeton-1831cp37d",
+  "dc_title_s": "Miami-Dade County, Florida roads, 2014",
+  "solr_geom": "ENVELOPE(-80.873455, -80.118712, 25.979292, 25.139119)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Miami-Dade County, Florida, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Miami-Dade County",
+    "Miami-Dade",
+    "Dade",
+    "Miami",
+    "Hialeah",
+    "Miami Gardens",
+    "Miami Beach",
+    "Everglades",
+    "Everglades National Park",
+    "Everglades Wildlife Management Area",
+    "Francis S. Taylor Wildlife Management Area",
+    "Biscayne Bay",
+    "Biscayne"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:46:43Z",
+  "layer_id_s": "restricted-figgy:f6014af0-c3c0-4671-aba7-13a9d546157e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/538de553-ebe3-472e-b6f8-d4cf21bed176\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e6b1434c-716b-43f9-bbf2-ca37fbb77004/file/8a9cce15-3da6-440f-9c27-7fc7d03ed9c2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6014af0-c3c0-4671-aba7-13a9d546157e/file/bef84dc5-2fd2-4eb6-a0d3-7e3aa5989baa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6014af0-c3c0-4671-aba7-13a9d546157e/file/abfa31f6-56e9-4e83-a512-5cadfb7fec3e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

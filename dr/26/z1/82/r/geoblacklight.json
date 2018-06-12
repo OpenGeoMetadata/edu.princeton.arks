@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dr26z182r",
+  "layer_slug_s": "princeton-dr26z182r",
+  "uuid": "princeton-dr26z182r",
+  "dc_title_s": "Lake County, Illinois land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.199881, -87.758704, 42.495801, 42.152232)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Illinois, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Lake",
+    "Lake County",
+    "Waukegan",
+    "Chicago"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:46Z",
+  "layer_id_s": "restricted-figgy:806f01dc-cbf1-47d0-8806-7b4b9d43720a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/408e8377-738d-471c-8209-bc60aa271a28\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0c093abd-6a9d-4004-adca-6677ffc1bc06/file/d3d26a23-8d64-46ba-9686-706cc11e6709\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/806f01dc-cbf1-47d0-8806-7b4b9d43720a/file/103d2730-14bf-4867-98d4-062702c53426\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/806f01dc-cbf1-47d0-8806-7b4b9d43720a/file/12cf6395-5087-46ab-a83d-db744b866427\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

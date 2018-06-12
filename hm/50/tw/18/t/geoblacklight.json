@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tw18t",
+  "layer_slug_s": "princeton-hm50tw18t",
+  "uuid": "princeton-hm50tw18t",
+  "dc_title_s": "Roanoke, Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.037477, -79.876148, 37.337613, 37.211899)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Roanoke (City), Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Roanoke",
+    "Roanoke City"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:45Z",
+  "layer_id_s": "restricted-figgy:3c3ac825-fc57-439d-9090-1575eef66005",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/30c5408c-fb0f-4360-8800-fa9ae7a25f3f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b818b7c-59c7-48e8-8729-2ed80400b4f4/file/36d8d2f2-3238-4446-884a-d758cacd97c6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c3ac825-fc57-439d-9090-1575eef66005/file/0174a8e3-1087-46ae-98de-48c92994d17c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c3ac825-fc57-439d-9090-1575eef66005/file/2a0e62b4-221b-4956-8946-c4972e690928\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

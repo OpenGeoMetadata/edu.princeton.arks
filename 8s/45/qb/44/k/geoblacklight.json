@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8s45qb44k",
+  "layer_slug_s": "princeton-8s45qb44k",
+  "uuid": "princeton-8s45qb44k",
+  "dc_title_s": "Churchill County, Nevada land parcels, 2010",
+  "solr_geom": "ENVELOPE(-119.225898, -117.461038, 40.001258, 39.076265)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Churchill County, Nevada, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "Churchill",
+    "Churchill County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T00:34:19Z",
+  "layer_id_s": "restricted-figgy:69a2da28-17ea-4c8a-ae2c-36ddf0f52262",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dcc5ae75-5db3-4934-88dc-faa45f04144d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec5937da-76d5-4cd9-8ebf-5f73e2629a2d/file/9a391e49-88fb-4af0-ba3d-acea3637296b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69a2da28-17ea-4c8a-ae2c-36ddf0f52262/file/94d5b6ed-0649-49fa-ae72-aeb79e2d6b9b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69a2da28-17ea-4c8a-ae2c-36ddf0f52262/file/e4907671-e409-4f37-b2a1-869140e3694e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

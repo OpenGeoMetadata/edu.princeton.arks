@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kf09b",
+  "layer_slug_s": "princeton-5425kf09b",
+  "uuid": "princeton-5425kf09b",
+  "dc_title_s": "Knox County, Maine land parcels, 2009",
+  "solr_geom": "ENVELOPE(-69.448146, -69.051177, 44.222655, 43.888809)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Knox County, Maine, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Knox County",
+    "Knox",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:40:02Z",
+  "layer_id_s": "restricted-figgy:b866e48a-7db5-4d2f-b83e-8813b7cdc193",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/984e2b29-b13b-450e-a0c3-2fed8690a7dd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/19c76c02-3f95-4c74-81fd-9af27dbffc72/file/20a2b581-8402-495a-9c95-25cc9f0a1375\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b866e48a-7db5-4d2f-b83e-8813b7cdc193/file/4eec1daa-1612-49fb-b57b-dad815c39d46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b866e48a-7db5-4d2f-b83e-8813b7cdc193/file/0cc99865-a077-4519-a15f-521f2b607363\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

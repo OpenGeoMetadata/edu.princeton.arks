@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f4752j33t",
+  "layer_slug_s": "princeton-f4752j33t",
+  "uuid": "princeton-f4752j33t",
+  "dc_title_s": "Union County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-74.463211, -74.138845, 40.738646, 40.591976)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Union County",
+    "Union",
+    "Elizabeth"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:37:04Z",
+  "layer_id_s": "restricted-figgy:93bd7f3a-e71d-4c16-b6ad-5c6774185ca6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/60dcf3b9-e570-49b5-9767-af45bd641002\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2a6e873-6f36-450b-b8d8-7e6e5a8794e5/file/46b50194-1fd0-49d1-8a01-ff2580e59ced\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93bd7f3a-e71d-4c16-b6ad-5c6774185ca6/file/c89f6497-4a53-40cc-946b-e32c397d096c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93bd7f3a-e71d-4c16-b6ad-5c6774185ca6/file/07ff66d2-33cf-4d7c-a2f3-bec223886f0c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

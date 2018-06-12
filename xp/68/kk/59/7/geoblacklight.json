@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xp68kk597",
+  "layer_slug_s": "princeton-xp68kk597",
+  "uuid": "princeton-xp68kk597",
+  "dc_title_s": "Belmont County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.237404, -80.703052, 40.172709, 39.850002)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Belmont County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Belmont",
+    "Belmont County",
+    "Ohio",
+    "Ohio River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:27Z",
+  "layer_id_s": "restricted-figgy:07388872-61ea-4391-86d4-4b195f688631",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e0cf10fd-950c-43ae-b6b1-d2497c47141e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89fe8025-1f3c-4291-8aac-e6d8cc97c1e1/file/e26fd75a-91f2-4f5f-bb81-2376a49fe321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/07388872-61ea-4391-86d4-4b195f688631/file/ba78e21f-ffa1-4241-9373-cbea894a57ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/07388872-61ea-4391-86d4-4b195f688631/file/b36c2ccf-42b9-4b18-938d-5b4e544414c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

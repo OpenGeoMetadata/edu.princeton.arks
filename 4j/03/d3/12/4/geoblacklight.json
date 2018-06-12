@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d3124",
+  "layer_slug_s": "princeton-4j03d3124",
+  "uuid": "princeton-4j03d3124",
+  "dc_title_s": "Spotsylvania County, Virginia land parcels, 2008",
+  "solr_geom": "ENVELOPE(-77.946527, -77.368246, 38.378213, 37.991787)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Spotsylvania County, Virginia, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Northern Virginia",
+    "Spotsylvania",
+    "Spotsylvania County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:09:39Z",
+  "layer_id_s": "restricted-figgy:fa656d27-bf4b-43c1-a058-1aab549f9c13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/926a23ad-26a1-43a4-a5bf-84814768ccaf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e6882690-1867-484c-9a46-e1b3e40c7da1/file/e5877c91-bdde-41ab-9d0d-cf7c787993a3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa656d27-bf4b-43c1-a058-1aab549f9c13/file/60d00947-bd55-472c-a37f-251e848546a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa656d27-bf4b-43c1-a058-1aab549f9c13/file/891d5b1b-a51c-4728-b39c-78b2d6a0330b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

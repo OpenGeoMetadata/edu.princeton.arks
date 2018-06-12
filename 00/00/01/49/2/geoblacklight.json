@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/000001492",
+  "layer_slug_s": "princeton-000001492",
+  "uuid": "princeton-000001492",
+  "dc_title_s": "Orange County, New York land parcels, 2007",
+  "solr_geom": "ENVELOPE(-74.762248, -73.959064, 41.630036, 41.143185)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orange County, New York, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Orange",
+    "Orange County",
+    "Hudson Valley"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:40:00Z",
+  "layer_id_s": "restricted-figgy:28c501be-4284-4d57-8222-391be4fdac4c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c0d51693-2c1c-427d-83c1-486362d78c2f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c8103f6c-604b-424c-9729-8672941e4a21/file/293d2ab1-e92b-4dbb-8e1d-c2d34c5ef4ea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28c501be-4284-4d57-8222-391be4fdac4c/file/f3cd2bc2-7f01-4376-8608-2cdc737a2988\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28c501be-4284-4d57-8222-391be4fdac4c/file/23bc4558-005b-4296-8f36-74089ddb1114\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/44558f966",
+  "layer_slug_s": "princeton-44558f966",
+  "uuid": "princeton-44558f966",
+  "dc_title_s": "Ireland Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(-9.49582, -6.067039, 54.267178, 51.804301)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ireland cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:48Z",
+  "layer_id_s": "restricted-figgy:9c5f05f5-6be2-4cef-8206-e5d093377a02",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ad05e37c-1a85-4efb-9db4-b6d69a0683b7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/43a9568d-2f91-4adc-b86d-21b64c50334d/file/41ce57f7-498a-4e0a-ae51-f883645a5dc0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c5f05f5-6be2-4cef-8206-e5d093377a02/file/7ddf7871-b536-48e2-8866-9ef40e5e1a97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c5f05f5-6be2-4cef-8206-e5d093377a02/file/a1179036-4c33-494c-b1cb-55cefdcba1a1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

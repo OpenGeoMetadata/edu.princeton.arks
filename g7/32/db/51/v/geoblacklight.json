@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db51v",
+  "layer_slug_s": "princeton-g732db51v",
+  "uuid": "princeton-g732db51v",
+  "dc_title_s": "China Minor Roads, 2004",
+  "solr_geom": "ENVELOPE(73.443951, 134.65445, 53.549297, 18.23151)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes China minor roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:36Z",
+  "layer_id_s": "restricted-figgy:5e39c4df-3541-4de3-b2cc-c3c8264be604",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc9ea0a6-fcd3-469a-9f86-c4caa9c7a996\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ddb7b745-9d8d-4330-a8d3-9aa0eccfb875/file/919b6699-e84d-4492-ae73-5364f7e0fcd5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e39c4df-3541-4de3-b2cc-c3c8264be604/file/1ef399b1-d45e-4970-bc95-f40e346f0162\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e39c4df-3541-4de3-b2cc-c3c8264be604/file/dcba3fbf-353a-4bcc-a17a-5660e0384119\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

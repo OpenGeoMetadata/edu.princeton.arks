@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wh09w",
+  "layer_slug_s": "princeton-zp38wh09w",
+  "uuid": "princeton-zp38wh09w",
+  "dc_title_s": "Kenai Peninsula Borough, Alaska land parcels, 2011",
+  "solr_geom": "ENVELOPE(-154.748858, -148.562233, 61.426239, 58.652747)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kenai Peninsula Borough, Alaska, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alaska",
+    "Kenai Peninsula Borough",
+    "Kenai Peninsula",
+    "Chugach National Forest",
+    "Kenai Fjords National Park",
+    "Anchorage",
+    "Cook Inlet"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:35Z",
+  "layer_id_s": "restricted-figgy:8a75444e-712d-46ba-b5ac-6097c98a2f67",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f6aadebc-a9ac-49b6-a664-5c606d0c58cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7c568982-c114-470b-8be2-9e6e929da168/file/7cc75129-24be-4998-97ba-1bc17b44f36f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a75444e-712d-46ba-b5ac-6097c98a2f67/file/32e56269-7557-4609-a239-e42d372542b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a75444e-712d-46ba-b5ac-6097c98a2f67/file/6adbe6da-5c6a-48af-be82-b47a562acc69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

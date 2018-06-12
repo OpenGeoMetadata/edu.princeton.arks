@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m562x",
+  "layer_slug_s": "princeton-cn69m562x",
+  "uuid": "princeton-cn69m562x",
+  "dc_title_s": "Turkey Major Roads, 2005",
+  "solr_geom": "ENVELOPE(26.103837, 44.649524, 42.02195, 35.890827)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Turkey major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Turkey"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:58:58Z",
+  "layer_id_s": "restricted-figgy:a49859f9-7e0e-477c-80ac-891b57255951",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2a76108-9dfb-4bfe-80ba-f43884e00571\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5148b07-85e8-49a2-9342-a91d695006d8/file/ac9e5cd4-cb92-48dd-8b4e-c4eb96d3874d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a49859f9-7e0e-477c-80ac-891b57255951/file/ec7643d7-2df7-4a45-94d5-f3ec953c3a8b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a49859f9-7e0e-477c-80ac-891b57255951/file/344016ec-37ac-4f64-9c29-6ab485db072c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

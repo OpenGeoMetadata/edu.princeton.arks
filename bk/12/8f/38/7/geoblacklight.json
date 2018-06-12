@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bk128f387",
+  "layer_slug_s": "princeton-bk128f387",
+  "uuid": "princeton-bk128f387",
+  "dc_title_s": "Polk County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.106062, -81.133562, 28.36193, 27.643202)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Polk County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Polk County",
+    "Polk",
+    "Lakeland"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:29Z",
+  "layer_id_s": "restricted-figgy:b7aac42b-01c0-4818-9081-cb115e8f3094",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6ca356f2-5ca9-4482-aa7b-3dbade874977\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cf3460a3-f123-4d0d-8fcd-e7df517a4f40/file/317bf1d0-c941-4ff6-9bcb-7b7e1666f7b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7aac42b-01c0-4818-9081-cb115e8f3094/file/fa5a2c24-d893-47f5-9559-c7ad8417ec3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7aac42b-01c0-4818-9081-cb115e8f3094/file/2c1fb549-482d-4c2e-82e8-93f581351aaf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

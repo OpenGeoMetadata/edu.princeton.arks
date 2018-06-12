@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db657",
+  "layer_slug_s": "princeton-g732db657",
+  "uuid": "princeton-g732db657",
+  "dc_title_s": "Czech Republic Major Aiports, 2005",
+  "solr_geom": "ENVELOPE(12.916389, 18.11389, 50.217224, 48.946945)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Czech Republic major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:21Z",
+  "layer_id_s": "restricted-figgy:81c203de-7e05-4f79-bb2c-0aa12dbdd9b6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2baa2ef7-eee9-4c00-883c-cedc662e7c52\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0f80ab99-09e5-4832-9df4-3832fde52349/file/1fe3685e-a8a8-495b-85bf-d21bd0ebcdd4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/81c203de-7e05-4f79-bb2c-0aa12dbdd9b6/file/8a1e3a0a-3f80-4cbb-b0bc-6dd4c5268b44\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/81c203de-7e05-4f79-bb2c-0aa12dbdd9b6/file/a0bf771f-ea5e-4ab3-9ccc-fd6a743a3c8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

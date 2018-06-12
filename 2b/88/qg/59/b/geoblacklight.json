@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2b88qg59b",
+  "layer_slug_s": "princeton-2b88qg59b",
+  "uuid": "princeton-2b88qg59b",
+  "dc_title_s": "Atascosa County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-98.84102, -98.098603, 29.251079, 28.611649)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Atascosa County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Atascosa",
+    "Atascosa County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:05Z",
+  "layer_id_s": "restricted-figgy:6bdb46b5-52ac-42f3-8dc6-5f67c2726bbd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f92792f1-bc32-4734-b66d-8932bbc95550\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c2cafc0-a5d0-4116-8c63-6637f8103c2f/file/4e40650f-2620-43c7-b69a-7792518e0094\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6bdb46b5-52ac-42f3-8dc6-5f67c2726bbd/file/0eb3f034-d14a-4b61-bd89-de27d7e8c652\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6bdb46b5-52ac-42f3-8dc6-5f67c2726bbd/file/bd2e9959-ac44-4646-a53e-e948303aefaa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kw52jc47t",
+  "layer_slug_s": "princeton-kw52jc47t",
+  "uuid": "princeton-kw52jc47t",
+  "dc_title_s": "Jackson County, Oregon land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.231314, -122.282679, 42.996628, 42.003098)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Oregon, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Jackson County",
+    "Jackson",
+    "Medford",
+    "Cascade Mountains",
+    "Cascade Range"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:55Z",
+  "layer_id_s": "restricted-figgy:8a1fde2f-956b-4ffd-bdfc-9989e55ec272",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9d7f8f80-81e0-4d4d-bdde-a7f76657aebd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2803f119-1392-4209-9843-0fe84dacf677/file/dfed3011-b606-4ef1-842f-4f4eddb78637\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a1fde2f-956b-4ffd-bdfc-9989e55ec272/file/976ec527-4668-4f12-9f3b-7bfd4932e35f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a1fde2f-956b-4ffd-bdfc-9989e55ec272/file/5ed2b420-a3c3-488a-a95d-2a0c83c4d781\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

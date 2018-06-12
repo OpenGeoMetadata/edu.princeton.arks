@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074z35k",
+  "layer_slug_s": "princeton-3r074z35k",
+  "uuid": "princeton-3r074z35k",
+  "dc_title_s": "Jasper County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.460127, -93.865873, 31.158331, 30.24163)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jasper County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jasper",
+    "Jasper County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:59Z",
+  "layer_id_s": "restricted-figgy:fc67af23-c61f-483a-b757-9fc36d81d19f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/12e5fe91-8bfb-4ff9-b122-58362a89f31d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72437cfa-74fc-49e1-a3e7-c0d63de5bb5f/file/eae4cc33-d1aa-4e2c-975e-8d1a81416808\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc67af23-c61f-483a-b757-9fc36d81d19f/file/86d260ea-68ca-40fd-a9b7-38cc25ec480f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc67af23-c61f-483a-b757-9fc36d81d19f/file/3dc6a944-d823-4197-9b54-f81c66b347cb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

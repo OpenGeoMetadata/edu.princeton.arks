@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d302p",
+  "layer_slug_s": "princeton-4j03d302p",
+  "uuid": "princeton-4j03d302p",
+  "dc_title_s": "Greene County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.240945, -86.682037, 39.171846, 38.902433)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Green County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Greene",
+    "Greene County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:13:12Z",
+  "layer_id_s": "restricted-figgy:a518f8a3-ab82-463c-8545-cdd8c6fb07d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7a4f3274-228b-4b61-a158-a2a135bd0a6e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c236af85-fc18-4223-ab5c-8fbcc9387527/file/6ff1139f-eff3-434c-823f-1feef53a1e4b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a518f8a3-ab82-463c-8545-cdd8c6fb07d7/file/64e006e2-86db-4a0b-8243-58a7da3158fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a518f8a3-ab82-463c-8545-cdd8c6fb07d7/file/3f0895b4-1192-4fd5-9281-91f9b9a3614e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

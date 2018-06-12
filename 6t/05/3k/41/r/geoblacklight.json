@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6t053k41r",
+  "layer_slug_s": "princeton-6t053k41r",
+  "uuid": "princeton-6t053k41r",
+  "dc_title_s": "Wilson County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.190878, -77.665361, 35.867028, 35.572495)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wilson County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wilson County",
+    "Wilson",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:34Z",
+  "layer_id_s": "restricted-figgy:01491d98-2aee-436a-91cc-c650441b6612",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8fd0ac1f-8d47-40dc-9e1b-31685be30014\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/128714fe-28fe-46b5-bbec-00347f382a1d/file/c3e7d314-1ae7-4359-b5f1-f906e1b08388\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01491d98-2aee-436a-91cc-c650441b6612/file/9dde8048-5037-4e82-9a47-dfc03bc99131\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01491d98-2aee-436a-91cc-c650441b6612/file/21c89ffb-3bca-4437-a97a-0f02b0ea04d3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

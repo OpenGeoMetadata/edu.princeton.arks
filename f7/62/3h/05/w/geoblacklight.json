@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623h05w",
+  "layer_slug_s": "princeton-f7623h05w",
+  "uuid": "princeton-f7623h05w",
+  "dc_title_s": "Scotland constituencies, 1948-1955",
+  "solr_geom": "ENVELOPE(-9.193079, -0.714878, 60.859579, 54.515277)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of Constituencies which were and are the units from which Members of Parliament are elected, and which they then represent. The system of county and borough constituencies has early origins but was not systematically mapped until the reforms introduced by the Representation of the People Act in 1832. In 1949 the whole system of county and borough/burgh constituencies was overhauled to achieve greater consistency across the UK and all two-member and non-spatial constituencies were abolished. This file represents the system as it was established following the Boundary Commission Report of 1949.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "constituencies",
+    "parliamentary constituencies",
+    "history",
+    "administrative units",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Scotland",
+    "United Kingdom"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "1955",
+    "2009"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-04-05T01:10:24Z",
+  "layer_id_s": "restricted-figgy:b7967861-4696-4ed7-84b5-96a45d883d8f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6223c36d-cdc2-4432-ad28-0c7d48a586a1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/35d1012a-7072-42f9-adae-e2353bdccc1b/file/69ead2e3-53ae-4940-b6c2-a0dcbd90fb5a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7967861-4696-4ed7-84b5-96a45d883d8f/file/860b4dae-c3e6-4984-b841-5822a52fe1ac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7967861-4696-4ed7-84b5-96a45d883d8f/file/e9183477-8135-44cf-a60f-fa6491cd6e3d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

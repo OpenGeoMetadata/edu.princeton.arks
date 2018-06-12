@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2774014z",
+  "layer_slug_s": "princeton-b2774014z",
+  "uuid": "princeton-b2774014z",
+  "dc_title_s": "Sarasota County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.642576, -82.056685, 27.3897, 26.945471)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sarasota County, Florida, 2012,",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sarasota",
+    "Sarasota County",
+    "Florida",
+    "North Port"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:34:41Z",
+  "layer_id_s": "restricted-figgy:d2be8fc8-e7a3-4790-bbc6-54fe6dd7ca21",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/95f806ff-b0e8-4877-a108-c29428dd6aa6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/53622a71-fe27-4dfd-b295-d0f93940d68f/file/5e05a8f6-11c2-47f5-97e0-9832ea8a60e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2be8fc8-e7a3-4790-bbc6-54fe6dd7ca21/file/b817cdee-ed94-42b9-8532-0b8640f95490\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2be8fc8-e7a3-4790-bbc6-54fe6dd7ca21/file/d0ed0883-eca1-4933-b1b5-a19221de05e9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/js956k24c",
+  "layer_slug_s": "princeton-js956k24c",
+  "uuid": "princeton-js956k24c",
+  "dc_title_s": "England and Wales ancient parishes, 1831",
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The system of Ancient Parishes was not defined by central government, but grew up over the centuries starting in Saxon times. By origin it was an entirely ecclesiastical system, but it became the main geography for a variety of statistical reporting, partly because the main local sources for many government inquiries were the parish priests of the Church of England. Its origins mean there was no central record of the system, and boundary mapping of the whole country by the Ordnance Survey was not completed until the late 19th century, so there is room for substantial debate about what parishes actually existed at a given date. This file was constructed around the county-by-county parish listings of the 1831 Census of Population. Under the Ancient Parish system, many parishes especially in the north of England consisted of a mother parish based on the main settlement, plus surrounding Townships, Chapelries and hamlets (many of which later became separate Civil Parishes): the file makes no attempt to represent those subdivisions, only the overall parishes.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "history",
+    "ancient parishes",
+    "parishes",
+    "administrative units",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1831",
+    "2009"
+  ],
+  "solr_year_i": 1831,
+  "layer_modified_dt": "2018-04-04T22:48:29Z",
+  "layer_id_s": "restricted-figgy:8e14e9a5-94c4-461e-a4e1-ae670697bd76",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/537bb954-eef5-4247-953d-3f70e4ba5e47\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e8c1d746-c330-4d1b-afb4-6a7ec11d8bdc/file/5909e8fb-0e80-4675-bfe3-8d1c0953947b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e14e9a5-94c4-461e-a4e1-ae670697bd76/file/ec092f07-1512-4d44-88a2-91fb96c551be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e14e9a5-94c4-461e-a4e1-ae670697bd76/file/9285339d-6edf-4f5f-9fa6-3ee58afe07d8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,52 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd376089n",
+  "layer_slug_s": "princeton-wd376089n",
+  "uuid": "princeton-wd376089n",
+  "dc_title_s": "San Bernardino County, California land parcels, 2013",
+  "solr_geom": "ENVELOPE(-117.802541, -114.131502, 35.809235, 33.870891)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Bernardino County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino",
+    "San Bernardino County",
+    "California",
+    "Riverside",
+    "Fontana",
+    "Rancho Cucamonga",
+    "Ontario",
+    "San Bernardino Valley",
+    "Angeles National Forest",
+    "Death Valley National Park",
+    "Joshua Tree National Park",
+    "Mojave National Preserve",
+    "San Bernardino National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:50Z",
+  "layer_id_s": "restricted-figgy:19048ff0-ddf7-40b5-86ca-4c1a22cba3f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dcdd7992-77c2-41e5-98e8-eb9937325494\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ceea4a83-2c7b-4e8f-8170-f9e06815c43e/file/9a94bbac-679a-4805-8ebf-918f275cc78b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/19048ff0-ddf7-40b5-86ca-4c1a22cba3f7/file/6d48db65-f678-400c-8ed2-ef5b4d3f3b54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19048ff0-ddf7-40b5-86ca-4c1a22cba3f7/file/755ed8c0-3767-44ef-9724-fba4d1e92b15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

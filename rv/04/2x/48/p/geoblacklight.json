@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042x48p",
+  "layer_slug_s": "princeton-rv042x48p",
+  "uuid": "princeton-rv042x48p",
+  "dc_title_s": "Clark County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-84.104447, -83.49483, 40.0526, 39.732205)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Clark County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Clark",
+    "Clark County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:28Z",
+  "layer_id_s": "restricted-figgy:22e411ab-1f83-4f7b-909a-558c7200bccd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/866a9560-dc99-4cbc-808c-1f08da6146ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f4939d8b-e3b5-4fb1-b09f-58083f404b66/file/d5df427a-a412-41ec-9633-c457adb0b81e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22e411ab-1f83-4f7b-909a-558c7200bccd/file/73471341-7bc3-4dee-baf0-fe95271b9cf8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22e411ab-1f83-4f7b-909a-558c7200bccd/file/f5dcc307-4e28-4d06-a9bf-028895c1a2e9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

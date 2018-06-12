@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f4752m096",
+  "layer_slug_s": "princeton-f4752m096",
+  "uuid": "princeton-f4752m096",
+  "dc_title_s": "Lake County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.956582, -81.349712, 29.277326, 28.345701)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lake County",
+    "Lake",
+    "Florida",
+    "Orlando"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:01:11Z",
+  "layer_id_s": "restricted-figgy:1dbc7e23-544d-4bf2-83ca-c763d118df92",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/10a7151f-1bfa-4815-8616-8188473f24f8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8897a40a-bc84-41d7-bc54-3f169663960e/file/47d898bc-d00e-4c44-ab66-5094640a0358\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1dbc7e23-544d-4bf2-83ca-c763d118df92/file/d196c988-f2ca-4534-aacf-6822d3938a19\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1dbc7e23-544d-4bf2-83ca-c763d118df92/file/0e70c83a-9a95-4b1d-adf3-ab61c28564f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

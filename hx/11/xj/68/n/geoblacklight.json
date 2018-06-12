@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xj68n",
+  "layer_slug_s": "princeton-hx11xj68n",
+  "uuid": "princeton-hx11xj68n",
+  "dc_title_s": "Jefferson County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.3391, -86.516646, 33.843188, 33.245876)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Jefferson",
+    "Jefferson County",
+    "Birmingham",
+    "Hoover"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:43Z",
+  "layer_id_s": "restricted-figgy:a2da365c-63e9-467b-a745-6c2ddbc9b5ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f856cb6-03a0-4976-ad46-105521f1bd6c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0017e02f-6db6-4014-bb6f-2e618a01e238/file/4f887e4b-2390-42ea-92c1-c06c001d9406\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2da365c-63e9-467b-a745-6c2ddbc9b5ee/file/04c84f44-5f28-43ad-ae80-176b3fb313a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2da365c-63e9-467b-a745-6c2ddbc9b5ee/file/eba51c08-ad7e-4004-a53b-64b6bd610621\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

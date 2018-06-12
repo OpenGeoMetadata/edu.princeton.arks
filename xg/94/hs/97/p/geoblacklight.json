@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xg94hs97p",
+  "layer_slug_s": "princeton-xg94hs97p",
+  "uuid": "princeton-xg94hs97p",
+  "dc_title_s": "Fayette County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.381657, -80.751719, 38.273892, 37.819689)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fayette County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fayette",
+    "Fayette County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:30Z",
+  "layer_id_s": "restricted-figgy:2ed4ac9d-1202-4e1f-82b0-1cfa8bf72cbf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6a130923-dea8-4d4b-ae98-ce3f9d66c993\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13a9ab2a-b366-4db8-8361-b45658d5ac55/file/14303b7c-91eb-4614-b47b-cf4cc72d28cb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ed4ac9d-1202-4e1f-82b0-1cfa8bf72cbf/file/82454243-3203-402b-b8b5-aab6ec5add98\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ed4ac9d-1202-4e1f-82b0-1cfa8bf72cbf/file/b7abc205-127e-4e52-9d5c-9d611b2beba1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

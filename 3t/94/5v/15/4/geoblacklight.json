@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v154",
+  "layer_slug_s": "princeton-3t945v154",
+  "uuid": "princeton-3t945v154",
+  "dc_title_s": "Duval County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.04946, -81.380771, 30.58578, 30.103946)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Duval County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Duval County",
+    "Duval",
+    "Florida",
+    "Jacksonville"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:46Z",
+  "layer_id_s": "restricted-figgy:9b5acf4c-9f64-44fe-9aa2-78f15c5bdb92",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0288a978-6937-4ff5-9b8c-8918570e263e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/792182fd-fd68-470b-ace7-9a7888cfe020/file/239eb66a-bca5-48c5-ab1d-f82c2c894f46\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b5acf4c-9f64-44fe-9aa2-78f15c5bdb92/file/9ff06c99-c219-4065-9fb6-9f2088ba5ce4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b5acf4c-9f64-44fe-9aa2-78f15c5bdb92/file/64de07c5-ac8f-4fd7-b139-e0ec09617ae1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

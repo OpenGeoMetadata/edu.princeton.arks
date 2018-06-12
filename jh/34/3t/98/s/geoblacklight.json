@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jh343t98s",
+  "layer_slug_s": "princeton-jh343t98s",
+  "uuid": "princeton-jh343t98s",
+  "dc_title_s": "U.S. Populated Place Points 2002",
+  "solr_geom": "ENVELOPE(-176.645061, -66.93, 71.300371, 19.062919)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Populated Place Points represents populated places that include census designated places, consolidated cities, and incorporated places within United States identified by the U.S. Bureau of the Census.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "places",
+    "populated places",
+    "cities",
+    "towns",
+    "villages",
+    "demographics",
+    "housing units",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:31Z",
+  "layer_id_s": "restricted-figgy:2eec55fa-6937-4a49-bf90-5cf65a948c66",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9934f859-7e02-44b0-816a-77ae495e1b8d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e8ed4c15-695f-4400-8151-d2f039e84735/file/13fb3431-76a1-4008-af86-44c9c37b046c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2eec55fa-6937-4a49-bf90-5cf65a948c66/file/2cb7231b-1f05-434b-9454-a8a5ada603c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2eec55fa-6937-4a49-bf90-5cf65a948c66/file/77000d93-d778-4139-9948-d635f4abe1db\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

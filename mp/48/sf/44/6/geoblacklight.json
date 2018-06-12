@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sf446",
+  "layer_slug_s": "princeton-mp48sf446",
+  "uuid": "princeton-mp48sf446",
+  "dc_title_s": "Hunterdon County, New Jersey land parcels, 2010",
+  "solr_geom": "ENVELOPE(-75.194637, -74.702148, 40.787729, 40.339445)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hunterdon County, New Jersey, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Hunterdon",
+    "Hunterdon County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:46:49Z",
+  "layer_id_s": "restricted-figgy:b0f07af4-aab9-4a62-b674-a6b7458f7ccf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0d3fbc44-d672-49d2-8cb0-19aa2edf338f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c037665-6ef1-474d-a98a-bcc7093a27ed/file/8660e9c0-ced8-4f0b-8215-79f6e129dffe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0f07af4-aab9-4a62-b674-a6b7458f7ccf/file/9912ecd0-0f29-4821-8c80-2e971eefca60\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0f07af4-aab9-4a62-b674-a6b7458f7ccf/file/2b7f4782-b8eb-4693-ba6b-7be75a9cd383\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

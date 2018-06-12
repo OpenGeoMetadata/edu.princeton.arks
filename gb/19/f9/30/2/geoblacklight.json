@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f9302",
+  "layer_slug_s": "princeton-gb19f9302",
+  "uuid": "princeton-gb19f9302",
+  "dc_title_s": "Dunn County, Wisconsin land parcels, 2014",
+  "solr_geom": "ENVELOPE(-92.157069, -91.64951, 45.209518, 44.683632)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dunn County, Wisconsin, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Dunn County",
+    "Dunn"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:13:15Z",
+  "layer_id_s": "restricted-figgy:d67f5b51-0ede-49bc-95fa-21552c226b68",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd717575-488e-4163-b19c-4d0ffd7d9df8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4365ab93-7905-46d5-b0d2-a732cee28283/file/977f3b9a-e441-4cb6-9d13-79cbec2ef335\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d67f5b51-0ede-49bc-95fa-21552c226b68/file/4881ea16-786a-46d6-b97d-fdb1aeaaae7f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d67f5b51-0ede-49bc-95fa-21552c226b68/file/30c13ad8-18c3-44fc-a2d3-50ba5fdac67a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

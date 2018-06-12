@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gx41mn210",
+  "layer_slug_s": "princeton-gx41mn210",
+  "uuid": "princeton-gx41mn210",
+  "dc_title_s": "King George County, Virginia roads, 2011",
+  "solr_geom": "ENVELOPE(-77.342241, -77.001863, 38.400072, 38.161704)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in King George County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "King George",
+    "King George County",
+    "Virginia",
+    "Potomac River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:01:51Z",
+  "layer_id_s": "restricted-figgy:f09130eb-d249-406c-ae58-6f24fcf7313f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f11e1734-7f8b-415f-9b6a-de09a880148f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6c13d0e6-0832-41c5-9ec7-f741479e1863/file/70411622-571e-4b93-8fba-76845d56e1eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f09130eb-d249-406c-ae58-6f24fcf7313f/file/19b42210-fda2-4c63-beac-71d17bb65682\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f09130eb-d249-406c-ae58-6f24fcf7313f/file/080b624e-2693-4e69-bd09-e3f5a2c7e324\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

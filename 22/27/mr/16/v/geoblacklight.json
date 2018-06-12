@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mr16v",
+  "layer_slug_s": "princeton-2227mr16v",
+  "uuid": "princeton-2227mr16v",
+  "dc_title_s": "Spain Cities With Population 10 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(-18.104494, 4.302278, 43.68914, 27.694408)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Spain cities with population 10 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:17Z",
+  "layer_id_s": "restricted-figgy:dd9df99c-a15b-469e-9b03-5d6878717678",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9dc3ffbf-8577-4d20-b16c-217c733b4f9d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1aa8055d-ed0b-490c-a94b-7b9b5f02788b/file/5c6fdcc8-6703-4bd3-b24d-2235ed393fd8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd9df99c-a15b-469e-9b03-5d6878717678/file/62ec9828-e9d8-4fd9-a76d-2db3abdae384\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd9df99c-a15b-469e-9b03-5d6878717678/file/7154a739-5f33-4657-bce0-995025d1c0ba\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

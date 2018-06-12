@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rv042v82r",
+  "layer_slug_s": "princeton-rv042v82r",
+  "uuid": "princeton-rv042v82r",
+  "dc_title_s": "Massachusetts Major Roads 2002",
+  "solr_geom": "ENVELOPE(-73.476856, -69.948574, 42.88459, 41.243518)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Massachusetts Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Massachusetts.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:54:19Z",
+  "layer_id_s": "restricted-figgy:4a782333-6617-4846-8d67-2f957840da6e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a114e27e-c7a2-42cf-be53-d7fa4293b738\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64ad6913-796c-4d2c-b556-aec6403381f2/file/090f3c12-29b0-4db2-bd07-5cc30f8ad705\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a782333-6617-4846-8d67-2f957840da6e/file/c8f30ad8-04ee-4536-84f0-5e44f6f345a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a782333-6617-4846-8d67-2f957840da6e/file/e3ab30d0-5d5d-4d7b-9d59-3eaa3bf1db12\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

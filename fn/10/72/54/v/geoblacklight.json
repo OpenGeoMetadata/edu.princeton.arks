@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fn107254v",
+  "layer_slug_s": "princeton-fn107254v",
+  "uuid": "princeton-fn107254v",
+  "dc_title_s": "Spokane County, Washington roads, 2012",
+  "solr_geom": "ENVELOPE(-117.823586, -117.039789, 48.047775, 47.259373)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Spokane County, Washington, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Spokane County",
+    "Spokane",
+    "Spokane Valley",
+    "Washington",
+    "Washington State"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:47Z",
+  "layer_id_s": "restricted-figgy:9e0f329c-e2aa-4e7e-9cb9-7b5c9782ed4f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fd46d99-01da-4108-b561-d49476cd739c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/18822a4c-46dc-42a6-85ee-2d01bd84b45d/file/1f86df2a-6359-46eb-b931-0e1c5173fc75\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e0f329c-e2aa-4e7e-9cb9-7b5c9782ed4f/file/1894be95-7649-4016-a503-19a99ac03b8d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e0f329c-e2aa-4e7e-9cb9-7b5c9782ed4f/file/23c69980-0b78-430a-a77a-835b5e3d981a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

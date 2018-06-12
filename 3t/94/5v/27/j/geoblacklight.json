@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v27j",
+  "layer_slug_s": "princeton-3t945v27j",
+  "uuid": "princeton-3t945v27j",
+  "dc_title_s": "New York City Health Areas 2008",
+  "solr_geom": "ENVELOPE(-74.257233, -73.699214, 40.915808, 40.495972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The boundaries for New York City's Health Areas.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "City of New York Department of City Planning",
+  "dc_subject_sm": [
+    "boundary",
+    "borough",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T02:54:11Z",
+  "layer_id_s": "restricted-figgy:2f169026-4e69-4c38-85fd-2b0b6e868a3a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc7df65f-87c1-4a31-8d72-0b328c0de751\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e289458f-ed55-4460-ba73-85aad36b3f64/file/3d26637c-4cf0-4864-a3ab-09b7edc27e70\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f169026-4e69-4c38-85fd-2b0b6e868a3a/file/76ffb34e-94f4-4745-915b-c95d437350fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f169026-4e69-4c38-85fd-2b0b6e868a3a/file/95dbf3c7-59d9-49f1-8c1e-c643b6b8c7cb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

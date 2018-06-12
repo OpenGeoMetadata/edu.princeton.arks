@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gf67t",
+  "layer_slug_s": "princeton-t435gf67t",
+  "uuid": "princeton-t435gf67t",
+  "dc_title_s": "U.S. ZIP Code Areas (Three-Digit), 2013",
+  "solr_geom": "ENVELOPE(-179.14734, -64.565021, 71.390482, 17.674241)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. ZIP Code Areas (Three-Digit) represents the first three digits of a ZIP Code. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographic areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. These areas are serviced by the U.S. Post Office Sectional Center Facility (SCF). Note that a single SCF often services multiple three-digit areas.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "three-digit zip codes",
+    "sectional center facility",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:34:11Z",
+  "layer_id_s": "restricted-figgy:c5e0df09-b059-4325-9667-d7ebe0e170ea",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/09d1a4e0-1f14-4a7c-924b-755887583d1b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b607ce5f-2d68-4e76-b3bf-505095b3328d/file/8bc33aa3-5c2e-494a-a612-a167bbe6406a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c5e0df09-b059-4325-9667-d7ebe0e170ea/file/9cf679ae-ea36-4c98-8dd8-74a401b3957e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c5e0df09-b059-4325-9667-d7ebe0e170ea/file/3cf5cac6-707d-4159-b988-cbfbcff8b1c7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

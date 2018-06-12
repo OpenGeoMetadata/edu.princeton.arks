@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x059cb780",
+  "layer_slug_s": "princeton-x059cb780",
+  "uuid": "princeton-x059cb780",
+  "dc_title_s": "Carroll County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.338229, -84.809447, 33.813617, 33.423878)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Carroll County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Carroll County",
+    "Carroll",
+    "Georgia",
+    "Atlanta"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:36Z",
+  "layer_id_s": "restricted-figgy:205a8cb5-4220-4dee-b027-f5bf3431ed00",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/90c6844d-5f9f-4b09-8fc9-0bbe8ebf42d8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5047c91d-d804-4f14-94a5-ee29c43724bd/file/feea020e-0a58-4c16-b767-cc85d07c7374\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/205a8cb5-4220-4dee-b027-f5bf3431ed00/file/446931c9-ed3f-4af1-8485-506dcd2e7f35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/205a8cb5-4220-4dee-b027-f5bf3431ed00/file/5b655da7-0198-44f1-85bc-510e84f0716f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

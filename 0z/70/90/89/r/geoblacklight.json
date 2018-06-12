@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z709089r",
+  "layer_slug_s": "princeton-0z709089r",
+  "uuid": "princeton-0z709089r",
+  "dc_title_s": "Duval County, Florida roads, 2012",
+  "solr_geom": "ENVELOPE(-82.049079, -81.381849, 30.57556, 30.102583)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Duval County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Duval County",
+    "Florida",
+    "Duval",
+    "Jacksonville"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:36:16Z",
+  "layer_id_s": "restricted-figgy:c922acbb-e7dd-4b6b-a552-a374ad22acbe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0cf07022-0239-4493-8511-ab34bcda9373\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cf5e8b63-cf3e-424a-a863-0ef20fd417a4/file/a05c368b-92df-42ca-81d7-4e6e5a1fa1ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c922acbb-e7dd-4b6b-a552-a374ad22acbe/file/829d6b5b-e0cd-4043-8754-b46802d180e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c922acbb-e7dd-4b6b-a552-a374ad22acbe/file/275aa62b-ae31-4c88-875b-94183bf7163a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

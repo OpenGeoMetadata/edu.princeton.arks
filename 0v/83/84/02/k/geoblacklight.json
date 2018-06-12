@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v838402k",
+  "layer_slug_s": "princeton-0v838402k",
+  "uuid": "princeton-0v838402k",
+  "dc_title_s": "Richmond County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.304658, -81.921251, 33.485538, 33.267509)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Richmond County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Richmond",
+    "Richmond County",
+    "Georgia",
+    "Augusta",
+    "Fort Gordon"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:26Z",
+  "layer_id_s": "restricted-figgy:c1d494b3-009d-4011-8971-74dc6590f896",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/927e4a34-be07-4ad4-8adb-9e21d73ac818\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/599b2141-7758-413a-a4ba-e9f80e8e502a/file/f129e7bf-b7bd-4cd0-b3af-a5b87259bf74\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1d494b3-009d-4011-8971-74dc6590f896/file/30778f93-6125-4983-a1f2-b567b7c39bc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1d494b3-009d-4011-8971-74dc6590f896/file/ab1b75f7-e35d-4796-b668-55a18d7cff82\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qr46r237v",
+  "layer_slug_s": "princeton-qr46r237v",
+  "uuid": "princeton-qr46r237v",
+  "dc_title_s": "Mississippi Major Roads 2002",
+  "solr_geom": "ENVELOPE(-91.419225, -88.113659, 34.99611, 30.206379)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mississippi Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Mississippi.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T03:00:02Z",
+  "layer_id_s": "restricted-figgy:61f4fda1-4f15-4edc-b038-84011efc69d1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a94f85c-4055-4467-8b38-fb5481cdc7aa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/208540c9-8315-4aaf-9884-fb77c6e9fa8b/file/eabc6100-e14f-44c3-b9e7-f8bd39a9fc0a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61f4fda1-4f15-4edc-b038-84011efc69d1/file/a96e9cef-ce24-4f5c-af63-7e2a54f0cef2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61f4fda1-4f15-4edc-b038-84011efc69d1/file/c793ae16-f19e-4496-a5cb-3075ba860921\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

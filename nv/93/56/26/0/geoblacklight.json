@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv9356260",
+  "layer_slug_s": "princeton-nv9356260",
+  "uuid": "princeton-nv9356260",
+  "dc_title_s": "Mifflin County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.914475, -77.288081, 40.846886, 40.36129)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mifflin County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mifflin",
+    "Mifflin County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:46:54Z",
+  "layer_id_s": "restricted-figgy:6826d04f-b493-443b-8728-c2a1d29ea8d6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2739458-d075-4f76-903e-7706c40724dd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/baaacfc0-9f8d-4125-9a24-a9c44385718f/file/14483617-c562-4600-85c4-a5ca6bbe292c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6826d04f-b493-443b-8728-c2a1d29ea8d6/file/4e46669f-3b71-4004-96db-f06706923599\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6826d04f-b493-443b-8728-c2a1d29ea8d6/file/2563a83b-cd2e-4357-97c8-739a368910ed\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

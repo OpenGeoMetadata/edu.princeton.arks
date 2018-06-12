@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8623j218z",
+  "layer_slug_s": "princeton-8623j218z",
+  "uuid": "princeton-8623j218z",
+  "dc_title_s": "Fairfax County, Virginia roads, 2011",
+  "solr_geom": "ENVELOPE(-77.532118, -77.04189, 39.055532, 38.621295)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fairfax County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Fairfax",
+    "Fairfax County",
+    "Virginia",
+    "Washington",
+    "District of Columbia",
+    "Potomac River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:40Z",
+  "layer_id_s": "restricted-figgy:88454409-f892-4bbf-8c20-7ccf7dab3dba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/069e4129-8a45-4fd1-81d2-87c98d86d516\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c5f46755-f6b2-4927-8cfc-46f6882ba247/file/f43d2423-dfa8-406b-829f-d71de610409b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88454409-f892-4bbf-8c20-7ccf7dab3dba/file/09af3230-da2f-45f6-b980-8c6190c90df3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88454409-f892-4bbf-8c20-7ccf7dab3dba/file/4b1a8a33-1dd5-4e79-a03a-797e238cd0f4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

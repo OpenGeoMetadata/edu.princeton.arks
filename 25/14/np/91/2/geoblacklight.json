@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514np912",
+  "layer_slug_s": "princeton-2514np912",
+  "uuid": "princeton-2514np912",
+  "dc_title_s": "Burke County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-81.987411, -81.363689, 35.99991, 35.558232)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Burke County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Burke",
+    "Burke County",
+    "North Carolina",
+    "Hickory",
+    "Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:39:27Z",
+  "layer_id_s": "restricted-figgy:11c3ccd6-b455-4c1c-bd0a-41aa9ee60b7b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b02714c6-7c5b-4cff-bc64-fd86b74d1add\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc9b4c78-8268-4b69-b8aa-69c2fc50f3cf/file/11e90190-c85b-49cb-a11c-a703036ecdb5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11c3ccd6-b455-4c1c-bd0a-41aa9ee60b7b/file/68bf80a1-01df-4623-90a7-239dfd13eaee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11c3ccd6-b455-4c1c-bd0a-41aa9ee60b7b/file/60b81f95-c2c9-4cca-8d2c-324c1c0eabf8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

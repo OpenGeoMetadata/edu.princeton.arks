@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j96023993",
+  "layer_slug_s": "princeton-j96023993",
+  "uuid": "princeton-j96023993",
+  "dc_title_s": "Clear Creek County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.927275, -105.391528, 39.85248, 39.565258)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clear Creek County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Clear Creek",
+    "Clear Creek County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:26:51Z",
+  "layer_id_s": "restricted-figgy:eb2df18c-048c-41b2-856b-6dd6cc4d1a2b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b084bf0e-7a08-432d-95e8-1f29b0ac4fbe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c7847bf-c16c-416f-a885-082f95edfe04/file/f0d7c3c5-e025-4f2c-b296-fec89a87f8d1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb2df18c-048c-41b2-856b-6dd6cc4d1a2b/file/e109db40-90da-4527-bdfa-42a43304bf20\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb2df18c-048c-41b2-856b-6dd6cc4d1a2b/file/7664a2e7-6b4e-4e78-93ab-c3fec70528ed\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

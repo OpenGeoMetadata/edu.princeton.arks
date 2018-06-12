@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nk322f861",
+  "layer_slug_s": "princeton-nk322f861",
+  "uuid": "princeton-nk322f861",
+  "dc_title_s": "Iceland Major Power and Phone Lines, 2005",
+  "solr_geom": "ENVELOPE(-24.017038, -14.041266, 66.43354, 63.436855)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major power and phone lines of Iceland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines",
+    "phone lines",
+    "telephone"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:14Z",
+  "layer_id_s": "restricted-figgy:ea4b3032-e947-4d8a-ae7c-36e6b371c32a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/63394bbb-e566-4b1a-b2d3-eb72f403f06e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e05d8d3-8afe-4a2f-975a-5dcebeb176ff/file/56f4ee56-2f98-4625-a7bd-c55015346d85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea4b3032-e947-4d8a-ae7c-36e6b371c32a/file/71d9f403-9594-497a-852c-9f9523413b70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea4b3032-e947-4d8a-ae7c-36e6b371c32a/file/61258825-508a-4664-a0af-5fa0b8e06e6c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

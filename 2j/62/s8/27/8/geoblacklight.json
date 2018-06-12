@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2j62s8278",
+  "layer_slug_s": "princeton-2j62s8278",
+  "uuid": "princeton-2j62s8278",
+  "dc_title_s": "Teton County, Idaho land parcels, 2012",
+  "solr_geom": "ENVELOPE(-111.400964, -111.045248, 43.968788, 43.501198)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Teton County, Idaho, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Teton",
+    "Teton County",
+    "Idaho",
+    "Targhee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:13Z",
+  "layer_id_s": "restricted-figgy:085cc194-c2ae-4f98-8823-865c6eefb6b2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2ae832d2-6e0a-44cb-9ec7-522f2d43939e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/151cccec-0381-45f4-8b2b-94a55ef055e6/file/af98af1f-5766-4d38-b24d-ae103c14ce24\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/085cc194-c2ae-4f98-8823-865c6eefb6b2/file/9b8409b8-ad96-495b-815b-e9e1d7e6da04\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/085cc194-c2ae-4f98-8823-865c6eefb6b2/file/41973d36-6625-4ec6-93b6-bfaed0803d2f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

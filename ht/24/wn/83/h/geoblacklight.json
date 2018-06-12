@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ht24wn83h",
+  "layer_slug_s": "princeton-ht24wn83h",
+  "uuid": "princeton-ht24wn83h",
+  "dc_title_s": "Beaverhead County, Montana land parcels, 2009",
+  "solr_geom": "ENVELOPE(-113.938095, -111.463522, 45.941549, 44.357919)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Beaverhead County, Montana, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Montana",
+    "Beaverhead",
+    "Beaverhead County",
+    "Continental Divide"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:02Z",
+  "layer_id_s": "restricted-figgy:026028dd-f077-4566-aad2-73e325cf194a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4c0ad36-07f8-4040-8b0f-7facc974a1b0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6103bda1-ab76-49fa-bf3a-903ea952a8ee/file/4e744a5a-2744-4798-b75d-1c15aa1ed247\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/026028dd-f077-4566-aad2-73e325cf194a/file/27244ac6-4c6b-4546-9412-334276657046\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/026028dd-f077-4566-aad2-73e325cf194a/file/211b7e1e-2df9-441e-bc1e-f5e3922d7d97\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q524js25v",
+  "layer_slug_s": "princeton-q524js25v",
+  "uuid": "princeton-q524js25v",
+  "dc_title_s": "Jackson County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-91.584422, -91.032499, 35.890059, 35.354263)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Jackson",
+    "Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:59Z",
+  "layer_id_s": "restricted-figgy:609ee568-3768-4c12-8e8f-14805406beed",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/adbe9515-3e23-40a7-b85a-ac79773af188\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de198cd8-97fa-4a03-8935-5e610e7d5aaa/file/1dd285a9-2b75-4cc8-8422-6ea745768bc1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/609ee568-3768-4c12-8e8f-14805406beed/file/4e365526-b187-4a49-9524-2c7a82de985c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/609ee568-3768-4c12-8e8f-14805406beed/file/47d174dc-3372-4664-9d02-00cbccd4d21d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

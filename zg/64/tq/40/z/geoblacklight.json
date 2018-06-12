@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tq40z",
+  "layer_slug_s": "princeton-zg64tq40z",
+  "uuid": "princeton-zg64tq40z",
+  "dc_title_s": "Coweta County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.015108, -84.497169, 33.51205, 33.1906)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Coweta County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Coweta",
+    "Coweta County",
+    "Georgia",
+    "Atlanta",
+    "Chattahoochee Bend State Park"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:10:02Z",
+  "layer_id_s": "restricted-figgy:815bb4ca-3f98-42da-8705-a2bddc1a3d0a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dee653db-eec3-4448-b33d-2f346b31313d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fb96abfa-d2de-4be9-a1c9-9c80b71fa468/file/a8ebd9c1-d1d6-492e-b49d-f3de259fef68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/815bb4ca-3f98-42da-8705-a2bddc1a3d0a/file/853377a9-bebf-4050-8a4b-93ae9d5db540\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/815bb4ca-3f98-42da-8705-a2bddc1a3d0a/file/7560e3fb-f370-47ae-859e-e6183174cbca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

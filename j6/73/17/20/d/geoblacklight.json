@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j6731720d",
+  "layer_slug_s": "princeton-j6731720d",
+  "uuid": "princeton-j6731720d",
+  "dc_title_s": "Oklahoma County, Oklahoma land parcels, 2011",
+  "solr_geom": "ENVELOPE(-97.674031, -97.140798, 35.725898, 35.376958)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Oklahoma County, Oklahoma, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oklahoma",
+    "Oklahoma County",
+    "Oklahoma City",
+    "Edmond"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:51Z",
+  "layer_id_s": "restricted-figgy:17a04312-be8b-4600-8ccc-1219888a11f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/26cb2fe8-58c9-41f7-acef-99bf462d35ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/05a35956-13c7-432c-867b-b94ba1922a50/file/9a4518ab-07cb-413c-825c-88dddcb2dabe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17a04312-be8b-4600-8ccc-1219888a11f7/file/ff5f3936-0b52-4850-8c70-7e75ece2ce7a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17a04312-be8b-4600-8ccc-1219888a11f7/file/f2c2bd2a-2018-4508-9020-65635c0cbd8b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

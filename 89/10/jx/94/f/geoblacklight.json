@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jx94f",
+  "layer_slug_s": "princeton-8910jx94f",
+  "uuid": "princeton-8910jx94f",
+  "dc_title_s": "Lawrence County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.245284, -89.958127, 31.761471, 31.328512)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lawrence County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lawrence",
+    "Lawrence County",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:13:07Z",
+  "layer_id_s": "restricted-figgy:4cf36512-f827-45be-8c6b-9281e2a0f23b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6de20880-7bba-490b-a000-26005bc7d6ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/23c2c83f-e575-4e9d-9269-515d64d30bb4/file/b0b4073e-f15d-4425-b608-63db5cda7b1f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4cf36512-f827-45be-8c6b-9281e2a0f23b/file/aa024557-5574-4a1a-a62e-244809b38e8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cf36512-f827-45be-8c6b-9281e2a0f23b/file/33db3685-e57e-4337-be1c-d5996c703880\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

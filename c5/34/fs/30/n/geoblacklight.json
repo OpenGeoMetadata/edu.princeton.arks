@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fs30n",
+  "layer_slug_s": "princeton-c534fs30n",
+  "uuid": "princeton-c534fs30n",
+  "dc_title_s": "Adams County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.073881, -84.8022, 40.922563, 40.568417)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Adams County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Adams County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:02:15Z",
+  "layer_id_s": "restricted-figgy:ec6bf0fb-373e-4beb-897f-3d218d7a8fff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f471f656-9707-4574-b483-89c43b8eab55\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9552525-dac4-452f-9915-b2a0afa663b5/file/c88ea751-471c-46c5-a48e-6f61b3791bbd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ec6bf0fb-373e-4beb-897f-3d218d7a8fff/file/19c922fc-d087-4aa5-b25c-fb6d44f3b5a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ec6bf0fb-373e-4beb-897f-3d218d7a8fff/file/8031654f-170d-490b-8738-6f190b2adfa0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

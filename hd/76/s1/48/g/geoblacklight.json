@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hd76s148g",
+  "layer_slug_s": "princeton-hd76s148g",
+  "uuid": "princeton-hd76s148g",
+  "dc_title_s": "Clackamas County, Oregon land parcels, 2006",
+  "solr_geom": "ENVELOPE(-122.868119, -121.650656, 45.461819, 44.884524)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clackamas County, Oregon, 2006. Tax lots, right-of-way outlines and tax account numbers as represented on county tax assessor hard copy maps. Each tax lot is a polygon with an associated tax lot number which is the \"hook\" to the county tax assessor's tabular data base. Selected items from each County Assessor's file are included. The tax lot spatial features are maintained by each county and delivered to Metro quarterly.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "tax lots",
+    "assessor",
+    "cadastral",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Clackamas",
+    "Clackamas County",
+    "Portland",
+    "Mount Hood"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:29:06Z",
+  "layer_id_s": "restricted-figgy:dd30ad25-6ef2-445a-8a50-60c9b3b93c23",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ab614c84-ff5d-4ccd-85cb-8cb07c11aab7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/58052f33-db36-498f-aa0a-adc881a1adf8/file/bb2cfd79-9bb1-442b-8d49-670df1700dce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd30ad25-6ef2-445a-8a50-60c9b3b93c23/file/2ce70c39-957e-40e0-b257-a30334a3f18c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd30ad25-6ef2-445a-8a50-60c9b3b93c23/file/b9a8cdfb-15f1-4862-b8d5-fd93386055e9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

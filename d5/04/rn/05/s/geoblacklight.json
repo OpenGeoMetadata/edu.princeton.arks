@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rn05s",
+  "layer_slug_s": "princeton-d504rn05s",
+  "uuid": "princeton-d504rn05s",
+  "dc_title_s": "Baker County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-82.459465, -82.049175, 30.584264, 30.136908)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Baker County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "land value",
+    "value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Baker",
+    "Baker County",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:47:03Z",
+  "layer_id_s": "restricted-figgy:530b8ffe-f705-4937-a0d2-54f636b346bc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0e47dad0-139c-4d4e-9fb5-9b6646966dfa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7dcc9489-347c-4deb-83e8-4b91cc8fb7fc/file/57691984-1d16-4afd-8ba9-2e9a2936601d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/530b8ffe-f705-4937-a0d2-54f636b346bc/file/e5c29e72-f96a-4af9-8da1-b460534c841f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/530b8ffe-f705-4937-a0d2-54f636b346bc/file/5d0ee92b-ddc3-4889-9a07-ad9787c5132b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

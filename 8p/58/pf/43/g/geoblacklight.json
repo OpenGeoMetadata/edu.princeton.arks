@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8p58pf43g",
+  "layer_slug_s": "princeton-8p58pf43g",
+  "uuid": "princeton-8p58pf43g",
+  "dc_title_s": "Vermont Rivers 2002",
+  "solr_geom": "ENVELOPE(-73.410038, -71.464556, 45.016321, 42.726996)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Vermont Rivers represents streams and rivers within Vermont.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Vermont"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:49:49Z",
+  "layer_id_s": "restricted-figgy:1990ad3f-6610-4535-aba0-f41b706e57eb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/33accd6b-b89d-41e9-9690-32096b304a9b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0e0dc915-f655-4662-8f37-e2fb39cbfd09/file/dae41d5a-ff58-4829-b9e1-cb6bed9821bd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1990ad3f-6610-4535-aba0-f41b706e57eb/file/9760895e-5ef5-4652-8f5b-ef56d98cf89a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1990ad3f-6610-4535-aba0-f41b706e57eb/file/6f72021c-eaeb-44bd-a7fc-d6d50d90392d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

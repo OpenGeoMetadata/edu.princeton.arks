@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jd473086z",
+  "layer_slug_s": "princeton-jd473086z",
+  "uuid": "princeton-jd473086z",
+  "dc_title_s": "Door County, Wisconsin land parcels, 2005",
+  "solr_geom": "ENVELOPE(-87.73648, -86.763988, 45.428461, 44.675155)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The Tax Parcel map of Door County, Wisconsin, 2005. This was derived from a variety of source maps including survey plats, deed descriptions, subdivision maps, certified survey maps, easements, and right-of-way plats. These source materials were of several different scales and were from dates ranging from the late 1800's to the present. This map provides a useful representation of the geometry and topology of tax parcels and is suitable for its intended purpose. It is not, however, meant to be used for the determination of land ownership and interest descriptions contained in individual deeds.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "foundational elements",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Door",
+    "Door County",
+    "Door Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T22:39:10Z",
+  "layer_id_s": "restricted-figgy:c9315cf0-ae31-450f-b539-744abee4081f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a426d508-853c-4ac7-87fe-be5df1d6bbbc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d139ed08-7c2d-4401-8bce-255f12cc289f/file/38a18cbf-0f63-429a-a4d3-d381fa4ed91d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9315cf0-ae31-450f-b539-744abee4081f/file/536f6496-33b1-4a85-bae1-1e335b1add9a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9315cf0-ae31-450f-b539-744abee4081f/file/f3c738b1-241e-479f-8b36-a558fcc293fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

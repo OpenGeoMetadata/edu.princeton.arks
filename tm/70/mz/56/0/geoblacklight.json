@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tm70mz560",
+  "layer_slug_s": "princeton-tm70mz560",
+  "uuid": "princeton-tm70mz560",
+  "dc_title_s": "Lake County, Montana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-114.604852, -113.59806, 48.0519, 47.138196)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Montana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lake",
+    "Lake County",
+    "Montana",
+    "Flathead National Forest",
+    "National Bison Range",
+    "Flathead Lake"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:35Z",
+  "layer_id_s": "restricted-figgy:f87a4e8a-5653-49e8-b383-64213248f861",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e58956c7-492b-4e4a-9330-675511cb8acd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a568149-1085-4836-9865-1f266bf0802b/file/436e009f-2ee1-4d23-9067-ad4fb789fb54\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f87a4e8a-5653-49e8-b383-64213248f861/file/9cadfb6e-29b0-46e2-b57f-b9f9cd68f13c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f87a4e8a-5653-49e8-b383-64213248f861/file/85c28ab8-1b4b-44b4-91fa-f86df08bc464\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

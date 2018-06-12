@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/05741w19c",
+  "layer_slug_s": "princeton-05741w19c",
+  "uuid": "princeton-05741w19c",
+  "dc_title_s": "New York City Central Line Street (LION) 2008",
+  "solr_geom": "ENVELOPE(-74.26038, -73.699206, 40.917691, 40.485808)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "LION is a single line representation of New York City streets containing address ranges and other information.",
+  "dc_creator_sm": [
+    "City of New York Department of City Planning"
+  ],
+  "dc_publisher_s": "New York City Dept. of City Planning",
+  "dc_subject_sm": [
+    "Streets",
+    "LION",
+    "Roads",
+    "Transportation",
+    "Highway",
+    "Railroad"
+  ],
+  "dct_spatial_sm": [
+    "New York City",
+    "Manhattan",
+    "Brooklyn",
+    "Bronx",
+    "Queens",
+    "Staten Island"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T02:54:22Z",
+  "layer_id_s": "restricted-figgy:40c095ea-3873-479b-8463-0c4209f46a70",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c42263dd-6719-4454-8bb3-1fa5862a5f7d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36090489-928d-46d8-9fc5-4be512a566e3/file/4fcd643a-52f2-49bf-8f2c-e2fd71e44c2a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40c095ea-3873-479b-8463-0c4209f46a70/file/54683017-cb11-4dd6-ab67-d2887a698cbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40c095ea-3873-479b-8463-0c4209f46a70/file/7b6f605c-1388-4f87-a5f8-49624c44f2ad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

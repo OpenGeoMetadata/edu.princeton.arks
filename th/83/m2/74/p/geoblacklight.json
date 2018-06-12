@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m274p",
+  "layer_slug_s": "princeton-th83m274p",
+  "uuid": "princeton-th83m274p",
+  "dc_title_s": "Franklin County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-119.454238, -118.198402, 46.740054, 46.197975)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County",
+    "Franklin",
+    "Washington",
+    "Kennewick"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:42Z",
+  "layer_id_s": "restricted-figgy:a832af5b-25de-4e98-bcdc-7cde9de10879",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aa04fee1-fab5-445a-942b-b6e1c7932eff\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/158e9d32-a3eb-43d6-a05f-4f4161c744ff/file/1939e90c-4a95-4371-8d5e-4284f3636159\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a832af5b-25de-4e98-bcdc-7cde9de10879/file/cf4321d4-ca95-4706-b881-dd72aad506eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a832af5b-25de-4e98-bcdc-7cde9de10879/file/8c04e200-4d46-473e-99c7-1103573f2bcf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

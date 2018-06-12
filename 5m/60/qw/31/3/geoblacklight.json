@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qw313",
+  "layer_slug_s": "princeton-5m60qw313",
+  "uuid": "princeton-5m60qw313",
+  "dc_title_s": "Pulaski County, Arkansas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-92.755602, -92.02942, 35.014551, 34.489434)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pulaski County, Arkansas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pulaski County",
+    "Arkansas",
+    "Little Rock",
+    "Pulaski"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:40Z",
+  "layer_id_s": "restricted-figgy:3b1340ed-3e3b-47dd-9633-3dded1d54779",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/706bded6-295d-4bfa-9266-1d0542f5fbe7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1bae543a-91c1-4947-beb8-2460f939a3fd/file/de0d78d2-b2ab-418d-98d9-7b5dca3bfb79\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b1340ed-3e3b-47dd-9633-3dded1d54779/file/986975c2-c5ab-4421-95ca-03a63acdc622\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b1340ed-3e3b-47dd-9633-3dded1d54779/file/2aca53e6-82e3-40bd-a68b-d81ca7f78c87\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

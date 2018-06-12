@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jh343w76r",
+  "layer_slug_s": "princeton-jh343w76r",
+  "uuid": "princeton-jh343w76r",
+  "dc_title_s": "Geauga County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-81.391981, -81.002692, 41.714798, 41.34735)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Geauga County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Geauga",
+    "Geauga County",
+    "Ohio",
+    "Akron City Reservoir",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:06Z",
+  "layer_id_s": "restricted-figgy:2e3080f0-3bc1-4037-8620-c22d162c54ef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9c1b9266-65fe-4d01-9ffd-b035985d0eda\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1897ce50-514a-4b76-88f9-4e90f622068f/file/394c5cbe-1311-4f4e-80c9-c23bff85109a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e3080f0-3bc1-4037-8620-c22d162c54ef/file/876dd26c-f0a8-4524-9024-d78430209345\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e3080f0-3bc1-4037-8620-c22d162c54ef/file/367e751c-de2d-42c1-a98b-d5c6a46899d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

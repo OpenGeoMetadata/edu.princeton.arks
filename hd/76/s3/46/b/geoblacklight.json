@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hd76s346b",
+  "layer_slug_s": "princeton-hd76s346b",
+  "uuid": "princeton-hd76s346b",
+  "dc_title_s": "Cecil County, Maryland land parcels, 2011",
+  "solr_geom": "ENVELOPE(-76.22554, -75.76655, 39.723431, 39.362926)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cecil County, Maryland, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cecil",
+    "Cecil County",
+    "Maryland",
+    "Elk River",
+    "Susquehanna River",
+    "Chesapeake Bay",
+    "Eastern Shore"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:35Z",
+  "layer_id_s": "restricted-figgy:1b7daa95-2759-4d04-bdc3-e00dbc69d61b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44366b44-7489-422c-a4e4-e214bddd02b0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dfe97b4e-7207-4e7c-a8a9-3e01be73fd03/file/8468ec78-c028-4399-98e7-7f681e115052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b7daa95-2759-4d04-bdc3-e00dbc69d61b/file/a0fd7028-f07f-47d5-8ab4-cab58a6a3af9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b7daa95-2759-4d04-bdc3-e00dbc69d61b/file/0d388271-d752-47f2-b035-0eb61322f73e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

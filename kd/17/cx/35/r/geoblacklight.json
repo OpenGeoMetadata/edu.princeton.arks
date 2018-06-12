@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kd17cx35r",
+  "layer_slug_s": "princeton-kd17cx35r",
+  "uuid": "princeton-kd17cx35r",
+  "dc_title_s": "Thurston County, Washington land parcels, 2008",
+  "solr_geom": "ENVELOPE(-123.20305, -122.201724, 47.186806, 46.762047)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Thurston County, Washington, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Thurston",
+    "Thurston County",
+    "Olympia"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:13:00Z",
+  "layer_id_s": "restricted-figgy:792bb117-4c13-4e4c-ad60-35678d2c5934",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a9e91f2c-ea35-4497-aea3-d70eef734a50\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3c085094-dc34-401c-a3f9-ceff4b5d895d/file/03bdc9f5-d3e5-4197-8f94-cb2d976bf6b3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/792bb117-4c13-4e4c-ad60-35678d2c5934/file/35063da8-36ea-4c7d-969e-e648dac2d037\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/792bb117-4c13-4e4c-ad60-35678d2c5934/file/4faabce1-758d-416b-a352-6e2408afa9df\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

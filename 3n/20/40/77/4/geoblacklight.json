@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n2040774",
+  "layer_slug_s": "princeton-3n2040774",
+  "uuid": "princeton-3n2040774",
+  "dc_title_s": "Ohio Tracts 2002",
+  "solr_geom": "ENVELOPE(-84.820204, -80.518693, 41.977524, 38.403186)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Ohio Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Ohio.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:41Z",
+  "layer_id_s": "restricted-figgy:c6e4dc80-70c8-4646-b451-0748936a3f2c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/46a3c87f-ffae-4a8e-ae18-965b33df9aff\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59978eae-54d2-43f3-98a6-2832602855bd/file/9b56afa6-a84f-43cd-b87b-341177619aaa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6e4dc80-70c8-4646-b451-0748936a3f2c/file/8d932b00-3d2f-407f-b3fa-675eae5aab4e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6e4dc80-70c8-4646-b451-0748936a3f2c/file/119f1715-9405-40f8-95a1-4819b80d3757\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

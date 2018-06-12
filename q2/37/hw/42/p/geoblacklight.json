@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q237hw42p",
+  "layer_slug_s": "princeton-q237hw42p",
+  "uuid": "princeton-q237hw42p",
+  "dc_title_s": "Potter County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.207016, -77.598798, 42.001442, 41.475024)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Potter County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Potter",
+    "Potter County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:11Z",
+  "layer_id_s": "restricted-figgy:8c932ce2-0704-4956-87d3-b7bd34b0f44b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/25ba719b-9303-400b-9fdc-64b95b70f651\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef7ea6fb-4dfb-4a49-9286-d6f1ae6f1bc3/file/ca96a1bc-2697-423e-988e-bb7d204eb871\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8c932ce2-0704-4956-87d3-b7bd34b0f44b/file/68a9e0b0-5a25-48a4-9813-a85777d32792\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8c932ce2-0704-4956-87d3-b7bd34b0f44b/file/f02ef01e-e13c-4675-a078-179595ba1946\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

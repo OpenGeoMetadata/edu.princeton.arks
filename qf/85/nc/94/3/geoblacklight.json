@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nc943",
+  "layer_slug_s": "princeton-qf85nc943",
+  "uuid": "princeton-qf85nc943",
+  "dc_title_s": "Slovenia Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(13.3749, 16.5829, 46.8752, 45.4215)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovenia cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:48Z",
+  "layer_id_s": "restricted-figgy:7395fdf6-6174-425e-bff6-f88d98b70f46",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/40385b1c-2448-44e5-b69f-bdb5144f72f6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b57175b-8589-40ee-97fc-16bb42e3df14/file/2c67befc-eb95-482b-a21d-f96ae868a577\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7395fdf6-6174-425e-bff6-f88d98b70f46/file/167b3187-bd22-4464-91bf-01cccb2b8e1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7395fdf6-6174-425e-bff6-f88d98b70f46/file/7a710277-9ff3-4fdd-bc52-d949f01a6e65\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

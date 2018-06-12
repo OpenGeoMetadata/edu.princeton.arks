@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qt43p",
+  "layer_slug_s": "princeton-5m60qt43p",
+  "uuid": "princeton-5m60qt43p",
+  "dc_title_s": "Mobile County, Alabama land and water parcels, 2008",
+  "solr_geom": "ENVELOPE(-88.432533, -87.921829, 31.173283, 30.121921)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land and water parcels in Mobile County, Alabama, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "land use",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Mobile County",
+    "Mobile"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:12:48Z",
+  "layer_id_s": "restricted-figgy:b03c5579-ccba-4d61-bd1e-f6d931636955",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8d9532c5-f7e7-411f-92f1-e95023b7efda\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0bb45b46-5940-4fc8-a83c-ae314287e208/file/b85d0231-942b-46f4-84b0-dd39908b4235\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b03c5579-ccba-4d61-bd1e-f6d931636955/file/78337349-f871-4874-b3bf-c3f3bef89633\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b03c5579-ccba-4d61-bd1e-f6d931636955/file/8cbe7794-4bd0-4caf-85ae-e2aa89b1e569\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt67w",
+  "layer_slug_s": "princeton-2z10wt67w",
+  "uuid": "princeton-2z10wt67w",
+  "dc_title_s": "Washington County, Ohio land parcels, 2009",
+  "solr_geom": "ENVELOPE(-81.853604, -81.036901, 39.646066, 39.215744)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Ohio, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Washington",
+    "Washington County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:11Z",
+  "layer_id_s": "restricted-figgy:daca5220-b105-4c99-9ad4-acec36dd5a65",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d3d87bc4-35c6-4dc7-9048-9f2fa890a21d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0bad08b7-6136-4f96-9c91-c76baece1006/file/9d275dba-5034-462e-be4d-20e17fcfd84c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/daca5220-b105-4c99-9ad4-acec36dd5a65/file/a70473f4-1457-4fee-803a-890d35063020\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/daca5220-b105-4c99-9ad4-acec36dd5a65/file/17fb90af-0c92-4fd5-b88b-7cafe4b44543\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

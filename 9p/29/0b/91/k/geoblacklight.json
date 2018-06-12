@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9p290b91k",
+  "layer_slug_s": "princeton-9p290b91k",
+  "uuid": "princeton-9p290b91k",
+  "dc_title_s": "New York County (Manhattan), New York land parcels, 2007",
+  "solr_geom": "ENVELOPE(-74.047603, -73.906737, 40.879188, 40.683919)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in New York County (Manhattan), New York, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "stories",
+    "parcels",
+    "tax parcels",
+    "land use",
+    "value",
+    "ownership",
+    "property maps",
+    "cadastral maps",
+    "land value",
+    "floors",
+    "buildings",
+    "property",
+    "parcel",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Manhattan",
+    "New York",
+    "New York City",
+    "New York County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T01:11:57Z",
+  "layer_id_s": "restricted-figgy:0f5e1adf-e85f-4bd1-afe7-a4a43f853482",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8dbcd36d-8793-465e-bdfd-2ef4418f04ea\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3331d9b6-67be-487a-9fe8-dc142bb53da5/file/c0531fb7-e19c-4bea-bfd9-c3132b4443a1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f5e1adf-e85f-4bd1-afe7-a4a43f853482/file/228527e1-f561-4d72-929f-f9f92bf2465e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f5e1adf-e85f-4bd1-afe7-a4a43f853482/file/7f5a24fa-065b-4728-a4ec-c23dcea18950\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

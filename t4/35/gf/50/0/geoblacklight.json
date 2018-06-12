@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gf500",
+  "layer_slug_s": "princeton-t435gf500",
+  "uuid": "princeton-t435gf500",
+  "dc_title_s": "Greece Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(20.763056, 26.487639, 41.350723, 35.101055)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Greece created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:cf0e022c-418e-425c-be40-64cf58adf1d2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6c4a5cc6-149b-41b6-bbc0-e29d8034e026\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/960dce08-df9a-4717-8390-ca072bda1646/file/8884c904-9a1b-4eae-ac8d-f91b3b2983aa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf0e022c-418e-425c-be40-64cf58adf1d2/file/cf33bb26-94b1-4f6c-92d7-945ebc773787\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf0e022c-418e-425c-be40-64cf58adf1d2/file/614206cd-78f9-4d9e-b3a7-e4c3cffa44e0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

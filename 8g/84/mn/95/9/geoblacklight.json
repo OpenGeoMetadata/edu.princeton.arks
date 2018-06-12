@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mn959",
+  "layer_slug_s": "princeton-8g84mn959",
+  "uuid": "princeton-8g84mn959",
+  "dc_title_s": "Latvia 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(20.969358, 28.242383, 58.08363, 55.671203)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Latvia 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:23Z",
+  "layer_id_s": "restricted-figgy:d2d07be4-3f18-4fca-9834-98acccd6eddf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/21871a90-7067-45df-8483-138dc36eb279\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b759241b-b23d-4f6a-8c22-c30e372c68c5/file/0c2b4d64-78df-4ce4-875f-d791af5af77e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2d07be4-3f18-4fca-9834-98acccd6eddf/file/de877076-0711-4888-af27-9e50d33d688c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2d07be4-3f18-4fca-9834-98acccd6eddf/file/51310174-3884-4903-b239-8fa7e6364ffe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

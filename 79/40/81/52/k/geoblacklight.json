@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/79408152k",
+  "layer_slug_s": "princeton-79408152k",
+  "uuid": "princeton-79408152k",
+  "dc_title_s": "Bonneville County, Idaho land parcels, 2011",
+  "solr_geom": "ENVELOPE(-112.520026, -111.044182, 43.626984, 43.019556)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bonneville County, Idaho, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bonneville",
+    "Bonneville County",
+    "Idaho",
+    "Snake River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:04:20Z",
+  "layer_id_s": "restricted-figgy:446d724d-d402-44e7-8ef8-654a56b23ac4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c00f983b-7535-4aee-95bd-22171e32d1de\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04ae30d4-8ffe-4429-bdb8-2f7bf4b2244a/file/24b02f17-c7c2-4c7c-be9f-a635ccf704f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/446d724d-d402-44e7-8ef8-654a56b23ac4/file/9d5fb1f7-d142-4fb7-8462-69961499ac0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/446d724d-d402-44e7-8ef8-654a56b23ac4/file/8de4f9ef-1384-44b2-a8f6-3731b6d06a76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

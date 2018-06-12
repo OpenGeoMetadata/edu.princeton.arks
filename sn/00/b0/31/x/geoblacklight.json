@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sn00b031x",
+  "layer_slug_s": "princeton-sn00b031x",
+  "uuid": "princeton-sn00b031x",
+  "dc_title_s": "Denmark 1-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(8.072815, 15.197479, 57.748161, 54.556986)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Denmark 1 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "1 digit"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:52Z",
+  "layer_id_s": "restricted-figgy:892bea74-4ff9-44b2-a2ac-84d5c51d583d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c9e57926-c7bf-4d1c-9aaa-461730032722\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/246ee91d-3d0f-4db7-9f36-ccb2c1b51ccb/file/d4f9b7b6-d6f1-4911-8166-80c4d2cccc64\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/892bea74-4ff9-44b2-a2ac-84d5c51d583d/file/70bdebe1-05c6-48c6-809e-354f0cf41e41\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/892bea74-4ff9-44b2-a2ac-84d5c51d583d/file/7218890c-5e71-47dd-a841-2bf3ba269a5b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

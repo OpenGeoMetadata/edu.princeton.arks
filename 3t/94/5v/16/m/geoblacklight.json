@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v16m",
+  "layer_slug_s": "princeton-3t945v16m",
+  "uuid": "princeton-3t945v16m",
+  "dc_title_s": "Hillsborough County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-82.651218, -82.054484, 28.17343, 27.645382)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hillsborough County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Hillsborough",
+    "Hillsborough County",
+    "Tampa"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:54Z",
+  "layer_id_s": "restricted-figgy:6966b20c-5ed8-47d9-9438-18215a8cc78f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b868288-18c0-4513-9c2b-76cde670dfec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e4d1655c-0fa0-491e-bdb4-e08a778197bc/file/a844df21-7e57-427e-9f77-ab781677b385\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6966b20c-5ed8-47d9-9438-18215a8cc78f/file/5c444c0a-58f2-4f0a-b285-25aee3a3294d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6966b20c-5ed8-47d9-9438-18215a8cc78f/file/15a22702-f750-427a-9e22-accc481eee81\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2773x14r",
+  "layer_slug_s": "princeton-b2773x14r",
+  "uuid": "princeton-b2773x14r",
+  "dc_title_s": "Czech Republic Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(12.362313, 18.658004, 50.729277, 48.761975)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Czech Republic cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:54Z",
+  "layer_id_s": "restricted-figgy:9d93c489-2d9c-4990-8267-a7d6d034c5c9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/379577d7-45aa-4b9c-9b14-d13ede9729d1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/868decdd-bc44-408b-8d76-1ac8d62006b9/file/cb660c26-4108-41d9-9b23-ca55de580e99\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d93c489-2d9c-4990-8267-a7d6d034c5c9/file/a71c5ed1-26af-4db2-900a-7c03f69ba7c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d93c489-2d9c-4990-8267-a7d6d034c5c9/file/5fc62d65-5d92-47fc-99e2-5c92a9bbfec7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

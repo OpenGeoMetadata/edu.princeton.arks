@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429d53d",
+  "layer_slug_s": "princeton-47429d53d",
+  "uuid": "princeton-47429d53d",
+  "dc_title_s": "Clark County, Nevada land parcels, 2011",
+  "solr_geom": "ENVELOPE(-115.896846, -114.042772, 36.853659, 35.001842)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clark County, Nevada, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clark",
+    "Clark County",
+    "Nevada",
+    "Las Vegas",
+    "Paradise",
+    "Spring Valley",
+    "Red Rock Canyon",
+    "Enterprise",
+    "Henderson",
+    "Colorado River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:13Z",
+  "layer_id_s": "restricted-figgy:d1e9b80d-adbb-4539-9fd7-dcbd0b67446a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/436bf8fe-9c66-4ff3-8f54-0cea9d97a644\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09cc3f96-72d3-48eb-a0a8-bd4e9e451907/file/db22d300-a552-4247-b977-218eb8c9b652\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1e9b80d-adbb-4539-9fd7-dcbd0b67446a/file/f4f9e043-7330-46d2-86a6-dc821d2069f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1e9b80d-adbb-4539-9fd7-dcbd0b67446a/file/b3f729db-f746-4bc2-8018-df3d14cc1eab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

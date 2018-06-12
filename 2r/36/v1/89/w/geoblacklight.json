@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2r36v189w",
+  "layer_slug_s": "princeton-2r36v189w",
+  "uuid": "princeton-2r36v189w",
+  "dc_title_s": "Richmond County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.255757, -74.052787, 40.648973, 40.495916)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Richmond County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Richmond County",
+    "New York",
+    "New York City",
+    "Staten Island"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:23:08Z",
+  "layer_id_s": "restricted-figgy:08d6f7ba-8371-444e-aef7-b39e398c50a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/973b91f3-233f-4960-b9db-2f5435fc6219\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24972803-bfdc-4b9f-bfa3-fe65c536a049/file/d99a229e-d39f-416e-969d-60b22ea65f2d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08d6f7ba-8371-444e-aef7-b39e398c50a3/file/b4e4632a-b0b1-42c3-8c81-b4e7c649a72e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08d6f7ba-8371-444e-aef7-b39e398c50a3/file/fa2f3a0e-fb64-425f-ac39-b109aae6f9fe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

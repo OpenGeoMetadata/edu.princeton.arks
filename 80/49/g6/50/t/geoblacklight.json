@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8049g650t",
+  "layer_slug_s": "princeton-8049g650t",
+  "uuid": "princeton-8049g650t",
+  "dc_title_s": "Bhutan Major Rivers, 1996",
+  "solr_geom": "ENVELOPE(89.853666, 91.248048, 28.188056, 26.700779)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Bhutan created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Bhutan"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:31Z",
+  "layer_id_s": "restricted-figgy:50d35ef5-66a0-4523-b7e9-ca8ff63f27a9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc3b6790-a66d-4c0c-af08-d2bb9ee515f3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/17c52e0a-c678-48e2-abc1-f17e1182a7cc/file/df4c51be-b063-49e6-a598-151e4d42c20a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50d35ef5-66a0-4523-b7e9-ca8ff63f27a9/file/108f5a22-c4ca-408e-8f48-d719346449d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50d35ef5-66a0-4523-b7e9-ca8ff63f27a9/file/f3377638-aa2b-476e-ad8c-f81856f34505\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

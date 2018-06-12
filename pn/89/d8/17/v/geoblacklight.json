@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89d817v",
+  "layer_slug_s": "princeton-pn89d817v",
+  "uuid": "princeton-pn89d817v",
+  "dc_title_s": "Luxembourg District Boundaries, 2005",
+  "solr_geom": "ENVELOPE(5.736647, 6.53099, 50.181838, 49.447364)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the district boundaries of Luxembourg created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "districts",
+    "Boundaries",
+    "district boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:29Z",
+  "layer_id_s": "restricted-figgy:46cf439a-f302-4ca8-9578-4e927c8cec95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/696b06df-bbef-4255-9e43-3b3ba40d5a4c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24b2fa7d-e2e1-4586-8837-a15d3b436ba6/file/762405f8-183b-40a3-9a98-81c1b973d8c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46cf439a-f302-4ca8-9578-4e927c8cec95/file/18f4da96-dd53-4046-882c-1eee26c60c52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46cf439a-f302-4ca8-9578-4e927c8cec95/file/5b5b1b6c-e5d4-406c-a696-3aeec224000d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

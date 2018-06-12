@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579t85m",
+  "layer_slug_s": "princeton-12579t85m",
+  "uuid": "princeton-12579t85m",
+  "dc_title_s": "Poland 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(14.12218, 24.145496, 54.836476, 49.000789)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Poland 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:31Z",
+  "layer_id_s": "restricted-figgy:511cb630-a251-4de1-bffd-810983d9be81",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1628bdbd-e1e3-460f-a534-1d9d3bb1c5d2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea6c925d-5667-46ee-9834-abda57144aeb/file/7252c40a-1dd6-48e6-8bf5-ab7913872ba5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/511cb630-a251-4de1-bffd-810983d9be81/file/17a4e64c-ebef-449b-a751-6727cfe7b719\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/511cb630-a251-4de1-bffd-810983d9be81/file/354125e6-674f-4ec1-9953-514f2f482dfb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

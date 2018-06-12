@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sd833",
+  "layer_slug_s": "princeton-v405sd833",
+  "uuid": "princeton-v405sd833",
+  "dc_title_s": "Indian River County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.881051, -80.321542, 27.860252, 27.555885)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Indian River County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Indian River County",
+    "Indian River",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:29Z",
+  "layer_id_s": "restricted-figgy:f45fb6a4-b118-4784-96aa-1242542e03c1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5435d51-471c-4f66-bbb5-8ba0173e4b80\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a92b2869-1854-4a25-b4cf-9e299e820335/file/7743894b-b762-465f-bdd3-e21f0e467617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f45fb6a4-b118-4784-96aa-1242542e03c1/file/29383acb-a65d-4ab0-8502-40887fddbbef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f45fb6a4-b118-4784-96aa-1242542e03c1/file/0ccce037-975b-4a48-9eb9-9c39b0aa0efa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

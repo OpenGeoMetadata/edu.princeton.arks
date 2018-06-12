@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6q182p522",
+  "layer_slug_s": "princeton-6q182p522",
+  "uuid": "princeton-6q182p522",
+  "dc_title_s": "Glenn County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-122.937732, -121.856381, 39.800535, 39.383779)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Glenn County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Glenn",
+    "Glenn County",
+    "Mendocino National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:28:37Z",
+  "layer_id_s": "restricted-figgy:20a61bd6-ed9a-4b69-a010-881709fb2a68",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9c89da29-bbba-4bad-a14a-714e6ce956d8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/687bac35-aee8-4de8-9f10-3896bf6970c2/file/14c2e2de-57c2-467e-9deb-d09f9748d22c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20a61bd6-ed9a-4b69-a010-881709fb2a68/file/774fc1a5-dc3e-4bac-8e14-2a1eced576e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20a61bd6-ed9a-4b69-a010-881709fb2a68/file/6bb35483-4b62-443b-be19-465cc90acdc7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

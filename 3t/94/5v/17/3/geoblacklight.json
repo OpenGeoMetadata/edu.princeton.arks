@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v173",
+  "layer_slug_s": "princeton-3t945v173",
+  "uuid": "princeton-3t945v173",
+  "dc_title_s": "China extended short form census data by county, 2010",
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "China County Map with 2010 Population Census Comparation Data from Short Form Data, Extended Version.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dc_subject_sm": [
+    "county",
+    "census",
+    "population",
+    "demographic",
+    "households",
+    "families",
+    "migration",
+    "urban",
+    "rural",
+    "sex",
+    "male",
+    "female",
+    "age groups",
+    "education",
+    "generations",
+    "literacy",
+    "dependency",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2000"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:46:57Z",
+  "layer_id_s": "restricted-figgy:5180ef15-7a63-4b2e-bd52-0bd38369baae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dfbec4c3-0416-4530-8234-b0a771cfb0d0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42aaf114-812e-44de-8485-d5b0b1e06ae7/file/cd6e15c9-422e-4b10-a41f-4c3d2ffeb9fd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5180ef15-7a63-4b2e-bd52-0bd38369baae/file/67fd6185-6132-44f0-b6f7-5c927e1fd9ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5180ef15-7a63-4b2e-bd52-0bd38369baae/file/538f933b-7b2e-42ae-99a7-1f087cd89ba0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

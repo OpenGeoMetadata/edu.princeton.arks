@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nf652",
+  "layer_slug_s": "princeton-qf85nf652",
+  "uuid": "princeton-qf85nf652",
+  "dc_title_s": "Kane County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-112.901383, -111.597433, 37.543556, 37.000557)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Kane County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kane",
+    "Kane County",
+    "Utah",
+    "Bryce Canyon National Park",
+    "Dixie National Forest",
+    "Zion National Park"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:02:29Z",
+  "layer_id_s": "restricted-figgy:dccc8512-493c-47e9-820c-355be062910e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ffc3da0e-6fd9-4d28-b3c7-0944ab4422e5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c5db8f2-dee1-480c-aef0-b74ab734b95d/file/a462fc1f-748f-4f9f-a70b-83fcd17da3f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dccc8512-493c-47e9-820c-355be062910e/file/5cb94a85-1bb8-4399-bdb5-13136f7e0af9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dccc8512-493c-47e9-820c-355be062910e/file/3c116d3f-27b6-4141-82a9-30e96017db42\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

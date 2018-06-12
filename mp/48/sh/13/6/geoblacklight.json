@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sh136",
+  "layer_slug_s": "princeton-mp48sh136",
+  "uuid": "princeton-mp48sh136",
+  "dc_title_s": "Jasper County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.322904, -88.910428, 32.224294, 31.802116)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jasper County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jasper",
+    "Jasper County",
+    "Mississippi",
+    "Bienville National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:11:29Z",
+  "layer_id_s": "restricted-figgy:422045fd-a132-485f-97df-7fc9541ae2e6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/66958b75-2105-4680-a5b3-fcb4eb85cad8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b4df05bf-82d3-4492-a299-06413958050b/file/81c141ca-5ad6-412f-a3e4-7159c646a9b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/422045fd-a132-485f-97df-7fc9541ae2e6/file/c14a5708-140d-46c2-9912-8f43ffea2b1c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/422045fd-a132-485f-97df-7fc9541ae2e6/file/e14a42b3-2554-4112-887c-b91b629872e8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

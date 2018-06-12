@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wp988m207",
+  "layer_slug_s": "princeton-wp988m207",
+  "uuid": "princeton-wp988m207",
+  "dc_title_s": "Connecticut ZIP Code Areas 2002",
+  "solr_geom": "ENVELOPE(-73.727776, -71.786994, 42.05054, 40.986703)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Connecticut ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T02:55:07Z",
+  "layer_id_s": "restricted-figgy:10d45e9b-0ecc-405a-902c-3322e1b4702a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e1f7cafd-c862-4f2c-8434-0b7f5ba11d0b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5797bb3c-c358-4f9a-9c78-ca9397fc09e4/file/5ad62c72-35fa-431f-b979-9f055ffe6f0f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/10d45e9b-0ecc-405a-902c-3322e1b4702a/file/67fd0d06-a35d-4fad-a457-a15a940e90bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/10d45e9b-0ecc-405a-902c-3322e1b4702a/file/ab1ce37b-86ae-48ed-b37f-02e256cb4d1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

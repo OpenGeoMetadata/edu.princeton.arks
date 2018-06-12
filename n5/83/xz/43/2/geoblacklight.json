@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xz432",
+  "layer_slug_s": "princeton-n583xz432",
+  "uuid": "princeton-n583xz432",
+  "dc_title_s": "Lafayette County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-93.856601, -93.370488, 33.481975, 33.018758)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lafayette County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Lafayette",
+    "Lafayette County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:35Z",
+  "layer_id_s": "restricted-figgy:70bf257b-6761-4011-a8ae-9b687ee58235",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9defdb26-20ea-4617-8c82-7859db05f080\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a0178d4-6c8e-4cbd-9f01-3784fb3ced3f/file/29b2eb7f-1b24-4613-8d2e-73d63f3b6406\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70bf257b-6761-4011-a8ae-9b687ee58235/file/94b27495-6516-4c2a-a8b8-e8e7456ab67a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70bf257b-6761-4011-a8ae-9b687ee58235/file/14ed362a-bc04-402e-b320-dac5a4b8443f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

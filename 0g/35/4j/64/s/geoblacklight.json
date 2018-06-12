@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0g354j64s",
+  "layer_slug_s": "princeton-0g354j64s",
+  "uuid": "princeton-0g354j64s",
+  "dc_title_s": "Upshur County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.412776, -80.044647, 39.115225, 38.677544)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Upshur County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Upshur",
+    "Upshur County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:41Z",
+  "layer_id_s": "restricted-figgy:cd72349c-214e-474f-b294-da3bc2bece89",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c5c5f93e-5ebf-4f36-b6c6-b157433f75a8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71857e48-9462-48e3-88e3-42a3183d15bd/file/68ba0f78-e697-4357-80d8-c3c2a0da3bcb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd72349c-214e-474f-b294-da3bc2bece89/file/281c6fce-3dc7-46e4-ba14-4cf2dfdc039f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd72349c-214e-474f-b294-da3bc2bece89/file/e9dc6b4e-5c29-4423-a3e4-5270dcd0b8b3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

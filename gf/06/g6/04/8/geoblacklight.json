@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g6048",
+  "layer_slug_s": "princeton-gf06g6048",
+  "uuid": "princeton-gf06g6048",
+  "dc_title_s": "Eddy County, New Mexico roads, 2011",
+  "solr_geom": "ENVELOPE(-104.860728, -103.717969, 32.966158, 31.998973)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Eddy County, New Mexico, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Eddy County",
+    "Eddy",
+    "New Mexico",
+    "Carlsbad Caverns National Park",
+    "Lincoln National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:33Z",
+  "layer_id_s": "restricted-figgy:bdce5e3b-1ce4-4ef3-8318-b27f1d16ca3c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/03b73e19-dd63-4faf-924b-b3b842130420\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ee34eae5-7fdc-4f77-8ce2-54d815ebce62/file/15ad67da-19a3-4fb5-897f-5d52cbbf1dca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdce5e3b-1ce4-4ef3-8318-b27f1d16ca3c/file/71d842cd-cb75-4a13-a85f-40e21d5fc1c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdce5e3b-1ce4-4ef3-8318-b27f1d16ca3c/file/98f1e623-94fd-465c-977b-db33dfc922a0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

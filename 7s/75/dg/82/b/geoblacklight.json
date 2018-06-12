@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dg82b",
+  "layer_slug_s": "princeton-7s75dg82b",
+  "uuid": "princeton-7s75dg82b",
+  "dc_title_s": "Hudson County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-74.16516, -73.988172, 40.823582, 40.643499)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hudson County, New Jersey, 2014..",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Hudson County",
+    "Hudson",
+    "Jersey City",
+    "New York City",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:00Z",
+  "layer_id_s": "restricted-figgy:e3eaa6d1-8003-4987-9e9c-e936733b177d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff37bfa4-533a-4dea-85e9-3798f84710f5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aa14a5a5-bc8f-41c7-99d3-0ef99a32b9d5/file/ddd15f77-1195-470a-85e1-b04b90e70dd4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3eaa6d1-8003-4987-9e9c-e936733b177d/file/94f1e36a-c7c1-4074-9b33-0a76011cbfa9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3eaa6d1-8003-4987-9e9c-e936733b177d/file/709b40cb-26c6-4848-8fe1-9c1b7c4e07dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

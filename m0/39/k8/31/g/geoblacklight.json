@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m039k831g",
+  "layer_slug_s": "princeton-m039k831g",
+  "uuid": "princeton-m039k831g",
+  "dc_title_s": "Victoria County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-97.305253, -96.656316, 29.104026, 28.485689)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Victoria County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Victoria",
+    "Victoria County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:39:30Z",
+  "layer_id_s": "restricted-figgy:7e928c6c-36ed-4951-b964-1a24734b4c04",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0e0eb6a7-dd35-4da5-b735-f4037662d025\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e2719fd-54f2-41f1-8dcd-69517a63bd36/file/32964d1b-bda3-49f6-8deb-bbf56d919d5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e928c6c-36ed-4951-b964-1a24734b4c04/file/ffccd2ca-467c-4435-a8a0-93264fa5bccf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e928c6c-36ed-4951-b964-1a24734b4c04/file/fc9bb7a8-e912-4673-90d6-2c1f715d1e2f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

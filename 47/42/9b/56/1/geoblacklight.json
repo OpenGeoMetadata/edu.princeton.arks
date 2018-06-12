@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429b561",
+  "layer_slug_s": "princeton-47429b561",
+  "uuid": "princeton-47429b561",
+  "dc_title_s": "Austria Cities With Population 5 Thousand and More, 2006",
+  "solr_geom": "ENVELOPE(9.899251, 17.031444, 48.86758, 46.4095)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Austria cities with population 5 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:50Z",
+  "layer_id_s": "restricted-figgy:a428854b-7219-4b25-bb7f-50292ca1f4b0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/077e3487-4a15-4209-a66f-90053b003509\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ac54ebd-1a17-41b1-81e4-cd340a1895cb/file/abbb319a-1574-434e-8ef1-9f44f49cefe8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a428854b-7219-4b25-bb7f-50292ca1f4b0/file/748eb9e8-3e74-42ef-bfea-10d6bc176949\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a428854b-7219-4b25-bb7f-50292ca1f4b0/file/a5b199b3-248e-49ac-8dc1-ed85cd1782bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

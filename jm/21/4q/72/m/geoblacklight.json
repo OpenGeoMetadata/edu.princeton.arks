@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jm214q72m",
+  "layer_slug_s": "princeton-jm214q72m",
+  "uuid": "princeton-jm214q72m",
+  "dc_title_s": "U.S. Geographic Names Information System Hospital 2000",
+  "solr_geom": "ENVELOPE(-159.3647, 158.216385, 61.188889, 6.95278)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Hospital represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "hospital",
+    "place name",
+    "geographic feature"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "Commonwealths",
+    "Territories",
+    "Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "unkn"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:54:20Z",
+  "layer_id_s": "restricted-figgy:6cfa617d-6ab6-41ac-9426-c7024237a505",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/787bcf5a-c962-44fa-870d-e32e16ffa968\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/801d2dc2-eb6f-419a-93a0-b7e22759da1c/file/2499db0c-bf7e-44ee-b27b-65fa9ea0b173\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cfa617d-6ab6-41ac-9426-c7024237a505/file/4aa3698b-2aec-415f-9ec7-c7fbe6b4d095\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cfa617d-6ab6-41ac-9426-c7024237a505/file/d094c01f-18e8-4175-9ac3-18cd73d9bf60\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

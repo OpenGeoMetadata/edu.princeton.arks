@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c655",
+  "layer_slug_s": "princeton-sb397c655",
+  "uuid": "princeton-sb397c655",
+  "dc_title_s": "Shasta County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-123.068806, -121.320902, 41.185808, 40.285085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shasta County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Shasta",
+    "Shasta County",
+    "California",
+    "Redding",
+    "Lassen Volcanic National Park",
+    "Shasta-Trinity National Forest",
+    "Sacramento Valley",
+    "Cascade Range",
+    "Shasta Lake"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:38:20Z",
+  "layer_id_s": "restricted-figgy:756cfeb9-c18b-4159-889e-a9bce0a4dfeb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0ea5ee00-fc22-4046-a220-b94e92701f2c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7f2c1079-39bf-4b61-a5d7-7acd97f77760/file/8da2d9c9-abae-444d-b517-d26367055d68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/756cfeb9-c18b-4159-889e-a9bce0a4dfeb/file/c4a378b9-71e6-49ab-936b-7992c1bb8935\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/756cfeb9-c18b-4159-889e-a9bce0a4dfeb/file/3e8c946c-57d8-40ba-bbe3-7aa873a4432a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

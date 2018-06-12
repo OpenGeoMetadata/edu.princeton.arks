@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z709083v",
+  "layer_slug_s": "princeton-0z709083v",
+  "uuid": "princeton-0z709083v",
+  "dc_title_s": "Butte County, California roads, 2012",
+  "solr_geom": "ENVELOPE(-122.046881, -121.108374, 40.152369, 39.301547)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Butte County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Butte",
+    "Butte County",
+    "California",
+    "Chico",
+    "Lassen National Forest",
+    "Plumas National Forest",
+    "Sacramento Valley",
+    "Sacramento River"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2009"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:be06ad98-f7af-4b7c-8e06-8d52242479c3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/63d4fa67-9fc0-4a40-8a8a-2a4a4e2667c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f9418d9a-51fb-4b7e-ba7e-92491bc02e50/file/f6974138-122f-4bce-a028-af415f838ef6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be06ad98-f7af-4b7c-8e06-8d52242479c3/file/d758c63e-7ba1-493d-a84d-eb7ff7ccb679\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be06ad98-f7af-4b7c-8e06-8d52242479c3/file/f3f51257-d809-4000-876b-234ca61445f0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

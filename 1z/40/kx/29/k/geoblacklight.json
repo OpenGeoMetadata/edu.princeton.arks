@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1z40kx29k",
+  "layer_slug_s": "princeton-1z40kx29k",
+  "uuid": "princeton-1z40kx29k",
+  "dc_title_s": "Chambers County, Texas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-94.983275, -94.35356, 29.893075, 29.524669)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chambers County, Texas, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Chambers",
+    "Chambers County",
+    "Houston"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:09:30Z",
+  "layer_id_s": "restricted-figgy:21684df4-0fa6-4739-ac00-13076e6eb109",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cf3c34d1-1773-4781-af9f-c22ae398783b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c864d665-045b-4c52-8264-4017583dceb7/file/4bbede7e-b227-4836-9496-ae64fb45f739\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21684df4-0fa6-4739-ac00-13076e6eb109/file/73627c5d-bbd5-4091-9fa4-883315860acb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21684df4-0fa6-4739-ac00-13076e6eb109/file/143d29f8-fd29-43b7-8bba-a82aecc53962\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

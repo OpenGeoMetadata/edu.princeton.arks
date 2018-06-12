@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj91v",
+  "layer_slug_s": "princeton-qb98mj91v",
+  "uuid": "princeton-qb98mj91v",
+  "dc_title_s": "Clay County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.240694, -86.939886, 39.607087, 39.168182)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clay County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Indiana",
+    "Clay",
+    "Clay County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:38Z",
+  "layer_id_s": "restricted-figgy:9f74d5d3-619a-45b5-8253-ae7c29c1b94e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f5a23683-4e60-47c1-9042-d83717d8da10\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42d83ee0-72cf-4b41-a645-3ba64836e1e6/file/5283a075-7415-4a8d-802c-c84240d59fd2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f74d5d3-619a-45b5-8253-ae7c29c1b94e/file/6d150db4-2090-411a-a23b-21b322d481c6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f74d5d3-619a-45b5-8253-ae7c29c1b94e/file/49ba95ee-9dd1-427c-b8ec-faa592c95f81\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

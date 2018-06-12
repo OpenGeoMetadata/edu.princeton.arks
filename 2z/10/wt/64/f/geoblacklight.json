@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wt64f",
+  "layer_slug_s": "princeton-2z10wt64f",
+  "uuid": "princeton-2z10wt64f",
+  "dc_title_s": "Burlington County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.055854, -74.389708, 40.183126, 39.54352)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Burlington County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Burlington County",
+    "Burlington",
+    "Delaware Valley",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:22Z",
+  "layer_id_s": "restricted-figgy:4f369395-3222-419d-b690-b351427b4a97",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a4aa30f9-d83f-462d-a86e-4ce734f39dc8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/921d15d1-fb3a-48ad-86b0-c39cbc3f6ed0/file/7bd74611-8225-4ea5-bf87-24da1e54a6df\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f369395-3222-419d-b690-b351427b4a97/file/37eb9618-8386-4dd0-8cbf-da73bb2ad121\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f369395-3222-419d-b690-b351427b4a97/file/0a273ad6-babc-4c3a-99e2-005042d091da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v8382018",
+  "layer_slug_s": "princeton-0v8382018",
+  "uuid": "princeton-0v8382018",
+  "dc_title_s": "Dade County, Georgia land parcels, 2008",
+  "solr_geom": "ENVELOPE(-85.605526, -85.363386, 34.984527, 34.623514)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dade County, Georgia, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dade County",
+    "Dade",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:48:33Z",
+  "layer_id_s": "restricted-figgy:fd5077d6-20df-4a4b-bb0b-5234d9b9dee5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cb6c3ca4-1010-4dd0-a440-2cd8c4f6400e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0dbf6a9-8e9f-442b-a926-7903cedd24e8/file/bfe99be9-e233-4535-bfab-f0e30bb58733\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd5077d6-20df-4a4b-bb0b-5234d9b9dee5/file/c8540318-de81-4218-9c1c-05fb8fcb07f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd5077d6-20df-4a4b-bb0b-5234d9b9dee5/file/5c5fb4d1-0fca-41f2-97ce-6b28b5cb8e67\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dk14t",
+  "layer_slug_s": "princeton-1c18dk14t",
+  "uuid": "princeton-1c18dk14t",
+  "dc_title_s": "Albemarle County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.838874, -78.209384, 38.277933, 37.722787)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Albemarle County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Albemarle",
+    "Albemarle County",
+    "Virginia",
+    "Charlottesville",
+    "Shenandoah National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:17:30Z",
+  "layer_id_s": "restricted-figgy:93790ee8-c1f5-435a-bc05-3eafa84fa065",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/641d48b4-8af9-4529-a71f-19d72cb2d83d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3c819e83-52d8-4ff0-9b3f-220333526027/file/25108b3c-7a67-44f3-901c-038076fa7f8e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93790ee8-c1f5-435a-bc05-3eafa84fa065/file/f280ae04-4c92-4690-8166-1b046b300c93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93790ee8-c1f5-435a-bc05-3eafa84fa065/file/2c415ede-4233-4f53-9f1f-7d8b4877b142\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

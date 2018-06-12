@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sb876",
+  "layer_slug_s": "princeton-v405sb876",
+  "uuid": "princeton-v405sb876",
+  "dc_title_s": "Utah Block Groups 2002",
+  "solr_geom": "ENVELOPE(-114.052999, -109.041059, 42.001618, 36.997905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Utah Block Groups represents the U.S. Census block groups of Utah.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Utah"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:21:09Z",
+  "layer_id_s": "restricted-figgy:35fdc2df-3207-4a3f-9edf-d5c7da8b2063",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c99bc781-831e-4e31-aa30-84d3165cd79f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04cc7c29-4952-4a25-8291-f51a846052b7/file/eb94163c-9860-43d4-b754-65276ac99623\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35fdc2df-3207-4a3f-9edf-d5c7da8b2063/file/83393e2f-4666-47db-a27b-077c61fe7e17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35fdc2df-3207-4a3f-9edf-d5c7da8b2063/file/74709f74-90e8-4d8f-9bee-2173ed5a2252\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zs25xb21q",
+  "layer_slug_s": "princeton-zs25xb21q",
+  "uuid": "princeton-zs25xb21q",
+  "dc_title_s": "Alaska Major Roads 2002",
+  "solr_geom": "ENVELOPE(-166.556497, -130.885944, 71.298881, 53.869004)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Alaska Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Alaska.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:08Z",
+  "layer_id_s": "restricted-figgy:627e7012-27c9-4a0b-a33a-efc889a6bace",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fd03c093-4ed6-4b41-957a-f83d80bf1e61\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/be707501-a488-4ff6-a855-311b32168179/file/9cc01b8c-21ea-49c7-9eab-35c0081792f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/627e7012-27c9-4a0b-a33a-efc889a6bace/file/96a2fe51-1b4a-4f0a-beb1-736f81285f45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/627e7012-27c9-4a0b-a33a-efc889a6bace/file/dd4b8291-5eef-4360-948f-e553d65017c7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

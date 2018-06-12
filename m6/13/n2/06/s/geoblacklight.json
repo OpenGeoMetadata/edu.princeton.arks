@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m613n206s",
+  "layer_slug_s": "princeton-m613n206s",
+  "uuid": "princeton-m613n206s",
+  "dc_title_s": "Salt Lake County, Utah land parcels, 2008",
+  "solr_geom": "ENVELOPE(-112.252686, -111.553267, 40.921849, 40.414334)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Salt Lake County, Utah, 2008. \"Database containing parcel boundary, parcel identifier, parcel address, owner type, and county recorder contact information\" - HB113. This is the reason we have this dataset. The intent of the bill was to not include any attributes that the counties rely on for data sales. If you want those other attributes you need to contact the county recorder.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Salt Lake",
+    "Salt Lake County",
+    "Salt Lake City",
+    "Great Salt Lake"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:08:56Z",
+  "layer_id_s": "restricted-figgy:a8f854d6-51b7-4664-9478-fa6193c3f692",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/256c430d-b2f8-4cc3-99eb-3978e8ab8c2b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eded0d9f-e2b0-4009-8386-151d12ddd333/file/dc494ac8-7bba-453c-903d-42c3402a3bcb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8f854d6-51b7-4664-9478-fa6193c3f692/file/4949a512-d54d-4b07-8346-9ed0b7556ffa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8f854d6-51b7-4664-9478-fa6193c3f692/file/f9d95af0-d3bc-42a0-9673-8f111a8692c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

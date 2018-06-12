@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90f0132",
+  "layer_slug_s": "princeton-4m90f0132",
+  "uuid": "princeton-4m90f0132",
+  "dc_title_s": "Williamson County, Texas roads, 2011",
+  "solr_geom": "ENVELOPE(-98.040517, -97.148156, 30.911163, 30.402085)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Williamson County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Williamson",
+    "Williamson County",
+    "Texas",
+    "Round Rock",
+    "Balcones Canyonlands National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-06-06T23:57:48Z",
+  "layer_id_s": "restricted-figgy:f6c64373-38bf-4412-bc6f-6c0a6008eedb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d756dba7-7e63-4c39-9ff2-c00a378de015\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ad2167e6-7518-42ad-be3e-8465cb3e156f/file/00b152ec-1471-4861-8d35-af2003d59384\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6c64373-38bf-4412-bc6f-6c0a6008eedb/file/6ef46297-ffad-4ddd-804c-8eb9b078560d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6c64373-38bf-4412-bc6f-6c0a6008eedb/file/31d53523-1270-438d-8588-208e8e047ca6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

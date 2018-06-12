@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rg11z",
+  "layer_slug_s": "princeton-v118rg11z",
+  "uuid": "princeton-v118rg11z",
+  "dc_title_s": "Portugal Major Airports, 2005",
+  "solr_geom": "ENVELOPE(-28.716389, -6.707778, 41.856667, 32.698891)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Portugal major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:09Z",
+  "layer_id_s": "restricted-figgy:b88d50d3-8951-41fe-b960-30049e418661",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac8073ea-17cc-45a1-880d-465e10a79953\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59949a1c-2e6c-476b-ad80-61bb764efdd4/file/7c708ed8-8eab-49d1-9d56-cb11e3f53112\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b88d50d3-8951-41fe-b960-30049e418661/file/cc55a7f6-6893-43b9-b9ad-47a3b1dc75ab\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b88d50d3-8951-41fe-b960-30049e418661/file/89f736fe-31b2-47b1-bbe0-58adc81a9c6b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

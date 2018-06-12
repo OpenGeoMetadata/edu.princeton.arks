@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jz06s",
+  "layer_slug_s": "princeton-8910jz06s",
+  "uuid": "princeton-8910jz06s",
+  "dc_title_s": "Loudoun County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.962203, -77.328313, 39.324598, 38.846207)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Loudoun County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Loudoun",
+    "Loudoun County",
+    "Virginia",
+    "Potomac River",
+    "Washington",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:50Z",
+  "layer_id_s": "restricted-figgy:0f1fa79c-2455-4925-b154-df3589823ac2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7ce550ed-8800-40be-afd9-e8111ebcfa9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/024c61e6-e9da-43e7-92b8-ca1ef52a9c89/file/099ed184-060f-4499-b34e-2308bd76347d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f1fa79c-2455-4925-b154-df3589823ac2/file/fecff786-8d32-44d0-8ae0-37eedf44ddbc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f1fa79c-2455-4925-b154-df3589823ac2/file/4106bf9f-e468-407c-b8fb-0d4608842f5b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

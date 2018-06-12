@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tt142",
+  "layer_slug_s": "princeton-hm50tt142",
+  "uuid": "princeton-hm50tt142",
+  "dc_title_s": "Missouri Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-95.769263, -89.116242, 40.607043, 35.995875)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Missouri Block Centroid Populations represents the population of the U.S. Census block centroids for Missouri.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Missouri"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-05-31T19:09:55Z",
+  "layer_id_s": "restricted-figgy:441dce0a-3b38-4ddc-94ff-17310bb62771",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/95454892-de82-4cd6-b262-7fdc0d41213b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08cf3081-d8bc-4e24-9eb3-dba446c75a9a/file/7775e1b8-b994-4b7f-ad02-2e46e41ba62a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/441dce0a-3b38-4ddc-94ff-17310bb62771/file/2d77566f-a144-4eec-96c4-dd6d98c3a2bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/441dce0a-3b38-4ddc-94ff-17310bb62771/file/7adbd698-0169-4cc5-86fb-fa1f284fbb0e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hb335",
+  "layer_slug_s": "princeton-t722hb335",
+  "uuid": "princeton-t722hb335",
+  "dc_title_s": "Germany Major Airports, 2006",
+  "solr_geom": "ENVELOPE(6.0425, 14.950833, 54.913055, 47.669998)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "restricted-figgy:5f9465f8-e5c3-4999-a5b6-450c64589e92",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/004867c1-607c-40c5-8dc5-9ab689e95daa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f299dfec-869e-4c3f-a732-7d17a19f931e/file/c10e0b2d-7292-4483-abf0-998b88186152\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f9465f8-e5c3-4999-a5b6-450c64589e92/file/eb97bbc0-45f6-4195-bc82-acb42c713ce4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f9465f8-e5c3-4999-a5b6-450c64589e92/file/304a0709-54a3-4cb2-8fd6-4e19d658449e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

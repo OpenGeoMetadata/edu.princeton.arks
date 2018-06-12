@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j903d",
+  "layer_slug_s": "princeton-tb09j903d",
+  "uuid": "princeton-tb09j903d",
+  "dc_title_s": "Grand County, Colorado roads, 2011",
+  "solr_geom": "ENVELOPE(-106.660905, -105.629451, 40.480835, 39.681844)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Grand County, Colorado, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Grand County",
+    "Grand",
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:29:33Z",
+  "layer_id_s": "restricted-figgy:691b747c-bcde-4c86-84ce-94dc37dc6b4e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c44c9546-31aa-4d62-ba51-aff29da8bf08\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/be1541f2-c41d-4bda-a886-6334771d78a5/file/63ea6fc2-11b8-4513-bc84-0bb8b27a9e07\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/691b747c-bcde-4c86-84ce-94dc37dc6b4e/file/af7445ba-dad3-4e01-9edb-1aa245e0bf03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/691b747c-bcde-4c86-84ce-94dc37dc6b4e/file/812b0302-aa06-48c5-9598-405fe93b93ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

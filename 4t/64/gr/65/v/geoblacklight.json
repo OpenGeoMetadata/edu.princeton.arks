@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4t64gr65v",
+  "layer_slug_s": "princeton-4t64gr65v",
+  "uuid": "princeton-4t64gr65v",
+  "dc_title_s": "Butler County, Ohio land parcels, 2010",
+  "solr_geom": "ENVELOPE(-84.819463, -84.331998, 39.590619, 39.292351)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Butler County, Ohio, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Butler",
+    "Butler County",
+    "Cincinnati"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:11:35Z",
+  "layer_id_s": "restricted-figgy:7da2cb4f-3e80-472b-b757-6ad66d2c52aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e774f167-7538-4e48-8f65-ee5e64bd1724\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e1a87178-c8e7-4e75-8aee-3dac0e3ac358/file/d8fcca84-9b74-4c3b-bdc0-d8434327e1a3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7da2cb4f-3e80-472b-b757-6ad66d2c52aa/file/2bc506d5-cb55-4fda-8e8d-1ec1480d8db1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7da2cb4f-3e80-472b-b757-6ad66d2c52aa/file/8676eb56-3c73-4571-8e57-4c91618ae28e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

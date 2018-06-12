@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2f75r9664",
+  "layer_slug_s": "princeton-2f75r9664",
+  "uuid": "princeton-2f75r9664",
+  "dc_title_s": "Placer County, California land parcels, 2008",
+  "solr_geom": "ENVELOPE(-121.484358, -120.005127, 39.316614, 38.713107)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Placer County, California, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "property",
+    "ownership",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Placer County",
+    "Sacramento",
+    "Lake Tahoe",
+    "Tahoe"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:34:56Z",
+  "layer_id_s": "restricted-figgy:5cccc6b6-2cea-4a52-ad14-d8b57b11217f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2b03501a-d7f9-4741-ae91-cf1286a0cedc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c6ffa087-fbd1-4882-80a1-5e2365cf9405/file/b913da39-f9b1-49ea-b4d2-957486923cfb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cccc6b6-2cea-4a52-ad14-d8b57b11217f/file/b30a3f76-1ce4-4b8a-9236-a486f4c6283d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cccc6b6-2cea-4a52-ad14-d8b57b11217f/file/411e5dcd-ca63-451c-8cc4-f63a327824a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

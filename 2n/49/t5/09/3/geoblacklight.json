@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t5093",
+  "layer_slug_s": "princeton-2n49t5093",
+  "uuid": "princeton-2n49t5093",
+  "dc_title_s": "Warren County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.365224, -83.976934, 39.589577, 39.255118)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Warren County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Warren",
+    "Warren County",
+    "Ohio",
+    "Cincinnati"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:23Z",
+  "layer_id_s": "restricted-figgy:f2dbae22-cf0c-4e47-98a5-a4b6e8985f33",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f1a4164-98ff-4b10-a8be-dfe8fb4b348e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/538f7709-ae72-45d0-ba71-aacd3bd1ab36/file/225594fb-f87b-4a5a-bbe0-9ac88175583f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2dbae22-cf0c-4e47-98a5-a4b6e8985f33/file/b1f3e25f-3d95-471e-a04f-cd02a274e41b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2dbae22-cf0c-4e47-98a5-a4b6e8985f33/file/81fd9f5d-b99f-4f89-a669-01ccddd0e24a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

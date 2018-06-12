@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p8167",
+  "layer_slug_s": "princeton-z029p8167",
+  "uuid": "princeton-z029p8167",
+  "dc_title_s": "Bonneville County, Idaho land parcels, 2010",
+  "solr_geom": "ENVELOPE(-112.520026, -111.044182, 43.626984, 43.019556)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bonneville County, Idaho, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Idaho",
+    "Bonneville",
+    "Bonneville County",
+    "Idaho Falls"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T00:33:32Z",
+  "layer_id_s": "restricted-figgy:7b20f4af-718b-493d-bcf7-a8f203d35d89",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/78ebfe7d-abdd-40e3-82bb-64aa19b2ddf9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3310c4c6-beba-4f95-b6e3-c1af0e7c1d4d/file/4b097743-00ee-4d97-bdf4-e2b8fb35cc11\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b20f4af-718b-493d-bcf7-a8f203d35d89/file/7559286f-ed72-4829-a5ce-e17689ee90eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b20f4af-718b-493d-bcf7-a8f203d35d89/file/3ae0a6d2-842d-495c-b62c-29581e7bf730\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

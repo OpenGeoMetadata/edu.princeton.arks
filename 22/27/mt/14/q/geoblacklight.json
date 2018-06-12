@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mt14q",
+  "layer_slug_s": "princeton-2227mt14q",
+  "uuid": "princeton-2227mt14q",
+  "dc_title_s": "Maricopa County, Arizona land parcels, 2011",
+  "solr_geom": "ENVELOPE(-113.335001, -111.081761, 34.046896, 32.695458)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Maricopa County, Arizona, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maricopa",
+    "Maricopa County",
+    "Arizona",
+    "Phoenix",
+    "Tempe",
+    "Scottsdale",
+    "Mesa",
+    "Chandler",
+    "Glendale",
+    "Tonto National Forest",
+    "Gila River",
+    "Sonoran Desert National Monument"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:13:35Z",
+  "layer_id_s": "restricted-figgy:292d67d5-3ead-414d-8f7b-869f6bf503fe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/149eb16f-b4a0-4cac-872c-e01a614287c8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b5eed1a-9d44-454f-8fe3-89fbbb5ed15f/file/b1659918-0880-4e76-a527-4ad0dad1504d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/292d67d5-3ead-414d-8f7b-869f6bf503fe/file/b9d5bc4e-80cf-4352-b0c5-81fa778c237a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/292d67d5-3ead-414d-8f7b-869f6bf503fe/file/6e7a9010-684b-4b21-ad70-8ff6fe9eb029\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7h149t462",
+  "layer_slug_s": "princeton-7h149t462",
+  "uuid": "princeton-7h149t462",
+  "dc_title_s": "York County, Pennsylvania roads, 2014",
+  "solr_geom": "ENVELOPE(-77.125864, -76.251192, 40.225392, 39.719989)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in York County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "York County",
+    "York",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-05-31T19:09:50Z",
+  "layer_id_s": "restricted-figgy:6271381a-28ae-47cc-b8d0-4c2de5288629",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/70d3b414-35c5-4b5b-a295-047ab78b0274\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ad55517e-a8a1-4d54-a496-b54a6bf5294a/file/8b424b46-f0c6-4c36-824c-32ed6001cad5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6271381a-28ae-47cc-b8d0-4c2de5288629/file/ed7f2ef3-70d6-4d81-b89b-ca3f278cc5d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6271381a-28ae-47cc-b8d0-4c2de5288629/file/fd90edc2-0d44-4df8-a516-92439e84c525\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

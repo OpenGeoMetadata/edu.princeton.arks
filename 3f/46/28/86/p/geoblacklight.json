@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f462886p",
+  "layer_slug_s": "princeton-3f462886p",
+  "uuid": "princeton-3f462886p",
+  "dc_title_s": "Van Wert County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.803237, -84.340268, 40.990323, 40.684729)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Van Wert County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Van Wert",
+    "Van Wert County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:22Z",
+  "layer_id_s": "restricted-figgy:2e69ce00-cb27-4139-97a1-5a061a0c516c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f75be5c3-b162-4af1-bff0-d5926b54b3f1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b73e84ad-1de0-4ae9-a8f0-edcc067e9363/file/549a2c51-1f3a-4582-ba95-81c1d85613ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e69ce00-cb27-4139-97a1-5a061a0c516c/file/f11f8951-ad3f-4e14-beb6-7831612569ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e69ce00-cb27-4139-97a1-5a061a0c516c/file/7e542dc5-8107-48a6-8145-c07e0c5a9b97\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

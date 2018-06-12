@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m560z",
+  "layer_slug_s": "princeton-cn69m560z",
+  "uuid": "princeton-cn69m560z",
+  "dc_title_s": "China Major Ice and Snow Fields, 2004",
+  "solr_geom": "ENVELOPE(73.446358, 101.994415, 49.156745, 27.606306)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the major ice and snow fields of China created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "ice fields",
+    "snow fields",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:30Z",
+  "layer_id_s": "restricted-figgy:6fd2d9dd-fded-434b-836e-e2d0602045d6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/11e55659-2c60-4ced-a238-7ece6b020199\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d395e76-bae8-4280-855b-18822c5c6c65/file/2a921478-4c3b-4071-9c19-d0bc1de9745b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6fd2d9dd-fded-434b-836e-e2d0602045d6/file/e5b6b5bc-ccf4-4ebf-9964-c7362dd797dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6fd2d9dd-fded-434b-836e-e2d0602045d6/file/19fb9680-689a-49ea-8959-59fec4134734\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

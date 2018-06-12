@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b280r",
+  "layer_slug_s": "princeton-k643b280r",
+  "uuid": "princeton-k643b280r",
+  "dc_title_s": "Romania Major Rivers, 2005",
+  "solr_geom": "ENVELOPE(20.49552, 29.680601, 48.265073, 43.690327)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Romania created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:01Z",
+  "layer_id_s": "restricted-figgy:5fdbdf35-b6bb-4b4d-aa09-50cc4a575ded",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a33fc0cd-7228-4c23-a95e-bc66ef472dba\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/169551dd-d522-408b-a8d7-18e6a4ef4374/file/a99965c6-1d17-4075-8c82-2155b255c39e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fdbdf35-b6bb-4b4d-aa09-50cc4a575ded/file/f491d69a-8585-446c-ada5-e94f20d6d498\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fdbdf35-b6bb-4b4d-aa09-50cc4a575ded/file/3e192cf7-b3c8-4b4b-bf87-707f472862c5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

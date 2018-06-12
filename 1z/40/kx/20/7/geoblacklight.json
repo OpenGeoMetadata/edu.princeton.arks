@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1z40kx207",
+  "layer_slug_s": "princeton-1z40kx207",
+  "uuid": "princeton-1z40kx207",
+  "dc_title_s": "Cortland County, New York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-76.274886, -75.864259, 42.791038, 42.407684)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cortland County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cortland County",
+    "Cortland",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:28:55Z",
+  "layer_id_s": "restricted-figgy:538d6033-e501-4d5f-88eb-3d18b8615081",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/688d1c9f-565c-4114-bb07-b0736ef8cb39\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c9ac811-ef67-484f-9fff-c29e8f10788e/file/9da246bc-289e-4a3d-bdf8-783013ffb28f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/538d6033-e501-4d5f-88eb-3d18b8615081/file/57ce715e-3eac-4ffb-9a68-45b8369df653\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/538d6033-e501-4d5f-88eb-3d18b8615081/file/f4ad7dd9-7cbf-4838-b3f7-bea7b316d5ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

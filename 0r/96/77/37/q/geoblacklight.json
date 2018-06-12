@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0r967737q",
+  "layer_slug_s": "princeton-0r967737q",
+  "uuid": "princeton-0r967737q",
+  "dc_title_s": "Isle of Wight County, Virginia land parcels, 2012",
+  "solr_geom": "ENVELOPE(-76.930241, -76.485013, 37.141321, 36.643773)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Isle of Wight County, Virginia, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Isle of Wight",
+    "Isle of Wight County",
+    "Virginia Beach",
+    "Norfolk",
+    "Newport",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:37Z",
+  "layer_id_s": "restricted-figgy:18727a71-2578-4c88-a744-cb5d5d432eb7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5851cb75-1b5b-42cd-9812-cea2c3134113\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08ec0a29-789f-43a5-a70c-028a06bd04ff/file/4fe4e99f-1026-451c-8ce7-c026806738b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18727a71-2578-4c88-a744-cb5d5d432eb7/file/5c62efe4-6632-4625-97bc-a0da5e905685\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18727a71-2578-4c88-a744-cb5d5d432eb7/file/1ca257e3-2bf5-44e8-b7d0-2d821ba4f03a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

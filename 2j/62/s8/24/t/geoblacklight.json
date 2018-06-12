@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2j62s824t",
+  "layer_slug_s": "princeton-2j62s824t",
+  "uuid": "princeton-2j62s824t",
+  "dc_title_s": "Sandusky County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.419938, -82.840093, 41.501271, 41.252868)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sandusky County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sandusky",
+    "Sandusky County",
+    "Ohio",
+    "Sandusky Bay"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:56Z",
+  "layer_id_s": "restricted-figgy:43096058-8745-4afb-8891-aeb470bc1bf7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b081dc19-58e4-44c1-9e07-a55b801f2263\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a31cb84-6e77-4a3a-a511-e09448a6015c/file/e96ac88f-687a-4110-9949-538cff7a8fbb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43096058-8745-4afb-8891-aeb470bc1bf7/file/04e5acc0-01e0-4226-aa67-b70af7055f85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43096058-8745-4afb-8891-aeb470bc1bf7/file/b54cc228-db7e-4657-ab0f-630b9500d748\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

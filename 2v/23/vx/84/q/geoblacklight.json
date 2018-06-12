@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx84q",
+  "layer_slug_s": "princeton-2v23vx84q",
+  "uuid": "princeton-2v23vx84q",
+  "dc_title_s": "Marin County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.024182, -122.352462, 38.320978, 37.815102)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marin County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Marin",
+    "Marin County",
+    "San Francisco",
+    "Bay Area",
+    "Point Reyes National Seashore",
+    "Golden Gate National Recreation Area",
+    "San Pablo Bay",
+    "San Francisco Bay"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:08Z",
+  "layer_id_s": "restricted-figgy:9313cfca-1aec-45c6-a40d-b687570cd08c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b5d9b3b4-29ae-4849-8d68-1a14504821b6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab5cb6bb-fed0-47f4-8cbc-321372e4ce5f/file/e95fda57-a1c3-4aaf-ad66-d7d25361b94b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9313cfca-1aec-45c6-a40d-b687570cd08c/file/0481a38a-7834-4181-8cbd-a17ab15e7be2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9313cfca-1aec-45c6-a40d-b687570cd08c/file/c4ea7ee5-193c-4880-95a8-c964099d951b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526g789",
+  "layer_slug_s": "princeton-s7526g789",
+  "uuid": "princeton-s7526g789",
+  "dc_title_s": "Hamilton County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.309321, -82.645846, 30.634673, 30.317574)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hamilton County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Hamilton",
+    "Hamilton County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:03:06Z",
+  "layer_id_s": "restricted-figgy:2e38a90b-b0a8-44f8-8483-6a5e55244e53",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d863e907-6a4e-49d4-b83d-b2692ca5871a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2d980167-2263-45a5-bf0b-ac883910d01f/file/7651c28a-6d41-4b49-bf4a-5a7b19cca502\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e38a90b-b0a8-44f8-8483-6a5e55244e53/file/507f3899-bd99-4042-9756-53b9c2d5ab15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e38a90b-b0a8-44f8-8483-6a5e55244e53/file/82238b17-e5ca-4317-a9ae-77137bae76e8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

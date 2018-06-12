@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wh25v",
+  "layer_slug_s": "princeton-zp38wh25v",
+  "uuid": "princeton-zp38wh25v",
+  "dc_title_s": "Marion County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-83.420287, -82.85808, 40.705084, 40.433798)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Marion",
+    "Marion County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:56Z",
+  "layer_id_s": "restricted-figgy:de66206f-6798-46e4-a762-05a487d4b234",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0923f3de-8e54-4aee-ae52-4d69bcf7af60\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8125b1c4-a395-490d-a0d9-d4747e2f43b9/file/30917c0e-f21e-4c93-b84f-2ce96df8be5c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/de66206f-6798-46e4-a762-05a487d4b234/file/942fdb21-2de1-45a7-a2d5-42ee1ef58fe7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/de66206f-6798-46e4-a762-05a487d4b234/file/5e44981f-cc75-4506-aafe-50728d8661f2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

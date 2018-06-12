@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930bz533",
+  "layer_slug_s": "princeton-k930bz533",
+  "uuid": "princeton-k930bz533",
+  "dc_title_s": "Jasper County, Georgia land parcels, 2006",
+  "solr_geom": "ENVELOPE(-83.861651, -83.532499, 33.524173, 33.132336)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jasper, Georgia, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jasper",
+    "Jasper County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:39:02Z",
+  "layer_id_s": "restricted-figgy:505986f6-63a4-4340-9c01-6f2364049884",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6968ac3c-62fe-45d3-8531-e1311fe0797f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e98e1de4-a76f-47ef-91d5-b50b57738555/file/d467d33c-e65d-45a2-b1b4-66569205772f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/505986f6-63a4-4340-9c01-6f2364049884/file/7ed417ec-af31-4c62-9d3c-23881416e580\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/505986f6-63a4-4340-9c01-6f2364049884/file/59fb58a7-ee46-4cb2-bc81-b737fd753f93\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

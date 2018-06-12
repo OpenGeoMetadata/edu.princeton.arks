@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qr46r4277",
+  "layer_slug_s": "princeton-qr46r4277",
+  "uuid": "princeton-qr46r4277",
+  "dc_title_s": "Santa Rosa County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.31333, -86.785918, 30.999956, 30.342593)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Rosa County, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Santa Rosa",
+    "Santa Rosa County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:57Z",
+  "layer_id_s": "restricted-figgy:09d9f1f5-6608-4b49-9c6d-a4923d6c0481",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ab0aba56-3c96-4738-ba3a-e06a3722dfe9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c24a2c05-317e-4d48-bcf0-6ba511a4ee91/file/26a620f8-9d66-474b-b50f-c888d8413e33\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09d9f1f5-6608-4b49-9c6d-a4923d6c0481/file/ee55618f-dbb7-4200-a05f-738aebe55dc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09d9f1f5-6608-4b49-9c6d-a4923d6c0481/file/0eb648a3-8ba1-4d7a-9f72-8c7dbcf9941f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

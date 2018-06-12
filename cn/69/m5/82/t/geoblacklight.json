@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m582t",
+  "layer_slug_s": "princeton-cn69m582t",
+  "uuid": "princeton-cn69m582t",
+  "dc_title_s": "Iowa Block Groups 2002",
+  "solr_geom": "ENVELOPE(-96.639706, -90.140061, 43.501196, 40.375437)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Iowa Block Groups represents the U.S. Census block groups of Iowa.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:44:58Z",
+  "layer_id_s": "restricted-figgy:61daa9c8-754d-4dd8-9d2f-06da831fa54a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a62c17f3-fbb9-4079-b4ce-80586b262d95\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a9e3c2e1-8628-40f3-8ec9-630401db9a53/file/de5c460e-b7a6-48cd-99c6-30b753a579bf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61daa9c8-754d-4dd8-9d2f-06da831fa54a/file/495debc6-c335-424b-8688-a2a892b84a40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61daa9c8-754d-4dd8-9d2f-06da831fa54a/file/e596d472-c30d-4f07-9ffe-06faf6bd61ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

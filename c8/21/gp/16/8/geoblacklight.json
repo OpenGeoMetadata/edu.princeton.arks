@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gp168",
+  "layer_slug_s": "princeton-c821gp168",
+  "uuid": "princeton-c821gp168",
+  "dc_title_s": "Newton County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.055103, -83.671754, 33.744558, 33.369529)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Newton County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Newton County",
+    "Georgia",
+    "Atlanta"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:29:17Z",
+  "layer_id_s": "restricted-figgy:9d2419ab-563d-43f1-890a-e9a3b39ac312",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cfc944aa-9b80-4564-9f7c-1f1c31b0aa85\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/23f33d5c-b92a-4d5c-a525-add2496387fc/file/d627a681-21f7-4592-9e76-6e19d1ab8cc4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d2419ab-563d-43f1-890a-e9a3b39ac312/file/c82e6e91-cff9-4ebc-aed3-b353988e655b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d2419ab-563d-43f1-890a-e9a3b39ac312/file/f1f67032-0a9c-4944-b7b6-50d823484685\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

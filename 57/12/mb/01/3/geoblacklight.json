@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712mb013",
+  "layer_slug_s": "princeton-5712mb013",
+  "uuid": "princeton-5712mb013",
+  "dc_title_s": "Waller County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-96.191672, -95.802352, 30.245529, 29.7279)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Waller County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Waller",
+    "Waller County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:12:01Z",
+  "layer_id_s": "restricted-figgy:bdeb39be-e0db-45da-ba52-c172acd521e1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7977e347-ddbb-4fa4-8f39-7282ec52bc2b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3604eceb-1bc7-4dae-8388-0e16eef85ce9/file/a74f2b26-7d10-483d-a637-31e26a81b70b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdeb39be-e0db-45da-ba52-c172acd521e1/file/ff455155-c2e9-43f4-b4d3-1318339da05f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdeb39be-e0db-45da-ba52-c172acd521e1/file/8cb61731-6e53-4882-9ef6-989fc4d2ff90\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

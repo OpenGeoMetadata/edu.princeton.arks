@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jz00w",
+  "layer_slug_s": "princeton-8910jz00w",
+  "uuid": "princeton-8910jz00w",
+  "dc_title_s": "Franklin County, Vermont land parcels, 2009",
+  "solr_geom": "ENVELOPE(-73.20727, -72.532608, 45.016641, 44.633076)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Vermont, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Franklin",
+    "Franklin County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:48:31Z",
+  "layer_id_s": "restricted-figgy:917a6b3e-8732-44da-ba9e-b83d03fc2dd6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a42be2e6-60d4-458c-b338-3090332dab51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5b09ebf7-9c49-4a12-b037-f87236a182c9/file/6526f7ae-fd66-4c1a-aaae-438d3c6fb04b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/917a6b3e-8732-44da-ba9e-b83d03fc2dd6/file/364ca03a-a228-4716-8ec4-d699810e7e9c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/917a6b3e-8732-44da-ba9e-b83d03fc2dd6/file/6f7ef091-3363-40d8-90bd-57a6935bf1c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

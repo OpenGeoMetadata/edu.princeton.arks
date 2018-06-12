@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4b29b941r",
+  "layer_slug_s": "princeton-4b29b941r",
+  "uuid": "princeton-4b29b941r",
+  "dc_title_s": "Miami County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-84.431438, -84.023481, 40.199067, 39.880126)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Miami County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Miami",
+    "Miami County",
+    "Ohio",
+    "Dayton"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:02Z",
+  "layer_id_s": "restricted-figgy:e6d79ffe-6c19-4bed-acc4-41b669fceab2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/978e17ae-d1f3-467e-9b14-29e38a1e3f17\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a317f06-b6c5-4efc-a040-4bf23fd93358/file/45d906ac-7501-4d7c-9b44-ce99b7118a63\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6d79ffe-6c19-4bed-acc4-41b669fceab2/file/cf525e39-78e6-42d4-9579-80ee4950a656\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6d79ffe-6c19-4bed-acc4-41b669fceab2/file/4092f79d-c533-4f08-bb43-32cb09158aff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

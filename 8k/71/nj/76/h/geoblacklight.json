@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8k71nj76h",
+  "layer_slug_s": "princeton-8k71nj76h",
+  "uuid": "princeton-8k71nj76h",
+  "dc_title_s": "U.S. Geographic Names Information System Church 2002",
+  "solr_geom": "ENVELOPE(-159.533325, 151.895554, 64.95401, 6.89556)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Church represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "church",
+    "place name",
+    "geographic feature",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Commonwealths",
+    "Territories",
+    "Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "Unkn"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:55:04Z",
+  "layer_id_s": "restricted-figgy:7777baa8-1c0d-4334-a31d-19b876157f62",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2043ebdb-fc8a-486c-8378-0a6eb34026c7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d7deb57-ba71-435f-b01b-4fa6681aed22/file/a27afdf4-6954-4bb9-abdb-e87e1c917b78\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7777baa8-1c0d-4334-a31d-19b876157f62/file/deac6c1a-8de3-444d-bc7b-6c5694359777\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7777baa8-1c0d-4334-a31d-19b876157f62/file/1aa875a2-109f-48be-acfa-2d53ad2e628c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

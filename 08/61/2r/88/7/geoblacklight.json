@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612r887",
+  "layer_slug_s": "princeton-08612r887",
+  "uuid": "princeton-08612r887",
+  "dc_title_s": "Broadwater County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.787949, -111.056929, 46.781867, 45.833304)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Broadwater County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Broadwater County",
+    "Broadwater",
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:08:39Z",
+  "layer_id_s": "restricted-figgy:fd8c68f9-9be2-48f6-bff0-0e5fc0b230d3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/11e22bea-9c06-46ef-949f-f79d81346c09\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/69397c4c-df91-4633-9ac9-21f95876f5d1/file/5e3a613e-6dbc-422b-b475-6937a5441237\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd8c68f9-9be2-48f6-bff0-0e5fc0b230d3/file/9a951810-0210-4bac-9fe5-2230942a91e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd8c68f9-9be2-48f6-bff0-0e5fc0b230d3/file/a1155bf0-59f0-4f64-9792-7c5d79316de5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

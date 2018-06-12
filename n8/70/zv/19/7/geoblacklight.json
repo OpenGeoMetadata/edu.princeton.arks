@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n870zv197",
+  "layer_slug_s": "princeton-n870zv197",
+  "uuid": "princeton-n870zv197",
+  "dc_title_s": "Union County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.246565, -88.735449, 34.598857, 34.364667)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Union",
+    "Union County",
+    "Mississippi",
+    "Holly Springs National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:15:56Z",
+  "layer_id_s": "restricted-figgy:63798ab9-fbea-42a4-bc0d-3e656ca264b6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0f9e5819-bbaa-48eb-b172-18ce3da73124\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ecf63151-b40e-41e8-85d2-1b37cbc29af4/file/9dbb879f-e26f-4cb6-a0a0-0158f190a707\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63798ab9-fbea-42a4-bc0d-3e656ca264b6/file/ea95c027-d519-4bf0-b474-665ae1f64192\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63798ab9-fbea-42a4-bc0d-3e656ca264b6/file/2f56f3d0-d1c7-43f0-9998-df9632628857\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

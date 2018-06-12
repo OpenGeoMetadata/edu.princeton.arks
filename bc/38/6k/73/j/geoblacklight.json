@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bc386k73j",
+  "layer_slug_s": "princeton-bc386k73j",
+  "uuid": "princeton-bc386k73j",
+  "dc_title_s": "U.S. National Atlas Airports 2002",
+  "solr_geom": "ENVELOPE(-176.648499, 174.110565, 71.285027, 17.699905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of greater than or equal to 250 passengers per year.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "airports",
+    "airport location identifiers (airport codes)",
+    "ACAIS database",
+    "total enplanements",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "1998",
+    "1997",
+    "1994–1996"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:45:20Z",
+  "layer_id_s": "restricted-figgy:d5110680-8e6a-401a-908e-e1266c52874c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6c0bc057-1458-4a15-b3bc-ef3b9f433d94\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e44b32e-b22d-4e4f-9e7f-ad3bd305035e/file/bdf0cf08-fcb2-4b34-a068-c740e15cd0e0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5110680-8e6a-401a-908e-e1266c52874c/file/ba56d1f2-10d8-4226-b9e7-c411217dc79c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5110680-8e6a-401a-908e-e1266c52874c/file/55208c29-8379-43af-84bb-39f644cf7b79\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

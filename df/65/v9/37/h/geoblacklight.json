@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/df65v937h",
+  "layer_slug_s": "princeton-df65v937h",
+  "uuid": "princeton-df65v937h",
+  "dc_title_s": "Luxembourg Major Airports, 2005",
+  "solr_geom": "ENVELOPE(5.7371, 6.5199, 50.1804, 49.4538)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Luxembourg major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:24Z",
+  "layer_id_s": "restricted-figgy:9b4e84cf-bb7b-4df9-b4dd-ae1610b07aea",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/37d9374b-4d08-49cd-9b8e-fad0be41ec70\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f23e3544-78ac-475e-9191-992f7da9683e/file/b9ad3fb4-900c-4177-8167-0302d1ae015e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b4e84cf-bb7b-4df9-b4dd-ae1610b07aea/file/9dadc5f4-4153-4b6e-a2cf-cd4daafe558b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b4e84cf-bb7b-4df9-b4dd-ae1610b07aea/file/fee30bfb-918a-4c70-8fd9-fb52ab88d7d1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

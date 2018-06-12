@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pp514",
+  "layer_slug_s": "princeton-tt44pp514",
+  "uuid": "princeton-tt44pp514",
+  "dc_title_s": "Delaware Major Roads 2002",
+  "solr_geom": "ENVELOPE(-75.788559, -75.051614, 39.838212, 38.451016)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Delaware Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Delaware.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:45:03Z",
+  "layer_id_s": "restricted-figgy:5164abe4-5086-4775-b917-ab50fdae526e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3fd5c350-1cbe-4d00-83c1-1f54e0f156da\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c1dd8ba-97e9-40c8-a2b1-761362f84479/file/96b2d6c9-1711-4c87-999a-db3231fb704b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5164abe4-5086-4775-b917-ab50fdae526e/file/0490733d-4b43-467d-a5ab-390d662ffb6e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5164abe4-5086-4775-b917-ab50fdae526e/file/8fe298ee-54ac-4c7f-b2a0-c0fe0cdd75da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

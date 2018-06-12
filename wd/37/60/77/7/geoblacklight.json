@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd3760777",
+  "layer_slug_s": "princeton-wd3760777",
+  "uuid": "princeton-wd3760777",
+  "dc_title_s": "Klamath County, Oregon roads, 2014",
+  "solr_geom": "ENVELOPE(-122.290333, -120.879443, 43.616729, 41.993283)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Klamath County, Oregon, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Klamath County",
+    "Klamath",
+    "Crater Lake",
+    "Crater Lake National Park",
+    "Fremont National Forest",
+    "Winema National Forest",
+    "Deschutes National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:17Z",
+  "layer_id_s": "restricted-figgy:b33bf862-9c1c-431d-ba3b-b5ca5bce1d95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/06d751be-5c46-4e46-986a-58ff7883cc65\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/02b49d4a-fd5d-42f5-8a2a-8883521781f5/file/71d00322-eb48-40e2-83d6-9ac0331c20cb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b33bf862-9c1c-431d-ba3b-b5ca5bce1d95/file/eaff6976-c0d1-473f-9351-d59e703e1db3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b33bf862-9c1c-431d-ba3b-b5ca5bce1d95/file/ae752a79-b22f-4b15-83db-c08299d21a0f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

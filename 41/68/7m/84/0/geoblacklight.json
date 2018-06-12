@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687m840",
+  "layer_slug_s": "princeton-41687m840",
+  "uuid": "princeton-41687m840",
+  "dc_title_s": "York County, Pennsylvania roads, 2011",
+  "solr_geom": "ENVELOPE(-77.125864, -76.251192, 40.225392, 39.719989)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in York County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "York",
+    "York County",
+    "Pennsylvania",
+    "Susquehanna River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:41Z",
+  "layer_id_s": "restricted-figgy:b286ad9a-ee29-4d0c-913b-69d1a932169c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc18cfa4-2744-4319-8bd9-f2fd2fbb874d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a95afa0c-40f5-4ce3-9203-0407e770609b/file/a5c6e1b7-5965-4e32-a3c5-4881e7e744af\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b286ad9a-ee29-4d0c-913b-69d1a932169c/file/7aa7cabc-010e-4103-9c8a-0fa803fda462\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b286ad9a-ee29-4d0c-913b-69d1a932169c/file/a55edb88-693b-498e-97aa-65e6930f7940\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

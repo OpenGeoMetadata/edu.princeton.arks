@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161774r",
+  "layer_slug_s": "princeton-9s161774r",
+  "uuid": "princeton-9s161774r",
+  "dc_title_s": "California Tracts 2002",
+  "solr_geom": "ENVELOPE(-124.409591, -114.131212, 42.009519, 32.534157)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "California Tracts represents the U.S. Census tracts and block numbering areas (BNA) of California.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:16:04Z",
+  "layer_id_s": "restricted-figgy:0b764fa0-cf7a-42ca-97ca-60535883429e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f930d97-4413-4d9b-8b2d-31931555c9c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6fb1f10-0c99-4b9c-9af5-2cd751162bdb/file/154e227b-876c-418b-ad66-4623f58304f7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b764fa0-cf7a-42ca-97ca-60535883429e/file/58f7b6e2-f4a0-45d0-b4ff-3bf8eb617167\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b764fa0-cf7a-42ca-97ca-60535883429e/file/dc3372f7-1b66-4775-beb0-31b871b945d8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

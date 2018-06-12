@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/76537291f",
+  "layer_slug_s": "princeton-76537291f",
+  "uuid": "princeton-76537291f",
+  "dc_title_s": "Sri Lanka Major Roads, 1997",
+  "solr_geom": "ENVELOPE(79.733887, 81.851265, 9.662038, 5.941337)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Sri Lanka major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:22Z",
+  "layer_id_s": "restricted-figgy:ed1f052b-dbc9-4c62-b0e3-f43064bc0cd8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3c145320-b86b-4b3f-94c8-0e145499e8cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c13b025f-1c36-4e59-9001-5abd98cc2165/file/0e35f2b1-8b55-4377-ac8d-226bed5dc4f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed1f052b-dbc9-4c62-b0e3-f43064bc0cd8/file/b9cdda92-c287-4a92-8899-d0ec017db897\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed1f052b-dbc9-4c62-b0e3-f43064bc0cd8/file/a92de7be-0342-4c5d-b031-bc4b25eb5600\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

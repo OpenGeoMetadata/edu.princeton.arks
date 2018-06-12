@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6969z2503",
+  "layer_slug_s": "princeton-6969z2503",
+  "uuid": "princeton-6969z2503",
+  "dc_title_s": "Broomfield County, Colorado land parcels, 2009",
+  "solr_geom": "ENVELOPE(-105.165511, -104.961278, 40.044144, 39.8892)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Broomfield County, Colorado, 2009. These data were taken from The City and County of Broomfield GIS database layers and the Broomfield Assessor database.",
+  "dc_creator_sm": [
+    "Jill Sanchez, Broomfield GIS Division, GIS Specialist"
+  ],
+  "dc_publisher_s": "Boundary Solutions, Inc.",
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "assessment",
+    "value",
+    "land value",
+    "land use",
+    "zoning",
+    "buildings",
+    "floors",
+    "stories",
+    "garage",
+    "baths",
+    "bathrooms",
+    "bedrooms",
+    "condos",
+    "condominium",
+    "subdivision",
+    "subdivisions",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Broomfield County",
+    "Broomfield"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:32Z",
+  "layer_id_s": "restricted-figgy:c1e2284e-85db-4995-a125-a393b19d0651",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/548f69c1-aac4-4593-acfe-7646f28835a4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/91844318-2b44-484b-9bb9-e2ebcd220cfa/file/11dc01dc-a7a6-45e5-a899-d7b11619ca68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1e2284e-85db-4995-a125-a393b19d0651/file/0382a177-8011-46ec-a3d2-bb245ea25a62\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1e2284e-85db-4995-a125-a393b19d0651/file/59d9d7fb-2540-4362-9d88-6bf108fab07e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9019s412w",
+  "layer_slug_s": "princeton-9019s412w",
+  "uuid": "princeton-9019s412w",
+  "dc_title_s": "Pennsylvania Major Roads 2002",
+  "solr_geom": "ENVELOPE(-80.519791, -74.695443, 42.267432, 39.719887)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Pennsylvania Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Pennsylvania.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:17:04Z",
+  "layer_id_s": "restricted-figgy:99d7d3c6-c874-4135-bdf3-791d55c8de46",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7fb1a9f3-b02d-4e54-b3f6-46cb15f60876\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7beb65c-2b5e-416c-b97f-5cb178468cc0/file/f49fcd57-bf2d-4ee2-8f30-2a8b196328b4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99d7d3c6-c874-4135-bdf3-791d55c8de46/file/c375747e-ae2b-4580-8960-1659448c78aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99d7d3c6-c874-4135-bdf3-791d55c8de46/file/e1dea9e4-026c-479b-b45d-b92a39de9de4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

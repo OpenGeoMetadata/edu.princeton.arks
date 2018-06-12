@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q237hw39m",
+  "layer_slug_s": "princeton-q237hw39m",
+  "uuid": "princeton-q237hw39m",
+  "dc_title_s": "Somerset County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-70.032666, -69.580692, 44.886678, 44.68702)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Somerset County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Somerset",
+    "Somerset County",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:46Z",
+  "layer_id_s": "restricted-figgy:b5e603e2-9402-4f10-96e6-fa7c6ddd1cad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c3c69443-a844-445a-a413-4c68edd4f139\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b5d8146-2c7a-4f25-8e2f-f9277d71d73a/file/f1e5c8c5-fec9-4033-b44c-0b5cc95e297e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5e603e2-9402-4f10-96e6-fa7c6ddd1cad/file/9d3cc0a2-e019-4963-86e4-ee075b61bddf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5e603e2-9402-4f10-96e6-fa7c6ddd1cad/file/08e335cb-5a5e-4406-909f-2a5e4f7e7f27\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

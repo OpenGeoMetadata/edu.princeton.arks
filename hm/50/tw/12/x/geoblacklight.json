@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tw12x",
+  "layer_slug_s": "princeton-hm50tw12x",
+  "uuid": "princeton-hm50tw12x",
+  "dc_title_s": "Petroleum County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-108.736839, -107.825555, 47.592276, 46.749214)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Petroleum County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Petroleum",
+    "Petroleum County",
+    "Missouri River",
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:07Z",
+  "layer_id_s": "restricted-figgy:25689bd1-30f6-4ff0-8c75-9ff8d0325e35",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/71e3681a-be46-4b5e-84ae-2bbba9e68705\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ac825669-052f-4aa1-9d97-34d852ea39d6/file/1babca61-41b7-41a2-9147-08f1bbab00b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/25689bd1-30f6-4ff0-8c75-9ff8d0325e35/file/3a16a742-e97e-4b71-a86b-46a43ffca2d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/25689bd1-30f6-4ff0-8c75-9ff8d0325e35/file/d6215410-d324-404b-a51f-36a3294b1c5a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

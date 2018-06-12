@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns0647454",
+  "layer_slug_s": "princeton-ns0647454",
+  "uuid": "princeton-ns0647454",
+  "dc_title_s": "Mexico Major Roads, 1997",
+  "solr_geom": "ENVELOPE(-117.083611, -86.79026, 32.630104, 14.679004)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Mexico major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:21Z",
+  "layer_id_s": "restricted-figgy:1d21a9fb-2cc9-4ccb-ba81-9189a14a6445",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99e783d7-c692-417d-8854-7860f48501cf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b746b312-ca2b-4106-8606-dbb3cc31049c/file/b15e71a3-06f7-4aa6-8475-5f2830063e0e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d21a9fb-2cc9-4ccb-ba81-9189a14a6445/file/e12f5a50-7acf-4fb1-aedb-8e5855f692e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d21a9fb-2cc9-4ccb-ba81-9189a14a6445/file/462e3789-f855-4f44-b2ee-8c349374cf93\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

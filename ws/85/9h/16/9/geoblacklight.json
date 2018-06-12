@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859h169",
+  "layer_slug_s": "princeton-ws859h169",
+  "uuid": "princeton-ws859h169",
+  "dc_title_s": "Santa Clara County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.202877, -121.208088, 37.484732, 36.893026)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Clara County, California, 2009.",
+  "dc_creator_sm": [
+    "Information Services Department, County of Santa Clara"
+  ],
+  "dc_publisher_s": "Boundary Solutions, Inc.",
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "land use",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Santa Clara County",
+    "San Jose",
+    "Santa Clara",
+    "San Francisco",
+    "Bay Area",
+    "Silicon Valley"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:22:56Z",
+  "layer_id_s": "restricted-figgy:1a61faab-1a6f-4e4d-a8c0-964110014fbb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/71aa7a3b-ffae-46a3-9697-d179d39ef180\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e7b96d9-1ada-4e6f-a41b-f92420ff05b4/file/1587b43f-4788-45c7-9655-2b82f5177770\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1a61faab-1a6f-4e4d-a8c0-964110014fbb/file/985a2138-33df-4fb2-8fb4-ece9b7bc182d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1a61faab-1a6f-4e4d-a8c0-964110014fbb/file/8aeea8b6-c0d1-464f-988c-2cfcbd0e1531\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

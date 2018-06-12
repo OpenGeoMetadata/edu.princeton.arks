@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wf36z",
+  "layer_slug_s": "princeton-zp38wf36z",
+  "uuid": "princeton-zp38wf36z",
+  "dc_title_s": "Estonia Major Roads, 2005",
+  "solr_geom": "ENVELOPE(22.029534, 28.206898, 59.471132, 57.580533)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Estonia major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Estonia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:16Z",
+  "layer_id_s": "restricted-figgy:4ba03e53-95fe-419c-b218-fcc18bd77588",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/49e1646f-c6fe-442b-956a-7f41bc60c7d2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/164ef58d-5d43-4ffc-89d3-e256553a77a0/file/ddf077f5-5e5f-40ca-b732-763bd07bc985\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ba03e53-95fe-419c-b218-fcc18bd77588/file/728a1258-b97d-436a-a2b3-60584404128f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ba03e53-95fe-419c-b218-fcc18bd77588/file/9dff35ca-ac2e-4f2a-bf0b-6ce8b94f1722\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

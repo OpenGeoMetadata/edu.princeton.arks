@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7w62fc603",
+  "layer_slug_s": "princeton-7w62fc603",
+  "uuid": "princeton-7w62fc603",
+  "dc_title_s": "Hardeman County, Tennessee land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.197571, -88.781511, 35.433218, 34.993049)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hardeman County, Tennessee, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tennessee",
+    "Hardeman",
+    "Hardeman County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:37Z",
+  "layer_id_s": "restricted-figgy:8c8d666c-8f7d-4820-890b-3fbbe71393ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ab97b80e-d38d-4b98-ad18-1a6ca0bf869e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6051df03-c1c8-4810-a088-b033178911ca/file/762c4748-09bb-4f2a-b548-9de96ba1ae8a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8c8d666c-8f7d-4820-890b-3fbbe71393ac/file/e22237b9-3c70-403e-979e-a2342686b15a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8c8d666c-8f7d-4820-890b-3fbbe71393ac/file/213d59c5-a425-4db8-8a8c-44efa9303c05\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

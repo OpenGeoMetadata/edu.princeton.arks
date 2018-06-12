@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207ts83f",
+  "layer_slug_s": "princeton-r207ts83f",
+  "uuid": "princeton-r207ts83f",
+  "dc_title_s": "Gwinnett County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.277418, -83.799185, 34.169001, 33.752784)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gwinnett County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gwinnett",
+    "Gwinnett County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:56Z",
+  "layer_id_s": "restricted-figgy:45b7f696-2d4d-4839-941f-f00436dec064",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5940af0a-6c06-40c1-89ea-fe023c89b5ae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed001ce7-96af-493b-8ec9-16654f95dc7a/file/9935dbe8-e522-4b29-9bd4-c709eb592d8d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45b7f696-2d4d-4839-941f-f00436dec064/file/87592fbd-1e9b-41df-83a3-ba4e7591fef2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45b7f696-2d4d-4839-941f-f00436dec064/file/df832a69-2993-4e9b-a51e-3e119446260a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

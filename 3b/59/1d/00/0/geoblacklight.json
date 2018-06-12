@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3b591d000",
+  "layer_slug_s": "princeton-3b591d000",
+  "uuid": "princeton-3b591d000",
+  "dc_title_s": "Putnam County, Indiana roads, 2014",
+  "solr_geom": "ENVELOPE(-87.014727, -86.64481, 39.866628, 39.470061)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Putnam County, Indiana, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Putnam",
+    "Putnam County",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:52Z",
+  "layer_id_s": "restricted-figgy:7b5c4d4d-f4c2-4e59-9f7b-e94fc31639e5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/352e31bc-3c65-449e-86b6-b78638436546\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/31ba33cf-ad72-4692-a133-d0aa09701036/file/315cb4ec-8ccb-4141-b6b5-dd7f196ededd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b5c4d4d-f4c2-4e59-9f7b-e94fc31639e5/file/66e7625c-0082-43c6-8232-66b2f1cafbee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b5c4d4d-f4c2-4e59-9f7b-e94fc31639e5/file/d7360118-3599-4929-8235-c9e3925f7227\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xw704",
+  "layer_slug_s": "princeton-n583xw704",
+  "uuid": "princeton-n583xw704",
+  "dc_title_s": "Honduras Major Rivers, 1996",
+  "solr_geom": "ENVELOPE(-89.350792, -83.157936, 15.945045, 13.831898)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Honduras created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Honduras"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:21Z",
+  "layer_id_s": "restricted-figgy:ca47039a-b818-40a7-81e9-8c979797244a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/326ace1d-90d5-4287-8a12-962a116cf60d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a8bfcd2-710e-4394-b277-6dbefcb25ac7/file/8d2c942c-5f51-4277-a360-54fcbab8398a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca47039a-b818-40a7-81e9-8c979797244a/file/1645d3e1-eb69-481c-8faf-1d7b29fd1bf6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca47039a-b818-40a7-81e9-8c979797244a/file/bb148d36-96f2-457c-80d4-864eb6a93ad2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

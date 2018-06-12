@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1r66j287m",
+  "layer_slug_s": "princeton-1r66j287m",
+  "uuid": "princeton-1r66j287m",
+  "dc_title_s": "France Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(-4.494879, 9.523621, 51.055078, 42.235078)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of France created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:52Z",
+  "layer_id_s": "restricted-figgy:bdb987b6-01ed-451e-be4b-ce22788a6a63",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ca805dac-fb22-4074-b9c1-5c71d0b3d566\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/02f2f88f-487b-41d2-ad89-80f8d6954465/file/3f97c75a-40c4-4973-99df-555c6f85c23f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdb987b6-01ed-451e-be4b-ce22788a6a63/file/84e96c45-4c96-4109-a0d5-7f19ee9e309b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdb987b6-01ed-451e-be4b-ce22788a6a63/file/5a079b1d-a01a-4a0b-9706-03f6eaa204be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

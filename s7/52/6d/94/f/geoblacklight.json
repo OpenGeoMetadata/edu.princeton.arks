@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526d94f",
+  "layer_slug_s": "princeton-s7526d94f",
+  "uuid": "princeton-s7526d94f",
+  "dc_title_s": "U.S. National Atlas Historic Earthquakes 2002",
+  "solr_geom": "ENVELOPE(-178.799561, 179.99942, 65.989418, 17.367044)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "earthquakes",
+    "historic earthquakes",
+    "deaths",
+    "property damage",
+    "geological effects",
+    "geoscientificInformation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Canada",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1568–1996",
+    "1568–1989",
+    "1638–1970",
+    "1990–1996",
+    "1568"
+  ],
+  "solr_year_i": 1568,
+  "layer_modified_dt": "2018-04-05T02:54:12Z",
+  "layer_id_s": "restricted-figgy:6e44028b-0eb6-492d-8502-46cca0f41bce",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/880241d9-439a-450b-868d-614d6d898561\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aae0a043-e778-4f05-ac8a-ad37017de4b3/file/7a0518c1-d7a8-482d-83d1-4d8ae6f4c5f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e44028b-0eb6-492d-8502-46cca0f41bce/file/95fad96a-e0e7-4bc6-b458-494b0007b4a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e44028b-0eb6-492d-8502-46cca0f41bce/file/75b06bfd-3ada-48fd-94a5-f6a8904091a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

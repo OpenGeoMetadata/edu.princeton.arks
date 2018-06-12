@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z316q3320",
+  "layer_slug_s": "princeton-z316q3320",
+  "uuid": "princeton-z316q3320",
+  "dc_title_s": "Ohio Block Groups 2002",
+  "solr_geom": "ENVELOPE(-84.820204, -80.518693, 41.977524, 38.403186)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Ohio Block Groups represents the U.S. Census block groups of Ohio.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:48Z",
+  "layer_id_s": "restricted-figgy:ce3965c0-b111-43da-a18a-ca5aa0b2155f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4acb5297-3b00-4607-8752-8b42a11acaca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ecb5f2d2-e454-46f5-a939-f83b4fd11192/file/0462b737-c288-4d54-8c7d-a4149cff91fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce3965c0-b111-43da-a18a-ca5aa0b2155f/file/af994e74-5341-47d3-8636-cff1d6e0043f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce3965c0-b111-43da-a18a-ca5aa0b2155f/file/e35b79ec-5998-4b8d-8bd5-7d8759b725b8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

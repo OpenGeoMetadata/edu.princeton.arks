@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/js956k30w",
+  "layer_slug_s": "princeton-js956k30w",
+  "uuid": "princeton-js956k30w",
+  "dc_title_s": "Stafford County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.635328, -77.287338, 38.592578, 38.243074)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Stafford County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Stafford",
+    "Stafford County",
+    "Washington",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:32Z",
+  "layer_id_s": "restricted-figgy:f08ef167-df84-4831-ab17-5b1dda7c6a76",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e095ada8-6708-4f62-8c62-4d033774c28c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fb8b7d39-f498-4168-8ab0-c021a5f34f4e/file/8af29316-02e6-4e9b-b917-829a8674d5ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f08ef167-df84-4831-ab17-5b1dda7c6a76/file/400ac11c-d822-4908-85e3-e0f623dc9c42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f08ef167-df84-4831-ab17-5b1dda7c6a76/file/f7cbbfb6-0b06-4743-8170-8b885f4278b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

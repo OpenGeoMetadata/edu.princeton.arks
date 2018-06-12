@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sq87bx993",
+  "layer_slug_s": "princeton-sq87bx993",
+  "uuid": "princeton-sq87bx993",
+  "dc_title_s": "Billings County, North Dakota land parcels, 2011",
+  "solr_geom": "ENVELOPE(-103.609049, -103.230643, 46.980321, 46.802743)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Billing County, North Dakota, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Billings County",
+    "Billings",
+    "North Dakota"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:38Z",
+  "layer_id_s": "restricted-figgy:02f8fb27-ed27-4c12-871a-4402ea6025ad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8dca10f1-8ff0-4954-8df0-6b3ce7ce625b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71181064-ae0a-49bd-b0a0-03b2e3d0772a/file/b2b32f68-900f-416d-b237-54b801b49009\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02f8fb27-ed27-4c12-871a-4402ea6025ad/file/63af7501-bcf1-4078-ac26-4c6c079730ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02f8fb27-ed27-4c12-871a-4402ea6025ad/file/d58386db-2bc6-4fed-b234-89afe7fc7ab3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

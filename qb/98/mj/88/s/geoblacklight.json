@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj88s",
+  "layer_slug_s": "princeton-qb98mj88s",
+  "uuid": "princeton-qb98mj88s",
+  "dc_title_s": "Hennepin County, Minnesota land parcels, 2007",
+  "solr_geom": "ENVELOPE(-93.767983, -93.177393, 45.245848, 44.785386)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hennepin County, Minnesota, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Hennepin",
+    "Hennepin County",
+    "Minneapolis",
+    "Twin Cities",
+    "Maple Grove",
+    "Eden Prairie",
+    "Brooklyn Park",
+    "Plymouth",
+    "Bloomington"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:39:46Z",
+  "layer_id_s": "restricted-figgy:205f345d-6a9b-486b-a1ad-ed93213c005f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/adeb9aba-111b-4adf-8063-9b0339632553\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afec5dac-d387-4c4c-8e24-560d4fb00e9d/file/7f8fc153-230b-4387-9ea8-e20afade913d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/205f345d-6a9b-486b-a1ad-ed93213c005f/file/16b52fad-831e-4298-8cac-b738aab9cb32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/205f345d-6a9b-486b-a1ad-ed93213c005f/file/cc731aae-6bd4-43c4-8763-a167373f5ba4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k611b",
+  "layer_slug_s": "princeton-td96k611b",
+  "uuid": "princeton-td96k611b",
+  "dc_title_s": "Utah County, Utah roads, 2012",
+  "solr_geom": "ENVELOPE(-112.280751, -110.858196, 40.5815, 39.682603)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Utah County, Utah, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Utah County",
+    "Provo",
+    "Lehi",
+    "Orem",
+    "Salt Lake City"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:50Z",
+  "layer_id_s": "restricted-figgy:d801f987-9dc4-4af7-96a1-2f1468eae7df",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/71a7f138-eef4-40f5-866a-c48117807b7d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cbe632af-2b23-42cd-abdb-57e7641b3e7d/file/3b30e511-0d1d-475b-be6a-3e20f9a9d494\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d801f987-9dc4-4af7-96a1-2f1468eae7df/file/c7c240f0-2d16-4ced-b2c2-c4c52f68d1f0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d801f987-9dc4-4af7-96a1-2f1468eae7df/file/a840f6fc-f2cb-4a28-90c2-e8c102c3317e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

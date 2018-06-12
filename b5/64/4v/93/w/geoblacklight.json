@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b5644v93w",
+  "layer_slug_s": "princeton-b5644v93w",
+  "uuid": "princeton-b5644v93w",
+  "dc_title_s": "Kauai County, Hawaii land parcels, 2011",
+  "solr_geom": "ENVELOPE(-160.54394, -159.292466, 22.23529, 21.648722)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kauai County, Hawaii, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kauai",
+    "Kauai County",
+    "Hawaii",
+    "Hanalei National Wildlife Refuge",
+    "Huleia National Wildlife Refuge",
+    "Kilauea Point National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:52Z",
+  "layer_id_s": "restricted-figgy:d36582e2-56c9-472b-9798-e01a532e4996",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f8e9c21-117e-47ae-b615-6de2ce684ad3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d760ca8a-fb07-4266-9cc1-50e53b490e53/file/beb907ef-ed11-4081-a09d-701903eb5db9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d36582e2-56c9-472b-9798-e01a532e4996/file/108f5a5b-eccc-4d3c-acc8-a4bb0100b748\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d36582e2-56c9-472b-9798-e01a532e4996/file/6be9377d-d09f-4e3e-ba6a-36be0eeb9657\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

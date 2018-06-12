@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/st74cr96f",
+  "layer_slug_s": "princeton-st74cr96f",
+  "uuid": "princeton-st74cr96f",
+  "dc_title_s": "Wisconsin Major Roads 2002",
+  "solr_geom": "ENVELOPE(-92.804403, -86.85425, 46.917925, 42.477031)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Wisconsin Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Wisconsin.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:50Z",
+  "layer_id_s": "restricted-figgy:bb6646f0-fe6b-4b3c-974e-346945099948",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/da04e54b-fe43-4a60-a010-24e42f1f1c5c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6617f7ae-4566-4b07-8186-d0077ad172ab/file/a1fd34b4-6ad3-48aa-9558-47cc470ae638\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb6646f0-fe6b-4b3c-974e-346945099948/file/b086d5d8-2397-4555-aaf8-ee2a0aad6ad4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb6646f0-fe6b-4b3c-974e-346945099948/file/0ff493d2-5055-4818-8d9a-8ef2a5378cce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

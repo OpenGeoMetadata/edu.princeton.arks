@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sn946",
+  "layer_slug_s": "princeton-5t34sn946",
+  "uuid": "princeton-5t34sn946",
+  "dc_title_s": "Highland County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.871233, -83.344321, 39.37913, 39.017891)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Highland County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Highland",
+    "Highland County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:20:11Z",
+  "layer_id_s": "restricted-figgy:2e660267-7ba4-40e9-ab61-57bd8468b54f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/41a815b3-79bf-4cca-acff-68b5e646bf3c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/489fb8a9-441c-4e6b-99ba-96b7f90897d6/file/7a9007cc-b8ea-44a7-a34b-213eee4f2857\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2e660267-7ba4-40e9-ab61-57bd8468b54f/file/b66dccbe-bafb-4eb7-90c8-55b8a2baf9c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e660267-7ba4-40e9-ab61-57bd8468b54f/file/701dcac8-6c2a-485a-bb46-8ef473564297\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

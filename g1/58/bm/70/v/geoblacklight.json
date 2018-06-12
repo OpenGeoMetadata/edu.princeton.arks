@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g158bm70v",
+  "layer_slug_s": "princeton-g158bm70v",
+  "uuid": "princeton-g158bm70v",
+  "dc_title_s": "Jefferson County, Texas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-94.445424, -93.837647, 30.188748, 29.559487)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Texas, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Jefferson",
+    "Jefferson County",
+    "Beaumont",
+    "Port Arthur",
+    "Golden Triangle"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:47:48Z",
+  "layer_id_s": "restricted-figgy:f973b781-c1ea-4324-8c36-d0c8eed6d115",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d7ad895b-264e-46ff-9daa-d2f606b97bf3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/885bd7e3-7f2c-44b8-ba6a-103f30add0f3/file/21d72205-4eea-4f8d-8a41-15e357d7ce5a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f973b781-c1ea-4324-8c36-d0c8eed6d115/file/e4f3c919-211d-4e3c-814f-18775f68886a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f973b781-c1ea-4324-8c36-d0c8eed6d115/file/898cd5bc-d8f4-4a31-9eb1-b0edc53a6d90\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

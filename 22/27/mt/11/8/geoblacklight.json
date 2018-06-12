@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mt118",
+  "layer_slug_s": "princeton-2227mt118",
+  "uuid": "princeton-2227mt118",
+  "dc_title_s": "Q3 flood data, Hawaii",
+  "solr_geom": "ENVELOPE(-159.790976, -154.809441, 22.235585, 18.91733)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Hawaii, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County",
+    "Honolulu County",
+    "Kauai County",
+    "Maui County",
+    "Hawaii",
+    "Honolulu",
+    "Kauai",
+    "Maui"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T00:36:05Z",
+  "layer_id_s": "restricted-figgy:863bcfa6-91cd-46af-898c-d6b9f9c3ebce",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3abc584c-6973-4e2b-a4c8-b26408c859db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39e4e5c3-174c-4aaa-9ec3-822ac0f284f2/file/787e8f52-af40-4d6a-bb13-bcefa80f054e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/863bcfa6-91cd-46af-898c-d6b9f9c3ebce/file/ab38fdf6-9124-4221-a0bf-01b004a5e555\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/863bcfa6-91cd-46af-898c-d6b9f9c3ebce/file/0230b500-3aca-41a7-9b59-5378b3bd67d4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

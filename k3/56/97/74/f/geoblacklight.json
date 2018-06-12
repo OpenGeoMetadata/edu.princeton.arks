@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k3569774f",
+  "layer_slug_s": "princeton-k3569774f",
+  "uuid": "princeton-k3569774f",
+  "dc_title_s": "Ocean County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.552976, -74.031089, 40.172393, 39.4998)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ocean County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ocean County",
+    "Ocean",
+    "New Jersey",
+    "Brick",
+    "Lakewood",
+    "Toms River",
+    "Jackson",
+    "Colliers Mills Wildlife Management Area",
+    "Manchester Wildlife Management Area",
+    "Forked River Mountain Wildlife Management Area",
+    "Seaside Heights",
+    "Seaside Park",
+    "Point Pleasant Beach",
+    "Long Beach Island"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:46:52Z",
+  "layer_id_s": "restricted-figgy:c874064a-c595-4a45-bf8a-daa8345779c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff863c08-61cb-4c78-8722-6e2f1ed55bd2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ce58e959-3547-4284-9132-81dd5a95448d/file/47a43762-7dea-4651-8cfe-b2a906e2af96\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c874064a-c595-4a45-bf8a-daa8345779c7/file/f5e18d2c-1186-4108-a41a-fdd4342dcfe1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c874064a-c595-4a45-bf8a-daa8345779c7/file/9db4b563-dec9-49ae-a20d-16f0df9dab15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

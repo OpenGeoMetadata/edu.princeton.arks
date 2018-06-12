@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r181s",
+  "layer_slug_s": "princeton-z603r181s",
+  "uuid": "princeton-z603r181s",
+  "dc_title_s": "Union County, Kentucky land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.15638, -87.734637, 37.895899, 37.469653)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, Kentucky, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kentucky",
+    "Union",
+    "Union County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:15Z",
+  "layer_id_s": "restricted-figgy:ab52d967-b565-4e84-b7b4-23e560465fa3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c7b19ca9-864b-444c-8794-7e74632dd2ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1c87e979-de1f-4beb-882c-9802880c7780/file/db7cf973-7b38-4232-a15d-3c87592a2272\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab52d967-b565-4e84-b7b4-23e560465fa3/file/7c4dbcf3-0c59-4e18-89cf-ad51ebaac4f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab52d967-b565-4e84-b7b4-23e560465fa3/file/ced86948-b4cd-4e02-8fbe-7d85aecffa36\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

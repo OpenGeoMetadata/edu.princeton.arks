@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fs41k",
+  "layer_slug_s": "princeton-c534fs41k",
+  "uuid": "princeton-c534fs41k",
+  "dc_title_s": "Bingham County, Idaho land parcels, 2011",
+  "solr_geom": "ENVELOPE(-113.007776, -111.588309, 43.626694, 42.863017)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bingham County, Idaho, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bingham",
+    "Bingham County",
+    "Idaho",
+    "Snake River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:33Z",
+  "layer_id_s": "restricted-figgy:674a8ebe-99a5-453a-8a03-285412cf8789",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7efb9d9d-2051-470d-ba29-b0a010186ec0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4343ab63-eb54-4985-b9c9-1681f5979e8c/file/2b331b39-c81e-4244-bf40-30ff0db42c1b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/674a8ebe-99a5-453a-8a03-285412cf8789/file/c3db6af3-fcbc-49ea-8413-17e09a1d9d57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/674a8ebe-99a5-453a-8a03-285412cf8789/file/d507dd0f-bbbf-4aa5-9d3c-ccabc06d1cc3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

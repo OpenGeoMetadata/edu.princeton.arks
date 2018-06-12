@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440w95x",
+  "layer_slug_s": "princeton-6h440w95x",
+  "uuid": "princeton-6h440w95x",
+  "dc_title_s": "DeKalb County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.19406, -84.803626, 41.53032, 41.264201)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in DeKalb County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "DeKalb",
+    "DeKalb County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:44Z",
+  "layer_id_s": "restricted-figgy:d78e3302-d26c-4cd6-baba-a01c4a3d9d85",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c30a5d41-c6c5-4203-962e-ddf55e85bc20\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a0c0e500-f8b4-4325-8339-301e4a31a188/file/b5109ee2-d42d-491a-8fc4-b88996a7ab2f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d78e3302-d26c-4cd6-baba-a01c4a3d9d85/file/96103aa8-08ce-458d-862e-ad0301176cc7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d78e3302-d26c-4cd6-baba-a01c4a3d9d85/file/75887dd4-0457-4e66-a7fb-91421460fe97\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

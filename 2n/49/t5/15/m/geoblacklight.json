@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t515m",
+  "layer_slug_s": "princeton-2n49t515m",
+  "uuid": "princeton-2n49t515m",
+  "dc_title_s": "Bennington County, Vermont land parcels, 2014",
+  "solr_geom": "ENVELOPE(-73.291438, -72.755601, 43.408459, 42.738793)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Bennington County, Vermont, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Bennington County",
+    "Bennington",
+    "Green Mountain National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:31Z",
+  "layer_id_s": "restricted-figgy:5dd79bcd-c509-43cf-b3e3-ae00a4e3521f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc8885fc-6ba4-43d2-bc78-991218ccf6c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/edfb5758-17c3-4542-a961-7d6a7a34d623/file/c5da28f2-86ef-4148-a11b-2feda2d2552f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5dd79bcd-c509-43cf-b3e3-ae00a4e3521f/file/0a5e6478-5a3c-40a5-ae0b-25fbd053f98c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5dd79bcd-c509-43cf-b3e3-ae00a4e3521f/file/53b153e2-727d-4fb3-9b67-221e1fa12398\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

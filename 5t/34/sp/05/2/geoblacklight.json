@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sp052",
+  "layer_slug_s": "princeton-5t34sp052",
+  "uuid": "princeton-5t34sp052",
+  "dc_title_s": "Penobscot County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-69.062167, -68.341098, 45.439314, 44.749067)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Penobscot County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Penobscot",
+    "Penobscot County",
+    "Maine",
+    "Sunkhaze Meadows National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:32Z",
+  "layer_id_s": "restricted-figgy:ba580417-c28c-4ef7-871d-cee0193e94aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/18fa3c62-71f4-45da-b466-1ef522809a4d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b8276f6a-6de3-4e3b-bf33-02bd4b455afc/file/8852c820-87d5-4b88-93e6-7a4d0a7ac976\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba580417-c28c-4ef7-871d-cee0193e94aa/file/52ae3200-dab7-48aa-a0b1-3c446a63a01d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba580417-c28c-4ef7-871d-cee0193e94aa/file/1b7c1497-34fb-4d91-86fe-7c71e3d19d1f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

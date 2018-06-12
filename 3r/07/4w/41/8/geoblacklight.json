@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074w418",
+  "layer_slug_s": "princeton-3r074w418",
+  "uuid": "princeton-3r074w418",
+  "dc_title_s": "World Countries 2008",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.6236, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Countries 2008 represents the boundaries for the countries of the world as they existed in January 2008.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "polygon",
+    "countries",
+    "international boundaries",
+    "coastlines",
+    "area",
+    "international codes",
+    "status",
+    "population",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998",
+    "1993/1994",
+    "2000",
+    "1994",
+    "2001",
+    "1995-2002",
+    "1999",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T02:54:34Z",
+  "layer_id_s": "restricted-figgy:f20e26ad-4ff0-4db7-b92b-4a64b771c920",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff88f411-6088-4a8f-999a-f93455f0883f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/10c242d4-a81c-4523-8362-e9d5d771aff3/file/3769e452-c654-4ad6-b444-a868b0ee75dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f20e26ad-4ff0-4db7-b92b-4a64b771c920/file/685cdaae-2139-476b-a42a-76605c2d61a5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f20e26ad-4ff0-4db7-b92b-4a64b771c920/file/86bf6190-0206-4feb-a66e-5274befd353e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

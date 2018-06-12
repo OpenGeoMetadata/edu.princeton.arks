@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g6118",
+  "layer_slug_s": "princeton-gf06g6118",
+  "uuid": "princeton-gf06g6118",
+  "dc_title_s": "Escambia County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.633491, -86.935806, 30.999293, 30.280144)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Escambia County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Escambia County",
+    "Escambia"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:52Z",
+  "layer_id_s": "restricted-figgy:519a1e9d-c380-4249-853a-82a1289b00b5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b77d01f1-56bc-4738-ba7c-b867708efa61\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de65c518-ff97-48f1-87fd-0336e001e6cc/file/21f20400-63a7-44dd-936c-59f3467e22ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/519a1e9d-c380-4249-853a-82a1289b00b5/file/37033d61-8a1f-441e-a8a4-59542930016c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/519a1e9d-c380-4249-853a-82a1289b00b5/file/ad85f711-6f96-435c-ac9a-3e5ac8378d69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fq05g",
+  "layer_slug_s": "princeton-kk91fq05g",
+  "uuid": "princeton-kk91fq05g",
+  "dc_title_s": "Uganda conflated historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(29.571499, 35.000273, 4.234466, -1.47887)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Uganda for 1948. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Uganda",
+    "Uganda Protectorate"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "2016"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "public-figgy:d86d87b1-a14e-455c-99a3-0aae4a04c8af",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e42237a9-9d69-497c-8503-106ad69800a6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/495a0a14-24ec-47a5-a0ee-93ef82c39b4c/file/da648798-4655-4493-9715-4c88d781efff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d86d87b1-a14e-455c-99a3-0aae4a04c8af/file/537d9416-9c13-4e0e-b282-a8d206c18578\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d86d87b1-a14e-455c-99a3-0aae4a04c8af/file/3fa5a72d-39a0-443a-989a-b312af70f555\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

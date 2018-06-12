@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fq376",
+  "layer_slug_s": "princeton-c534fq376",
+  "uuid": "princeton-c534fq376",
+  "dc_title_s": "Denmark Minor Roads, 2005",
+  "solr_geom": "ENVELOPE(8.113436, 15.152139, 57.603301, 54.655388)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Denmark minor roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Minor Roads"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:56Z",
+  "layer_id_s": "restricted-figgy:21900714-13f8-4c50-b385-9c4123066f31",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc5f6591-f0ae-4c75-99e4-f7962ba08c9b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4cbe789c-5dfc-40ac-86e9-4286926dc3b6/file/7b8d3acd-7b67-471f-a09f-b4339d9e2f3d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21900714-13f8-4c50-b385-9c4123066f31/file/c5cfd4ea-1c33-4157-b582-1bfaa418e7cc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21900714-13f8-4c50-b385-9c4123066f31/file/b2b66313-dfc0-4e91-a6a3-5c1e103451da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

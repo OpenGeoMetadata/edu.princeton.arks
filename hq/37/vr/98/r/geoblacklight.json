@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hq37vr98r",
+  "layer_slug_s": "princeton-hq37vr98r",
+  "uuid": "princeton-hq37vr98r",
+  "dc_title_s": "Davis County, Utah land parcels, 2008",
+  "solr_geom": "ENVELOPE(-112.179034, -111.777065, 41.152939, 40.821702)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Davis County, Utah, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Davis",
+    "Davis County",
+    "Salt Lake City",
+    "Great Salt Lake"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:26Z",
+  "layer_id_s": "restricted-figgy:03b07ce2-4b9e-4303-b56c-2b99bb9bef73",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/088fc450-5f7c-4bf1-b702-eca3760a7961\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4f831a4c-b3b7-4b06-9962-298a90f4331b/file/e59a06e8-d393-4138-b3b5-1674aef730dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03b07ce2-4b9e-4303-b56c-2b99bb9bef73/file/ad6bc0d3-6198-42c3-9a07-e44e2fcf2bc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03b07ce2-4b9e-4303-b56c-2b99bb9bef73/file/b80335a7-c595-4343-8a23-5e9557f82bb6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

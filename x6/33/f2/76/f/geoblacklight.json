@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f276f",
+  "layer_slug_s": "princeton-x633f276f",
+  "uuid": "princeton-x633f276f",
+  "dc_title_s": "Weld County, Colorado land parcels, 2006",
+  "solr_geom": "ENVELOPE(-105.056531, -103.573216, 41.001968, 40.000335)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Weld County, CO, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "value",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Weld",
+    "Weld County",
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:27:26Z",
+  "layer_id_s": "restricted-figgy:40ab6067-df40-44be-914f-8413da661900",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3b8bcc04-b84c-465b-b7ab-df584ee85cfe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61275818-d228-45e1-93ed-30da11298727/file/0c3fd955-6516-4d7b-824d-2b861ebbc2c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40ab6067-df40-44be-914f-8413da661900/file/9cf4f420-4251-46ab-9c47-852b28733554\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40ab6067-df40-44be-914f-8413da661900/file/c9e5b763-e6b0-43a4-8851-f3ece8ee45dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

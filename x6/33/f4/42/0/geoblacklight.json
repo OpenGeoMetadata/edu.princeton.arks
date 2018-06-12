@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f4420",
+  "layer_slug_s": "princeton-x633f4420",
+  "uuid": "princeton-x633f4420",
+  "dc_title_s": "Ravalli County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-114.56631, -113.5154, 46.660961, 45.459094)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Ravalli County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ravalli",
+    "Ravalli County",
+    "Montana",
+    "Lolo National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:55Z",
+  "layer_id_s": "restricted-figgy:a655d865-75a2-43de-915f-c5feddd5e667",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b6637018-27b0-477f-92e6-8627ff13ce78\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a78680f3-bba9-4e60-a738-c4817188359f/file/04b9e5ba-8a99-4f43-a379-b08a94ed171a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a655d865-75a2-43de-915f-c5feddd5e667/file/5b71240e-aeea-47c8-ad3d-4033aaceaf05\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a655d865-75a2-43de-915f-c5feddd5e667/file/7f84b5a0-691d-45bc-8a2f-573014a01246\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

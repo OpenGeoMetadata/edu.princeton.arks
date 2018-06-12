@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x059c8855",
+  "layer_slug_s": "princeton-x059c8855",
+  "uuid": "princeton-x059c8855",
+  "dc_title_s": "Canada Roads 1999",
+  "solr_geom": "ENVELOPE(-141.0, -52.779598, 64.3274, 42.232533)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Roads represents the expressways and primary highways of Canada.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "expressways",
+    "primary highways",
+    "major multi lanes",
+    "roads"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "1998",
+    "2001"
+  ],
+  "solr_year_i": 1998,
+  "layer_modified_dt": "2018-04-05T02:54:25Z",
+  "layer_id_s": "restricted-figgy:09f7db60-7141-4721-9f01-e1bf688a30f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fdfabd02-fb75-4133-991b-87c692414ea7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e08e0cd4-aed7-4e31-b351-e0c2da9ce41e/file/89bb21f3-0beb-4932-972a-14162db0e87d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09f7db60-7141-4721-9f01-e1bf688a30f6/file/461d4b57-ec7a-40a6-8364-41fa6b5ceb4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09f7db60-7141-4721-9f01-e1bf688a30f6/file/c82a111b-03be-4f11-9738-dcceef73f0b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

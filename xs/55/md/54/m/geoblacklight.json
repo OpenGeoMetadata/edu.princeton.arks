@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55md54m",
+  "layer_slug_s": "princeton-xs55md54m",
+  "uuid": "princeton-xs55md54m",
+  "dc_title_s": "Czech Republic District Boundaries, 2005",
+  "solr_geom": "ENVELOPE(12.090395, 18.863887, 51.055699, 48.551563)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the district boundaries of Czech Republic created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "districts",
+    "Boundaries",
+    "district boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:50:13Z",
+  "layer_id_s": "restricted-figgy:b4ee5ca7-7078-488d-b477-85e86da2098d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/12cd3fdf-e3de-4319-b037-f4586b689151\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4b914323-10e1-4eea-a87d-bbbef020a4bc/file/d5dda7db-597f-4492-9fd1-3094c3773459\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4ee5ca7-7078-488d-b477-85e86da2098d/file/0b355c98-a36d-4fdd-8995-05cd88f3aac0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4ee5ca7-7078-488d-b477-85e86da2098d/file/bdfd4b04-48c4-4780-bbc1-e1573e68617a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

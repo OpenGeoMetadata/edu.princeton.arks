@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nc580p232",
+  "layer_slug_s": "princeton-nc580p232",
+  "uuid": "princeton-nc580p232",
+  "dc_title_s": "Maryland Rivers 2002",
+  "solr_geom": "ENVELOPE(-79.486873, -75.060568, 39.723043, 37.925378)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Maryland Rivers represents streams and rivers within Maryland.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:59:29Z",
+  "layer_id_s": "restricted-figgy:f2aac0b3-c80f-4d50-aa80-b8e6e3823e0e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a6ff10f9-cfc7-4095-bec2-36fddee3fda6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8f511aab-62ed-4cbc-96fa-15072f36b1a5/file/75dffeee-e3b3-4c26-951b-82012dc0bbfb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2aac0b3-c80f-4d50-aa80-b8e6e3823e0e/file/3acf6798-c617-4a98-9be6-a1839b618cb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2aac0b3-c80f-4d50-aa80-b8e6e3823e0e/file/e43c2c83-9371-44d9-a6f9-baead512eb2f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

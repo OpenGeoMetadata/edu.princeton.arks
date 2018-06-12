@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fq977w22x",
+  "layer_slug_s": "princeton-fq977w22x",
+  "uuid": "princeton-fq977w22x",
+  "dc_title_s": "Germany District Boundaries, 2006",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the district boundaries of Germany created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "districts",
+    "Boundaries",
+    "district boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:30Z",
+  "layer_id_s": "restricted-figgy:8b8861d6-d503-4b34-9a3a-16da4db76508",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b985f5fa-6d1d-4dab-a7d1-4c0443988c8c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/561dcc79-e748-4728-8cfd-f0f1775dbfb0/file/bdb6bef6-9817-40b1-8173-2f06e75643ad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b8861d6-d503-4b34-9a3a-16da4db76508/file/cc1da5df-0260-4282-8f4d-5bcdc800b71c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b8861d6-d503-4b34-9a3a-16da4db76508/file/a181f491-8e14-42f0-a39d-386701c0a93a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

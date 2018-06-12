@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vm215",
+  "layer_slug_s": "princeton-zk51vm215",
+  "uuid": "princeton-zk51vm215",
+  "dc_title_s": "Navarro County, Texas roads, 2014",
+  "solr_geom": "ENVELOPE(-96.888637, -96.058965, 32.327191, 31.79691)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Navarro County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Richland Chambers Reservoir",
+    "Navarro County",
+    "Navarro",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:54Z",
+  "layer_id_s": "restricted-figgy:9b04d96e-aa2e-42f2-a9ef-1d6970db152d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c50c9fb4-39e4-4f0f-801d-29823ce9278f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89f06080-67de-42bf-9e37-ab02a4ee1fae/file/1ad12e85-8102-4229-ba93-3f2d8f87c0cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b04d96e-aa2e-42f2-a9ef-1d6970db152d/file/efe8032e-ba2a-42f2-a0df-ff866372329e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b04d96e-aa2e-42f2-a9ef-1d6970db152d/file/dbd52988-72c9-4d33-b508-2b6d656ad36e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

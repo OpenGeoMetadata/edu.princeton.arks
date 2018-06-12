@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547t10p",
+  "layer_slug_s": "princeton-p5547t10p",
+  "uuid": "princeton-p5547t10p",
+  "dc_title_s": "France 5-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(-5.155606, 9.559856, 51.090167, 41.333307)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes France 5 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "5 digit"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:20Z",
+  "layer_id_s": "restricted-figgy:3653b0d4-099e-494b-bfb4-558377a68820",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9a68647d-5555-47e8-a357-15573bbdccea\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c94e8326-fa06-43d4-bfe5-fff2c8340601/file/99a4cb8e-99c6-455c-9e6a-4ed98569ec10\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3653b0d4-099e-494b-bfb4-558377a68820/file/5ca8f9cf-cc51-44c4-99df-dccc7de863f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3653b0d4-099e-494b-bfb4-558377a68820/file/9cb98761-39ba-429c-adfb-00c06ef93179\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

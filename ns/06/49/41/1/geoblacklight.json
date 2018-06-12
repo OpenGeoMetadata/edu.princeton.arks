@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns0649411",
+  "layer_slug_s": "princeton-ns0649411",
+  "uuid": "princeton-ns0649411",
+  "dc_title_s": "Volusia County, Florida roads, 2014",
+  "solr_geom": "ENVELOPE(-81.680239, -80.733143, 29.427068, 28.612871)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Volusia County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Volusia County",
+    "Volusia",
+    "Deltona",
+    "Daytona Beach"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:45Z",
+  "layer_id_s": "restricted-figgy:d0fd1b20-666f-4b01-b2b8-cd76063c6254",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cf856821-e23c-498b-a0b3-c1f0c0aae82b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a8f5c21-83b2-4426-956f-904f37925ae7/file/ac3e5fe3-8939-4d27-a3d8-d1340d02062c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0fd1b20-666f-4b01-b2b8-cd76063c6254/file/66db7b24-af7a-4d6e-81b6-a231746803d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0fd1b20-666f-4b01-b2b8-cd76063c6254/file/fb00befa-2545-45af-b0b8-fd9174160bdc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

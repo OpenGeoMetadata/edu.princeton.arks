@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xp68kk65r",
+  "layer_slug_s": "princeton-xp68kk65r",
+  "uuid": "princeton-xp68kk65r",
+  "dc_title_s": "Q3, flood data, New Hampshire",
+  "solr_geom": "ENVELOPE(-72.557768, -70.610993, 43.273441, 42.697049)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for New Hampshire, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Cheshire County",
+    "Hillsborough County",
+    "Rockingham County",
+    "Cheshire",
+    "Hillsborough",
+    "Rockingham"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T00:33:46Z",
+  "layer_id_s": "restricted-figgy:51714623-ce6e-4795-ba72-2eabf56d56d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0dff33f9-4f4e-41ee-9631-0563607ec9cb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45392327-610f-4ab7-a37f-07df1da3af21/file/0bc95ee9-2ef2-463d-a4fa-1e89840f46c7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51714623-ce6e-4795-ba72-2eabf56d56d7/file/b72c20f5-258c-4a4a-b04b-3384893e9a6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51714623-ce6e-4795-ba72-2eabf56d56d7/file/bcbdce7e-9d16-4d82-828c-7ae55666ac42\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

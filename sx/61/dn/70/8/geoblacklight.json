@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sx61dn708",
+  "layer_slug_s": "princeton-sx61dn708",
+  "uuid": "princeton-sx61dn708",
+  "dc_title_s": "Madison County, Arkansas land parcels, 2010",
+  "solr_geom": "ENVELOPE(-93.963086, -93.445715, 36.306659, 35.759707)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Arkansas, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "land value",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Madison County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:15:18Z",
+  "layer_id_s": "restricted-figgy:d9dbfd9f-58ed-46f4-99b0-282298d7d27a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b338b728-19a8-455f-bcad-20df4bfdf82a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c911e441-3b0d-491d-88ff-119a259e9eed/file/e1808763-0bdf-448d-aa1f-1225708c8f58\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9dbfd9f-58ed-46f4-99b0-282298d7d27a/file/e7cd96da-a560-4faa-9d71-0702dc178371\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9dbfd9f-58ed-46f4-99b0-282298d7d27a/file/006d1e93-1874-49c8-947a-e53c2c1d68dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

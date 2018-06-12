@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494c87s",
+  "layer_slug_s": "princeton-fb494c87s",
+  "uuid": "princeton-fb494c87s",
+  "dc_title_s": "Somerset County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.797881, -74.401742, 40.758284, 40.374293)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Somerset County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Somerset County",
+    "Somerset",
+    "New Jersey",
+    "New York City",
+    "Bridgewater",
+    "Franklin",
+    "Sourland Mountain Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:06Z",
+  "layer_id_s": "restricted-figgy:bbc44a7d-97d8-45a1-b24d-da963a91ccae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b8d9e30a-3197-4fe7-95b4-d15d45b6b9d7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e7fc290-f9b8-42f1-91bc-a3c2ecc0e04f/file/4c4bde6c-6a91-41a7-ad72-2a78b3b79ecf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbc44a7d-97d8-45a1-b24d-da963a91ccae/file/8895cacb-343d-43fa-84c4-1b539305da05\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbc44a7d-97d8-45a1-b24d-da963a91ccae/file/5925ec79-7f08-4d2b-b22c-0893b6e354b8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

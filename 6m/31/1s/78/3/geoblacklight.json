@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6m311s783",
+  "layer_slug_s": "princeton-6m311s783",
+  "uuid": "princeton-6m311s783",
+  "dc_title_s": "Mendocino County, California roads, 2008",
+  "solr_geom": "ENVELOPE(-123.980159, -122.885743, 40.001913, 38.759869)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Mendocino County, California, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Mendocino County",
+    "Mendocino",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:11:36Z",
+  "layer_id_s": "restricted-figgy:bd4b5083-20e1-4ece-b600-38436ff26b15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a535bcf4-038b-4e0f-a9e2-781413ca7384\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a018e8a-4beb-4d08-9dcd-4a455672f70a/file/40b391e9-f611-49e0-a3c9-ef7804541076\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd4b5083-20e1-4ece-b600-38436ff26b15/file/db33b16c-08ed-45ce-b459-788db3a2c1d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd4b5083-20e1-4ece-b600-38436ff26b15/file/7cef1579-41a2-4491-857d-805587713fd4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

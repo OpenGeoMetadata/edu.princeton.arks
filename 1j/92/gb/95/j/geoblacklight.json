@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1j92gb95j",
+  "layer_slug_s": "princeton-1j92gb95j",
+  "uuid": "princeton-1j92gb95j",
+  "dc_title_s": "Sevier County, Utah roads, 2014",
+  "solr_geom": "ENVELOPE(-112.509895, -111.298179, 39.045615, 38.501874)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Sevier County, Utah, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Sevier",
+    "Sevier County",
+    "Utah",
+    "Manti-La Sal National Forest",
+    "Capitol Reef National Park",
+    "Fishlake National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:08:46Z",
+  "layer_id_s": "restricted-figgy:7004fe38-fe40-42ee-8feb-79cd0477d527",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0e796525-1c2f-475a-8268-58bdddd18698\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1761ce95-d0b9-4831-95a8-3c16a9a73760/file/9f21bd96-8c61-4fd8-b2a9-95a76ae51d82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7004fe38-fe40-42ee-8feb-79cd0477d527/file/cca7b41d-f5ae-48ff-8e35-4ab642869f30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7004fe38-fe40-42ee-8feb-79cd0477d527/file/5e46542b-73ca-4a56-a905-ff89725ab8c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

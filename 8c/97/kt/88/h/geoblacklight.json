@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kt88h",
+  "layer_slug_s": "princeton-8c97kt88h",
+  "uuid": "princeton-8c97kt88h",
+  "dc_title_s": "Stanislaus County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-121.487104, -120.38826, 38.07701, 37.134369)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Stanislaus County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Stanislaus",
+    "Stanislaus County",
+    "California",
+    "Modesto",
+    "San Joaquin Valley"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:37:11Z",
+  "layer_id_s": "restricted-figgy:1d9e02b0-8fbd-4c78-a3d2-e1f246b5ccb3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/43af8738-f1bb-4384-87ea-586530008a40\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a208bc33-0d71-4166-95a8-9539ab551a71/file/628f2e17-3d6b-4fe9-b8bf-e42d7f5b84a9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d9e02b0-8fbd-4c78-a3d2-e1f246b5ccb3/file/50a1be9b-dfb5-4a09-8d09-d671ab8a7be6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d9e02b0-8fbd-4c78-a3d2-e1f246b5ccb3/file/5b770a35-3afd-4501-a13e-09b3235f42ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

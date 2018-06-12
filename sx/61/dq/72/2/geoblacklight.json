@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sx61dq722",
+  "layer_slug_s": "princeton-sx61dq722",
+  "uuid": "princeton-sx61dq722",
+  "dc_title_s": "Walthall County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.261013, -89.8358, 31.350846, 31.000573)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Walthall County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Walthall",
+    "Walthall County",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:39Z",
+  "layer_id_s": "restricted-figgy:b8160cc0-ef62-4964-871d-b6a2a734ecbc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/198e7848-ce3c-463a-89cf-25706783682e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25398174-693c-43c1-8491-1f1a9708a32f/file/c9fed17f-8bbf-4d24-9b6d-c84de6475064\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8160cc0-ef62-4964-871d-b6a2a734ecbc/file/04b47f7a-7197-4c34-abff-32e534f19a9e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8160cc0-ef62-4964-871d-b6a2a734ecbc/file/73d9ec0c-d831-44f7-ac0a-dff82caa87d7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

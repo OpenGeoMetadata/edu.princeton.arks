@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55z924v",
+  "layer_slug_s": "princeton-rf55z924v",
+  "uuid": "princeton-rf55z924v",
+  "dc_title_s": "North Carolina Block Groups 2002",
+  "solr_geom": "ENVELOPE(-84.32187, -75.459872, 36.588118, 33.839811)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "North Carolina Block Groups represents the U.S. Census block groups of North Carolina.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:d266d3a3-0c23-4693-9859-2796b5f80f20",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/69a134d1-80f8-499a-a16a-5a4f711503e9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ae71d58-fc70-4cfb-a2a9-a32a57d3cabb/file/89cbffb0-ae3f-4ff3-a158-18530fea35d6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d266d3a3-0c23-4693-9859-2796b5f80f20/file/fac9aa6c-48cf-4558-8297-42d765066982\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d266d3a3-0c23-4693-9859-2796b5f80f20/file/ce2e858f-15f9-4fff-9231-eb20ff99c436\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/db78td50d",
+  "layer_slug_s": "princeton-db78td50d",
+  "uuid": "princeton-db78td50d",
+  "dc_title_s": "Ukraine Cities With Population 100 Thousand and More, 2004",
+  "solr_geom": "ENVELOPE(22.298048, 39.323702, 51.500442, 44.609418)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ukraine cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:12Z",
+  "layer_id_s": "restricted-figgy:b1085c9d-2cc5-4543-805a-16eff337c0db",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a6b338a3-df30-4188-a559-a06723467398\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7ce03a5d-8681-4668-a312-1f3d40693764/file/7a42fb1d-f07e-4440-8db8-bdbad8c17141\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b1085c9d-2cc5-4543-805a-16eff337c0db/file/4c90d36f-aac8-4bb6-b162-8ebe384a20c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1085c9d-2cc5-4543-805a-16eff337c0db/file/926b850a-1aea-4c93-9e9c-5de7d2fd5eb2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc21j",
+  "layer_slug_s": "princeton-5425kc21j",
+  "uuid": "princeton-5425kc21j",
+  "dc_title_s": "Estonia Inundation Areas, 2005",
+  "solr_geom": "ENVELOPE(27.097973, 27.751621, 59.038319, 57.971443)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Estonia inundation areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inundation",
+    "Inland Waters",
+    "Inundation Areas",
+    "floods"
+  ],
+  "dct_spatial_sm": [
+    "Estonia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:15:54Z",
+  "layer_id_s": "restricted-figgy:68e84552-fdee-45b6-b66a-a9d36e0d4807",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/74618717-f58d-43e6-b28f-ae46e390f15c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d301929-ed24-4d66-93d1-547a795e37b4/file/1351b27c-eb76-4a09-af1a-54d7e0abdaf1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/68e84552-fdee-45b6-b66a-a9d36e0d4807/file/81e2935b-90ac-4170-800c-c26a9cad356a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68e84552-fdee-45b6-b66a-a9d36e0d4807/file/d3460d41-e47e-43de-902b-0d97dbed5c2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

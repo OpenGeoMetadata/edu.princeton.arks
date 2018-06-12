@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p096b41t",
+  "layer_slug_s": "princeton-0p096b41t",
+  "uuid": "princeton-0p096b41t",
+  "dc_title_s": "British Togoland conflated historical administrative boundaries, 1955",
+  "solr_geom": "ENVELOPE(-0.469144, 0.893473, 11.106102, 6.335569)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of administrative districts, electoral districts, and local councils in British Togoland (Eastern Ghana) for 1955. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "district",
+    "elections",
+    "electoral districts",
+    "electoral boundaries",
+    "councils",
+    "local councils",
+    "constituency",
+    "constituencies"
+  ],
+  "dct_spatial_sm": [
+    "Togoland",
+    "British Togoland",
+    "Ghana"
+  ],
+  "dct_temporal_sm": [
+    "1955",
+    "2016"
+  ],
+  "solr_year_i": 1955,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "public-figgy:3f04e8b4-1bd3-4c57-8d7b-6ce2a90d7989",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f22c205c-7849-45b6-bb90-d48a690300b3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6e951b07-32a1-49fd-ad05-bd673d9ffa84/file/e96def00-74f1-4472-90f7-1663cbd3ede8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3f04e8b4-1bd3-4c57-8d7b-6ce2a90d7989/file/632df037-3480-4f8f-ad8e-e28f7a691cc0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3f04e8b4-1bd3-4c57-8d7b-6ce2a90d7989/file/be648268-fa91-4438-b06a-15200fa74d85\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

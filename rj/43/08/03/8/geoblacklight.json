@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rj4308038",
+  "layer_slug_s": "princeton-rj4308038",
+  "uuid": "princeton-rj4308038",
+  "dc_title_s": "San Mateo County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-122.519132, -122.119063, 37.709464, 37.108639)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Mateo County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Mateo",
+    "San Mateo County",
+    "California",
+    "Daly City",
+    "San Francisco",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:25Z",
+  "layer_id_s": "restricted-figgy:cb2bec68-4040-45f1-bb33-90b378e6fc3c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a0577757-00fd-4c8f-b0f8-af19ac3be5ff\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b555016c-7d44-48ee-91a9-d60a629e54cd/file/9974910e-8322-46af-b0f7-4df22ec11175\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb2bec68-4040-45f1-bb33-90b378e6fc3c/file/27a75cd1-c203-44ef-9956-9b2d0ac02567\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb2bec68-4040-45f1-bb33-90b378e6fc3c/file/05d333c0-b0c7-48f7-b80f-83372c68d7b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/736668100",
+  "layer_slug_s": "princeton-736668100",
+  "uuid": "princeton-736668100",
+  "dc_title_s": "Snohomish County, Washington roads, 2012",
+  "solr_geom": "ENVELOPE(-122.405747, -120.926048, 48.299178, 47.775284)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Snohomish County, Washington, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Snohomish County",
+    "Washington",
+    "Washington State",
+    "Snohomish",
+    "Tacoma",
+    "Everett",
+    "Seattle",
+    "Bellevue",
+    "Marysville"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:47Z",
+  "layer_id_s": "restricted-figgy:0ddea864-aa9b-4f71-956d-e24fb7b25182",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5f9cf4db-525d-43c4-b05f-289116c02034\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/58c89037-c1a7-4970-afb7-6977de2baa38/file/354c0681-613f-4d55-a782-76baa24426cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ddea864-aa9b-4f71-956d-e24fb7b25182/file/80bb6fe7-f6de-4f63-9d8f-bc6777953d88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ddea864-aa9b-4f71-956d-e24fb7b25182/file/7a282039-8c43-4938-a76b-6bf380088f23\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

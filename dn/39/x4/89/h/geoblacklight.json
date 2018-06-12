@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dn39x489h",
+  "layer_slug_s": "princeton-dn39x489h",
+  "uuid": "princeton-dn39x489h",
+  "dc_title_s": "Gaston County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.45678, -80.92658, 35.422506, 35.150004)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gaston County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gaston",
+    "Gaston County",
+    "North Carolina",
+    "Charlotte"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:06:45Z",
+  "layer_id_s": "restricted-figgy:91900472-e38b-4a72-a3ce-79b98e75c79d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dbe6ff7e-9a5b-4e24-9b0b-8d867ba198ee\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cc4aaa57-1c5c-4b8b-96e4-4bdbe2d59304/file/f65bcd5d-4e98-4dbe-a4dc-3a8e31cf1c1d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/91900472-e38b-4a72-a3ce-79b98e75c79d/file/9fd03d41-14b6-4820-b1b2-f3d4bbbfb7df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/91900472-e38b-4a72-a3ce-79b98e75c79d/file/3cadde54-0ed9-45f6-a3ec-fb9d705eb13f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

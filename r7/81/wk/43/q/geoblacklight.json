@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk43q",
+  "layer_slug_s": "princeton-r781wk43q",
+  "uuid": "princeton-r781wk43q",
+  "dc_title_s": "Utah County, Utah roads, 2011",
+  "solr_geom": "ENVELOPE(-112.280751, -110.858196, 40.5815, 39.682603)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Utah County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Utah County",
+    "Provo",
+    "Orem",
+    "Utah Lake",
+    "Manti-La Sal National Forest",
+    "Salt Lake City"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:02Z",
+  "layer_id_s": "restricted-figgy:d412790f-8771-41c4-b9f6-32eb9bfae1b9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d40674de-0c6e-4d8a-98f1-c18c95a6e649\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a2813af-cecc-48a5-9175-9c23f6edf596/file/2ce45689-7f10-45a3-b236-6d6e6ef32086\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d412790f-8771-41c4-b9f6-32eb9bfae1b9/file/0b42e9aa-9a40-403f-a241-aa4ff6757e2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d412790f-8771-41c4-b9f6-32eb9bfae1b9/file/1ed065eb-8e87-41bd-b0d1-8ea281858a94\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930c140d",
+  "layer_slug_s": "princeton-k930c140d",
+  "uuid": "princeton-k930c140d",
+  "dc_title_s": "Huron County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.841376, -82.336675, 41.290054, 40.992982)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Huron County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Huron",
+    "Huron County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:29Z",
+  "layer_id_s": "restricted-figgy:725c563a-2084-49eb-9e85-1233e8d0dc84",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/56cea3aa-d1bc-4b59-90cd-aa0bd0b0abe1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71fb5d34-3c5c-47b3-bc99-b76c5be64d99/file/6acb9fd6-eeec-4c1b-b87b-d02b5c41ba00\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/725c563a-2084-49eb-9e85-1233e8d0dc84/file/f18b27d3-7255-4d2b-b184-83214f60c25e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/725c563a-2084-49eb-9e85-1233e8d0dc84/file/3708a635-c0e5-432f-9809-c9cc51c1bb69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4f16c626w",
+  "layer_slug_s": "princeton-4f16c626w",
+  "uuid": "princeton-4f16c626w",
+  "dc_title_s": "Manchester, New Hampshire land parcels, 2014",
+  "solr_geom": "ENVELOPE(-71.512877, -71.375423, 43.051839, 42.890286)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the city of Manchester, Hillsborough County, New Hampshire, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Manchester",
+    "Hillsborough",
+    "Hillsborough County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:44Z",
+  "layer_id_s": "restricted-figgy:a64bbc7a-3757-41db-8081-71ece531932e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/50976230-89b3-483e-af7b-5cd588f83877\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71a8f4ef-1a7c-4ef4-b822-763024ce1819/file/50427f30-e40c-4336-aec9-99f9d275da4b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a64bbc7a-3757-41db-8081-71ece531932e/file/8691a6af-00e0-4f9c-bc9a-dcae201e5f10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a64bbc7a-3757-41db-8081-71ece531932e/file/72f4a012-9a06-4739-b282-9eeb6c392b29\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s4655j01r",
+  "layer_slug_s": "princeton-s4655j01r",
+  "uuid": "princeton-s4655j01r",
+  "dc_title_s": "U.S. National Atlas Water Feature Lines 2002",
+  "solr_geom": "ENVELOPE(-179.133377, 179.788208, 71.398186, 17.674692)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (e.g., aqueducts, canals, intercoastal waterways, and streams) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "hydrography",
+    "water",
+    "rivers",
+    "streams",
+    "canals",
+    "shorelines",
+    "dams",
+    "falls",
+    "aqueducts",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1995–1999",
+    "1972–1994",
+    "1998",
+    "1999"
+  ],
+  "solr_year_i": 1995,
+  "layer_modified_dt": "2018-04-05T03:00:04Z",
+  "layer_id_s": "restricted-figgy:c3a1e851-024c-4aa7-b87e-5a266d657db2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b4e8f5f-680f-45bd-a58f-c7583f891b88\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81cadf80-60f5-43ed-85a5-cecfeb2fd32d/file/8018d1b3-0ef0-434a-b68a-599fc1399eb4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3a1e851-024c-4aa7-b87e-5a266d657db2/file/2216ee07-c3a4-41f2-81b4-b83d60d2eb7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3a1e851-024c-4aa7-b87e-5a266d657db2/file/1d7738e8-befc-4a2e-a499-bcd7d4b7d637\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

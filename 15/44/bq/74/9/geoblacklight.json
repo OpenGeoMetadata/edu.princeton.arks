@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1544bq749",
+  "layer_slug_s": "princeton-1544bq749",
+  "uuid": "princeton-1544bq749",
+  "dc_title_s": "Norway Major Lakes, 2005",
+  "solr_geom": "ENVELOPE(5.961972, 29.669333, 70.397515, 58.299607)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Norway created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:13Z",
+  "layer_id_s": "restricted-figgy:239b3e56-469a-4b06-b403-1c742b105fdd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d25d11cb-cc01-49b5-9073-1917af7d1fb7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0b9f6bf3-579a-422a-b050-57291fab05e4/file/ed0f12ca-7b15-430a-8755-425502af1bc4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/239b3e56-469a-4b06-b403-1c742b105fdd/file/78fd5166-9908-4687-bb58-a7129c87594b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/239b3e56-469a-4b06-b403-1c742b105fdd/file/81c4d02e-7c2b-4fbb-aea5-309228e9bf84\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gx41mk51h",
+  "layer_slug_s": "princeton-gx41mk51h",
+  "uuid": "princeton-gx41mk51h",
+  "dc_title_s": "Connecticut Rivers 2002",
+  "solr_geom": "ENVELOPE(-73.712775, -71.787616, 42.050514, 41.007202)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Connecticut Rivers represents streams and rivers within Connecticut.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Connecticut"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:59:11Z",
+  "layer_id_s": "restricted-figgy:1f319a11-ff6f-4042-9068-9e125e92c487",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0059efc7-823e-4cb8-a899-965534f2558b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cb4b3df6-2f68-49d1-87c5-dc9a132c8406/file/87bcdf2f-0b4d-435a-b8bb-01a509c9382a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f319a11-ff6f-4042-9068-9e125e92c487/file/d09dae1a-0cd5-4c5e-bc02-c160c249badd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f319a11-ff6f-4042-9068-9e125e92c487/file/77e333c3-7ecb-496c-be3c-16f390b347ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

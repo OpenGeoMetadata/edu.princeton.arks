@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514nn080",
+  "layer_slug_s": "princeton-2514nn080",
+  "uuid": "princeton-2514nn080",
+  "dc_title_s": "Denmark Settlement Boundaries, 2005",
+  "solr_geom": "ENVELOPE(8.072815, 15.197479, 57.748161, 54.556986)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the settlement boundaries of Denmark created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "settlements",
+    "Boundaries",
+    "settlement boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:32Z",
+  "layer_id_s": "restricted-figgy:8662fd40-6654-46bb-836a-51312df92012",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f5a53230-93d1-448b-9465-0c020649442b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/62f2fe09-38be-44ad-816a-147f8c5b272c/file/3b6f0250-d4a4-4940-8757-1ea0a9b6b986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8662fd40-6654-46bb-836a-51312df92012/file/71fb2933-2f14-46b8-9fd9-bd09ac3c80b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8662fd40-6654-46bb-836a-51312df92012/file/41086c67-81c6-4da7-9017-13d093ed2f36\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

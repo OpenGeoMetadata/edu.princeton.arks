@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mw22v8835",
+  "layer_slug_s": "princeton-mw22v8835",
+  "uuid": "princeton-mw22v8835",
+  "dc_title_s": "Global 2G network operators, 2014",
+  "solr_geom": "ENVELOPE(-180.0, 177.972, 74.786049, -50.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing GSM (2G) mobile network operators within particular countries as of December 2014.",
+  "dc_creator_sm": [
+    "Collins Bartholomew Ltd."
+  ],
+  "dc_subject_sm": [
+    "telephone",
+    "telephones",
+    "telecommunications",
+    "telecom",
+    "mobile",
+    "network",
+    "communications",
+    "operator",
+    "operators",
+    "provider",
+    "providers",
+    "service provider",
+    "service providers",
+    "GSMA",
+    "GSM",
+    "2G",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:09:45Z",
+  "layer_id_s": "restricted-figgy:88086803-b473-44c5-8d37-4d276560ae2e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/87323d50-863f-4919-a459-4743ff54f71a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b39fbff1-f621-4e0a-aad3-279afd8b5aa6/file/d7199f9d-0e08-4536-8463-e11a656dc233\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88086803-b473-44c5-8d37-4d276560ae2e/file/b41f48a2-7883-44b6-b416-0da443a17a16\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88086803-b473-44c5-8d37-4d276560ae2e/file/b2a58f05-f662-45dc-9fee-875adaeb96c0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

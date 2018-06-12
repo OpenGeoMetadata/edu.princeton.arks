@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v692t9606",
+  "layer_slug_s": "princeton-v692t9606",
+  "uuid": "princeton-v692t9606",
+  "dc_title_s": "Lumpkin County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.192861, -83.820967, 34.740945, 34.419025)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lumpkin County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lumpkin",
+    "Lumpkin County",
+    "Georgia",
+    "Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2004"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:37:51Z",
+  "layer_id_s": "restricted-figgy:9693b1e5-d17f-483f-b7ce-aa0fe21199e8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48451016-30b0-4109-9cbd-c14853803d06\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b64ac45-575e-494f-99c3-91a12b2e5305/file/6d2536f5-0e02-4e26-b8d4-ee107b89bba3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9693b1e5-d17f-483f-b7ce-aa0fe21199e8/file/6be2c3f6-1639-40c7-bb8f-4201e439b192\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9693b1e5-d17f-483f-b7ce-aa0fe21199e8/file/2731a24a-1636-446c-9846-934ffbb66baa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

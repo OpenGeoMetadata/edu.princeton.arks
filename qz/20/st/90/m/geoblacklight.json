@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20st90m",
+  "layer_slug_s": "princeton-qz20st90m",
+  "uuid": "princeton-qz20st90m",
+  "dc_title_s": "North Dakota Rivers 2002",
+  "solr_geom": "ENVELOPE(-104.047876, -96.554508, 49.000299, 45.93508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "North Dakota Rivers represents streams and rivers within North Dakota.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "North Dakota"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:44:57Z",
+  "layer_id_s": "restricted-figgy:891d622b-068e-4b26-92ae-4cbd76218035",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d7b2899f-c72c-4925-8c85-6e15f8e0e19d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/444b198e-800a-48e6-bf91-ae63e03f5689/file/386fbb26-de1d-4f22-a73d-ee249c14207d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/891d622b-068e-4b26-92ae-4cbd76218035/file/1bc5b4d3-a2e0-4d77-b3b3-12eeff973044\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/891d622b-068e-4b26-92ae-4cbd76218035/file/fdff8b86-7762-4430-8ea9-3fc535e33db0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

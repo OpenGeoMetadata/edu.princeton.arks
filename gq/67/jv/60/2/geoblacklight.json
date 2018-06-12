@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gq67jv602",
+  "layer_slug_s": "princeton-gq67jv602",
+  "uuid": "princeton-gq67jv602",
+  "dc_title_s": "Northampton County, Pennsylvania roads, 2011",
+  "solr_geom": "ENVELOPE(-75.615414, -75.051933, 40.977001, 40.532586)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Northampton County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Northampton",
+    "Northampton County",
+    "Pennsylvania",
+    "Behlehem",
+    "Delaware River",
+    "Allentown"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:37Z",
+  "layer_id_s": "restricted-figgy:50c7652d-2b0e-48ed-98e8-f7b35c553f5e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cd9f368e-4e27-41ec-bd40-be3bced253ba\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e3ea019-f0a9-4bb8-a4c3-0302b4879382/file/668704e8-05f0-46c2-b2d6-f5177c9d98f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50c7652d-2b0e-48ed-98e8-f7b35c553f5e/file/f3caa44a-1099-4d50-9b8a-33e31323a52b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50c7652d-2b0e-48ed-98e8-f7b35c553f5e/file/4992874c-4286-46ad-97ec-16f467cb3d94\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

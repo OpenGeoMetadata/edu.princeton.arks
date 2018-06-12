@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b4545",
+  "layer_slug_s": "princeton-k643b4545",
+  "uuid": "princeton-k643b4545",
+  "dc_title_s": "Comal County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-98.646274, -98.000057, 30.038016, 29.594239)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Comal County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Comal",
+    "Comal County",
+    "San Antonio"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:26:38Z",
+  "layer_id_s": "restricted-figgy:d04f77de-aab6-4d56-ae80-75f82a5b44e2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6aec8c26-a019-44dc-8f66-7a90a4b68224\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0dd8c86-d3f0-44a5-abc4-e49247f4f6bb/file/042ceafd-7d43-47b9-8991-efd5adb1784d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d04f77de-aab6-4d56-ae80-75f82a5b44e2/file/aeea36da-8dd4-4f74-af20-0a41f9111b9a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d04f77de-aab6-4d56-ae80-75f82a5b44e2/file/7f3e48d0-8671-408d-bd4b-47f449bb8c76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

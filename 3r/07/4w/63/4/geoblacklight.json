@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074w634",
+  "layer_slug_s": "princeton-3r074w634",
+  "uuid": "princeton-3r074w634",
+  "dc_title_s": "Puerto Rico Major Lakes, 2003",
+  "solr_geom": "ENVELOPE(-67.21208, -65.608464, 18.487659, 17.935219)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Puerto Rico created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2003"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:09Z",
+  "layer_id_s": "restricted-figgy:604a7e3a-f878-453b-86ce-98bbe26a45f7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/69bf533f-e61f-40a0-b90a-2522e8bf2fd4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0e8f0480-7b80-4478-a2cb-b0fcd922f10a/file/5a785ac1-0ebc-43de-9b3d-36da5725780b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/604a7e3a-f878-453b-86ce-98bbe26a45f7/file/d4c694ad-2385-452e-be72-88a1868b6711\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/604a7e3a-f878-453b-86ce-98bbe26a45f7/file/7d56dcf7-8179-4440-b058-599b44487a2d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

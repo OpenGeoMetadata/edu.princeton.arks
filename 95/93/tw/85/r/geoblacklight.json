@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tw85r",
+  "layer_slug_s": "princeton-9593tw85r",
+  "uuid": "princeton-9593tw85r",
+  "dc_title_s": "Iceland Cities With Population From 5 Thousand To 10 Thousand, 2005",
+  "solr_geom": "ENVELOPE(-22.069546, -21.011556, 64.319751, 63.928456)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Iceland cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:49Z",
+  "layer_id_s": "restricted-figgy:f9f20619-167d-42c2-ab56-f72f88260528",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8c2c7312-0773-4fd9-b362-2d5002c9d490\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a7319cf-f95e-4ff5-8670-f37336e60d1d/file/f34e53bb-e01c-44df-afea-68e7ed6cd18c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9f20619-167d-42c2-ab56-f72f88260528/file/d660107d-59ce-49a6-b298-627ff5076c74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9f20619-167d-42c2-ab56-f72f88260528/file/21bbd2ae-2abb-43d8-a8b0-449b685b9b7f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

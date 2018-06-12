@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j9602223n",
+  "layer_slug_s": "princeton-j9602223n",
+  "uuid": "princeton-j9602223n",
+  "dc_title_s": "U.S. Geographic Names Information System Golf Locale 2000",
+  "solr_geom": "ENVELOPE(-158.063919, -66.632675, 48.982239, 18.032459)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Golf Locale represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "golf locale",
+    "place name",
+    "geographic feature"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "unkn"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:16:58Z",
+  "layer_id_s": "restricted-figgy:b1345ace-f748-479c-9fee-3d6c6b1a87af",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/708c3c0c-f103-47cb-ba93-1c16cc0dbbcb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d06a887d-1c28-4ed6-b5cf-a5c86a4da7ff/file/c38381ab-ea6d-43c6-a948-affc1ed2d026\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b1345ace-f748-479c-9fee-3d6c6b1a87af/file/b57dda6c-2e39-455e-bf3c-be22c7d8af00\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1345ace-f748-479c-9fee-3d6c6b1a87af/file/4ac6656e-0b90-405a-bc0a-d89b569a874c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

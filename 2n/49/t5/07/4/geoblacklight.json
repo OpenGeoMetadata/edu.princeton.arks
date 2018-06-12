@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t5074",
+  "layer_slug_s": "princeton-2n49t5074",
+  "uuid": "princeton-2n49t5074",
+  "dc_title_s": "St. Clair County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.551848, -86.150637, 33.925462, 33.561791)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of St. Clair County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "St. Clair",
+    "St. Clair County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:13:48Z",
+  "layer_id_s": "restricted-figgy:4279ef08-cac4-4568-9f14-3336be7ebe79",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f4faae63-e596-43f8-811a-eb6ba58a9df0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8b8d091e-3f90-4448-8a22-bf43d1e25cc6/file/46c05310-8f8e-406d-80b5-411db921f586\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4279ef08-cac4-4568-9f14-3336be7ebe79/file/719ed9f7-9486-43f9-8a9c-a08477397268\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4279ef08-cac4-4568-9f14-3336be7ebe79/file/3e252468-ab9c-44d5-b3ab-0a06b532d53d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

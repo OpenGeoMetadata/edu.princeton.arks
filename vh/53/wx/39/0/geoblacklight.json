@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vh53wx390",
+  "layer_slug_s": "princeton-vh53wx390",
+  "uuid": "princeton-vh53wx390",
+  "dc_title_s": "Italy Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(7.54638, 18.172199, 46.4883, 36.855166)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Italy cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:54Z",
+  "layer_id_s": "restricted-figgy:41bda4f1-32f2-4f20-b768-68c555f96e53",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d02ad06e-a80f-4ad1-9a9b-d8760ef0fc5c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d03e6208-2149-48d9-bbb5-8111013d0058/file/a8eed218-8389-4198-a05e-e0751edcb569\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41bda4f1-32f2-4f20-b768-68c555f96e53/file/1996415e-d97f-4ccf-9a0a-e5d2b22208ed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41bda4f1-32f2-4f20-b768-68c555f96e53/file/6843b8b0-1dd7-445c-9afc-93f893824f10\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

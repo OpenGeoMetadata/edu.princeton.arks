@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fx719p028",
+  "layer_slug_s": "princeton-fx719p028",
+  "uuid": "princeton-fx719p028",
+  "dc_title_s": "Canada Telephone Area Code Boundaries 2000",
+  "solr_geom": "ENVELOPE(-141.002121, -52.619172, 83.115061, 41.687971)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Telephone Area Code Boundaries represents the telephone area codes for Canada. The area code boundaries are based on CanMap® municipalities.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "area codes",
+    "telephone"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:45:06Z",
+  "layer_id_s": "restricted-figgy:f5429507-165e-46ec-aba9-0ee7bfe1285e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/83c1e92b-31cc-464e-add5-47ec454f0c6f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1e444764-6c1c-49c8-bd37-903ee2f898f9/file/e9aeda7e-e5ee-49ef-8402-e14adde45246\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5429507-165e-46ec-aba9-0ee7bfe1285e/file/f734ea80-def7-4326-a78c-02aa66d93cad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5429507-165e-46ec-aba9-0ee7bfe1285e/file/68d6b9fe-a2e0-482f-a24d-21fc1d84faa5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

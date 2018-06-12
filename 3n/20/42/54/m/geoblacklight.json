@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n204254m",
+  "layer_slug_s": "princeton-3n204254m",
+  "uuid": "princeton-3n204254m",
+  "dc_title_s": "U.S. National Atlas Water Feature Areas, 2013",
+  "solr_geom": "ENVELOPE(-178.063889, 179.670775, 71.398181, 17.681852)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Water Feature Areas represents the water feature areas (for example, bays, glaciers, lakes, and swamps) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "hydrography",
+    "water",
+    "bays",
+    "glaciers",
+    "lakes",
+    "reservoirs",
+    "streams",
+    "swamps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1995",
+    "2002"
+  ],
+  "solr_year_i": 1995,
+  "layer_modified_dt": "2018-04-05T00:34:30Z",
+  "layer_id_s": "restricted-figgy:2969614f-a466-43e3-9a36-4330da7377b3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4f52ec88-4d92-43fc-8f0c-b044309ba76f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e6db51cb-cf50-426f-818d-80f5cf7ab063/file/d6a4af63-8f16-4a55-9c65-c507da80f905\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2969614f-a466-43e3-9a36-4330da7377b3/file/89e2310e-a4f8-441a-8609-d1829e11deeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2969614f-a466-43e3-9a36-4330da7377b3/file/8b0b7cbd-1212-406a-9aa1-0aefddfec379\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

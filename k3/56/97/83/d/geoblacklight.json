@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k3569783d",
+  "layer_slug_s": "princeton-k3569783d",
+  "uuid": "princeton-k3569783d",
+  "dc_title_s": "King George County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.35422, -77.00057, 38.400484, 38.146197)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in King George County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "King George",
+    "King George County",
+    "Virginia",
+    "Potomac River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:13:17Z",
+  "layer_id_s": "restricted-figgy:70398066-f167-437d-8b5b-b181bf4aa0d8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2da61dfd-4a2d-45d3-a728-d777c2b6fc4c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c8aea63-eeb7-44da-b18e-cc48f635e6d0/file/b671b25d-7812-4dd4-beb6-d9401ae107c6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70398066-f167-437d-8b5b-b181bf4aa0d8/file/f627d0aa-2b10-4c93-b3ac-6e272ffe95fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70398066-f167-437d-8b5b-b181bf4aa0d8/file/616c16da-acff-4476-abcf-7c0469d46d41\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

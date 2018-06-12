@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cv43p1245",
+  "layer_slug_s": "princeton-cv43p1245",
+  "uuid": "princeton-cv43p1245",
+  "dc_title_s": "Pickens County, South Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.933804, -82.476336, 35.085449, 34.60882)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pickens County, South Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pickens",
+    "Pickens County",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:36Z",
+  "layer_id_s": "restricted-figgy:d2900dd1-071e-46fd-b67f-55fc7f2baba2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e63ccf5-2bde-40ae-8b1c-adee64bf27ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0c70b746-6bbe-457d-8734-529d7a3f1756/file/b4332861-c7f7-46ea-a714-edde9f2ce285\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2900dd1-071e-46fd-b67f-55fc7f2baba2/file/30c6a37f-3e19-4006-b10b-c3c7c6157f69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2900dd1-071e-46fd-b67f-55fc7f2baba2/file/910c715e-6d8a-4c4d-afda-8a5fbe26d29e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

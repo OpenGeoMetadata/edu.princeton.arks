@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p808r",
+  "layer_slug_s": "princeton-z029p808r",
+  "uuid": "princeton-z029p808r",
+  "dc_title_s": "Lamar County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.269724, -84.039975, 33.203901, 32.929597)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lamar County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lamar County",
+    "Lamar",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:12:30Z",
+  "layer_id_s": "restricted-figgy:73f27ab0-0da8-47ee-99d6-24e8e6043a53",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8086bf82-dd2c-4073-8a8a-5257742144f9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fea5f834-165f-464a-8d38-294501bbcee7/file/d65b624d-7ad2-4898-b159-170375834623\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73f27ab0-0da8-47ee-99d6-24e8e6043a53/file/7f70376d-6830-4a1e-8a38-420f630b4761\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73f27ab0-0da8-47ee-99d6-24e8e6043a53/file/e776e51a-3f12-4a72-bb87-610dbd560ab7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

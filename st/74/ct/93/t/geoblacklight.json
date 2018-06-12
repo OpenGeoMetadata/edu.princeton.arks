@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/st74ct93t",
+  "layer_slug_s": "princeton-st74ct93t",
+  "uuid": "princeton-st74ct93t",
+  "dc_title_s": "Person County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-79.154743, -78.789505, 36.54414, 36.230081)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Person County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Person County",
+    "Person",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:04Z",
+  "layer_id_s": "restricted-figgy:a4b5fe1a-9f38-472c-8e2a-709b8548f855",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4093940a-3ab8-49b0-8220-d676f9073a6b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d66f2a40-ee1c-4d37-b517-3563014662e0/file/b65c8da5-f191-4145-b0cc-7a23e8a6f67d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4b5fe1a-9f38-472c-8e2a-709b8548f855/file/6779da6d-b8ba-44c4-a507-b1cc39ce9d9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4b5fe1a-9f38-472c-8e2a-709b8548f855/file/8ea89807-f59e-4be4-a6e8-e350fe369d6e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xg94hs985",
+  "layer_slug_s": "princeton-xg94hs985",
+  "uuid": "princeton-xg94hs985",
+  "dc_title_s": "Imperial County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-116.107012, -114.462357, 33.433787, 32.618634)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Imperial County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Imperial",
+    "Imperial County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:57Z",
+  "layer_id_s": "restricted-figgy:d9ad0389-fa11-4a46-b590-d559318ae395",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/df6b89a2-a0e1-4c77-8a1b-da957a3efc47\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8d6b08ac-3bc6-4dd8-b119-3e207fab8fc0/file/51091186-7ebc-4370-89a3-31da782970b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9ad0389-fa11-4a46-b590-d559318ae395/file/0dd92b27-fc3e-4464-8c07-c3c7b5e21c12\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9ad0389-fa11-4a46-b590-d559318ae395/file/13cc4cc4-6a5f-46a8-a17b-34fdc59f2acb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f4628837",
+  "layer_slug_s": "princeton-3f4628837",
+  "uuid": "princeton-3f4628837",
+  "dc_title_s": "Cass County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.581763, -86.165082, 40.910851, 40.561321)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cass County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cass County",
+    "Cass",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:29Z",
+  "layer_id_s": "restricted-figgy:959d1d16-8660-468a-9e0a-687ffeab3ba4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5cf7394-9675-485d-b0e4-83fa8702d5c4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/236777dd-c6bf-4171-b99d-d08375e6f6b2/file/d3d255aa-1003-4fba-9ee2-38de0239c6af\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/959d1d16-8660-468a-9e0a-687ffeab3ba4/file/bf6f50b3-81e1-4dcc-a55d-8115df12a6eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/959d1d16-8660-468a-9e0a-687ffeab3ba4/file/6ae3495d-01be-45ba-9b99-4f9733c1d500\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

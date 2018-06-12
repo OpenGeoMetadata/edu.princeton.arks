@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq53b",
+  "layer_slug_s": "princeton-3197xq53b",
+  "uuid": "princeton-3197xq53b",
+  "dc_title_s": "Inyo County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-118.748128, -115.647683, 37.465304, 35.786762)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Inyo County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Inyo County",
+    "California",
+    "Inyo"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:13:16Z",
+  "layer_id_s": "restricted-figgy:0fbeb806-b092-4c82-9c1b-d30f41e8bb4d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/40710e0e-a1c1-4409-9d04-84a31ff01cc3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ebb5c266-58ed-4908-81ff-ec2681655a6c/file/1da41352-b686-4146-a409-cfd50fd83dbd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fbeb806-b092-4c82-9c1b-d30f41e8bb4d/file/7a98a1e4-55ff-46ee-8c1c-15471dc97e2c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fbeb806-b092-4c82-9c1b-d30f41e8bb4d/file/4b0bb741-978d-4e46-9892-83cb53d0aa52\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

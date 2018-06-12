@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sn00b2257",
+  "layer_slug_s": "princeton-sn00b2257",
+  "uuid": "princeton-sn00b2257",
+  "dc_title_s": "Jefferson County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-84.076416, -83.604103, 30.672132, 30.085045)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Jefferson",
+    "Jefferson County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:12:14Z",
+  "layer_id_s": "restricted-figgy:55ff2534-3d11-4393-9755-bc41915fafab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/59ef042e-6d3b-43f9-9d72-37b8e57c98d6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cf904b4f-ddcc-4b5c-b2da-e6c9d8c7fa4f/file/5297a632-a019-431f-8000-fbfb14dfe593\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55ff2534-3d11-4393-9755-bc41915fafab/file/8d51f40a-617e-477a-8ff4-a82c7a9a41d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55ff2534-3d11-4393-9755-bc41915fafab/file/da1945e4-4ec1-4d72-90b9-836aeb6a54b3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

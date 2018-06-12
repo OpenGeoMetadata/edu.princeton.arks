@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zp38wh02h",
+  "layer_slug_s": "princeton-zp38wh02h",
+  "uuid": "princeton-zp38wh02h",
+  "dc_title_s": "Montgomery County, Texas roads, 2014",
+  "solr_geom": "ENVELOPE(-95.829039, -95.097823, 30.621048, 30.035564)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Montgomery County, Texas, 2014.The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery County",
+    "Texas",
+    "Houston",
+    "The Woodlands",
+    "Sugar Land",
+    "Montgomery"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:29Z",
+  "layer_id_s": "restricted-figgy:67d781e0-f57d-4f9c-b6c7-806a70291542",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5126ab70-a36a-42b0-87ba-b1b5e77b6b5b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3dadc86-2015-4179-9e1d-082efe691472/file/867c3f33-de55-4dd5-8fd1-dca6966e6794\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67d781e0-f57d-4f9c-b6c7-806a70291542/file/d8fa360b-bdcc-49eb-8301-cfd976c3445b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67d781e0-f57d-4f9c-b6c7-806a70291542/file/c577d036-dbc4-4aff-9955-736baeb5ebfa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

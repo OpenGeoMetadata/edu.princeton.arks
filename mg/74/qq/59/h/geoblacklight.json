@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mg74qq59h",
+  "layer_slug_s": "princeton-mg74qq59h",
+  "uuid": "princeton-mg74qq59h",
+  "dc_title_s": "Clarke County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.179919, -87.500572, 31.991401, 31.18575)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clarke County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Clarke",
+    "Clarke County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:03Z",
+  "layer_id_s": "restricted-figgy:a7fec198-d18b-4da1-a476-0f278f158e98",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/415edd4a-dd83-4f2e-a20a-be52f3f7dcb3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f732b63a-d35d-425c-ae3f-873bea733a8a/file/51510281-bda4-4ff3-9583-4dadb3157f04\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7fec198-d18b-4da1-a476-0f278f158e98/file/fcc3607e-44ac-4af7-8905-15297ee2e4e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7fec198-d18b-4da1-a476-0f278f158e98/file/55da22c6-0848-4657-a24e-a73be484cff4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc16h",
+  "layer_slug_s": "princeton-5425kc16h",
+  "uuid": "princeton-5425kc16h",
+  "dc_title_s": "Lancaster County, South Carolina land parcels, 2007",
+  "solr_geom": "ENVELOPE(-80.909647, -80.408487, 35.07763, 34.457892)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lancaster County, South Carolina",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Lancaster",
+    "Lancaster County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:47:51Z",
+  "layer_id_s": "restricted-figgy:d38b60f2-7241-4ef0-a88a-e637dcf92894",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dc253713-a0e4-4be4-91c5-7ff4fb145e3b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/77ea50df-37b6-404b-8f31-6a7aaf8bf729/file/426b38c7-be05-4039-9d2b-981d8aaab163\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d38b60f2-7241-4ef0-a88a-e637dcf92894/file/693c4833-dc75-4145-bfb1-d1b7a49c9aaa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d38b60f2-7241-4ef0-a88a-e637dcf92894/file/396a4edb-9813-4a31-b254-aa4c18a220fe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

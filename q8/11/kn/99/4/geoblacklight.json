@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q811kn994",
+  "layer_slug_s": "princeton-q811kn994",
+  "uuid": "princeton-q811kn994",
+  "dc_title_s": "Union County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.84034, -80.276795, 35.208409, 34.813807)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Union",
+    "Union County",
+    "Charlotte"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:26Z",
+  "layer_id_s": "restricted-figgy:185eebea-1213-48e1-8897-5f66aa1cd8d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6158e765-8cd5-4d9e-ae49-8f484fdd8b7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ec24c43c-a0d6-4142-a501-d22bfc370586/file/4f48c3ec-04e8-4572-9821-84ce860850dd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/185eebea-1213-48e1-8897-5f66aa1cd8d7/file/17105c19-0d8a-421b-899f-d186ffc64ae1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/185eebea-1213-48e1-8897-5f66aa1cd8d7/file/ed509ca3-b37a-453b-a596-7ed42a4c3932\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

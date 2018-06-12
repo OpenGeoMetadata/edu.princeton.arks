@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff365872j",
+  "layer_slug_s": "princeton-ff365872j",
+  "uuid": "princeton-ff365872j",
+  "dc_title_s": "Laramie County, Wyoming roads, 2014",
+  "solr_geom": "ENVELOPE(-105.280662, -104.052286, 41.656642, 40.998066)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Laramie County, Wyoming, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Wyoming",
+    "Laramie",
+    "Laramie County",
+    "Cheyenne"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:00Z",
+  "layer_id_s": "restricted-figgy:55f9ca45-6697-4cdc-b078-59906a5278cf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99c774fd-691a-460a-9cd4-c257af6be849\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9f124ad4-6c1b-497a-9701-16923238a8b7/file/caaa10d4-87f0-4c27-b4a8-2a99e9b6ffb5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55f9ca45-6697-4cdc-b078-59906a5278cf/file/3b5441f8-f2c3-47b9-a0ce-3cc7f5081764\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55f9ca45-6697-4cdc-b078-59906a5278cf/file/03f0f4ac-a149-4c43-8eff-bd77f9e418d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w69g",
+  "layer_slug_s": "princeton-12579w69g",
+  "uuid": "princeton-12579w69g",
+  "dc_title_s": "Winneshiek County, Iowa land parcels, 2011",
+  "solr_geom": "ENVELOPE(-92.081283, -91.603955, 43.50089, 43.081698)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Winneshiek County, Iowa, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Winneshiek",
+    "Winneshiek County",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:58Z",
+  "layer_id_s": "restricted-figgy:8b49ff8e-9cf1-41ca-bb4d-acf332d161c0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/80f659f1-c30e-4401-b67d-63a09a1f5bd3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7fc5b454-5f3d-42a9-8a2a-0edf3e41290f/file/0ae108a4-dbb8-4caf-850c-a038b7acef9d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b49ff8e-9cf1-41ca-bb4d-acf332d161c0/file/bb492cf0-d580-422b-b8fe-b0e3e098ba59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b49ff8e-9cf1-41ca-bb4d-acf332d161c0/file/eb0df37d-1782-4b0f-afc0-0976fa2b89fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

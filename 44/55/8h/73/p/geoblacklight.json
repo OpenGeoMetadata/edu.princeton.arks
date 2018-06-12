@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/44558h73p",
+  "layer_slug_s": "princeton-44558h73p",
+  "uuid": "princeton-44558h73p",
+  "dc_title_s": "Pickaway County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.266808, -82.731524, 39.812471, 39.46807)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pickaway County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pickaway",
+    "Pickaway County",
+    "Ohio",
+    "Columbus"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:02Z",
+  "layer_id_s": "restricted-figgy:49b650c7-d222-4406-92b3-44ea422b0fa1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/176056a4-9ef2-4737-afdb-dd7fce631f63\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8fb6813a-4322-48fa-82d5-1abb78eae580/file/930a9ab1-37af-44a0-b1a0-c4c832d95717\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49b650c7-d222-4406-92b3-44ea422b0fa1/file/f72bedff-c27a-42cf-a721-e464dfa22e06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49b650c7-d222-4406-92b3-44ea422b0fa1/file/3d27f10e-26eb-46a4-a3f9-6fc64fc7b4a4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f929z",
+  "layer_slug_s": "princeton-gb19f929z",
+  "uuid": "princeton-gb19f929z",
+  "dc_title_s": "Meagher County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.658143, -110.272998, 47.088301, 46.184368)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Meagher County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Meagher",
+    "Meagher County",
+    "Montana",
+    "Lewis and Clark National Forest",
+    "Helena National Forest",
+    "Gallatin National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:11Z",
+  "layer_id_s": "restricted-figgy:0f4fa730-cd25-4a78-bf69-663869a6b846",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/43f69275-8577-4146-bb37-c47c777130b3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7b290e76-2985-4914-a26f-0b978efa55cd/file/d81e3165-dd25-4671-ae74-9ad8582a1ac5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f4fa730-cd25-4a78-bf69-663869a6b846/file/60dbd7ab-93a4-4e56-8ca6-92d386630a07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f4fa730-cd25-4a78-bf69-663869a6b846/file/59641fdc-3cf6-4e90-bfa3-211406859ad9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

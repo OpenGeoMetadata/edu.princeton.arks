@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jw17w",
+  "layer_slug_s": "princeton-8910jw17w",
+  "uuid": "princeton-8910jw17w",
+  "dc_title_s": "Marion County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-82.535946, -81.639041, 29.519906, 28.959897)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Marion",
+    "Marion County",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:43Z",
+  "layer_id_s": "restricted-figgy:bcd244a2-0d5f-4a2d-8b86-14673a289c4d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/059662a4-ce6b-4cdd-aaf4-99a71c748db3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0dc0533d-0c3e-46aa-80c4-f929cd4bd485/file/5f5e6f2c-9017-436f-b930-5e4dcac7036c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcd244a2-0d5f-4a2d-8b86-14673a289c4d/file/0db2a7cc-edfb-4791-8046-bf4980cc58a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcd244a2-0d5f-4a2d-8b86-14673a289c4d/file/1fe8f37a-dd07-4365-9235-dac04cffc91f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

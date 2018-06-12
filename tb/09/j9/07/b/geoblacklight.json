@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j907b",
+  "layer_slug_s": "princeton-tb09j907b",
+  "uuid": "princeton-tb09j907b",
+  "dc_title_s": "Dallas County, Texas roads, 2014",
+  "solr_geom": "ENVELOPE(-97.037795, -96.51687, 32.989327, 32.545386)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Dallas County, Texas, 2014.The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Dallas",
+    "Dallas County",
+    "Texas",
+    "Richardson",
+    "Garland",
+    "Carrollton",
+    "Irving",
+    "Grand Prairie",
+    "Lewisville",
+    "Mesquite"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:51Z",
+  "layer_id_s": "restricted-figgy:c2ea617c-962c-42fd-9353-81d8325d512e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1b863edf-310d-49ee-a7b7-45d554d7b4c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aae18b6f-dfe7-4841-b5a1-9a7135008580/file/f0aa0640-29aa-4e5d-8eb9-00cf926f3aac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2ea617c-962c-42fd-9353-81d8325d512e/file/4b561586-d334-4425-8509-268ecc076586\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2ea617c-962c-42fd-9353-81d8325d512e/file/aef0a55f-0d0d-4554-9c2f-73dc3af42095\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207tq792",
+  "layer_slug_s": "princeton-r207tq792",
+  "uuid": "princeton-r207tq792",
+  "dc_title_s": "Czech Republic 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(12.090395, 18.863887, 51.055699, 48.551563)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Czech Republic 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:01Z",
+  "layer_id_s": "restricted-figgy:4a2fb978-89dc-4221-b6f4-e3d3b6d03061",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/52e9f606-d028-444f-aaf8-9838053de897\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a8af75b1-9958-49d9-bd17-ea16868d2faf/file/b5549ff7-3584-458b-afcb-3e25f7753efa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a2fb978-89dc-4221-b6f4-e3d3b6d03061/file/d67b4752-f9cd-4acd-bcaa-c5c8ed07e80d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a2fb978-89dc-4221-b6f4-e3d3b6d03061/file/296b759f-e159-4324-b928-dc8592ca1b61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

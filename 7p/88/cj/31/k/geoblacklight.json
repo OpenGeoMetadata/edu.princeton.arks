@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7p88cj31k",
+  "layer_slug_s": "princeton-7p88cj31k",
+  "uuid": "princeton-7p88cj31k",
+  "dc_title_s": "Morton County, North Dakota land parcels, 2009",
+  "solr_geom": "ENVELOPE(-102.097183, -100.545937, 46.982822, 46.284427)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Morton County, North Dakota, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Dakota",
+    "Morton",
+    "Morton County",
+    "Bismarck",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:09:33Z",
+  "layer_id_s": "restricted-figgy:bb441099-b9cb-47b5-b016-9839bd066183",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9c55ec8a-836d-47c5-bfe3-537efb8f8f2e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bb0fd5b9-1f54-4173-9a88-48abd4203a88/file/421b3572-bf4c-475c-8149-1be6567c00f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb441099-b9cb-47b5-b016-9839bd066183/file/f21ce581-df78-4c1d-a0a5-e144b3fce52b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb441099-b9cb-47b5-b016-9839bd066183/file/2dc80391-9bac-41cd-b518-6e5f75d1cec0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

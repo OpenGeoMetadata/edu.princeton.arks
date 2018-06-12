@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712m9945",
+  "layer_slug_s": "princeton-5712m9945",
+  "uuid": "princeton-5712m9945",
+  "dc_title_s": "Gregg County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-94.986868, -94.579415, 32.665837, 32.336958)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gregg County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gregg County",
+    "Gregg",
+    "Texas",
+    "Longview"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:24Z",
+  "layer_id_s": "restricted-figgy:2408fff4-f496-4ab8-a1c4-936226bef5f4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/05895b4b-999e-4776-8821-04a6ad6ed35c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/30fd1252-917e-449d-8910-fe36ee4c8198/file/16237992-f233-42f5-a3b0-825a4b888de8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2408fff4-f496-4ab8-a1c4-936226bef5f4/file/78e7d5e5-5e37-45b7-bcca-a25bab2625c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2408fff4-f496-4ab8-a1c4-936226bef5f4/file/a6961f80-2546-4ae8-a444-92625da8b0b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

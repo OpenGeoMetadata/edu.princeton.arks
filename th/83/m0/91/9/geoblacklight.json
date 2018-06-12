@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m0919",
+  "layer_slug_s": "princeton-th83m0919",
+  "uuid": "princeton-th83m0919",
+  "dc_title_s": "Arizona Block Groups 2002",
+  "solr_geom": "ENVELOPE(-114.816591, -109.045223, 37.004261, 31.332178)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Arizona Block Groups represents the U.S. Census block groups of Arizona.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Arizona"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:eb7c676a-c2fc-40a4-804d-86d84aad8095",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fd04b2c5-4112-4e67-a074-e0d5679964ee\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c20c6c3-9123-4182-91fa-2fb6554913d6/file/78a68454-a1a9-4bd6-b7cf-8305f97ae96d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb7c676a-c2fc-40a4-804d-86d84aad8095/file/814941a4-8e1f-4f9c-8992-7e8e6d3a07b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb7c676a-c2fc-40a4-804d-86d84aad8095/file/c7b08158-f489-4465-bf5e-781651b8a90e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

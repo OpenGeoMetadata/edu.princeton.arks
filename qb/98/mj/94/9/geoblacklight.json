@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj949",
+  "layer_slug_s": "princeton-qb98mj949",
+  "uuid": "princeton-qb98mj949",
+  "dc_title_s": "Oxford County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-70.96817, -70.391735, 44.615953, 44.06038)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Oxford County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oxford",
+    "Oxford County",
+    "Maine",
+    "White Mountain National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:40Z",
+  "layer_id_s": "restricted-figgy:24928b16-7176-4d2b-acb9-fb85492de4af",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5cea4eb7-b02d-4562-98a2-3890e4adb549\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/01e3cb47-ef40-4a0c-98c1-6c84390445f5/file/5457d32c-e18c-46dc-b1da-2d5c0ada706e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24928b16-7176-4d2b-acb9-fb85492de4af/file/2b912c23-95cb-4d16-bb52-41ba01e36862\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24928b16-7176-4d2b-acb9-fb85492de4af/file/830adf76-c8d6-41e3-a905-9dda2b9f0f8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

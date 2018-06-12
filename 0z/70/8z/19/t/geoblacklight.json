@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z708z19t",
+  "layer_slug_s": "princeton-0z708z19t",
+  "uuid": "princeton-0z708z19t",
+  "dc_title_s": "Bosnia-Herzegovina 2-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(15.72117, 19.622772, 45.277027, 42.560511)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Bosnia-Herzegovina 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Bosnia-Herzegovina",
+    "Bosnia",
+    "Herzegovina"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:20Z",
+  "layer_id_s": "restricted-figgy:54c55508-87ea-4482-957b-3c4d8433dc3e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/61891cee-b00a-4f39-93ab-4d42f87c748c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/37b108a6-8772-4671-8eb7-84f0bb2b715d/file/2c45a442-9bd0-4df2-9441-af9c38fa67fd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54c55508-87ea-4482-957b-3c4d8433dc3e/file/68c922b7-0d12-4ec1-8ae2-83ed2a7f4f90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54c55508-87ea-4482-957b-3c4d8433dc3e/file/25fc18f8-4429-48ac-98d8-b54ccbd196d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

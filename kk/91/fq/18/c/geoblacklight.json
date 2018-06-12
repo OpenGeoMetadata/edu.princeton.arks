@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fq18c",
+  "layer_slug_s": "princeton-kk91fq18c",
+  "uuid": "princeton-kk91fq18c",
+  "dc_title_s": "Shelby County, Alabama land parcels, 2013",
+  "solr_geom": "ENVELOPE(-87.026035, -86.341985, 33.546124, 33.019361)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shelby County, Alabama, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Shelby",
+    "Shelby County",
+    "Alabama",
+    "Birmingham"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-06-06T19:26:40Z",
+  "layer_id_s": "restricted-figgy:6bccaf5c-c947-4b1d-af43-a077743ba6a5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/400cc624-cbe4-433b-b097-e502c44f711a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ee4ac639-e3ce-480a-8d7f-42b4a0e4ef6e/file/5327a458-0b48-4c54-8f91-2bf9420ba15c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6bccaf5c-c947-4b1d-af43-a077743ba6a5/file/fbac05ed-2e7b-4312-8e62-284a0214ba35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6bccaf5c-c947-4b1d-af43-a077743ba6a5/file/028e33b0-a88c-49ab-b262-05f4c37a25fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

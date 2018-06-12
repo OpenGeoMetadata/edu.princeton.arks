@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dz97s",
+  "layer_slug_s": "princeton-4m90dz97s",
+  "uuid": "princeton-4m90dz97s",
+  "dc_title_s": "Cumberland County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.419234, -74.852184, 39.568772, 39.176013)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cumberland County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cumberland",
+    "Cumberland County",
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:37:11Z",
+  "layer_id_s": "restricted-figgy:29b24700-d65c-46af-9af8-05b4cc31378b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8911ed40-9428-427a-a562-b1de2fd4acdf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61aef269-7096-46bd-a879-be9d1e29815e/file/86515abe-9bf2-4438-b0b3-fb9ff7c217d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29b24700-d65c-46af-9af8-05b4cc31378b/file/b52819a7-5259-4978-ab53-0739c67c92f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29b24700-d65c-46af-9af8-05b4cc31378b/file/8d9bd0f0-048d-4be2-8d6f-636579c9a932\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

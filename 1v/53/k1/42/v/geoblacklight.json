@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1v53k142v",
+  "layer_slug_s": "princeton-1v53k142v",
+  "uuid": "princeton-1v53k142v",
+  "dc_title_s": "Modoc County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-121.457132, -119.998307, 41.997511, 41.183838)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Modoc County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Modoc",
+    "Modoc County",
+    "California",
+    "Modoc National Forest",
+    "Goose Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:24Z",
+  "layer_id_s": "restricted-figgy:6b7dff54-b770-4181-882e-3c70fbca74cc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2ae6113f-57ce-4806-805a-6935c48ee3e3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5bbfda74-953d-4d3a-89c1-d5b21b4fead1/file/71cd92d2-051a-4aea-98f9-d9b6b4038706\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b7dff54-b770-4181-882e-3c70fbca74cc/file/7924ae50-989f-427f-a88e-7e47977a58f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b7dff54-b770-4181-882e-3c70fbca74cc/file/3b9c0d32-3f5a-4aaf-8945-ac69eb765578\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

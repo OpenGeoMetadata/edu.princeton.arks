@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pz50h056f",
+  "layer_slug_s": "princeton-pz50h056f",
+  "uuid": "princeton-pz50h056f",
+  "dc_title_s": "Yadkin County, North Carolina land parcels, 2012",
+  "solr_geom": "ENVELOPE(-80.883964, -80.432333, 36.287343, 36.044906)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yadkin County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Yadkin",
+    "Yadkin County",
+    "North Carolina",
+    "Winston-Salem"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:36:41Z",
+  "layer_id_s": "restricted-figgy:d985880b-8cce-48d1-a836-f17c4c848e27",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22f14b27-f2c1-465f-b231-b661ada61e52\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e051df02-28b9-4674-8d79-c5cd2cac8036/file/ca2b597a-637e-492f-87bb-cb0d826019f7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d985880b-8cce-48d1-a836-f17c4c848e27/file/0d299493-6538-4db5-b466-fd63ab4db86c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d985880b-8cce-48d1-a836-f17c4c848e27/file/7b8368d8-f205-482b-81f4-2ed0f42b4991\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

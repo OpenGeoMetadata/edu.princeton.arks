@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj32r",
+  "layer_slug_s": "princeton-3484zj32r",
+  "uuid": "princeton-3484zj32r",
+  "dc_title_s": "Washington Rivers 2002",
+  "solr_geom": "ENVELOPE(-124.73223, -116.966667, 49.002368, 45.555202)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Washington Rivers represents streams and rivers within Washington.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:59:10Z",
+  "layer_id_s": "restricted-figgy:2427794d-e8e6-4128-9ade-c2c4dedc5491",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dd113d7d-1ddb-45a4-a649-2aa9090a7436\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/53dcd5d9-e48c-4048-832a-8a35a18f39c9/file/ec0da315-dca7-4a12-85eb-185fd55beabc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2427794d-e8e6-4128-9ade-c2c4dedc5491/file/7c5b86b1-66cd-4ced-b6fe-75a6dad1916d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2427794d-e8e6-4128-9ade-c2c4dedc5491/file/a4d448fa-8c57-4f6a-bf3c-935b05c54a1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

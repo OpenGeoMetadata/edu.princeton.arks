@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526g878",
+  "layer_slug_s": "princeton-s7526g878",
+  "uuid": "princeton-s7526g878",
+  "dc_title_s": "Franklin County, Ohio roads, 2011",
+  "solr_geom": "ENVELOPE(-83.255261, -82.751973, 40.142411, 39.794926)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Franklin County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Franklin",
+    "Franklin County",
+    "Ohio",
+    "Columbus",
+    "Scioto River",
+    "Olentangy River",
+    "Big Darby Creek",
+    "Hoover Reservoir",
+    "Griggs Reservoir",
+    "Ohio State University"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:24Z",
+  "layer_id_s": "restricted-figgy:5e256876-10ea-4916-9708-08409b2a96aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c653dbe0-7976-466c-a849-ba9c942d0b94\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f08cb839-2ed3-4125-aa27-9e8e831fd52d/file/ba501407-db1f-4996-899e-24e42c416bb8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e256876-10ea-4916-9708-08409b2a96aa/file/193adc97-898c-4ad3-a500-425ba3c6832b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e256876-10ea-4916-9708-08409b2a96aa/file/7bf45b3c-3e3b-47b3-ab99-58513d45d498\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

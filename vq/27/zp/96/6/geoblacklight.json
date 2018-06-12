@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zp966",
+  "layer_slug_s": "princeton-vq27zp966",
+  "uuid": "princeton-vq27zp966",
+  "dc_title_s": "U.S. Counties 2002",
+  "solr_geom": "ENVELOPE(-178.227822, -66.949831, 71.38269, 18.910842)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Counties represents the counties of the United States in the fifty states and the District of Columbia.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "area",
+    "demographics",
+    "population",
+    "households",
+    "farm information",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Counties",
+    "Counties"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001",
+    "1997",
+    "1999"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:f1a789ce-4494-4215-82be-635b2d6a70e8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c495d207-1d6d-48d1-90ab-1afdcdec6ac8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab4b6f97-4438-4b04-9b05-d7fcf4ad8c50/file/3d39c85a-5435-428c-b7f9-17704d56a1b2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a789ce-4494-4215-82be-635b2d6a70e8/file/2213ea11-c8e7-4083-ac9e-e4bae8b72f37\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a789ce-4494-4215-82be-635b2d6a70e8/file/dcd6e0de-c680-44f9-8f70-b63ca2e8a071\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

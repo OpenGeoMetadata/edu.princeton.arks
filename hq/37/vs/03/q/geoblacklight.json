@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hq37vs03q",
+  "layer_slug_s": "princeton-hq37vs03q",
+  "uuid": "princeton-hq37vs03q",
+  "dc_title_s": "Norfolk County, Massachusetts land parcels, 2011",
+  "solr_geom": "ENVELOPE(-71.503069, -70.782365, 42.351736, 41.984999)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Norfolk County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Norfolk",
+    "Norfolk County",
+    "Massachusetts",
+    "Quincy",
+    "Boston"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:33Z",
+  "layer_id_s": "restricted-figgy:8e4b00d7-8acf-43dc-aa81-5937e2a13e9a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/166e7cb5-19bb-4e18-a950-ebcc0460d6ee\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aba9ddeb-0ebf-40c7-9738-33c96439dbf2/file/3ea9d840-35ef-4e54-989a-ec8cc60bce82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e4b00d7-8acf-43dc-aa81-5937e2a13e9a/file/d5e64190-6416-4eff-8691-23e5009857b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e4b00d7-8acf-43dc-aa81-5937e2a13e9a/file/552dec03-8f34-448d-b680-5c5439373f75\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

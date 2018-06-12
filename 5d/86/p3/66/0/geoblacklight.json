@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5d86p3660",
+  "layer_slug_s": "princeton-5d86p3660",
+  "uuid": "princeton-5d86p3660",
+  "dc_title_s": "Cherokee County, North Carolina roads, 2012",
+  "solr_geom": "ENVELOPE(-84.357892, -83.676539, 35.279161, 34.968151)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Cherokee County, North Carolina, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Cherokee",
+    "Cherokee County",
+    "North Carolina",
+    "Nantahala National Forest",
+    "Cherokee Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:35:33Z",
+  "layer_id_s": "restricted-figgy:8e20d602-1131-4d0c-b70d-360b16a198a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b82a896e-4814-4db6-9312-663b1205c097\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/faaa6f47-e2ce-4c40-943b-6fcc4f832dd5/file/43a15001-ba41-4706-a466-64b2e990cfd3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e20d602-1131-4d0c-b70d-360b16a198a3/file/48538fe3-1d4f-4783-baec-9e01e8b64d80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e20d602-1131-4d0c-b70d-360b16a198a3/file/213e6de0-8a72-44af-b35f-735e5bb10cca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

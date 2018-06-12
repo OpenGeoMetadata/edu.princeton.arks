@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dz99r",
+  "layer_slug_s": "princeton-4m90dz99r",
+  "uuid": "princeton-4m90dz99r",
+  "dc_title_s": "Mecklenburg County, North Carolina, 2007",
+  "solr_geom": "ENVELOPE(-81.057949, -80.55011, 35.514809, 35.002592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mecklenburg County, North Carolina, 2007. Property related information, including parcel and lot boundaries and right-of-way lines.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "cadastral",
+    "tax maps",
+    "land records",
+    "tax administration",
+    "tax collection",
+    "MCLRM",
+    "Property Assessment and Land Records Management",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Mecklenburg",
+    "Mecklenburg County",
+    "Charlotte"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T01:12:36Z",
+  "layer_id_s": "restricted-figgy:a4ff30fd-e668-4380-ab3b-894830e83ff8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c28abf56-de97-406d-9760-f6dbd94d6a58\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/43a45690-a888-4957-8153-fbc7e9b1ce2f/file/3fc31c76-ad0a-420a-a71e-54e3384834f5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4ff30fd-e668-4380-ab3b-894830e83ff8/file/9707dde6-46f5-4167-bdfe-56972383ecfd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4ff30fd-e668-4380-ab3b-894830e83ff8/file/ebecc89e-de8b-4b24-9468-79e93e0c7157\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

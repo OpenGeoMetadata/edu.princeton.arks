@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6395w8681",
+  "layer_slug_s": "princeton-6395w8681",
+  "uuid": "princeton-6395w8681",
+  "dc_title_s": "U.S. Counties, 2013",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Counties represents the counties of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "area",
+    "detail",
+    "demographics",
+    "population",
+    "households",
+    "Farming",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Counties",
+    "Counties",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010",
+    "2007",
+    "2012"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:58:07Z",
+  "layer_id_s": "restricted-figgy:8e7eb882-07d4-47b8-9ff3-558d7315978b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/327488c4-da77-4490-a2ba-d06b6cb9e45b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b15344b7-941e-4b5a-9531-5cc9663e4c1e/file/8cebfb61-9c3f-462f-93e0-c46c3bb58662\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8e7eb882-07d4-47b8-9ff3-558d7315978b/file/60251e89-a395-4bb9-b312-3fb9ecd8e7d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8e7eb882-07d4-47b8-9ff3-558d7315978b/file/30832eea-f7ba-4393-8251-8f1ff1a53796\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

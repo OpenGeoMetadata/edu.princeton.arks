@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bk128c42z",
+  "layer_slug_s": "princeton-bk128c42z",
+  "uuid": "princeton-bk128c42z",
+  "dc_title_s": "Poland Major Rivers, 2005",
+  "solr_geom": "ENVELOPE(14.12218, 24.145496, 54.721492, 49.000789)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Poland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "restricted-figgy:3a5ed574-3e93-4336-b1bb-53617db1e0d5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/92eb0cee-c085-4de0-ac4e-4230df07eb38\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d221251a-e2b3-4047-8860-964393a5e5cc/file/b5428a24-35aa-41d3-9425-47a5bb5dc469\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a5ed574-3e93-4336-b1bb-53617db1e0d5/file/75d78e36-3dcc-43e1-8965-c2b29d1e5b4a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a5ed574-3e93-4336-b1bb-53617db1e0d5/file/f20845c5-5e6f-41cb-a087-360f7984d07d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8623j236w",
+  "layer_slug_s": "princeton-8623j236w",
+  "uuid": "princeton-8623j236w",
+  "dc_title_s": "Juab County, Utah land parcels, 2012",
+  "solr_geom": "ENVELOPE(-112.131734, -111.584047, 39.981907, 39.3145)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in parts of Juab County, Utah, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Juab",
+    "Juab County",
+    "Utah",
+    "Provo",
+    "Orem"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:49Z",
+  "layer_id_s": "restricted-figgy:7b392c30-9c40-4da9-b4cd-064f2459d290",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5d132a92-b68a-48ad-8657-7066453a7aa8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9fa94503-082f-4f19-b9d1-107391afa472/file/fc285724-8f6f-4bcb-965d-87cd7db8ce6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b392c30-9c40-4da9-b4cd-064f2459d290/file/bbffb637-ec25-486a-ba39-ec9a15c66bfe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b392c30-9c40-4da9-b4cd-064f2459d290/file/bde31b29-9944-4b42-9225-fd71422a377c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

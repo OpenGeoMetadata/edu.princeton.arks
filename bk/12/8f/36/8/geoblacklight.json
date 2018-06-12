@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bk128f368",
+  "layer_slug_s": "princeton-bk128f368",
+  "uuid": "princeton-bk128f368",
+  "dc_title_s": "Park County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.046725, -109.798484, 46.192795, 44.992174)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Park County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Park",
+    "Park County",
+    "Montana",
+    "Yellowstone National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:13Z",
+  "layer_id_s": "restricted-figgy:b90a99f2-8a13-4d63-b6f2-d78cebefc233",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ea23990f-408d-433c-9719-a2871fcec7c9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cbc81daf-84b1-4a8a-88aa-569564de3098/file/cb6340e2-e5c8-4696-b71a-38027fbc8308\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b90a99f2-8a13-4d63-b6f2-d78cebefc233/file/553ac28d-37bd-4a31-a1b4-2d0cd46b9ce9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b90a99f2-8a13-4d63-b6f2-d78cebefc233/file/51aa4740-33be-4ea6-b7b2-7d46d373b6ad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

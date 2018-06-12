@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h415pf03p",
+  "layer_slug_s": "princeton-h415pf03p",
+  "uuid": "princeton-h415pf03p",
+  "dc_title_s": "Roane County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-81.438737, -81.206693, 38.916944, 38.71083)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Roane County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Roane",
+    "Roane County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:11:37Z",
+  "layer_id_s": "restricted-figgy:f0cc650a-9a1f-4d8d-a047-a44cf93d5e90",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f1ca7655-c265-4a96-af94-a6c497d1085f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/550d02f0-3d72-449a-801c-0afa006f2f9e/file/4f0c70a8-801a-4d24-82d5-7e4309c2bced\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f0cc650a-9a1f-4d8d-a047-a44cf93d5e90/file/78a3f91b-6978-4f6e-8286-9f2cc80d5a56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f0cc650a-9a1f-4d8d-a047-a44cf93d5e90/file/e7c82724-9273-4868-aec7-ad710e1531a6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

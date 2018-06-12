@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz774",
+  "layer_slug_s": "princeton-gm80hz774",
+  "uuid": "princeton-gm80hz774",
+  "dc_title_s": "Grayson County, Texas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-97.029158, -96.290159, 33.959612, 33.375242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grayson County, Texas, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Grayson",
+    "Grayson County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:45Z",
+  "layer_id_s": "restricted-figgy:c4e78c76-f7fb-4e86-a4b8-5804945ed747",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ba02597-26c8-4bf9-bb10-59a761c4231a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82ac5b7c-1a4a-4651-9dd5-f7b9719fd96c/file/8d0bcb6f-a475-4664-90c3-e5ea59bc31f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4e78c76-f7fb-4e86-a4b8-5804945ed747/file/cc4cf4dc-bf9f-4008-83f0-c21670d3b8d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4e78c76-f7fb-4e86-a4b8-5804945ed747/file/3f75bf2f-3e6e-4633-898c-04d1a3e1ab75\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

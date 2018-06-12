@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r1809",
+  "layer_slug_s": "princeton-z603r1809",
+  "uuid": "princeton-z603r1809",
+  "dc_title_s": "Fayette County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.301583, -85.034563, 39.788581, 39.525451)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fayette County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fayette County",
+    "Fayette",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:28:39Z",
+  "layer_id_s": "restricted-figgy:31d5fbcf-3701-4b85-a641-8d8c97ead293",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ecb7a87a-2816-47c9-9b2a-45fc01a2bbf6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a820dc1a-b94b-4585-b336-bbb8e01b7525/file/8638cba2-1227-492a-9193-465da223d38f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31d5fbcf-3701-4b85-a641-8d8c97ead293/file/16c87217-2d8b-45c8-a630-2b564dd00e40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31d5fbcf-3701-4b85-a641-8d8c97ead293/file/b8337403-fc41-4fb2-b3e0-7a445e92f765\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

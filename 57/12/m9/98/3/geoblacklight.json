@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712m9983",
+  "layer_slug_s": "princeton-5712m9983",
+  "uuid": "princeton-5712m9983",
+  "dc_title_s": "Benton County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.353054, -89.017124, 34.994979, 34.582927)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Benton County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Benton County",
+    "Benton",
+    "Mississippi",
+    "Holly Springs National Forest",
+    "Memphis"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:41Z",
+  "layer_id_s": "restricted-figgy:5fcde7a4-4ef2-4d7a-bf33-584186dc3c39",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/79f6ad2b-1150-4f49-9bf1-bab5193f33dc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82f87200-6379-4f05-af1b-99798f733b1f/file/4a323382-9e75-4345-b4f2-154cbe3f00b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fcde7a4-4ef2-4d7a-bf33-584186dc3c39/file/db9a45a4-d4a6-4793-945d-8d74b5a22da4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fcde7a4-4ef2-4d7a-bf33-584186dc3c39/file/35e38506-fde7-4e00-a4da-6231ea9bd663\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

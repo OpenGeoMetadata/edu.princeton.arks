@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rn00c",
+  "layer_slug_s": "princeton-d504rn00c",
+  "uuid": "princeton-d504rn00c",
+  "dc_title_s": "Grand County, Colorado land parcels, 2009",
+  "solr_geom": "ENVELOPE(-106.652978, -105.62632, 40.486331, 39.684065)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grand County, Colorado, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "zoning",
+    "zones",
+    "land use",
+    "value",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Grand County",
+    "Colorado",
+    "Rocky Mountain National Park"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:55Z",
+  "layer_id_s": "restricted-figgy:98bf4a57-9fd1-4976-89ed-9b6d3a8ed6ca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dcfd71f3-cd7e-4179-86cb-67d05e004e5a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e731b255-450b-45a0-ab3a-637991900513/file/eb124923-e6ce-4417-95e7-65868a8146ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98bf4a57-9fd1-4976-89ed-9b6d3a8ed6ca/file/253269be-d7b9-477c-830d-bf1e099bf10e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98bf4a57-9fd1-4976-89ed-9b6d3a8ed6ca/file/f8986f31-fe10-428e-b969-96dd93cab00f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

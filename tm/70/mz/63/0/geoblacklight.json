@@ -1,0 +1,49 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tm70mz630",
+  "layer_slug_s": "princeton-tm70mz630",
+  "uuid": "princeton-tm70mz630",
+  "dc_title_s": "Merrimack County, New Hampshire land parcels, 2014",
+  "solr_geom": "ENVELOPE(-72.089599, -71.261209, 43.464527, 43.00949)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels portions of Merrimack County, New Hampshire, 2014. Includes the towns of New London, Newbury, Bradford, Henniker, Hopkinton, Concord, Pembroke, Epsom, Bow, Dunbarton, and Hooksett.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Merrimack County",
+    "Merrimack",
+    "New London",
+    "Newbury",
+    "Bradford",
+    "Henniker",
+    "Hopkinton",
+    "Concord",
+    "Pembroke",
+    "Epsom",
+    "Bow",
+    "Dunbarton",
+    "Hooksett"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:06Z",
+  "layer_id_s": "restricted-figgy:6579bd61-32fc-4332-a2dd-84ba1c6e7fad",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2948c8a8-e159-48c4-8e3d-de98230e6b96\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39783fb7-688d-491a-bf07-4c8d2dffd5c5/file/6f351d3d-790e-4236-9695-0ce94eb7844a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6579bd61-32fc-4332-a2dd-84ba1c6e7fad/file/f5462abe-cf7f-4627-bc72-1cf261d34582\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6579bd61-32fc-4332-a2dd-84ba1c6e7fad/file/19abde53-20b4-43e9-96f1-4fad4bf51c5b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

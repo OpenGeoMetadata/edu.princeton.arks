@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9306t2714",
+  "layer_slug_s": "princeton-9306t2714",
+  "uuid": "princeton-9306t2714",
+  "dc_title_s": "Holmes County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-86.037681, -85.498557, 30.99677, 30.703025)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Holmes County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Holmes County",
+    "Florida",
+    "Holmes"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:15Z",
+  "layer_id_s": "restricted-figgy:6261107d-2c14-4259-99fa-b9d19be7f30d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1c78177c-110b-47e9-b973-5710a4c6d9c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13359d34-9e26-497a-9edd-5d9a54f373d9/file/2f0fe31b-faa8-4474-ad98-2fda8ff16d04\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6261107d-2c14-4259-99fa-b9d19be7f30d/file/b97d4a76-5512-4a54-b1c5-c801af7b61d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6261107d-2c14-4259-99fa-b9d19be7f30d/file/96e6fe41-6d47-47e7-8668-37d238e87d1f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

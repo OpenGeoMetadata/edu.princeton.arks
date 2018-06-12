@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gp384",
+  "layer_slug_s": "princeton-c821gp384",
+  "uuid": "princeton-c821gp384",
+  "dc_title_s": "San Francisco, California land parcels, 2013",
+  "solr_geom": "ENVELOPE(-122.514713, -122.356309, 37.833298, 37.707919)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the consolidated city-county of San Francisco, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "San Francisco",
+    "City and County of San Francisco",
+    "California",
+    "San Francisco Bay",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:4d853421-edbb-4330-b394-e607e36f4a1f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48c2c464-7557-4a4d-8514-e8793a23afa7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9d5201a2-8153-4aff-8afc-26bf90507e99/file/d4d06368-557d-4506-996d-6e65c51e9879\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d853421-edbb-4330-b394-e607e36f4a1f/file/3cd1a719-22f2-40ac-a0a5-37c1ee774493\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d853421-edbb-4330-b394-e607e36f4a1f/file/c8c11c17-bc2a-4139-b706-4699a78aab4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

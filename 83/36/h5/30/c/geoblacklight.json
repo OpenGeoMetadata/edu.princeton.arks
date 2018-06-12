@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8336h530c",
+  "layer_slug_s": "princeton-8336h530c",
+  "uuid": "princeton-8336h530c",
+  "dc_title_s": "Bertie County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-77.327087, -76.668782, 36.255471, 35.812733)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bertie County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Bertie",
+    "Bertie County",
+    "Greenville"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:07Z",
+  "layer_id_s": "restricted-figgy:aea59453-3430-4c16-81f2-26748eb1684f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6cb14a3e-50fd-4384-90ff-7b14f948a257\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e624ccdf-485a-4afd-9940-0566058f66bb/file/c0523347-a8b1-4c45-934f-33c3108c40ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aea59453-3430-4c16-81f2-26748eb1684f/file/4941490b-fd3f-4f32-81d7-ceeedd846626\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aea59453-3430-4c16-81f2-26748eb1684f/file/fbb212b2-f540-4da4-9019-74f4498edf66\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m0976",
+  "layer_slug_s": "princeton-th83m0976",
+  "uuid": "princeton-th83m0976",
+  "dc_title_s": "Mississippi Block Groups 2002",
+  "solr_geom": "ENVELOPE(-91.655009, -88.097889, 34.99611, 30.173943)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mississippi Block Groups represents the U.S. Census block groups of Mississippi.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:16:48Z",
+  "layer_id_s": "restricted-figgy:9919ae49-d9ea-4fc3-b65b-a8e148652de0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ea73a7bb-7b3b-4fe3-951f-37b517e525c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/97603c2f-cd1a-4430-a760-3022a3b7ca9e/file/2ae28585-f06b-4132-a70a-78fc3f97c756\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9919ae49-d9ea-4fc3-b65b-a8e148652de0/file/33d70599-5a50-4eed-8886-dcd63c472fb9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9919ae49-d9ea-4fc3-b65b-a8e148652de0/file/5c9af354-be23-49de-9c27-7eee9f158e0e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

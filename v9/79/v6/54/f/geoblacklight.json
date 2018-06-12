@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v979v654f",
+  "layer_slug_s": "princeton-v979v654f",
+  "uuid": "princeton-v979v654f",
+  "dc_title_s": "Van Zandt County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.092677, -95.449179, 32.840433, 32.337619)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Van Zandt County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Van Zandt County",
+    "Van Zandt",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:26Z",
+  "layer_id_s": "restricted-figgy:6a77e1e0-61fe-417a-ac38-b4358e42a062",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/682ed039-eda9-436b-b49a-a1a47cf44cec\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/44ef8904-f7eb-4698-873b-cd26826835d6/file/71e6193c-a5ed-4cd4-8bd5-4f052fb885eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a77e1e0-61fe-417a-ac38-b4358e42a062/file/ee4cee88-3925-4dc9-a35d-38c9fc3b499d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a77e1e0-61fe-417a-ac38-b4358e42a062/file/f5a34285-c175-4198-9a65-cda408af940f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

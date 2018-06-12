@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687m87f",
+  "layer_slug_s": "princeton-41687m87f",
+  "uuid": "princeton-41687m87f",
+  "dc_title_s": "U.S. Geographic Names Information System Schools, 2013",
+  "solr_geom": "ENVELOPE(-170.834167, 167.737222, 64.871882, -14.363056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Schools represents the Federal standard for geographic nomenclature and contains information about the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. The U.S. Geological Survey developed the Geographic Names Information System (GNIS) for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public.",
+  "dc_creator_sm": [
+    "United States Geological Survey"
+  ],
+  "dc_subject_sm": [
+    "point",
+    "school",
+    "place name",
+    "Elevation",
+    "geographic feature",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Territories",
+    "U.S. Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "1981",
+    "2009",
+    "1974-Present",
+    "1974"
+  ],
+  "solr_year_i": 1981,
+  "layer_modified_dt": "2018-04-04T22:39:24Z",
+  "layer_id_s": "restricted-figgy:74afe28e-a1fb-464e-8ec1-76c917b447bb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4c700766-7f5d-41c2-8cee-8301a0469342\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/73b4a23b-6ca7-4e51-87e1-06ff951f0773/file/2684dca6-6a8a-4ab8-9ebb-e18c95f84b7c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74afe28e-a1fb-464e-8ec1-76c917b447bb/file/a3c537ca-2315-4a99-ae70-baff6ff77f32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74afe28e-a1fb-464e-8ec1-76c917b447bb/file/115dad65-bfd8-4dd8-ac2e-004ab03f5e42\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

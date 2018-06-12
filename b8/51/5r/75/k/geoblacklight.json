@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515r75k",
+  "layer_slug_s": "princeton-b8515r75k",
+  "uuid": "princeton-b8515r75k",
+  "dc_title_s": "Richmond City, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.601173, -77.385513, 37.60281, 37.446555)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the City of Richmond, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Richmond",
+    "Virginia",
+    "Richmond City"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:29:28Z",
+  "layer_id_s": "restricted-figgy:03b36bf6-2c7c-4269-9e4c-185a49403d9e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0270bc18-6960-48be-ab8c-19d0a01488a3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3129017d-9852-410b-b6e2-e89d9a666e9c/file/ded6d37f-bbb2-48b4-b9c0-993c13e7704a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03b36bf6-2c7c-4269-9e4c-185a49403d9e/file/c3fc1b96-a4c9-4d42-b82c-eac66a8953c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03b36bf6-2c7c-4269-9e4c-185a49403d9e/file/fb59253a-16bb-4f2c-a4a1-fc11baf49c8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

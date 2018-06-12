@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/70795b99w",
+  "layer_slug_s": "princeton-70795b99w",
+  "uuid": "princeton-70795b99w",
+  "dc_title_s": "Alamosa County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-106.039398, -105.452436, 37.752238, 37.356008)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alamosa County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Alamosa",
+    "Alamosa County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:56:36Z",
+  "layer_id_s": "restricted-figgy:69cdf7da-ea43-4ffd-8d49-bd80e69dcd7d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1f4d65a3-ca60-4f64-a2e0-50f4c5a551ce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/934cccb2-f370-446f-abbf-d8f77f2835fd/file/1d84b5e4-8574-4f2e-9091-8c53bce31aaa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69cdf7da-ea43-4ffd-8d49-bd80e69dcd7d/file/3e142e2d-ee51-4161-9ad8-43999d9121cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69cdf7da-ea43-4ffd-8d49-bd80e69dcd7d/file/46f58f1c-c832-4c27-b3f8-88de4a8ed148\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

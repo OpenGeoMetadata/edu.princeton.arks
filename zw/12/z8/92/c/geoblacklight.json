@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zw12z892c",
+  "layer_slug_s": "princeton-zw12z892c",
+  "uuid": "princeton-zw12z892c",
+  "dc_title_s": "Clay County, Arkansas land parcels, 2013",
+  "solr_geom": "ENVELOPE(-90.806499, -90.062694, 36.499572, 36.200543)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clay County, Arkansas, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clay",
+    "Clay County",
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-06-06T19:26:37Z",
+  "layer_id_s": "restricted-figgy:b6840d11-a413-4d4f-9f3b-b097d46740ec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f74a82ff-7e87-4f28-ac17-2f1a6f009b22\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a345733-8995-452a-aa61-881e7c6ec976/file/20cb8467-63b5-47fa-b541-cc60ae0e3ed6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b6840d11-a413-4d4f-9f3b-b097d46740ec/file/034f052a-f554-45ab-bd1f-55a97d7048c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b6840d11-a413-4d4f-9f3b-b097d46740ec/file/6f2ab585-cf8f-42d0-8cb8-f4944ef484d7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

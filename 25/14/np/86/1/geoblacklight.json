@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514np861",
+  "layer_slug_s": "princeton-2514np861",
+  "uuid": "princeton-2514np861",
+  "dc_title_s": "Perry County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.813426, -86.431681, 38.266446, 37.842332)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Perry County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Perry County",
+    "Perry",
+    "Indiana",
+    "Hoosier National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:18:35Z",
+  "layer_id_s": "restricted-figgy:0e625383-50a0-40f6-9138-7d7e7eca9bd4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff3785cb-377b-4c3a-a9f8-d0b9f850494f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/87841433-9072-444b-ba49-1729a3c0dd26/file/e23693d6-7de6-4302-a70c-d21f0f929a33\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e625383-50a0-40f6-9138-7d7e7eca9bd4/file/d5b5d540-a4e5-4068-b946-d3fe634e9e9b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e625383-50a0-40f6-9138-7d7e7eca9bd4/file/7008cddd-bebc-47ca-a048-36e176499930\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

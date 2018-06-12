@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x059cb80k",
+  "layer_slug_s": "princeton-x059cb80k",
+  "uuid": "princeton-x059cb80k",
+  "dc_title_s": "Solano County, California roads,  2011",
+  "solr_geom": "ENVELOPE(-122.407087, -121.594464, 38.538006, 38.03722)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Solano County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Solano",
+    "Solano County",
+    "California",
+    "Vallejo",
+    "Fairfield",
+    "San Francisco"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:38Z",
+  "layer_id_s": "restricted-figgy:3e551725-dd73-4ae3-b344-23e1872f51bf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/265f6273-43c9-4262-a04a-b897758353e3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/317b49bf-9624-4d9b-807f-8b214bd6fa76/file/3d64e454-3b63-4981-975e-753b33af1f4e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e551725-dd73-4ae3-b344-23e1872f51bf/file/37d05af7-eada-4b66-aa65-a2e7e33982da\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e551725-dd73-4ae3-b344-23e1872f51bf/file/3ec8b481-c07b-4047-b92d-211a9d3bc5f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

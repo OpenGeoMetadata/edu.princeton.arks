@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k591h",
+  "layer_slug_s": "princeton-td96k591h",
+  "uuid": "princeton-td96k591h",
+  "dc_title_s": "Patna ward boundaries and census information, 2011",
+  "solr_geom": "ENVELOPE(85.05445, 85.25867, 25.64739, 25.56508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Boundaries of all wards in Patna, in the state of Bihar, India, shown linked to Primary Census Abstract 2011 data.",
+  "dc_creator_sm": [
+    "ML Infomap"
+  ],
+  "dc_subject_sm": [
+    "cities",
+    "ward",
+    "wards",
+    "census",
+    "population",
+    "demographic",
+    "household",
+    "households",
+    "sex",
+    "male",
+    "males",
+    "female",
+    "females",
+    "caste",
+    "castes",
+    "tribe",
+    "tribes",
+    "literacy",
+    "employment",
+    "work",
+    "workers",
+    "labor",
+    "laborers",
+    "marginal",
+    "agriculture",
+    "agricultural",
+    "industry",
+    "industrial",
+    "unemployment",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Patna",
+    "Bihar",
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:55Z",
+  "layer_id_s": "restricted-figgy:d8852f81-a5a3-431b-bddb-b937317544aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9187ac1a-175d-48b1-9e55-d5b6fb49b147\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40a7ea46-cfc2-4ec0-b5d5-bd77f5d89380/file/6a536c53-a6d0-44f4-928d-aa4af559ca92\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8852f81-a5a3-431b-bddb-b937317544aa/file/489c2331-59ea-4b56-b8cf-1e1e9dbe05d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8852f81-a5a3-431b-bddb-b937317544aa/file/46d36a96-6375-4faa-96fb-9c5d8670e216\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

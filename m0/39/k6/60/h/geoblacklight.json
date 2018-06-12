@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m039k660h",
+  "layer_slug_s": "princeton-m039k660h",
+  "uuid": "princeton-m039k660h",
+  "dc_title_s": "Myanmar Cities With Population From 50 Thousand and 100 Thousand, 1996",
+  "solr_geom": "ENVELOPE(94.40789, 99.613281, 25.365427, 16.255163)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Myanmar cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:24Z",
+  "layer_id_s": "restricted-figgy:68fd2422-4f40-4bcc-9603-a17ec3a39d3c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/392f52a6-918b-449f-8268-67d5f1f3467e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bd425bd5-ad07-47f9-b065-3f7c59caeb72/file/c917adc4-ffcf-4832-a5d7-fb6ffbfbc7ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/68fd2422-4f40-4bcc-9603-a17ec3a39d3c/file/dcc128cf-d252-4f3a-ab1b-978492f12588\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68fd2422-4f40-4bcc-9603-a17ec3a39d3c/file/8b3e572b-fa52-4a39-aab6-dcb0f39ec6a0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

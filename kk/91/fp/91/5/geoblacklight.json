@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fp915",
+  "layer_slug_s": "princeton-kk91fp915",
+  "uuid": "princeton-kk91fp915",
+  "dc_title_s": "Northampton County, Pennsylvania land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.60807, -75.051551, 40.967441, 40.536852)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Northampton County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Northampton",
+    "Northampton County",
+    "Pennsylvania",
+    "Behlehem",
+    "Delaware River",
+    "Allentown"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:54:16Z",
+  "layer_id_s": "restricted-figgy:501663c2-0774-4170-9a82-18c457356d25",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7ea8b090-fb86-4b4e-8da6-c7c41dc9e624\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/403a4a63-c878-45f7-b3f5-67ad8f900682/file/95815314-ad76-454a-998f-e55ca2dd631b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/501663c2-0774-4170-9a82-18c457356d25/file/40539f90-93bb-46e4-8562-be4a3f065f45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/501663c2-0774-4170-9a82-18c457356d25/file/2e066639-19cc-4484-acb2-10a72180e0ad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

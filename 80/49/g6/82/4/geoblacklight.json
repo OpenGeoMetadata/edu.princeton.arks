@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8049g6824",
+  "layer_slug_s": "princeton-8049g6824",
+  "uuid": "princeton-8049g6824",
+  "dc_title_s": "Franklin County, New York land parcels, 2009",
+  "solr_geom": "ENVELOPE(-74.726419, -73.909705, 45.00611, 44.098834)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, New York, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Franklin",
+    "Franklin County",
+    "Adirondack",
+    "Adirondack Mountains",
+    "Adirondack Park"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:51Z",
+  "layer_id_s": "restricted-figgy:56133873-1f36-4ee3-a358-df6690574faf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/df2525e3-09e7-4a05-a972-28a2bf6c9e87\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8179f87-f712-46b2-96e1-87992fbaecc4/file/0d6e10bd-724d-48b8-a028-bad70cd5aeda\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56133873-1f36-4ee3-a358-df6690574faf/file/3b1fc52b-bc69-48f8-8b89-8b4a25796d90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56133873-1f36-4ee3-a358-df6690574faf/file/0f5fec2d-85a2-41eb-9e58-6f2adad46ac2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

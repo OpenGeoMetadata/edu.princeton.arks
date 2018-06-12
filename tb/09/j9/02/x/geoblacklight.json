@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j902x",
+  "layer_slug_s": "princeton-tb09j902x",
+  "uuid": "princeton-tb09j902x",
+  "dc_title_s": "Nevada County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-121.279822, -120.003226, 39.526803, 39.005165)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nevada County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "Nevada County",
+    "California",
+    "Sierra Nevada",
+    "Tahoe National Forest",
+    "Toiyabe National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:21:39Z",
+  "layer_id_s": "restricted-figgy:dd972e91-345d-483c-978f-fca7d8a1dac0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9b569075-95ed-4e9d-848d-33a90972b8da\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24c5f1a6-e0e1-4b23-939e-0db99199ee67/file/abd79016-d539-49da-8355-a7cb14ea0364\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd972e91-345d-483c-978f-fca7d8a1dac0/file/876171e1-fb0d-41e3-8fe1-5b12653d69b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd972e91-345d-483c-978f-fca7d8a1dac0/file/5f547ae7-3a44-4c32-94be-2f165e4294e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

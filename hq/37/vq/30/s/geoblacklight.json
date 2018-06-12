@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hq37vq30s",
+  "layer_slug_s": "princeton-hq37vq30s",
+  "uuid": "princeton-hq37vq30s",
+  "dc_title_s": "Belgium Major Lakes, 2005",
+  "solr_geom": "ENVELOPE(2.826184, 6.238444, 51.325563, 49.754082)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Belgium created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:23Z",
+  "layer_id_s": "restricted-figgy:fd15b74c-cc14-4e2c-be67-38ae0c58fb5d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6be53e66-e858-4a8f-b450-7d8fd802df39\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22f7db4c-accc-4ae1-96bc-232ff73bdf2f/file/a06e030c-3ee1-4dea-806a-744332be3924\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd15b74c-cc14-4e2c-be67-38ae0c58fb5d/file/a13bbf4b-3fd0-48d4-8018-d62dba2f5402\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd15b74c-cc14-4e2c-be67-38ae0c58fb5d/file/38eee2de-a893-4b57-976d-c6c6f6fcf534\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

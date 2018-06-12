@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514np950",
+  "layer_slug_s": "princeton-2514np950",
+  "uuid": "princeton-2514np950",
+  "dc_title_s": "Yellowstone County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-108.925367, -107.462929, 46.496043, 45.460441)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Yellowstone County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Yellowstone",
+    "Yellowstone County",
+    "Montana",
+    "Yellowstone River",
+    "Billings"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:06Z",
+  "layer_id_s": "restricted-figgy:743e1576-1a19-4a3a-92ad-c4593b8c922b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ad4a5316-fc73-462a-acdd-1ab5f5150a3a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39d934c8-92c1-4433-b288-a881f88fb88c/file/a25eecbd-1f5c-4cff-b915-7bf26dfc693b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/743e1576-1a19-4a3a-92ad-c4593b8c922b/file/67162bae-f074-44d5-ad6e-fb54b1e55c90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/743e1576-1a19-4a3a-92ad-c4593b8c922b/file/7fb98775-b3b7-4884-ab21-ea1c1d1a63a5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

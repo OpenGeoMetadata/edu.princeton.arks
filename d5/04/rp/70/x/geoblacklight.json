@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp70x",
+  "layer_slug_s": "princeton-d504rp70x",
+  "uuid": "princeton-d504rp70x",
+  "dc_title_s": "Wales constituencies, 1918-1945",
+  "solr_geom": "ENVELOPE(-5.812106, -2.642337, 53.450981, 51.330508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of Constituencies which were and are the units from which Members of Parliament are elected, and which they then represent. The system of county and borough constituencies has early origins but was not systematically mapped until the reforms introduced by the Representation of the People Act in 1832. This file represents the system as it was established following the Boundary Commission Report of 1918.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "constituencies",
+    "parliamentary constituencies",
+    "history",
+    "administrative units",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Wales",
+    "United Kingdom"
+  ],
+  "dct_temporal_sm": [
+    "1918",
+    "1945",
+    "2009"
+  ],
+  "solr_year_i": 1918,
+  "layer_modified_dt": "2018-04-04T22:37:50Z",
+  "layer_id_s": "restricted-figgy:719cbe4e-8626-4fac-b02b-18b4b325b9d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/09ec3b2d-fd18-429d-8367-97910c5ab441\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/825ff4d9-af31-4a2c-b380-c016564defe2/file/be1258cb-d782-47fc-87b2-a332fdc529ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/719cbe4e-8626-4fac-b02b-18b4b325b9d9/file/7d0cde21-ba7d-48d3-9295-443ee909812a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/719cbe4e-8626-4fac-b02b-18b4b325b9d9/file/71cd5438-30de-49c7-b5b8-eee0114e743a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

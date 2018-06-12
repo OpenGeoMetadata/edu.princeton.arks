@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zw12z870h",
+  "layer_slug_s": "princeton-zw12z870h",
+  "uuid": "princeton-zw12z870h",
+  "dc_title_s": "Hamilton County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.821104, -84.256797, 39.312038, 39.023047)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hamilton County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hamilton",
+    "Hamilton County",
+    "Ohio",
+    "Cincinnati",
+    "Ohio River",
+    "Great Miami River",
+    "Winton Woods",
+    "Miami Whitewater Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:46Z",
+  "layer_id_s": "restricted-figgy:3420b49b-4bc1-4cea-bb62-5e4f1af7a9d0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d9498429-2189-41cf-bbde-065e5ff9e91d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1c012eef-7bb4-464a-be01-8c48a7b71554/file/213b0367-6af7-4b86-a332-df50543825f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3420b49b-4bc1-4cea-bb62-5e4f1af7a9d0/file/6dcfb57b-7e9e-4ce0-98a4-a67bb25ef798\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3420b49b-4bc1-4cea-bb62-5e4f1af7a9d0/file/38f655f3-5783-472c-8cd9-79bf45efcf19\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

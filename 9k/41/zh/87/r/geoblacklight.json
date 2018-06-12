@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9k41zh87r",
+  "layer_slug_s": "princeton-9k41zh87r",
+  "uuid": "princeton-9k41zh87r",
+  "dc_title_s": "Howard County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.256189, -93.820711, 34.355716, 33.74769)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Howard County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Howard",
+    "Howard County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:09:02Z",
+  "layer_id_s": "restricted-figgy:d5f0ac33-7ce6-4449-ba25-2eeb1d10f5dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6464def6-b162-4df0-bf6e-917040c57bbf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bcdbe3ce-5f19-4d15-9b0a-2e83472be6aa/file/43c95487-ff95-4de9-b884-9c480d9b49eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5f0ac33-7ce6-4449-ba25-2eeb1d10f5dd/file/5796486f-fe24-4ccb-a8fc-4e705edf2697\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5f0ac33-7ce6-4449-ba25-2eeb1d10f5dd/file/62a6983d-8f5b-43a1-8ca2-0a2bff158c70\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

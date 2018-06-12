@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4x51hn61j",
+  "layer_slug_s": "princeton-4x51hn61j",
+  "uuid": "princeton-4x51hn61j",
+  "dc_title_s": "Riverside County, California land parcels, 2013",
+  "solr_geom": "ENVELOPE(-117.676535, -114.436983, 34.080004, 33.426121)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Riverside County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Riverside",
+    "Riverside County",
+    "California",
+    "Moreno Valley",
+    "Corona",
+    "Murrieta",
+    "Temecula",
+    "Cleveland National Forest",
+    "Joshua Tree National Park",
+    "San Bernardino National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:50Z",
+  "layer_id_s": "restricted-figgy:545ad40f-8e79-423e-b76c-e77f29eb51ef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/79a35270-e1dd-46a7-9e08-76e4668dde2c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45a14e44-781a-46de-8c61-9c3e3e10aece/file/607990cd-2a35-4c0e-b666-f0df08f73e29\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/545ad40f-8e79-423e-b76c-e77f29eb51ef/file/7bdfc604-1afa-4e9a-9a94-0e0d14ba95b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/545ad40f-8e79-423e-b76c-e77f29eb51ef/file/cbc30f79-53f1-46d7-87ce-a66e03123153\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jf847",
+  "layer_slug_s": "princeton-cf95jf847",
+  "uuid": "princeton-cf95jf847",
+  "dc_title_s": "Waldo County, Maine land parcels, 2012",
+  "solr_geom": "ENVELOPE(-69.4609, -68.844548, 44.728511, 44.248103)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Waldo County, Maine, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Waldo",
+    "Waldo County",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:19:07Z",
+  "layer_id_s": "restricted-figgy:418d06f2-de0c-44b0-af17-245fcaec102b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/adff742a-17ad-4415-9617-3593ef6dab37\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d02f4a8f-f0f8-45e9-ba81-1661f015c9bd/file/a8ad4c56-c1f2-4349-b853-698871f4ccc8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/418d06f2-de0c-44b0-af17-245fcaec102b/file/44033522-7f88-41f7-b2a4-06016da9410b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/418d06f2-de0c-44b0-af17-245fcaec102b/file/af51ba0a-a77d-4202-8340-582267b8fb66\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bj37c",
+  "layer_slug_s": "princeton-pg15bj37c",
+  "uuid": "princeton-pg15bj37c",
+  "dc_title_s": "New Orleans, Louisiana roads, 2014",
+  "solr_geom": "ENVELOPE(-90.137863, -89.736014, 30.172332, 29.868905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in New Orleans (Orleans Parish), Louisiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Orleans",
+    "Orleans Parish",
+    "Orleans",
+    "Louisiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:50Z",
+  "layer_id_s": "restricted-figgy:14f6eeb9-0630-4acf-94eb-61b2e51b4076",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1a478139-41b5-4270-9514-4572ad735e5c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef9b193e-dca4-4bd3-95c8-aad2c7ac8f76/file/5ede8ec0-ab8f-4b31-8743-a7acc825a2b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14f6eeb9-0630-4acf-94eb-61b2e51b4076/file/17b90a85-228a-4349-96c5-37236df41c81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14f6eeb9-0630-4acf-94eb-61b2e51b4076/file/0fc8d6b1-1400-4127-8ef6-447f6e2cb4de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

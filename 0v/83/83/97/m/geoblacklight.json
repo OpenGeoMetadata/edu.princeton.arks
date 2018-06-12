@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v838397m",
+  "layer_slug_s": "princeton-0v838397m",
+  "uuid": "princeton-0v838397m",
+  "dc_title_s": "Hidalgo County, Texas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-98.586476, -97.861044, 26.783012, 26.036714)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hidalgo County, Texas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Hidalgo",
+    "Hidalgo County",
+    "Mission",
+    "McAllen",
+    "Pharr",
+    "Edinburg"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:39:44Z",
+  "layer_id_s": "restricted-figgy:be71be3b-5ca6-4e97-9155-bfe00f29f7bc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ed3f5088-ba56-4842-a74b-87ef0f90ed41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/426ef590-8b1f-49ee-9ad4-1dd3a9517103/file/02cdfa08-3b5b-40e9-96bb-f1c52c2d390e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be71be3b-5ca6-4e97-9155-bfe00f29f7bc/file/8c386b46-8539-48ba-bc27-7b4d4c866c87\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be71be3b-5ca6-4e97-9155-bfe00f29f7bc/file/1c7ad56f-2d94-4ede-954e-1c8e4acbd62b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

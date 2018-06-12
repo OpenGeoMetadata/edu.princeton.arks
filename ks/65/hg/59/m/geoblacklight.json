@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg59m",
+  "layer_slug_s": "princeton-ks65hg59m",
+  "uuid": "princeton-ks65hg59m",
+  "dc_title_s": "Delaware County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.249861, -82.744928, 40.443981, 40.125977)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Delaware County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Delaware County",
+    "Ohio",
+    "Columbus",
+    "Delaware Lake",
+    "Scioto River",
+    "Alum Creek Lake",
+    "Hoover Reservoir"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:18Z",
+  "layer_id_s": "restricted-figgy:21bcb7fc-c0df-45d1-8367-c494f50fe705",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e0d81ce8-80d4-4198-ad9b-343d04a8f292\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c095434-822e-4fca-b1dd-3fa88e9924bb/file/2700fc89-3110-4f4f-86c1-cb28a9a6257d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/21bcb7fc-c0df-45d1-8367-c494f50fe705/file/26a0b484-8a9c-49f0-9044-345a897c0397\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/21bcb7fc-c0df-45d1-8367-c494f50fe705/file/11f64b10-b1e5-4885-8ca2-77477d610533\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

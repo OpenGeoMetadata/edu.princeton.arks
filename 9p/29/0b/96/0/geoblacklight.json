@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9p290b960",
+  "layer_slug_s": "princeton-9p290b960",
+  "uuid": "princeton-9p290b960",
+  "dc_title_s": "Luxembourg Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(5.884197, 6.184938, 49.976377, 49.467641)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Luxembourg major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:59Z",
+  "layer_id_s": "restricted-figgy:c5664e54-d4c1-4d28-9340-1d496d12baa6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc8f5968-2120-4544-9575-7692c2609616\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c509c176-4458-4d61-be7b-b723a5430471/file/7894f21c-9d61-459e-9655-eeb17315475f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c5664e54-d4c1-4d28-9340-1d496d12baa6/file/b75a25e5-1a17-4f9e-83cc-f9bc207b258d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c5664e54-d4c1-4d28-9340-1d496d12baa6/file/07a0bcaf-1603-48a0-ad52-901d841cf68f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c744",
+  "layer_slug_s": "princeton-sb397c744",
+  "uuid": "princeton-sb397c744",
+  "dc_title_s": "Citrus County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.763128, -82.169554, 29.052575, 28.665813)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Citrus County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Citrus County",
+    "Citrus",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:30Z",
+  "layer_id_s": "restricted-figgy:426c76e6-7067-45ed-be91-5af74cc9ae9f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/172b49cd-fba7-458f-928f-075fd977d010\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45e0131c-56a4-4010-87d8-2699d78d2136/file/4b1c3214-d159-4a5f-910b-a3288a18224e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/426c76e6-7067-45ed-be91-5af74cc9ae9f/file/f7741046-9395-4ec7-b5f2-8a2094d4e406\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/426c76e6-7067-45ed-be91-5af74cc9ae9f/file/d2d75460-8493-49c6-a354-a9c8fd083d7e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

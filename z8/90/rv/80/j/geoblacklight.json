@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z890rv80j",
+  "layer_slug_s": "princeton-z890rv80j",
+  "uuid": "princeton-z890rv80j",
+  "dc_title_s": "Switzerland Major Roads, 2006",
+  "solr_geom": "ENVELOPE(6.073606, 10.484896, 47.80181, 45.83274)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Switzerland major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Switzerland"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:df6543ce-ce72-4b38-8eea-47241d2aae30",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d2917695-2d7e-45e2-a2d2-51cd568a525d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6e35d417-5b07-4d59-80b6-de4efc509d7a/file/18c3caaf-380a-4fae-a2b4-5f89ebdcab9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df6543ce-ce72-4b38-8eea-47241d2aae30/file/c2ad9b52-5fae-422c-9525-a83a5534c4a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df6543ce-ce72-4b38-8eea-47241d2aae30/file/f94aedb5-fb13-4576-98d6-1fae23cebebf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8w32r9047",
+  "layer_slug_s": "princeton-8w32r9047",
+  "uuid": "princeton-8w32r9047",
+  "dc_title_s": "Carteret County, North Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-77.155712, -76.275655, 35.037378, 34.629012)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Carteret County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Carteret",
+    "Carteret County",
+    "North Carolina",
+    "Cape Lookout National Seashore",
+    "Cedar Island National Wildlife Refuge",
+    "Croatan National Forest",
+    "Outer Banks"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:59Z",
+  "layer_id_s": "restricted-figgy:ea03077e-7208-4dda-80c1-11ac4b5ec98a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1f75b3f4-8e66-41b8-8486-199eac915b7e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/310071fd-53c4-4dfe-9247-c72e63ff28d2/file/65170439-e099-4f1c-8425-9e7fb0c898e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea03077e-7208-4dda-80c1-11ac4b5ec98a/file/5da1ae05-133a-4953-b07b-876871eb8b0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea03077e-7208-4dda-80c1-11ac4b5ec98a/file/5297133c-87b6-4d79-9035-9c38925187d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

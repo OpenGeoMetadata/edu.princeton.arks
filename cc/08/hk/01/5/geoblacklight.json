@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hk015",
+  "layer_slug_s": "princeton-cc08hk015",
+  "uuid": "princeton-cc08hk015",
+  "dc_title_s": "Kings County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-120.311678, -119.47445, 36.488893, 35.788469)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kings County, California land parcels, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kings",
+    "Kings County",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:54Z",
+  "layer_id_s": "restricted-figgy:90ecff55-0977-4782-97e0-607aae960027",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc63ed6a-be95-436e-b254-ce817f869952\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b14fec07-1b37-4a09-8062-6233033d97f4/file/e22bc8a9-c0d8-43ed-aea5-fe5063fa0270\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90ecff55-0977-4782-97e0-607aae960027/file/ace6c473-4341-464e-ab0d-19803bbfee78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90ecff55-0977-4782-97e0-607aae960027/file/96401be8-f297-4c1b-bf13-9debd10f8bbf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

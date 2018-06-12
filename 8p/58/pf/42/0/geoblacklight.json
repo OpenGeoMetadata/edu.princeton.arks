@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8p58pf420",
+  "layer_slug_s": "princeton-8p58pf420",
+  "uuid": "princeton-8p58pf420",
+  "dc_title_s": "Trenton Schools (Areas)",
+  "solr_geom": "ENVELOPE(-74.793929, -74.734699, 40.242483, 40.199185)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "\nThis dataset contains the polygon location of Public Schools in the City of Trenton, New Jersey\n",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "City of Trenton",
+  "dc_subject_sm": [
+    "Schools",
+    "Structure",
+    "Education"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T02:49:19Z",
+  "layer_id_s": "restricted-figgy:94055ef4-b59d-42e1-8b18-6542aa81f709",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ffba3a1c-d07f-4b31-b01c-18dca75fbd12\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0cd1d68e-1776-46b1-baa7-c3b5d92015c5/file/a59ab1f0-24dd-4eef-82dd-51291bb5b69e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94055ef4-b59d-42e1-8b18-6542aa81f709/file/86874966-9ce1-44a6-80f0-66fc8fff4fcc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94055ef4-b59d-42e1-8b18-6542aa81f709/file/6dd742c1-c8a7-4c7f-a048-ad9f0c5b4924\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

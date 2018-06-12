@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tm70mz58z",
+  "layer_slug_s": "princeton-tm70mz58z",
+  "uuid": "princeton-tm70mz58z",
+  "dc_title_s": "Meade County, South Dakota roads, 2014",
+  "solr_geom": "ENVELOPE(-103.574354, -101.999993, 45.039551, 44.140189)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Meade County, South Dakota, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "South Dakota",
+    "Meade",
+    "Meade County",
+    "Rapid City"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:26Z",
+  "layer_id_s": "restricted-figgy:18017031-0b08-4438-8996-b0cf46cd7b21",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5e48f111-7944-45dc-9137-e74f1384ec5f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e7fa7f6-57ff-4bc1-9508-6122ff89d2fe/file/c3c94dcd-0de9-47db-931c-58d5b49cf868\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18017031-0b08-4438-8996-b0cf46cd7b21/file/504f6dac-0db2-427f-a986-4a9ab863c53d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18017031-0b08-4438-8996-b0cf46cd7b21/file/de1afbd7-7da2-4ff1-866d-8ad40fa88b43\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

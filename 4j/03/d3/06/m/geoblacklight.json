@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d306m",
+  "layer_slug_s": "princeton-4j03d306m",
+  "uuid": "princeton-4j03d306m",
+  "dc_title_s": "Frederick County, Virginia land parcels, 2008",
+  "solr_geom": "ENVELOPE(-78.544476, -78.0329, 39.466023, 39.006087)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Frederick County, Virginia, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Frederick",
+    "Frederick County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:47:09Z",
+  "layer_id_s": "restricted-figgy:ea733be6-3dcc-4d46-8eba-b616917fe8b3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b9b45388-6bea-449d-8205-1b17dcce9f59\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e7baf11e-a405-4115-953d-bc62f4490a16/file/b7f80b27-9c21-4091-9669-d1b4089b40be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea733be6-3dcc-4d46-8eba-b616917fe8b3/file/97d69ef5-005a-4de6-b0c3-838deb6d5a45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea733be6-3dcc-4d46-8eba-b616917fe8b3/file/adf710ec-b665-47cf-9c72-a261123d4703\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

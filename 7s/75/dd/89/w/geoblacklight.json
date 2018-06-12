@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dd89w",
+  "layer_slug_s": "princeton-7s75dd89w",
+  "uuid": "princeton-7s75dd89w",
+  "dc_title_s": "Bay County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-85.995778, -85.384181, 30.567656, 29.924914)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bay County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "value",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bay County",
+    "Bay",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:41Z",
+  "layer_id_s": "restricted-figgy:7a3ebdc3-392f-42cf-8717-1d3f6803f0dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/98136244-8ffa-483a-a537-ddcec8bf437a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f4824b59-c09f-4ff6-9386-da44e920e870/file/22095290-50f9-4388-a950-b333e6641379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a3ebdc3-392f-42cf-8717-1d3f6803f0dd/file/6babf257-33e7-4b34-b50e-69e8e250cb94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a3ebdc3-392f-42cf-8717-1d3f6803f0dd/file/c5e2f705-e120-44c6-89d9-352c5e90e400\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

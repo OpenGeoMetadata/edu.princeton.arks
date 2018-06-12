@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289n495",
+  "layer_slug_s": "princeton-pc289n495",
+  "uuid": "princeton-pc289n495",
+  "dc_title_s": "Orange County, Vermont land parcels, 2014",
+  "solr_geom": "ENVELOPE(-72.771665, -72.04037, 44.189952, 43.771686)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orange County, Vermont, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Orange County",
+    "Orange"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:14Z",
+  "layer_id_s": "restricted-figgy:c61f93a2-9257-4ec9-a70e-f9f2f2ee352a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d49785c3-fc00-4771-9fa9-0626b06d599a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/918ef97c-8999-4d49-9d38-733cf6747960/file/232549eb-e618-4913-b279-60fc8ebae85a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c61f93a2-9257-4ec9-a70e-f9f2f2ee352a/file/8507b8cb-db72-4023-b491-7cba738aa4e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c61f93a2-9257-4ec9-a70e-f9f2f2ee352a/file/6d38a0b5-f07a-4800-8266-18d52a38824a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

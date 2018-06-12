@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj52n",
+  "layer_slug_s": "princeton-3484zj52n",
+  "uuid": "princeton-3484zj52n",
+  "dc_title_s": "China census data by county, 2000-2010",
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "2000 and 2010 census data China, displayed at the county level.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dc_subject_sm": [
+    "county",
+    "counties",
+    "census",
+    "population",
+    "demographic",
+    "households",
+    "urban",
+    "rural",
+    "migration",
+    "sex",
+    "male",
+    "female",
+    "age groups",
+    "education",
+    "literacy",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2000, 2010",
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-04T22:02:59Z",
+  "layer_id_s": "restricted-figgy:49324b76-c457-43da-8a62-d353610ccba4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d28743a3-fd43-4baf-9e04-6f7925d11989\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a09ecf55-9036-48ea-be13-0ea9ad9bcbc6/file/47628a4c-ad36-4624-883f-79bbf8ee7c46\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49324b76-c457-43da-8a62-d353610ccba4/file/0b4ef5a8-ad56-4429-9199-ddde7f228c8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49324b76-c457-43da-8a62-d353610ccba4/file/1a40452e-57dc-4da2-a193-b2efd134c796\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

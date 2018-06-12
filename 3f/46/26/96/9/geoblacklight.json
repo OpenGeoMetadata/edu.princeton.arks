@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f4626969",
+  "layer_slug_s": "princeton-3f4626969",
+  "uuid": "princeton-3f4626969",
+  "dc_title_s": "Jackson County, Georgia land parcels, 2006",
+  "solr_geom": "ENVELOPE(-83.81783, -83.354948, 34.295731, 33.964339)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson, Georgia, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Georgia",
+    "Jackson",
+    "Jackson County"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T21:55:41Z",
+  "layer_id_s": "restricted-figgy:f0897331-fabc-478f-a97b-752fa487e784",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d9ba5690-2501-4a0c-9f2d-af9b887b5bed\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/02b55591-70f2-4056-a379-14deeac9041a/file/4b5a4262-d11c-4cef-aabd-60d2db5603e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f0897331-fabc-478f-a97b-752fa487e784/file/1a5f8a20-c904-4818-8b83-6e91c6dcf303\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f0897331-fabc-478f-a97b-752fa487e784/file/97c60f98-2832-453c-a90f-4c1bd537a22d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

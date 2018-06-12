@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55md591",
+  "layer_slug_s": "princeton-xs55md591",
+  "uuid": "princeton-xs55md591",
+  "dc_title_s": "Moldova Elevations",
+  "solr_geom": "ENVELOPE(26.625851, 30.16374, 48.49017, 45.46899)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Moldova created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Moldova"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:57Z",
+  "layer_id_s": "restricted-figgy:d065d2f3-7e26-4d33-a3ce-100f3e5a1051",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d39df365-7896-47bb-8cab-28a12463e46a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16d429f6-0967-4ef8-aa3d-4cf05a8c10a8/file/048ea7fe-4b06-47b5-9e27-5798f0217eef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d065d2f3-7e26-4d33-a3ce-100f3e5a1051/file/85038f10-0529-40d9-a586-b812364dcfbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d065d2f3-7e26-4d33-a3ce-100f3e5a1051/file/f8e906cc-1982-4592-9212-cb7a65a3f8f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

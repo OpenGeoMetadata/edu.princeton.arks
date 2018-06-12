@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w6634702q",
+  "layer_slug_s": "princeton-w6634702q",
+  "uuid": "princeton-w6634702q",
+  "dc_title_s": "Jennings County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.799749, -85.440073, 39.196086, 38.806912)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jennings County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jennings County",
+    "Jennings",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:58Z",
+  "layer_id_s": "restricted-figgy:f6078a8c-0c9b-475d-bae5-8d5cc6d60256",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4696869-fc4a-4eb2-8745-228634c1f98f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0138593a-7b3d-4d12-bb5f-296a624b1155/file/afd2832f-f947-4c32-a71f-b4a4c1a7d72b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6078a8c-0c9b-475d-bae5-8d5cc6d60256/file/5272661e-05b5-494b-99d6-7155dbd3878a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6078a8c-0c9b-475d-bae5-8d5cc6d60256/file/2a08d156-2980-4a4a-ac0e-7c4323c8616c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

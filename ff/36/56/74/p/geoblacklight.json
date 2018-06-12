@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff365674p",
+  "layer_slug_s": "princeton-ff365674p",
+  "uuid": "princeton-ff365674p",
+  "dc_title_s": "Italy 3-Digit Postcode Areas, 2005",
+  "solr_geom": "ENVELOPE(6.627059, 18.520342, 47.092139, 36.650169)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Italy 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:01Z",
+  "layer_id_s": "restricted-figgy:f66c39a9-c601-4f6e-bf1b-38a5c297e858",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd1ff32f-a346-4122-ab4a-1c4cfe571db9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/55907c5e-cf18-4d26-9c98-e686cd9102be/file/3e0ae1f4-a60d-4299-a3e5-eacc52c020ba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f66c39a9-c601-4f6e-bf1b-38a5c297e858/file/01cc6ebe-1613-4946-a36a-9f9151304fec\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f66c39a9-c601-4f6e-bf1b-38a5c297e858/file/c1e76272-a3a6-49c1-87de-65bed99aea77\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

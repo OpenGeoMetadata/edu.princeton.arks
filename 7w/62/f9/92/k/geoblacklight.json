@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7w62f992k",
+  "layer_slug_s": "princeton-7w62f992k",
+  "uuid": "princeton-7w62f992k",
+  "dc_title_s": "Florida Block Groups 2002",
+  "solr_geom": "ENVELOPE(-87.634938, -80.031366, 31.000969, 24.54394)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Florida Block Groups represents the U.S. Census block groups of Florida.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:52Z",
+  "layer_id_s": "restricted-figgy:11643ae6-92a4-4787-bf69-257588868027",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ce4755eb-2712-4fd4-8afd-9c84d6ff20a2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6629d4e4-1c81-4848-8edd-ced96590c7da/file/22caaf04-f5ea-4941-a681-086fa49dc2b6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11643ae6-92a4-4787-bf69-257588868027/file/c7598373-f336-4a3c-9738-39fedda5683f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11643ae6-92a4-4787-bf69-257588868027/file/f82bab96-b11f-4f4e-a607-f7ac577eb7d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

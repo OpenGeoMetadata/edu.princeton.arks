@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mh24r",
+  "layer_slug_s": "princeton-qb98mh24r",
+  "uuid": "princeton-qb98mh24r",
+  "dc_title_s": "Inyo County, California land parcels, 2006",
+  "solr_geom": "ENVELOPE(-118.789007, -115.6471, 37.464891, 35.786636)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Inyo County, California, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "land use",
+    "land value",
+    "ownership",
+    "buildings",
+    "parcel",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Inyo County"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:49:08Z",
+  "layer_id_s": "restricted-figgy:f497f799-0159-4b48-aedd-23ae098f02e4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b557131f-e08c-4001-9668-9e59341c5ec2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c33e95f7-e852-419e-b1b1-fdc63a9f0381/file/678e5217-3849-4dce-98a3-41451e776c1a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f497f799-0159-4b48-aedd-23ae098f02e4/file/157d0679-1d56-43e5-a268-2311fee3a772\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f497f799-0159-4b48-aedd-23ae098f02e4/file/c89187ea-2dba-48a3-8d68-8981f4639258\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

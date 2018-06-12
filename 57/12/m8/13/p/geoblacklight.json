@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712m813p",
+  "layer_slug_s": "princeton-5712m813p",
+  "uuid": "princeton-5712m813p",
+  "dc_title_s": "Hungary Major Roads, 2005",
+  "solr_geom": "ENVELOPE(16.27489, 22.839229, 48.580002, 45.784243)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:41Z",
+  "layer_id_s": "restricted-figgy:2c4f93a5-4424-45b0-9c45-2b436800dd22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ae3a62d8-9c72-465a-8888-42f851e4d81a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9367935a-235a-4744-ba82-ac6961585430/file/9ebbb6d6-1450-4a94-99f5-56335227bcc6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c4f93a5-4424-45b0-9c45-2b436800dd22/file/45c9a90f-0f7a-49e0-afc3-bc07e392b0a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c4f93a5-4424-45b0-9c45-2b436800dd22/file/f65c193d-7c84-4add-af0b-380795d69eab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

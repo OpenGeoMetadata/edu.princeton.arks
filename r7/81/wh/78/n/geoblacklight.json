@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wh78n",
+  "layer_slug_s": "princeton-r781wh78n",
+  "uuid": "princeton-r781wh78n",
+  "dc_title_s": "San Benito County, California land parcels, 2008",
+  "solr_geom": "ENVELOPE(-121.643749, -120.596588, 36.988973, 36.198008)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Benito County, California, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "property",
+    "ownership",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Benito County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T21:55:00Z",
+  "layer_id_s": "restricted-figgy:9ad3ff7c-df77-4f48-b409-dd8ca966d585",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/50305a16-b4cb-4d79-9b18-f5eef035d668\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d068ca6c-3c99-48bb-8f21-2a3b84713b54/file/8c9fe6ed-7bb7-4cd7-abf3-95398afbdafe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ad3ff7c-df77-4f48-b409-dd8ca966d585/file/f63b3883-c97f-4506-8a00-cf331cc83ffd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ad3ff7c-df77-4f48-b409-dd8ca966d585/file/b00e932c-198b-4ce0-918f-c9504e0574aa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

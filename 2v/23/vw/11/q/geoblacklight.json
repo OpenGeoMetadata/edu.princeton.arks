@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vw11q",
+  "layer_slug_s": "princeton-2v23vw11q",
+  "uuid": "princeton-2v23vw11q",
+  "dc_title_s": "World Wildlife Fund Terrestrial Ecoregions 2008",
+  "solr_geom": "ENVELOPE(-179.999989, 179.999993, 83.623131, -89.891973)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Wildlife Fund Terrestrial Ecoregions represents global terrestrial ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains all terrestrial ecoregions, which include those of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
+  "dc_creator_sm": [
+    "World Wildlife Fund",
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "polygon",
+    "ecoregions",
+    "ecosystems",
+    "species richness",
+    "species endemism",
+    "ecological",
+    "evolutionary",
+    "habitat",
+    "global rarity",
+    "biodiversity",
+    "global 200",
+    "Biology and Ecology"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2005"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T02:45:21Z",
+  "layer_id_s": "restricted-figgy:c6d0ac63-3532-4080-a93b-a952693efd1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f5d51cf3-729e-4132-a8f3-189921d14f56\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/df387cff-8cbf-42ba-819e-41ed1b734651/file/09772184-1f6b-4f47-83ec-e4bd6a03df88\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6d0ac63-3532-4080-a93b-a952693efd1c/file/aafd6f00-866c-46a5-9b07-c8df06bdc111\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6d0ac63-3532-4080-a93b-a952693efd1c/file/531ed356-7e32-4a15-b9f7-693addafa027\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

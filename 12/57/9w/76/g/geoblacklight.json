@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579w76g",
+  "layer_slug_s": "princeton-12579w76g",
+  "uuid": "princeton-12579w76g",
+  "dc_title_s": "New York City Fire Battalions 2008",
+  "solr_geom": "ENVELOPE(-74.257233, -73.699214, 40.915808, 40.495972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The service area boundaries for New York City's fire battalions.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "New York City Department of City Planning",
+  "dc_subject_sm": [
+    "Fire Battalion",
+    "Fire District",
+    "Fire Department",
+    "Fire Company",
+    "FDNY",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T02:44:18Z",
+  "layer_id_s": "restricted-figgy:61c29ec7-a7b0-4bf4-b8af-b1f91a1a056a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f47d9fb8-e29b-4197-ba28-d3b56bc2c1be\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28456497-90ee-4fa5-95d7-a83bf514d670/file/e5d822a6-7fda-4b2c-a72d-1050adbbd7c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/61c29ec7-a7b0-4bf4-b8af-b1f91a1a056a/file/1a24a5fd-6f2e-4903-97e5-4f0619e07b4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/61c29ec7-a7b0-4bf4-b8af-b1f91a1a056a/file/7dd9d315-0292-4d1a-a069-6a6bc32ef0e9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

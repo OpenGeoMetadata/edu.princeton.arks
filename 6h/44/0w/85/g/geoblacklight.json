@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440w85g",
+  "layer_slug_s": "princeton-6h440w85g",
+  "uuid": "princeton-6h440w85g",
+  "dc_title_s": "Warren County, Iowa land parcels, 2009",
+  "solr_geom": "ENVELOPE(-93.79082, -93.327889, 41.512093, 41.16048)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Warren County, Iowa, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "value",
+    "land value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Warren County",
+    "Warren",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:19Z",
+  "layer_id_s": "restricted-figgy:aab98b41-cefa-4c32-8277-53b22665162d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bc78f4cb-ecda-4b12-b3d1-edfe20c5ea33\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aec8b88f-40bb-470d-ac79-5837d63333ea/file/bb1fdd5e-f584-461f-ab35-3e36340f1512\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aab98b41-cefa-4c32-8277-53b22665162d/file/c56f9884-90c0-472d-b5a7-e987c6080c91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aab98b41-cefa-4c32-8277-53b22665162d/file/878c0a35-5e9f-467f-afc4-da9f41635419\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

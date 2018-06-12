@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3j333387z",
+  "layer_slug_s": "princeton-3j333387z",
+  "uuid": "princeton-3j333387z",
+  "dc_title_s": "Bulgaria Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(23.101673, 27.260651, 44.117177, 41.398291)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Bulgaria cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Bulgaria"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:38Z",
+  "layer_id_s": "restricted-figgy:4c90a7e9-fd0c-4c3f-b462-afee00c841c8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/718d332e-85bd-479e-8c62-e7dbce57b952\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61788eb2-b53c-4186-be14-3e9c0b521482/file/f511d172-0efe-43e5-baa7-09c3768646e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c90a7e9-fd0c-4c3f-b462-afee00c841c8/file/1af10624-ad97-43c6-bb5a-1460a04d7317\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c90a7e9-fd0c-4c3f-b462-afee00c841c8/file/f38b7bfe-bfde-4856-93cf-0646330488bf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

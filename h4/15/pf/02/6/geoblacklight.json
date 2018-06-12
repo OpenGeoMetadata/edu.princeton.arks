@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h415pf026",
+  "layer_slug_s": "princeton-h415pf026",
+  "uuid": "princeton-h415pf026",
+  "dc_title_s": "Lafayette County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.721926, -89.2453, 34.555345, 34.161124)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lafayette County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lafayette County",
+    "Lafayette",
+    "Mississippi",
+    "Holly Springs National Forest",
+    "Sardis Lake"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:26Z",
+  "layer_id_s": "restricted-figgy:ed606a18-224d-4912-a3f1-21c060b58acb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0e88bb72-4097-4077-972e-ff5a0d45bf8d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e11c7d69-09a5-49ea-a6c5-dae0e4db1002/file/ba2b39d9-4f96-420e-a1a3-fd0592205cb8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed606a18-224d-4912-a3f1-21c060b58acb/file/192b5437-5340-4857-8aae-6495dd7d6422\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed606a18-224d-4912-a3f1-21c060b58acb/file/66be49a5-dff2-4414-975e-debd47ef141d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

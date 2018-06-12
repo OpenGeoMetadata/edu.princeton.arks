@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb4949901",
+  "layer_slug_s": "princeton-fb4949901",
+  "uuid": "princeton-fb4949901",
+  "dc_title_s": "Washoe County, Nevada land parcels, 2006",
+  "solr_geom": "ENVELOPE(-120.006473, -119.170544, 41.997542, 39.165509)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washoe County, Nevada, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nevada",
+    "Washoe",
+    "Washoe County",
+    "Reno",
+    "Sparks"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:48:28Z",
+  "layer_id_s": "restricted-figgy:06abcb28-6040-4501-b049-f4887a37ac63",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b7b8e2e6-7202-46a8-8bb7-2c6541bf84d0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2c35821e-b98b-4942-a73b-f7e5427d9673/file/34ba9992-2873-4e06-9426-521ff32f3aa4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06abcb28-6040-4501-b049-f4887a37ac63/file/96eb50c4-dbca-4ee3-abb4-bd076d93041b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06abcb28-6040-4501-b049-f4887a37ac63/file/eeb8f457-11e2-4385-8dd9-ed14552861b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

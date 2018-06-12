@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n009w3929",
+  "layer_slug_s": "princeton-n009w3929",
+  "uuid": "princeton-n009w3929",
+  "dc_title_s": "Romania Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(21.221703, 28.632962, 47.790823, 44.177731)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:06:19Z",
+  "layer_id_s": "restricted-figgy:967fdfd7-cffc-4480-bb68-5ee2126ffd1f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5807835e-923f-4f8f-a8e0-ee527b5ae08c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/03ec0dec-f6ac-4415-a40c-7e14b697595a/file/4b7efdf6-3376-49de-abf3-d70f19f40f08\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/967fdfd7-cffc-4480-bb68-5ee2126ffd1f/file/5cb1e8e3-5a88-40e0-85c3-13c24e32b036\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/967fdfd7-cffc-4480-bb68-5ee2126ffd1f/file/f8d118e3-e938-4aba-89d5-50774172522f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

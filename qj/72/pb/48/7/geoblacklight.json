@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qj72pb487",
+  "layer_slug_s": "princeton-qj72pb487",
+  "uuid": "princeton-qj72pb487",
+  "dc_title_s": "St. Mary's County, Maryland roads, 2011",
+  "solr_geom": "ENVELOPE(-76.85767, -76.321164, 38.51173, 38.039049)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in St. Mary's County, Maryland, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "St. Mary's",
+    "St. Mary's County",
+    "Maryland",
+    "Potomac River",
+    "Chesapeake Bay"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:00:42Z",
+  "layer_id_s": "restricted-figgy:41062e5a-69ba-494e-8d3d-bf91a7411b22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9d649ef1-5bbf-46c8-ac76-98d9b966e889\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/030df083-76d2-449d-9fce-38c7baa1ddea/file/08473298-2014-4b52-803f-5a54835c1e4d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41062e5a-69ba-494e-8d3d-bf91a7411b22/file/9fa611bb-4638-45be-91d0-3cd0d73d47f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41062e5a-69ba-494e-8d3d-bf91a7411b22/file/62aaa509-6a35-40d8-ad4a-b6d9d0351362\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

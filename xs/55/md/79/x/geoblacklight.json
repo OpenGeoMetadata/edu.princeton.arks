@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55md79x",
+  "layer_slug_s": "princeton-xs55md79x",
+  "uuid": "princeton-xs55md79x",
+  "dc_title_s": "South Korea Cities With Population From 25 Thousand To 50 Thousand, 1997",
+  "solr_geom": "ENVELOPE(126.605598, 129.166122, 37.686996, 34.567047)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes South Korea cities with population between 25 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 25K"
+  ],
+  "dct_spatial_sm": [
+    "South Korea"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:15:59Z",
+  "layer_id_s": "restricted-figgy:056bcdd8-5cf3-4b99-b0d2-0931377767c5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0d4a52b1-bd5f-4257-87f3-00555b686141\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e45a984a-4adc-4ec1-a563-a5c5ebf30389/file/4646a26b-60f9-438d-8626-d139577ea8eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/056bcdd8-5cf3-4b99-b0d2-0931377767c5/file/2b8109f4-8e7b-4b61-9705-13c8d205dd52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/056bcdd8-5cf3-4b99-b0d2-0931377767c5/file/fd988edb-af42-4e5c-b78d-7c6671a06de9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

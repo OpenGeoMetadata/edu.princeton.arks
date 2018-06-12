@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv935635z",
+  "layer_slug_s": "princeton-nv935635z",
+  "uuid": "princeton-nv935635z",
+  "dc_title_s": "New York City Election Districts 2008",
+  "solr_geom": "ENVELOPE(-74.257233, -73.699214, 40.915808, 40.495972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New York City Board of Elections election districts for the City of New York.  These district boundaries represent the redistricting as of the US Census 2000.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "New York City Department of City Planning",
+  "dc_subject_sm": [
+    "Election District",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T01:21:10Z",
+  "layer_id_s": "restricted-figgy:b2d70b15-c7c4-4f8c-a3dd-5eb734469f9f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/16502277-ebe9-49e0-bbfc-47a95c8da06b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b0a23f65-70a7-4dd6-af18-376c385fd534/file/f992b1e7-6d79-45d1-913c-a07a39b889b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2d70b15-c7c4-4f8c-a3dd-5eb734469f9f/file/f87ca16f-aa47-4317-a2a3-6784a4a11aef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2d70b15-c7c4-4f8c-a3dd-5eb734469f9f/file/1cb93ddb-4d8d-4931-97d5-20cf077b0547\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

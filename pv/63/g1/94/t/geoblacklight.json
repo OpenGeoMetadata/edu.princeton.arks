@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pv63g194t",
+  "layer_slug_s": "princeton-pv63g194t",
+  "uuid": "princeton-pv63g194t",
+  "dc_title_s": "Baldwin County, Alabama land parcels, 2008",
+  "solr_geom": "ENVELOPE(-88.035309, -87.387928, 31.318653, 30.223173)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Tax Parcel Boundaries for Baldwin County, Alabama.",
+  "dc_creator_sm": [
+    "Baldwin County Commission"
+  ],
+  "dc_publisher_s": "Baldwin County Revenue Commission",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "land value",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Baldwin County",
+    "Alabama"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:38:01Z",
+  "layer_id_s": "restricted-figgy:df9e1916-0d78-41a1-b6a4-5f4940013f5b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/611a2591-f4d8-48e5-87c1-6c8eae46126a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5334e7b7-636e-40c9-b6d8-f10f69717567/file/636b6b5e-31a8-4949-8145-4ebabbe57249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df9e1916-0d78-41a1-b6a4-5f4940013f5b/file/069b5102-f05c-452d-a218-7b4c96889c91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df9e1916-0d78-41a1-b6a4-5f4940013f5b/file/c07fba78-8bea-47e0-b7fa-8b7568961a76\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

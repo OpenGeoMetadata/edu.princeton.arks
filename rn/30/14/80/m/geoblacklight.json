@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn301480m",
+  "layer_slug_s": "princeton-rn301480m",
+  "uuid": "princeton-rn301480m",
+  "dc_title_s": "Logan County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.014662, -83.519735, 40.538738, 40.22926)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Logan County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Logan",
+    "Logan County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:19Z",
+  "layer_id_s": "restricted-figgy:50d6fa97-611b-4dda-acd1-95bcbd8e756a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8b4008e0-7236-4a5f-b66b-2035bfa40e4b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b0fdfe0f-51c0-4f5d-982b-869d104252ba/file/f44ad100-0d9d-4358-b3a1-eed81c80ff1b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50d6fa97-611b-4dda-acd1-95bcbd8e756a/file/ad654aa2-549c-40d4-8f42-1c9f2d430536\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50d6fa97-611b-4dda-acd1-95bcbd8e756a/file/ecd590f2-75e8-4c36-89da-8f8d33e4956c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

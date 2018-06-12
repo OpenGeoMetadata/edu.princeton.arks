@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jz01c",
+  "layer_slug_s": "princeton-8910jz01c",
+  "uuid": "princeton-8910jz01c",
+  "dc_title_s": "Humphreys County, Tennessee roads, 2014",
+  "solr_geom": "ENVELOPE(-88.000672, -87.529957, 36.244286, 35.803997)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Humphreys County, Tennessee, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Humphreys",
+    "Humphreys County",
+    "Tennessee"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:36Z",
+  "layer_id_s": "restricted-figgy:c21b1a78-0970-4e0d-bb91-ad2fdb16dcb1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5aded559-c9ec-43b2-88f4-cce5a38779d8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64b1a26b-4585-44f9-938a-cc6b0351531a/file/df14f1c3-f3a0-49ec-b512-2b1ac8c67085\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c21b1a78-0970-4e0d-bb91-ad2fdb16dcb1/file/7f0c5b74-d687-4183-ab98-d7088a923e78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c21b1a78-0970-4e0d-bb91-ad2fdb16dcb1/file/73edb1e5-8703-4171-a3d8-e74bfba9b7c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kf08v",
+  "layer_slug_s": "princeton-5425kf08v",
+  "uuid": "princeton-5425kf08v",
+  "dc_title_s": "Cameron County, Texas roads, 2009",
+  "solr_geom": "ENVELOPE(-97.937943, -97.144867, 26.348076, 25.856284)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Cameron County, Texas, 2009. True Automation GIS Services created this feature class to represent spatial data within the given county. The construction of this basemap was commissioned by the CAD.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Cameron",
+    "Cameron County",
+    "Brownsville"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:35Z",
+  "layer_id_s": "restricted-figgy:a9a7bbf5-013e-445b-8e21-7f02a193f244",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc4bd670-02e8-4485-ba22-dc34ddad60ce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/18fd525c-c6ee-4887-8d3b-1f3f55f05305/file/54fafe56-c04b-4b80-93ab-531f11d2cdf0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9a7bbf5-013e-445b-8e21-7f02a193f244/file/7e60c180-94c7-47fb-89c6-f83cf29e339c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9a7bbf5-013e-445b-8e21-7f02a193f244/file/8e5e2f89-d241-458c-aa47-89f27d7dd5e0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

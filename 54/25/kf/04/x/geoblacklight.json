@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kf04x",
+  "layer_slug_s": "princeton-5425kf04x",
+  "uuid": "princeton-5425kf04x",
+  "dc_title_s": "Maui County, Hawaii land parcels, 2009",
+  "solr_geom": "ENVELOPE(-157.310868, -155.976501, 21.224154, 20.500905)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Maui County, Hawaii, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maui County",
+    "Maui",
+    "Hawaii",
+    "Lanai",
+    "Molokai",
+    "Kahoolawe"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T21:56:55Z",
+  "layer_id_s": "restricted-figgy:1debba45-7fb3-468d-a7f4-461cd91ce6dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a9f36161-8a7b-41b5-acb6-b9cd1098b6cd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/51721b16-dfb8-4d5d-939b-a802234eca9e/file/9c6707b7-b4b4-4b44-a228-9e9f223d211c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1debba45-7fb3-468d-a7f4-461cd91ce6dd/file/4f42b1cb-26bc-498d-a578-017254fe4f65\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1debba45-7fb3-468d-a7f4-461cd91ce6dd/file/12c3bc8b-63b4-4e49-aa85-8a4f16e773a6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

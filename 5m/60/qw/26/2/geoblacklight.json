@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qw262",
+  "layer_slug_s": "princeton-5m60qw262",
+  "uuid": "princeton-5m60qw262",
+  "dc_title_s": "Henry County, Ohio land parcels, 2007",
+  "solr_geom": "ENVELOPE(-84.341898, -83.881137, 41.487629, 41.165882)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Henry County, Ohio, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Henry",
+    "Henry County"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:01:14Z",
+  "layer_id_s": "restricted-figgy:5ca2aeff-b5f5-4d54-80b0-f173497d8fb5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/18d79a8c-9cf5-4abf-bb5c-1bb0707b5ab6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a9a67080-f9f6-4b36-9dc3-821cba029537/file/40b3125b-343d-43c4-8d04-7d8615c9a748\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ca2aeff-b5f5-4d54-80b0-f173497d8fb5/file/6c586fb0-4438-4e71-8fe8-3b397d8966aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ca2aeff-b5f5-4d54-80b0-f173497d8fb5/file/17357b44-08c3-4522-b47b-949e7cd70cc9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

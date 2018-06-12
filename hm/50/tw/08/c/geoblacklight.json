@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tw08c",
+  "layer_slug_s": "princeton-hm50tw08c",
+  "uuid": "princeton-hm50tw08c",
+  "dc_title_s": "Cumberland County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-70.866623, -70.013428, 44.171036, 43.537889)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Cumberland County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cumberland",
+    "Cumberland County",
+    "Maine",
+    "Portland"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:05:13Z",
+  "layer_id_s": "restricted-figgy:1878a726-c6be-4bf7-a6cb-238595ace888",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e2cd9001-9ef2-45ea-8072-603a10581223\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea4d5e13-b1fb-40de-b3a8-07fc4e7de319/file/d0de316e-46b1-41a3-bb8a-f3c47718b64b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1878a726-c6be-4bf7-a6cb-238595ace888/file/97a4311c-b935-49dc-bd19-c575811cdbca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1878a726-c6be-4bf7-a6cb-238595ace888/file/add9ea2f-2b6d-4166-956a-9ca963bddaa9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

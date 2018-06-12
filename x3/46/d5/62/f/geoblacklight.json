@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d562f",
+  "layer_slug_s": "princeton-x346d562f",
+  "uuid": "princeton-x346d562f",
+  "dc_title_s": "Denmark Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(8.47332, 14.697272, 57.7186, 54.765785)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Denmark cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:27Z",
+  "layer_id_s": "restricted-figgy:b3f37b0b-ded6-43b0-b4d0-28808c32ec26",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3e685fb3-8c07-48b2-ba3a-4218493b4507\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e5f6def4-07df-4ad8-8092-39b0a55cab74/file/e3d74538-3a7c-4abc-af2b-cceb3fa5b261\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b3f37b0b-ded6-43b0-b4d0-28808c32ec26/file/1427c571-0e72-47f9-9135-30e76d982ab6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b3f37b0b-ded6-43b0-b4d0-28808c32ec26/file/bae70237-b6e3-4b72-bceb-24df46e5fa95\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

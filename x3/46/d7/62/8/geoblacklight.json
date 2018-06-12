@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d7628",
+  "layer_slug_s": "princeton-x346d7628",
+  "uuid": "princeton-x346d7628",
+  "dc_title_s": "Grand County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-110.15641, -109.051744, 39.462293, 38.497976)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Grand County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Grand",
+    "Grand County",
+    "Utah",
+    "Arches National Park",
+    "Canyonlands National Park",
+    "Manti-La Sal National Forest",
+    "Uintah and Ouray Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:22Z",
+  "layer_id_s": "restricted-figgy:47e6f101-ada9-413b-99c2-9982a10be969",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7f83d7d5-f0ba-4325-acc0-99d2b264c715\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/61731ecd-2b74-44a8-afac-7577576e1608/file/3569fd18-4764-4423-ad7c-cfefe60af47f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/47e6f101-ada9-413b-99c2-9982a10be969/file/de670523-99e5-4142-9823-3f6c0f3d5ee4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/47e6f101-ada9-413b-99c2-9982a10be969/file/7d834e55-4a49-4205-870b-aec1a9866053\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

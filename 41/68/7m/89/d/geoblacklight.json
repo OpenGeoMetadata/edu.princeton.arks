@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687m89d",
+  "layer_slug_s": "princeton-41687m89d",
+  "uuid": "princeton-41687m89d",
+  "dc_title_s": "Porter County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.22259, -86.929657, 41.711137, 41.220029)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Porter County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Porter",
+    "Porter County",
+    "Indiana",
+    "Chicago",
+    "Indiana Dunes National Lakeshore"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:14Z",
+  "layer_id_s": "restricted-figgy:afebfadc-e9b3-4965-9cf0-abc4933e742d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0f8d7e17-1282-47f5-8187-0c8386c34510\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3ff8513-2386-43e8-96e5-ee883eb4e9bb/file/81b98648-0f01-4d49-b7b4-f7b214b207c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afebfadc-e9b3-4965-9cf0-abc4933e742d/file/b5195838-ab71-4683-a57d-3d2f68ac7287\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afebfadc-e9b3-4965-9cf0-abc4933e742d/file/2db43170-28f3-439a-9b38-575dc3ad3571\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

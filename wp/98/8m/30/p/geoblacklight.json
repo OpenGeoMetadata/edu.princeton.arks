@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wp988m30p",
+  "layer_slug_s": "princeton-wp988m30p",
+  "uuid": "princeton-wp988m30p",
+  "dc_title_s": "Rockland County, New York land parcels, 2007",
+  "solr_geom": "ENVELOPE(-74.234424, -73.891103, 41.321953, 40.997058)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Rockland County, New York, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Rockland",
+    "Rockland County",
+    "Hudson Valley",
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:39:12Z",
+  "layer_id_s": "restricted-figgy:8f6ec564-05fe-4050-a0dc-3c83b6c62a2a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/17caa159-b2f4-40da-86e9-12a681345299\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d6a28c8-a658-4f36-a68c-0b68b15668e7/file/f777e776-adc1-4334-9cfe-f378b93e9ad2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f6ec564-05fe-4050-a0dc-3c83b6c62a2a/file/d93ed3e6-0ad5-47f8-a281-2da03e8fd9b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f6ec564-05fe-4050-a0dc-3c83b6c62a2a/file/f5596232-c87e-4ad7-9931-2c2cbb117cff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

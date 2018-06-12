@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp75b",
+  "layer_slug_s": "princeton-d504rp75b",
+  "uuid": "princeton-d504rp75b",
+  "dc_title_s": "Summit County, Utah land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.649129, -110.000674, 41.251623, 40.548347)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Summit County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Summit",
+    "Summit County",
+    "Utah",
+    "Salt Lake City"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:25Z",
+  "layer_id_s": "restricted-figgy:aa52d8ba-616b-4d4f-9fbf-1b7f874eae44",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1f972b7c-2c29-4eba-846a-1b2740cd782b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f985aa53-8114-420d-9c14-669f66308976/file/c5d00bdb-eaf4-4e8f-8363-6a857bf2fa5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa52d8ba-616b-4d4f-9fbf-1b7f874eae44/file/7b83fe1e-9708-4750-82c6-9a8b3512f44a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa52d8ba-616b-4d4f-9fbf-1b7f874eae44/file/a6731254-fa0a-415c-95e8-86fdbb97d77b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

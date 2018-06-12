@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010t43n",
+  "layer_slug_s": "princeton-dz010t43n",
+  "uuid": "princeton-dz010t43n",
+  "dc_title_s": "Global 2G mobile coverage, 2014",
+  "solr_geom": "ENVELOPE(-179.999989, 180.0, 78.38338, -62.266667)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Representation of the area covered by GSM (2G) mobile communications around the world as of December 2014.",
+  "dc_creator_sm": [
+    "Collins Bartholomew Ltd."
+  ],
+  "dc_subject_sm": [
+    "telephone",
+    "telephones",
+    "telecommunications",
+    "telecom",
+    "mobile",
+    "network",
+    "coverage",
+    "communications",
+    "roaming",
+    "GSMA",
+    "GSM",
+    "2G",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:23:22Z",
+  "layer_id_s": "restricted-figgy:449bbdb5-5a28-4ec1-a726-a3c7376ce3ff",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fe45e76-4702-4217-92fc-ab5cdf270626\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72061eb3-8d91-4d84-859d-098a249a2797/file/f963118b-7574-4650-955f-63b64b9e15c3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/449bbdb5-5a28-4ec1-a726-a3c7376ce3ff/file/63ae9942-08a2-41dc-bde9-15909c93c878\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/449bbdb5-5a28-4ec1-a726-a3c7376ce3ff/file/0b65867b-c46f-463f-aa0a-3ac31f422e17\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

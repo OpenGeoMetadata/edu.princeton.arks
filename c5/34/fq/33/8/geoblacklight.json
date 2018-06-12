@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fq338",
+  "layer_slug_s": "princeton-c534fq338",
+  "uuid": "princeton-c534fq338",
+  "dc_title_s": "Sweden Municipality Boundaries, 2005",
+  "solr_geom": "ENVELOPE(10.967347, 24.1856, 69.065308, 55.336319)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Sweden created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:16Z",
+  "layer_id_s": "restricted-figgy:c507a9e0-6a41-49bb-bb93-555386583dfa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a611cec6-9dc7-4740-86b9-bc32c7c8617b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f765662f-d1a0-4f16-9238-4ce68f9d581c/file/184b1b4d-5e23-4086-8c08-bf26af515f23\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c507a9e0-6a41-49bb-bb93-555386583dfa/file/0f538a4f-6a60-4972-8729-dc3d5c5412d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c507a9e0-6a41-49bb-bb93-555386583dfa/file/02bb1c01-eb82-43f2-b973-bf5fb4423fce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

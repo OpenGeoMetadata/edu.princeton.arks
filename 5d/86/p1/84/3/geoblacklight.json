@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5d86p1843",
+  "layer_slug_s": "princeton-5d86p1843",
+  "uuid": "princeton-5d86p1843",
+  "dc_title_s": "U.S. Metropolitan Statistical Areas 2000",
+  "solr_geom": "ENVELOPE(-158.280943, -65.589947, 61.483922, 17.931042)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Metropolitan Statistical Areas represents geographic entities, defined by the United States Office of Management and Budget for use by Federal statistical agencies, based on the concept of a core area with a large population nucleus, plus adjacent communities having a high degree of economic and social integration with that core. Qualification of an Metropolitan Statistical Area (MSA) requires the presence of a city with 50,000 or more inhabitants, or the presence of an urbanized area and a total population of at least 100,000 (75,000 in New England). The county or counties containing the largest city and surrounding densely settled territory are central counties of the MSA. Additional outlying counties qualify to be included in the MSA by meeting certain other criteria of metropolitan character, such as a specified minimum population density or percentage of the population that is urban. MSAs in New England are defined in terms of cities and towns, following rules concerning commuting and population density. MSAs were first defined and effective June 30, 1983.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "metropolitan statistical areas",
+    "msa",
+    "cities",
+    "urbanized areas"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T03:06:30Z",
+  "layer_id_s": "restricted-figgy:12bd91d7-026c-4f88-8da8-f5009b467eeb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/93518af6-7864-48df-9e65-69df88e7fda0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13b37a14-0e11-44a9-880b-a6f22de85099/file/38602ac1-aa13-4df9-ac45-e1d9a7afe2ca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/12bd91d7-026c-4f88-8da8-f5009b467eeb/file/c48f5982-bd1a-496d-85ab-0ed76fc7e7be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/12bd91d7-026c-4f88-8da8-f5009b467eeb/file/4b3229d4-3d39-4957-bf60-fb7ef5d6fa05\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

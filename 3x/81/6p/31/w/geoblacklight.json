@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816p31w",
+  "layer_slug_s": "princeton-3x816p31w",
+  "uuid": "princeton-3x816p31w",
+  "dc_title_s": "Nairobi streets, roads and railroads",
+  "solr_geom": "ENVELOPE(36.729225, 36.964236, -1.220896, -1.361033)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Nairobi street, road and raildroad data. DigitalGlobe QuickBird CitySphere acquired.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_publisher_s": "LAND INFO Worldwide Mapping, LLC",
+  "dc_subject_sm": [
+    "Transportation networks",
+    "Roads",
+    "Streets",
+    "Railroads"
+  ],
+  "dct_spatial_sm": [
+    "Nairobi",
+    "Kenya"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:22Z",
+  "layer_id_s": "restricted-figgy:7291d55a-a2de-4e34-b4d7-1aba5cd1cb96",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8c9b0c12-a3ce-4830-9ef2-4503cd58efba\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28e0a905-df2a-447f-b704-35f442d2fbe6/file/3082a3d4-297a-4ec7-9d58-aad5ea244b57\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7291d55a-a2de-4e34-b4d7-1aba5cd1cb96/file/262dbf9a-1e45-4394-9f33-9271a4d82717\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7291d55a-a2de-4e34-b4d7-1aba5cd1cb96/file/b5e16be4-0c81-40c7-8f31-7e45f27f4eaf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

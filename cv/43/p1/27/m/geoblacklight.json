@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cv43p127m",
+  "layer_slug_s": "princeton-cv43p127m",
+  "uuid": "princeton-cv43p127m",
+  "dc_title_s": "Q3 flood data, District of Columbia",
+  "solr_geom": "ENVELOPE(-77.1201, -76.909368, 38.995752, 38.791757)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for District of Columbia, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington DC",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T00:36:31Z",
+  "layer_id_s": "restricted-figgy:b5e67956-7cac-4dfa-bf71-1867ca2a5698",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a08c09bb-949f-438e-804f-8193054ff9a6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5430c8ec-de34-4df0-a21f-3ad3566a909b/file/ba679c78-7400-45b5-bf81-42c14406b724\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5e67956-7cac-4dfa-bf71-1867ca2a5698/file/301d275d-c57c-46fa-b280-f5e403667377\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5e67956-7cac-4dfa-bf71-1867ca2a5698/file/b2fd0160-78f2-4fa1-9e88-0870e0bf4504\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sf408",
+  "layer_slug_s": "princeton-mp48sf408",
+  "uuid": "princeton-mp48sf408",
+  "dc_title_s": "Taiwan Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(120.128932, 121.837434, 25.085017, 22.002246)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Taiwan cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Taiwan",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:35Z",
+  "layer_id_s": "restricted-figgy:bd2f9ebd-28b1-452e-a7cc-c3b8581d98d4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/77b40c6a-d634-4564-aef8-caa2b90c6f65\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/abda86b2-744d-42ae-84ab-060bba89347c/file/78428495-7638-4c73-a680-7a5ad8c99a19\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd2f9ebd-28b1-452e-a7cc-c3b8581d98d4/file/95bb0266-0782-48cd-9132-82c713449f16\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd2f9ebd-28b1-452e-a7cc-c3b8581d98d4/file/cbdf2d37-264a-4268-aee9-eaccd2861b46\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

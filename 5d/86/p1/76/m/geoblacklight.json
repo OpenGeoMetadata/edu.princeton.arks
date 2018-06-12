@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5d86p176m",
+  "layer_slug_s": "princeton-5d86p176m",
+  "uuid": "princeton-5d86p176m",
+  "dc_title_s": "India Cities With Population From 25 Thousand to 100 Thousand, 1997",
+  "solr_geom": "ENVELOPE(69.654591, 95.707694, 31.521497, 9.550628)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes India cities with population between 25 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 25K"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:51Z",
+  "layer_id_s": "restricted-figgy:58081e22-e88e-4d7b-81fc-d57fdba30f35",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5041062-8e93-41d2-9b3d-5f41c671b950\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/759e2b2e-98ea-4a9f-b27c-8655f2237d50/file/8f56bf46-12cc-4329-8bd0-ab3f7b834476\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58081e22-e88e-4d7b-81fc-d57fdba30f35/file/f3ebc72e-0b87-45c8-aced-554d12baa0f8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58081e22-e88e-4d7b-81fc-d57fdba30f35/file/4d0749f1-531f-43b0-9a1c-e8358cf0bcef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

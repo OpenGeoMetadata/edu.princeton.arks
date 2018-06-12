@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vj347",
+  "layer_slug_s": "princeton-zk51vj347",
+  "uuid": "princeton-zk51vj347",
+  "dc_title_s": "Vermont Tracts 2002",
+  "solr_geom": "ENVELOPE(-73.437741, -71.464556, 45.01666, 42.726853)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Vermont Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Vermont.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Vermont"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:44:57Z",
+  "layer_id_s": "restricted-figgy:b2a42785-9789-4cf5-94ef-1321ff90b5a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9de15680-e25c-4f6b-9cfa-31de64c2f6b1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5ab15f44-cffd-4b3b-8a56-2b2f96133490/file/1da7a1c2-2b50-49b1-84ab-16efa33adb27\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2a42785-9789-4cf5-94ef-1321ff90b5a3/file/5575c304-6d40-4751-ae73-5cc9a6030608\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2a42785-9789-4cf5-94ef-1321ff90b5a3/file/123b3708-6b1e-4050-8637-9895d48824b1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

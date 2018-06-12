@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4f16c618d",
+  "layer_slug_s": "princeton-4f16c618d",
+  "uuid": "princeton-4f16c618d",
+  "dc_title_s": "Douglas County, Wisconsin land parcels, 2014",
+  "solr_geom": "ENVELOPE(-92.293523, -91.550744, 46.757263, 46.156937)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Douglas County, Wisconsin, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Douglas",
+    "Douglas County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:54:52Z",
+  "layer_id_s": "restricted-figgy:f8b62c56-abda-4759-b965-178ffcf5f6f2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/04974f4f-822b-4268-a910-fc7724b0b0de\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d7aee9d7-a32e-4158-a02b-28d64c1bd719/file/42bf1959-12f7-4b48-965a-e28db3845208\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8b62c56-abda-4759-b965-178ffcf5f6f2/file/f75ac9c9-6e2a-4ada-bfdd-2d2c73132bc7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8b62c56-abda-4759-b965-178ffcf5f6f2/file/fe7da069-ac1b-4dcc-acc1-a57eaa6ea302\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

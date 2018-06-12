@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pr76f4946",
+  "layer_slug_s": "princeton-pr76f4946",
+  "uuid": "princeton-pr76f4946",
+  "dc_title_s": "Idaho Major Roads 2002",
+  "solr_geom": "ENVELOPE(-117.054476, -111.043856, 49.000784, 41.981335)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Idaho Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Idaho.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:49:42Z",
+  "layer_id_s": "restricted-figgy:a051e3d1-d85f-4b08-b627-a5bdbd78e1d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/97406f19-c46c-4804-be30-80240bcc4340\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72f05112-b6f2-477e-a00e-ef3128a3a371/file/4b6be8e6-10b9-4128-8451-07c3313fa665\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a051e3d1-d85f-4b08-b627-a5bdbd78e1d7/file/336dd8ea-854c-45ef-8dbb-88d0e3759cb2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a051e3d1-d85f-4b08-b627-a5bdbd78e1d7/file/171337a1-5cec-4283-98ac-c21fb5503ad5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

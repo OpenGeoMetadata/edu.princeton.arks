@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j098zc745",
+  "layer_slug_s": "princeton-j098zc745",
+  "uuid": "princeton-j098zc745",
+  "dc_title_s": "World Regions 2008",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.6236, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Regions represents the boundaries for the regions of the world. There are 25 commonly recognized world regions.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "polygon",
+    "regions",
+    "coastlines",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998",
+    "2000",
+    "2007"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T02:55:09Z",
+  "layer_id_s": "restricted-figgy:045774db-9e2c-4d3f-9e3e-f3677ff1d4ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/46fe86f6-7622-4a5f-987c-81738a8ccb98\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ed39808-f4e9-4793-95fc-2769a552b129/file/5a98644b-a77e-4d3e-8872-dafd44e9ef91\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/045774db-9e2c-4d3f-9e3e-f3677ff1d4ab/file/7e4a01ad-bc33-4f84-a401-d943323158a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/045774db-9e2c-4d3f-9e3e-f3677ff1d4ab/file/340e3773-6c34-400f-85ea-95a2f386a43f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89d805f",
+  "layer_slug_s": "princeton-pn89d805f",
+  "uuid": "princeton-pn89d805f",
+  "dc_title_s": "France Minor City Areas, 2005",
+  "solr_geom": "ENVELOPE(-4.635861, 9.45458, 51.052391, 41.919498)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes France minor city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Minor Cities"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:16Z",
+  "layer_id_s": "restricted-figgy:8cd8f83f-17cc-4123-9350-66a40c4a7160",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/032eb626-3594-4c0e-9bd0-4056d7aa5059\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c7470976-cab3-4014-997b-621fba7c3db7/file/24aa70a9-47de-403f-9024-410b039e9d47\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cd8f83f-17cc-4123-9350-66a40c4a7160/file/54943f26-3859-41d6-bb3b-9d696028f65a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cd8f83f-17cc-4123-9350-66a40c4a7160/file/eee284c2-5afb-473d-97a4-10d373ab18e7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

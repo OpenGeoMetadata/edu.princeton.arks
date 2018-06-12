@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj1393713",
+  "layer_slug_s": "princeton-sj1393713",
+  "uuid": "princeton-sj1393713",
+  "dc_title_s": "Kansas Block Groups 2002",
+  "solr_geom": "ENVELOPE(-102.051769, -94.588081, 40.003166, 36.993083)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Kansas Block Groups represents the U.S. Census block groups of Kansas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Kansas"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:14Z",
+  "layer_id_s": "restricted-figgy:4e504e00-025e-495f-a413-c82c7b0fd9c9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e34a0ca7-b0c1-42cb-806f-717bb0548239\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e80afeae-da7a-4313-bff2-4068cfaf6c9f/file/9012695e-8809-47a3-8fba-2db97bbef2cd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e504e00-025e-495f-a413-c82c7b0fd9c9/file/3491054e-5154-4828-bd3e-b3b3f0064fb6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e504e00-025e-495f-a413-c82c7b0fd9c9/file/38c469dd-e11b-4424-9f3a-f9182c141a7d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cv43p1226",
+  "layer_slug_s": "princeton-cv43p1226",
+  "uuid": "princeton-cv43p1226",
+  "dc_title_s": "Morgan County, Georgia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.690893, -83.269248, 33.81781, 33.42804)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Morgan County, Georgia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Morgan",
+    "Morgan County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:17Z",
+  "layer_id_s": "restricted-figgy:9b02e693-4710-48b5-ad14-cd6493168b0c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f3dc52a2-4ab7-47e6-93da-84fa62d9c166\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/820caaac-a05b-4c6e-a5d0-ed8ccfc75b37/file/407dbf4e-8198-457a-879e-03032881dd90\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b02e693-4710-48b5-ad14-cd6493168b0c/file/03c860c7-2c30-4053-8385-64d3358b711f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b02e693-4710-48b5-ad14-cd6493168b0c/file/a6a8fdec-bd0a-4781-8f1e-c758aa594479\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

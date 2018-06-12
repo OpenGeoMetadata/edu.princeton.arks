@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sx61dq652",
+  "layer_slug_s": "princeton-sx61dq652",
+  "uuid": "princeton-sx61dq652",
+  "dc_title_s": "Tehama County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-123.03296, -121.343388, 40.451941, 39.798297)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Tehama County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Tehama",
+    "Tehama County",
+    "California",
+    "Mendocino National Forest",
+    "Sacramento River",
+    "Lassen Volcanic National Park"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:06:37Z",
+  "layer_id_s": "restricted-figgy:bd59e328-8276-4c1b-9430-7ac5d54525a6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/766ef768-f992-4cd9-bf84-b4dbf1ce5a28\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2a5bf05d-82a4-41fd-99ba-d9ccb49a6e28/file/90b00cf7-42f5-4a4d-a449-0606746c2d71\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd59e328-8276-4c1b-9430-7ac5d54525a6/file/7be07990-d601-477e-8990-2658bb81e71e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd59e328-8276-4c1b-9430-7ac5d54525a6/file/9cd0d45e-768e-494e-91b5-8bca8c94fcf8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

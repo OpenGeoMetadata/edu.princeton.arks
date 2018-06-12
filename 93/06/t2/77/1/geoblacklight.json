@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9306t2771",
+  "layer_slug_s": "princeton-9306t2771",
+  "uuid": "princeton-9306t2771",
+  "dc_title_s": "Hampshire County, Massachusetts land parcels, 2014",
+  "solr_geom": "ENVELOPE(-73.068508, -72.203281, 42.556037, 42.18339)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hampshire County, Massachusetts, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Hampshire",
+    "Hampshire County",
+    "Amherst",
+    "Springfield"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:44Z",
+  "layer_id_s": "restricted-figgy:15bafde7-299b-436b-916d-6310ac5de8c8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/80314fa9-528a-4c04-9e74-d7116d2bc02f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/455fa091-97d1-4fd2-bc0b-179b48e3b077/file/4a8075a9-e403-4643-9a88-e66d61b6e9dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15bafde7-299b-436b-916d-6310ac5de8c8/file/bd87451e-62a3-42a8-8b59-ed24df228c93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15bafde7-299b-436b-916d-6310ac5de8c8/file/f45c9472-502d-4746-a706-4a3b6c664806\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r178q",
+  "layer_slug_s": "princeton-z603r178q",
+  "uuid": "princeton-z603r178q",
+  "dc_title_s": "Marin County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-123.022806, -122.433965, 38.317222, 37.821787)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Marin County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Marin",
+    "Marin County",
+    "San Francisco",
+    "Bay Area",
+    "Point Reyes National Seashore",
+    "Golden Gate National Recreation Area"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:50:11Z",
+  "layer_id_s": "restricted-figgy:aeedfa57-ab04-490c-be23-fccc5f13abd5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/03582c1c-aaf6-4bee-9457-0146be60e8ae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed9f70b2-d9cd-49f4-bef9-78b0a41c5737/file/9f0c5248-ca8b-4a30-9b3b-2815c0fb4e00\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aeedfa57-ab04-490c-be23-fccc5f13abd5/file/5b1dca2e-b94a-4517-8f41-6d19ffce4cd4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aeedfa57-ab04-490c-be23-fccc5f13abd5/file/52758c69-0fd3-453e-824a-6150419db446\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

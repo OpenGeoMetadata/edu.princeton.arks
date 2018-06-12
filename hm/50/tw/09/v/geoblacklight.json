@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tw09v",
+  "layer_slug_s": "princeton-hm50tw09v",
+  "uuid": "princeton-hm50tw09v",
+  "dc_title_s": "Kitsap County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.027466, -122.462148, 47.94711, 47.403091)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kitsap County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington State",
+    "Washington",
+    "Kitsap County",
+    "Kitsap",
+    "Seattle",
+    "Puget Sound",
+    "Salish Sea"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:14:23Z",
+  "layer_id_s": "restricted-figgy:1beef03b-cd9c-4226-b997-e208e8b7682c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de3e140f-28bb-4d58-9bf5-042bfa7d61b4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6904d285-6a7f-4ddc-ae77-076809b2ddd4/file/cc050ed6-64f4-41f2-93e2-6cfc6d34c4eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1beef03b-cd9c-4226-b997-e208e8b7682c/file/ba46d825-b9b3-4147-b276-16604e9134bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1beef03b-cd9c-4226-b997-e208e8b7682c/file/1d7ca134-94dc-4234-bf7d-f3a7295c5a37\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

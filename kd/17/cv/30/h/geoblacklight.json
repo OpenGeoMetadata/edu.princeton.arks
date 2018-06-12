@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kd17cv30h",
+  "layer_slug_s": "princeton-kd17cv30h",
+  "uuid": "princeton-kd17cv30h",
+  "dc_title_s": "U.S. National Transportation Atlas Railroads 2002",
+  "solr_geom": "ENVELOPE(-124.511501, -67.234402, 49.002484, 25.440482)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Transportation Atlas Railroads represents a comprehensive database of the nation's railway system at 1:100,000 scale. The data set covers the 48 contiguous States plus the District of Columbia within United States.",
+  "dc_creator_sm": [
+    "Bureau of Transportation Statistics",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "railroads",
+    "railway",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1997",
+    "1996",
+    "199512"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:54:48Z",
+  "layer_id_s": "restricted-figgy:8358a0a8-91d5-4b89-912b-b1bc97db11f8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/45ec3663-4342-438d-8c0c-9d479ebb9c2a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/32987164-0577-4aa3-9dda-725ed8c82fc3/file/b0d7c73e-507e-4ae2-8a10-8b9862e842be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8358a0a8-91d5-4b89-912b-b1bc97db11f8/file/8cea2b2e-54a1-4a30-9917-e23268f3cb57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8358a0a8-91d5-4b89-912b-b1bc97db11f8/file/9da03066-8106-4110-aa64-3cf5803f8d25\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

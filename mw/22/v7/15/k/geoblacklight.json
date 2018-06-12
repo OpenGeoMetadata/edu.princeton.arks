@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mw22v715k",
+  "layer_slug_s": "princeton-mw22v715k",
+  "uuid": "princeton-mw22v715k",
+  "dc_title_s": "New York Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-79.761587, -71.863013, 45.009934, 40.490101)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New York Block Centroid Populations represents the population of the U.S. Census block centroids for New York.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:59:07Z",
+  "layer_id_s": "restricted-figgy:26f8bb2a-3c6b-4dff-ad30-6f38211a3713",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e7383058-e146-4d64-a670-73974d0c40c8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d7aae6d-15bc-41f8-b698-be530d1bfc8b/file/135bd715-aa08-4e88-a910-4dd6019c291b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/26f8bb2a-3c6b-4dff-ad30-6f38211a3713/file/e08ab530-680c-4e64-9479-62e6d4191289\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/26f8bb2a-3c6b-4dff-ad30-6f38211a3713/file/5929198a-da0c-4c21-bb93-b6c6d516dcce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

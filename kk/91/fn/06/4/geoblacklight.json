@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fn064",
+  "layer_slug_s": "princeton-kk91fn064",
+  "uuid": "princeton-kk91fn064",
+  "dc_title_s": "France Major Industrial Points, 2005",
+  "solr_geom": "ENVELOPE(-1.961945, 6.470972, 50.474083, 43.436028)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes France major industrial points created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "industry",
+    "economy",
+    "factories"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:02Z",
+  "layer_id_s": "restricted-figgy:9e187d9c-0bb5-48a3-8bd3-76d817d28c3d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e979bf2e-c2bb-4298-91c8-9f577254bd8d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cb78f551-c350-4d94-b1f0-915c14749b6b/file/5d585fde-4eb0-46cd-bccb-772617c57408\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e187d9c-0bb5-48a3-8bd3-76d817d28c3d/file/15cb5f8b-6587-4559-8ed9-056bf3179b9c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e187d9c-0bb5-48a3-8bd3-76d817d28c3d/file/f368dfa2-a782-41db-8da1-1ce3a613b03d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

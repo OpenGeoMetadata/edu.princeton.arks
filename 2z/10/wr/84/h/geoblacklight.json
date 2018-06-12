@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wr84h",
+  "layer_slug_s": "princeton-2z10wr84h",
+  "uuid": "princeton-2z10wr84h",
+  "dc_title_s": "Minnesota Major Roads 2002",
+  "solr_geom": "ENVELOPE(-97.237898, -89.585829, 49.000645, 43.499437)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Minnesota Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Minnesota.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:36Z",
+  "layer_id_s": "restricted-figgy:6385523a-19b4-4ca7-aa0e-afeaaa45a4ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5fcb717-25a5-4707-a71a-fafb10b777b2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/43c6fe0e-4f94-4965-88ac-0878acf5c82d/file/93c40464-0829-435b-b6b3-9e9c210a356b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6385523a-19b4-4ca7-aa0e-afeaaa45a4ac/file/10354cbd-b240-48e0-afdf-97222a59f3f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6385523a-19b4-4ca7-aa0e-afeaaa45a4ac/file/e73f8254-732b-446f-bb39-707db7c78d62\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn3014870",
+  "layer_slug_s": "princeton-rn3014870",
+  "uuid": "princeton-rn3014870",
+  "dc_title_s": "New York City State Senate Districts 2008",
+  "solr_geom": "ENVELOPE(-74.257233, -73.699214, 40.915808, 40.495972)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New York State Senate district boundaries for the City of New York.  These district boundaries represent the redistricting as of the US Census 2000.",
+  "dc_creator_sm": [
+    "New York City Department of City Planning"
+  ],
+  "dc_publisher_s": "New York City Department of City Planning",
+  "dc_subject_sm": [
+    "State Senate",
+    "Administrative Boundaries",
+    "Senate",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Manhattan",
+    "Staten Island",
+    "Brooklyn",
+    "Bronx",
+    "Queens"
+  ],
+  "dct_temporal_sm": [
+    "Apri"
+  ],
+  "layer_modified_dt": "2018-04-05T02:45:08Z",
+  "layer_id_s": "restricted-figgy:2023be2e-4c9b-4059-9b83-dc3d64783eb8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/04a50c48-4d20-4a63-8d08-0a65b23fca48\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b48c63e-9e1d-4869-a41d-ea050b3fb243/file/1d50726f-5813-4973-94a7-0049c71df849\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2023be2e-4c9b-4059-9b83-dc3d64783eb8/file/9bc0cd0d-8ba3-47f5-b40b-e3843955cad2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2023be2e-4c9b-4059-9b83-dc3d64783eb8/file/156264fc-51c0-4b75-b048-a2ea9d549a10\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

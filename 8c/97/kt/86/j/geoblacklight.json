@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kt86j",
+  "layer_slug_s": "princeton-8c97kt86j",
+  "uuid": "princeton-8c97kt86j",
+  "dc_title_s": "King County, Washington roads, 2007",
+  "solr_geom": "ENVELOPE(-122.836824, -121.058818, 48.306693, 46.7383)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in King County, Washington, 2007.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "King",
+    "King County",
+    "Seattle",
+    "Bellevue"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T00:34:27Z",
+  "layer_id_s": "restricted-figgy:d8bb4dca-a7d1-4d26-9d1b-9751e6cde008",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f4fbd6e5-68ba-4d4c-996a-9963d151da0b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b5b015e0-f9d4-4c38-92f0-0a8fc6a5e126/file/a4980d07-9ebc-4592-91b1-5b21c445ddc8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d8bb4dca-a7d1-4d26-9d1b-9751e6cde008/file/906ef9b0-c780-4ee5-8e5d-d604920c5582\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d8bb4dca-a7d1-4d26-9d1b-9751e6cde008/file/d5385647-8f35-4782-935b-fb03c3157fcd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

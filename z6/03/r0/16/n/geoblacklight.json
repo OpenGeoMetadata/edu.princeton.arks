@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r016n",
+  "layer_slug_s": "princeton-z603r016n",
+  "uuid": "princeton-z603r016n",
+  "dc_title_s": "Guatemala Cities With Population From 10 Thousand To 60 Thousand, 1991",
+  "solr_geom": "ENVELOPE(-91.788261, -88.586044, 15.725791, 13.930592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Guatemala cities with population between 10 thousand and 60 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1991"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:17:02Z",
+  "layer_id_s": "restricted-figgy:6a994fab-a19c-4243-ad63-073636325186",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4b751d53-6f88-4b96-8eac-57e1233a0e35\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5bfc0a6b-b114-48c3-87ca-4c8effe9ac42/file/373cf2f5-986c-4976-a8d8-05f8bf402090\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a994fab-a19c-4243-ad63-073636325186/file/d2c418b6-8433-445c-bbd2-b0b918b78bfb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a994fab-a19c-4243-ad63-073636325186/file/ac515eaf-a61c-4fc6-9a09-fd0b32521090\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

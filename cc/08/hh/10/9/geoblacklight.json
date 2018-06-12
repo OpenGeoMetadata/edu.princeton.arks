@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hh109",
+  "layer_slug_s": "princeton-cc08hh109",
+  "uuid": "princeton-cc08hh109",
+  "dc_title_s": "Kern County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-120.194369, -117.616518, 35.798393, 34.78858)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This feature class contains land parcel boundaries delineated for property tax\n        assessment purposes. Parcels are modeled as planimetric polygons in a seamless fabric\n        comprising the spatial extent of the County of Kern, in the State of California, as of\n        2009.",
+  "dc_creator_sm": [
+    "Kern County Assessor's Office, Assessment Standards Division, Mapping\n          Section."
+  ],
+  "dc_publisher_s": "Boundary Solutions, Inc.",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "land use",
+    "cadastral maps",
+    "assessment",
+    "assessor",
+    "lot",
+    "ownership",
+    "cadastre",
+    "cadastral",
+    "tax",
+    "property",
+    "parcel",
+    "value",
+    "land value",
+    "agriculture",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Kern County",
+    "Kern",
+    "Bakersfield",
+    "Arvin",
+    "Delano",
+    "McFarland",
+    "Maricopa",
+    "Wasco",
+    "California City",
+    "Tehachapi",
+    "San Joaquin Valley",
+    "Ridgecrest",
+    "Shafter",
+    "Taft"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:27:16Z",
+  "layer_id_s": "restricted-figgy:a11a0ba9-6f3b-4083-bf5a-cead1357e1f9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/004ef8a9-cae6-4fe9-8dba-eca112bb625e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4fd94eb0-eeb8-4c07-afa3-c6c5b346c495/file/bd8f182b-d6a6-4d28-8c91-79c8be31715d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a11a0ba9-6f3b-4083-bf5a-cead1357e1f9/file/5c0cec62-d439-42ad-b05d-cefd385792be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a11a0ba9-6f3b-4083-bf5a-cead1357e1f9/file/32756e27-bf50-4311-877d-af6605f45623\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

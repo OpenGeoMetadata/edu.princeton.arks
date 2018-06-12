@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pz50gx66p",
+  "layer_slug_s": "princeton-pz50gx66p",
+  "uuid": "princeton-pz50gx66p",
+  "dc_title_s": "Kansas Rivers 2002",
+  "solr_geom": "ENVELOPE(-102.051726, -94.607534, 40.003087, 36.997974)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Kansas Rivers represents streams and rivers within Kansas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Kansas"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:16:12Z",
+  "layer_id_s": "restricted-figgy:997f8d2e-1f7e-4a30-bfe6-37c9fccf7216",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/351d7499-9bca-458c-b677-276f98209780\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f93a6a62-4a45-4951-83b2-01df333fef28/file/ab82dc98-6a19-49a9-ae5a-617e7c78ebf0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/997f8d2e-1f7e-4a30-bfe6-37c9fccf7216/file/c7daf5cd-23a4-448a-a9a0-85f1dadb1869\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/997f8d2e-1f7e-4a30-bfe6-37c9fccf7216/file/4ab88ba8-c886-4a36-901f-cc2b79f48317\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

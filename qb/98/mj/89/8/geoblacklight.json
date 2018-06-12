@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj898",
+  "layer_slug_s": "princeton-qb98mj898",
+  "uuid": "princeton-qb98mj898",
+  "dc_title_s": "Lycoming County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.599766, -76.447726, 41.596261, 41.067948)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lycoming County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lycoming",
+    "Lycoming County",
+    "Pennsylvania",
+    "Williamsport"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:11Z",
+  "layer_id_s": "restricted-figgy:444276ee-35d4-40a3-b55b-ca33a1016c90",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/75ae2e6d-6cf4-4cbf-af4d-08d0d2c513f0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5dff0488-5ac1-4003-9614-bdfb6cf5865b/file/7aedcb0b-bd24-4ac1-83c3-188178e5001b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/444276ee-35d4-40a3-b55b-ca33a1016c90/file/23b094fa-3ff4-472f-a270-bca69e98048c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/444276ee-35d4-40a3-b55b-ca33a1016c90/file/3c73d3d1-73d8-4e43-88b0-10a62d8509f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

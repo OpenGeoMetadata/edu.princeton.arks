@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bv73c386x",
+  "layer_slug_s": "princeton-bv73c386x",
+  "uuid": "princeton-bv73c386x",
+  "dc_title_s": "DeKalb County, Illinois land parcels, 2008",
+  "solr_geom": "ENVELOPE(-88.942138, -88.588289, 42.153586, 41.628432)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in DeKalb County, Illinois, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "DeKalb County",
+    "DeKalb",
+    "Illinois"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:34:47Z",
+  "layer_id_s": "restricted-figgy:901b8988-25b2-4f55-80a8-355493c9b545",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e85a1d7-1c86-4d9e-af9c-d8a5340f3f66\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e74788c6-904b-44e0-9f1f-8f90ada6abb1/file/1e3a96d1-16a1-4e92-95fd-5ef5493f96ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/901b8988-25b2-4f55-80a8-355493c9b545/file/de81c4b6-b743-4e66-ab84-8ef9370eaa63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/901b8988-25b2-4f55-80a8-355493c9b545/file/ee4e012c-4cf3-421e-90b3-28f8363a5060\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

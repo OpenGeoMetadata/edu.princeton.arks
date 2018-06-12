@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8s45qd142",
+  "layer_slug_s": "princeton-8s45qd142",
+  "uuid": "princeton-8s45qd142",
+  "dc_title_s": "Chowan County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-76.737441, -76.397256, 36.363896, 35.974102)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chowan County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chowan County",
+    "Chowan",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:08:13Z",
+  "layer_id_s": "restricted-figgy:46eacdbd-4f60-4503-9ab0-56261da966d6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/64377816-3e5c-4b29-ad7a-8d29c0610217\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/26e5e63f-a541-4061-ac7e-a25ef29b7af3/file/9da8b5f7-7847-4f25-99a3-cccd5ba4200e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46eacdbd-4f60-4503-9ab0-56261da966d6/file/598fbfc1-0432-4df3-960a-59373b569e06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46eacdbd-4f60-4503-9ab0-56261da966d6/file/27b4c2bd-1e01-448b-9282-2d280dbc2877\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

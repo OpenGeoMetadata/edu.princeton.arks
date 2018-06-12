@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t3219",
+  "layer_slug_s": "princeton-2n49t3219",
+  "uuid": "princeton-2n49t3219",
+  "dc_title_s": "Slovakia Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(17.585364, 21.237514, 49.231017, 48.311007)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovakia cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Slovakia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:27Z",
+  "layer_id_s": "restricted-figgy:c890a96d-5f58-4f65-a06e-d30f409b5c6d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff314267-8a25-4442-ab74-0739bb31a01b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6fc5f159-86e3-4aff-91fd-a1a7a1383d33/file/fb72a2a3-a73a-4a4b-90b2-332381b1c0dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c890a96d-5f58-4f65-a06e-d30f409b5c6d/file/dad2a82b-d371-4459-a2fb-4a9f1db70a6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c890a96d-5f58-4f65-a06e-d30f409b5c6d/file/9b4f1592-fde6-41ac-b7da-2ebe318072b6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

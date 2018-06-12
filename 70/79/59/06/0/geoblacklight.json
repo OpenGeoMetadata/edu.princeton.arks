@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/707959060",
+  "layer_slug_s": "princeton-707959060",
+  "uuid": "princeton-707959060",
+  "dc_title_s": "Iceland Inundation Areas, 2005",
+  "solr_geom": "ENVELOPE(-22.968935, -16.215958, 64.988937, 63.563263)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Iceland inundation areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inundation",
+    "Inland Waters",
+    "Inundation Areas",
+    "floods"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:11Z",
+  "layer_id_s": "restricted-figgy:b641a2c2-b64d-4fac-a56a-84fa07901132",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0e4365f3-e38a-46b8-b448-98cbd8b69f27\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/85605a28-d0f0-458c-ac0f-954b6034506e/file/11ac3bac-3796-4549-8e43-c6d91b6e0193\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b641a2c2-b64d-4fac-a56a-84fa07901132/file/85ae9c1d-2b95-480e-a443-6a96a57b35f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b641a2c2-b64d-4fac-a56a-84fa07901132/file/b84340d1-c2ed-47be-ad34-b06e4f3e33d1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

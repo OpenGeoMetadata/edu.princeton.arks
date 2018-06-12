@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5h73px74w",
+  "layer_slug_s": "princeton-5h73px74w",
+  "uuid": "princeton-5h73px74w",
+  "dc_title_s": "U.S. GDT Airports 2000",
+  "solr_geom": "ENVELOPE(-171.744183, -67.003092, 71.280219, 19.710794)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. GDT Airports represents airport boundaries and airport runways within United States. All airports have a boundary and most have at least one runway.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "airports",
+    "runways",
+    "enplanements",
+    "hubs",
+    "control towers",
+    "airport codes"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "1994",
+    "1992",
+    "1991"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:44:31Z",
+  "layer_id_s": "restricted-figgy:d0aa5b89-2b6a-460e-b6a4-cf5af8a1dc63",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e849c360-3cfa-4534-8d3b-efff60096358\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b8485155-b0a6-4801-9df3-1c60e0344c88/file/5297ebd5-9aa7-420b-843e-628097161e83\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0aa5b89-2b6a-460e-b6a4-cf5af8a1dc63/file/52167006-e5c2-4736-ad0e-24e953d35cbb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0aa5b89-2b6a-460e-b6a4-cf5af8a1dc63/file/55318fa7-fbc4-4f73-9c47-4ba62621f65e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

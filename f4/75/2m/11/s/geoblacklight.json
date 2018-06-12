@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f4752m11s",
+  "layer_slug_s": "princeton-f4752m11s",
+  "uuid": "princeton-f4752m11s",
+  "dc_title_s": "Mecklenburg County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.056738, -80.55011, 35.511638, 35.002592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mecklenburg County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mecklenburg",
+    "Mecklenburg County",
+    "North Carolina",
+    "Charlotte",
+    "Lake Norman"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:21:54Z",
+  "layer_id_s": "restricted-figgy:fa73094d-89dd-485a-bcaf-3a36fd0e2ebe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/dcbdaee1-777e-4af5-9163-8543709efdd4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/031ab88e-a69c-495b-a66b-6a8df9bab22b/file/e892dda8-f880-4ace-b5a6-0d1a0a828bd8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa73094d-89dd-485a-bcaf-3a36fd0e2ebe/file/e0e1290c-d52f-4370-93cc-56cb0c4da8bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa73094d-89dd-485a-bcaf-3a36fd0e2ebe/file/2aff5328-efba-4ff4-a97a-667e847d959c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

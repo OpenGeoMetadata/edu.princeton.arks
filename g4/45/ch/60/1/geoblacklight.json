@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445ch601",
+  "layer_slug_s": "princeton-g445ch601",
+  "uuid": "princeton-g445ch601",
+  "dc_title_s": "Pend Orielle County, Washington roads, 2014",
+  "solr_geom": "ENVELOPE(-117.62942, -117.032745, 48.999927, 48.04556)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Pend Orielle County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Pend Orielle",
+    "Pend Orielle County",
+    "Colville National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:11Z",
+  "layer_id_s": "restricted-figgy:02a8b43b-3a36-47c3-873b-4bc2161aeb3d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/69d95a8e-9e80-43bb-a9ae-b5030edb4cba\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b452d450-7ee2-4266-b337-522d4e38727c/file/c879c2f7-7582-4073-b201-a5f6a50aed67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02a8b43b-3a36-47c3-873b-4bc2161aeb3d/file/cffd4cc1-73ee-4412-9e24-fd6b65f76608\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02a8b43b-3a36-47c3-873b-4bc2161aeb3d/file/edc671f4-f4df-40f4-90b9-ee2f15d79ceb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

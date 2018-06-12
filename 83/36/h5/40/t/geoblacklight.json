@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8336h540t",
+  "layer_slug_s": "princeton-8336h540t",
+  "uuid": "princeton-8336h540t",
+  "dc_title_s": "Wayne County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.221343, -84.810773, 40.006351, 39.714766)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wayne County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Wayne",
+    "Wayne County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:55Z",
+  "layer_id_s": "restricted-figgy:2a09e70e-f2a0-4b80-b5df-7be477d79aa7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9505ddd5-5b0f-4f0f-8d37-31732442a5d0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c364642-2d2a-42a3-8227-51d69f022b5e/file/d271ca61-06f0-4a02-9905-42b69e9b82bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a09e70e-f2a0-4b80-b5df-7be477d79aa7/file/facead53-c245-479f-8e50-eb6b5133758d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a09e70e-f2a0-4b80-b5df-7be477d79aa7/file/087ff8c5-c6ca-4663-835f-98f4f80e084b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

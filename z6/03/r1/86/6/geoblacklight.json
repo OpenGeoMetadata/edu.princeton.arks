@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r1866",
+  "layer_slug_s": "princeton-z603r1866",
+  "uuid": "princeton-z603r1866",
+  "dc_title_s": "Lafayette County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-83.371085, -82.875813, 30.260644, 29.822336)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lafayette County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lafayette County",
+    "Lafayette",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:39Z",
+  "layer_id_s": "restricted-figgy:63658303-5ac5-4f23-8985-353d4b415eef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8c452d29-c693-42b5-a540-aaf1b40309ee\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/62968ac3-8b75-4356-b580-1c20b6b00fe9/file/bcd13c48-60c7-4d3e-b266-483323babbc3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63658303-5ac5-4f23-8985-353d4b415eef/file/de70e096-62f6-46e8-9030-15bfa8fac89a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63658303-5ac5-4f23-8985-353d4b415eef/file/5a0e550f-3604-4e38-93f7-943d94488723\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

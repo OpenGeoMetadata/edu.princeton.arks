@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r494vp60j",
+  "layer_slug_s": "princeton-r494vp60j",
+  "uuid": "princeton-r494vp60j",
+  "dc_title_s": "Lackawanna County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.833426, -75.434212, 41.645806, 41.16135)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lackawanna County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lackawanna",
+    "Lackawanna County",
+    "Pennsylvania",
+    "Scranton"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:22Z",
+  "layer_id_s": "restricted-figgy:111e52ba-3ef5-42aa-8ad8-4f0ec7d15b6e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d468d3aa-25a1-47bb-9df0-448dcda3828f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bd764c00-5709-4a98-ad8f-79a57f420ca4/file/21f15ae1-de98-439d-ae67-94ae649b59fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/111e52ba-3ef5-42aa-8ad8-4f0ec7d15b6e/file/021d2fb1-ed74-43df-85f4-b219904bb3c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/111e52ba-3ef5-42aa-8ad8-4f0ec7d15b6e/file/5fad44e1-6af0-4a5b-a081-11858c55375b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

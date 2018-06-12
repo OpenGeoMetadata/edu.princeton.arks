@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tz61r",
+  "layer_slug_s": "princeton-9593tz61r",
+  "uuid": "princeton-9593tz61r",
+  "dc_title_s": "Lehigh County, Pennsylvania roads, 2014",
+  "solr_geom": "ENVELOPE(-75.88009, -75.329765, 40.787833, 40.419356)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Lehigh County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Lehigh",
+    "Lehigh County",
+    "Pennsylvania",
+    "Allentown"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:40Z",
+  "layer_id_s": "restricted-figgy:4bec02ab-7198-46c0-98db-e180b9c6f5a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e07a6204-785f-4b58-9554-a32ae4d44496\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7dabdd83-74c3-4b32-a944-bc31a8b1d982/file/10acba30-fe52-4d35-9785-df5c1a415325\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4bec02ab-7198-46c0-98db-e180b9c6f5a3/file/d6e863e5-9946-42ca-8ab1-af5809f4fa57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4bec02ab-7198-46c0-98db-e180b9c6f5a3/file/1f1ab3f5-3892-4a2b-9a0c-aedb2725385f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

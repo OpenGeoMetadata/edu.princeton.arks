@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sn965",
+  "layer_slug_s": "princeton-5t34sn965",
+  "uuid": "princeton-5t34sn965",
+  "dc_title_s": "Newton County, Indiana land parcels, 2012",
+  "solr_geom": "ENVELOPE(-87.526651, -87.267274, 41.218641, 40.736515)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Newton County, Indiana, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Newton",
+    "Newton County",
+    "Indiana",
+    "Chicago"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:37:43Z",
+  "layer_id_s": "restricted-figgy:c949d9dd-585d-44c8-a85b-4d8fe39cd61a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/76b05cff-0d2e-4240-b74c-3d79dc6e3921\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e0631b5-58a2-4d63-ac97-b964cfe4ba8c/file/68ba381e-8a5d-4781-88f1-8960d1edd4c1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c949d9dd-585d-44c8-a85b-4d8fe39cd61a/file/920f3b55-0663-4140-8fd4-d677652e8710\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c949d9dd-585d-44c8-a85b-4d8fe39cd61a/file/6ed23ad8-8b44-459b-882e-8ddc9f0239c0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

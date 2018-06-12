@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sh21p",
+  "layer_slug_s": "princeton-mp48sh21p",
+  "uuid": "princeton-mp48sh21p",
+  "dc_title_s": "Lee County, South Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.485546, -80.00057, 34.368473, 33.95141)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lee County, South Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lee",
+    "Lee County",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:26Z",
+  "layer_id_s": "restricted-figgy:fb2c0232-6065-4279-9819-91050cba3a95",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ce6956b7-ffea-472a-b133-799bc3f077a8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ce9b5ab-7e22-4bf0-ad0e-03199a91e5e5/file/34740dce-4a1d-4bf1-a4df-115807f54d0f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb2c0232-6065-4279-9819-91050cba3a95/file/6f2f59af-e7c5-468c-bbb5-0e98b80f2557\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb2c0232-6065-4279-9819-91050cba3a95/file/38ba9fb4-4cc9-4d57-984b-a58a0ee41ac0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

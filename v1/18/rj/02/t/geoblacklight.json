@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rj02t",
+  "layer_slug_s": "princeton-v118rj02t",
+  "uuid": "princeton-v118rj02t",
+  "dc_title_s": "Otsego County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-75.253198, -74.648266, 42.908361, 42.750509)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the northern portions of Otsego County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Otsego",
+    "Otsego County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:40Z",
+  "layer_id_s": "restricted-figgy:cc9fb699-9fb8-4b4d-b7e7-6e6aee0b7dec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1a95b488-a676-4653-9a94-3bba18e9eaf4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ba63b3e-44b8-4d4b-b04e-16ce10c2c7df/file/33504553-3ede-4c61-ac0e-10c34dc93f74\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc9fb699-9fb8-4b4d-b7e7-6e6aee0b7dec/file/05c9c212-8832-4682-8395-53d478fe97a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc9fb699-9fb8-4b4d-b7e7-6e6aee0b7dec/file/6176c2bf-28ad-449f-94e1-8ec8d5b65545\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

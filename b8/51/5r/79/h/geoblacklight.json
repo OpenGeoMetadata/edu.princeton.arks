@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515r79h",
+  "layer_slug_s": "princeton-b8515r79h",
+  "uuid": "princeton-b8515r79h",
+  "dc_title_s": "Dauphin County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.019627, -76.53467, 40.661985, 40.126018)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dauhpin County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dauphin",
+    "Dauphin County",
+    "Pennsylvania",
+    "Harrisburg"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:02Z",
+  "layer_id_s": "restricted-figgy:8bd7d08d-88a2-4097-aca0-50ff2bc0c228",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a6f7e3e2-d957-4da0-9c95-7050f7516ef2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/60026d81-bfb7-44bb-923b-bc77ba1a9016/file/bbd63c6f-601c-4777-85c7-68724a582eca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8bd7d08d-88a2-4097-aca0-50ff2bc0c228/file/85df860b-edde-414a-aecf-c35b759e842d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8bd7d08d-88a2-4097-aca0-50ff2bc0c228/file/1a4d4ae8-f6a9-4db6-8790-c26a2686f9b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tq39v",
+  "layer_slug_s": "princeton-zg64tq39v",
+  "uuid": "princeton-zg64tq39v",
+  "dc_title_s": "Brevard County, Florida roads, 2014",
+  "solr_geom": "ENVELOPE(-80.967774, -80.448353, 28.791396, 27.822067)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Brevard County, Florida, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Brevard",
+    "Brevard County",
+    "Palm Bay",
+    "Melbourne",
+    "Cape Canaveral"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:08:58Z",
+  "layer_id_s": "restricted-figgy:318cb5a1-ae26-45f3-8437-a94c03ccd3f0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2999fb3e-eacc-430b-92e6-f5caf38ba24e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7ecf1c76-2339-4eb5-b011-913092fdf1ca/file/10ac628d-ef39-4b1e-9d29-1ca4de67f462\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/318cb5a1-ae26-45f3-8437-a94c03ccd3f0/file/2e9af822-59ca-4c22-9fe6-27a868a8f030\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/318cb5a1-ae26-45f3-8437-a94c03ccd3f0/file/9124f23d-b2d7-4e3a-8cd2-e7054d2e6aad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

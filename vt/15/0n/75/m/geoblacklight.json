@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150n75m",
+  "layer_slug_s": "princeton-vt150n75m",
+  "uuid": "princeton-vt150n75m",
+  "dc_title_s": "British Cameroons extracted historical administrative boundaries, 1951",
+  "solr_geom": "ENVELOPE(8.432915, 14.660807, 12.643098, 3.891802)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces, divisions, and districts in British Cameroons for 1951. Boundaries were extracted from a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "provinces",
+    "district",
+    "districts"
+  ],
+  "dct_spatial_sm": [
+    "Cameroons",
+    "British Cameroons",
+    "Cameroon",
+    "Nigeria"
+  ],
+  "dct_temporal_sm": [
+    "1951",
+    "2018"
+  ],
+  "solr_year_i": 1951,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "public-figgy:ba8c647c-5aae-404e-9b3f-61ac72b5fc85",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/766f7528-7fa4-4669-acfe-dd7a838c2033\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13a4431a-c9df-4070-a285-b713773b8578/file/9b1f5212-c412-42b4-8080-1e1ed09a6972\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba8c647c-5aae-404e-9b3f-61ac72b5fc85/file/cc69a9b1-a2c2-45f5-9e04-b6e64a6073c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba8c647c-5aae-404e-9b3f-61ac72b5fc85/file/2ac490d0-39ac-48da-81cf-e2da1a44f444\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

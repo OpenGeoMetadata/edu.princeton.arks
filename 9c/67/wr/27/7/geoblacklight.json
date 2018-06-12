@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9c67wr277",
+  "layer_slug_s": "princeton-9c67wr277",
+  "uuid": "princeton-9c67wr277",
+  "dc_title_s": "San Francisco, California roads, 2014",
+  "solr_geom": "ENVELOPE(-122.513617, -122.349024, 37.831644, 37.708132)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in the consolidated city-county of San Francisco, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Francisco",
+    "City and County of San Francisco",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:24Z",
+  "layer_id_s": "restricted-figgy:f8bf9c8c-99e3-4d3e-ae2a-fbc18f213ed7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4b3cb9f-9ce2-46fa-ab2d-fd0533a74a14\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af3bb625-2579-44e7-98fe-02a4e67d7e19/file/69254c71-c846-4dad-9103-9d954c555077\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8bf9c8c-99e3-4d3e-ae2a-fbc18f213ed7/file/755cd155-a682-4839-a6ec-1dd176da675c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8bf9c8c-99e3-4d3e-ae2a-fbc18f213ed7/file/3af46880-b294-4386-8f1b-51b97306e504\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w0892f409",
+  "layer_slug_s": "princeton-w0892f409",
+  "uuid": "princeton-w0892f409",
+  "dc_title_s": "Bladen County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.902069, -78.17641, 34.855761, 34.366188)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bladen County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bladen",
+    "Bladen County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:23Z",
+  "layer_id_s": "restricted-figgy:deb7c709-618f-4b99-b41b-2babe98dba89",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/65d91c72-9fa4-497b-ac14-5f00e73aab59\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5836409c-e16f-4b19-a19a-5bb5fff3b480/file/574eeeea-48c3-40c6-94df-a94cdc0a4436\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/deb7c709-618f-4b99-b41b-2babe98dba89/file/26b6cbc3-0689-4297-b967-bfe1b369d02a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/deb7c709-618f-4b99-b41b-2babe98dba89/file/851a06b3-5c1b-4db8-a17b-9bdbfad2f4e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

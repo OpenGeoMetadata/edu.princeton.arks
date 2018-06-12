@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jf955",
+  "layer_slug_s": "princeton-cf95jf955",
+  "uuid": "princeton-cf95jf955",
+  "dc_title_s": "Shawnee County, Kansas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-96.037459, -95.500806, 39.216579, 38.868944)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Shawnee County, Kansas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Shawnee County",
+    "Shawnee",
+    "Kansas",
+    "Topeka"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:10:16Z",
+  "layer_id_s": "restricted-figgy:ccf5d47f-dced-46bd-9d5b-da6add359cc3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48ae48b7-ecd3-48c8-9a92-6f262b802b43\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80d9b18c-49ec-4e35-bf0e-afe90e8c9307/file/cbd9270c-dcf7-44b6-90d7-c72edd7473a0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ccf5d47f-dced-46bd-9d5b-da6add359cc3/file/c7b25eaf-4792-4db7-b9bd-f45fa57e285b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ccf5d47f-dced-46bd-9d5b-da6add359cc3/file/05e9cf2d-4dfd-46ff-922f-051065114453\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

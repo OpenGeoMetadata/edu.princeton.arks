@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hh63t039z",
+  "layer_slug_s": "princeton-hh63t039z",
+  "uuid": "princeton-hh63t039z",
+  "dc_title_s": "U.S. National Atlas Airports, 2013",
+  "solr_geom": "ENVELOPE(-176.646047, -64.80172, 71.285448, 17.701559)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of 25 passengers or more per year.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
+  "dc_subject_sm": [
+    "point",
+    "airports",
+    "airport location identifiers (airport codes)",
+    "ICAO",
+    "ACAIS",
+    "IATA",
+    "total enplanements",
+    "Elevation",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:12:03Z",
+  "layer_id_s": "restricted-figgy:0fa8a004-5937-4540-abff-71a9a4f84d92",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b688e769-fb53-4354-8d39-7f12119bc3a7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3cc23cd6-7f6b-467b-8002-58432f15df3e/file/16a36fcd-261c-4a68-90e1-2c1c13fed6ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fa8a004-5937-4540-abff-71a9a4f84d92/file/a8f1fbe4-f623-452c-bca7-57d6f6f8250c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fa8a004-5937-4540-abff-71a9a4f84d92/file/53af0d7b-76c2-4da9-8720-693cf292422b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

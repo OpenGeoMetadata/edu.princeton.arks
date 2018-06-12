@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bn999b210",
+  "layer_slug_s": "princeton-bn999b210",
+  "uuid": "princeton-bn999b210",
+  "dc_title_s": "Orange County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-94.114947, -93.689445, 30.244842, 29.985341)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Orange County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Orange",
+    "Orange County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:56Z",
+  "layer_id_s": "restricted-figgy:e27078bb-2be6-4b4b-9aae-576e60584ea7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ded309be-6ab6-4874-b44b-5e4b760554fc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7d1ffe22-7a3a-440b-a3c3-e05e6f352b49/file/2e0a7e63-b0be-4481-885a-e3bf5c44798a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e27078bb-2be6-4b4b-9aae-576e60584ea7/file/4ed418ea-2e2a-4807-a29c-b0283c4a6fdd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e27078bb-2be6-4b4b-9aae-576e60584ea7/file/38ac08af-c97b-4f15-86fe-01049746b3ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

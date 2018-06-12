@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pr25j",
+  "layer_slug_s": "princeton-tt44pr25j",
+  "uuid": "princeton-tt44pr25j",
+  "dc_title_s": "Costilla County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.771289, -105.129686, 37.658347, 36.995126)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Costilla County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Costilla",
+    "Costilla County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:58Z",
+  "layer_id_s": "restricted-figgy:e5aa4afd-f259-49dd-bbfe-3b56563f31e3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/99f94018-8128-49ea-9155-b48e6731a041\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8f91db8b-27d9-42cd-9d9d-e1919acf8367/file/99ac78a6-3c8c-483a-8dc3-3b6ca333453a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5aa4afd-f259-49dd-bbfe-3b56563f31e3/file/4fc5bbf5-971b-413d-aad0-3c860c251444\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5aa4afd-f259-49dd-bbfe-3b56563f31e3/file/c7d62ff8-3144-40a9-8fe1-8d9e75d90f19\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

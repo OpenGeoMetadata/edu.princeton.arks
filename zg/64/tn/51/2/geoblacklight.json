@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tn512",
+  "layer_slug_s": "princeton-zg64tn512",
+  "uuid": "princeton-zg64tn512",
+  "dc_title_s": "United Kingdom Major Lakes, 2005",
+  "solr_geom": "ENVELOPE(-8.02607, -2.823973, 58.453451, 54.131611)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of United Kingdom created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:56Z",
+  "layer_id_s": "restricted-figgy:2fe7dc4f-51b4-416e-a0af-b47f9221e71f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/af6a5bc4-77dd-4000-9cb5-403136e1d8e9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/028b2151-26f2-4233-81f8-9885a4770352/file/ba3473dc-f228-4170-b95a-f028b01beaa7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2fe7dc4f-51b4-416e-a0af-b47f9221e71f/file/d8ccf907-5eba-499d-a5c7-c17e8f342ede\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2fe7dc4f-51b4-416e-a0af-b47f9221e71f/file/4125b743-cb87-49b2-9826-aaffda7d885a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

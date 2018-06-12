@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xk81jn10x",
+  "layer_slug_s": "princeton-xk81jn10x",
+  "uuid": "princeton-xk81jn10x",
+  "dc_title_s": "Washington Major Roads 2002",
+  "solr_geom": "ENVELOPE(-124.669995, -117.035878, 49.002487, 45.559569)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Washington Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Washington.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "highways",
+    "roads",
+    "interstates",
+    "cfcc",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:16:04Z",
+  "layer_id_s": "restricted-figgy:dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc59726f-9dff-4719-925e-f06c0f8fe283\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2c281554-ca66-4a96-a1e7-50eefa30c34b/file/9cb556f7-d5ea-4cd2-86d0-1ed5ae702dde\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71/file/25a910e4-4d8e-41a7-a466-51b8156f1a88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71/file/6292164c-6721-410f-9aca-d04ab43e82b9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c534fs43j",
+  "layer_slug_s": "princeton-c534fs43j",
+  "uuid": "princeton-c534fs43j",
+  "dc_title_s": "Chester County, Pennsylvania land parcels, 2011",
+  "solr_geom": "ENVELOPE(-76.136538, -75.361013, 40.244735, 39.72041)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chester County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chester",
+    "Chester County",
+    "Pennsylvania",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:37Z",
+  "layer_id_s": "restricted-figgy:e065a094-9032-4ef7-86be-4914e1743272",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/21a39144-0d51-432d-a315-537934d45ce3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/78791ad1-90c9-4bc6-a0ae-5bb2b6966250/file/f4c4f4b7-99c7-44e3-a497-d80efde31709\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e065a094-9032-4ef7-86be-4914e1743272/file/12b39daa-00e4-4324-9217-2df906b7b14e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e065a094-9032-4ef7-86be-4914e1743272/file/88bd8aae-8bc0-43ea-8169-2d25c5332e13\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

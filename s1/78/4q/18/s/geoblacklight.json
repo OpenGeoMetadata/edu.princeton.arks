@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784q18s",
+  "layer_slug_s": "princeton-s1784q18s",
+  "uuid": "princeton-s1784q18s",
+  "dc_title_s": "Snohomish County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.438454, -120.952102, 48.299006, 47.775342)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions in Snohomish County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Snohomish",
+    "Snohomish County",
+    "Washington",
+    "Everett",
+    "Seattle"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:50Z",
+  "layer_id_s": "restricted-figgy:2eca2fe6-d463-4231-ba29-a7a7682a4121",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f4ed1699-2724-4630-97f6-1f730d5d319e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7c48bf5b-8eaf-4fe2-80a4-59d2c2e45da0/file/b099344e-ce19-49b3-8a5b-cf2bfd0a9312\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2eca2fe6-d463-4231-ba29-a7a7682a4121/file/4bbf0bfc-bb05-4e18-9e36-d961e45e95e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2eca2fe6-d463-4231-ba29-a7a7682a4121/file/fd544f2b-63c1-4662-b2cd-0235be5a3e2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

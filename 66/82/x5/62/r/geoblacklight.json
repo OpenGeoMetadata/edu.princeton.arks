@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6682x562r",
+  "layer_slug_s": "princeton-6682x562r",
+  "uuid": "princeton-6682x562r",
+  "dc_title_s": "South Dakota Block Groups 2002",
+  "solr_geom": "ENVELOPE(-104.05774, -96.43659, 45.945455, 42.479636)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "South Dakota Block Groups represents the U.S. Census block groups of South Dakota.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "South Dakota"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:55Z",
+  "layer_id_s": "restricted-figgy:8cc2060d-4e4e-4a56-8c1c-cdc86cacefbe",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b130013a-80b7-41b5-96e1-fa0a56e2e9a2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24b2b20a-da88-407d-bb16-1177a84d7355/file/667df786-f4bf-4583-9ef6-0d56a5b9ab5c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cc2060d-4e4e-4a56-8c1c-cdc86cacefbe/file/c211b968-c66a-48aa-88b1-0801e2c73109\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cc2060d-4e4e-4a56-8c1c-cdc86cacefbe/file/d3798eaf-104b-4d77-ab80-42a045e5ee72\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

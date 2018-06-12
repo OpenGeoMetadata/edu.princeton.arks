@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xg65c",
+  "layer_slug_s": "princeton-hx11xg65c",
+  "uuid": "princeton-hx11xg65c",
+  "dc_title_s": "Egypt Urban Areas",
+  "solr_geom": "ENVELOPE(25.038199, 36.976913, 31.865422, 22.095679)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygons representing urban areas in Egypt.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "towns",
+    "settlements",
+    "cities",
+    "conurbation",
+    "built areas",
+    "buildings",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:45Z",
+  "layer_id_s": "restricted-figgy:d4de0a57-7aba-4d71-8f00-ce0c4c0d0c8b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a517e3e9-9b9d-4626-93af-4858c0c2375e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8c8c597-5d17-4525-89b3-7e54d8434e05/file/2b5e1b66-2f57-4aea-b247-789619293c9b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4de0a57-7aba-4d71-8f00-ce0c4c0d0c8b/file/00657a0f-d319-4a5c-b8e5-d67a66957e34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4de0a57-7aba-4d71-8f00-ce0c4c0d0c8b/file/4ff7432a-4e3f-4d70-84f9-8d817d306bc0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

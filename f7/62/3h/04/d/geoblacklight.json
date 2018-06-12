@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623h04d",
+  "layer_slug_s": "princeton-f7623h04d",
+  "uuid": "princeton-f7623h04d",
+  "dc_title_s": "Walker County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-95.86281, -95.328081, 31.05807, 30.50431)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Walker County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Walker County",
+    "Walker",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:56Z",
+  "layer_id_s": "restricted-figgy:c49e72ad-fcc2-4d41-9328-1ef132b94e97",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9ecff170-7c0f-4f29-acf8-82829d9c7219\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/76fba603-e3b9-45a6-b919-b8ab048f32e8/file/b5563ff7-9aa4-4ae6-b119-489ad106d3cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c49e72ad-fcc2-4d41-9328-1ef132b94e97/file/176d1725-06d0-432f-9ac9-8de45e205334\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c49e72ad-fcc2-4d41-9328-1ef132b94e97/file/21500177-a3d2-4aa2-984e-2fc1794dca3b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

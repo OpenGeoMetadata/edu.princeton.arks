@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8k71nm47g",
+  "layer_slug_s": "princeton-8k71nm47g",
+  "uuid": "princeton-8k71nm47g",
+  "dc_title_s": "Contra Costa County, California roads, 2012",
+  "solr_geom": "ENVELOPE(-122.434172, -121.533596, 38.100845, 37.716199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Contra Costa County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Contra Costa",
+    "Contra Costa County",
+    "California",
+    "Concord",
+    "Richmond",
+    "Antioch",
+    "Bay Area",
+    "San Francisco Bay",
+    "San Francisco"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:28:05Z",
+  "layer_id_s": "restricted-figgy:2cd96927-1203-4732-a9fd-fd7955ee76b6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d381f861-2c12-4d8e-900b-919ca8f280b4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/645177be-091c-4aa0-84c1-c622630f4d1d/file/21b6ea61-5e2d-4511-8e6e-fb9fd9a5e99a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cd96927-1203-4732-a9fd-fd7955ee76b6/file/bb442eb5-af64-44a7-8e4d-73c71531d78c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cd96927-1203-4732-a9fd-fd7955ee76b6/file/c65d0494-5b07-4cf9-95e0-6d1658c3e4ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

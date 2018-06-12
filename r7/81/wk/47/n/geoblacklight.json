@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk47n",
+  "layer_slug_s": "princeton-r781wk47n",
+  "uuid": "princeton-r781wk47n",
+  "dc_title_s": "Collin County, Texas roads, 2014",
+  "solr_geom": "ENVELOPE(-96.844678, -96.295087, 33.405339, 32.981886)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Collin County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "McKinney",
+    "Plano",
+    "Dallas",
+    "Frisco",
+    "Richardson",
+    "Collin County",
+    "Collin",
+    "Texas",
+    "Carrollton",
+    "Garland"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:39Z",
+  "layer_id_s": "restricted-figgy:676cc74a-7989-4610-8b7a-0f3a96034877",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f6e3dfd9-9871-411e-b58c-6ed511c2594b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7fb4bde3-d50a-47c7-a2ba-12f60261b0d1/file/6da05856-f814-4601-bbde-8f575bb2fbd4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/676cc74a-7989-4610-8b7a-0f3a96034877/file/c1116d4b-9cee-4224-99fd-d65e135da5b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/676cc74a-7989-4610-8b7a-0f3a96034877/file/819e079a-a107-49c8-92a0-800b9904c2ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

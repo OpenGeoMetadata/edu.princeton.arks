@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k0698b886",
+  "layer_slug_s": "princeton-k0698b886",
+  "uuid": "princeton-k0698b886",
+  "dc_title_s": "Miami County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.436519, -84.022911, 40.200263, 39.879806)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Miami County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Miami",
+    "Miami County",
+    "Ohio",
+    "Dayton"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:43Z",
+  "layer_id_s": "restricted-figgy:c74f9c36-2ea3-4a4f-9268-4e368758be59",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/19567d15-bb9e-4b10-9f4f-1720b6833f54\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c40ed9b-7f83-42c9-aba6-46357ae435e6/file/5f8bf848-31d1-400c-81cf-edb204f00d72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c74f9c36-2ea3-4a4f-9268-4e368758be59/file/3ad8bb9d-4bc7-419e-97ca-c9179620d91d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c74f9c36-2ea3-4a4f-9268-4e368758be59/file/36865efb-aa94-4940-ae7e-456afe59c656\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pr76f686j",
+  "layer_slug_s": "princeton-pr76f686j",
+  "uuid": "princeton-pr76f686j",
+  "dc_title_s": "Dubois County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-87.073189, -86.679385, 38.52641, 38.202921)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Dubois County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dubois County",
+    "Dubois",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:59Z",
+  "layer_id_s": "restricted-figgy:65f8243d-00cf-4b48-ad06-22eb558c83d4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4433c9e-0ee9-4671-a95b-9c0b34634b29\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3a6709a-6326-4eb7-9373-4aa6396218c3/file/ea38eacb-6e73-4289-8a37-65d58806a4fb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65f8243d-00cf-4b48-ad06-22eb558c83d4/file/17303ace-7e80-46ee-870a-04cd1e1273bb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65f8243d-00cf-4b48-ad06-22eb558c83d4/file/4f2ca115-14ba-4d3b-a84c-a96d460f7e33\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

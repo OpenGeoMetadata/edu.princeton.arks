@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z708x89j",
+  "layer_slug_s": "princeton-0z708x89j",
+  "uuid": "princeton-0z708x89j",
+  "dc_title_s": "Egypt Power Lines",
+  "solr_geom": "ENVELOPE(25.073342, 34.886178, 31.815391, 22.202177)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polylines representing power lines in Egypt.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "utilities",
+    "energy",
+    "development",
+    "electricity",
+    "electric",
+    "power",
+    "power lines",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:10Z",
+  "layer_id_s": "restricted-figgy:36a8fe7c-b3e8-4b44-bb0b-14695dcca8fb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8cf6d5c7-0edf-488a-89fb-d8b88d3a3a70\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09974a2e-0aa0-42da-92e5-2f053118735b/file/0df5dd84-c0d0-46c4-be08-6ac394534b3c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/36a8fe7c-b3e8-4b44-bb0b-14695dcca8fb/file/7e18e711-7969-4df9-a04a-6a44de18d2fa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/36a8fe7c-b3e8-4b44-bb0b-14695dcca8fb/file/9f17c2c5-dbea-4355-88be-318c451c17c5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

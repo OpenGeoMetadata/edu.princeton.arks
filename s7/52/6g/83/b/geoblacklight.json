@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526g83b",
+  "layer_slug_s": "princeton-s7526g83b",
+  "uuid": "princeton-s7526g83b",
+  "dc_title_s": "Martin County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.409264, -76.760923, 36.071547, 35.658854)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Martin County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Martin",
+    "Martin County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:08Z",
+  "layer_id_s": "restricted-figgy:01585daf-9858-4887-9128-9c1dcdf971ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/264068ce-c412-45cd-bfdc-62b0f5d01b9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f9b6e9f7-0058-44f6-9ae3-8a131866e213/file/8b66310b-dbca-4163-8878-700632c3a196\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/01585daf-9858-4887-9128-9c1dcdf971ee/file/b204d549-e8a2-470b-8c4c-3b53d957bc75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/01585daf-9858-4887-9128-9c1dcdf971ee/file/d45307a0-e81c-4fda-bff2-c8598de514cf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

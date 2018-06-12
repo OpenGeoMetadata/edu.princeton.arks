@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kw52j949z",
+  "layer_slug_s": "princeton-kw52j949z",
+  "uuid": "princeton-kw52j949z",
+  "dc_title_s": "Oregon Rivers 2002",
+  "solr_geom": "ENVELOPE(-124.543924, -116.683701, 46.264149, 41.993058)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Oregon Rivers represents streams and rivers within Oregon.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Oregon"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:21:38Z",
+  "layer_id_s": "restricted-figgy:d6b5e65e-b924-4abc-9dcf-47a855fcf218",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/780c7648-8eb2-43da-bb1a-884efcc03bcf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/767fb401-a00f-4996-a8e8-88eaa4dcca22/file/a4ccb8c7-7198-48bd-8ce2-f007204d8fe3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6b5e65e-b924-4abc-9dcf-47a855fcf218/file/5afe95d7-b2b0-4a12-84af-3b70b0c8cf1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6b5e65e-b924-4abc-9dcf-47a855fcf218/file/cb86633b-8c6a-49fb-8428-9f525c67b0f6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

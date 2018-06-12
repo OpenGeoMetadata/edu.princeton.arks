@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j9602398m",
+  "layer_slug_s": "princeton-j9602398m",
+  "uuid": "princeton-j9602398m",
+  "dc_title_s": "Navajo County, Arizona land parcels, 2011",
+  "solr_geom": "ENVELOPE(-110.754399, -109.843264, 35.170535, 33.098335)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Navajo County, Arizona, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Navajo",
+    "Navajo Country",
+    "Arizona",
+    "Navajo National Monument"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:17:07Z",
+  "layer_id_s": "restricted-figgy:c4feaa14-0a80-40d4-9a32-d6aac1e82988",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7da08c1d-16f8-40a6-b1a3-a983e3eddca2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8ce36381-6879-481b-8515-ba9b52c5501f/file/26e21d17-b86c-421e-b766-8fe5c4aa99ec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4feaa14-0a80-40d4-9a32-d6aac1e82988/file/43fb2d43-fe27-4fc9-8847-2927932f8051\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4feaa14-0a80-40d4-9a32-d6aac1e82988/file/f94bb173-3922-423f-93c1-539897d5e2b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

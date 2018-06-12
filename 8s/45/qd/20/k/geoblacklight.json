@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8s45qd20k",
+  "layer_slug_s": "princeton-8s45qd20k",
+  "uuid": "princeton-8s45qd20k",
+  "dc_title_s": "Glacier County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-114.06818, -112.184578, 48.998857, 48.309649)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Glacier County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Glacier",
+    "Glacier County",
+    "Montana",
+    "Glacier National Park",
+    "Blackfeet Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:13Z",
+  "layer_id_s": "restricted-figgy:a8b2b793-22e0-4ba3-9a33-ab478e97588d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4ac9a83f-a9af-4009-8ab3-a0008cdfa523\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/37f32180-d8b9-4804-a888-d7eca54bbdd8/file/6e9cccb0-12c8-4059-a824-ceaa7353f1d6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8b2b793-22e0-4ba3-9a33-ab478e97588d/file/412614ab-2e06-400c-bc5f-f4c8689a33e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8b2b793-22e0-4ba3-9a33-ab478e97588d/file/36b37893-e095-4779-846c-86bf4caaf042\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

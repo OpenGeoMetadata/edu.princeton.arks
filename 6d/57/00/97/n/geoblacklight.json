@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6d570097n",
+  "layer_slug_s": "princeton-6d570097n",
+  "uuid": "princeton-6d570097n",
+  "dc_title_s": "St. Johns County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.669307, -81.212478, 30.252966, 29.622623)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in St. Johns County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "St. Johns County",
+    "St. Johns",
+    "Florida",
+    "Jacksonville"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:02:43Z",
+  "layer_id_s": "restricted-figgy:82772835-a36e-4651-9ed8-95857a2a2e67",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5920e0d9-d942-47ea-b2eb-90d802695f80\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a91c5f96-8e42-48ea-b682-0e5d20ccd1d7/file/eb3eaf31-f977-4772-b608-e32c6e015ff8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82772835-a36e-4651-9ed8-95857a2a2e67/file/7b850e25-1928-4fdd-b976-9064c03f6467\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82772835-a36e-4651-9ed8-95857a2a2e67/file/4105b8e6-fd66-4a9f-b0d2-aae41354c7d8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

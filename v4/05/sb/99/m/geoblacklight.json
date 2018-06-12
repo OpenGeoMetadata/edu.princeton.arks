@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sb99m",
+  "layer_slug_s": "princeton-v405sb99m",
+  "uuid": "princeton-v405sb99m",
+  "dc_title_s": "Hungary Cities With Population 10 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(16.163416, 22.733166, 48.478085, 45.846111)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Hungary cities with population 10 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:09Z",
+  "layer_id_s": "restricted-figgy:223e3549-7497-4cdc-b735-fc48e51f5251",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0176dcf9-addd-47aa-ad07-a8199347e858\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e466a1e-4ea6-404b-867b-4e8e9aa8cc02/file/0b7361eb-7416-43fe-a108-f7b6ad28905a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/223e3549-7497-4cdc-b735-fc48e51f5251/file/2740cabd-e7a2-4a76-b124-5020630a00b4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/223e3549-7497-4cdc-b735-fc48e51f5251/file/ae707d44-1d9f-4c95-a926-24ed86c8a4d0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

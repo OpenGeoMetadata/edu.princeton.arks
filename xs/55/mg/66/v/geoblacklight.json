@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55mg66v",
+  "layer_slug_s": "princeton-xs55mg66v",
+  "uuid": "princeton-xs55mg66v",
+  "dc_title_s": "San Diego County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-117.595327, -116.080939, 33.498325, 32.534768)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Diego County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Diego",
+    "San Diego County",
+    "California",
+    "Carlsbad",
+    "Chula Vista",
+    "Oceanside",
+    "Escondido",
+    "Camp Pendleton Marine Corps Base",
+    "Naval Base San Diego",
+    "Cleveland National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:47Z",
+  "layer_id_s": "restricted-figgy:4d254854-c14d-4b8d-9e53-e7b82571d612",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/67ae47ca-919d-46e1-bb02-613f04d58bf0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/87d23fd4-f7b0-4daf-a709-d9be56756858/file/599b1464-3679-4cb7-aac7-57155b065b17\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d254854-c14d-4b8d-9e53-e7b82571d612/file/97b71426-426b-42b0-bcbc-7c2f0e1c7037\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d254854-c14d-4b8d-9e53-e7b82571d612/file/a22a8a90-125b-49f0-ae9d-8d22141623b2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

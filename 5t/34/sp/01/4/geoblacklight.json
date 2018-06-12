@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sp014",
+  "layer_slug_s": "princeton-5t34sp014",
+  "uuid": "princeton-5t34sp014",
+  "dc_title_s": "Defiance County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.804065, -84.22734, 41.427803, 41.165437)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Defiance County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Defiance",
+    "Defiance County",
+    "Ohio",
+    "Auglaize River",
+    "Maumee River"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:15Z",
+  "layer_id_s": "restricted-figgy:92332ed5-b7ba-458e-bd93-ea096adf06de",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d3b174d6-dd43-4605-b544-615acca28fb8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4c15bf81-1460-481c-a017-11656eca4e13/file/1a592614-e5f3-4a9b-8c2c-6e84596cf6d1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92332ed5-b7ba-458e-bd93-ea096adf06de/file/e547824e-25eb-44b1-ba85-4b7ab9ca3af6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92332ed5-b7ba-458e-bd93-ea096adf06de/file/84df4432-ab94-47f3-8e39-ec0298babb7d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m326m507n",
+  "layer_slug_s": "princeton-m326m507n",
+  "uuid": "princeton-m326m507n",
+  "dc_title_s": "Los Alamos County, New Mexico land parcels, 2012",
+  "solr_geom": "ENVELOPE(-106.418766, -106.172192, 35.97325, 35.754071)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Los Alamos County, New Mexico, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Los Alamos",
+    "Los Alamos County",
+    "New Mexico",
+    "Bandelier National Monument",
+    "Santa Fe National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T21:57:17Z",
+  "layer_id_s": "restricted-figgy:3aebf8df-f7af-47e5-8635-735d9e7f6dc3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/15aff26c-92b7-453f-b446-f39381ec17d3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bd0c6455-4720-4499-b4e2-70416c745341/file/f95b797a-8472-41d2-bd04-ecbb47b3e713\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3aebf8df-f7af-47e5-8635-735d9e7f6dc3/file/16a60847-aafd-4351-9a81-f92be4dcc1bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3aebf8df-f7af-47e5-8635-735d9e7f6dc3/file/c01c9d66-e2cd-485d-9e7c-7137e7f95315\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

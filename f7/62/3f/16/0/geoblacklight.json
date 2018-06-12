@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623f160",
+  "layer_slug_s": "princeton-f7623f160",
+  "uuid": "princeton-f7623f160",
+  "dc_title_s": "Jamaica Major Rivers, 1995",
+  "solr_geom": "ENVELOPE(-78.179298, -76.388779, 18.4133, 17.779293)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Jamaica created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Jamaica"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:55Z",
+  "layer_id_s": "restricted-figgy:2a8756fe-85d2-4b1d-82d9-d9a559fe97dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9a56e0d6-1535-4424-841f-0c993d8b724a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47edb2a8-6146-4e97-a1ec-35a3e529187b/file/ab60874b-e577-4319-be53-8d023280f525\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a8756fe-85d2-4b1d-82d9-d9a559fe97dd/file/e23255f7-eb63-45c3-8f05-3456aac74eb1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a8756fe-85d2-4b1d-82d9-d9a559fe97dd/file/b4ff78a3-68db-449c-9875-1ece2a6ee018\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

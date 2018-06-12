@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5138jg52r",
+  "layer_slug_s": "princeton-5138jg52r",
+  "uuid": "princeton-5138jg52r",
+  "dc_title_s": "China Major Roads, 2004",
+  "solr_geom": "ENVELOPE(74.910934, 132.51186, 50.412887, 18.228111)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes China major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:22Z",
+  "layer_id_s": "restricted-figgy:dfc1d7da-06dd-4850-8f90-1ba6a9c3e7a7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/62fb9cc4-ccf7-48d0-8a06-33c50f4fa43a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a66e9a7e-b5f6-469f-8f92-f8eee28051af/file/a1a6ad4b-c1d9-43ed-ac2e-d0ce894c85d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfc1d7da-06dd-4850-8f90-1ba6a9c3e7a7/file/c81b706a-81cc-4247-9e84-56b99995a838\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfc1d7da-06dd-4850-8f90-1ba6a9c3e7a7/file/ba7efb02-23a6-42bf-8d8d-8ff7bed9be15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

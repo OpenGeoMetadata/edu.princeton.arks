@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xg94hr109",
+  "layer_slug_s": "princeton-xg94hr109",
+  "uuid": "princeton-xg94hr109",
+  "dc_title_s": "Santa Cruz County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.317223, -121.582294, 37.286151, 36.848882)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Cruz County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Santa Cruz County",
+    "Santa Cruz",
+    "San Jose",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T21:55:03Z",
+  "layer_id_s": "restricted-figgy:f8267965-f7c1-49b2-b088-255e73854212",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d0231013-b90a-42a9-8130-78f83d94f0ca\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d8e02aa-857c-4037-81f0-75bb9d2c9a25/file/6a92ecee-c4a3-4eca-80bf-14a530aa3610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8267965-f7c1-49b2-b088-255e73854212/file/9f13920a-c7a4-4e97-90ff-b817e8b56b9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8267965-f7c1-49b2-b088-255e73854212/file/d26a86b8-9b59-44b4-a914-2ee66e546bc1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

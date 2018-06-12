@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gf65v",
+  "layer_slug_s": "princeton-t435gf65v",
+  "uuid": "princeton-t435gf65v",
+  "dc_title_s": "Honduras Major Lakes, 1996",
+  "solr_geom": "ENVELOPE(-88.031776, -83.491508, 15.906639, 14.75156)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Honduras created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Honduras"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:00Z",
+  "layer_id_s": "restricted-figgy:8edfaca1-249c-4826-bb5e-0e43df6e0a9c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6e8ca061-309d-434e-a054-7b1588268d56\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3da21e0c-caf8-4446-9635-5f1285218820/file/ee042762-c40a-42ce-878c-cbc2b8cded99\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8edfaca1-249c-4826-bb5e-0e43df6e0a9c/file/6cab3cc3-d745-413c-aeef-7340d343b1a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8edfaca1-249c-4826-bb5e-0e43df6e0a9c/file/39f3148a-f88e-4388-86c2-c06f3a6b2157\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

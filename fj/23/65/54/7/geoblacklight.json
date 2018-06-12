@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj2365547",
+  "layer_slug_s": "princeton-fj2365547",
+  "uuid": "princeton-fj2365547",
+  "dc_title_s": "Nicholas County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.230451, -80.435183, 38.560502, 38.081273)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Nicholas County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Nicholas",
+    "Nicholas County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:47Z",
+  "layer_id_s": "restricted-figgy:126eca5d-23bb-422d-80e9-e1c5d23d6ab9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6f61f21c-74ea-4223-8f4d-6520b3e2fe64\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64db2add-21f6-4144-80e6-1ffce85ffcb1/file/19f59a1b-372e-49b8-995f-0c681a6e8b6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/126eca5d-23bb-422d-80e9-e1c5d23d6ab9/file/ae3f9e45-3d62-4162-b12f-f46a90bfcc49\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/126eca5d-23bb-422d-80e9-e1c5d23d6ab9/file/200d647b-b864-4dae-9b73-9401de5145ac\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

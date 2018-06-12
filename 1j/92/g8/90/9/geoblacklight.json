@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1j92g8909",
+  "layer_slug_s": "princeton-1j92g8909",
+  "uuid": "princeton-1j92g8909",
+  "dc_title_s": "Bulgaria City Areas, 2005",
+  "solr_geom": "ENVELOPE(22.845433, 28.354325, 44.124382, 41.383701)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Bulgaria major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Bulgaria"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:19Z",
+  "layer_id_s": "restricted-figgy:4bfb008a-c212-4646-bc74-3791e689544a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/758a062c-41b2-45de-af37-e3e8f391945b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0c096c9d-1a3a-4577-8a84-733c76160492/file/6bbe7d6f-167a-434d-968a-25e0e65e1e49\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4bfb008a-c212-4646-bc74-3791e689544a/file/0e31b4a3-cfdf-4a6b-8a49-7073af6336fe\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4bfb008a-c212-4646-bc74-3791e689544a/file/9df8939f-e62a-44d9-9755-50730b5b1657\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

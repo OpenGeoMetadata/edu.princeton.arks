@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074w653",
+  "layer_slug_s": "princeton-3r074w653",
+  "uuid": "princeton-3r074w653",
+  "dc_title_s": "Rhode Island Rivers 2002",
+  "solr_geom": "ENVELOPE(-71.843472, -71.12736, 42.018799, 41.178381)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Rhode Island Rivers represents streams and rivers within Rhode Island.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:50:09Z",
+  "layer_id_s": "restricted-figgy:708930de-2120-4835-925d-25c157a9e437",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/732f6449-078b-4f29-9fa8-ea599af1c38e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6304ffdc-3aee-4331-9765-775a97314641/file/6aaa7dac-0c31-4c9f-9652-9ebb3b1ee672\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/708930de-2120-4835-925d-25c157a9e437/file/2d64a766-bb59-4a6c-adc0-275cddb2a62a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/708930de-2120-4835-925d-25c157a9e437/file/8473f3d5-0cca-4b51-b88a-345d6de5467b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

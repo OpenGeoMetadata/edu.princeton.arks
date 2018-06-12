@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612r957",
+  "layer_slug_s": "princeton-08612r957",
+  "uuid": "princeton-08612r957",
+  "dc_title_s": "Geneva County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.193444, -85.485262, 31.199779, 30.992939)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Geneva County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Geneva",
+    "Geneva County",
+    "Dothan"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:15Z",
+  "layer_id_s": "restricted-figgy:58d04bf6-60e1-442c-99c7-b815f92fa874",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/24616e5d-a72a-4159-913d-c43206dc6632\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f4f88442-83e7-46a6-8aca-0d5a314049e9/file/1b3d9642-ff87-4f9d-8e40-e821b35e0518\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58d04bf6-60e1-442c-99c7-b815f92fa874/file/682cdc69-7fca-4061-92f6-3ce1708c4e06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58d04bf6-60e1-442c-99c7-b815f92fa874/file/4b64e8e5-db56-4c07-b5cb-88eb7ea126bd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

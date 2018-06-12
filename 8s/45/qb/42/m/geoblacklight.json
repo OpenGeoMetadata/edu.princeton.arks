@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8s45qb42m",
+  "layer_slug_s": "princeton-8s45qb42m",
+  "uuid": "princeton-8s45qb42m",
+  "dc_title_s": "U.S. Institutions 2008",
+  "solr_geom": "ENVELOPE(-165.450122, -65.972546, 71.289886, 17.996176)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.",
+  "dc_creator_sm": [
+    "Tele Atlas North America, Inc.",
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "point",
+    "institutions",
+    "hospitals",
+    "educational institutions",
+    "religious institutions",
+    "government centers",
+    "cemeteries",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2006"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T02:49:55Z",
+  "layer_id_s": "restricted-figgy:7069cf48-771d-411d-ae03-1d64828784ca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/908022be-112e-4ea9-a35b-128b2c6f692b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab01657f-bdb5-4c32-ab6d-ccc88d35190d/file/31d4dc6f-3234-4b51-ac93-14f460b6d4b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7069cf48-771d-411d-ae03-1d64828784ca/file/eb7ae8cb-9d9d-43a5-99b4-478ed9c1e818\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7069cf48-771d-411d-ae03-1d64828784ca/file/4a6cc4fd-5184-48f6-a400-dc30588f910a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

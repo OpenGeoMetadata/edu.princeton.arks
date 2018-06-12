@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sm11r",
+  "layer_slug_s": "princeton-5t34sm11r",
+  "uuid": "princeton-5t34sm11r",
+  "dc_title_s": "Greece Elevations",
+  "solr_geom": "ENVELOPE(19.377169, 29.603453, 41.905058, 34.79932)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Greece created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:35Z",
+  "layer_id_s": "restricted-figgy:0303dab4-10cd-443d-b82f-7134dac748ec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/14b54321-b13c-470e-af18-e1a0cdff545a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e4426d8-c413-43bb-b411-1edd4c929c0d/file/dc6029d2-9a65-4318-af45-0ca2dc3d1530\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0303dab4-10cd-443d-b82f-7134dac748ec/file/79f22b78-3e4e-491d-94f6-4cd8b706f8a8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0303dab4-10cd-443d-b82f-7134dac748ec/file/628990dc-07a8-4e0d-ba87-0b7526963dcb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

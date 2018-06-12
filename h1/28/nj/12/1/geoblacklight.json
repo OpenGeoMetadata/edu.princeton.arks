@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h128nj121",
+  "layer_slug_s": "princeton-h128nj121",
+  "uuid": "princeton-h128nj121",
+  "dc_title_s": "Q3 flood data, Colorado",
+  "solr_geom": "ENVELOPE(-106.194692, -103.463945, 40.998403, 37.734207)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Q3 flood data for Colorado, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_publisher_s": "Federal Emergency Management Agency",
+  "dc_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Adams County",
+    "Arapahoe County",
+    "Boulder County",
+    "Denver County",
+    "El Paso County",
+    "Jefferson County",
+    "Larimer County",
+    "Morgan County",
+    "Pueblo County",
+    "Adams",
+    "Arapahoe",
+    "Boulder",
+    "Denver",
+    "El Paso",
+    "Jefferson",
+    "Larimer",
+    "Morgan",
+    "Pueblo"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-04T22:48:26Z",
+  "layer_id_s": "restricted-figgy:b4045f29-6c58-43fc-ab77-994df41156a1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3f5a1a6c-a775-486e-93c6-03ef65dcf166\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/44d4c8e0-4645-4bc8-bfce-91e206ba8f93/file/dac023d6-0a56-4305-bf5d-fc7a5eb0d140\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4045f29-6c58-43fc-ab77-994df41156a1/file/d3d48d7e-4db9-4556-b9a6-436ef035bd46\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4045f29-6c58-43fc-ab77-994df41156a1/file/92bcb2b6-5796-4ec2-8ab0-f11206685133\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

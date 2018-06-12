@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c693",
+  "layer_slug_s": "princeton-sb397c693",
+  "uuid": "princeton-sb397c693",
+  "dc_title_s": "Charleston County, South Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.452787, -79.268365, 33.214732, 32.493298)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Charleston County, South Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Charleston",
+    "Charleston County",
+    "North Charleston",
+    "Francis Marion National Forest",
+    "Santee Coastal Reserve"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2007"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:05Z",
+  "layer_id_s": "restricted-figgy:a5a5abaf-e72c-4cdc-8eed-38392627b251",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/571db1fc-2681-4fbd-95f6-61bd40878598\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/119de084-55ec-4b89-a8aa-d69cd056d69b/file/324d0b22-4bf9-43fb-a775-203061123d11\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5a5abaf-e72c-4cdc-8eed-38392627b251/file/b31584aa-ead1-4691-a4dd-f9de6cd98101\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5a5abaf-e72c-4cdc-8eed-38392627b251/file/8a41d1bf-0f74-448e-8851-0d6f2cc97895\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

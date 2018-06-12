@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dk229",
+  "layer_slug_s": "princeton-1c18dk229",
+  "uuid": "princeton-1c18dk229",
+  "dc_title_s": "Orange County, North Carolina land parcels, 2009",
+  "solr_geom": "ENVELOPE(-79.272915, -78.948193, 36.247639, 35.860189)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orange County, North Carolina, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina",
+    "Orange",
+    "Orange County",
+    "Chapel Hill",
+    "Durham"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:35:48Z",
+  "layer_id_s": "restricted-figgy:c4d9957f-4a78-4d04-97a8-9333ac1bd240",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/20b16572-9b39-4dba-a8a6-a892bde0a3a8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e08a8ba6-1c2a-43ee-abf5-6d240798472d/file/f738db4c-ddb3-4546-af1f-a7817a6ebd2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c4d9957f-4a78-4d04-97a8-9333ac1bd240/file/d01ff3c5-d6b3-4d46-9ebd-fcf4b0ef6214\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c4d9957f-4a78-4d04-97a8-9333ac1bd240/file/58c1575d-ca68-4c07-931d-5743025235a7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

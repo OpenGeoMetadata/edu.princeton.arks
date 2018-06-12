@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fn107234z",
+  "layer_slug_s": "princeton-fn107234z",
+  "uuid": "princeton-fn107234z",
+  "dc_title_s": "James City County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-76.914992, -76.578583, 37.458704, 37.169402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in James City County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "James City",
+    "James City County",
+    "Virginia",
+    "James River",
+    "York River",
+    "Virginia Beach",
+    "Norfolk",
+    "Newport News"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:32Z",
+  "layer_id_s": "restricted-figgy:410c8fa0-b44f-4775-84fb-e803804c7a03",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a53a55e2-f99e-41f6-9bd9-25c35e00fe83\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b685d074-32f5-464f-86da-3619e5e6d352/file/48c8e25e-54a4-49ae-9dfe-a46ae3ead15b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/410c8fa0-b44f-4775-84fb-e803804c7a03/file/14c5303e-79f9-44d6-a634-78b39cbf9026\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/410c8fa0-b44f-4775-84fb-e803804c7a03/file/e744d773-6609-438c-8d0a-fb58b6dbe734\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

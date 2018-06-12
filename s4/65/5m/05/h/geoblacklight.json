@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s4655m05h",
+  "layer_slug_s": "princeton-s4655m05h",
+  "uuid": "princeton-s4655m05h",
+  "dc_title_s": "Passaic County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.503212, -74.10739, 41.203241, 40.820689)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Passaic County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Passaic County",
+    "Passaic",
+    "New Jersey",
+    "Paterson",
+    "Clifton",
+    "Wayne",
+    "Norvin Green State Forest",
+    "Abram S. Hewitt State Forest",
+    "William Paterson University",
+    "Montclair State University",
+    "Paterson Great Falls National Historical Park",
+    "Woodland Park",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:31Z",
+  "layer_id_s": "restricted-figgy:33d2d37d-e174-43d5-943f-6435b2874f5c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5e994ba-f04e-4a67-b789-56dd65c86b45\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ad8313f9-e162-44b4-926e-87d5d11b35e0/file/3ec318f4-0bcf-46e8-b35e-003dfc161564\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33d2d37d-e174-43d5-943f-6435b2874f5c/file/e3a957b7-ea87-438a-9310-fba3ee49cb1c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33d2d37d-e174-43d5-943f-6435b2874f5c/file/6b846379-d3ae-42a0-876b-c587f9b0906d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

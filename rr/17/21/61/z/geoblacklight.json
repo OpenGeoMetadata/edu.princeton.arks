@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rr172161z",
+  "layer_slug_s": "princeton-rr172161z",
+  "uuid": "princeton-rr172161z",
+  "dc_title_s": "Santa Barbara County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-120.671561, -119.027549, 35.114223, 33.465115)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Barbara, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Santa Barbara",
+    "Santa Barbara County",
+    "California",
+    "Santa Maria",
+    "Los Padres National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:48Z",
+  "layer_id_s": "restricted-figgy:46a63cbf-99c3-4663-af4b-522a49e5f959",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/979f43d6-22bb-4fc1-a02e-31eb76b99d7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afe97a38-cf94-4b48-93b5-c3acd2821949/file/480eea6c-f8ce-4d9d-a09c-fb7a5aed2d80\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/46a63cbf-99c3-4663-af4b-522a49e5f959/file/778feaaa-f02c-4d4b-9f37-3e85805f8d10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/46a63cbf-99c3-4663-af4b-522a49e5f959/file/5fd14beb-ed50-4471-96a5-27899a502b0f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

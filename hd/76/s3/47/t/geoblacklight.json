@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hd76s347t",
+  "layer_slug_s": "princeton-hd76s347t",
+  "uuid": "princeton-hd76s347t",
+  "dc_title_s": "Montgomery County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-95.829062, -95.096433, 30.618763, 30.026636)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Montgomery County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Montgomery",
+    "Montgomery County",
+    "Texas",
+    "Conroe",
+    "The Woodlands",
+    "Sam Houston National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:40:02Z",
+  "layer_id_s": "restricted-figgy:9b00f373-873e-4261-8477-8ad255e2597c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b24be061-6291-4bd1-bd07-ef11f34ea846\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8db8fa56-d457-45ad-a40e-887294949cb5/file/0102cffa-75a9-4845-a502-b12cfba32f32\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b00f373-873e-4261-8477-8ad255e2597c/file/98ad2c84-a652-43e7-a572-674e1bf37180\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b00f373-873e-4261-8477-8ad255e2597c/file/4ddbf91b-4ae0-4b17-96cd-32190b29ed6c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

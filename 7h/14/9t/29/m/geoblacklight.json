@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7h149t29m",
+  "layer_slug_s": "princeton-7h149t29m",
+  "uuid": "princeton-7h149t29m",
+  "dc_title_s": "Lake County, Ohio roads, 2009",
+  "solr_geom": "ENVELOPE(-81.490269, -80.999049, 41.85791, 41.564421)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Lake County, Ohio, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Lake",
+    "Lake County",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:47:44Z",
+  "layer_id_s": "restricted-figgy:4a4db281-adae-4003-a900-6f4827df395c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/78ded572-cc89-4fa6-b6c6-0a831f22e30f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dab84b99-3d68-48ad-a495-53cb27670f66/file/ae7f62a1-d7c6-44c7-9e94-ff563a83fb5b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a4db281-adae-4003-a900-6f4827df395c/file/da28119c-9379-4ed3-9f13-ef8b74594920\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a4db281-adae-4003-a900-6f4827df395c/file/07aaf32e-c792-4e07-8aa7-9cd0fcfc05bb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

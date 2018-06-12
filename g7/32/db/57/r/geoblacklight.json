@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db57r",
+  "layer_slug_s": "princeton-g732db57r",
+  "uuid": "princeton-g732db57r",
+  "dc_title_s": "Kent County, Delaware land parcels, 2006",
+  "solr_geom": "ENVELOPE(-75.759978, -75.311916, 39.366058, 38.829995)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kent County, Delaware, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Kent",
+    "Kent County",
+    "Dover",
+    "Wilmington"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T00:37:07Z",
+  "layer_id_s": "restricted-figgy:178cc4d9-4778-45b7-b1dc-1a261050b645",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c1f1886b-ddda-46e3-a6d4-ce2448bc1d7f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1261539d-0929-45c7-8814-c8b543976873/file/b24c11e6-48a5-4da9-86e2-c0df32c4ed38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/178cc4d9-4778-45b7-b1dc-1a261050b645/file/38873444-ceba-4f88-8e0a-0f77776a6cbf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/178cc4d9-4778-45b7-b1dc-1a261050b645/file/49ad32e8-6cf3-40da-bb93-3938abb1e922\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

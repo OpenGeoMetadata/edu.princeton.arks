@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5999n676t",
+  "layer_slug_s": "princeton-5999n676t",
+  "uuid": "princeton-5999n676t",
+  "dc_title_s": "Mono County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-119.637173, -117.836865, 38.705059, 37.462697)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Mono County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Mono County",
+    "Mono",
+    "Sierra Nevada",
+    "Inyo National Forest",
+    "Toiyabe National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:25:09Z",
+  "layer_id_s": "restricted-figgy:458644f3-d230-4c6e-af2f-48b10766d898",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac00d2b0-b75a-4f1f-8a38-8626f55269ce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/85057fce-9aee-4d62-beeb-a5ad35ca6f9a/file/4c2c06b6-51d3-4856-a73f-f518b55400d7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/458644f3-d230-4c6e-af2f-48b10766d898/file/e11779d7-49a5-41a4-bb7c-5fc207120533\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/458644f3-d230-4c6e-af2f-48b10766d898/file/629cf1af-400c-47a4-8dd7-37bb18ec3350\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

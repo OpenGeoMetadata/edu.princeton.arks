@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859h258",
+  "layer_slug_s": "princeton-ws859h258",
+  "uuid": "princeton-ws859h258",
+  "dc_title_s": "U.S. National Atlas Cities, 2013",
+  "solr_geom": "ENVELOPE(-174.202942, 178.8746, 71.290137, 17.711706)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Cities represents cities and towns in the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey"
+  ],
+  "dc_subject_sm": [
+    "point",
+    "cities",
+    "towns",
+    "populated places",
+    "population",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1972–2004",
+    "2007",
+    "1972"
+  ],
+  "solr_year_i": 1972,
+  "layer_modified_dt": "2018-04-05T00:36:55Z",
+  "layer_id_s": "restricted-figgy:0030b5fd-3ccb-433c-8f90-c3e9ac85a2cf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/654b5399-51bc-4b85-954c-abe4a5453fa6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af6feb4f-c17b-4b42-b8fb-558fb6ed708e/file/ea4a19f7-f0b7-480f-8e8f-0789e68db2aa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0030b5fd-3ccb-433c-8f90-c3e9ac85a2cf/file/b582ca0c-5ad4-4e6e-aa42-0423beec8813\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0030b5fd-3ccb-433c-8f90-c3e9ac85a2cf/file/73d22de4-da7c-4bad-ad00-5f42324080ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

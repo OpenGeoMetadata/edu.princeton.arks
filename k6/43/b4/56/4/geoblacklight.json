@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b4564",
+  "layer_slug_s": "princeton-k643b4564",
+  "uuid": "princeton-k643b4564",
+  "dc_title_s": "Charleston County, South Carolina roads, 2011",
+  "solr_geom": "ENVELOPE(-80.446134, -79.350083, 33.207396, 32.511286)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Charleston County, South Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Charleston",
+    "Charleston County",
+    "North Charleston",
+    "Francis Marion National Forest",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:44Z",
+  "layer_id_s": "restricted-figgy:2036fc20-e9b0-462a-beee-eeccc7cb033e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2348144c-c469-435b-93e6-64e8eea12329\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b56b9ab9-c0d9-452c-9dc9-a80ddd1a6242/file/d722e449-d04a-45e5-ae37-ee7fc1efe5ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2036fc20-e9b0-462a-beee-eeccc7cb033e/file/ad588179-a588-44e1-b2c8-0504bfb66bed\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2036fc20-e9b0-462a-beee-eeccc7cb033e/file/3ce485b2-add2-4cdf-9720-aff8659cf1f8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

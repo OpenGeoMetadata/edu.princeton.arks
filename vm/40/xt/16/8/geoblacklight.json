@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xt168",
+  "layer_slug_s": "princeton-vm40xt168",
+  "uuid": "princeton-vm40xt168",
+  "dc_title_s": "Bernalillo County, New Mexico roads, 2005",
+  "solr_geom": "ENVELOPE(-107.15696, -106.149261, 35.220955, 34.868736)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Bernalillo County, New Mexico, 2005.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Mexico",
+    "Bernalillo",
+    "Bernalillo County",
+    "Albuquerque",
+    "Rio Rancho"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2018-04-04T22:39:59Z",
+  "layer_id_s": "restricted-figgy:d9fd263f-3648-4b6c-9f98-43fa1fac583a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/605e062b-d838-4754-94db-66d77401a858\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d8d44f8-5753-4c38-8791-6be7d8298141/file/a7550e3d-3994-4302-9dd0-9947d9c01b8f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9fd263f-3648-4b6c-9f98-43fa1fac583a/file/04dab566-f735-4fdc-ba13-c913a6546834\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9fd263f-3648-4b6c-9f98-43fa1fac583a/file/c446317f-c843-445e-8fa0-06362da9f1b2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

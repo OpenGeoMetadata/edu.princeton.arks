@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hd63b",
+  "layer_slug_s": "princeton-ks65hd63b",
+  "uuid": "princeton-ks65hd63b",
+  "dc_title_s": "Mongolia Major Rivers, 1994",
+  "solr_geom": "ENVELOPE(87.920097, 115.732193, 51.478779, 46.037083)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of Mongolia created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "Mongolia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1994"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:34Z",
+  "layer_id_s": "restricted-figgy:bf68ffa7-90b4-4a7a-86d9-718fc707bb9c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ba3c62bf-74f0-4863-ad2a-7f7fc5fa54a6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9c3b44f8-f60f-4640-8b91-6d83a5bd21ad/file/725e4400-54a8-4d0a-ad7e-38930e7b8d03\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf68ffa7-90b4-4a7a-86d9-718fc707bb9c/file/749e544e-6a6b-4cb9-9f75-284f055ec8cc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf68ffa7-90b4-4a7a-86d9-718fc707bb9c/file/cff2a7a5-243b-4898-b21b-e712cae62b93\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

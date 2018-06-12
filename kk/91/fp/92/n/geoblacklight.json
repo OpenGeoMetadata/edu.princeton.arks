@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fp92n",
+  "layer_slug_s": "princeton-kk91fp92n",
+  "uuid": "princeton-kk91fp92n",
+  "dc_title_s": "Delaware County, Pennsylvania, land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.601586, -75.214141, 40.066341, 39.806549)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Delaware County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Delaware",
+    "Delaware County",
+    "Pennsylvania",
+    "Philadelphia",
+    "Delaware Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:13:42Z",
+  "layer_id_s": "restricted-figgy:48fe3e91-f376-4dc3-a307-b25cd7398a73",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/338ae51f-c166-401d-bd57-c7c20a059666\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b2cf9b7-af40-4bf2-a443-e06ea123a956/file/c46e6fa9-904d-4cd8-91ce-9259d11b9363\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48fe3e91-f376-4dc3-a307-b25cd7398a73/file/7fdd05eb-0b9c-47b1-a58c-b3a47c87f798\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48fe3e91-f376-4dc3-a307-b25cd7398a73/file/64b1c94c-519b-40d6-8a26-f4179cb683be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xs55md69g",
+  "layer_slug_s": "princeton-xs55md69g",
+  "uuid": "princeton-xs55md69g",
+  "dc_title_s": "France Major Highways, 2005",
+  "solr_geom": "ENVELOPE(-1.752444, 8.157656, 51.054601, 42.465576)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes France major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:05Z",
+  "layer_id_s": "restricted-figgy:09676e1a-be7e-4cdf-84d2-5c11c03c55bf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0c56af47-853a-4f58-a676-a7d7c1bfa5ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a4a7c956-ccf3-441d-b57a-954fb13c16ec/file/1856f97b-9883-492a-80af-657302eaa845\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09676e1a-be7e-4cdf-84d2-5c11c03c55bf/file/1fff8703-e337-49e9-9e82-07c607bfffac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09676e1a-be7e-4cdf-84d2-5c11c03c55bf/file/98649f18-fd02-480d-bce3-5b3efbd9c9c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

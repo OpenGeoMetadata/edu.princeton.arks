@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fx719p155",
+  "layer_slug_s": "princeton-fx719p155",
+  "uuid": "princeton-fx719p155",
+  "dc_title_s": "Missouri Block Groups 2002",
+  "solr_geom": "ENVELOPE(-95.774704, -89.098843, 40.613641, 35.995683)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Missouri Block Groups represents the U.S. Census block groups of Missouri.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Missouri"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:45:21Z",
+  "layer_id_s": "restricted-figgy:c7878f5f-f2b0-49a8-87cd-2365bd3e6f31",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5d774821-1620-478c-a862-8aeef761d9a5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f8c3648d-28ad-4fbe-a33a-22d584759c35/file/45b802da-d5e8-46b2-ba10-dc0d9a372409\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7878f5f-f2b0-49a8-87cd-2365bd3e6f31/file/f024d1de-302b-4ad2-bdff-59d8d696287e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7878f5f-f2b0-49a8-87cd-2365bd3e6f31/file/5b895349-0c00-4197-a6ed-ac6af305c6f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zr783",
+  "layer_slug_s": "princeton-vq27zr783",
+  "uuid": "princeton-vq27zr783",
+  "dc_title_s": "Bollinger County, Missouri roads, 2014",
+  "solr_geom": "ENVELOPE(-90.221284, -89.86124, 37.599147, 37.040312)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Bollinger County, Missouri, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Missouri",
+    "Bollinger",
+    "Bollinger County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:07:19Z",
+  "layer_id_s": "restricted-figgy:08fa351d-e58c-482e-98ce-5866d6662649",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44df8200-7c6f-4868-a03d-c89b0aecd0e9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3879dbdc-4c92-4a6f-931b-c188feca7769/file/dd807c47-1149-4e90-b261-ddfff8ea09b6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08fa351d-e58c-482e-98ce-5866d6662649/file/ae0b6986-a2eb-4696-974f-5794f764aa77\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08fa351d-e58c-482e-98ce-5866d6662649/file/e51b01f8-22bc-4bfb-ba6f-c129627453c2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

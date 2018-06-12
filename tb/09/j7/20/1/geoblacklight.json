@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tb09j7201",
+  "layer_slug_s": "princeton-tb09j7201",
+  "uuid": "princeton-tb09j7201",
+  "dc_title_s": "Virginia Tracts 2002",
+  "solr_geom": "ENVELOPE(-83.675413, -75.242266, 39.466012, 36.540739)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Virginia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Virginia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:16:14Z",
+  "layer_id_s": "restricted-figgy:ce2dc281-b27a-482f-849d-5e5e1e3cc3dd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48f49b77-92e9-48be-9ccf-895bfca13991\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8bbe64e9-bf5d-405e-88e3-1bd67ed61153/file/46465a9d-d820-4069-b612-3ef5bb0ed086\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce2dc281-b27a-482f-849d-5e5e1e3cc3dd/file/58a65bb0-3249-4fac-b154-a155d48f031b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce2dc281-b27a-482f-849d-5e5e1e3cc3dd/file/b1ba53ed-ad8a-4a8e-9586-9a7cc081bc50\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

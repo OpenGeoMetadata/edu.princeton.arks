@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k3569596g",
+  "layer_slug_s": "princeton-k3569596g",
+  "uuid": "princeton-k3569596g",
+  "dc_title_s": "Croatia Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(13.527638, 18.887885, 46.375416, 43.047581)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Croatia cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Croatia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:36Z",
+  "layer_id_s": "restricted-figgy:8a84f059-e3de-41d4-bc04-692b705c13a9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6ec0d8cc-0a9a-4359-be0f-8b0ce2c1a736\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bcac9208-e3f2-455b-94e1-122dc4ccad04/file/c7d8593b-0bcc-4758-b09f-6d8913f975ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a84f059-e3de-41d4-bc04-692b705c13a9/file/69a30156-8272-447e-936a-ed4fadbd6668\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a84f059-e3de-41d4-bc04-692b705c13a9/file/c46f9b17-3dfa-4366-918e-5765427e9d05\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

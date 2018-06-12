@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8g84mq70t",
+  "layer_slug_s": "princeton-8g84mq70t",
+  "uuid": "princeton-8g84mq70t",
+  "dc_title_s": "Orange County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-81.658619, -80.870831, 28.786191, 28.346979)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Orange County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Orange County",
+    "Florida",
+    "Orange",
+    "Orlando",
+    "Kissimmee",
+    "Sanford"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:49:40Z",
+  "layer_id_s": "restricted-figgy:ccea756e-10ee-4225-844c-d6f755724a2c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b44528f3-b046-4366-b456-599fbf0616c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8c8139ec-79c0-4b76-943d-7ad219e3e809/file/a81ad8dc-0597-4c3c-9563-45c9fd497e8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ccea756e-10ee-4225-844c-d6f755724a2c/file/872b1aca-4c6c-4a6c-a664-60c19703b8e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ccea756e-10ee-4225-844c-d6f755724a2c/file/a048e614-bcd3-446f-b245-a99023b238c4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

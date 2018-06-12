@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6w924d50b",
+  "layer_slug_s": "princeton-6w924d50b",
+  "uuid": "princeton-6w924d50b",
+  "dc_title_s": "China Major City Areas, 2004",
+  "solr_geom": "ENVELOPE(75.177445, 133.09758, 53.485474, 18.217303)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes China major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:09Z",
+  "layer_id_s": "restricted-figgy:0ae6a8d4-b261-4dec-a92e-6b5336a9c7ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b9b51c9b-f69d-4ddc-81e7-461440544221\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/68b9ae36-5267-43a0-be2d-6130ab98e1c9/file/878e89f7-ed12-4359-a636-604f068d86f4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ae6a8d4-b261-4dec-a92e-6b5336a9c7ee/file/89d6a163-efae-45ea-84f7-6442accfa9bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ae6a8d4-b261-4dec-a92e-6b5336a9c7ee/file/2cc90039-b43f-4567-879b-7c6dcf5a6012\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

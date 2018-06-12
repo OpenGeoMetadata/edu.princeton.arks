@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440v110",
+  "layer_slug_s": "princeton-6h440v110",
+  "uuid": "princeton-6h440v110",
+  "dc_title_s": "Puerto Rico Major Roads, 2003",
+  "solr_geom": "ENVELOPE(-67.186058, -65.637062, 18.500421, 17.95519)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Puerto Rico major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2003"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:25Z",
+  "layer_id_s": "restricted-figgy:27a04afd-e3ec-414a-b839-4bc4b9486d6f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8724af5d-03d2-4417-a5ab-ffa38dbbf16c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/78229765-1c1b-4cc1-b30b-c6e905aa8e72/file/2cf311cd-850c-4e39-b315-72d6222c017e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27a04afd-e3ec-414a-b839-4bc4b9486d6f/file/0bd4dd4a-0a14-4b57-a1c7-3af0f1e7b7e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27a04afd-e3ec-414a-b839-4bc4b9486d6f/file/29cda59d-67f9-4a1d-af3c-e598d1d886b6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

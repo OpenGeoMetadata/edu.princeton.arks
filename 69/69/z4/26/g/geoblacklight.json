@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6969z426g",
+  "layer_slug_s": "princeton-6969z426g",
+  "uuid": "princeton-6969z426g",
+  "dc_title_s": "Morgan County, Utah land parcels, 2014",
+  "solr_geom": "ENVELOPE(-111.835474, -111.604551, 41.171536, 40.924626)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Morgan County, Utah, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Morgan",
+    "Morgan County",
+    "Utah",
+    "Ogden",
+    "Uinta-Wasatch-Cache National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:51Z",
+  "layer_id_s": "restricted-figgy:a931c861-d05a-408c-8cfb-65377bf858da",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fc25f351-04fe-4b8a-bc0d-8fed450d98c9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/64b729e7-bdee-474c-874f-4f1ba8ee7c96/file/1af7618f-4be5-4b6e-8368-5c3a9a11fdbc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a931c861-d05a-408c-8cfb-65377bf858da/file/deea43fa-1c6e-469f-a399-fd1a525f6303\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a931c861-d05a-408c-8cfb-65377bf858da/file/9736b29d-491d-417a-aec1-23fa3a3f1a22\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0c483n87h",
+  "layer_slug_s": "princeton-0c483n87h",
+  "uuid": "princeton-0c483n87h",
+  "dc_title_s": "Cuba contour lines (1:100,000)",
+  "solr_geom": "ENVELOPE(-84.953189, -74.131252, 23.27685, 19.826068)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polylines representing elevations in Cuba, c. 1976-77. Digital data were extracted from 122 Soviet topographic maps at a scale of 1:100,000. Contour intervals are 10 meters to 760m elevation, 20 meters from 760m to 1120m elevation, and 40 meters above 1120m elevation.",
+  "dc_creator_sm": [
+    "Nick Hubing, LAND INFO Worldwide Mapping, LLC, Project Manager"
+  ],
+  "dc_subject_sm": [
+    "Elevation",
+    "contours",
+    "contour lines",
+    "topography",
+    "topographic maps",
+    "Imagery and Base Maps"
+  ],
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "dct_temporal_sm": [
+    "1976",
+    "1977",
+    "1965"
+  ],
+  "solr_year_i": 1976,
+  "layer_modified_dt": "2018-04-05T01:11:18Z",
+  "layer_id_s": "restricted-figgy:e0bed3e3-1da8-4e91-ada1-6099faa53569",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b6267175-9a5c-47ff-9e1d-96a117212000\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98332375-1bfb-4e9d-a02e-e03a2b6937b5/file/a6458b56-f142-4a8a-8959-519617c565cd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0bed3e3-1da8-4e91-ada1-6099faa53569/file/88595328-12e6-4ba2-874c-38b5f8bca8f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0bed3e3-1da8-4e91-ada1-6099faa53569/file/a52cbd68-207b-40dd-8945-ed2f1a7fac15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

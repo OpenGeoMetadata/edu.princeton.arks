@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nc580r289",
+  "layer_slug_s": "princeton-nc580r289",
+  "uuid": "princeton-nc580r289",
+  "dc_title_s": "Jackson County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.807359, -82.425007, 39.207788, 38.844625)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jackson",
+    "Jackson County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-06-06T19:26:46Z",
+  "layer_id_s": "restricted-figgy:08c2dd73-53e5-4145-91d7-1dc46f2e3e0b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/369a8cb9-0293-422f-a2bb-dabaa794b6b2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a8e354c-fa14-46c8-8016-188e355fcd5a/file/fa60893c-1247-42b0-bd6e-74c4652bec6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08c2dd73-53e5-4145-91d7-1dc46f2e3e0b/file/5090dbf0-f710-420b-8c5e-e5cfb9658975\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08c2dd73-53e5-4145-91d7-1dc46f2e3e0b/file/efb4e872-0bda-4c28-9cfb-b05c47bc2ee3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

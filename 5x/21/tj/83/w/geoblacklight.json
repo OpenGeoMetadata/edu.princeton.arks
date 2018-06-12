@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5x21tj83w",
+  "layer_slug_s": "princeton-5x21tj83w",
+  "uuid": "princeton-5x21tj83w",
+  "dc_title_s": "Winchester, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.200632, -78.137954, 39.205228, 39.13142)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Winchester, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Winchester",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:26Z",
+  "layer_id_s": "restricted-figgy:e2f21a6a-f6c6-46da-94c1-ab7878c6b17e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/004a9a95-a39a-4005-9411-88da8f902895\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/80785c60-7899-4fb4-bf31-f4a3cd10b7ee/file/1d566f58-1a75-47ef-8c2d-0f851490d2fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e2f21a6a-f6c6-46da-94c1-ab7878c6b17e/file/65f24da3-4a0d-44c7-8c5d-9f4c18429d23\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e2f21a6a-f6c6-46da-94c1-ab7878c6b17e/file/d26c7367-903b-4c23-a6f9-8752663e1ee8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

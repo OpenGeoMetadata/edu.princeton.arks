@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1z40kv50r",
+  "layer_slug_s": "princeton-1z40kv50r",
+  "uuid": "princeton-1z40kv50r",
+  "dc_title_s": "Latvia Major Pipelines, 2005",
+  "solr_geom": "ENVELOPE(22.0, 27.064154, 57.578846, 56.146222)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major pipelines of Latvia created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "pipelines"
+  ],
+  "dct_spatial_sm": [
+    "Latvia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:59Z",
+  "layer_id_s": "restricted-figgy:f408f0c7-9828-46fb-af3d-6d8553b0ca8a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a46b517-ee32-4b89-b6db-4665c8f7830d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c37bff1c-e1ea-4721-becd-1b94a612acef/file/b02238b2-71bb-41fd-aa17-a5c786a11a88\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f408f0c7-9828-46fb-af3d-6d8553b0ca8a/file/702c2e1b-2303-4c01-8269-5bc9faa81c1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f408f0c7-9828-46fb-af3d-6d8553b0ca8a/file/e09742d0-230e-4d10-8f87-8218b4e3da2a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

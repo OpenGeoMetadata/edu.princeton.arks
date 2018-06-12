@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k35695950",
+  "layer_slug_s": "princeton-k35695950",
+  "uuid": "princeton-k35695950",
+  "dc_title_s": "Arizona Rivers 2002",
+  "solr_geom": "ENVELOPE(-114.816591, -109.045632, 37.002332, 31.334337)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Arizona Rivers represents streams and rivers within Arizona.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Arizona"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:44:41Z",
+  "layer_id_s": "restricted-figgy:2c5699d2-f3e6-43bd-b56c-11f7721cef02",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0813e541-b488-451b-8867-70e8b7da4eb9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e7f8080f-bf9b-4d74-9c70-5e496cca8c94/file/9af772d7-490f-4f1c-a8ce-85091d672e5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c5699d2-f3e6-43bd-b56c-11f7721cef02/file/6db51943-4f3d-49a0-8893-050d135e5004\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c5699d2-f3e6-43bd-b56c-11f7721cef02/file/9323ea60-c61f-47f2-99a0-981633cd876c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

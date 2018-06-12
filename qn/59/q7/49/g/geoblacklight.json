@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qn59q749g",
+  "layer_slug_s": "princeton-qn59q749g",
+  "uuid": "princeton-qn59q749g",
+  "dc_title_s": "World Mines",
+  "solr_geom": "ENVELOPE(-178.7333, 180.0, 80.0, -58.6942)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "\nThis coverage and associated databases contain data from selected\nfields of five tables in the MAS/MILS database. This database was\ntransferred to the U.S. Geological Survey from the U.S. Bureau of\nMines upon its closure in 1996. The database is considered archival\nand will be incorporated into the U.S. Geological Survey mineral\nlocation database along with the MRDS database.\n",
+  "dc_creator_sm": [
+    "J. Douglas Causey"
+  ],
+  "dc_publisher_s": "U. S. Geological Survey",
+  "dc_subject_sm": [
+    "MILS",
+    "MAS",
+    "mineral locations",
+    "mineral database"
+  ],
+  "dct_spatial_sm": [
+    "Global",
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:54:40Z",
+  "layer_id_s": "restricted-figgy:69ae9063-fa7f-45bf-8fe2-269b2b6c36b1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3d6e7c8f-8932-4a5d-bc65-0bc732955e51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fd8f676c-1372-4176-9a4e-411054123f23/file/c8c6bc2b-9d0a-46af-a4a9-378fafbf3637\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/69ae9063-fa7f-45bf-8fe2-269b2b6c36b1/file/042d52a2-e4d6-40fd-9fd3-f22fee876431\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/69ae9063-fa7f-45bf-8fe2-269b2b6c36b1/file/72bb7c3c-40b6-4318-8b19-737ab667b371\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

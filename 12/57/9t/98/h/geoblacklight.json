@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/12579t98h",
+  "layer_slug_s": "princeton-12579t98h",
+  "uuid": "princeton-12579t98h",
+  "dc_title_s": "Italy Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(7.349999, 18.366699, 46.788884, 36.7344)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Italy cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:57Z",
+  "layer_id_s": "restricted-figgy:f88c0f39-ac2e-4c36-b7bd-ada1f2880c34",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9341a45a-7bcf-4a72-aeb7-b12519c7e45d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c94de893-3a12-46df-bb99-4f4a60d9cb2f/file/e4e517c6-e7f1-492b-92c0-5f73df538f4d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f88c0f39-ac2e-4c36-b7bd-ada1f2880c34/file/0c3d8f5d-16c0-4e75-9f81-e7e37a88ef78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f88c0f39-ac2e-4c36-b7bd-ada1f2880c34/file/5dfd07f2-84d1-4149-ae71-43c72dcdb29b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

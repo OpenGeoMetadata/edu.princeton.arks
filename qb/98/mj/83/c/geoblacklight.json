@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qb98mj83c",
+  "layer_slug_s": "princeton-qb98mj83c",
+  "uuid": "princeton-qb98mj83c",
+  "dc_title_s": "Somerset County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-74.797881, -74.401742, 40.758284, 40.374293)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Somerset County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Somerset County",
+    "Somerset"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:54:14Z",
+  "layer_id_s": "restricted-figgy:00f93cf7-9fe5-471a-85e3-e181edd199b6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5ba0a88b-0765-47a6-bbee-8bcb33ff6db2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/487fdfa6-b8e5-4d1b-b568-10b7f861ecb6/file/c6c28d54-f543-406e-91ca-cad2f865c041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/00f93cf7-9fe5-471a-85e3-e181edd199b6/file/847a6d08-ad35-4d86-8a0a-6b239a4c23c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/00f93cf7-9fe5-471a-85e3-e181edd199b6/file/7c953a1f-8787-4d89-980d-0bb04dc6620e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

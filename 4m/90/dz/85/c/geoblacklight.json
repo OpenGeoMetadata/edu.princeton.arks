@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dz85c",
+  "layer_slug_s": "princeton-4m90dz85c",
+  "uuid": "princeton-4m90dz85c",
+  "dc_title_s": "Floyd County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.033204, -85.76109, 38.419017, 38.181303)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Floyd County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Floyd",
+    "Floyd County",
+    "Indiana",
+    "Louisville"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:01:35Z",
+  "layer_id_s": "restricted-figgy:6cfb0e46-4190-443e-bf9d-12d2dde1311f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0610d86c-dc92-44c1-a112-9991ca74c76a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bdf0f25-67fb-4221-b3bb-4dbd14606140/file/8bc2f306-e732-4e4e-a497-db5883e2e08d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6cfb0e46-4190-443e-bf9d-12d2dde1311f/file/56d75168-21a6-4d2d-912d-9dba330dd25f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cfb0e46-4190-443e-bf9d-12d2dde1311f/file/84a4b850-a942-4919-92a0-375b71a4bb41\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

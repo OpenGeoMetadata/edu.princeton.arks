@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q524js24c",
+  "layer_slug_s": "princeton-q524js24c",
+  "uuid": "princeton-q524js24c",
+  "dc_title_s": "Madison County, Idaho land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.983386, -111.398615, 43.927514, 43.621933)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Idaho, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Madison",
+    "Madison County",
+    "Idaho",
+    "Snake River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:48Z",
+  "layer_id_s": "restricted-figgy:c3de82b3-8e4e-41f7-a15f-3ff42d89bca9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d5950f52-b360-4f8b-88b6-9fac204fa240\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/49b138dc-7310-4b3f-96ba-8c322ce93f1a/file/21ac9d0c-5b6b-4992-8770-e58bc834652d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3de82b3-8e4e-41f7-a15f-3ff42d89bca9/file/aa0dda18-c724-4556-8aad-a7140abb7eea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3de82b3-8e4e-41f7-a15f-3ff42d89bca9/file/81372c32-867b-453e-85b8-88a6880815ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

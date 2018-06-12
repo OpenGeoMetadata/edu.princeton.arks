@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hm50tt48b",
+  "layer_slug_s": "princeton-hm50tt48b",
+  "uuid": "princeton-hm50tt48b",
+  "dc_title_s": "Larimer County, Colorado land parcels, 2008",
+  "solr_geom": "ENVELOPE(-106.19578, -104.942422, 40.998367, 40.257771)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Larimer County, Colorado, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Larimer",
+    "Larimer County",
+    "Colorado"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-04T22:40:06Z",
+  "layer_id_s": "restricted-figgy:ee29a724-8c86-4afe-9dc1-99dabc301778",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/efed0d4d-543c-45cf-8aa6-c8eb61f7ec92\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b7ce5680-f8fa-4a5d-8d2c-eb4d19279489/file/02aaca0c-c422-493a-9362-b3bb98cc305d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee29a724-8c86-4afe-9dc1-99dabc301778/file/2073d12f-f3ca-4f76-83f1-54c48c94dcc0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee29a724-8c86-4afe-9dc1-99dabc301778/file/a4b4561f-8bd9-40cd-894d-fe40ae0da9da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

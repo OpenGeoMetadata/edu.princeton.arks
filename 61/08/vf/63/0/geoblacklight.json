@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6108vf630",
+  "layer_slug_s": "princeton-6108vf630",
+  "uuid": "princeton-6108vf630",
+  "dc_title_s": "Dutchess County, New York roads, 2011",
+  "solr_geom": "ENVELOPE(-73.998328, -73.487454, 42.081306, 41.437784)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Dutchess County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Poughkeepsie",
+    "Dutchess County",
+    "Dutchess",
+    "New York",
+    "Vassar College"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:06Z",
+  "layer_id_s": "restricted-figgy:3a0ae204-abc6-4420-86d0-1fa0cb06ca1a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f7cef1a-1a12-4981-bbd8-31cfa5d3ee05\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fdf851a5-3f88-401f-87b5-5b629255f037/file/c3a614f1-d4b6-4c0c-b220-cb6e4bacf622\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a0ae204-abc6-4420-86d0-1fa0cb06ca1a/file/c67fe206-ec91-4692-bba5-3e950bb7c78d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a0ae204-abc6-4420-86d0-1fa0cb06ca1a/file/b4c981a3-5da9-4be9-8843-6f59ab837bc6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

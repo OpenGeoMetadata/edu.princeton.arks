@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dv13zv914",
+  "layer_slug_s": "princeton-dv13zv914",
+  "uuid": "princeton-dv13zv914",
+  "dc_title_s": "North Korea Province Boundaries, 1996",
+  "solr_geom": "ENVELOPE(124.180239, 130.674866, 43.006054, 37.597308)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the province boundaries of North Korea created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "provinces",
+    "Boundaries",
+    "province boundaries"
+  ],
+  "dct_spatial_sm": [
+    "North Korea"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:10Z",
+  "layer_id_s": "restricted-figgy:fd849a77-060d-459a-b364-6ce47b356b6f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b452994e-225d-4e1b-8e5a-9e28640a2037\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aebe42c7-e14b-4743-8ff7-449520c60e2e/file/11f8996d-3a9f-47f0-8e12-4e14abcc12c2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd849a77-060d-459a-b364-6ce47b356b6f/file/27bea020-dabd-4ba6-aef0-7479dc40035c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd849a77-060d-459a-b364-6ce47b356b6f/file/948084b4-4c29-40f8-960a-66a60040f6d1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

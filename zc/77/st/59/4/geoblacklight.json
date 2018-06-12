@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zc77st594",
+  "layer_slug_s": "princeton-zc77st594",
+  "uuid": "princeton-zc77st594",
+  "dc_title_s": "Cross County, Arkansas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-91.042175, -90.502158, 35.449796, 35.143507)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cross County, Arkansas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cross",
+    "Cross County",
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:10Z",
+  "layer_id_s": "restricted-figgy:179db429-3397-40e0-bc8c-7711a7b2aa42",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/76d074ad-8023-4e4e-93d4-636e46766f58\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/629c030a-9f81-4a11-a4f6-397c142d6c33/file/d03b8789-2d1c-4e03-b39a-dcbdbe5bcc8f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/179db429-3397-40e0-bc8c-7711a7b2aa42/file/45117867-6932-4596-866f-1350dc70fc3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/179db429-3397-40e0-bc8c-7711a7b2aa42/file/8ccf45ae-1461-4ad1-aff3-e1a4755ba7ec\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

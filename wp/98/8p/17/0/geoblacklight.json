@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wp988p170",
+  "layer_slug_s": "princeton-wp988p170",
+  "uuid": "princeton-wp988p170",
+  "dc_title_s": "Porter County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-87.232976, -86.929633, 41.711137, 41.220029)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Porter County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Porter County",
+    "Porter",
+    "Indiana",
+    "Chicago"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:06:55Z",
+  "layer_id_s": "restricted-figgy:ec845d0c-f6b2-4b85-9bff-5b9e9c57612f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7c26614c-062f-4ef8-b6d6-71ff5c34d3b6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fb662d39-e4e2-4eb7-af71-2cc8e75bac65/file/9d127edf-8807-400a-82db-e377db179063\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ec845d0c-f6b2-4b85-9bff-5b9e9c57612f/file/53356aaf-0664-4733-92fe-04babd778f4e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ec845d0c-f6b2-4b85-9bff-5b9e9c57612f/file/17f56101-16b0-4028-ae1c-11ea1ba97518\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

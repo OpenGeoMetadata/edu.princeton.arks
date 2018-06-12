@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jd472x91s",
+  "layer_slug_s": "princeton-jd472x91s",
+  "uuid": "princeton-jd472x91s",
+  "dc_title_s": "United Kingdom Postcode Districts, 2005",
+  "solr_geom": "ENVELOPE(-8.166391, 1.76362, 60.846801, 49.162554)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes United Kingdom postcode districts created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Districts"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:23Z",
+  "layer_id_s": "restricted-figgy:7ab059dc-a1d7-4f7d-bc5a-6920698af0d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0d732c6d-78d1-4e47-b520-7950966a0da9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4a2a1d67-b22b-4a63-adb2-c1f34f97d80a/file/7bc4ae5d-91ba-46b3-ad2c-c257432a0475\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ab059dc-a1d7-4f7d-bc5a-6920698af0d7/file/89304481-59ef-4abd-97cb-9b8cf5d055ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ab059dc-a1d7-4f7d-bc5a-6920698af0d7/file/c1de2885-24a8-4ea0-b0a4-bf19c1341a3f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

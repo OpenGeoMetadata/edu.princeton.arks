@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sh117",
+  "layer_slug_s": "princeton-mp48sh117",
+  "uuid": "princeton-mp48sh117",
+  "dc_title_s": "Mineral County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.271932, -78.657727, 39.649162, 39.238422)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mineral County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mineral",
+    "Mineral County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:52:47Z",
+  "layer_id_s": "restricted-figgy:67b24aff-b8f8-4754-bb22-1a2d523bd3f8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8c135f0-e8e9-4b19-acf4-2fd9c872626a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d3756a09-9141-4826-a588-25b436537e2a/file/98dd2b59-cee7-4a5a-ac23-05e70932c463\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67b24aff-b8f8-4754-bb22-1a2d523bd3f8/file/1eff77fb-30d2-4b4d-9209-03125a0d8535\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67b24aff-b8f8-4754-bb22-1a2d523bd3f8/file/45bc8b25-685a-438b-94f0-d63dc3435444\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

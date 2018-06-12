@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s1619574",
+  "layer_slug_s": "princeton-9s1619574",
+  "uuid": "princeton-9s1619574",
+  "dc_title_s": "Anson County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.320959, -79.84989, 35.211113, 34.806726)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Anson County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Anson",
+    "Anson County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:29Z",
+  "layer_id_s": "restricted-figgy:23871017-c0f8-4f2e-b5a4-b26e4520e1a0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2a808f82-24d6-4d68-8659-e859087bdf51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2becbd31-1536-4905-9a14-1ac0cdaf7a73/file/48a15a9d-7266-4e59-8989-1b1ccbbd1f01\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/23871017-c0f8-4f2e-b5a4-b26e4520e1a0/file/711dec6b-24be-4abc-a868-dd946bc7370b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/23871017-c0f8-4f2e-b5a4-b26e4520e1a0/file/55e325d7-04a5-4b2e-aed0-ef670037ea33\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

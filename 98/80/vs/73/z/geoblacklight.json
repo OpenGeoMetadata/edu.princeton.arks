@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9880vs73z",
+  "layer_slug_s": "princeton-9880vs73z",
+  "uuid": "princeton-9880vs73z",
+  "dc_title_s": "Denmark Major Highways, 2005",
+  "solr_geom": "ENVELOPE(8.501708, 12.83211, 57.517942, 54.650439)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Denmark major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:02Z",
+  "layer_id_s": "restricted-figgy:0fbd2105-9b2b-409b-9d7e-a5d586481ee8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/79ab06e3-68b7-482e-93a2-dbc181d7c628\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/06843898-65ab-4da2-ba22-fea059dd7849/file/05039dbe-b35e-4fa2-be96-93be8f908260\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fbd2105-9b2b-409b-9d7e-a5d586481ee8/file/c182898e-2328-42d0-8264-96636cd596bf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fbd2105-9b2b-409b-9d7e-a5d586481ee8/file/a797e8de-35a1-4fcc-a199-017eee315f25\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

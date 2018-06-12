@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp71d",
+  "layer_slug_s": "princeton-d504rp71d",
+  "uuid": "princeton-d504rp71d",
+  "dc_title_s": "Piscataquis County, Maine land parcels, 2014",
+  "solr_geom": "ENVELOPE(-69.811966, -68.800189, 46.572094, 45.09082)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Piscataquis County, Maine, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Piscataquis",
+    "Piscataquis County",
+    "Baxter State Park"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:2500026f-5391-4f72-97c6-3d4729417086",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/daf116c1-fae9-472f-b706-c2cc545d2de3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b70ea50-ad81-4857-bc66-b5fa208f512c/file/f49274aa-405e-4dce-ad40-46a2ec4cca59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2500026f-5391-4f72-97c6-3d4729417086/file/51cdd004-c136-455e-8d09-34cb72bdff2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2500026f-5391-4f72-97c6-3d4729417086/file/03d30b3e-7258-4183-9f30-9bbe4f1bff50\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rx913r35d",
+  "layer_slug_s": "princeton-rx913r35d",
+  "uuid": "princeton-rx913r35d",
+  "dc_title_s": "France Cities With Population 100 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(-4.484707, 7.743352, 50.624013, 42.697812)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes France cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:49Z",
+  "layer_id_s": "restricted-figgy:4b52fad8-4e26-4f96-b533-7fa2c03d8f46",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3c085af7-e724-40a5-b13a-b75bd09b00e6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/369efe5e-c1bc-451b-a0b1-4c61997a3fbb/file/46d820cf-76b0-48ae-b9c1-b3f5ecdc226d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b52fad8-4e26-4f96-b533-7fa2c03d8f46/file/fd10dfa9-e3f3-4e47-a6f8-9dc248630629\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b52fad8-4e26-4f96-b533-7fa2c03d8f46/file/40d6c99a-0d72-4555-8d7d-ac9846574137\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

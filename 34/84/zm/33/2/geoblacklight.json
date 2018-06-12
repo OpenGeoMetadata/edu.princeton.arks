@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zm332",
+  "layer_slug_s": "princeton-3484zm332",
+  "uuid": "princeton-3484zm332",
+  "dc_title_s": "Rockland County, New  York land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.234424, -73.891103, 41.321953, 40.997058)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Rockland County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Rockland County",
+    "New York",
+    "Rockland",
+    "New York City",
+    "Ramapo",
+    "Clarkstown",
+    "Hudson Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:40:08Z",
+  "layer_id_s": "restricted-figgy:ea965f73-e8e9-4b4b-a251-06c5a205831d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b34a8a00-4d52-4032-92f1-a5dc3b7d7a3d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/643f78c9-a945-48df-ac39-2f64a28c2bee/file/1d5d94fb-5bb4-4b78-a908-ae99db380ec7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea965f73-e8e9-4b4b-a251-06c5a205831d/file/e926c19a-874c-4118-a947-e589010dceb2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea965f73-e8e9-4b4b-a251-06c5a205831d/file/bdd875b7-0d22-4c5c-8857-139cbc7a085e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

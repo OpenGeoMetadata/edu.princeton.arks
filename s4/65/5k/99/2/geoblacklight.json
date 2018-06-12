@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s4655k992",
+  "layer_slug_s": "princeton-s4655k992",
+  "uuid": "princeton-s4655k992",
+  "dc_title_s": "Upson County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.533664, -84.122314, 33.004348, 32.685331)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Upson County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Upson",
+    "Upson County",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:05Z",
+  "layer_id_s": "restricted-figgy:edf8a52c-f470-4eaa-8093-8ba79c87119d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8195a1c5-728b-42ab-ad42-ee228a46777d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d856317b-ebcc-42ab-a2d1-7e646102fcc4/file/3220840d-a38e-40b1-abb9-cab8ef7022f6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edf8a52c-f470-4eaa-8093-8ba79c87119d/file/084168c3-9904-49aa-8046-e74f03ae29fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edf8a52c-f470-4eaa-8093-8ba79c87119d/file/2481f531-88fc-4b54-b48f-314750320aa3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

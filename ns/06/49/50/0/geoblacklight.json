@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns0649500",
+  "layer_slug_s": "princeton-ns0649500",
+  "uuid": "princeton-ns0649500",
+  "dc_title_s": "Hyde County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-76.638261, -75.771505, 35.705387, 35.065385)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hyde County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hyde",
+    "Hyde County",
+    "North Carolina",
+    "Outer Banks"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:23Z",
+  "layer_id_s": "restricted-figgy:e820c2a5-b79e-472f-80f9-e9d88ec908ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d580595c-3dec-4d45-ab7d-33a76c63bd3d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6f160d67-c4c3-4965-8eba-56ee3ce8135f/file/5d24b1a4-42e9-4285-ae97-7d6df77aa6e9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e820c2a5-b79e-472f-80f9-e9d88ec908ee/file/563e1e54-3329-407c-ba97-b671c955681e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e820c2a5-b79e-472f-80f9-e9d88ec908ee/file/f9d15d53-0062-4892-9f01-0829cdb4c937\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

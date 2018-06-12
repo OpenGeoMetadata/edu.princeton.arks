@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz806123b",
+  "layer_slug_s": "princeton-nz806123b",
+  "uuid": "princeton-nz806123b",
+  "dc_title_s": "Mississippi Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-91.613552, -88.100639, 34.995983, 30.176776)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mississippi Block Centroid Populations represents the population of the U.S. Census block centroids for Mississippi.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:59:55Z",
+  "layer_id_s": "restricted-figgy:5e97e8e6-af10-4ab6-ba4a-f410e98c6402",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fae99ba2-d4be-429c-94a9-0ae18c3c08da\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1a2be123-cfdc-4f91-99f5-9724b072abf0/file/b10fd49f-ed6e-4eb3-86dd-ad5a7d339b14\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e97e8e6-af10-4ab6-ba4a-f410e98c6402/file/f527cef2-1640-47d7-812c-194f69f0334b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e97e8e6-af10-4ab6-ba4a-f410e98c6402/file/72e9d4ab-99a9-45b9-9fa2-13940d725bbf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1r66j449m",
+  "layer_slug_s": "princeton-1r66j449m",
+  "uuid": "princeton-1r66j449m",
+  "dc_title_s": "Defiance County, Ohio land parcels, 2006",
+  "solr_geom": "ENVELOPE(-84.804065, -84.227347, 41.427803, 41.165445)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Defiance County, Ohio, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Defiance",
+    "Defiance County"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:03:02Z",
+  "layer_id_s": "restricted-figgy:98302ede-f4a4-42e0-b9c9-63459c9c6eef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bd3f06cb-51a4-48de-ac37-a628573dc739\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7a977d88-972b-42f1-bf55-c6eeb8764551/file/4b28a6f1-7911-49b6-91cc-e77e83ac7d2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98302ede-f4a4-42e0-b9c9-63459c9c6eef/file/32aef9c2-42a9-465f-8d3b-9fba232d72e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98302ede-f4a4-42e0-b9c9-63459c9c6eef/file/b2375630-b83c-44af-a86a-ea16438c3f48\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

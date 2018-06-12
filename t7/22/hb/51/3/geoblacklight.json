@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hb513",
+  "layer_slug_s": "princeton-t722hb513",
+  "uuid": "princeton-t722hb513",
+  "dc_title_s": "Pasco County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-82.850392, -82.054877, 28.478682, 28.171224)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pasco County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Pasco",
+    "Pasco County",
+    "Tampa"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:37:33Z",
+  "layer_id_s": "restricted-figgy:3031ac98-89af-445b-a953-6f8f7198f2e9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7547601c-46b7-45fe-b32d-90134fc700fe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/44e21a55-6e6e-48b1-ac1e-5538a226f4fa/file/d8912950-4a26-4a5f-b60f-f718f362f70f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3031ac98-89af-445b-a953-6f8f7198f2e9/file/94b2a238-44db-4402-85c6-2be7527964c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3031ac98-89af-445b-a953-6f8f7198f2e9/file/2b59d4d7-a8e0-423c-9824-de1cb2cf6299\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8k71nm57x",
+  "layer_slug_s": "princeton-8k71nm57x",
+  "uuid": "princeton-8k71nm57x",
+  "dc_title_s": "Cape Girardeau County, Missouri roads, 2014",
+  "solr_geom": "ENVELOPE(-89.866794, -89.435781, 37.601894, 37.126038)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Cape Girardeau County, Missouri, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Cape Girardeau",
+    "Cape Girardeau County",
+    "Missouri",
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:35Z",
+  "layer_id_s": "restricted-figgy:af987f57-2a9a-4338-93b5-8f0d3bed01b9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3fe41b1c-13fd-4cb0-88aa-9c15741e2303\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1e02de3b-51ec-40ec-8f89-211cc1b63d8b/file/4741815d-6d26-49ec-a416-790351e33168\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af987f57-2a9a-4338-93b5-8f0d3bed01b9/file/fe8ccc80-174b-4dcb-84a3-745e8cbbd9c5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af987f57-2a9a-4338-93b5-8f0d3bed01b9/file/44e916a5-c4c8-4e22-87cd-23340a56b93a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

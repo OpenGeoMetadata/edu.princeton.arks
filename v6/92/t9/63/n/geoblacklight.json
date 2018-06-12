@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v692t963n",
+  "layer_slug_s": "princeton-v692t963n",
+  "uuid": "princeton-v692t963n",
+  "dc_title_s": "Lake County, Ohio land parcels, 2009",
+  "solr_geom": "ENVELOPE(-81.488798, -81.002247, 41.853417, 41.569594)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Ohio, 2009. Those portions of the real estate parcel which are considered during appraisal and/or taxation processes. This excludes rights-of-way easements for roads and other, similar circumstances. Note that some real estate parcels are wholly exempt and may not be represented in any manner by a taxable parcel—examples include public utilities, mineral parcels (oil/gas wells), exempt uses, and etc. This corresponds to the “alpha parcel” as described by Assessor’s staff.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Lake",
+    "Lake County",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:48:28Z",
+  "layer_id_s": "restricted-figgy:dc3e6760-4dca-48f6-9cba-ec46023dbd45",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/af55b3d8-c69e-462b-a3d0-2ce4200c2ed2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2c5efcd-5828-4999-b883-f74926a0e9b9/file/81ee7578-e8fe-44e0-a799-baf55b9aca0e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc3e6760-4dca-48f6-9cba-ec46023dbd45/file/0daad714-3bb1-4ccc-ae76-dfd85abbd351\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc3e6760-4dca-48f6-9cba-ec46023dbd45/file/85b9389e-85d6-4649-9914-630070e49cd2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

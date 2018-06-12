@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk465",
+  "layer_slug_s": "princeton-r781wk465",
+  "uuid": "princeton-r781wk465",
+  "dc_title_s": "Honolulu County, Hawaii land parcels, 2011",
+  "solr_geom": "ENVELOPE(-158.280487, -157.64824, 21.712089, 21.25492)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Honolulu County, Hawaii, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Honolulu",
+    "Honolulu County",
+    "Hawaii",
+    "Oahu",
+    "Pearl Harbor",
+    "Oahu Forest National Wildlife Refuge",
+    "James Campbell National Wildlife Refuge",
+    "Pearl Harbor National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:18Z",
+  "layer_id_s": "restricted-figgy:adf42c42-b649-4ebf-8015-8c91363f322c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1ab19932-4922-4cad-ad17-c3e2f4019e2f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0a128733-e387-4029-95c4-318efc630c37/file/04c31914-c646-4e2e-b385-d397505a131b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/adf42c42-b649-4ebf-8015-8c91363f322c/file/bb240a6a-ad4a-4210-aa5d-e67a60986bf3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/adf42c42-b649-4ebf-8015-8c91363f322c/file/16a59df2-a9e5-47ce-89f7-bb5f5c9815ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

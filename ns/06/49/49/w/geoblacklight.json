@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns064949w",
+  "layer_slug_s": "princeton-ns064949w",
+  "uuid": "princeton-ns064949w",
+  "dc_title_s": "Dallas County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-97.038685, -96.517018, 32.989658, 32.545002)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dalllas County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dallas",
+    "Dallas County",
+    "Texas",
+    "Richardson",
+    "Garland",
+    "Carrollton",
+    "Irving",
+    "Grand Prairie",
+    "Lewisville",
+    "Mesquite"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:02Z",
+  "layer_id_s": "restricted-figgy:d0afb814-74f6-4597-a66c-316adda35343",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4588f3c7-e60e-4c57-91f2-94de410996e4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4a361b87-8e57-4182-b7fc-b33123577c69/file/8b41cf98-112a-4fe7-8ad6-bb5b57e78a68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0afb814-74f6-4597-a66c-316adda35343/file/f98482f3-088e-4767-8e6b-8a498eaa618e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0afb814-74f6-4597-a66c-316adda35343/file/cce3d502-276e-4746-90df-4e783d50d566\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

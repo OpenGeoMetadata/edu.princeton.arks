@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dr26z177q",
+  "layer_slug_s": "princeton-dr26z177q",
+  "uuid": "princeton-dr26z177q",
+  "dc_title_s": "Bergen County, New Jersey roads, 2014",
+  "solr_geom": "ENVELOPE(-74.269879, -73.906231, 41.122602, 40.771343)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Bergen County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Bergen County",
+    "Bergen",
+    "New York",
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:27Z",
+  "layer_id_s": "restricted-figgy:0dcf0686-4b98-465a-b237-5ad929fc555a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6beaf28a-08fb-47c2-9645-d11ca7038bb2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7323fb57-272f-4abf-a9a1-28a093f52ebb/file/610e1731-5e9b-4f9e-a230-f3af8d687252\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0dcf0686-4b98-465a-b237-5ad929fc555a/file/9a02798d-ad7e-4247-8da2-bce8040a799a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0dcf0686-4b98-465a-b237-5ad929fc555a/file/585d2b0a-4da7-4b8b-bf43-964a1beadc2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

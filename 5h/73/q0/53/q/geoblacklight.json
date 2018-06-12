@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5h73q053q",
+  "layer_slug_s": "princeton-5h73q053q",
+  "uuid": "princeton-5h73q053q",
+  "dc_title_s": "Howard County, Indiana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-86.37568, -85.862138, 40.56552, 40.373638)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Howard County, Indiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Howard County",
+    "Howard",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:37Z",
+  "layer_id_s": "restricted-figgy:6b98fba4-97e2-4563-a522-8613dc4ccf90",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ef9bf72e-4218-40ae-a216-5d71e84a3888\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1dfcfc9c-2260-479a-a8bc-cb6d5dd5dc44/file/3f02f197-9c32-4184-80ff-36c877e69384\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b98fba4-97e2-4563-a522-8613dc4ccf90/file/1bd9a0e0-6275-4f1d-b46c-be30f4965e90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b98fba4-97e2-4563-a522-8613dc4ccf90/file/829b579c-0ef9-41cc-8930-b7ec073b86be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

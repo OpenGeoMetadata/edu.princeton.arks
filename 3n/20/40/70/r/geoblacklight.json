@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n204070r",
+  "layer_slug_s": "princeton-3n204070r",
+  "uuid": "princeton-3n204070r",
+  "dc_title_s": "Greece With Population 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(20.850795, 28.229803, 41.091014, 35.512654)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greece cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:40Z",
+  "layer_id_s": "restricted-figgy:d3aae233-f2bd-474f-9cd7-ac6ec59654aa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eeb3f778-ef24-42a3-a0dd-d1c461218d1c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40c3e99b-20ca-47c9-850a-e9872cf83687/file/90a99b50-c91c-46a4-8279-35bc57b19422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3aae233-f2bd-474f-9cd7-ac6ec59654aa/file/515741f1-8cae-4af8-bc39-bbf508b5bda4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3aae233-f2bd-474f-9cd7-ac6ec59654aa/file/1e47748c-ec79-4eec-9151-75a1da3cad91\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

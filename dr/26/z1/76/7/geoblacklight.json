@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dr26z1767",
+  "layer_slug_s": "princeton-dr26z1767",
+  "uuid": "princeton-dr26z1767",
+  "dc_title_s": "Gillespie County, Texas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-99.304039, -98.587384, 30.499835, 30.134371)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Gillespie County, Texas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Gillespie",
+    "Gillespie County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:25Z",
+  "layer_id_s": "restricted-figgy:7f8bb8c8-c878-4ee4-8196-2a35db5dbaa7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/36e5e79f-112b-44d0-9e34-c5ad09194ed2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f2eb571a-fec6-4fc7-a744-d68c244c18ea/file/7a26b8e1-8b6c-4401-83ed-59246b74f86b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f8bb8c8-c878-4ee4-8196-2a35db5dbaa7/file/e6a55468-2101-444d-a4a2-3af9b071b4a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f8bb8c8-c878-4ee4-8196-2a35db5dbaa7/file/511313ed-f4c9-4176-9b24-7a1c625d9ab6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

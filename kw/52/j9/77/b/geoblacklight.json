@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kw52j977b",
+  "layer_slug_s": "princeton-kw52j977b",
+  "uuid": "princeton-kw52j977b",
+  "dc_title_s": "World Countries (Generalized) 2002",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.604156, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Countries (Generalized) represents generalized boundaries for the countries of the world, as they existed in 2002.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "countries",
+    "international boundaries",
+    "coastlines",
+    "area",
+    "international codes",
+    "currencies",
+    "sovereignties",
+    "population",
+    "landlocked information",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998",
+    "1993/1994",
+    "2000",
+    "1994",
+    "2001"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T01:21:51Z",
+  "layer_id_s": "restricted-figgy:50f2785b-7041-4de9-b4de-f6ee9b521cfd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e1c3d357-22d8-4c7e-90c3-cf4387a947db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/333e9004-821e-4688-8736-43b2216d5bed/file/d166b1ae-7059-4240-91ed-8d086b2c399c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50f2785b-7041-4de9-b4de-f6ee9b521cfd/file/db83115b-10e8-4360-a665-a5af85e24a4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50f2785b-7041-4de9-b4de-f6ee9b521cfd/file/83baefda-2816-46ff-be6b-c412f1251d03\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

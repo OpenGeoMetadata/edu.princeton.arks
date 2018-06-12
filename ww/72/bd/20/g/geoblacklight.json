@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ww72bd20g",
+  "layer_slug_s": "princeton-ww72bd20g",
+  "uuid": "princeton-ww72bd20g",
+  "dc_title_s": "Europe Railroads 2002",
+  "solr_geom": "ENVELOPE(-9.8685, 66.4683, 69.725, 36.1245)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Europe Railroads represents the railroads of Europe.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "railroads",
+    "rail",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:43Z",
+  "layer_id_s": "restricted-figgy:dbd7002e-73f8-4958-8284-b8fc867936ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1bcfe859-cf86-4852-bc20-1618a2fc3e30\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/835753a8-7498-422f-89f6-666a380172d2/file/a6994e46-0b7a-4718-a4fb-76034f90b8d5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dbd7002e-73f8-4958-8284-b8fc867936ab/file/a3bd829c-2e01-47f0-ac56-fcf1485c73d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dbd7002e-73f8-4958-8284-b8fc867936ab/file/78a820ef-6fc6-4803-9395-819f685e56b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

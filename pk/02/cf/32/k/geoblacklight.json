@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cf32k",
+  "layer_slug_s": "princeton-pk02cf32k",
+  "uuid": "princeton-pk02cf32k",
+  "dc_title_s": "Ventura County, California roads, 2013",
+  "solr_geom": "ENVELOPE(-119.567855, -118.632357, 34.900933, 33.215522)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Ventura County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Ventura",
+    "Ventura County",
+    "California",
+    "Oxnard",
+    "Thousand Oaks",
+    "Angeles National Forest",
+    "Channel Islands National Park",
+    "Los Padres National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:007e68bd-dda8-4bd5-b9c3-94b213d11335",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ac94f376-c785-45cb-b8db-26d89f0cde32\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1bbd116-78e6-4a59-94e7-a4ccaf28f377/file/6a7dbe4a-b9cf-483b-8d98-ae57906aecd5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/007e68bd-dda8-4bd5-b9c3-94b213d11335/file/9619d353-a57e-4cbf-9609-06122f1a6e63\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/007e68bd-dda8-4bd5-b9c3-94b213d11335/file/930d85be-2d18-4a08-ac8d-96ac265c94bb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

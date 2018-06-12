@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763b201",
+  "layer_slug_s": "princeton-w3763b201",
+  "uuid": "princeton-w3763b201",
+  "dc_title_s": "Marion County, Florida roads, 2011",
+  "solr_geom": "ENVELOPE(-82.53622, -81.639151, 29.51994, 28.959828)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Marion County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Marion County",
+    "Marion",
+    "Florida",
+    "Ocala"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:11Z",
+  "layer_id_s": "restricted-figgy:6f4a25ed-5318-46c7-b23e-ff7e3e8b0d58",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/883a6b0e-349b-4d2b-848f-258e1491a0fe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6e5ff830-e849-40bf-aa57-5f4c95b8c8ab/file/bc068a47-5f78-4f32-aef1-58d056a54849\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f4a25ed-5318-46c7-b23e-ff7e3e8b0d58/file/b9138007-7b70-46b1-9bab-469411d8cc32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f4a25ed-5318-46c7-b23e-ff7e3e8b0d58/file/e87f0d7a-21cb-4da6-8572-0edf93428084\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hd23j",
+  "layer_slug_s": "princeton-t722hd23j",
+  "uuid": "princeton-t722hd23j",
+  "dc_title_s": "Charlottesville, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-78.523742, -78.446356, 38.070482, 38.009654)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Charlottesville, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Charlottesville",
+    "Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:29Z",
+  "layer_id_s": "restricted-figgy:64a983dd-8f73-41bf-89a4-cd9f1a8644f5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/514380db-d868-4faa-93f0-9341a679cffe\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6c9b6ab-cd5e-414d-9dbf-da237ab70119/file/cc158194-f4b5-4bab-aaaf-37ee39144ffd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64a983dd-8f73-41bf-89a4-cd9f1a8644f5/file/9d7ac722-8b4c-475d-8c3b-91c71273bc18\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64a983dd-8f73-41bf-89a4-cd9f1a8644f5/file/83528db9-c0a2-48bb-88bc-526156dbd8f3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

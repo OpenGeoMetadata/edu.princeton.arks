@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mr199",
+  "layer_slug_s": "princeton-2227mr199",
+  "uuid": "princeton-2227mr199",
+  "dc_title_s": "Germany Major City Areas, 2006",
+  "solr_geom": "ENVELOPE(5.983922, 15.006364, 54.82273, 47.401123)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:52Z",
+  "layer_id_s": "restricted-figgy:210ef9ca-c49f-4461-817c-0f979553be43",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/52a603f4-e6bf-42dd-b4d0-433f94e2b3c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8964dc5b-e561-4ae8-91ef-e43fb493ea70/file/6c34be9d-75bc-4d9f-a0ee-26fc74fc23ab\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/210ef9ca-c49f-4461-817c-0f979553be43/file/236cb209-fb4c-45f5-9b33-ef2ad811110c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/210ef9ca-c49f-4461-817c-0f979553be43/file/9067c496-1d79-4511-a55c-3d58df3efaa2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

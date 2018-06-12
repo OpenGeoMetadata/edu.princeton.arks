@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/js956h24j",
+  "layer_slug_s": "princeton-js956h24j",
+  "uuid": "princeton-js956h24j",
+  "dc_title_s": "District of Columbia Tracts 2002",
+  "solr_geom": "ENVELOPE(-77.119901, -76.909396, 38.99511, 38.791514)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "District of Columbia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of District of Columbia.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:35Z",
+  "layer_id_s": "restricted-figgy:49dfa739-c858-4e89-8c02-fd30d44c3b4e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5beb070f-3ab1-4af5-b836-92ea8af5732a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/34faac60-5ebe-4c0a-a1d4-aaf565859dfd/file/c386e827-3195-47c9-b237-b2ec11788f8a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49dfa739-c858-4e89-8c02-fd30d44c3b4e/file/33c45f35-a551-47f7-8e75-2b4db9c0e2df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49dfa739-c858-4e89-8c02-fd30d44c3b4e/file/41cd2abe-dc66-4ba6-aba7-27b43aa09eef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

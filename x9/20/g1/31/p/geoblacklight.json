@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g131p",
+  "layer_slug_s": "princeton-x920g131p",
+  "uuid": "princeton-x920g131p",
+  "dc_title_s": "Monroe County, Indiana land parcels, 2008",
+  "solr_geom": "ENVELOPE(-86.685704, -86.317681, 39.355162, 38.990828)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monroe County, Indiana, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Monroe county",
+    "Monroe",
+    "Indiana",
+    "Bloomington"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T00:36:04Z",
+  "layer_id_s": "restricted-figgy:96438b62-0a7f-482f-a8fc-615a410c37a3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a2203316-7668-48ed-9a8c-e6bee4e8f24f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2ef44e3-2a7f-44c9-ae11-cf7f90f1a8db/file/71cc28ce-e608-4e84-b393-c6ce8fe05071\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/96438b62-0a7f-482f-a8fc-615a410c37a3/file/85107e03-da1a-4a0c-99e8-3175a9f8dda7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/96438b62-0a7f-482f-a8fc-615a410c37a3/file/988707ca-be22-49fe-9d6e-f279d8a90a51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

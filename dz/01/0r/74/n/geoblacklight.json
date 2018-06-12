@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010r74n",
+  "layer_slug_s": "princeton-dz010r74n",
+  "uuid": "princeton-dz010r74n",
+  "dc_title_s": "Finland 2-Digit Postcode Areas, 2004",
+  "solr_geom": "ENVELOPE(19.262236, 31.583708, 70.088526, 59.677963)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Finland 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Finland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:15:59Z",
+  "layer_id_s": "restricted-figgy:5cde9495-6b40-4529-a947-314f5b73c68a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8c07dea2-413b-43ed-981b-a7d88d1f0642\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a184e264-b41f-49ce-9c7e-d2a12c452f36/file/b43f3e6b-97c0-4374-875c-9dab10c0e9f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cde9495-6b40-4529-a947-314f5b73c68a/file/32f61979-8115-4c73-88b6-d90b0fd30d58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cde9495-6b40-4529-a947-314f5b73c68a/file/e4501264-a37c-4bd3-a6c9-c829914b231f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

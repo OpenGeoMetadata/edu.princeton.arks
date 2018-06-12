@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xt149",
+  "layer_slug_s": "princeton-vm40xt149",
+  "uuid": "princeton-vm40xt149",
+  "dc_title_s": "Iceland Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(-21.993855, -18.906706, 66.162857, 64.10429)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Iceland major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-05-31T19:09:51Z",
+  "layer_id_s": "restricted-figgy:8cdc90e5-e817-4c9f-a518-7dfc7db82a4c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a8e4dee-ea78-465a-9922-a1bddef6108e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/98d65d07-8261-46e5-a106-f2ad6b73befa/file/6ef8bc53-b0bc-435e-9c9a-06f6fd636b25\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cdc90e5-e817-4c9f-a518-7dfc7db82a4c/file/17eca199-0ec7-4f7a-b5a0-2e4c4de15c6b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cdc90e5-e817-4c9f-a518-7dfc7db82a4c/file/92ab6d24-f26b-4073-b56f-f72af75d4ac5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

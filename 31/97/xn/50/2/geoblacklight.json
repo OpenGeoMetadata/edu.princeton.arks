@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xn502",
+  "layer_slug_s": "princeton-3197xn502",
+  "uuid": "princeton-3197xn502",
+  "dc_title_s": "Cyprus 2-Digit Postcode Areas",
+  "solr_geom": "ENVELOPE(32.2681, 34.592858, 35.696624, 34.561705)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Cyprus 2 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "2 digit"
+  ],
+  "dct_spatial_sm": [
+    "Cyprus"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:37Z",
+  "layer_id_s": "restricted-figgy:971a154c-02c0-400e-b3b9-bae3de61b593",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e737fd75-ac8d-4934-a652-45fb4146ecf9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3b11739d-8cab-4dee-bc35-052d01d93296/file/29b97f7c-f018-4765-9387-b80d3da4f926\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/971a154c-02c0-400e-b3b9-bae3de61b593/file/43e77d91-b69a-462b-a52c-9b93f07d6bf6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/971a154c-02c0-400e-b3b9-bae3de61b593/file/dba87d52-eccc-4600-88fe-8e453017d0b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f7623f071",
+  "layer_slug_s": "princeton-f7623f071",
+  "uuid": "princeton-f7623f071",
+  "dc_title_s": "Lincoln County, Georgia land parcels, 2010",
+  "solr_geom": "ENVELOPE(-82.647623, -82.234486, 33.984709, 33.637822)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lincoln County, Georgia, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln County",
+    "Lincoln",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:22:10Z",
+  "layer_id_s": "restricted-figgy:5c56761f-4672-442f-8749-2409da1e2ce7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/811f4ba8-3100-4256-8ae9-699802418788\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b7c0034-e01c-4f12-83b9-c7a455a645af/file/909d141f-855f-4687-8b75-0507b7e52ebd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c56761f-4672-442f-8749-2409da1e2ce7/file/745ea31f-0693-4bbb-8604-97797d82699c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c56761f-4672-442f-8749-2409da1e2ce7/file/e16575bd-d4ea-470a-b31f-f0796e9a3f08\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

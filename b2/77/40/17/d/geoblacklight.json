@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b2774017d",
+  "layer_slug_s": "princeton-b2774017d",
+  "uuid": "princeton-b2774017d",
+  "dc_title_s": "Fayette County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-97.317629, -96.569597, 30.165802, 29.627852)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fayette County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fayette County",
+    "Fayette",
+    "Texas",
+    "Fayetteville"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:51Z",
+  "layer_id_s": "restricted-figgy:195d9c2e-f727-48bc-8ba6-8667ba7fd6b8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e0ce6edb-176e-46fa-b002-e8fa118d12f9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5ff3a46f-a8b7-44ce-9526-3e577f5a97a4/file/11af8a8f-5c35-4336-89b7-ebd53caf95a0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/195d9c2e-f727-48bc-8ba6-8667ba7fd6b8/file/259108b8-7ba7-440d-a758-f7262ad3dcf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/195d9c2e-f727-48bc-8ba6-8667ba7fd6b8/file/217aa5e4-7023-4ac9-a750-728c94df872b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

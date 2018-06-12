@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pr76f6782",
+  "layer_slug_s": "princeton-pr76f6782",
+  "uuid": "princeton-pr76f6782",
+  "dc_title_s": "Christian County, Missouri land parcels, 2011",
+  "solr_geom": "ENVELOPE(-93.61019, -92.90264, 37.098361, 36.809269)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Christian County, Missouri, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Christian",
+    "Christian County",
+    "Missouri"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:20:06Z",
+  "layer_id_s": "restricted-figgy:711d18c2-47f9-445a-bfec-c47525a41129",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e5e3358e-d81e-48cf-ba22-2907bedbf984\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88872dfc-7408-4e88-974f-d32efaae6fbe/file/c065aa93-07ae-4c9f-aa27-b88d3c1c3897\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/711d18c2-47f9-445a-bfec-c47525a41129/file/fc6474bc-d145-4bec-8c71-de25609e405f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/711d18c2-47f9-445a-bfec-c47525a41129/file/f09c88d0-8bda-4909-a9f3-7c90a7ac1e41\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qj72pb557",
+  "layer_slug_s": "princeton-qj72pb557",
+  "uuid": "princeton-qj72pb557",
+  "dc_title_s": "Perry County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.675409, -76.915597, 40.628694, 40.185803)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Perry County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Perry",
+    "Perry County",
+    "Pennsylvania",
+    "Harrisburg"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:59Z",
+  "layer_id_s": "restricted-figgy:dd5b9778-70c5-4993-8c52-b06c7f6c2f38",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0ebe18a3-b913-4642-ad72-d212b3aaa491\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b19e10ab-c0a2-44c6-8117-a081a60d6531/file/4a8e81c7-a228-4817-b3cb-51e4ba711915\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd5b9778-70c5-4993-8c52-b06c7f6c2f38/file/d7952241-6ab3-405a-8209-c17979b6873c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd5b9778-70c5-4993-8c52-b06c7f6c2f38/file/47410440-8d90-4a7f-aebc-5bbfdd992ccc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

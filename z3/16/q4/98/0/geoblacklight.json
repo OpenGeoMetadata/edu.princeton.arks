@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z316q4980",
+  "layer_slug_s": "princeton-z316q4980",
+  "uuid": "princeton-z316q4980",
+  "dc_title_s": "Wright County, Iowa land parcels, 2014",
+  "solr_geom": "ENVELOPE(-93.971557, -93.498633, 42.908673, 42.557535)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Wright County, Iowa, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Wright",
+    "Wright County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:19Z",
+  "layer_id_s": "restricted-figgy:f44be791-dfa5-46df-a767-c22de238e358",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6cf5f37f-8678-4cf9-acd1-e38ab1a06ac7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3a37761e-bd3b-4b19-b137-5ffe8b4b116c/file/44fb239e-7d2e-4369-adce-61c636a1356f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f44be791-dfa5-46df-a767-c22de238e358/file/1d0b6dd5-03af-4716-98ce-3c7992d58f97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f44be791-dfa5-46df-a767-c22de238e358/file/c3d9e002-365b-4da0-b4c8-138d3cf6f0e3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

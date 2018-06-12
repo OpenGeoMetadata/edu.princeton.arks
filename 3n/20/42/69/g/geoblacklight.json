@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3n204269g",
+  "layer_slug_s": "princeton-3n204269g",
+  "uuid": "princeton-3n204269g",
+  "dc_title_s": "Williamsburg, Virginia land parcels, 2012",
+  "solr_geom": "ENVELOPE(-76.742984, -76.664474, 37.309963, 37.247467)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Williamsburg, Virginia, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Williamsburg",
+    "Virginia",
+    "Norfolk",
+    "Newport",
+    "Virginia Beach"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-05-31T19:09:49Z",
+  "layer_id_s": "restricted-figgy:9fb3af2d-559e-4879-a8e6-cd10db3547ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c555aa91-c366-4533-95b4-2b04a682c2df\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7e3cb5ff-56d3-47e3-b069-aeba0d667a6a/file/18f97d0d-a5f2-41c4-aace-ac73e049713f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fb3af2d-559e-4879-a8e6-cd10db3547ab/file/c0f2a378-501e-48d1-89bf-8974a9e22436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fb3af2d-559e-4879-a8e6-cd10db3547ab/file/1f4c378b-fea9-476e-93e2-1715ce8e5aff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wh67q",
+  "layer_slug_s": "princeton-r781wh67q",
+  "uuid": "princeton-r781wh67q",
+  "dc_title_s": "Pennsylvania Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-80.519295, -74.691289, 42.264893, 39.720027)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Pennsylvania Block Centroid Populations represents the population of the U.S. Census block centroids for Pennsylvania.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:45:15Z",
+  "layer_id_s": "restricted-figgy:858603cb-db92-4972-a2c2-dc8dc0b703ef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/abb59e89-fbb5-42af-9736-affca4a65667\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5e1bd699-2a4a-42ec-8821-a439233597fc/file/5636b0f9-ad3b-4092-ac65-aa18525730fd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/858603cb-db92-4972-a2c2-dc8dc0b703ef/file/a68da4d9-3fe9-4a54-8a2e-57b42bbf3b1a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/858603cb-db92-4972-a2c2-dc8dc0b703ef/file/8ae8f626-74a6-421d-8946-7270fd2d71af\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

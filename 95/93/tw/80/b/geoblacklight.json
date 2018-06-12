@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tw80b",
+  "layer_slug_s": "princeton-9593tw80b",
+  "uuid": "princeton-9593tw80b",
+  "dc_title_s": "Canada Water Bodies 2000",
+  "solr_geom": "ENVELOPE(-141.028681, -48.0, 85.355792, 40.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada Water Bodies represents the major fresh- and salt-water bodies within Canada including lakes/lac, large rivers/fleuve, reservoirs, oceans, and bays/baie. The boundaries are based on Statistics Canada data.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "water",
+    "lake/lac",
+    "river/fleuve",
+    "reservoir",
+    "Oceans",
+    "bay/baie"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "1996",
+    "1986"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-05-31T19:09:53Z",
+  "layer_id_s": "restricted-figgy:2b8832c8-78c0-4d1c-96a7-af42d2da7394",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5e70e8d9-2484-40d0-beba-f16b2cdb3b1d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3de0230d-ea82-4024-9776-2e2c2bd1a63e/file/366c2f8e-ad40-4d17-8321-40a4e596901d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b8832c8-78c0-4d1c-96a7-af42d2da7394/file/a078e372-f564-4ded-a876-0a9a42dd4e37\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b8832c8-78c0-4d1c-96a7-af42d2da7394/file/6ed71dd7-a039-432a-824d-926a43ba0d84\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

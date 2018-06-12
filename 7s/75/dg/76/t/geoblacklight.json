@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dg76t",
+  "layer_slug_s": "princeton-7s75dg76t",
+  "uuid": "princeton-7s75dg76t",
+  "dc_title_s": "Modoc County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-121.457342, -119.998623, 41.997585, 41.183875)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Modoc County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Modoc",
+    "Modoc County",
+    "California",
+    "Modoc National Forest",
+    "Goose Lake"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:48Z",
+  "layer_id_s": "restricted-figgy:7974ca5e-c744-4473-ad7f-74c1231870d7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8d2d344-6e8f-4aae-a73f-28561288da7c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e413ccae-b2bb-4fbb-9748-b28b6d856229/file/6656e2a7-7788-46d2-b964-0db34972a26b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7974ca5e-c744-4473-ad7f-74c1231870d7/file/295609fa-d3ee-47df-bb61-aeec25116831\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7974ca5e-c744-4473-ad7f-74c1231870d7/file/50a61eaa-0bb9-4efa-8932-dd9b5c974d7b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687k12g",
+  "layer_slug_s": "princeton-41687k12g",
+  "uuid": "princeton-41687k12g",
+  "dc_title_s": "Sweden Major Dams, 2005",
+  "solr_geom": "ENVELOPE(12.97917, 13.171388, 55.632019, 55.368)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major dams of Sweden created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Dams",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:42Z",
+  "layer_id_s": "restricted-figgy:060f7f98-3a60-4e37-98bb-d9fa8452c83d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0aed0639-bf0f-447a-8d53-ac651cbca728\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dd3099e3-a21f-48e9-b5e1-0c3706b8bcaa/file/a6dc1f14-0e72-4d3d-9be5-b3dfbcaa498f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/060f7f98-3a60-4e37-98bb-d9fa8452c83d/file/4262f75e-c2b7-4d7a-8c9d-f3a5fec5bf5d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/060f7f98-3a60-4e37-98bb-d9fa8452c83d/file/65fe2f15-65e4-4693-b4a1-7b208e80a231\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

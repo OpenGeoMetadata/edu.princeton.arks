@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074z343",
+  "layer_slug_s": "princeton-3r074z343",
+  "uuid": "princeton-3r074z343",
+  "dc_title_s": "St. Louis, Missouri land parcels, 2012",
+  "solr_geom": "ENVELOPE(-90.320562, -90.17512, 38.77434, 38.532675)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in the City of St. Louis, Missouri, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis",
+    "City of St. Louis",
+    "Missouri",
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:38:17Z",
+  "layer_id_s": "restricted-figgy:90799602-61cc-4aba-8669-98a1582825f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/af819618-6a3a-42c5-abd5-bed9e4c81882\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13419e0b-deaa-41d6-b8b7-5988f3eb4da3/file/e2cc74f4-ab57-4529-84f6-ea541519c2dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90799602-61cc-4aba-8669-98a1582825f6/file/7f2fa2ff-17ce-45be-9724-ecf458bcc29b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90799602-61cc-4aba-8669-98a1582825f6/file/4fe01728-5de8-4633-9eb9-ba3a357616ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

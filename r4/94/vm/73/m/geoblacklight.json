@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r494vm73m",
+  "layer_slug_s": "princeton-r494vm73m",
+  "uuid": "princeton-r494vm73m",
+  "dc_title_s": "Greece Karst Topography, 2005",
+  "solr_geom": "ENVELOPE(20.364361, 26.319823, 41.113332, 34.994817)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greece karst topography created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Karst Topography",
+    "geoscientificInformation",
+    "Karst"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:09Z",
+  "layer_id_s": "restricted-figgy:63d6b05e-449f-4ed4-8da8-2abc528e76bc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ca6076df-c9c0-4313-a957-e077feda645c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4b9cf00f-18a9-4786-ae5b-cc3104e51a49/file/828826f4-815f-4f4d-b589-28110075b248\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/63d6b05e-449f-4ed4-8da8-2abc528e76bc/file/2cfab103-94a7-4da5-bcbe-a806e03a4418\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/63d6b05e-449f-4ed4-8da8-2abc528e76bc/file/fa91dc12-9ed1-4741-989b-292a66f475d5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

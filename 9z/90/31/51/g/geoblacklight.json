@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9z903151g",
+  "layer_slug_s": "princeton-9z903151g",
+  "uuid": "princeton-9z903151g",
+  "dc_title_s": "North Korea Cities With Population From 25 Thousand To 50 Thousand, 1997",
+  "solr_geom": "ENVELOPE(125.266319, 129.754517, 42.44846, 38.352234)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes North Korea cities with population between 25 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 25K"
+  ],
+  "dct_spatial_sm": [
+    "North Korea"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1997"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:51Z",
+  "layer_id_s": "restricted-figgy:50efd546-e096-414e-8485-163869ce7f61",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3c5e2ee3-2ac2-4771-a2d8-c47e9a11f676\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d773c931-84ec-4214-9e24-d583952ce594/file/41cf035d-fb13-489e-9958-9f69404385e8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50efd546-e096-414e-8485-163869ce7f61/file/350c8a71-7131-4708-b4f3-90bd3dfd3c7a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50efd546-e096-414e-8485-163869ce7f61/file/ce7e0977-178e-455e-832c-20bedafe0ee1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k06989086",
+  "layer_slug_s": "princeton-k06989086",
+  "uuid": "princeton-k06989086",
+  "dc_title_s": "Croatia Major Highways, 2005",
+  "solr_geom": "ENVELOPE(14.455278, 19.10119, 46.413123, 43.57019)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Croatia major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Croatia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:27Z",
+  "layer_id_s": "restricted-figgy:8db62beb-46ec-4d9a-be71-d9ccdf1f0893",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/936d29dd-7f56-4dd9-9302-b9dcb8f76f9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3d20e410-0362-40d5-b2bd-5e9eb5e8f1cc/file/0efaecaf-6a48-40f6-b742-7412068f0110\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8db62beb-46ec-4d9a-be71-d9ccdf1f0893/file/3bdb4fba-6536-4ccd-b1e1-10f1f563f87f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8db62beb-46ec-4d9a-be71-d9ccdf1f0893/file/0d6cea3c-7d10-461e-b4fc-6b90c4587fe5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m900nv979",
+  "layer_slug_s": "princeton-m900nv979",
+  "uuid": "princeton-m900nv979",
+  "dc_title_s": "Norway Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(5.264382, 14.360965, 67.270629, 58.461046)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Norway cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Norway"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:31Z",
+  "layer_id_s": "restricted-figgy:f16d2061-309a-467e-9564-87e5077f0b22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e3ca665f-92e0-40bf-88cb-3ae7184bd973\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d23f597f-e5ac-41bb-bd07-c5502d0fa88a/file/3e5f569f-b8ce-4b36-83eb-565d69e0d13d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f16d2061-309a-467e-9564-87e5077f0b22/file/b5db5533-c905-4525-a0ea-a3fb4ec0cc7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f16d2061-309a-467e-9564-87e5077f0b22/file/218dcb3e-bc01-4496-a330-a0361525b000\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

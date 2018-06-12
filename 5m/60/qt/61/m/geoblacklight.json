@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qt61m",
+  "layer_slug_s": "princeton-5m60qt61m",
+  "uuid": "princeton-5m60qt61m",
+  "dc_title_s": "Chicot County, Arkansas land parcels, 2009",
+  "solr_geom": "ENVELOPE(-91.460497, -91.059621, 33.563639, 33.004529)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chicot County, Arkansas, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "property",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Chicot County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:10:59Z",
+  "layer_id_s": "restricted-figgy:7460e785-0461-4a44-bd17-c778a653add2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/30c8f211-e0a2-4151-a5fe-ed8a485ccd7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3fb33216-8fcc-4ccf-b360-c9c285220c5f/file/b3a3586c-eff2-46c0-ba4b-a7454941cc08\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7460e785-0461-4a44-bd17-c778a653add2/file/21001cb0-f17c-41ae-99d5-52faa2bf9cef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7460e785-0461-4a44-bd17-c778a653add2/file/fc915550-480e-4680-b602-532edb8121ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

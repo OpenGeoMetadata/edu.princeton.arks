@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418r57w",
+  "layer_slug_s": "princeton-p8418r57w",
+  "uuid": "princeton-p8418r57w",
+  "dc_title_s": "Alamance County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.543905, -79.237041, 36.251158, 35.840767)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Alamance County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alamance County",
+    "Alamance",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:15:33Z",
+  "layer_id_s": "restricted-figgy:42ad7ee4-f14f-4e8c-abbf-fd7cd97940ee",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4aef745f-0888-4b57-94b6-1a9f40f3d68c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7206f425-5a96-4038-b663-7085e4d4d0b9/file/9d1cba90-fb1f-4d0d-98f6-7a0ae5356fde\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42ad7ee4-f14f-4e8c-abbf-fd7cd97940ee/file/ac919277-8dcc-4f3b-8027-28c067b6ee12\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42ad7ee4-f14f-4e8c-abbf-fd7cd97940ee/file/6ec815de-6360-401a-9d5c-c859fd3e5bac\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445cf88z",
+  "layer_slug_s": "princeton-g445cf88z",
+  "uuid": "princeton-g445cf88z",
+  "dc_title_s": "Denmark Minor Rivers, 2005",
+  "solr_geom": "ENVELOPE(8.10964, 15.000389, 57.591063, 54.586887)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include minor rivers of Denmark created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Minor rivers"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:36Z",
+  "layer_id_s": "restricted-figgy:fe2e2c40-f229-4b7c-9989-6b1bba08d9d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b22e9387-0c8e-4ea7-ab5e-272c3b70c52d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16405e62-2c24-4a33-8f6e-a007c94daf54/file/27f536da-59af-49b7-8cdd-fd2328fc6496\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe2e2c40-f229-4b7c-9989-6b1bba08d9d9/file/368b1baf-79ac-401c-b695-dbdf64f7c3fd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe2e2c40-f229-4b7c-9989-6b1bba08d9d9/file/837f2622-407f-49c4-a810-99e98d920e96\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

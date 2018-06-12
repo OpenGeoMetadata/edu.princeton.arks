@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m900nx847",
+  "layer_slug_s": "princeton-m900nx847",
+  "uuid": "princeton-m900nx847",
+  "dc_title_s": "Falls Church, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.195334, -77.149213, 38.896785, 38.872437)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Falls Church, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Falls Church",
+    "Virginia",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:26Z",
+  "layer_id_s": "restricted-figgy:9a630c26-6d0b-448a-b408-b681249ab970",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/77756bf8-777b-4f35-a009-2797197150ab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/902408d9-db6f-4943-9669-ca89dc357522/file/a6754d97-9afa-403f-bd6d-e82d8b30b4f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9a630c26-6d0b-448a-b408-b681249ab970/file/77ff1e18-95d8-4dd7-9071-42f23ffb3288\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9a630c26-6d0b-448a-b408-b681249ab970/file/78be5f64-0ea4-4c10-9126-3d86a0baf51f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g1255",
+  "layer_slug_s": "princeton-x920g1255",
+  "uuid": "princeton-x920g1255",
+  "dc_title_s": "Carbon County, Utah land parcels, 2011",
+  "solr_geom": "ENVELOPE(-111.247459, -109.879998, 39.814159, 39.467382)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Carbon County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Carbon",
+    "Carbon County",
+    "Utah",
+    "Manti-La Sal National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:51Z",
+  "layer_id_s": "restricted-figgy:75a158b7-95aa-4cdf-896f-c503e89e82da",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f8474be-a64a-4996-8666-e4737e50d0d5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9d8a99be-1311-477b-acc8-c5dbe51bc385/file/7bf408b9-ebb2-40fc-8b0c-a0842957722a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/75a158b7-95aa-4cdf-896f-c503e89e82da/file/c4ae8796-77ce-4762-b150-eda720fc1c6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/75a158b7-95aa-4cdf-896f-c503e89e82da/file/7aa6911a-3abf-45e7-a081-76c33723e1f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

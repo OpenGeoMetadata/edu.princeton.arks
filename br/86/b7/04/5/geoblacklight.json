@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/br86b7045",
+  "layer_slug_s": "princeton-br86b7045",
+  "uuid": "princeton-br86b7045",
+  "dc_title_s": "Los Angeles County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-118.944691, -117.646374, 34.823299, 32.795201)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Los Angeles County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Los Angeles",
+    "Los Angeles County",
+    "California",
+    "Pasadena",
+    "Long Beach",
+    "Torrance",
+    "Santa Monica",
+    "Malibu",
+    "Lancaster",
+    "Angeles National Forest",
+    "Santa Catalina Island",
+    "San Clemente Island",
+    "Hollywood",
+    "Beverly Hills",
+    "Castaic Lake",
+    "Topanga State Park"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:02Z",
+  "layer_id_s": "restricted-figgy:4503529f-20ec-42c7-ad52-67b491b4f9c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2793462e-fa18-4ae7-aae3-77f943165e9c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2c752639-860b-4452-a2fe-e6dece3c23c4/file/400521f0-90b9-48cb-923f-a1a4cba094b1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4503529f-20ec-42c7-ad52-67b491b4f9c7/file/c9969f5c-3a74-4bd1-94c9-8581338f1d30\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4503529f-20ec-42c7-ad52-67b491b4f9c7/file/10099f8e-7368-494d-9a07-e3c98c8865a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

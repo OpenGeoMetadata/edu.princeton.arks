@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rp957",
+  "layer_slug_s": "princeton-d504rp957",
+  "uuid": "princeton-d504rp957",
+  "dc_title_s": "Venango County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.014148, -79.477879, 41.627083, 41.165119)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in VenangoCounty, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Venango County",
+    "Venango",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-06-06T23:57:48Z",
+  "layer_id_s": "restricted-figgy:206b4a91-47e3-4784-88ce-bc4e61b4d468",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/212e868c-2f46-4740-a976-7369ada0c2db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e7caccc-25e2-44b8-8fdf-56e87277d481/file/e43d240c-e4fa-4fa6-b2d0-79069be62286\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/206b4a91-47e3-4784-88ce-bc4e61b4d468/file/aee95f11-f5fd-43e4-aa47-5eca8de07a32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/206b4a91-47e3-4784-88ce-bc4e61b4d468/file/e316d27c-790d-452e-84b9-bc3bbf720ab8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

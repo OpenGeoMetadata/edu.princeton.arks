@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55zc13r",
+  "layer_slug_s": "princeton-rf55zc13r",
+  "uuid": "princeton-rf55zc13r",
+  "dc_title_s": "Sutter County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-121.943591, -121.414377, 39.30569, 38.734579)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Sutter County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Sutter",
+    "Sutter County",
+    "Sacramento"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:33:29Z",
+  "layer_id_s": "restricted-figgy:882ff1f0-3c8a-4f8e-8caf-2fed629d44b8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9af1242f-03b6-48c3-81ed-36b3dca3d6f8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bf1b6de8-bd50-4627-8fde-453689da3d79/file/e3fd5da3-54cb-48d8-b4df-f76e9b51935b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/882ff1f0-3c8a-4f8e-8caf-2fed629d44b8/file/1685a764-10f3-4e93-8595-0d0a5c8a7c67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/882ff1f0-3c8a-4f8e-8caf-2fed629d44b8/file/20e23fbe-35bc-4864-bb02-8e51fd88ec91\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h989r655p",
+  "layer_slug_s": "princeton-h989r655p",
+  "uuid": "princeton-h989r655p",
+  "dc_title_s": "Sonoma County, California roads, 2010",
+  "solr_geom": "ENVELOPE(-123.535175, -122.358551, 38.859928, 38.112519)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Sonoma County, California, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Sonoma",
+    "Sonoma County",
+    "San Francisco",
+    "Santa Rosa",
+    "Pacific Ocean",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T21:57:10Z",
+  "layer_id_s": "restricted-figgy:8be96bbd-ce98-4cab-be1c-dad4644ed322",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b7cf333c-924a-4d72-b73a-47a85f1902ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c83c4db0-64d0-4f0e-93b4-ca33512985be/file/a4d97a4a-0d0e-4541-8fa8-86f8b7960b96\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8be96bbd-ce98-4cab-be1c-dad4644ed322/file/dac6ac62-39db-4f49-b7b1-57e7036e3dd5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8be96bbd-ce98-4cab-be1c-dad4644ed322/file/24559b27-c09c-4af7-bda3-a27b009cad9b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qf85nc784",
+  "layer_slug_s": "princeton-qf85nc784",
+  "uuid": "princeton-qf85nc784",
+  "dc_title_s": "Ireland Major Highways, 2005",
+  "solr_geom": "ENVELOPE(-7.327742, -6.132717, 53.987325, 53.029376)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Ireland major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:23Z",
+  "layer_id_s": "restricted-figgy:e9f8d358-3cd3-490a-aaa5-ad77d9315b76",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bdf9f47e-6100-4713-a2f8-80c2cd56b70a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ca8ca92-deb5-4611-91cc-b7395228523f/file/721348b9-31c1-47b5-81a8-52efdf5e7df0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9f8d358-3cd3-490a-aaa5-ad77d9315b76/file/258a05d6-2d9e-4ae7-9f83-df9161479aaf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9f8d358-3cd3-490a-aaa5-ad77d9315b76/file/4b38de67-53bd-4464-9101-d5263d985478\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

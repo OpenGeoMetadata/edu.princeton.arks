@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603qz930",
+  "layer_slug_s": "princeton-z603qz930",
+  "uuid": "princeton-z603qz930",
+  "dc_title_s": "Japan Province Boundaries, 1995",
+  "solr_geom": "ENVELOPE(122.938509, 146.359555, 45.518605, 24.036466)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the province boundaries of Japan created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "provinces",
+    "Boundaries",
+    "province boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:41Z",
+  "layer_id_s": "restricted-figgy:82755705-68bf-46cf-9682-9527b002e20b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/91a31e01-cb7d-4292-b5c4-7ae56dc6fda5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9f066079-d29e-4849-a0df-60a404dcd50f/file/d015bd16-5c18-49c1-a90b-6f198aa864ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82755705-68bf-46cf-9682-9527b002e20b/file/361a4294-18f2-404f-bf38-df881dcceaf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82755705-68bf-46cf-9682-9527b002e20b/file/12048879-b10a-4d2f-bf0f-e4520bfbb0d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

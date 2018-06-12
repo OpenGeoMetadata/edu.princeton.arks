@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w3275",
+  "layer_slug_s": "princeton-vd66w3275",
+  "uuid": "princeton-vd66w3275",
+  "dc_title_s": "Washington County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.853604, -81.036901, 39.646066, 39.215744)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington County",
+    "Ohio",
+    "Ohio River",
+    "Wayne National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:10:05Z",
+  "layer_id_s": "restricted-figgy:789fd286-1805-48af-b742-95572f07a987",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e4d5f43b-7f65-487a-8e7b-c7d2e2947152\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25c87ca8-7afd-4ab5-8fa3-95632ad057f1/file/e4acae43-84ff-46ad-a844-4bd0fbe6c992\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/789fd286-1805-48af-b742-95572f07a987/file/1286cc87-9b1f-4dec-b1fe-7e7462bb415c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/789fd286-1805-48af-b742-95572f07a987/file/5b249c2e-8e04-4ab8-b535-5ce1fd94a26a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

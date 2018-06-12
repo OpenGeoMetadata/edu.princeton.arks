@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rb68xg34h",
+  "layer_slug_s": "princeton-rb68xg34h",
+  "uuid": "princeton-rb68xg34h",
+  "dc_title_s": "Union County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.463211, -74.138845, 40.738646, 40.591976)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Union County",
+    "Union",
+    "New Jersey",
+    "Kean University",
+    "University of Medicine and Dentistry of New Jersey",
+    "Elizabeth",
+    "New York"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:12:36Z",
+  "layer_id_s": "restricted-figgy:0fe8a619-67ef-4e09-b3cb-07dcb17a2770",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/61aab1d0-6d9a-47c1-b8c2-d22f07dbedf1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eee96bdd-898f-44f5-af91-d65198b09f9a/file/538fb4eb-a78b-452d-96d8-8ba3208b441e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fe8a619-67ef-4e09-b3cb-07dcb17a2770/file/084cdf14-8068-4201-97a7-25017a7832e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fe8a619-67ef-4e09-b3cb-07dcb17a2770/file/e4d8f5a5-11fc-40e1-9ff0-bb43238dfb4f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

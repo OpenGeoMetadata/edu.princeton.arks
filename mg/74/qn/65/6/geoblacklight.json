@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mg74qn656",
+  "layer_slug_s": "princeton-mg74qn656",
+  "uuid": "princeton-mg74qn656",
+  "dc_title_s": "Europe Cities 1999",
+  "solr_geom": "ENVELOPE(-25.692211, 64.330002, 78.199997, 35.338001)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Europe Cities represents the cities of Europe.",
+  "dc_creator_sm": [
+    "AND Data Solutions, B.V.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "cities",
+    "capitals",
+    "landmark cities"
+  ],
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T01:21:51Z",
+  "layer_id_s": "restricted-figgy:8f738c9f-dad1-4a06-b770-71b48a31bdb7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0db2dac2-5429-4c57-a957-d2f9cbe187d2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0c7ed0bc-3e36-4169-82de-d01dc99e5b81/file/0a96b6d8-c9b3-4583-9879-ce7d20d22634\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f738c9f-dad1-4a06-b770-71b48a31bdb7/file/6dcf5dee-42b0-421d-813e-43ff50032263\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f738c9f-dad1-4a06-b770-71b48a31bdb7/file/6d465bad-67cb-4c80-b8d3-301ccde82dca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

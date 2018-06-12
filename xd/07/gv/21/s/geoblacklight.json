@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xd07gv21s",
+  "layer_slug_s": "princeton-xd07gv21s",
+  "uuid": "princeton-xd07gv21s",
+  "dc_title_s": "Franklin County, Arkansas land parcels, 2010",
+  "solr_geom": "ENVELOPE(-94.082154, -93.695875, 35.774246, 35.199401)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Arkansas, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Franklin County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:39:21Z",
+  "layer_id_s": "restricted-figgy:a749a0a3-0102-4821-b8a7-d7ffbabb086c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3394570a-3401-455b-9935-3fa2e52923e6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cb7b53a5-4504-4765-b281-9520f2fe20f3/file/86612515-db92-4955-bfa0-0f3c8b905661\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a749a0a3-0102-4821-b8a7-d7ffbabb086c/file/7b680748-e920-4d5d-a742-97cd16e00eb3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a749a0a3-0102-4821-b8a7-d7ffbabb086c/file/adaa98e7-0f57-49e3-9f5e-837e515a6e29\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

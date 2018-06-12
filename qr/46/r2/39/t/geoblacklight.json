@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qr46r239t",
+  "layer_slug_s": "princeton-qr46r239t",
+  "uuid": "princeton-qr46r239t",
+  "dc_title_s": "Serbia-Montenegro Cities With Population From 50 Thousand To 100 Thousand, 2005",
+  "solr_geom": "ENVELOPE(18.927033, 21.967788, 46.107411, 42.376494)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Serbia-Montenegro cities with population between 50 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 50K"
+  ],
+  "dct_spatial_sm": [
+    "Serbia-Montenegro",
+    "Serbia",
+    "Montenegro"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:09Z",
+  "layer_id_s": "restricted-figgy:5d9239e3-35f9-43f3-8167-50c9ce85777f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e9344284-e693-46c8-8fe6-91357d94adf7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f2b1b756-f8c0-404b-b748-60ac9da076e6/file/424fd3c6-9a73-483c-95a4-a649d3388207\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d9239e3-35f9-43f3-8167-50c9ce85777f/file/a44d134b-de3d-44ff-a13f-de96ea029c89\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d9239e3-35f9-43f3-8167-50c9ce85777f/file/38d6e43e-4177-4a39-9af2-905facda9834\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

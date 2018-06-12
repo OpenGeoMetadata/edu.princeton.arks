@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz8063146",
+  "layer_slug_s": "princeton-nz8063146",
+  "uuid": "princeton-nz8063146",
+  "dc_title_s": "Madison County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.86496, -85.57554, 40.379805, 39.943566)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Madison County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Madison",
+    "Madison County",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:57Z",
+  "layer_id_s": "restricted-figgy:0b775a4f-af80-4d6c-b4c3-9aa920def96a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7a41377d-5f85-402a-a631-fb8497395589\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2d7cec9f-2759-468f-a3f1-98c61ebf78ea/file/cc09779a-ecd8-4d10-9011-fd69911c4c16\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b775a4f-af80-4d6c-b4c3-9aa920def96a/file/11f078e9-e405-43fa-8438-dc4bf094a251\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b775a4f-af80-4d6c-b4c3-9aa920def96a/file/b0d914f8-a625-45af-905e-4b019285bc47\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

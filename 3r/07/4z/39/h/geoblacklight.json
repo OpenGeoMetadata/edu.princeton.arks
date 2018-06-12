@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3r074z39h",
+  "layer_slug_s": "princeton-3r074z39h",
+  "uuid": "princeton-3r074z39h",
+  "dc_title_s": "Chennai ward boundaries and census information, 2011",
+  "solr_geom": "ENVELOPE(80.18268, 80.31033, 13.15141, 12.97014)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Boundaries of all wards in Chennai, in the state of Tamil Nadu, India, shown linked to Primary Census Abstract 2011 data.",
+  "dc_creator_sm": [
+    "ML Infomap"
+  ],
+  "dc_subject_sm": [
+    "cities",
+    "ward",
+    "wards",
+    "census",
+    "population",
+    "demographic",
+    "household",
+    "households",
+    "sex",
+    "male",
+    "males",
+    "female",
+    "females",
+    "caste",
+    "castes",
+    "tribe",
+    "tribes",
+    "literacy",
+    "employment",
+    "work",
+    "workers",
+    "labor",
+    "laborers",
+    "marginal",
+    "agriculture",
+    "agricultural",
+    "industry",
+    "industrial",
+    "unemployment",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Chennai",
+    "Tamil Nadu",
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:33:31Z",
+  "layer_id_s": "restricted-figgy:7305fd75-cf2b-44af-bbfc-92f30fb485ba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1b353388-1197-47cf-bcdf-587a83af8680\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7a1a2ae3-0d21-4748-9f03-e9b3e568dccd/file/ad626c0f-7386-4592-ac2d-6556a4148262\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7305fd75-cf2b-44af-bbfc-92f30fb485ba/file/56868409-d529-420f-af9d-8a5c847eed13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7305fd75-cf2b-44af-bbfc-92f30fb485ba/file/6e2c23e8-03dc-4af0-9681-3608a896b520\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

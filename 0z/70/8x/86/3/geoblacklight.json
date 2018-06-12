@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z708x863",
+  "layer_slug_s": "princeton-0z708x863",
+  "uuid": "princeton-0z708x863",
+  "dc_title_s": "New Hampshire Block Groups 2002",
+  "solr_geom": "ENVELOPE(-72.557247, -70.708433, 45.305476, 42.696986)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New Hampshire Block Groups represents the U.S. Census block groups of New Hampshire.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New Hampshire"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:50:01Z",
+  "layer_id_s": "restricted-figgy:5af7d2cf-38bf-4335-9f30-d53feedfd297",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cbeccd86-e059-485e-9f5d-841616da5603\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/21abb5ff-4816-4dc2-af12-94b610b13dc2/file/4f130aed-5dce-4f72-9bea-150cd34abb38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5af7d2cf-38bf-4335-9f30-d53feedfd297/file/5491af25-c00b-4f08-8917-537902ba4484\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5af7d2cf-38bf-4335-9f30-d53feedfd297/file/c1740662-642d-4261-bc59-c0f17af623f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

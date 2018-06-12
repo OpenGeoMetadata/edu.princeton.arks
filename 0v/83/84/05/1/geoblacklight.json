@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v8384051",
+  "layer_slug_s": "princeton-0v8384051",
+  "uuid": "princeton-0v8384051",
+  "dc_title_s": "Clermont County, Ohio land parcels, 2011",
+  "solr_geom": "ENVELOPE(-84.319959, -83.989926, 39.270681, 38.771857)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clermont County, Ohio, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clermont",
+    "Clermont County",
+    "Ohio",
+    "Ohio River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:35Z",
+  "layer_id_s": "restricted-figgy:e3e6632e-d062-4c97-be8a-318ac39f88f4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bfc005db-c796-475b-9188-b57f78317302\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/56374ef5-f8f1-4fc6-959d-3db2d724c37e/file/4d5207f1-9afd-4f16-9926-e9dfaa75bb27\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e3e6632e-d062-4c97-be8a-318ac39f88f4/file/7e3f8478-bb4c-4fc7-8751-68627b1c5597\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e3e6632e-d062-4c97-be8a-318ac39f88f4/file/1b481ee3-6de7-419a-b55a-30b1a632a0cf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

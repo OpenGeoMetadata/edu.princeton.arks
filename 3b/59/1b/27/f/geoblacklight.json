@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3b591b27f",
+  "layer_slug_s": "princeton-3b591b27f",
+  "uuid": "princeton-3b591b27f",
+  "dc_title_s": "Maine Block Groups 2002",
+  "solr_geom": "ENVELOPE(-71.084335, -66.949831, 47.459687, 43.064943)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Maine Block Groups represents the U.S. Census block groups of Maine.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:15Z",
+  "layer_id_s": "restricted-figgy:6c244578-0af5-4c38-beb3-a2d0be638c0a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/daea1115-1afa-4380-ad8f-55bdcd4b47ce\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2bd6b2f3-e1d2-4d84-9c2a-1b10ebdf8911/file/2def1733-b6fa-4f42-8f5e-0c2000386e2a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c244578-0af5-4c38-beb3-a2d0be638c0a/file/4efa71a0-d5b4-49dd-8c48-2e7eb9e5af43\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c244578-0af5-4c38-beb3-a2d0be638c0a/file/a66aa552-7283-41f0-9902-e9233fceef58\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

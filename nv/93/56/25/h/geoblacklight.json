@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nv935625h",
+  "layer_slug_s": "princeton-nv935625h",
+  "uuid": "princeton-nv935625h",
+  "dc_title_s": "San Juan County, Washington roads, 2009",
+  "solr_geom": "ENVELOPE(-123.231397, -122.755134, 48.716934, 48.422903)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Juan County, Washington, 2009. This polyline feature depicts the centerlines of each named roadway. Attribute data may be used to determine roadway ownership (e.g. county, private, state, etc) and to calculate addresses. A single polyline is used to record an entire road except when ownership changes. In that event there is a separate polyline segment for each unique ownership on the road. Address ranges are recorded in the attributes. One may calculate an address by computing the distance from the road beginning and applying the ratio of that distance compared to the entire road segment length to the respective left or right side address range.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "San Juan",
+    "San Juan County",
+    "San Juan Islands"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:28Z",
+  "layer_id_s": "restricted-figgy:53755fcc-5f7f-4616-88cc-881a2fb09915",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/70a9527b-5781-499a-b642-b6300c5294a6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6643b604-9ee9-478d-ad64-2a20478d8282/file/3d783ecd-9c5a-4212-881d-51199bdb9b2b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53755fcc-5f7f-4616-88cc-881a2fb09915/file/14f1696e-1658-4c78-a873-7ee21c586065\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53755fcc-5f7f-4616-88cc-881a2fb09915/file/22dcce3f-eb47-4c7a-be76-fef685ec777d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

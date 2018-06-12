@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732dd42q",
+  "layer_slug_s": "princeton-g732dd42q",
+  "uuid": "princeton-g732dd42q",
+  "dc_title_s": "Bedford County, Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.858066, -79.186923, 37.618245, 37.005839)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bedford County, Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bedford",
+    "Bedford County",
+    "Virginia",
+    "Lynchburg"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:55Z",
+  "layer_id_s": "restricted-figgy:c9be032c-8918-4357-9e33-7e64fbbe9ef8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f545971c-ef3a-4f47-8402-56950aac0e8d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b2f38405-83e7-41ee-b86c-01b06e56b781/file/5466e8aa-f1b0-4361-9b1e-1abaa02c794f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9be032c-8918-4357-9e33-7e64fbbe9ef8/file/8bdc7950-28a5-4379-9495-b45f2d9eac55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9be032c-8918-4357-9e33-7e64fbbe9ef8/file/fe1e4c18-69ac-44cb-9c96-d9a23a4ae6d1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

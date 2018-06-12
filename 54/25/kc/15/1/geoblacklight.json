@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5425kc151",
+  "layer_slug_s": "princeton-5425kc151",
+  "uuid": "princeton-5425kc151",
+  "dc_title_s": "Slovenia Major Roads, 2005",
+  "solr_geom": "ENVELOPE(13.472239, 16.461147, 46.690067, 45.462403)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovenia major roads created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads"
+  ],
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:00Z",
+  "layer_id_s": "restricted-figgy:7473ff8d-afc0-4aa0-9658-8910a07a3fb2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5af20286-8079-4c82-a2ee-123a6f711d2c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e208ca27-e9a1-4b16-8c39-ae71225c3c29/file/a1ee586e-d4b3-48a0-900f-76165c10cfd6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7473ff8d-afc0-4aa0-9658-8910a07a3fb2/file/641c71ba-ee94-4aa2-8516-eb9219109e88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7473ff8d-afc0-4aa0-9658-8910a07a3fb2/file/509192c5-06e5-48fa-b85a-dd7269750d44\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

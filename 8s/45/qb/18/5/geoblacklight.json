@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8s45qb185",
+  "layer_slug_s": "princeton-8s45qb185",
+  "uuid": "princeton-8s45qb185",
+  "dc_title_s": "Sweden Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(12.079074, 21.70651, 67.866542, 55.437455)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Sweden cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:05Z",
+  "layer_id_s": "restricted-figgy:792b4e46-5d1d-4a94-9e58-a6ae98e256be",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/90af6a5b-7283-46d6-a992-de724ab7ed03\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e9a1c8c-a5bd-4af6-8075-f0f7ed159e6f/file/61f82403-9b26-40f5-b5ec-6838a1e4c9bf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/792b4e46-5d1d-4a94-9e58-a6ae98e256be/file/751bf166-9543-449d-ac58-4c40688a0886\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/792b4e46-5d1d-4a94-9e58-a6ae98e256be/file/3199e779-4925-49ba-981f-b9d37bc6e660\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

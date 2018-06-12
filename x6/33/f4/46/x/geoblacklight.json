@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x633f446x",
+  "layer_slug_s": "princeton-x633f446x",
+  "uuid": "princeton-x633f446x",
+  "dc_title_s": "Monroe County, Pennsylvania land parcels, 2011",
+  "solr_geom": "ENVELOPE(-75.649213, -74.967511, 41.253984, 40.813468)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monroe County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Monroe",
+    "Monroe County",
+    "Pennsylvania",
+    "Delaware River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:41Z",
+  "layer_id_s": "restricted-figgy:a871414d-3746-471b-a8de-b443c407f861",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7db25e81-f0d9-4b31-8cae-05a821241c02\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b208c5f8-d1b8-4356-b545-2a7187e61236/file/5942db2e-50a6-47eb-9b53-f8934515654a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a871414d-3746-471b-a8de-b443c407f861/file/296b032c-fed9-468a-a14f-6313d238b280\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a871414d-3746-471b-a8de-b443c407f861/file/2d45e28e-bed2-46f7-84d8-1243ffd01de5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

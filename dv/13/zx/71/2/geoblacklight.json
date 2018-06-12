@@ -1,0 +1,51 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dv13zx712",
+  "layer_slug_s": "princeton-dv13zx712",
+  "uuid": "princeton-dv13zx712",
+  "dc_title_s": "Whatcom County, Washington roads, 2014",
+  "solr_geom": "ENVELOPE(-123.088746, -120.663273, 49.002487, 48.64094)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Whatcom County, Washington, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Whatcom",
+    "Whatcom County",
+    "Bellingham",
+    "Cascade Mountains",
+    "Cascade Range",
+    "Mount Baker",
+    "Mount Baker-Snoqualmie National Forest",
+    "North Cascades National Park",
+    "Point Roberts"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:53Z",
+  "layer_id_s": "restricted-figgy:e996156e-b486-43c1-8976-98a7187ad8ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e28bf750-6f2c-409f-bd35-61c09129d176\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c661ab0f-85b7-4fb0-9472-17fe155105e8/file/8de0cf74-ec2f-46cb-a4d8-8811a0694ad8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e996156e-b486-43c1-8976-98a7187ad8ae/file/438cddc3-ab89-4d4e-9f95-c22990e4a48c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e996156e-b486-43c1-8976-98a7187ad8ae/file/19414920-87c4-493e-9d74-8bf809efe368\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

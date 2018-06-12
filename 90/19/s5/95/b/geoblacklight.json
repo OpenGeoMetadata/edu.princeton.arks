@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9019s595b",
+  "layer_slug_s": "princeton-9019s595b",
+  "uuid": "princeton-9019s595b",
+  "dc_title_s": "Cherokee County, Iowa land parcels, 2011",
+  "solr_geom": "ENVELOPE(-95.860666, -95.38761, 42.910304, 42.560705)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cherokee County, Iowa, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cherokee",
+    "Cherokee County",
+    "Iowa"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:02Z",
+  "layer_id_s": "restricted-figgy:5668eea7-53ac-4163-bbd1-2e5434729dd4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ece51be9-332b-4870-a7f4-e60c26193246\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e079e947-6c82-4811-b692-a7cd98382f81/file/6b84fed3-68bf-48a7-8973-218bfe9b2b5d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5668eea7-53ac-4163-bbd1-2e5434729dd4/file/eb3046a6-bbf0-4ac6-9eb9-5b89363f26ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5668eea7-53ac-4163-bbd1-2e5434729dd4/file/c8153e80-77ce-40c1-990b-cca755ffdbec\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

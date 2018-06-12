@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6m311s68n",
+  "layer_slug_s": "princeton-6m311s68n",
+  "uuid": "princeton-6m311s68n",
+  "dc_title_s": "Pipestone County, Minnesota land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.453402, -96.063683, 44.197524, 43.848604)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pipestone County, Minnesota, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Pipestone",
+    "Pipestone County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:45Z",
+  "layer_id_s": "restricted-figgy:ca95642c-502f-463c-9ff7-7c3ce4f73de8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/786ab363-7b07-4a57-9bb8-1ffc511595e1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cba8b0b7-8bad-418e-8c76-a92e64715bd2/file/6b5b38d6-fa65-4703-ad09-66b437aabb9a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca95642c-502f-463c-9ff7-7c3ce4f73de8/file/0f5174c3-fafc-45fe-995b-a36827d24ec2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca95642c-502f-463c-9ff7-7c3ce4f73de8/file/42cc1dd9-888a-4b6c-8c91-d235cd50dfe9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

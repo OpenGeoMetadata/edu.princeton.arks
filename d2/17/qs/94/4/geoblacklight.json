@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d217qs944",
+  "layer_slug_s": "princeton-d217qs944",
+  "uuid": "princeton-d217qs944",
+  "dc_title_s": "McDowell County, North Carolina land parcels, 2014",
+  "solr_geom": "ENVELOPE(-82.294839, -81.828732, 35.959188, 35.525668)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in McDowell County, North Carolina, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "McDowell",
+    "McDowell County",
+    "North Carolina",
+    "Pisgah National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:30Z",
+  "layer_id_s": "restricted-figgy:0c6be981-7b7c-4bff-928e-19c74739911f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/89c1464f-39fc-44ea-9a2a-763008b9b969\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b38aa3dd-baf5-4b98-b28a-5208c3017c91/file/37d8f2f9-8908-4032-bde4-55e40b5e39ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0c6be981-7b7c-4bff-928e-19c74739911f/file/0419514c-e957-43a1-9d44-89570a6de98d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0c6be981-7b7c-4bff-928e-19c74739911f/file/18539d56-479c-4228-863b-6d91a85c2b73\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

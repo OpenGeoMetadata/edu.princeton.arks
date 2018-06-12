@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cc464",
+  "layer_slug_s": "princeton-pk02cc464",
+  "uuid": "princeton-pk02cc464",
+  "dc_title_s": "Iceland Minor Rivers, 2005",
+  "solr_geom": "ENVELOPE(-24.488024, -13.611436, 66.501862, 63.400867)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include minor rivers of Iceland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Minor rivers"
+  ],
+  "dct_spatial_sm": [
+    "Iceland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:45Z",
+  "layer_id_s": "restricted-figgy:09e86dce-b92e-42e1-8f16-23a725523d71",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/29c8d39c-0688-4540-bb3c-0a131eaf60eb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca41287d-6087-4df5-a292-11f6ba98f2ff/file/1f410350-a267-4eb4-a09d-0a6efbb7ac31\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/09e86dce-b92e-42e1-8f16-23a725523d71/file/acb95a63-14b0-4a64-9305-3e50bcdd55a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/09e86dce-b92e-42e1-8f16-23a725523d71/file/0745bfa0-5cfa-432e-92f3-64dcd0ec756e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

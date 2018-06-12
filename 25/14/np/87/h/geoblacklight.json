@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514np87h",
+  "layer_slug_s": "princeton-2514np87h",
+  "uuid": "princeton-2514np87h",
+  "dc_title_s": "Santa Clara County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-122.202877, -121.208088, 37.484732, 36.893026)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Santa Clara County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Santa Clara County",
+    "Santa Clara",
+    "San Jose",
+    "Sunnyvale",
+    "Mountain View",
+    "Milpitas",
+    "Palo Alto",
+    "Silicon Valley",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:27:57Z",
+  "layer_id_s": "restricted-figgy:1278aa58-a75e-4ce2-8f9c-13351249ce8d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a493cb0e-ffb6-4299-8182-62eab9457564\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ead5c22-ee3a-4333-ad21-19afbe0493d9/file/153dca39-4901-4569-8da7-7c0adaf770df\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1278aa58-a75e-4ce2-8f9c-13351249ce8d/file/4d899989-49f4-4cef-84b0-5355faccd109\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1278aa58-a75e-4ce2-8f9c-13351249ce8d/file/4d7ed174-8dfe-4cf3-bd0b-4e60e66be497\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

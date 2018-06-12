@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1n79h571n",
+  "layer_slug_s": "princeton-1n79h571n",
+  "uuid": "princeton-1n79h571n",
+  "dc_title_s": "Egypt Landmarks",
+  "solr_geom": "ENVELOPE(25.075991, 37.062209, 31.824376, 21.880781)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygons representing landmarks in Egypt.",
+  "dc_creator_sm": [
+    "Globe Telecom"
+  ],
+  "dc_subject_sm": [
+    "landmarks",
+    "points of interest",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:47:35Z",
+  "layer_id_s": "restricted-figgy:d9271d49-b2c2-4faa-90ca-f28320ef0dab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7a1c1fa7-5064-40ae-bb78-2aa7d218e1b0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c8f4c1e1-edd3-4187-8988-2d588526cf17/file/ee2a7148-95cb-4c31-a4cb-3cd128f40a24\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d9271d49-b2c2-4faa-90ca-f28320ef0dab/file/42b5bc1a-430e-4b31-83d8-cdab9bb1389e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d9271d49-b2c2-4faa-90ca-f28320ef0dab/file/8c53d0e4-9bac-4fc8-91e1-8b4184a29f0e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

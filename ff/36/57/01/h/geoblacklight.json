@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff365701h",
+  "layer_slug_s": "princeton-ff365701h",
+  "uuid": "princeton-ff365701h",
+  "dc_title_s": "Greenland Major Trails, 2005",
+  "solr_geom": "ENVELOPE(-69.821688, -51.9105, 77.22071, 69.317131)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greenland (Denmark) major trails created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Trails",
+    "Transportation",
+    "Major Trails"
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Greenland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:55Z",
+  "layer_id_s": "restricted-figgy:5a5bf552-042a-4d75-8fdd-25053b8d48e3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6836ac7b-8e4a-4193-8912-1e402988800c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca78da08-2f05-4bd4-94bc-67971c93e056/file/ac5c9acf-35c0-44e4-8258-d1218a139e1e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a5bf552-042a-4d75-8fdd-25053b8d48e3/file/252cbb6b-04de-4410-86ef-d470d906b739\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a5bf552-042a-4d75-8fdd-25053b8d48e3/file/ab176d96-dfc7-483e-a17b-6c0bb57d7194\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

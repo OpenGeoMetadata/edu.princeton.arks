@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vx021j51d",
+  "layer_slug_s": "princeton-vx021j51d",
+  "uuid": "princeton-vx021j51d",
+  "dc_title_s": "Highlands County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-81.564165, -80.940812, 27.646694, 27.032329)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Highlands County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Highlands County",
+    "Florida",
+    "Highlands"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:39:08Z",
+  "layer_id_s": "restricted-figgy:411e7817-64d0-4704-999a-d02b04d44c97",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7ccd2093-4673-4577-9af0-875b546bd368\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/70bf6be5-306b-4c28-9141-50103cb4ccd7/file/3f442fcb-7361-45b6-adb6-a205b3eee407\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/411e7817-64d0-4704-999a-d02b04d44c97/file/4d751bc2-d46b-4288-9ab0-e94f61d47b78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/411e7817-64d0-4704-999a-d02b04d44c97/file/d4d282f7-b838-422f-a04c-3b69d811493e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

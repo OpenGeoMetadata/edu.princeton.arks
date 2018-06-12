@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wp988p16h",
+  "layer_slug_s": "princeton-wp988p16h",
+  "uuid": "princeton-wp988p16h",
+  "dc_title_s": "Butler County, Pennsylvania land parcels, 2012",
+  "solr_geom": "ENVELOPE(-80.167148, -79.682335, 41.174911, 40.668134)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Butler County, Pennsylvania, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Butler County",
+    "Pennsylvania",
+    "Butler",
+    "Pittsburgh"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T21:56:13Z",
+  "layer_id_s": "restricted-figgy:f28adfe5-ac60-46f2-8b0a-085b4b2cb71b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/56c27dbe-52c4-4758-bb2d-703f5a1feeb7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/17a6a483-af17-4e8b-bf02-e2da98b4695c/file/4f887156-0ebc-47ba-b493-2fd30c1aace3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f28adfe5-ac60-46f2-8b0a-085b4b2cb71b/file/676a64eb-a244-469a-9ac0-11d864f36758\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f28adfe5-ac60-46f2-8b0a-085b4b2cb71b/file/1bf0513a-ea0c-49c6-9325-2dd42b3c1723\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

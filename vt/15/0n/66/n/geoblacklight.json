@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vt150n66n",
+  "layer_slug_s": "princeton-vt150n66n",
+  "uuid": "princeton-vt150n66n",
+  "dc_title_s": "Morgan County, West Virginia land parcels, 2009",
+  "solr_geom": "ENVELOPE(-78.468935, -78.02206, 39.69564, 39.390352)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Morgan County, West Virginia, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "West Virginia",
+    "Morgan",
+    "Morgan County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:39:55Z",
+  "layer_id_s": "restricted-figgy:cb780174-45e6-46b6-9a22-76984e6be4f6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6e5f3b85-be55-4324-84a9-b77115e0affc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6ba133ef-2d7a-4f3a-b1b9-340a4dc3a353/file/5ece1319-5d91-4f65-b350-2052cc385ebf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb780174-45e6-46b6-9a22-76984e6be4f6/file/c28482dd-4c95-40f9-a261-07cdb09e7bdb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb780174-45e6-46b6-9a22-76984e6be4f6/file/80477be7-08b1-4f54-8004-831738593a14\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

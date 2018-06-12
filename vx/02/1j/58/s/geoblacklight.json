@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vx021j58s",
+  "layer_slug_s": "princeton-vx021j58s",
+  "uuid": "princeton-vx021j58s",
+  "dc_title_s": "Fremont County, Idaho roads, 2014",
+  "solr_geom": "ENVELOPE(-112.156307, -111.047137, 44.711158, 43.883206)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Fremont County, Idaho, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Idaho",
+    "Fremont",
+    "Fremont County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:47Z",
+  "layer_id_s": "restricted-figgy:0a0f1d47-024d-4791-b672-b590f14f2ca3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7393cf62-baa9-4ee8-9df4-7daeaa3c1026\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/86612619-3d51-4d3b-ba25-ad2b48ac9d7d/file/5c0dbaee-0605-4b5d-8931-2300772db72a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a0f1d47-024d-4791-b672-b590f14f2ca3/file/1740bb68-26f6-4d73-828f-a9afe4edf43a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a0f1d47-024d-4791-b672-b590f14f2ca3/file/c8df4f9f-bdcc-4913-9b41-fd90f6fadfe1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

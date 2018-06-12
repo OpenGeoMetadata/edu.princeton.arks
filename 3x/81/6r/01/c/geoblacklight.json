@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816r01c",
+  "layer_slug_s": "princeton-3x816r01c",
+  "uuid": "princeton-3x816r01c",
+  "dc_title_s": "Daggett County, Utah land parcels, 2011",
+  "solr_geom": "ENVELOPE(-109.999657, -109.04888, 41.000721, 40.662384)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Daggett County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Daggett",
+    "Daggett County",
+    "Utah",
+    "Green River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:38:13Z",
+  "layer_id_s": "restricted-figgy:defe118e-0b3c-4acb-ac68-dfce6cb988e8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/71596c6c-7e32-4a1f-9fa7-6484dfe0e550\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b310a1bc-3040-4059-8e5d-acb1e88dafcb/file/83e8872c-8a1d-46d1-b0b3-427ffdb688b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/defe118e-0b3c-4acb-ac68-dfce6cb988e8/file/f5ab5cf3-f87c-4c87-bc96-54bcff65904c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/defe118e-0b3c-4acb-ac68-dfce6cb988e8/file/5961bf78-0978-4fef-a3ee-47a7d96b1a19\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

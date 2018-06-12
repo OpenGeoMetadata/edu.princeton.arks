@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xv93t",
+  "layer_slug_s": "princeton-vm40xv93t",
+  "uuid": "princeton-vm40xv93t",
+  "dc_title_s": "St. Tammany Parish, Louisiana roads, 2011",
+  "solr_geom": "ENVELOPE(-90.251747, -89.615615, 30.709583, 30.175481)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in St. Tammany, Louisiana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "St. Tammany",
+    "St. Tammany Parish",
+    "Louisiana",
+    "Lake Pontchartrain",
+    "Big Branch Marsh National Wildlife Refuge",
+    "Bogue Chitto National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:57:15Z",
+  "layer_id_s": "restricted-figgy:a9d3d428-0d57-498e-af4c-fdf8d8ced53c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/eaff1128-e913-4bf3-aa23-d3caa6ae3b53\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0c04f711-9f41-4865-ad87-ab25f18e9151/file/754cbd8a-4756-4f6f-89c6-6c948dd8c5cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9d3d428-0d57-498e-af4c-fdf8d8ced53c/file/25b972ab-3f33-4a43-ac3d-c16c12dc0732\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9d3d428-0d57-498e-af4c-fdf8d8ced53c/file/b187c443-6398-4ffc-a355-24ebc1262f67\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

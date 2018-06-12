@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rr171z61r",
+  "layer_slug_s": "princeton-rr171z61r",
+  "uuid": "princeton-rr171z61r",
+  "dc_title_s": "Massachusetts Rivers 2002",
+  "solr_geom": "ENVELOPE(-73.497456, -69.965939, 42.886381, 41.249555)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Massachusetts Rivers represents streams and rivers within Massachusetts.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T01:21:55Z",
+  "layer_id_s": "restricted-figgy:066c51fc-e47b-4351-bd28-5adb0ad8525c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aeae556e-18ea-4e72-b294-74ca1f67e77d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/051dea17-9464-4956-8cbe-9e157b02812d/file/66002b95-de96-42de-94c0-6556b8b8785b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/066c51fc-e47b-4351-bd28-5adb0ad8525c/file/cc806832-60ca-4552-bb66-a050b56b06e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/066c51fc-e47b-4351-bd28-5adb0ad8525c/file/c1a168c4-2ed7-42eb-935c-7d4738f2eb6b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

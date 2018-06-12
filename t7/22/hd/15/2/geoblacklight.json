@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hd152",
+  "layer_slug_s": "princeton-t722hd152",
+  "uuid": "princeton-t722hd152",
+  "dc_title_s": "Becker County, Minnesota land parcels, 2014",
+  "solr_geom": "ENVELOPE(-96.1947, -95.162173, 47.152618, 46.715473)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Becker County, Minnesota, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Becker",
+    "Becker County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:53:14Z",
+  "layer_id_s": "restricted-figgy:16fbad19-ba76-48b9-a572-f531f5f15928",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a5bf95cc-072f-4b1f-8c97-9c3c79453b82\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/00d9dadb-4730-46bb-a107-a888dec8c16a/file/67bd6a89-fe03-4de8-90ee-d0045791507e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16fbad19-ba76-48b9-a572-f531f5f15928/file/f113e311-b97d-4412-95bd-e4668f36f728\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16fbad19-ba76-48b9-a572-f531f5f15928/file/9d0da3a6-fbbc-4ec6-a9a0-e0ab73e338f3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

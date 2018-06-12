@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v979v6440",
+  "layer_slug_s": "princeton-v979v6440",
+  "uuid": "princeton-v979v6440",
+  "dc_title_s": "Stone County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.341705, -88.8842, 30.910347, 30.647412)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Stone County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Stone",
+    "Stone County",
+    "Mississippi",
+    "Gulfport",
+    "Biloxi",
+    "De Soto National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:37:47Z",
+  "layer_id_s": "restricted-figgy:99d111bd-2fc5-4072-8690-123201b9c892",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f602b7a4-66d1-4f9c-9b42-f1ebcfb144fb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ea01fe4c-6f1b-4b32-b872-079ee3b91cbc/file/97861235-912b-4416-af5d-4bf9b760198f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99d111bd-2fc5-4072-8690-123201b9c892/file/37c5cb33-5b9b-4d55-9da4-dd521f99e67b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99d111bd-2fc5-4072-8690-123201b9c892/file/a93c2113-94a1-49ae-ac70-80d9612364b0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

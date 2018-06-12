@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2227mr409",
+  "layer_slug_s": "princeton-2227mr409",
+  "uuid": "princeton-2227mr409",
+  "dc_title_s": "Spain Inundation Areas, 2005",
+  "solr_geom": "ENVELOPE(-7.395722, -6.848861, 37.296307, 37.161694)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Spain inundation areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inundation",
+    "Inland Waters",
+    "Inundation Areas",
+    "floods"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:15Z",
+  "layer_id_s": "restricted-figgy:164ff004-cc1a-4bcf-9bc7-2d9b8c2ed54f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/774603e7-81dd-4f26-9c54-afaf871b6318\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c4e6b504-635e-4f1c-925a-6f37a13e06b4/file/0f756ba4-010c-48d0-8b94-e8f3cb15db2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/164ff004-cc1a-4bcf-9bc7-2d9b8c2ed54f/file/15ad551d-01a1-43d5-8954-009738f7e724\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/164ff004-cc1a-4bcf-9bc7-2d9b8c2ed54f/file/ccb80f63-f45e-4e30-be17-8cf560a231e5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

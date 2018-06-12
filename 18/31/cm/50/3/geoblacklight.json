@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1831cm503",
+  "layer_slug_s": "princeton-1831cm503",
+  "uuid": "princeton-1831cm503",
+  "dc_title_s": "Spain Elevations",
+  "solr_geom": "ENVELOPE(-18.160156, 4.328597, 43.790011, 27.635235)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Spain created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:42Z",
+  "layer_id_s": "restricted-figgy:2d0b1c2e-d3b9-48e1-ae14-c2fd2bad023d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6346e7c4-e7c8-4ab6-adb7-9527141c2f0f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7414b11-1e93-4e2b-9f62-e5188e2d1ec9/file/a4d57505-172a-43a1-b3b8-fb655d3c3b37\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d0b1c2e-d3b9-48e1-ae14-c2fd2bad023d/file/9a6f2ad0-fa1e-4359-ae24-d0949ed2d01f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d0b1c2e-d3b9-48e1-ae14-c2fd2bad023d/file/48e6a22f-92bd-43dc-a811-5bfac92ca3df\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

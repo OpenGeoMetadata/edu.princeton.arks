@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/db78tg475",
+  "layer_slug_s": "princeton-db78tg475",
+  "uuid": "princeton-db78tg475",
+  "dc_title_s": "Jackson County, Oregon roads, 2011",
+  "solr_geom": "ENVELOPE(-123.832932, -122.002024, 43.089174, 41.992402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Jackson County, Oregon, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Jackson",
+    "Jackson County",
+    "Oregon",
+    "Medford",
+    "Umpqua National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:09Z",
+  "layer_id_s": "restricted-figgy:1172f3c0-482a-454e-b9cd-982fba8a83f1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d3613708-2b6f-49c3-ad6c-7ec088f0de23\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c01e4fc-0259-495e-8d9b-89698f03390b/file/a00a4a91-a419-40f5-9e61-da335dea14eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1172f3c0-482a-454e-b9cd-982fba8a83f1/file/693c9bc4-7fcd-4632-8fe7-ce45e1b6dc24\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1172f3c0-482a-454e-b9cd-982fba8a83f1/file/bb7893a2-516e-4675-94e5-c45383d29b9d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

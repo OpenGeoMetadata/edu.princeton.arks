@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rx913t29q",
+  "layer_slug_s": "princeton-rx913t29q",
+  "uuid": "princeton-rx913t29q",
+  "dc_title_s": "Monterey County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-121.978141, -120.214916, 36.918989, 35.788665)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monterey County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Monterey",
+    "Monterey County",
+    "California",
+    "Salinas",
+    "Big Sur"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:40:02Z",
+  "layer_id_s": "restricted-figgy:6f1563bd-ef6b-4c0a-84f0-032de4606c55",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5309819c-be4f-4068-8804-badaddfaae69\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/599cabc0-5c09-439d-81cc-a65746686f97/file/068a1744-2674-41d4-8cd2-bf234ee638d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f1563bd-ef6b-4c0a-84f0-032de4606c55/file/b5605e6e-0a51-4443-bb5e-49de6c4078e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f1563bd-ef6b-4c0a-84f0-032de4606c55/file/4294e213-60e3-4e85-8877-87fefe1e7646\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

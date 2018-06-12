@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f1881q25j",
+  "layer_slug_s": "princeton-f1881q25j",
+  "uuid": "princeton-f1881q25j",
+  "dc_title_s": "San Miguel County, Colorado land parcels, 2012",
+  "solr_geom": "ENVELOPE(-109.04295, -107.733026, 38.154733, 37.773562)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Miguel County, Colorado, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "San Miguel County",
+    "San Miguel"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T21:53:22Z",
+  "layer_id_s": "restricted-figgy:f7b1f199-1d0a-4415-b1f6-a7a3ccac678e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f8133e9d-7170-4dae-88b5-b8e7cfa84e4a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81de2cea-a7f8-4aa1-b722-0adce8bc0c8a/file/73120ce1-26f6-4f0f-ba23-d27da36a3995\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f7b1f199-1d0a-4415-b1f6-a7a3ccac678e/file/f4406e89-c86d-40cc-9eed-638dbca01aa5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f7b1f199-1d0a-4415-b1f6-a7a3ccac678e/file/3cecec60-e607-4d71-a4e3-8f83e934a311\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

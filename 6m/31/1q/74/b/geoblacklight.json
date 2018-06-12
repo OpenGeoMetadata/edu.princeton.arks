@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6m311q74b",
+  "layer_slug_s": "princeton-6m311q74b",
+  "uuid": "princeton-6m311q74b",
+  "dc_title_s": "Pennsylvania Tracts 2002",
+  "solr_geom": "ENVELOPE(-80.519791, -74.689514, 42.269861, 39.719801)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Pennsylvania Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Pennsylvania.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:59:48Z",
+  "layer_id_s": "restricted-figgy:dee5a857-a671-452f-b8df-18cd931f15b7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7032e63e-c0a1-465c-b944-66135ee6529b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9dc54b5c-c631-4d1d-9939-714ca8418955/file/d139d2de-160b-4d6c-a61d-5d1e950e9bef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dee5a857-a671-452f-b8df-18cd931f15b7/file/20253040-25fc-4989-8df4-3180277364d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dee5a857-a671-452f-b8df-18cd931f15b7/file/8f935215-2498-4c6c-9050-44e3817e54e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

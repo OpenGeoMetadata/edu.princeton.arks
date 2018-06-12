@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cf192",
+  "layer_slug_s": "princeton-pk02cf192",
+  "uuid": "princeton-pk02cf192",
+  "dc_title_s": "Washington County, Vermont land parcels, 2014",
+  "solr_geom": "ENVELOPE(-72.934435, -72.223106, 44.502911, 44.012951)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Vermont, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vermont",
+    "Washington",
+    "Washington County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:37:07Z",
+  "layer_id_s": "restricted-figgy:4e4d9c3d-16cf-4147-a363-ad29715c3808",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/55a52c0b-5689-4acb-b210-f224c54d4cab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c9d89f9-5715-497d-a1c1-fde9c4981625/file/2994e5bf-46cf-4cbd-a0e9-f2f84b0574d5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e4d9c3d-16cf-4147-a363-ad29715c3808/file/254f8b92-d96d-4fd4-bfc6-adf29cd3655d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e4d9c3d-16cf-4147-a363-ad29715c3808/file/9e75a1c1-fc33-4a3a-8618-d9c451be0a1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fx719n979",
+  "layer_slug_s": "princeton-fx719n979",
+  "uuid": "princeton-fx719n979",
+  "dc_title_s": "Butte County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.069193, -121.076981, 40.151888, 39.294206)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The parcel feature class is a polygon feature class representing the individual\n        parcels for Butte County, California, 2009, which was derived from assessor map pages in\n        digital and hardcopy formats. All new parcels are entered from assessor CAD pages registered\n        to orthorectified imagery.",
+  "dc_creator_sm": [
+    "Butte County Association of Governments"
+  ],
+  "dc_publisher_s": "Butte County Association of Governments",
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "land use",
+    "cadastral maps",
+    "parcel",
+    "property",
+    "ownership",
+    "land value",
+    "agriculture",
+    "timber",
+    "buildings",
+    "commercial",
+    "manufacture",
+    "manufacturing",
+    "industry",
+    "industrial",
+    "residential",
+    "garage",
+    "baths",
+    "bathrooms",
+    "bedrooms",
+    "wells",
+    "septic",
+    "sewer",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Butte County",
+    "Oroville",
+    "Chico",
+    "Biggs",
+    "Gridley",
+    "Paradise"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:37:14Z",
+  "layer_id_s": "restricted-figgy:bdff8fea-3f44-4ea0-b68d-a088c6151458",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b0b1e988-5486-4462-91c1-67ce16b67611\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bea51e4e-f8c6-47d3-b29e-3a7c6bcb482a/file/f38ec2de-eb39-4c70-a1f4-e6bbaff1f60f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdff8fea-3f44-4ea0-b68d-a088c6151458/file/83e96025-357b-46ac-97b4-866017b57bd3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdff8fea-3f44-4ea0-b68d-a088c6151458/file/11780dec-719e-46ff-a9f3-ab91df297ce0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

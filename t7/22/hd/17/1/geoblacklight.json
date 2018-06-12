@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t722hd171",
+  "layer_slug_s": "princeton-t722hd171",
+  "uuid": "princeton-t722hd171",
+  "dc_title_s": "Pierce County, Washington roads, 2008",
+  "solr_geom": "ENVELOPE(-122.839364, -121.419281, 47.403703, 46.685253)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Pierce County, Washington, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Pierce",
+    "Pierce County",
+    "Tacoma",
+    "Seattle",
+    "Mount Rainier",
+    "Rainier"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:12:31Z",
+  "layer_id_s": "restricted-figgy:3dfe969e-5de8-40ed-9caa-66c54676ec6a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/371cf294-8b42-4781-88f8-1c50ee80fae0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8559d95c-a68b-4bfa-a6f8-9e33ec34eb09/file/bd3a6c54-d551-495c-80bd-3d675501548b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3dfe969e-5de8-40ed-9caa-66c54676ec6a/file/aa6910e2-6fac-4a9d-8b3a-862855517056\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3dfe969e-5de8-40ed-9caa-66c54676ec6a/file/ee8430f0-878d-40a5-bdac-0b143d89e64f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

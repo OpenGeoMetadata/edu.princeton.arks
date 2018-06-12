@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930bz68z",
+  "layer_slug_s": "princeton-k930bz68z",
+  "uuid": "princeton-k930bz68z",
+  "dc_title_s": "U.S. GDT Large Area Landmarks 2002",
+  "solr_geom": "ENVELOPE(-176.810434, -67.254851, 68.83409, 21.277888)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. GDT Large Area Landmarks represents common landmark areas within United States including military areas, prisons, educational institutions, amusement centers, government centers, sport centers, golf courses, and cemeteries.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "landmarks",
+    "military installations or reservations",
+    "penitentiaries or prisons",
+    "educational institutions",
+    "amusement centers",
+    "government centers",
+    "sports centers",
+    "golf courses",
+    "cemeteries",
+    "Society",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:54:23Z",
+  "layer_id_s": "restricted-figgy:7121c412-dec7-456a-861f-bc61cc6d6e14",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5baed249-5866-41af-aae6-c65baf2b0a9b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0763d9bb-6fa1-4da3-b992-fbbf0a831235/file/8aa03f23-95c9-436a-b582-708d7a34f9fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7121c412-dec7-456a-861f-bc61cc6d6e14/file/20f48200-2f50-4fde-9e33-d0e36dc21c35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7121c412-dec7-456a-861f-bc61cc6d6e14/file/f0e16ac7-5be5-47df-b671-d296d1233b06\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jw827d226",
+  "layer_slug_s": "princeton-jw827d226",
+  "uuid": "princeton-jw827d226",
+  "dc_title_s": "U.S. National Atlas Public Land Survey 2002",
+  "solr_geom": "ENVELOPE(-179.133392, 179.788208, 71.398186, 17.674692)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Public Land Survey represents the Public Land Surveys (e.g., donation lands, land grants, private and public lands) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "public land survey",
+    "public land survey system",
+    "township",
+    "range",
+    "private surveys",
+    "land grants",
+    "civil colonies",
+    "donation land claims",
+    "unsurveyed areas",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1972–1999",
+    "1970–1995",
+    "1998"
+  ],
+  "solr_year_i": 1972,
+  "layer_modified_dt": "2018-04-05T02:44:57Z",
+  "layer_id_s": "restricted-figgy:e1880fd4-b938-4093-80f0-92a5c950c90c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8d2da5e1-1c09-4afc-9e03-7d21c0d74cb8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1995a915-160c-4465-b222-ce59a738bbbb/file/9e7ec207-2b28-43ed-ae1d-66521eb83340\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e1880fd4-b938-4093-80f0-92a5c950c90c/file/006c609e-0f42-4086-ac08-a8c2fc7c429a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e1880fd4-b938-4093-80f0-92a5c950c90c/file/bdd8f6ed-7229-4a81-9faf-319309807514\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

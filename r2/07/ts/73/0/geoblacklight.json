@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207ts730",
+  "layer_slug_s": "princeton-r207ts730",
+  "uuid": "princeton-r207ts730",
+  "dc_title_s": "England and Wales registration counties, 1881",
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of counties used in England and Wales for vital registration and also for the administration and reporting of the Census of Population. They were defined as aggregates of Registration Districts and existed only for purposes of statistical reporting. They differed significantly from both Ancient and Administrative Counties, which the same censuses often also reported on. This file represents the system as it was used to report the 1881 Census of Population.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "history",
+    "administrative units",
+    "registration counties",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales"
+  ],
+  "dct_temporal_sm": [
+    "1881",
+    "2009"
+  ],
+  "solr_year_i": 1881,
+  "layer_modified_dt": "2018-04-04T22:38:32Z",
+  "layer_id_s": "restricted-figgy:2d881983-3548-46db-9f12-120bee069502",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f431a217-41ca-4112-a88a-c8fc00bdb8c6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f926a431-e6e7-4b2b-9bcf-940e69238ae6/file/d0190544-bbb9-49cf-868f-44d9f4808658\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d881983-3548-46db-9f12-120bee069502/file/51ba1069-1ccd-4d4a-b2fe-751f73f4d4c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d881983-3548-46db-9f12-120bee069502/file/726c2cee-3c6c-4220-afcd-9e1ff412e771\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r207ts81g",
+  "layer_slug_s": "princeton-r207ts81g",
+  "uuid": "princeton-r207ts81g",
+  "dc_title_s": "Franklin County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.224149, -84.333237, 30.013846, 29.587011)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Franklin County",
+    "Franklin",
+    "Tate's Hell State Forest",
+    "St. Vincent National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:08Z",
+  "layer_id_s": "restricted-figgy:841c23bc-7211-47a7-8fa1-34871a5d526d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1e889abf-9814-4ed2-994c-13143774993f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/03371f8d-3a10-4d55-a089-df34342c9e5e/file/33d36187-b1ba-48a1-86e8-84faac53950e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/841c23bc-7211-47a7-8fa1-34871a5d526d/file/90b5eb21-0780-4b53-8b72-8457b7ab30aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/841c23bc-7211-47a7-8fa1-34871a5d526d/file/c26ff3ff-c4a5-4ced-853b-5896c3be8db5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

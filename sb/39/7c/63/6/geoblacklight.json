@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb397c636",
+  "layer_slug_s": "princeton-sb397c636",
+  "uuid": "princeton-sb397c636",
+  "dc_title_s": "Person County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-79.154781, -78.794857, 36.543313, 36.236086)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Person County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Person",
+    "Person County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:22:09Z",
+  "layer_id_s": "restricted-figgy:953f979f-602c-483c-a14d-322fff12333e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/74146952-b00c-4a2a-9c9f-f818e461bcdd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3581fe5f-e491-4e7d-a7ff-4f328462369d/file/1f17747f-1b34-4d37-a501-57196e230e5b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/953f979f-602c-483c-a14d-322fff12333e/file/0823b1bc-a877-405f-bca4-faaa04380448\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/953f979f-602c-483c-a14d-322fff12333e/file/32c20151-98f4-4636-990f-b31b9993e090\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

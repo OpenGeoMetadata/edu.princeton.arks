@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j3860b383",
+  "layer_slug_s": "princeton-j3860b383",
+  "uuid": "princeton-j3860b383",
+  "dc_title_s": "St. Louis County, Missouri land parcels, 2008",
+  "solr_geom": "ENVELOPE(-90.739722, -90.122841, 38.890256, 38.390952)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in St. Louis County, Missouri, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis County",
+    "St. Louis",
+    "Missouri",
+    "Saint Louis",
+    "Saint Louis County",
+    "Ferguson",
+    "Mississippi River",
+    "Missouri River"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:49:36Z",
+  "layer_id_s": "restricted-figgy:67c4e0d8-fb12-4b07-aa51-ef0550fffb1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/11e79c4d-d6a1-485e-87c6-38294d666f03\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6b6631d2-2664-482b-9bc1-1ff56184b861/file/588fa256-f4ed-48d9-8b95-99b04a3d7bd8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/67c4e0d8-fb12-4b07-aa51-ef0550fffb1c/file/47d71992-a65d-4625-84cf-25771b1d7a59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/67c4e0d8-fb12-4b07-aa51-ef0550fffb1c/file/048753c7-9162-4ea3-b1fd-353cb8377600\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

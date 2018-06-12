@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fq977z20s",
+  "layer_slug_s": "princeton-fq977z20s",
+  "uuid": "princeton-fq977z20s",
+  "dc_title_s": "Sussex County, New Jersey land parcels, 2011",
+  "solr_geom": "ENVELOPE(-74.991047, -74.36751, 41.35691, 40.899165)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sussex County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sussex County",
+    "Sussex",
+    "New Jersey",
+    "Stokes State Forest",
+    "High Point State Park",
+    "Appalachian National Scenic Trail",
+    "Bear Swamp Wildlife Management Area",
+    "Wallkill River National Wildlide Refuge",
+    "Hamburg Mountain Wildlife Management Area"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:38Z",
+  "layer_id_s": "restricted-figgy:ded6798e-d14f-49b6-8929-f2e84b2492c0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cb97f38c-3b7d-4171-9b00-d601c99599f7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a8e5728-6a8a-435c-9c30-a7acf8a6fbce/file/8258e6d3-1705-47e0-afab-bb43a1badafd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ded6798e-d14f-49b6-8929-f2e84b2492c0/file/3033702b-d0c9-4bba-b5bc-666f45738fc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ded6798e-d14f-49b6-8929-f2e84b2492c0/file/87858a85-5b3e-4a00-8077-b345833d3eae\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

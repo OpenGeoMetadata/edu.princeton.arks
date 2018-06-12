@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w3364",
+  "layer_slug_s": "princeton-vd66w3364",
+  "uuid": "princeton-vd66w3364",
+  "dc_title_s": "Leon County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-84.706116, -83.980412, 30.684237, 30.273814)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Leon County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Leon County",
+    "Leon",
+    "Florida",
+    "Tallahassee",
+    "Florida State University",
+    "Florida A&M University"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:36:55Z",
+  "layer_id_s": "restricted-figgy:54e9971c-e83a-48ae-8541-a52fe2d4746f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2d586d47-11c3-425e-90dc-372679e088cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ad8ab14-aae1-40cd-9844-9d6f52121f85/file/fc9d7b1b-53a4-42e0-b626-e5648a783156\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54e9971c-e83a-48ae-8541-a52fe2d4746f/file/3c324d7d-25a0-46a6-a8a9-ffca88d74591\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54e9971c-e83a-48ae-8541-a52fe2d4746f/file/e006c65a-8644-49bc-9cd3-e361d2c4a8e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

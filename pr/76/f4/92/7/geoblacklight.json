@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pr76f4927",
+  "layer_slug_s": "princeton-pr76f4927",
+  "uuid": "princeton-pr76f4927",
+  "dc_title_s": "Pima County, Arizona land parcels, 2008",
+  "solr_geom": "ENVELOPE(-113.334221, -110.44768, 32.514068, 31.426106)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pima County, Arizona, 2008.",
+  "dc_creator_sm": [
+    "Pima County Department of Transportation - Geographic Information Services\n          Division"
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "land use",
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "ownership",
+    "property",
+    "tax",
+    "land value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "Pima County",
+    "Tucson"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:09:19Z",
+  "layer_id_s": "restricted-figgy:2cad47fa-b9eb-40ca-86fa-068bbaf64d83",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/be4c4478-75f6-469f-8257-dc9272d852cf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/603f9519-39a9-4be4-9f04-eb2086e1b897/file/f46704d9-5992-43ed-af05-95d957ddbe42\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cad47fa-b9eb-40ca-86fa-068bbaf64d83/file/045a5ab9-2f7c-4027-8c6b-a889b4d081cb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cad47fa-b9eb-40ca-86fa-068bbaf64d83/file/08ba3a1e-c3f2-448c-bdcc-41c633a9c7a2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

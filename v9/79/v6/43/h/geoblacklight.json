@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v979v643h",
+  "layer_slug_s": "princeton-v979v643h",
+  "uuid": "princeton-v979v643h",
+  "dc_title_s": "Hot Spring County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-93.408244, -92.668716, 34.505323, 34.14958)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hot Spring County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Hot Spring",
+    "Hot Spring County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:21:14Z",
+  "layer_id_s": "restricted-figgy:f1fb25e8-1627-4dbd-bcbb-2b1ff6a61120",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e1222b03-3190-49e6-b065-555a5d1b8696\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/076c11d6-e135-4cd9-a959-e8ac5bd322df/file/ecf2611f-5871-44ce-8582-59608a3a1617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1fb25e8-1627-4dbd-bcbb-2b1ff6a61120/file/0e508703-29ad-40f6-82d5-65068d6a8b45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1fb25e8-1627-4dbd-bcbb-2b1ff6a61120/file/4187c16c-dd8f-4c78-a146-d553fbb4b4ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

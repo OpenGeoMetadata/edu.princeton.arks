@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m900nx81s",
+  "layer_slug_s": "princeton-m900nx81s",
+  "uuid": "princeton-m900nx81s",
+  "dc_title_s": "Scotland counties, 1951",
+  "solr_geom": "ENVELOPE(-9.193079, -0.714878, 60.859579, 54.515277)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of counties used in Scotland from medieval times and continuing to exist until 1975, broadly as aggregates of parishes. This file represents the system as it was used to report the 1951 Census of Population. Note that in the twentieth century the four Scottish Cities (Edinburgh, Glasgow, Aberdeen and Dundee) became counties themselves and therefore form separate polygons in this file.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "history",
+    "counties",
+    "Scottish Counties",
+    "administrative units",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Scotland"
+  ],
+  "dct_temporal_sm": [
+    "1951",
+    "2009"
+  ],
+  "solr_year_i": 1951,
+  "layer_modified_dt": "2018-04-04T22:38:32Z",
+  "layer_id_s": "restricted-figgy:19a6e892-4880-4bc5-901b-3f8f4e7936a1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b789a1e5-d648-4679-82b3-e898c5420347\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2b62cc97-98e5-446c-b15f-2c4b6418f8b9/file/e5bb1db0-4e72-4ca6-9a99-62bd2e98207a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/19a6e892-4880-4bc5-901b-3f8f4e7936a1/file/f8b83fdb-50f9-4a02-b275-c23c3ebb0847\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19a6e892-4880-4bc5-901b-3f8f4e7936a1/file/54593de6-b644-4aaa-bdf9-ae15fa33d828\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

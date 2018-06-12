@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9593tz519",
+  "layer_slug_s": "princeton-9593tz519",
+  "uuid": "princeton-9593tz519",
+  "dc_title_s": "Ocean County, New Jersey roads, 2011",
+  "solr_geom": "ENVELOPE(-74.553105, -74.033699, 40.172236, 39.508582)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Ocean County, New Jersey, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Ocean County",
+    "Ocean",
+    "New Jersey",
+    "Brick",
+    "Lakewood",
+    "Toms River",
+    "Jackson",
+    "Colliers Mills Wildlife Management Area",
+    "Manchester Wildlife Management Area",
+    "Forked River Mountain Wildlife Management Area",
+    "Seaside Heights",
+    "Seaside Park",
+    "Point Pleasant Beach",
+    "Long Beach Island"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:30:30Z",
+  "layer_id_s": "restricted-figgy:e4def89a-d0bc-4200-b230-8e6ac483a829",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9f82a9f7-3182-4b66-8927-cf52b4d87f17\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/960d8aea-2f18-4e60-b75e-d83a33a59a5e/file/b216852f-c239-4e51-a6dc-92ee3d2900ed\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4def89a-d0bc-4200-b230-8e6ac483a829/file/8254e6a9-4804-4d4f-af60-7ab9077cc6ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4def89a-d0bc-4200-b230-8e6ac483a829/file/010ca074-68bb-4274-9dca-bd18885db6e1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

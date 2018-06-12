@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gp295",
+  "layer_slug_s": "princeton-c821gp295",
+  "uuid": "princeton-c821gp295",
+  "dc_title_s": "Malawi conflated historical administrative boundaries, 1948",
+  "solr_geom": "ENVELOPE(32.671524, 35.911813, -9.363796, -17.127211)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Nyasaland (Malawi) for 1948. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "district",
+    "province"
+  ],
+  "dct_spatial_sm": [
+    "Nyasaland",
+    "Nyasaland Protectorate"
+  ],
+  "dct_temporal_sm": [
+    "1948",
+    "2016"
+  ],
+  "solr_year_i": 1948,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "public-figgy:c90c92de-516c-43f2-a142-621740836296",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/007e7b25-5e3c-4608-b43d-fdadb18aaa1b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9765e431-a0ba-4a5a-971c-b604fb2f5f5b/file/f5109720-c8eb-458b-af58-563d8b8eaeda\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c90c92de-516c-43f2-a142-621740836296/file/a3c0e730-b849-4612-9aa4-eccdeede3789\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c90c92de-516c-43f2-a142-621740836296/file/127d5b7d-1fdf-43a1-8e83-b208ced1949f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff3658680",
+  "layer_slug_s": "princeton-ff3658680",
+  "uuid": "princeton-ff3658680",
+  "dc_title_s": "Franklin County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-85.22303, -84.333468, 30.013846, 29.586787)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin County",
+    "Franklin",
+    "Florida",
+    "Tate's Hell State Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:49Z",
+  "layer_id_s": "restricted-figgy:6f437309-642f-45d5-a54e-3fbdb5b5a50a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/631cfa7f-26c2-4172-a4f0-1f20d61aebb4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/36795c3f-dcc2-4dba-8aa5-311f0608bc64/file/bd4c68a7-52d7-4f4a-8e9e-cefd2b81838f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f437309-642f-45d5-a54e-3fbdb5b5a50a/file/39569107-be10-48f4-b32e-acb95df524aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f437309-642f-45d5-a54e-3fbdb5b5a50a/file/3c7e77ef-08a5-4dcc-8516-c27ac14967b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

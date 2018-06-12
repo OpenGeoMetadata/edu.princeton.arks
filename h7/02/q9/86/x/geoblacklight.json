@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h702q986x",
+  "layer_slug_s": "princeton-h702q986x",
+  "uuid": "princeton-h702q986x",
+  "dc_title_s": "Tuscarawas County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.712383, -81.264553, 40.666874, 40.214081)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Tuscarawas County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tuscarawas",
+    "Tuscarawas County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:27Z",
+  "layer_id_s": "restricted-figgy:e059a03c-e285-4169-bbd1-6baa2d842fd6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4c9dad5d-ff1d-4f7a-acc0-0ddd0ace6383\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/02bd44aa-ffb2-4a7a-b500-b5150189ecc4/file/58392f28-2d57-4f51-bec5-08433e04b642\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e059a03c-e285-4169-bbd1-6baa2d842fd6/file/cb0386c4-b492-4438-b5c7-d261d2010b2e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e059a03c-e285-4169-bbd1-6baa2d842fd6/file/b4b9469f-ed0f-4400-aa7c-6a6b570ece29\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

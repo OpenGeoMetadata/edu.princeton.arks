@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dd88d",
+  "layer_slug_s": "princeton-7s75dd88d",
+  "uuid": "princeton-7s75dd88d",
+  "dc_title_s": "Romania Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(20.601834, 28.830647, 48.205717, 43.648066)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:06Z",
+  "layer_id_s": "restricted-figgy:82e197aa-52ce-4f39-8268-d1bf2d5cb25f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/21347658-7ca8-41b9-9069-41834007f3f5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a8700bd6-b47b-456f-90f7-dc6d3315c50a/file/99d01944-e0f5-49e0-9bfc-a5762f72612f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/82e197aa-52ce-4f39-8268-d1bf2d5cb25f/file/dce3f968-aca9-4f36-8772-f2f4a961d560\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/82e197aa-52ce-4f39-8268-d1bf2d5cb25f/file/2276f0e8-b8b5-4f7d-9b2f-09ce4ba28f54\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

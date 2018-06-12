@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xv949",
+  "layer_slug_s": "princeton-vm40xv949",
+  "uuid": "princeton-vm40xv949",
+  "dc_title_s": "U.S. Recreation Areas, 2013",
+  "solr_geom": "ENVELOPE(-177.45096, -65.227785, 67.68886, 17.895081)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Recreation Areas represents point locations within the United States for common recreational landmarks including golf courses, amusement parks, beaches, and park and recreation areas.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "point",
+    "recreation",
+    "golf courses",
+    "amusement parks",
+    "beaches",
+    "park and recreation areas",
+    "battlefields",
+    "historic sites",
+    "historical parks",
+    "memorials",
+    "forests",
+    "preserves",
+    "ski resorts",
+    "recreational facilities",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:17:53Z",
+  "layer_id_s": "restricted-figgy:86cf7ad0-7e08-45ef-8428-2a2c9f6bae1c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fd3f6856-9518-4361-8330-d2df5e6f2cc1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a82cb0f-382d-4fa6-a63e-62af82c8db0d/file/5b870244-bb26-4989-bf8c-5e3816ff7d00\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86cf7ad0-7e08-45ef-8428-2a2c9f6bae1c/file/9c0bb747-788d-4cd8-bea5-2c0251bd5dca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86cf7ad0-7e08-45ef-8428-2a2c9f6bae1c/file/4c1f1f51-c0b0-4a1b-b062-4c392f78ac92\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

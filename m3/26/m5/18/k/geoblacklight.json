@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m326m518k",
+  "layer_slug_s": "princeton-m326m518k",
+  "uuid": "princeton-m326m518k",
+  "dc_title_s": "Calhoun County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-85.389866, -84.933361, 30.608021, 30.199932)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Calhoun County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Calhoun",
+    "Calhoun County",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:36:43Z",
+  "layer_id_s": "restricted-figgy:d0bb0bea-eb81-46f8-9814-3e5ea76b0b46",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e765421b-b40f-4567-a574-ed9df78aa7af\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e9c11b2-ecb9-48ce-bdcd-031ae5f65833/file/0413f627-0ef6-45bc-9260-15ad140b0e15\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0bb0bea-eb81-46f8-9814-3e5ea76b0b46/file/ec217e36-84f6-4341-a36c-aeb069a863c0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0bb0bea-eb81-46f8-9814-3e5ea76b0b46/file/25a5ceaa-629a-46e1-a87f-9f486b7a4fff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

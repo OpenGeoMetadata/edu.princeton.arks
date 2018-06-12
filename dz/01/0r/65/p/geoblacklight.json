@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/dz010r65p",
+  "layer_slug_s": "princeton-dz010r65p",
+  "uuid": "princeton-dz010r65p",
+  "dc_title_s": "China Major Lakes, 2004",
+  "solr_geom": "ENVELOPE(80.913719, 135.098465, 53.562279, 21.703527)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of China created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:19Z",
+  "layer_id_s": "restricted-figgy:bbe8b496-c137-430f-a459-609397322d8e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/774d3977-6560-402a-99c5-5625986261dd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/69e4304a-45a8-4893-ab17-a96382371bab/file/c8afe189-fa71-40c5-a260-b6cc0703d7be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbe8b496-c137-430f-a459-609397322d8e/file/32e6b0d8-5ef5-4bbe-a1c1-22dd042471b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbe8b496-c137-430f-a459-609397322d8e/file/7d602684-a3dd-47a4-bc0f-805cc4550e58\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

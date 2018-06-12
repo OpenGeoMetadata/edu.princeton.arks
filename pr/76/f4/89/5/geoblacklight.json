@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pr76f4895",
+  "layer_slug_s": "princeton-pr76f4895",
+  "uuid": "princeton-pr76f4895",
+  "dc_title_s": "Japan Cities With Population From 30 Thousand To 100 Thousand, 1995",
+  "solr_geom": "ENVELOPE(127.674438, 144.278824, 45.419647, 26.126204)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Japan cities with population between 30 thousand and 100 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 30K"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:45Z",
+  "layer_id_s": "restricted-figgy:3fdb3fef-215c-4106-9925-9ef3ff6bdaca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ff0382aa-1704-41df-99ef-27030b3ef72b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/34d8bcdc-016b-4c24-be9e-c19f1e2290e0/file/53fb3d72-035f-4bbb-8fa5-582c51f01645\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3fdb3fef-215c-4106-9925-9ef3ff6bdaca/file/37329fe6-11e4-47cb-81c6-d8faa57c6912\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3fdb3fef-215c-4106-9925-9ef3ff6bdaca/file/fc66b8c2-e2c9-443a-93c8-9d7657968a72\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

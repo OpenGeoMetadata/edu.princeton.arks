@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kh04dt29v",
+  "layer_slug_s": "princeton-kh04dt29v",
+  "uuid": "princeton-kh04dt29v",
+  "dc_title_s": "Wayne County, Pennsylvania roads, 2014",
+  "solr_geom": "ENVELOPE(-75.505037, -75.045626, 41.999445, 41.232618)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Wayne County, Pennsylvania, 2014",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Wayne",
+    "Wayne County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:bc8647b0-1a96-4427-99ee-8c30aa5f6677",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6d530384-efd8-4c9a-a551-13611928e5db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1642dc6c-8ef8-459e-a21c-ec5dc916c962/file/a6c57135-01bc-403b-a061-3f2ddf45399f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc8647b0-1a96-4427-99ee-8c30aa5f6677/file/1778ccc9-ea6a-4e31-9770-60e5953080f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc8647b0-1a96-4427-99ee-8c30aa5f6677/file/f80b13ad-3b67-450e-a8aa-c52dc7ae50a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

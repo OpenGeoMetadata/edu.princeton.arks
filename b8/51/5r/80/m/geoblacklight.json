@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515r80m",
+  "layer_slug_s": "princeton-b8515r80m",
+  "uuid": "princeton-b8515r80m",
+  "dc_title_s": "Dallas County, Texas land parcels, 2012",
+  "solr_geom": "ENVELOPE(-97.049258, -96.482013, 32.999858, 32.527228)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Dallas County, Texas, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Dallas County",
+    "Texas",
+    "Dallas",
+    "Lewisville",
+    "Richardson",
+    "Rowlett",
+    "Irving",
+    "Grand Prairie",
+    "Mesquite",
+    "Garland",
+    "Carrollton",
+    "Arlington",
+    "Fort Worth"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:47:48Z",
+  "layer_id_s": "restricted-figgy:08f47761-e36b-47e5-81fc-a75972b8132b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cc3bc0ca-086b-499d-9593-15b224317b55\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d335b083-0a53-48b4-936a-e9bf1cc242bb/file/81304316-4f43-44c8-8a08-575c12188e5d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08f47761-e36b-47e5-81fc-a75972b8132b/file/eecf93a1-e37a-451f-ae8b-cc7901b87909\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08f47761-e36b-47e5-81fc-a75972b8132b/file/d9ad91ef-4439-48fb-b2c4-59ec6a37f9fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

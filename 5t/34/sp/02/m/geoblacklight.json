@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sp02m",
+  "layer_slug_s": "princeton-5t34sp02m",
+  "uuid": "princeton-5t34sp02m",
+  "dc_title_s": "Jackson County, Oregon roads, 2014",
+  "solr_geom": "ENVELOPE(-123.832932, -122.002024, 43.089174, 41.992402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Jackson County, Oregon, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Jackson County",
+    "Jackson",
+    "Medford",
+    "Cascade Mountains",
+    "Cascade Range"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:06Z",
+  "layer_id_s": "restricted-figgy:b97319df-b6fb-48b7-8a9d-f4198dae1d5c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/31bd0760-ee63-4f50-adcb-b99fb20c6528\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74a63d31-35fb-4201-9f88-4c0bb745c9e8/file/2024339a-91e0-4110-a715-3bd960ce3d13\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b97319df-b6fb-48b7-8a9d-f4198dae1d5c/file/eb923b1b-35a5-48e6-a711-d6563ac2ea6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b97319df-b6fb-48b7-8a9d-f4198dae1d5c/file/1c9e93cb-5c2f-441e-81f6-f2846832d3d0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

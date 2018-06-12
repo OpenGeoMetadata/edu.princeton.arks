@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515q070",
+  "layer_slug_s": "princeton-b8515q070",
+  "uuid": "princeton-b8515q070",
+  "dc_title_s": "U.S. Counties (Detailed) 2000",
+  "solr_geom": "ENVELOPE(-178.227822, -66.949831, 71.38269, 18.910842)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Counties (Detailed) represents the counties of the United States in the fifty states and the District of Columbia.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "detail",
+    "area",
+    "demographics",
+    "population",
+    "households",
+    "farm information"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Counties",
+    "Counties"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "1990",
+    "2000",
+    "1987",
+    "1989"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-04-05T02:49:46Z",
+  "layer_id_s": "restricted-figgy:b0f375e2-a798-4f07-91f4-d98ea5df28c9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/cb2dd993-8410-4d85-a85f-f5c63b6498fd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0c50bb2-6eb6-4748-88de-672029ba76a4/file/aeb08263-3563-410a-8311-53bd7ad9ac73\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0f375e2-a798-4f07-91f4-d98ea5df28c9/file/353d1c3d-44af-4a4e-a50a-0a781844b686\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0f375e2-a798-4f07-91f4-d98ea5df28c9/file/765675cc-3565-4db6-9785-7f23384522f7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

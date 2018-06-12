@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603qz95z",
+  "layer_slug_s": "princeton-z603qz95z",
+  "uuid": "princeton-z603qz95z",
+  "dc_title_s": "San Diego County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-117.59618, -116.08088, 33.505379, 32.534273)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Diego County, California, 2009.",
+  "dc_creator_sm": [
+    "SanGIS"
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "tax",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "cadastre",
+    "planning",
+    "land use",
+    "zone",
+    "zones",
+    "zoning",
+    "buildings",
+    "agriculture",
+    "commercial",
+    "residential",
+    "time share",
+    "condos",
+    "condominium",
+    "industrial",
+    "industry",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Diego County",
+    "San Diego"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:04Z",
+  "layer_id_s": "restricted-figgy:a639a266-ab85-45a6-abb7-b5aa6f3baa5b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fd70355-21d8-46f2-a7c6-a71858e82086\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40759a9d-10cc-4e1f-8b5a-2c6d493755a1/file/a828356d-0332-4498-95de-4b9eabc9f3ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a639a266-ab85-45a6-abb7-b5aa6f3baa5b/file/5376c6bd-5f91-45ab-ab95-fa7a2551bb62\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a639a266-ab85-45a6-abb7-b5aa6f3baa5b/file/49ffd8fc-13c1-40b9-a1e6-adcc3336339a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

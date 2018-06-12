@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bg62g",
+  "layer_slug_s": "princeton-pg15bg62g",
+  "uuid": "princeton-pg15bg62g",
+  "dc_title_s": "Netherlands Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(3.96666, 7.11666, 53.41325, 50.76666)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Netherlands cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:53Z",
+  "layer_id_s": "restricted-figgy:3de14967-a619-4ebf-924d-811daec9b1ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e13acc84-e611-4834-a66b-1871b9d5e7c3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ea29e1a-f332-4867-a54c-df6e9b60b762/file/a0a189f5-cda8-4093-a866-4f4da4bfcf85\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3de14967-a619-4ebf-924d-811daec9b1ac/file/cb3427cf-0da9-4b7f-882a-a63e1edbba88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3de14967-a619-4ebf-924d-811daec9b1ac/file/a6eccc3d-dbd6-4829-b0c0-ca5cdc13aa8f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xv987",
+  "layer_slug_s": "princeton-vm40xv987",
+  "uuid": "princeton-vm40xv987",
+  "dc_title_s": "Grenada County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-90.137082, -89.506869, 33.898162, 33.676147)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grenada County, Mississippi, 2014",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Grenada County",
+    "Grenada",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:25Z",
+  "layer_id_s": "restricted-figgy:f2db2f9f-a544-4247-b59e-997a73fb79ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7fa6c66f-f0db-404e-9325-f636a58ee3c1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0f61a08c-eed9-41a4-aea2-ab8575e8897e/file/577134e8-e44e-4b65-b7c7-fe504dc42742\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2db2f9f-a544-4247-b59e-997a73fb79ac/file/644126ce-dda7-456d-a4d1-d5179a232572\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2db2f9f-a544-4247-b59e-997a73fb79ac/file/30504ff0-5c9a-406e-807b-1c832093ece2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

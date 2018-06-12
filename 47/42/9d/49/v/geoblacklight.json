@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429d49v",
+  "layer_slug_s": "princeton-47429d49v",
+  "uuid": "princeton-47429d49v",
+  "dc_title_s": "Weber County, Utah land parcels, 2011",
+  "solr_geom": "ENVELOPE(-112.49342, -111.420376, 41.433874, 41.076908)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Weber County, Utah, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Weber",
+    "Weber County",
+    "Utah",
+    "Ogden",
+    "Great Salt Lake",
+    "Wasatch-Cache National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:07:11Z",
+  "layer_id_s": "restricted-figgy:d1507355-db5c-49c9-88df-98fd70d3ec93",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/487eaf0a-2511-40f8-8f58-97c50a174cf4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e917491-2a16-4265-b031-08bbd01c39a4/file/9f63c43d-6592-4c23-8b80-96040e032ec1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1507355-db5c-49c9-88df-98fd70d3ec93/file/87d9d9c2-cc38-4092-871a-7ff96fea47ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1507355-db5c-49c9-88df-98fd70d3ec93/file/a79e0888-e9dc-4cdd-9a76-5f295ec63387\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

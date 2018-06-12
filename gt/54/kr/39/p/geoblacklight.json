@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kr39p",
+  "layer_slug_s": "princeton-gt54kr39p",
+  "uuid": "princeton-gt54kr39p",
+  "dc_title_s": "England and Wales administrative counties, 1931",
+  "solr_geom": "ENVELOPE(-6.983857, 2.076794, 55.811185, 49.881199)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "These are digital boundaries for the system of counties essentially created by the 1889 Local Government Act and continuing to exist until 1974. Their initial primary focus was the administration of education. During the twentieth century, they can be treated as aggregates of local government districts, although note that administratively County Boroughs were independent of the counties they were geographically part of. This file represents the system as it was used to report the 1931 Census of Population, and does not separately identify County Boroughs.",
+  "dc_creator_sm": [
+    "GBHGIS, University of Portsmouth, Research Project"
+  ],
+  "dc_subject_sm": [
+    "history",
+    "administrative counties",
+    "administrative units",
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "historical boundaries",
+    "counties"
+  ],
+  "dct_spatial_sm": [
+    "England",
+    "Wales",
+    "United Kingdom"
+  ],
+  "dct_temporal_sm": [
+    "1931",
+    "2009"
+  ],
+  "solr_year_i": 1931,
+  "layer_modified_dt": "2018-04-04T22:13:20Z",
+  "layer_id_s": "restricted-figgy:88ada062-8811-4655-bbb6-887610b48213",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b2cf23f-5319-429f-817c-5f7e88dfa7ab\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da79078d-6b5e-432b-82af-4e2a6661e351/file/81e8afc4-d185-4d47-bede-7f72862464e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88ada062-8811-4655-bbb6-887610b48213/file/471975b1-55bb-4d38-8b17-4905ab1fd1ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88ada062-8811-4655-bbb6-887610b48213/file/7460b6e9-bb23-4f92-90c9-0e6316180e20\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

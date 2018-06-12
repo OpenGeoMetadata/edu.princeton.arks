@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7d278v702",
+  "layer_slug_s": "princeton-7d278v702",
+  "uuid": "princeton-7d278v702",
+  "dc_title_s": "Czech Republic Major Dams, 2005",
+  "solr_geom": "ENVELOPE(12.584829, 16.307108, 49.953379, 48.804806)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major dams of Czech Republic created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Dams",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:16Z",
+  "layer_id_s": "restricted-figgy:206aff1c-3d5f-40ca-b3fa-de454d3c6001",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5dc612f7-3ccc-46ef-8cb8-d2bfd9c2637c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5f70f280-293d-44d8-ba1e-17db7e430f73/file/327b9e8a-b6a5-4558-924f-0ea9ca4bfe4e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/206aff1c-3d5f-40ca-b3fa-de454d3c6001/file/b60c6e97-e389-415b-a5f7-97b285740bb6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/206aff1c-3d5f-40ca-b3fa-de454d3c6001/file/7e287439-2672-4258-a8dc-40702e73f66f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

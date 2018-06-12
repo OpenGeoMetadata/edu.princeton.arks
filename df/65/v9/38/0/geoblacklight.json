@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/df65v9380",
+  "layer_slug_s": "princeton-df65v9380",
+  "uuid": "princeton-df65v9380",
+  "dc_title_s": "Nepal Cities With Population From 10 Thousand To 50 Thousand, 1994",
+  "solr_geom": "ENVELOPE(80.940872, 88.061157, 29.260368, 26.532141)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Nepal cities with population between 10 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1994"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:34Z",
+  "layer_id_s": "restricted-figgy:e9e7b22c-91b1-40b6-a2c6-5b8cae61627d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c4a7e98c-a3d3-4f6c-8843-e849844a792b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/312b4008-ec07-4cb1-ad22-4387b5abd496/file/f327fd80-fc45-49e8-9b4e-9c9ef1a16d41\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9e7b22c-91b1-40b6-a2c6-5b8cae61627d/file/f1c0c8d6-5bb4-4fa7-b042-2ef896d44f38\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9e7b22c-91b1-40b6-a2c6-5b8cae61627d/file/24598769-c9c2-4635-b74e-b50f6dbf0a8b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

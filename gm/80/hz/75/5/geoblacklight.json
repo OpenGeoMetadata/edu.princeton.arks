@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80hz755",
+  "layer_slug_s": "princeton-gm80hz755",
+  "uuid": "princeton-gm80hz755",
+  "dc_title_s": "York County, Maine land parcels, 2014",
+  "solr_geom": "ENVELOPE(-70.974981, -70.348584, 43.767531, 43.091051)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of York County, Maine, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "York",
+    "York County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:03Z",
+  "layer_id_s": "restricted-figgy:fc80cda6-509b-4d6d-afc0-fb4caab61f13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d1f6c3b9-5f18-4601-87f6-7fc7e5b9730a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/929b2642-874e-4b4f-b052-28bfb866b891/file/f805b195-aedf-4639-9bf0-16225c2d6aa7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc80cda6-509b-4d6d-afc0-fb4caab61f13/file/ab51837a-4090-408f-80c1-0f840f1a97f1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc80cda6-509b-4d6d-afc0-fb4caab61f13/file/2ed873e9-7fee-4625-a669-c83f6b7550ab\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

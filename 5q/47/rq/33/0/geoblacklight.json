@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5q47rq330",
+  "layer_slug_s": "princeton-5q47rq330",
+  "uuid": "princeton-5q47rq330",
+  "dc_title_s": "Bosnia-Herzegovina Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(16.394388, 19.510082, 45.060671, 42.605046)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Bosnia-Herzegovina created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Bosnia-Herzegovina",
+    "Bosnia",
+    "Herzegovina"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:12Z",
+  "layer_id_s": "restricted-figgy:2d588a84-fbf8-41fa-98b4-8ab772ca2402",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c0bd462a-6068-4f52-9e1e-38e86ac66a4f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6b5f1b2a-8418-457b-ac2d-7a6e0fd776f4/file/98b23be8-a4ce-4b30-8fb1-5731ef35057c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d588a84-fbf8-41fa-98b4-8ab772ca2402/file/b443b634-ec4a-4812-aac9-c2ba186a3c67\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d588a84-fbf8-41fa-98b4-8ab772ca2402/file/c4b7024c-40fa-4af3-9c61-75c2b151f33a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

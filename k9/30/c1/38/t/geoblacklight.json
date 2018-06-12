@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k930c138t",
+  "layer_slug_s": "princeton-k930c138t",
+  "uuid": "princeton-k930c138t",
+  "dc_title_s": "Simpson County, Mississippi roads, 2014",
+  "solr_geom": "ENVELOPE(-90.24233, -89.653025, 32.049725, 31.753911)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Simpson County, Mississippi, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Simpson",
+    "Simpson County",
+    "Mississippi",
+    "Jackson"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-04-04T21:56:40Z",
+  "layer_id_s": "restricted-figgy:5a584cec-561e-4807-9c35-74ec868734dc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/25f6773e-1eed-45dc-ba41-8495052e4e0a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2fdb49fb-1807-4ee6-9a8a-dbc149296487/file/4ff785b3-0e33-48df-94d0-dae26aed7e2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5a584cec-561e-4807-9c35-74ec868734dc/file/65790361-d9d9-49b0-a9c8-35f2fc78212c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5a584cec-561e-4807-9c35-74ec868734dc/file/7c20d7a8-71d2-47fe-9e8d-90520252d945\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

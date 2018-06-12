@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r187p",
+  "layer_slug_s": "princeton-z603r187p",
+  "uuid": "princeton-z603r187p",
+  "dc_title_s": "Monterey County, California roads, 2014",
+  "solr_geom": "ENVELOPE(-121.974583, -120.218132, 36.909978, 35.789282)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Monterey County, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Monterey County",
+    "Monterey",
+    "Salinas",
+    "Los Padres National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:13Z",
+  "layer_id_s": "restricted-figgy:16d8ac15-23ae-48b0-9a7d-68f52dcf9ec8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/92b530c5-df75-4660-818f-d2b7751cd0b9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d2a53dfc-71da-427f-ac67-25b5567b08dc/file/25c8b324-f353-4433-99a6-3b873fce469a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16d8ac15-23ae-48b0-9a7d-68f52dcf9ec8/file/801fdd55-0123-4d91-b388-fd653dcb0e62\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16d8ac15-23ae-48b0-9a7d-68f52dcf9ec8/file/3e6ad12e-b66e-47b0-a139-76d65cede832\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

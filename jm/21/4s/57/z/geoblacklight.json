@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jm214s57z",
+  "layer_slug_s": "princeton-jm214s57z",
+  "uuid": "princeton-jm214s57z",
+  "dc_title_s": "Steuben County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.196599, -84.80469, 41.760145, 41.526535)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Steuben County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Steuben",
+    "Steuben County",
+    "Indiana"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:49:21Z",
+  "layer_id_s": "restricted-figgy:15ebc7ae-e8e1-4474-ba32-247ded175686",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/73043495-8331-4cb8-839e-ce15590eecf7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2330e47d-ddc6-4477-bdcb-9d7e50f269ef/file/0394f8ae-a646-43bb-95af-ceac7daeeec5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15ebc7ae-e8e1-4474-ba32-247ded175686/file/52efa748-bcfe-44e9-ba7d-6705af44c352\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15ebc7ae-e8e1-4474-ba32-247ded175686/file/1bf96813-5844-4817-8c07-ba26c1311f61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

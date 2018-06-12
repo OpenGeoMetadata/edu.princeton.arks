@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kt84k",
+  "layer_slug_s": "princeton-8c97kt84k",
+  "uuid": "princeton-8c97kt84k",
+  "dc_title_s": "Lincoln County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.298518, -81.801666, 38.378712, 37.946739)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lincoln County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lincoln",
+    "Lincoln County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:52Z",
+  "layer_id_s": "restricted-figgy:c825d14e-6d52-4d29-a1d0-cb7909d0e42b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fb178e9d-dd73-4a01-81db-adac85636d88\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6990ae87-e3a1-46d4-92b9-f0c366fe6e11/file/5a69214b-aa4a-4e94-b1d1-eb55c7af34d2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c825d14e-6d52-4d29-a1d0-cb7909d0e42b/file/e8ba7bde-efcd-41b1-a229-9dbaaf0229d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c825d14e-6d52-4d29-a1d0-cb7909d0e42b/file/d5d5fc9d-3121-4b4d-9ba4-213adfd4af06\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

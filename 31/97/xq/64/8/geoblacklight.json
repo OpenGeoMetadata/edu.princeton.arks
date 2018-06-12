@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq648",
+  "layer_slug_s": "princeton-3197xq648",
+  "uuid": "princeton-3197xq648",
+  "dc_title_s": "Infogroup Business Locations for North Carolina, 2017",
+  "solr_geom": "ENVELOPE(-84.3183, -75.4643, 36.5833, 33.8432)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing businesses in North Carolina for 2017, taken from ESRI's national Infogroup Business Locations data. This dataset contains the locations of over 13 million private and public companies in United States. Businesses can be retrieved by their Standard Industrial Classification Code (SIC) as well as by North American Industry Classification System (NAICS) Code and Location.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "business",
+    "businesses",
+    "sales",
+    "assets",
+    "headquarters",
+    "branch",
+    "branches",
+    "employment",
+    "employees",
+    "workers",
+    "workforce",
+    "SIC code",
+    "SIC codes",
+    "NAICS code",
+    "NAICS codes",
+    "economy"
+  ],
+  "dct_spatial_sm": [
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "solr_year_i": 2017,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:4659a113-770b-4c1a-8e8c-6a68ad791190",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2ff9c10e-c68b-4180-b5fb-6650674ea2d2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0dca9840-424f-427e-83f7-7befe7013d59/file/2834bfc5-4c40-4a92-8491-7723d5fdf396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4659a113-770b-4c1a-8e8c-6a68ad791190/file/6c9c2fa0-d4bc-48fd-8459-caf8b3e1e7e1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4659a113-770b-4c1a-8e8c-6a68ad791190/file/e5934ab8-a2cd-48ec-ae3e-ba413289fed8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

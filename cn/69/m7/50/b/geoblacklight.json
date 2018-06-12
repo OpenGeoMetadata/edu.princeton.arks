@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m750b",
+  "layer_slug_s": "princeton-cn69m750b",
+  "uuid": "princeton-cn69m750b",
+  "dc_title_s": "San Juan County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-123.237596, -122.741837, 48.789389, 48.414655)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in San Juan County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "San Juan",
+    "San Juan County",
+    "Salish Sea"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:26:14Z",
+  "layer_id_s": "restricted-figgy:3a635d4d-a671-4e56-bc49-b59c3d2a377d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/84ce7dff-98d4-47e6-b818-03148eae65d9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1f278746-7328-4321-9882-6b465cc28a9a/file/cd42b94c-944c-441d-91c1-da329c767e61\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a635d4d-a671-4e56-bc49-b59c3d2a377d/file/0cfbdedc-4143-47a8-bb79-04641f6b336d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a635d4d-a671-4e56-bc49-b59c3d2a377d/file/c97cdaf8-349a-45ee-9183-8e09fe15012a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

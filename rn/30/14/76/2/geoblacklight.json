@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn3014762",
+  "layer_slug_s": "princeton-rn3014762",
+  "uuid": "princeton-rn3014762",
+  "dc_title_s": "Glenn County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-122.938312, -121.856392, 39.800413, 39.383305)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Glenn County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Glenn County",
+    "Glenn",
+    "Mendocino National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:13Z",
+  "layer_id_s": "restricted-figgy:e44968a0-2116-445b-948f-e1e8400fd06d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a2d2a73-17fd-4924-811b-8394ff963a37\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/773e68c1-7e80-4243-b427-8bcfcd06ee0c/file/93b2b59a-c156-4b50-8dd2-3f8a5dbaada8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e44968a0-2116-445b-948f-e1e8400fd06d/file/7680fa0d-861e-4aed-b978-cf6d854a2741\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e44968a0-2116-445b-948f-e1e8400fd06d/file/20e398f5-c264-4a71-a5a1-d828d739fdad\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

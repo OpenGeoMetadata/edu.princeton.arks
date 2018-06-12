@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rh98b",
+  "layer_slug_s": "princeton-v118rh98b",
+  "uuid": "princeton-v118rh98b",
+  "dc_title_s": "Hampshire County, Massachusetts roads, 2014",
+  "solr_geom": "ENVELOPE(-73.066232, -72.207028, 42.554024, 42.183379)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hampshire County, Massachusetts, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Hampshire",
+    "Hampshire County",
+    "Amherst",
+    "Springfield"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:40Z",
+  "layer_id_s": "restricted-figgy:475321b2-fb2c-4a71-ab77-0dc2cef4aacf",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/54a3eb38-0c1d-420f-910b-4a6bc89f90f0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d460b948-7cc9-40f9-9832-286f8864a15e/file/0a667f36-9b16-42a9-8dc5-6bcd812a0b12\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/475321b2-fb2c-4a71-ab77-0dc2cef4aacf/file/caee4c9d-33fd-45d5-b54e-9538cd37014a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/475321b2-fb2c-4a71-ab77-0dc2cef4aacf/file/db807dbc-29a7-4b5a-9bd7-ee11323a1243\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zs25xc937",
+  "layer_slug_s": "princeton-zs25xc937",
+  "uuid": "princeton-zs25xc937",
+  "dc_title_s": "Lee County, Alabama land parcels, 2014",
+  "solr_geom": "ENVELOPE(-85.549665, -85.029536, 32.745283, 32.470019)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in parts of Lee County, Alabama, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Alabama",
+    "Lee",
+    "Lee County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:42Z",
+  "layer_id_s": "restricted-figgy:5ef847c7-92a3-4dff-9903-57a39841de5a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b21c79e8-6a7e-4f4c-86d6-c2652f80682a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/751f0c1f-e13c-4759-ae38-deb2df07078a/file/5cd78ed4-dbf9-45b6-a4fb-a79dd9561e7b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ef847c7-92a3-4dff-9903-57a39841de5a/file/d018f6b6-50ea-4dcb-a2aa-a54f17c5be81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ef847c7-92a3-4dff-9903-57a39841de5a/file/10438970-c8b1-46fd-b8d0-b083768cf648\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

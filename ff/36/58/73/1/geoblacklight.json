@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ff3658731",
+  "layer_slug_s": "princeton-ff3658731",
+  "uuid": "princeton-ff3658731",
+  "dc_title_s": "Polk County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.46957, -93.929922, 34.728426, 34.190198)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Polk County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Polk",
+    "Polk County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:21Z",
+  "layer_id_s": "restricted-figgy:0e1b7168-9db0-46ab-8782-9e8d1ab3eab4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/80dd72a9-48c2-47d1-b8c2-8ff105188334\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a2adc28-5618-4d71-bf07-8f16385733a3/file/4e69334f-883e-4110-b694-ea92706aa540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e1b7168-9db0-46ab-8782-9e8d1ab3eab4/file/dd25b84d-be54-40fd-a216-80f4e30fb7c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e1b7168-9db0-46ab-8782-9e8d1ab3eab4/file/9b95cce5-6ae8-4ad5-9bcb-59f5b6d73553\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

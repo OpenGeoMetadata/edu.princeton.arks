@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cn69m574b",
+  "layer_slug_s": "princeton-cn69m574b",
+  "uuid": "princeton-cn69m574b",
+  "dc_title_s": "Wisconsin Block Groups 2002",
+  "solr_geom": "ENVELOPE(-92.889433, -86.805188, 47.003379, 42.491984)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Wisconsin Block Groups represents the U.S. Census block groups of Wisconsin.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:45:07Z",
+  "layer_id_s": "restricted-figgy:7cd1e6bb-415d-469b-8d12-4f1b81f7244a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/614e242a-2528-42be-8c6a-2dc4fd397840\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0d705c60-1a32-46a0-a604-9442b416cb32/file/93b104f2-038b-4e45-ad0c-c310f615b8f9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7cd1e6bb-415d-469b-8d12-4f1b81f7244a/file/5b401ad2-cea5-429a-9425-09590aff6dd2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7cd1e6bb-415d-469b-8d12-4f1b81f7244a/file/1529958f-10a1-46f0-94fd-5a08390b65b0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

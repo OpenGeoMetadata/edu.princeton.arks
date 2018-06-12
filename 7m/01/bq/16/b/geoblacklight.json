@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7m01bq16b",
+  "layer_slug_s": "princeton-7m01bq16b",
+  "uuid": "princeton-7m01bq16b",
+  "dc_title_s": "Martin County, Florida land parcels, 2012",
+  "solr_geom": "ENVELOPE(-80.863187, -79.924418, 27.263746, 26.956314)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Martin County, Florida, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Martin County",
+    "Martin",
+    "Port St. Lucie",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:11:37Z",
+  "layer_id_s": "restricted-figgy:9bee9f87-9ef8-4b6c-8791-99581e7a4a9c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ae633ea5-0046-48b1-a133-9d64ef114c6a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28006309-61cb-4133-b100-78544d0d015a/file/655cd015-c610-459e-995b-9c08b9799ec5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9bee9f87-9ef8-4b6c-8791-99581e7a4a9c/file/1a672ac0-9a2b-4474-88bd-5ba54a92ac70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9bee9f87-9ef8-4b6c-8791-99581e7a4a9c/file/8d63c083-add1-490a-89a7-cafb6d7e538f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

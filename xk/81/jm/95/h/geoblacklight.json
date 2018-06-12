@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xk81jm95h",
+  "layer_slug_s": "princeton-xk81jm95h",
+  "uuid": "princeton-xk81jm95h",
+  "dc_title_s": "Canada FSA Postal Centroids 2000",
+  "solr_geom": "ENVELOPE(-135.066895, -52.711426, 70.780014, 42.033581)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Canada FSA Postal Centroids represents the Forward Sortation Areas (FSA) of Canada as centroids, which are identified by the first three characters of the postal code. The sequence of the three-character FSA is always Alphabetical character/Number/Alphabetical character. The centroids are calculated from the DMTI Spatial FSA boundary file, which is created from the DMTI Spatial six-character postal code point file and CanMap®. The FSA boundaries encompass the six-character postal code points starting with that FSA designation, and conform to the streets and other physical features within CanMap.",
+  "dc_creator_sm": [
+    "DMTI Spatial Inc.",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "postal codes",
+    "forward sortation areas",
+    "three-character postal codes"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "1996"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:43Z",
+  "layer_id_s": "restricted-figgy:c31007d5-9e63-4dae-a7d8-358c53f089dc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c0715ec0-87e6-43a9-8a8a-91ed88a481b4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8ae8c3c-2263-44df-a18e-b9da4898317b/file/174f6a72-1330-412a-bc87-9278ea28d3b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c31007d5-9e63-4dae-a7d8-358c53f089dc/file/41d53bdf-433f-4c05-bfe8-650a76ad696a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c31007d5-9e63-4dae-a7d8-358c53f089dc/file/ab8bc7b7-0a5c-46c3-8c73-0bd9d4140918\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

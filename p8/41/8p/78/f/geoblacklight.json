@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p8418p78f",
+  "layer_slug_s": "princeton-p8418p78f",
+  "uuid": "princeton-p8418p78f",
+  "dc_title_s": "Lithuania Cities With Population 100 Thousand and More, 2004",
+  "solr_geom": "ENVELOPE(21.13399, 25.29598, 55.93333, 54.673317)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Lithuania cities with population 100 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 100K"
+  ],
+  "dct_spatial_sm": [
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:54:15Z",
+  "layer_id_s": "restricted-figgy:b56de558-eebe-4c09-932e-7a5bec67a6b4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/134f655a-cd77-47a2-9d34-996e1d6e74b4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a7600277-3d24-405c-bf14-b58258bf5987/file/4bd33cbb-8e19-4365-8fcc-9c841a9bd567\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b56de558-eebe-4c09-932e-7a5bec67a6b4/file/e4d21dce-4f10-4b3e-bd12-10e26290a9a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b56de558-eebe-4c09-932e-7a5bec67a6b4/file/4d91a60c-e139-410e-ad29-0a0933c947c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ht24wm09d",
+  "layer_slug_s": "princeton-ht24wm09d",
+  "uuid": "princeton-ht24wm09d",
+  "dc_title_s": "Ireland County Boundaries, 2005",
+  "solr_geom": "ENVELOPE(-10.619837, -5.996996, 55.434133, 51.419137)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the county boundaries of Ireland created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "counties",
+    "Boundaries",
+    "county boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Ireland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:01Z",
+  "layer_id_s": "restricted-figgy:a96ab9cd-8256-4ed4-afcc-00f02fb92074",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e61f7d68-7c5f-4c92-8c9c-0355a6bdef0e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f3ccb966-ca9b-4d0b-96b6-a58679aca9cc/file/0f371b15-3e63-4967-ba75-b09f96d01cca\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a96ab9cd-8256-4ed4-afcc-00f02fb92074/file/d0f59497-c4af-4cab-9773-cf51263ea3d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a96ab9cd-8256-4ed4-afcc-00f02fb92074/file/5d00b634-f54d-4812-a1b2-141af67c187b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

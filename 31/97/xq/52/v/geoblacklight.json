@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq52v",
+  "layer_slug_s": "princeton-3197xq52v",
+  "uuid": "princeton-3197xq52v",
+  "dc_title_s": "Jefferson County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-80.941655, -80.596363, 40.59903, 40.154874)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson",
+    "Jefferson County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2010"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:32Z",
+  "layer_id_s": "restricted-figgy:14dd776a-0dbc-4a52-a184-b752591b87e8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/95bf79a7-0a00-40a9-8cad-63e5e749284a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dff538ad-9e8f-47a7-9cb4-2e19a6f37ee0/file/a4593676-9b79-492a-8230-6c39f09f739a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14dd776a-0dbc-4a52-a184-b752591b87e8/file/a38fd8de-07fa-4b86-bb89-15254b5d32b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14dd776a-0dbc-4a52-a184-b752591b87e8/file/ea3e249e-ac34-4435-bf2a-314f02f85fa9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

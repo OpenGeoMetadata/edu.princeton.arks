@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kt814",
+  "layer_slug_s": "princeton-8c97kt814",
+  "uuid": "princeton-8c97kt814",
+  "dc_title_s": "Meade County, South Dakota land parcels, 2014",
+  "solr_geom": "ENVELOPE(-103.574255, -102.000266, 45.039244, 44.139934)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Meade County, South Dakota, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "South Dakota",
+    "Meade",
+    "Meade County",
+    "Rapid City"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:38:57Z",
+  "layer_id_s": "restricted-figgy:fd8d5f71-7521-448e-b6f3-a4998cafe484",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/270f9fec-c919-4398-9be0-837b252c08e7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f7b47b7d-4fbe-41e6-b45e-13061483932c/file/b72c2e86-4cf3-47e8-b21d-5e078a508fdf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd8d5f71-7521-448e-b6f3-a4998cafe484/file/eea748af-135f-4583-9ecb-abaf0e407913\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd8d5f71-7521-448e-b6f3-a4998cafe484/file/ffd5c365-395e-402f-ba84-0a9c7d9be977\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w0892c40g",
+  "layer_slug_s": "princeton-w0892c40g",
+  "uuid": "princeton-w0892c40g",
+  "dc_title_s": "Illinois Block Groups 2002",
+  "solr_geom": "ENVELOPE(-91.51308, -87.495199, 42.508303, 36.970298)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Illinois Block Groups represents the U.S. Census block groups of Illinois.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Illinois"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:56Z",
+  "layer_id_s": "restricted-figgy:ca052594-e68a-4196-a39e-40935eeb78ca",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7a76db5f-6e33-4ba0-9c66-371a2d391557\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9cb95a48-0887-4f3c-b9b9-6cf2b595ac5d/file/f73216c5-21f7-4819-a71e-aba4abdf13bf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca052594-e68a-4196-a39e-40935eeb78ca/file/1cdeecbe-8049-40fe-b51b-da9851771b50\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca052594-e68a-4196-a39e-40935eeb78ca/file/9c1d1b99-afa9-4643-ba0c-66897760bfa7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

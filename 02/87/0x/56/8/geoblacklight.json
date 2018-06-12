@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/02870x568",
+  "layer_slug_s": "princeton-02870x568",
+  "uuid": "princeton-02870x568",
+  "dc_title_s": "Napa County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.646813, -122.061372, 38.864289, 38.154937)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Napa County, California, 2009.",
+  "dc_creator_sm": [
+    "County of Napa ITS Department"
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "land use",
+    "boundary",
+    "Boundaries",
+    "property line",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Napa County",
+    "Napa",
+    "Calistoga",
+    "American Canyon",
+    "St Helena",
+    "Yountville"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:25:17Z",
+  "layer_id_s": "restricted-figgy:10aae62b-4fa9-4b12-954f-12708c2dfbfa",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/443efdfc-286d-4467-a260-03faea3eeef5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/47207103-fad8-4bb6-8b50-b8b7160e5d22/file/fb87c7ba-75df-40d4-bfd4-66dc45884727\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/10aae62b-4fa9-4b12-954f-12708c2dfbfa/file/1799d081-aad4-4913-b38a-a3ca3764d099\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/10aae62b-4fa9-4b12-954f-12708c2dfbfa/file/28c705a9-65fa-4e27-8e49-072f0dfd44ff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

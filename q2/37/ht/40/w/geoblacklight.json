@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q237ht40w",
+  "layer_slug_s": "princeton-q237ht40w",
+  "uuid": "princeton-q237ht40w",
+  "dc_title_s": "Germany Major Power Lines, 2006",
+  "solr_geom": "ENVELOPE(5.959611, 14.970861, 54.889057, 47.398492)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Germany created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:29Z",
+  "layer_id_s": "restricted-figgy:556c4547-a197-4e07-9ce7-869936064712",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2df2ea15-1198-4815-ae2d-4415955e0479\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fa96f7a1-f945-4b8f-9778-b6c1dd29cfbf/file/879e0581-5f14-4d69-b813-fee1a8759a58\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/556c4547-a197-4e07-9ce7-869936064712/file/7b01af67-43b0-4d5b-a7f0-8fa275ca73e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/556c4547-a197-4e07-9ce7-869936064712/file/faceb4eb-76ab-4e7c-8752-3fcadcf26a0c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

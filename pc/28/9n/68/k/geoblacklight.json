@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289n68k",
+  "layer_slug_s": "princeton-pc289n68k",
+  "uuid": "princeton-pc289n68k",
+  "dc_title_s": "Plumas County, California land parcels, 2013",
+  "solr_geom": "ENVELOPE(-121.497757, -120.099029, 40.449779, 39.597331)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Plumas County, California, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Plumas",
+    "Plumas County",
+    "California",
+    "Lassen National Forest",
+    "Lassen Volcanic National Park",
+    "Plumas National Forest",
+    "Tahoe National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:dca5e74b-e0e6-4f9c-b792-207a70c18b06",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d94fef52-1495-4825-a200-0f42cc0845f6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dbb40631-8848-44a4-b686-d0e275dc5145/file/85289aba-1928-41cb-a5d8-2d30940a59ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dca5e74b-e0e6-4f9c-b792-207a70c18b06/file/2daf9dcd-253b-4f9e-8340-c34253afb52f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dca5e74b-e0e6-4f9c-b792-207a70c18b06/file/b2760f8d-1e73-4262-b9f6-7f84d323d9a5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77fs73w",
+  "layer_slug_s": "princeton-4q77fs73w",
+  "uuid": "princeton-4q77fs73w",
+  "dc_title_s": "Slovenia Cities With Population From 5 Thousand To 10 Thousand, 2005",
+  "solr_geom": "ENVELOPE(13.60108, 15.597291, 46.542064, 45.506441)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Slovenia cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 5K"
+  ],
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:37Z",
+  "layer_id_s": "restricted-figgy:010904c8-d91e-4981-8e5b-b7232df4d803",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/44f638fc-c337-4eab-89f2-3e1c8714c57c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dbce9371-64fc-4585-9d5a-a4fe231e4f08/file/b5b885ee-9f1b-43ee-9b79-782b43378a1c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/010904c8-d91e-4981-8e5b-b7232df4d803/file/cce7eb77-99e1-4ba9-bacd-660c6c5c4368\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/010904c8-d91e-4981-8e5b-b7232df4d803/file/bd4993fe-cce9-4ead-bffa-fa2e02eda532\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

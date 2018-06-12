@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1z40kv485",
+  "layer_slug_s": "princeton-1z40kv485",
+  "uuid": "princeton-1z40kv485",
+  "dc_title_s": "U.S. Lakes (Generalized) 2000",
+  "solr_geom": "ENVELOPE(-120.152131, -71.198121, 49.996367, 26.682839)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Lakes (Generalized) represents the major lakes within United States.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "lakes",
+    "hydrography"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T01:16:09Z",
+  "layer_id_s": "restricted-figgy:34307968-734a-4715-9722-57a0e5ec44e6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ae3aed5b-7edd-405c-aa72-6e2ef46f5d64\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc298834-0d91-42d0-b78c-147b1a7093b6/file/eeff9058-e0c3-4669-bd31-2a75f508c920\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34307968-734a-4715-9722-57a0e5ec44e6/file/af44a0dd-b174-49b8-92da-2649a37c4ad9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34307968-734a-4715-9722-57a0e5ec44e6/file/7899ebd8-ce98-4587-89f1-fa4b55c7fa99\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6d570124g",
+  "layer_slug_s": "princeton-6d570124g",
+  "uuid": "princeton-6d570124g",
+  "dc_title_s": "New York City Hydrography 2004",
+  "solr_geom": "ENVELOPE(-74.268666, -73.712342, 40.920144, 40.488829)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "The \"Hydrography\" dataset is a polygon representation of New York City bodies of water. The data is comprised of polygon geometries with attribute information including water body name. Feature classifications include: \r\n\t1. Lake/Reservior,\r\n\t2. Pond, \r\n\t3. River,\r\n\t4. Stream wider than 8 feet,\r\n\t5. Wetland,\r\n\t6. Beach/Shoreline,\r\n\t7. Bay/Ocean.\r\n",
+  "dc_creator_sm": [
+    "New York City Department of Information Technology and Telecommunications"
+  ],
+  "dc_subject_sm": [
+    "New York City bodies of water, Lake, Reservior, Pond, River, Stream wider than 8 feet, Wetland, Beach, Shoreline, Bay, Ocean."
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-06-06T23:57:59Z",
+  "layer_id_s": "public-figgy:6d219dac-c56f-472c-becf-fbf53ca4e6e7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d9f282f4-6046-401d-b0ea-88ee7ec2d6c6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13bcb1ab-23bf-40ea-b3af-7ffeadbdb4aa/file/731f16c8-f43e-47c1-b111-0bf129ae2d5f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d219dac-c56f-472c-becf-fbf53ca4e6e7/file/990f405b-afab-4776-80ee-19999e06a41e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d219dac-c56f-472c-becf-fbf53ca4e6e7/file/3850c2f0-99ab-4a60-be19-4f9413f42413\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

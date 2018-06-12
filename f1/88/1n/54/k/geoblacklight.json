@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/f1881n54k",
+  "layer_slug_s": "princeton-f1881n54k",
+  "uuid": "princeton-f1881n54k",
+  "dc_title_s": "U.S. National Atlas Water Feature Areas 2000",
+  "solr_geom": "ENVELOPE(-179.998245, 179.983139, 71.398186, 17.681852)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Water Feature Areas represents the water feature areas (e.g., bays, glaciers, lakes, and swamps) of the United States.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "hydrography",
+    "water",
+    "bays",
+    "glaciers",
+    "lakes",
+    "reservoirs",
+    "streams",
+    "swamps"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands"
+  ],
+  "dct_temporal_sm": [
+    "1995–1999",
+    "1972–1994",
+    "1998",
+    "1999"
+  ],
+  "solr_year_i": 1995,
+  "layer_modified_dt": "2018-04-05T02:49:49Z",
+  "layer_id_s": "restricted-figgy:b7b10cca-5380-4a2f-a2c7-7a496b06ae28",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/db3c02e9-271e-4808-b42d-feed60538a7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4d915f1c-b275-41db-95f5-139e4f06e3f7/file/7d302ead-05a2-4d6b-acfd-908213fb2e6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b7b10cca-5380-4a2f-a2c7-7a496b06ae28/file/8db66b92-fe5a-4697-aa8d-85d341df0ca1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b7b10cca-5380-4a2f-a2c7-7a496b06ae28/file/3a8fbc3c-f58f-4ec5-91d3-fdeef64ef273\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

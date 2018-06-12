@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hd76s343w",
+  "layer_slug_s": "princeton-hd76s343w",
+  "uuid": "princeton-hd76s343w",
+  "dc_title_s": "Hamilton County, Iowa roads, 2014",
+  "solr_geom": "ENVELOPE(-93.971617, -93.462635, 42.558139, 42.209146)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hamilton County, Iowa, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Hamilton",
+    "Hamilton County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:26:12Z",
+  "layer_id_s": "restricted-figgy:79646fcd-22eb-4218-9c3e-a2b674e90766",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e7e148b-affd-46ca-9a49-f5f37c135ac1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f3e1b93a-9a51-496e-9147-60c25ce316d6/file/06cee848-acff-40bf-b69d-20eb17ebb90d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79646fcd-22eb-4218-9c3e-a2b674e90766/file/22f2ab44-1764-4d30-986b-a62f2d8dd045\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79646fcd-22eb-4218-9c3e-a2b674e90766/file/b0d2bc90-7395-4adb-ba31-2af2e26a7f38\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

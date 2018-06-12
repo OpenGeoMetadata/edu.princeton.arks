@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj43p",
+  "layer_slug_s": "princeton-3484zj43p",
+  "uuid": "princeton-3484zj43p",
+  "dc_title_s": "U.S. State Boundaries, 2013",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. State Boundaries represents the boundary lines of the states of the United States.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "line",
+    "detail",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. States",
+    "States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:11:34Z",
+  "layer_id_s": "restricted-figgy:0e0f6b96-d3cc-4589-a613-e1ed764dabe6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/32b5facb-8d4f-4603-99c1-088d9cda18b9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/08c348e4-4e5b-464f-b5af-2c61a9a7215b/file/445befad-3925-4453-8341-8503b1f3e0ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0e0f6b96-d3cc-4589-a613-e1ed764dabe6/file/fa782d88-a6f8-4379-a7ab-3b6cb991223f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e0f6b96-d3cc-4589-a613-e1ed764dabe6/file/c7b28af6-4029-4d56-ba01-92bbfe78c4a0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

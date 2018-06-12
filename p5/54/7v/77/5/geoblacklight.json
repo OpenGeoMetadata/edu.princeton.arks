@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p5547v775",
+  "layer_slug_s": "princeton-p5547v775",
+  "uuid": "princeton-p5547v775",
+  "dc_title_s": "Monterey County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-121.978141, -120.214916, 36.918989, 35.788665)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monterey County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Monterey County",
+    "Monterey",
+    "Salinas",
+    "Los Padres National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:12Z",
+  "layer_id_s": "restricted-figgy:cd6db738-5dd2-4da3-bcf8-4dfc5dea7843",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/81bd2640-b537-415d-9128-8e945c2e7061\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42491da5-2d7c-407f-a5bc-d5077f7dc55b/file/5c9b3533-20cc-475f-97e9-04cb00e50755\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd6db738-5dd2-4da3-bcf8-4dfc5dea7843/file/3f637889-a0a0-4d0d-a810-1ca1086b4fd8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd6db738-5dd2-4da3-bcf8-4dfc5dea7843/file/f2fbe1e6-db6e-40b2-bc9c-048690bcec96\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/736666251",
+  "layer_slug_s": "princeton-736666251",
+  "uuid": "princeton-736666251",
+  "dc_title_s": "Mexico Roads 2000",
+  "solr_geom": "ENVELOPE(-117.037173, -86.843644, 32.663723, 14.57228)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Mexico Roads represents the major highways of Mexico.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "roads",
+    "highways"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1993"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T03:06:27Z",
+  "layer_id_s": "restricted-figgy:4e406eb0-8336-452f-aa47-0db32c57f058",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a901daa4-f75c-44f9-8d2b-805c36efef47\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f6f18011-a75e-4216-8ee5-3dc3f865955b/file/806b5985-f633-43b3-aded-5fbe6f9846ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e406eb0-8336-452f-aa47-0db32c57f058/file/e00efa7b-6192-45d2-a446-df912462a106\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e406eb0-8336-452f-aa47-0db32c57f058/file/4f6a5cbd-d3c7-4712-9962-1cbf70305dcd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

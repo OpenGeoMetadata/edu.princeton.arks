@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tq38c",
+  "layer_slug_s": "princeton-zg64tq38c",
+  "uuid": "princeton-zg64tq38c",
+  "dc_title_s": "Washington County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-96.794608, -96.081969, 30.40005, 30.013651)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Washington County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington County",
+    "Texas"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:38Z",
+  "layer_id_s": "restricted-figgy:3ce24f8b-a3dc-4672-ae9c-8da5466e59db",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/748edf35-41f5-4ee3-b511-1b88e0ad7d57\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/686d652a-1be6-4dc5-81dc-d2466381873b/file/efe2a101-c308-469b-b08f-af0c7bb28067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3ce24f8b-a3dc-4672-ae9c-8da5466e59db/file/5e5e9fe6-fa75-4659-af4e-3782af93a4a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3ce24f8b-a3dc-4672-ae9c-8da5466e59db/file/f9d7071d-a4ff-4fdd-aec9-f3f2d109df51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

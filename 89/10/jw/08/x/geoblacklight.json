@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8910jw08x",
+  "layer_slug_s": "princeton-8910jw08x",
+  "uuid": "princeton-8910jw08x",
+  "dc_title_s": "U.S. Drainage Systems (Generalized), 2013",
+  "solr_geom": "ENVELOPE(-164.765827, -73.218565, 67.462095, 25.845555)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Drainage Systems (Generalized) represents the major drainage systems within United States.",
+  "dc_subject_sm": [
+    "line",
+    "drainage",
+    "drainage systems",
+    "rivers",
+    "hydrography",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-04T22:38:04Z",
+  "layer_id_s": "restricted-figgy:c633388e-79c7-4185-9832-39cd4f89e034",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c496955f-784c-4f7c-9939-ad72b1299213\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/29562d90-c71e-45e7-bc48-d9c1b5a70613/file/df44eb10-9d84-4ddb-98b5-26e3fbf36413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c633388e-79c7-4185-9832-39cd4f89e034/file/3bb0a793-2e72-4469-a0b0-0d438a589c4c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c633388e-79c7-4185-9832-39cd4f89e034/file/9d36cd3a-dbcd-4aa9-a2b1-ab279445943d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

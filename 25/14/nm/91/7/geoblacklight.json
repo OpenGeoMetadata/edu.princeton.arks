@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514nm917",
+  "layer_slug_s": "princeton-2514nm917",
+  "uuid": "princeton-2514nm917",
+  "dc_title_s": "Arkansas Rivers 2002",
+  "solr_geom": "ENVELOPE(-94.603589, -89.721998, 36.499437, 33.005084)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Arkansas Rivers represents streams and rivers within Arkansas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:50:12Z",
+  "layer_id_s": "restricted-figgy:735ec47a-4a16-4877-b791-6df3b8f64d41",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d99f2bcd-8bb7-4f49-9da2-320a9e5ef935\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/25c760d3-33c8-47a9-ae1a-ace78a014925/file/dc8920b3-cec9-4421-9b99-06c78d83c089\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/735ec47a-4a16-4877-b791-6df3b8f64d41/file/d8090157-e921-4a6c-97df-585902b24aeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/735ec47a-4a16-4877-b791-6df3b8f64d41/file/d4f46f4e-f667-4309-82ee-9895a3370a4f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

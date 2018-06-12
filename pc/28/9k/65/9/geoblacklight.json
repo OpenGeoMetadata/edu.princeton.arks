@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pc289k659",
+  "layer_slug_s": "princeton-pc289k659",
+  "uuid": "princeton-pc289k659",
+  "dc_title_s": "Glenn County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-122.938266, -121.856505, 39.800596, 39.382979)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Glenn County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "cadastral maps",
+    "land use",
+    "parcel",
+    "tax",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Glenn County",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:12:20Z",
+  "layer_id_s": "restricted-figgy:51e29904-69ff-4273-b961-0449a2caf007",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5b752004-1a75-4b95-8132-a41e30fcdb98\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/43f2a25a-dc84-44e2-855a-fcfd37f4fc1a/file/13b8350c-4d01-485c-a539-125bd9233517\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51e29904-69ff-4273-b961-0449a2caf007/file/44669027-05d8-404f-a15d-aacd8f098585\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51e29904-69ff-4273-b961-0449a2caf007/file/c9edb493-b23f-42ec-961d-1a13388ecbb7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

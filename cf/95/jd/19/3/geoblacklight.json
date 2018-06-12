@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jd193",
+  "layer_slug_s": "princeton-cf95jd193",
+  "uuid": "princeton-cf95jd193",
+  "dc_title_s": "Portugal Major City Areas, 2005",
+  "solr_geom": "ENVELOPE(-28.628859, -7.411394, 41.561121, 32.63974)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Portugal major city areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Major Cities"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:10Z",
+  "layer_id_s": "restricted-figgy:a4dadcce-a01e-4fa6-8a44-acb65ad6b382",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1f6efa6c-971b-4655-a2eb-1918256ea75c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24c50f7c-cdb2-4bbd-97b6-5284c092d87f/file/351ec5c8-0e82-44e3-b6d0-f9f86d0a54d7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4dadcce-a01e-4fa6-8a44-acb65ad6b382/file/b82c8d01-3770-44ff-814f-e0da361087c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4dadcce-a01e-4fa6-8a44-acb65ad6b382/file/0381459b-dbff-4019-8fc4-84a6f7219a4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

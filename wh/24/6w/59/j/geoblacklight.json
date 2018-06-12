@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wh246w59j",
+  "layer_slug_s": "princeton-wh246w59j",
+  "uuid": "princeton-wh246w59j",
+  "dc_title_s": "Solano County, California land parcels, 2011",
+  "solr_geom": "ENVELOPE(-122.403662, -121.593777, 38.539059, 38.049439)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Solano County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Solano",
+    "Solano County",
+    "California",
+    "Vallejo",
+    "Fairfield",
+    "San Francisco"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2005"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:01Z",
+  "layer_id_s": "restricted-figgy:7e7b3430-86b4-4708-9a10-f433299b5e02",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9da6b516-e355-4006-a570-4d88e658714a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a59cff16-74cc-4d84-97af-3bf2fa85c5a6/file/14803f35-60be-4e9a-b936-1ff33cf6811c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e7b3430-86b4-4708-9a10-f433299b5e02/file/b98a68dc-334a-4487-8b43-a9eab4d4684b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e7b3430-86b4-4708-9a10-f433299b5e02/file/57e36f84-f60c-44e5-aad9-9b8560316811\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

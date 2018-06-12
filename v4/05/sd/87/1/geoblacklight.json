@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sd871",
+  "layer_slug_s": "princeton-v405sd871",
+  "uuid": "princeton-v405sd871",
+  "dc_title_s": "Josephine County, Oregon land parcels, 2011",
+  "solr_geom": "ENVELOPE(-124.042758, -123.228884, 42.783942, 41.995176)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Josephine County, Oregon, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Josephine",
+    "Josephine County",
+    "Oregon",
+    "Siskiyou National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:39Z",
+  "layer_id_s": "restricted-figgy:a9063962-9491-4441-a5e7-27a2a76e3bb6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/37f830dc-a0db-4e35-9e3f-3d531745f280\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f84f834f-bbe8-498f-80aa-c252c4f9bddc/file/5000b851-b7a9-4d95-81c3-7b4a313f706f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9063962-9491-4441-a5e7-27a2a76e3bb6/file/62806e05-abca-47c4-85cb-9b3a7a4bcf07\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9063962-9491-4441-a5e7-27a2a76e3bb6/file/7c471668-3717-401d-aac3-fcc477c3cfb2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

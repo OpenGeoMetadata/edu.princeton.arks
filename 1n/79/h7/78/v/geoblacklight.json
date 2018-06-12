@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1n79h778v",
+  "layer_slug_s": "princeton-1n79h778v",
+  "uuid": "princeton-1n79h778v",
+  "dc_title_s": "Vigo County, Indiana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-87.620671, -87.199107, 39.608254, 39.259091)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Vigo County, Indiana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Vigo",
+    "Vigo County",
+    "Indiana",
+    "Terre Haute"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:11:55Z",
+  "layer_id_s": "restricted-figgy:f5cc07fb-e5fd-4d66-b77a-1cf88d5afa6a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/268abb0a-313a-4e0d-a8c7-04e87807789c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bcb16426-d54d-47b5-baeb-a3fdc4636c45/file/fa21881f-444f-45d5-a1ca-1256bc24130a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f5cc07fb-e5fd-4d66-b77a-1cf88d5afa6a/file/a1da40f8-7649-4260-a876-4c1cf40826d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f5cc07fb-e5fd-4d66-b77a-1cf88d5afa6a/file/c41310d2-b70c-490c-807e-3cac4f57f811\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

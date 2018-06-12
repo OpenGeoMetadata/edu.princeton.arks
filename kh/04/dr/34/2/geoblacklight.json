@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kh04dr342",
+  "layer_slug_s": "princeton-kh04dr342",
+  "uuid": "princeton-kh04dr342",
+  "dc_title_s": "Delaware Block Groups 2002",
+  "solr_geom": "ENVELOPE(-75.788758, -75.04829, 39.839007, 38.451014)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Delaware Block Groups represents the U.S. Census block groups of Delaware.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:21:28Z",
+  "layer_id_s": "restricted-figgy:a15a8abb-e07b-48d7-babb-f51144ef2767",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e2f11ba5-dacc-462e-a58c-a317417b2264\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/24d5de4b-266e-4810-afb2-34a08eeb9465/file/c3939e31-dd4c-4c65-9083-64777cb4c295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a15a8abb-e07b-48d7-babb-f51144ef2767/file/fd20dd96-9aa0-4764-82be-d743a448393b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a15a8abb-e07b-48d7-babb-f51144ef2767/file/dd130011-73b8-4d25-adc5-2c89551323ee\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

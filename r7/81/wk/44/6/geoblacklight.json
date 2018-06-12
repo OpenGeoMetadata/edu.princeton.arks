@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk446",
+  "layer_slug_s": "princeton-r781wk446",
+  "uuid": "princeton-r781wk446",
+  "dc_title_s": "Cabarrus County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.787145, -80.295341, 35.54128, 35.184995)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cabarrus County, North Carollina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cabarrus County",
+    "Cabarrus",
+    "North Carolina",
+    "Charlotte",
+    "Concord",
+    "Gastonia"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:39:50Z",
+  "layer_id_s": "restricted-figgy:39020322-4c92-42c6-abf0-ef569c4e5f07",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4061978b-df30-4fca-8227-cdc169e8f464\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ace2c0b8-11d0-4ef7-8bc3-510c27b300d8/file/11ade837-2320-478d-ad6b-60da247590c1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/39020322-4c92-42c6-abf0-ef569c4e5f07/file/a49fcf7b-1a7f-48f6-82b6-ffe36cc6e866\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/39020322-4c92-42c6-abf0-ef569c4e5f07/file/7dc9aa67-a471-41c7-90a9-ab5a2e0f9c90\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

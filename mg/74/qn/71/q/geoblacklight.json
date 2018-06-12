@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mg74qn71q",
+  "layer_slug_s": "princeton-mg74qn71q",
+  "uuid": "princeton-mg74qn71q",
+  "dc_title_s": "Luxembourg Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(5.7371, 6.5199, 50.1804, 49.4538)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Luxembourg cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:03Z",
+  "layer_id_s": "restricted-figgy:27985499-2c6c-4e67-9da4-cdb8b83f5026",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/04ba4059-7cfe-4a4a-8877-a185834057db\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82bbab2a-2acb-46e4-bfe0-c3b7bf9179aa/file/03bd40c8-b707-4a18-91bc-ee60ced8cb2c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27985499-2c6c-4e67-9da4-cdb8b83f5026/file/654144b6-da41-457f-a1ed-5fe3927ab041\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27985499-2c6c-4e67-9da4-cdb8b83f5026/file/7b8a1905-4019-459d-a315-fc2af9e9392b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

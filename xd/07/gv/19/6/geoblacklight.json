@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/xd07gv196",
+  "layer_slug_s": "princeton-xd07gv196",
+  "uuid": "princeton-xd07gv196",
+  "dc_title_s": "Romania Cities With Population 10 Thousand and More, 2005",
+  "solr_geom": "ENVELOPE(20.307528, 29.664972, 48.236912, 43.716721)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Greece cities with population 10 thousand and more created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Cities",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:31Z",
+  "layer_id_s": "restricted-figgy:f22738b8-532a-4879-bc1f-e6a7651704a5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/88351643-cdaf-45d8-9a7c-383fa01e5f36\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/725e2b01-c718-42b0-9229-790f1733cd82/file/95f8d599-29fd-4d16-8560-6684e55b04dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f22738b8-532a-4879-bc1f-e6a7651704a5/file/dd38604e-6058-4b7f-9a88-b56dcc129ac5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f22738b8-532a-4879-bc1f-e6a7651704a5/file/f9c6fc2a-65d7-4dea-8208-bc3a57646c1f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

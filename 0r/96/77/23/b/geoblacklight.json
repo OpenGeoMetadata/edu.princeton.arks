@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0r967723b",
+  "layer_slug_s": "princeton-0r967723b",
+  "uuid": "princeton-0r967723b",
+  "dc_title_s": "Dukes County, Massachusetts roads, 2011",
+  "solr_geom": "ENVELOPE(-70.94989, -70.447844, 41.519392, 41.249685)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Dukes County, Massachusetts, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Dukes",
+    "Dukes County",
+    "County of Dukes County",
+    "Massachusetts",
+    "Martha's Vineyard"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:43Z",
+  "layer_id_s": "restricted-figgy:d44014bf-af53-4aee-b163-27f0e784c1d0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d1c82bd0-4369-4d4f-ad39-030ac0ab5796\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40bb13ca-076c-4b47-b215-64bb90951fde/file/413655b2-4c0b-45bf-aaeb-26c11b22c63b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d44014bf-af53-4aee-b163-27f0e784c1d0/file/9b914e79-bcdb-4cd4-9faa-8fc82823ad5f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d44014bf-af53-4aee-b163-27f0e784c1d0/file/a20a05c8-48e4-4bff-8cab-53b76ba95d06\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bc386n68b",
+  "layer_slug_s": "princeton-bc386n68b",
+  "uuid": "princeton-bc386n68b",
+  "dc_title_s": "Collier County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.845869, -80.872776, 26.516424, 25.802552)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Collier County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Collier",
+    "Collier County",
+    "Naples",
+    "Marco Island",
+    "Everglades",
+    "Everglades City",
+    "Big Cypress National Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:28Z",
+  "layer_id_s": "restricted-figgy:7919e1e0-0de3-4e18-84b3-9f9270330b70",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/55b0b353-f541-4790-983b-3dd4927a963d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9a63b83f-ed33-491c-aae9-d3e1cb1be2a4/file/ee00b36c-a228-495a-aff9-7d216c62f1d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7919e1e0-0de3-4e18-84b3-9f9270330b70/file/79972722-ff30-469c-be43-dfd39300de61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7919e1e0-0de3-4e18-84b3-9f9270330b70/file/fc9c1959-0308-4996-a84e-e4408899ea73\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

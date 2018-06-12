@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8w32r8979",
+  "layer_slug_s": "princeton-8w32r8979",
+  "uuid": "princeton-8w32r8979",
+  "dc_title_s": "Tioga County, Pennsylvania land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.609433, -76.87851, 42.001494, 41.543248)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Tioga County, Pennsylvania, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Tioga",
+    "Tioga County",
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:17:27Z",
+  "layer_id_s": "restricted-figgy:68a3b903-7ac9-450c-9d12-fca13e1f4fc3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/57aec4cb-62ae-4fec-b799-32991dbae52d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/38a24b69-5551-49d9-af8d-ca441a1c4d2f/file/f353ea2c-db36-4504-af7c-835de7330d4c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/68a3b903-7ac9-450c-9d12-fca13e1f4fc3/file/794aabf9-9128-4fff-89c3-839aefdac38e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68a3b903-7ac9-450c-9d12-fca13e1f4fc3/file/33127091-514b-4371-a49c-23e5373889c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

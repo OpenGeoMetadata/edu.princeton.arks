@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj1395333",
+  "layer_slug_s": "princeton-sj1395333",
+  "uuid": "princeton-sj1395333",
+  "dc_title_s": "Rich County, Utah land parcels, 2009",
+  "solr_geom": "ENVELOPE(-111.512031, -111.04574, 42.001706, 41.141025)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Rich County, Utah, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Utah",
+    "Rich",
+    "Rich County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:37:44Z",
+  "layer_id_s": "restricted-figgy:9e853b4c-6b53-4884-9994-d85010504e8f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/957c3510-9d29-4ca3-9e9d-f1843e3a1b54\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9b02728d-291e-49e7-837c-23559f012a14/file/cf98b7a7-4006-4d4c-9824-a92882159186\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e853b4c-6b53-4884-9994-d85010504e8f/file/80d42b11-5624-4b22-aef6-f3f9a0948211\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e853b4c-6b53-4884-9994-d85010504e8f/file/99fb0856-d203-4925-bef9-0d8b2a8593de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

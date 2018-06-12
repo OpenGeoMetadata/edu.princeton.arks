@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ks65hg66m",
+  "layer_slug_s": "princeton-ks65hg66m",
+  "uuid": "princeton-ks65hg66m",
+  "dc_title_s": "DuPage County, Illinois land parcels, 2010",
+  "solr_geom": "ENVELOPE(-88.263037, -87.914443, 41.993685, 41.685373)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in DuPage County, Illinois, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "DuPage",
+    "DuPage County",
+    "Naperville",
+    "Aurora",
+    "Chicago"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T00:35:20Z",
+  "layer_id_s": "restricted-figgy:8f02dc30-f61c-4fb8-a13b-ccb6e5ed2503",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ed037069-355f-44ad-9b9e-ebc0f1ca71de\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5ac7fb47-ac3a-4509-b994-2bc0c5059495/file/3d30398d-2b0e-4098-a455-ceefde48e396\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f02dc30-f61c-4fb8-a13b-ccb6e5ed2503/file/61953c3b-cd12-4475-a99c-6cc6700b8475\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f02dc30-f61c-4fb8-a13b-ccb6e5ed2503/file/3ee78894-f73a-462a-83ca-082e1eec3d54\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

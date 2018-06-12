@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n009w573q",
+  "layer_slug_s": "princeton-n009w573q",
+  "uuid": "princeton-n009w573q",
+  "dc_title_s": "Sarasota County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.64162, -82.056682, 27.3897, 26.945471)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sarasota County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sarasota County",
+    "Sarasota",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:53Z",
+  "layer_id_s": "restricted-figgy:f820deb5-78ff-43cf-beda-fdb067cc1c1a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7b78e8c6-232d-466a-b9b0-39b4b95fcfcd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33edb4c6-c8fe-4d30-b636-50d4dd8eea58/file/76546d22-f351-4687-941f-8151516f242f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f820deb5-78ff-43cf-beda-fdb067cc1c1a/file/e9562636-9b7c-4863-8420-c61cb6614d64\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f820deb5-78ff-43cf-beda-fdb067cc1c1a/file/db1d8ff1-8319-4e22-a65a-ae780b4b0d89\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

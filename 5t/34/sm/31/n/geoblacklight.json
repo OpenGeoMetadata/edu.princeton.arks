@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sm31n",
+  "layer_slug_s": "princeton-5t34sm31n",
+  "uuid": "princeton-5t34sm31n",
+  "dc_title_s": "Ukraine Elevations",
+  "solr_geom": "ENVELOPE(22.13757, 40.22559, 52.375374, 44.390419)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Ukraine created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:29Z",
+  "layer_id_s": "restricted-figgy:510653bd-7b6d-4290-9c8d-07a9c2a0461e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8951a9a8-4739-40b1-af36-8ba6510b8b3e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1af4e015-0a3e-4ad6-a59f-abd73dee190f/file/c7f0adfb-181c-41fc-b204-613098a8b24e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/510653bd-7b6d-4290-9c8d-07a9c2a0461e/file/62632d5f-0ef5-4f6f-aa5b-3ad4e60f019c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/510653bd-7b6d-4290-9c8d-07a9c2a0461e/file/60759903-ee45-4a24-a513-e0849d0d90de\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

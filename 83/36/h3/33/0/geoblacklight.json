@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8336h3330",
+  "layer_slug_s": "princeton-8336h3330",
+  "uuid": "princeton-8336h3330",
+  "dc_title_s": "Sacramento County, California land parcels, 2009",
+  "solr_geom": "ENVELOPE(-121.863139, -121.022588, 38.735947, 38.018145)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Sacramento County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property maps",
+    "property",
+    "ownership",
+    "land use",
+    "cadastral maps",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Sacramento County",
+    "Sacramento"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T01:09:39Z",
+  "layer_id_s": "restricted-figgy:74c35dbd-aa3c-4de3-808b-53e7d4ad7f52",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/f98c1eba-dd34-41b1-a9f9-53c005145f5b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6bcef555-6524-4227-8b14-826a90578414/file/5875dc79-1616-4bdb-a16c-fe2fe806ee5a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74c35dbd-aa3c-4de3-808b-53e7d4ad7f52/file/f42779a5-a04b-43b0-867b-e6792fa90f2b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74c35dbd-aa3c-4de3-808b-53e7d4ad7f52/file/3248adab-b77e-4801-8c2d-f9e0a80eebf3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

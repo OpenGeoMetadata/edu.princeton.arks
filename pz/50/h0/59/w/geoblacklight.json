@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pz50h059w",
+  "layer_slug_s": "princeton-pz50h059w",
+  "uuid": "princeton-pz50h059w",
+  "dc_title_s": "New York city transportation route boundaries, 2004",
+  "solr_geom": "ENVELOPE(-74.268505, -73.698788, 40.920478, 40.497903)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The \"Transportation_line\" dataset is a line representation of New York City transportation route boundaries. The data is comprised of line geometries with attribute information. Feature classifications include: Alley, Unpaved, Airport Runway, Driveways over 200', Concrete Boardwalk, Curbs, Wooden Boardwalk, Road Edge, Obscured Road Edge.",
+  "dc_creator_sm": [
+    "New York City Department of Information Technology and Telecommunications"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "roads",
+    "highways",
+    "road edges",
+    "curb",
+    "curbs",
+    "boardwalk",
+    "boardwalks",
+    "airport",
+    "airports",
+    "runway",
+    "runways",
+    "alley",
+    "alleys",
+    "pavement",
+    "unpaved",
+    "driveway",
+    "driveways"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2004",
+    "2001"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T01:13:08Z",
+  "layer_id_s": "restricted-figgy:bd52089d-d295-4ba3-9eec-b9d614add35a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/73752977-a077-45ba-96a6-cc769c7ca3e5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2f0b417e-77ee-4deb-9741-598c5ec74d55/file/14a4d353-682b-4682-bd72-b7066a11b022\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd52089d-d295-4ba3-9eec-b9d614add35a/file/e3827eed-9b2b-41f7-8b71-424f6d717f3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd52089d-d295-4ba3-9eec-b9d614add35a/file/24b2a679-dd07-46de-992f-9431802e7e8d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

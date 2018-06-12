@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fj2365477",
+  "layer_slug_s": "princeton-fj2365477",
+  "uuid": "princeton-fj2365477",
+  "dc_title_s": "San Bernardino County, California roads, 2012",
+  "solr_geom": "ENVELOPE(-117.798419, -114.057413, 35.817298, 33.812602)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Bernardino County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Bernardino",
+    "San Bernardino County",
+    "California",
+    "Riverside",
+    "Fontana",
+    "Rancho Cucamonga",
+    "Ontario",
+    "Angeles National Forest",
+    "Death Valley National Park",
+    "Death Valley",
+    "Joshua Tree National Park",
+    "San Bernardino National Forest",
+    "Mojave Desert",
+    "Colorado River Indian Reservation"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2010"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:37:29Z",
+  "layer_id_s": "restricted-figgy:2217a7dd-1121-4f0e-85c4-69980425efa7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d4ad0093-1c8b-4f21-8452-75c0b38908fd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/da7faf90-5d32-4688-ad5e-64bb4fd9fec6/file/0cdddf2c-d6cc-45e7-b591-b7f0f40757cf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2217a7dd-1121-4f0e-85c4-69980425efa7/file/9d24f3c9-aefb-4e41-b3ca-bde5cd474c21\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2217a7dd-1121-4f0e-85c4-69980425efa7/file/ace24b49-4473-4b24-8865-92c267281cd0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

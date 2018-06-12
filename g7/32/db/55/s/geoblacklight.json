@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732db55s",
+  "layer_slug_s": "princeton-g732db55s",
+  "uuid": "princeton-g732db55s",
+  "dc_title_s": "U.S. Census Tracts, 2013",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010",
+    "2012"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:15Z",
+  "layer_id_s": "restricted-figgy:2bd2b997-1508-4788-b595-17776e133179",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a221d55e-c523-43fd-9d80-f26bd703fdb0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ee93c36-d084-4cb4-9d46-a62efbeb83d7/file/cadeb727-eb0f-48b6-be0e-2a1b6a382dfb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bd2b997-1508-4788-b595-17776e133179/file/7a354d6c-e77e-4e61-b96d-01314a670d00\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

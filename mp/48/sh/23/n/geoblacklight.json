@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mp48sh23n",
+  "layer_slug_s": "princeton-mp48sh23n",
+  "uuid": "princeton-mp48sh23n",
+  "dc_title_s": "Arapahoe County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-105.054115, -103.706575, 39.740463, 39.563702)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Arapahoe County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Arapahoe",
+    "Arapahoe County",
+    "Aurora",
+    "Centennial",
+    "Denver"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:09:32Z",
+  "layer_id_s": "restricted-figgy:89a2b5ca-0883-4ccb-8fb3-9410fd2da0d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5efa9e4d-4e1c-4d4f-913a-673be6f51c46\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0bccd472-c451-4bd1-8395-b26c311514ff/file/bb7db15a-03af-4bcc-8781-be67d1dcadd1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/89a2b5ca-0883-4ccb-8fb3-9410fd2da0d9/file/4352ccdc-22b1-4dd2-997f-3f234206690d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/89a2b5ca-0883-4ccb-8fb3-9410fd2da0d9/file/9e155a7d-6774-465e-bde5-01753926b1cc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

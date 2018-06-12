@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77ft08k",
+  "layer_slug_s": "princeton-4q77ft08k",
+  "uuid": "princeton-4q77ft08k",
+  "dc_title_s": "Romania Inundation Areas, 2005",
+  "solr_geom": "ENVELOPE(25.426587, 28.489011, 47.462082, 43.705632)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Romania inundation areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Inundation",
+    "Inland Waters",
+    "Inundation Areas",
+    "floods"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:16:06Z",
+  "layer_id_s": "restricted-figgy:64b4c831-cffb-4bf2-ac36-7ebb7c4ce3be",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/896fa325-23f7-4070-96fd-2e0cbfe7fbfa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fa04d2d7-a8fd-4a9c-80e5-0465c35e82b9/file/9329e829-acad-4c9a-be33-641cf990b865\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/64b4c831-cffb-4bf2-ac36-7ebb7c4ce3be/file/991323ce-d6a5-4022-8e94-e06189eb12f5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64b4c831-cffb-4bf2-ac36-7ebb7c4ce3be/file/21e7e48d-db89-4127-8fe5-3efe25b67f77\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

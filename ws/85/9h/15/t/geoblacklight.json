@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859h15t",
+  "layer_slug_s": "princeton-ws859h15t",
+  "uuid": "princeton-ws859h15t",
+  "dc_title_s": "District boundary of India, 1961",
+  "solr_geom": "ENVELOPE(68.196831, 97.409096, 37.069954, 6.767454)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "District boundary data of India, 1961. Includes socio-demographic data.",
+  "dc_creator_sm": [
+    "ML InfoMap Pvt. Ltd."
+  ],
+  "dc_publisher_s": "ML InfoMap Pvt. Ltd.",
+  "dc_subject_sm": [
+    "Administrative and political boundaries",
+    "District boundary",
+    "District",
+    "Boundary"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "1961"
+  ],
+  "solr_year_i": 1961,
+  "layer_modified_dt": "2018-04-05T02:44:44Z",
+  "layer_id_s": "restricted-figgy:d3b8ed1b-60b7-4403-a7ee-7b3760cfad0e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/50e65232-34b8-41d9-8ee3-39a339c5c5bf\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dcd6b6cb-e6eb-4245-a042-0c297bc8eca5/file/554047ee-378a-4cad-8285-c95fc0047dc5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3b8ed1b-60b7-4403-a7ee-7b3760cfad0e/file/6541cab9-56e1-4d0c-a372-0bc061cbb985\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3b8ed1b-60b7-4403-a7ee-7b3760cfad0e/file/1a17ca49-5821-461a-b21d-90f575f3461e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

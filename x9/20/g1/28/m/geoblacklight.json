@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x920g128m",
+  "layer_slug_s": "princeton-x920g128m",
+  "uuid": "princeton-x920g128m",
+  "dc_title_s": "Duchesne County, Utah roads, 2014",
+  "solr_geom": "ENVELOPE(-110.902904, -109.968388, 40.788499, 39.806388)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Duchesne County, Utah, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Duchesne",
+    "Duchesne County",
+    "Utah",
+    "Uintah and Ouray Indian Reservation",
+    "Ashley National Forest",
+    "Uinta-Wasatch-Cache National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:17Z",
+  "layer_id_s": "restricted-figgy:1db9677e-87ad-4f52-9beb-63e74a3e6f5c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/04bfc072-9e48-439e-afbf-4661800c31d6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/662101ae-be8c-464c-998a-4c838ef86fef/file/cbfc3e6f-c0b9-4823-b7d0-0ebdd1779ff5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1db9677e-87ad-4f52-9beb-63e74a3e6f5c/file/a4b03247-eaf9-4ac2-bb18-2edf1ddc17d7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1db9677e-87ad-4f52-9beb-63e74a3e6f5c/file/abfcddcc-22b4-4a52-b38f-3907d232c1f7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

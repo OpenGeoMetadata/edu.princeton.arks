@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vh53x011f",
+  "layer_slug_s": "princeton-vh53x011f",
+  "uuid": "princeton-vh53x011f",
+  "dc_title_s": "Rockland County, New York roads, 2011",
+  "solr_geom": "ENVELOPE(-74.233072, -73.896452, 41.320016, 41.001203)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Rockland County, New York, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Rockland County",
+    "New York",
+    "Rockland",
+    "New York City",
+    "Ramapo",
+    "Clarkstown",
+    "Hudson Valley"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:27:17Z",
+  "layer_id_s": "restricted-figgy:45dc0112-cd84-4b05-9524-318683af1ea8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9e4d5cc5-b587-4bda-be49-300f7ac5951b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b4d253f4-8e88-4a26-9dec-d699eff01b35/file/1bf7f0ec-a838-45df-8ba0-847cff5cb918\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45dc0112-cd84-4b05-9524-318683af1ea8/file/9287b948-b1a2-4995-864f-92f772cc80f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45dc0112-cd84-4b05-9524-318683af1ea8/file/16dbfb77-95f0-4e16-8ec3-cc33a71c088d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

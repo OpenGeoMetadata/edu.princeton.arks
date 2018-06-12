@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gt54kp55t",
+  "layer_slug_s": "princeton-gt54kp55t",
+  "uuid": "princeton-gt54kp55t",
+  "dc_title_s": "Minnesota Block Groups 2002",
+  "solr_geom": "ENVELOPE(-97.239209, -89.491638, 49.384359, 43.499357)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Minnesota Block Groups represents the U.S. Census block groups of Minnesota.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Minnesota"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:50:06Z",
+  "layer_id_s": "restricted-figgy:03d1a5a4-3183-47ea-bd0b-9e46cc7fc012",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6b63e272-78cc-48c8-a391-40e5336305c2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6f785c42-cf33-47e7-bfbc-e468a214bf5a/file/20d5ddd2-e069-45a2-b07f-25aab4b64b66\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03d1a5a4-3183-47ea-bd0b-9e46cc7fc012/file/af1a518f-b2b7-4584-93f8-37e5c64aae83\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03d1a5a4-3183-47ea-bd0b-9e46cc7fc012/file/67e46342-2f9f-4257-9cc9-76f951bfd4ac\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

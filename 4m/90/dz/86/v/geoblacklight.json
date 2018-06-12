@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90dz86v",
+  "layer_slug_s": "princeton-4m90dz86v",
+  "uuid": "princeton-4m90dz86v",
+  "dc_title_s": "Clinton County, Ohio land parcels, 2010",
+  "solr_geom": "ENVELOPE(-84.007407, -83.576064, 39.569046, 39.222856)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clinton County, Ohio, 2010.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Clinton",
+    "Clinton County"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-04T22:22:20Z",
+  "layer_id_s": "restricted-figgy:b0c8dda5-82e9-4446-8d43-ae2a62d3137d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6715e13d-fd3c-466b-a93a-32eb16b3f711\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/04386d9e-d4a7-4887-9ffd-b94ece8811fb/file/1fdc3779-1bbf-4e0f-a06c-128e729eeeda\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0c8dda5-82e9-4446-8d43-ae2a62d3137d/file/37fdab36-26b6-4b18-9ab3-f960f7f64355\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0c8dda5-82e9-4446-8d43-ae2a62d3137d/file/b3ffe9d9-f46a-4db6-8a42-529aff9ed83c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

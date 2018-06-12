@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/p2677002s",
+  "layer_slug_s": "princeton-p2677002s",
+  "uuid": "princeton-p2677002s",
+  "dc_title_s": "Carson City, Nevada land parcels, 2011",
+  "solr_geom": "ENVELOPE(-119.957272, -119.546328, 39.250363, 39.084745)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Carson City, Nevada, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Carson City",
+    "Nevada"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2006"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:53Z",
+  "layer_id_s": "restricted-figgy:0ce882cb-8cf3-4895-8af5-7deffc8d1f5a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/77259e7d-f607-484f-b4e5-cda2c23395a9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b71955ce-3b08-47e6-903b-298298504013/file/7f0485bb-d1f6-43c1-8130-31340cdb5246\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ce882cb-8cf3-4895-8af5-7deffc8d1f5a/file/ed97ad11-4f17-4309-a71c-a16239141d25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ce882cb-8cf3-4895-8af5-7deffc8d1f5a/file/2518abea-9ae5-41b6-af94-b71ff00fd2a4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2j62s630h",
+  "layer_slug_s": "princeton-2j62s630h",
+  "uuid": "princeton-2j62s630h",
+  "dc_title_s": "Utah Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-114.050926, -109.042119, 42.00152, 36.998364)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Utah Block Centroid Populations represents the population of the U.S. Census block centroids for Utah.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Utah"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T02:44:53Z",
+  "layer_id_s": "restricted-figgy:3d577a45-009e-4414-a9f3-c647e3fde632",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4752b5ae-0f5a-4bd1-9b0b-d727cb2b496d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d73bcf1e-76a4-4bf3-88ba-e28f4d547d05/file/1fb8c566-f29f-4170-935e-ca0a473ee305\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d577a45-009e-4414-a9f3-c647e3fde632/file/e6a7e92e-b698-49aa-8663-66408f19f825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d577a45-009e-4414-a9f3-c647e3fde632/file/c973ddf0-ab7c-4330-90e1-4046823831b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

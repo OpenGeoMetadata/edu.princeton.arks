@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6w924g24r",
+  "layer_slug_s": "princeton-6w924g24r",
+  "uuid": "princeton-6w924g24r",
+  "dc_title_s": "Cuba roads (1:100,000)",
+  "solr_geom": "ENVELOPE(-84.951932, -74.145112, 23.204835, 19.840319)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polylines representing roads and highways in Cuba, c. 1976-77. Digital data were extracted from 122 Soviet topographic maps at a scale of 1:100,000.",
+  "dc_creator_sm": [
+    "Nick Hubing, LAND INFO Worldwide Mapping, LLC, Project Manager"
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road type",
+    "paved",
+    "unpaved",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "dct_temporal_sm": [
+    "1976",
+    "1977",
+    "1965"
+  ],
+  "solr_year_i": 1976,
+  "layer_modified_dt": "2018-04-04T22:47:34Z",
+  "layer_id_s": "restricted-figgy:e6cfee7f-ee05-4a1d-ac48-86ff306538c7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/572bcd27-a10e-4eb6-a930-f5ab978ffe5e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09ac75aa-d9ba-463f-994c-83e32e92b6a1/file/91d70b08-5bd1-4a7d-9ffd-750e95c927f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6cfee7f-ee05-4a1d-ac48-86ff306538c7/file/34c5708f-b555-49e4-a5af-f31b2a3b1869\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6cfee7f-ee05-4a1d-ac48-86ff306538c7/file/24786b41-511c-41c8-9168-9a05851d07a9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

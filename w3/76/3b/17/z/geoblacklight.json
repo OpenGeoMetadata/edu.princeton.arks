@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w3763b17z",
+  "layer_slug_s": "princeton-w3763b17z",
+  "uuid": "princeton-w3763b17z",
+  "dc_title_s": "Garfield County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-117.863347, -117.228003, 46.702723, 45.997783)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Garfield County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Umatilla National Forest",
+    "Washington",
+    "Washington State",
+    "Garfield",
+    "Garfield County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:44Z",
+  "layer_id_s": "restricted-figgy:a3104fd1-de95-47f7-9b9e-659f8e5c6674",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/595add36-e9d7-4d8a-b96f-69325042d615\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca9c36b8-0f5d-46ff-8e45-3d371de0d7df/file/1316653a-7a56-483a-aeeb-8838635e2c67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3104fd1-de95-47f7-9b9e-659f8e5c6674/file/45e0f196-d809-48f3-b328-ba83362c70e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3104fd1-de95-47f7-9b9e-659f8e5c6674/file/3bd3b9d4-0c94-432d-9ef4-4c52457ff379\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

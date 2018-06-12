@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kk91fq01j",
+  "layer_slug_s": "princeton-kk91fq01j",
+  "uuid": "princeton-kk91fq01j",
+  "dc_title_s": "Greenville, Texas land parcels, 2004",
+  "solr_geom": "ENVELOPE(-96.170154, -96.047965, 33.172769, 33.0516)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Greenville, Hunt County, Texas, 2004",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Texas",
+    "Greenville",
+    "Hunt County",
+    "Hunt"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T00:36:28Z",
+  "layer_id_s": "restricted-figgy:94ea401d-1fe8-46b1-a56e-c66160f75fa0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d9218cf2-49b4-415e-b3e8-649bb23351a7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/66c07394-593d-48e5-b45c-0de229c6810c/file/705ca406-edaa-44f4-9171-156b4069457c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/94ea401d-1fe8-46b1-a56e-c66160f75fa0/file/dc112211-f2e5-4a30-a1d7-f985ea463af9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94ea401d-1fe8-46b1-a56e-c66160f75fa0/file/4ec874ae-27a5-4e99-afa8-3e720d88b6d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

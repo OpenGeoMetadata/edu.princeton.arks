@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/79407z709",
+  "layer_slug_s": "princeton-79407z709",
+  "uuid": "princeton-79407z709",
+  "dc_title_s": "Salem County, New Jersey roads, 2009",
+  "solr_geom": "ENVELOPE(-75.557352, -75.062153, 39.784774, 39.421169)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Salem County, New Jersey, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Salem",
+    "Salem County"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:38:45Z",
+  "layer_id_s": "restricted-figgy:30d9ad74-baae-4382-96db-1234cc0c18ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bb23871c-6a69-4846-9e66-4ff1ac2cab9a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f3de81b0-7217-4f09-bfc6-f625d5d1a0bd/file/55915149-08f9-4cb6-9a29-1524e79531c1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30d9ad74-baae-4382-96db-1234cc0c18ab/file/32344345-6c15-4af7-9e24-04a3f45041b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30d9ad74-baae-4382-96db-1234cc0c18ab/file/244e252b-3034-4d47-bbe8-97a16789d753\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

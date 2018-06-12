@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k3963",
+  "layer_slug_s": "princeton-td96k3963",
+  "uuid": "princeton-td96k3963",
+  "dc_title_s": "U.S. Geographic Names Information System Golf Locales 2008",
+  "solr_geom": "ENVELOPE(-170.74, 144.861111, 48.982241, -14.346944)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Golf Locales represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. No data exists for Alaska.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "point",
+    "golf locale",
+    "place name",
+    "geographic feature",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Territories"
+  ],
+  "dct_temporal_sm": [
+    "1981",
+    "2007",
+    "1974-Present"
+  ],
+  "solr_year_i": 1981,
+  "layer_modified_dt": "2018-04-05T01:16:07Z",
+  "layer_id_s": "restricted-figgy:c5a81234-bd4d-4b04-9d11-716f17cff3c1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2328417d-fa74-45e0-9d85-c7984463af1e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9327f5af-1ad9-4900-b439-16cfaead2ebb/file/00701e14-7609-46ed-86c6-38a4772437f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c5a81234-bd4d-4b04-9d11-716f17cff3c1/file/fe617237-ef9b-4f62-87ab-2c247a2bb2b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c5a81234-bd4d-4b04-9d11-716f17cff3c1/file/a99b5f28-7242-4eb7-aca7-77694ce1f58a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/c821gm46s",
+  "layer_slug_s": "princeton-c821gm46s",
+  "uuid": "princeton-c821gm46s",
+  "dc_title_s": "Hungary Municipality Boundaries, 2005",
+  "solr_geom": "ENVELOPE(16.1115, 22.906614, 48.584172, 45.737881)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This map includes the municipality boundaries of Hungary created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "administrative units",
+    "municipalities",
+    "Boundaries",
+    "municipality boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Hungary"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:40Z",
+  "layer_id_s": "restricted-figgy:79cda311-b620-4481-9b77-1381fdda1934",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/254128c5-2b66-4cf0-a25e-fe8e23630113\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc8562a4-7bf2-4dfe-bb50-493c9f87009b/file/d5469002-51b8-4901-b223-d159e82b6b5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79cda311-b620-4481-9b77-1381fdda1934/file/55769b01-d998-4602-8545-79ce0b6e78e7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79cda311-b620-4481-9b77-1381fdda1934/file/876ba64b-998c-41bc-941d-b1a265209a4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

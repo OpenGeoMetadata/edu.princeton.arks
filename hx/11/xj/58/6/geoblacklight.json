@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xj586",
+  "layer_slug_s": "princeton-hx11xj586",
+  "uuid": "princeton-hx11xj586",
+  "dc_title_s": "Hawaii County, Hawaii roads, 2011",
+  "solr_geom": "ENVELOPE(-156.062329, -154.813489, 20.270588, 18.914617)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Hawaii County, Hawaii, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Hawaii County",
+    "Hawaii",
+    "Hakalau Forest National Wildlife Refuge",
+    "Hawaiʻi Volcanoes National Park",
+    "Kaloko-Honokohau National Historical Park"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:52:39Z",
+  "layer_id_s": "restricted-figgy:d471d99b-84ea-4396-9578-f0e4d6522d85",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c9bf3cef-f235-4258-a855-6f004329e984\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8ca25f6-1bf0-4272-b8bd-1f5f8d4c9dc2/file/c97f952c-5b61-46ab-8cf3-e5a62dff2b07\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d471d99b-84ea-4396-9578-f0e4d6522d85/file/cd6f8665-0bd4-4492-9eeb-8ac9a4fce2d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d471d99b-84ea-4396-9578-f0e4d6522d85/file/4b0cbdff-d443-45f2-89d1-291e96cf8375\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

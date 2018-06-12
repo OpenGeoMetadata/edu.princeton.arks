@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9p290d74z",
+  "layer_slug_s": "princeton-9p290d74z",
+  "uuid": "princeton-9p290d74z",
+  "dc_title_s": "San Benito County, California roads, 2012",
+  "solr_geom": "ENVELOPE(-121.643804, -120.62001, 36.977123, 36.246376)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in San Benito County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "San Benito",
+    "San Benito County",
+    "California",
+    "San Jose",
+    "Southern Coast Ranges",
+    "Pinnacles National Park"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:46:39Z",
+  "layer_id_s": "restricted-figgy:8f0fa6da-99d3-4dfb-8634-039016a96b88",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e7a76962-a12c-436c-92c3-eaf9d07b55f2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e4d58c8e-95a3-4595-8e2f-8dcdbe8d7c2a/file/d27f5aa0-9a19-4245-8a95-d180a1f6931b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f0fa6da-99d3-4dfb-8634-039016a96b88/file/4a0b6b20-396b-442d-81b9-abb28a09858e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f0fa6da-99d3-4dfb-8634-039016a96b88/file/0e87ade0-df6b-4d13-96f1-87b2e7e7e6cd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

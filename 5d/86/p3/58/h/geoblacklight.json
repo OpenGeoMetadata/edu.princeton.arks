@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5d86p358h",
+  "layer_slug_s": "princeton-5d86p358h",
+  "uuid": "princeton-5d86p358h",
+  "dc_title_s": "Global 3G network operators, 2014",
+  "solr_geom": "ENVELOPE(-150.0, 177.972, 64.793404, -40.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing 3G mobile network operators within particular countries as of December 2014.",
+  "dc_creator_sm": [
+    "Collins Bartholomew Ltd."
+  ],
+  "dc_subject_sm": [
+    "telephone",
+    "telephones",
+    "telecommunications",
+    "telecom",
+    "mobile",
+    "network",
+    "communications",
+    "operator",
+    "operators",
+    "provider",
+    "providers",
+    "service provider",
+    "service providers",
+    "GSMA",
+    "3G",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:14:04Z",
+  "layer_id_s": "restricted-figgy:93f60dc2-e16a-4989-a4db-1975557a4879",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a074db22-6f62-4de6-841f-1be4f7e11c76\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6a393a0a-e6cc-4d6d-bce0-67aa5e2c1281/file/ea0c2fe3-fd1f-46aa-8404-f545fb5499e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/93f60dc2-e16a-4989-a4db-1975557a4879/file/ce1a45fc-f065-41a7-a66f-a91ae5f28e99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/93f60dc2-e16a-4989-a4db-1975557a4879/file/48b208dc-9eb1-4921-8b33-93845bf5129f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

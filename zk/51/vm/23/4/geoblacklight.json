@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vm234",
+  "layer_slug_s": "princeton-zk51vm234",
+  "uuid": "princeton-zk51vm234",
+  "dc_title_s": "Stanly County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.505847, -80.053496, 35.503593, 35.143554)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Stanly County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Stanly",
+    "Stanly County",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:08:51Z",
+  "layer_id_s": "restricted-figgy:bfe1fbe7-9926-4b7c-942e-559841853699",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/aae5d6dd-7683-441c-9ce2-748ee7880e7b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72bae91d-45a6-4d08-9eec-3d3678c89662/file/122ddb44-d8e2-4b7e-851b-0cde674ce0ba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bfe1fbe7-9926-4b7c-942e-559841853699/file/a4ae45c2-fa2e-46c5-89ff-6377ad59ea25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bfe1fbe7-9926-4b7c-942e-559841853699/file/1ac7eef6-bf2e-4d32-87b4-244ed6cc3ccc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

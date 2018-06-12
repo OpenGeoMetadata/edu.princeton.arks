@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gf06g603s",
+  "layer_slug_s": "princeton-gf06g603s",
+  "uuid": "princeton-gf06g603s",
+  "dc_title_s": "Murray County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-84.944463, -84.588886, 34.988431, 34.57661)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Murray County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Murray",
+    "Murray County",
+    "Georgia",
+    "Dalton",
+    "Chattahoochee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:26:25Z",
+  "layer_id_s": "restricted-figgy:3dedc90e-e1a0-44ce-9c32-50f799e20f72",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/91fd9b28-a5c3-4215-afe7-ead627105e2d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5a07834d-7f3f-4313-b34e-4a761e5f3dbd/file/00d3f285-ace5-459f-9a59-d9ea92be81dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3dedc90e-e1a0-44ce-9c32-50f799e20f72/file/7f87a4ae-fde1-4b63-a7fd-79a9bf75ac68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3dedc90e-e1a0-44ce-9c32-50f799e20f72/file/f22cabbb-d0bd-4f4f-a109-62a63453491d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

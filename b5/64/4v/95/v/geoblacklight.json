@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b5644v95v",
+  "layer_slug_s": "princeton-b5644v95v",
+  "uuid": "princeton-b5644v95v",
+  "dc_title_s": "Long County, Georgia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-81.982461, -81.492255, 31.923596, 31.538101)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Long County, Georgia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Long County",
+    "Long",
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:39:47Z",
+  "layer_id_s": "restricted-figgy:632c90b2-2a63-4ed0-8973-0e9a82ca8f16",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1d6cff17-8f4b-42a9-a359-bb25a51cb32f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f889ced1-6781-4d0e-b1d4-fec505aff237/file/c88fe4c3-9140-472a-8cdc-82a51768fe03\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/632c90b2-2a63-4ed0-8973-0e9a82ca8f16/file/f1e7279d-c8fc-48fc-9cf6-75ea2ebe58ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/632c90b2-2a63-4ed0-8973-0e9a82ca8f16/file/8dc1d654-4293-4fad-be00-9952079ce174\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

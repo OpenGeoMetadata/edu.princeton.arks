@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qw38g",
+  "layer_slug_s": "princeton-5m60qw38g",
+  "uuid": "princeton-5m60qw38g",
+  "dc_title_s": "Jackson County, Mississippi land parcels, 2006",
+  "solr_geom": "ENVELOPE(-88.884375, -88.395852, 30.736059, 30.318055)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Mississippi, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jackson County",
+    "Jackson",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:09:29Z",
+  "layer_id_s": "restricted-figgy:0ddc5730-d14c-4a62-8e24-f287f458b0f4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3d16cd39-e9eb-4c5e-a295-7e15a2d52efa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f52deb63-7c54-415b-bfc5-cc6011ffe4c0/file/2d9ac5cd-1ce3-4c47-bfb4-297a12f11850\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ddc5730-d14c-4a62-8e24-f287f458b0f4/file/868c85d3-def6-4281-8a1a-45af196cee04\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ddc5730-d14c-4a62-8e24-f287f458b0f4/file/c67f9c09-3632-4e24-9f1f-bbb03d312f5c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

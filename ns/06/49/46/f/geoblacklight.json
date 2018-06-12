@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ns064946f",
+  "layer_slug_s": "princeton-ns064946f",
+  "uuid": "princeton-ns064946f",
+  "dc_title_s": "Carroll County, Maryland land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.310892, -76.787546, 39.720783, 39.348404)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Carroll County, Maryland, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maryland",
+    "Carroll",
+    "Carroll County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:57Z",
+  "layer_id_s": "restricted-figgy:9e84a89c-e2fb-4bee-a7b5-d00c6789b6f9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b178bf1d-1da5-4f1b-a68a-ebdbe73ff599\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d450948d-a00a-42dd-8ce8-6c06ca51aeb4/file/a2e79bc9-d801-423f-80c6-52c1f415596d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9e84a89c-e2fb-4bee-a7b5-d00c6789b6f9/file/2ce3562c-fd91-4fb4-b14d-b133acc876c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9e84a89c-e2fb-4bee-a7b5-d00c6789b6f9/file/33479550-ead8-4f4e-97a6-a86119e3f60b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sb3979965",
+  "layer_slug_s": "princeton-sb3979965",
+  "uuid": "princeton-sb3979965",
+  "dc_title_s": "Belize Major Lakes, 1995",
+  "solr_geom": "ENVELOPE(-88.359657, -88.287056, 17.403191, 17.19055)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Belize created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Belize"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:26Z",
+  "layer_id_s": "restricted-figgy:3515f510-0469-4dff-9bf5-cb7dc750d257",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5f19b218-52b4-44f5-9645-731a5f2031fb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13cdc15d-ef16-4b74-9961-dbc3500f30e0/file/3f341bba-d68d-4619-9bc1-6813e56b61ae\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3515f510-0469-4dff-9bf5-cb7dc750d257/file/1f142147-14a8-4e0d-940f-4002e172490d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3515f510-0469-4dff-9bf5-cb7dc750d257/file/a1697159-3447-4fae-a652-56329d5ec8b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

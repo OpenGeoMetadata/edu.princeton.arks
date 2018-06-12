@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pv63g169w",
+  "layer_slug_s": "princeton-pv63g169w",
+  "uuid": "princeton-pv63g169w",
+  "dc_title_s": "Alaska Tracts 2002",
+  "solr_geom": "ENVELOPE(-178.227822, -130.007704, 71.38269, 51.590982)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Alaska Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Alaska.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Alaska"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:54:56Z",
+  "layer_id_s": "restricted-figgy:4e12846f-3c64-4c66-8d94-ad5fb1964fef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/3704731b-07e6-4fdd-ac0c-1ff9bf78a142\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9cacd376-4472-4c08-8783-bd76a573e8eb/file/8e86bfe7-ce6a-4280-80e6-8429f2812f7c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e12846f-3c64-4c66-8d94-ad5fb1964fef/file/399f2425-3119-4d03-8253-8814b413d927\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e12846f-3c64-4c66-8d94-ad5fb1964fef/file/dec1d8aa-f8fd-417c-94dd-013e0a763193\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

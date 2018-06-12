@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ww72bd26c",
+  "layer_slug_s": "princeton-ww72bd26c",
+  "uuid": "princeton-ww72bd26c",
+  "dc_title_s": "Missouri Tracts 2002",
+  "solr_geom": "ENVELOPE(-95.774704, -89.098843, 40.613641, 35.995683)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Missouri Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Missouri.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Missouri"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:49:56Z",
+  "layer_id_s": "restricted-figgy:df6fd57c-ee90-4016-9e8e-2fef4cf15435",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a72a9d8-4fd1-4665-984b-0dc506e87b4b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4a5f2fd9-ca80-4e68-8fef-e99b13492291/file/58b65cfb-4d40-4b9d-84e8-1bacbe661578\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/df6fd57c-ee90-4016-9e8e-2fef4cf15435/file/cdd4c908-6631-446b-a69f-cf6dc2d69eae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df6fd57c-ee90-4016-9e8e-2fef4cf15435/file/a0839610-62ba-4e0f-82fb-2d34f47449fe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

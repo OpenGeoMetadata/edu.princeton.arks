@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cv43p1264",
+  "layer_slug_s": "princeton-cv43p1264",
+  "uuid": "princeton-cv43p1264",
+  "dc_title_s": "Butte County, California roads, 2009",
+  "solr_geom": "ENVELOPE(-122.046881, -121.108374, 40.152369, 39.301547)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Butte County, California, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Butte County",
+    "Butte",
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-05T00:34:46Z",
+  "layer_id_s": "restricted-figgy:331f856a-8202-4d86-a666-fd1c4ef8f6ea",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/40e3bf33-f5b4-4b26-b813-7986949075f0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9fd96416-3a96-4a44-9728-4b253720ecbe/file/263a300a-f9d7-4eaf-897e-423214fc199b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/331f856a-8202-4d86-a666-fd1c4ef8f6ea/file/90ec3c25-d363-4250-8dd5-445f5ffff698\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/331f856a-8202-4d86-a666-fd1c4ef8f6ea/file/087a1c7f-5e8f-4c3a-8ee4-2edee7250084\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

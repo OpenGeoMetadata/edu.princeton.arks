@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m039k837c",
+  "layer_slug_s": "princeton-m039k837c",
+  "uuid": "princeton-m039k837c",
+  "dc_title_s": "Galveston County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-95.233049, -94.370907, 29.598036, 29.083883)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Galveston County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Galveston County",
+    "Galveston",
+    "Texas",
+    "Gulf of Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-04-05T01:09:08Z",
+  "layer_id_s": "restricted-figgy:dd889a53-d0d0-4920-8a2d-e0896dc65889",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/47661d46-3b21-49eb-b0a8-f75de5d456c5\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af8af61c-2abd-4dc0-bae3-77cd660c57ab/file/44e4b511-ab69-4dd6-b4c2-a4edcf93c423\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd889a53-d0d0-4920-8a2d-e0896dc65889/file/8fd7128a-141e-4b88-b624-c40863755d96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd889a53-d0d0-4920-8a2d-e0896dc65889/file/caf0deca-898a-469d-bd08-c30d33c7a1b9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

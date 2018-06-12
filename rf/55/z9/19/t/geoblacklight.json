@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rf55z919t",
+  "layer_slug_s": "princeton-rf55z919t",
+  "uuid": "princeton-rf55z919t",
+  "dc_title_s": "Sweden Major Airports, 2005",
+  "solr_geom": "ENVELOPE(11.871667, 22.124695, 67.823334, 55.529999)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Sweden major airports created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Airports",
+    "Transportation",
+    "Major Airports"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:05Z",
+  "layer_id_s": "restricted-figgy:5f32ac99-f8c2-4593-af33-5c67b9bf80b4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9626cd6d-4d55-4767-96c4-a1e93d7c5835\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/899aa110-7508-4ef2-a840-85dba63cb602/file/5eef640f-5847-4fff-b940-cf1c7986d26b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f32ac99-f8c2-4593-af33-5c67b9bf80b4/file/d166bb30-819b-4eea-b686-3e1eb22e9435\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f32ac99-f8c2-4593-af33-5c67b9bf80b4/file/e759a0a9-ca52-48fd-be2b-7b502fcaa117\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

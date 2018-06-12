@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vq27zr891",
+  "layer_slug_s": "princeton-vq27zr891",
+  "uuid": "princeton-vq27zr891",
+  "dc_title_s": "St. Louis, Missouri roads, 2012",
+  "solr_geom": "ENVELOPE(-90.319739, -90.175422, 38.774425, 38.533594)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in City of St. Louis, Missouri, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "St. Louis",
+    "City of St. Louis",
+    "Missouri",
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:11:15Z",
+  "layer_id_s": "restricted-figgy:b578c9ca-e39e-4e4a-8697-03e64be76e04",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e8660833-d7e2-47ad-8a72-20e849118b95\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0ee28342-2cd4-463e-a186-6cd7c3af7b3f/file/28789e3c-9c52-4030-b016-c33b97c4fd9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b578c9ca-e39e-4e4a-8697-03e64be76e04/file/fb939ac5-a946-41dd-a6bc-1a12b2b7634f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b578c9ca-e39e-4e4a-8697-03e64be76e04/file/57ba4c05-aeec-4efa-8f9b-3f449153b2b2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

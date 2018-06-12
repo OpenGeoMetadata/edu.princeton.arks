@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cf95jc98s",
+  "layer_slug_s": "princeton-cf95jc98s",
+  "uuid": "princeton-cf95jc98s",
+  "dc_title_s": "U.S. Drainage Systems (Generalized) 2000",
+  "solr_geom": "ENVELOPE(-164.765831, -73.140418, 67.462092, 25.845557)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Drainage Systems (Generalized) represents the major drainage systems within United States.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "drainage",
+    "drainage systems",
+    "rivers",
+    "hydrography"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1992",
+    "1991",
+    "1990"
+  ],
+  "solr_year_i": 1992,
+  "layer_modified_dt": "2018-04-05T02:54:45Z",
+  "layer_id_s": "restricted-figgy:210ae965-26ee-4800-a392-ed9f95b1bb29",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/5a6a6910-b5dc-4458-b20e-aaf70e1d3b73\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/23a0b2f1-d512-4d02-bafa-7a66bd68ca59/file/683f8f57-dc92-4cbb-a4d8-fe6cb95435e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/210ae965-26ee-4800-a392-ed9f95b1bb29/file/6475b3b2-be39-48f9-bed0-577820dbfc11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/210ae965-26ee-4800-a392-ed9f95b1bb29/file/56916de4-b878-4c91-987d-dc392bd9b9b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

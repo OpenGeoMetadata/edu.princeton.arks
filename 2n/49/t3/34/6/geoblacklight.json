@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2n49t3346",
+  "layer_slug_s": "princeton-2n49t3346",
+  "uuid": "princeton-2n49t3346",
+  "dc_title_s": "Japan Major Highways, 1995",
+  "solr_geom": "ENVELOPE(129.937637, 142.330307, 43.812267, 31.248861)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Japan major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:56Z",
+  "layer_id_s": "restricted-figgy:1f3258cf-212d-4a39-8554-1bf278f0f941",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6388e48d-e0b9-4f9b-9e94-71d025ee69fa\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a416a597-68ba-4666-89bf-6a11abe44c5f/file/de379495-db56-413f-8378-0d2078ac4e67\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f3258cf-212d-4a39-8554-1bf278f0f941/file/aa9245be-17eb-4c8f-ae56-88d8c09d7397\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f3258cf-212d-4a39-8554-1bf278f0f941/file/4b061950-4159-4ede-9704-753a518be2ac\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

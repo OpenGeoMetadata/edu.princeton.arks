@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g158bm74s",
+  "layer_slug_s": "princeton-g158bm74s",
+  "uuid": "princeton-g158bm74s",
+  "dc_title_s": "Kern County, California land parcels, 2012",
+  "solr_geom": "ENVELOPE(-120.194369, -117.616518, 35.798393, 34.78858)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Kern County, California, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Kern",
+    "Kern County",
+    "California",
+    "Bakersfield",
+    "Sierra Nevada",
+    "Southern Coast Ranges",
+    "San Joaquin Valley",
+    "Mojave Desert",
+    "Giant Sequoia National Monument",
+    "Los Padres National Forest",
+    "Sequoia National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T00:35:20Z",
+  "layer_id_s": "restricted-figgy:4c3bc462-466f-4a8b-b513-68756ffc17ab",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/de3c4a3b-2187-4bb9-9ad1-c7ee18203615\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f774e68c-9d9c-4af7-9499-52fe8de948eb/file/b41308b2-c037-4ee8-b8fe-af1de49a91e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4c3bc462-466f-4a8b-b513-68756ffc17ab/file/3748c397-5bd1-48c4-ab0b-9a5cfc631471\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4c3bc462-466f-4a8b-b513-68756ffc17ab/file/3c709cf7-1ab0-42ba-94a9-251d557ba1c5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

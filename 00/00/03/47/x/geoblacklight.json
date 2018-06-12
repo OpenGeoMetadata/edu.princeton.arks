@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/00000347x",
+  "layer_slug_s": "princeton-00000347x",
+  "uuid": "princeton-00000347x",
+  "dc_title_s": "Sandoval County, New Mexico land parcels, 2011",
+  "solr_geom": "ENVELOPE(-107.219637, -106.240449, 36.223707, 35.179472)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Sandoval County, New Mexico, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sandoval County",
+    "Sandoval",
+    "New Mexico",
+    "Albuquerque",
+    "Rio Rancho",
+    "Kasha-Katuwe Tent Rocks National Monument"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:20Z",
+  "layer_id_s": "restricted-figgy:b9f5ea6e-fadd-4641-9efd-a134f7bc352d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8a586f83-ae4d-4310-8cb2-c164d9035b3a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/34588717-0a7e-47ab-b3c4-ffdaedf35238/file/2f06db95-51a7-41c0-87dd-a826aa4ed534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9f5ea6e-fadd-4641-9efd-a134f7bc352d/file/efb0eeef-448d-49da-a1a4-b44ac22cc933\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9f5ea6e-fadd-4641-9efd-a134f7bc352d/file/cd6fe878-ec05-4142-a28c-f1c73c1c18e7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

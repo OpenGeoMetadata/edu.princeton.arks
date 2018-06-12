@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4b29b938p",
+  "layer_slug_s": "princeton-4b29b938p",
+  "uuid": "princeton-4b29b938p",
+  "dc_title_s": "Coshocton County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-82.195898, -81.616315, 40.456274, 40.150967)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Coshocton County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Coshocton",
+    "Coshocton County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:38:31Z",
+  "layer_id_s": "restricted-figgy:c7201f0b-149c-4055-9cb6-cf2edae19c15",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/22991d48-0f15-4128-9a9e-52c64f41b0a2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/07432881-32a9-42ef-ac3f-5cf69ced551f/file/17d8224a-737d-44b2-8584-140c2e07aa5f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7201f0b-149c-4055-9cb6-cf2edae19c15/file/1b73f02d-4494-4141-ba08-b9ba87d63621\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7201f0b-149c-4055-9cb6-cf2edae19c15/file/5335c86d-19b8-4314-a42b-85bac3e74951\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

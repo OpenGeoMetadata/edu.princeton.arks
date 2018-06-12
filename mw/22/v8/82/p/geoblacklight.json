@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mw22v882p",
+  "layer_slug_s": "princeton-mw22v882p",
+  "uuid": "princeton-mw22v882p",
+  "dc_title_s": "Cumberland County, Pennsylvania land parcels, 2011",
+  "solr_geom": "ENVELOPE(-77.617114, -76.859061, 40.328205, 39.944524)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cumberland County, Pennsylvania, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cumberland",
+    "Cumberland County",
+    "Pennsylvania",
+    "Susquehanna River"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T21:48:42Z",
+  "layer_id_s": "restricted-figgy:e701226d-6d7f-45dc-845c-46617338eb32",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b4511398-cf6b-4de1-9015-0ba1aa3211df\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0678934d-6964-4825-b992-cb9cbc23e455/file/779b66f6-8106-4ffb-9f2a-84ae4845d868\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e701226d-6d7f-45dc-845c-46617338eb32/file/14e0880c-7db5-467f-8bc7-bb09af1ff750\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e701226d-6d7f-45dc-845c-46617338eb32/file/42b60a39-eaa3-4dd2-8371-655e1902300f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

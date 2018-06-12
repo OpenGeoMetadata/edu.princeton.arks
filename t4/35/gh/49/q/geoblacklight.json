@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/t435gh49q",
+  "layer_slug_s": "princeton-t435gh49q",
+  "uuid": "princeton-t435gh49q",
+  "dc_title_s": "Osage County, Kansas land parcels, 2008",
+  "solr_geom": "ENVELOPE(-95.950233, -95.500521, 38.870023, 38.433968)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Osage County, Kansas, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Osage County",
+    "Osage",
+    "Kansas"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-05T01:11:51Z",
+  "layer_id_s": "restricted-figgy:ad600eda-4290-414e-b322-92fc4f4d702e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/016abf73-f393-48b8-a549-f1c7eb7bd9d1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/82ba6e1e-def7-4d90-ac5b-2f46d7db0635/file/535510f0-11dc-423f-8a10-f7aa4eec0cc2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad600eda-4290-414e-b322-92fc4f4d702e/file/06f226d5-491d-47db-9804-f6d9b4592a60\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad600eda-4290-414e-b322-92fc4f4d702e/file/d8e7dae0-1cf3-45cd-b756-568806bfa164\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

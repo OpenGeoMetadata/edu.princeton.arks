@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/nz8061189",
+  "layer_slug_s": "princeton-nz8061189",
+  "uuid": "princeton-nz8061189",
+  "dc_title_s": "France Major Rivers, 2005",
+  "solr_geom": "ENVELOPE(-4.282934, 9.548853, 51.003703, 42.10332)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major rivers of France created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Rivers",
+    "Inland Waters",
+    "Major rivers"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T01:21:42Z",
+  "layer_id_s": "restricted-figgy:45920dc5-7f44-4da7-aea7-aaeb89c55043",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/257555ad-ea4f-46cc-a6ed-222244237e9d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af288f45-398f-4770-9b91-c6ee1b7c176e/file/c4c27b64-4e56-4fb1-9f5e-04b6841f985e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/45920dc5-7f44-4da7-aea7-aaeb89c55043/file/7f8e3a4e-78fc-4c49-aeb6-1d120e1e151e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/45920dc5-7f44-4da7-aea7-aaeb89c55043/file/df78b9cc-617b-4376-979d-0af453aa011c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

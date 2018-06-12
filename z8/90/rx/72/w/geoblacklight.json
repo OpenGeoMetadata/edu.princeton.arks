@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z890rx72w",
+  "layer_slug_s": "princeton-z890rx72w",
+  "uuid": "princeton-z890rx72w",
+  "dc_title_s": "Global 4G mobile coverage, 2015",
+  "solr_geom": "ENVELOPE(-139.856055, 178.145985, 69.715053, -53.323595)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Representation of the area covered by 4G mobile communications around the world as of December 2015.",
+  "dc_creator_sm": [
+    "Collins Bartholomew Ltd."
+  ],
+  "dc_subject_sm": [
+    "telephone",
+    "telephones",
+    "telecommunications",
+    "telecom",
+    "mobile",
+    "network",
+    "coverage",
+    "communications",
+    "roaming",
+    "GSMA",
+    "4G",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2018-04-05T01:11:31Z",
+  "layer_id_s": "restricted-figgy:0935d229-1723-43ab-92f3-046220105cbc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/251a833b-3298-4741-bb79-3af34641f092\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afe25ffe-aea0-4bea-9051-38e48e297955/file/e39bf110-f73d-42d1-aa9f-2d40ea44b212\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0935d229-1723-43ab-92f3-046220105cbc/file/263875f5-694c-427c-b457-47ed737384b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0935d229-1723-43ab-92f3-046220105cbc/file/f9aed433-0299-41b0-ab26-18901dc4bfdd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612s025",
+  "layer_slug_s": "princeton-08612s025",
+  "uuid": "princeton-08612s025",
+  "dc_title_s": "Boone County, Illinois land parcels, 2014",
+  "solr_geom": "ENVELOPE(-88.941003, -88.705468, 42.495076, 42.152326)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Boone County, Illinois, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Boone",
+    "Boone County",
+    "Rockford"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2008"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:13:14Z",
+  "layer_id_s": "restricted-figgy:d2bd3f93-1543-47f1-b769-06f0efd8a1d2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/55b576fb-0237-4382-897b-ea0f17c231d0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cfdaca41-9815-40bc-ae21-6f3a1719f3a8/file/ed50c445-5b31-4f85-8b56-7a6fa49c61c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2bd3f93-1543-47f1-b769-06f0efd8a1d2/file/1f2a63f9-2b8f-4bfe-b2da-b79d2e82d042\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2bd3f93-1543-47f1-b769-06f0efd8a1d2/file/927dc2d9-f7f6-4292-9013-6f0a70e30766\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

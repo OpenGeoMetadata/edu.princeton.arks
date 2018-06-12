@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5712m9894",
+  "layer_slug_s": "princeton-5712m9894",
+  "uuid": "princeton-5712m9894",
+  "dc_title_s": "Union County, Ohio land parcels, 2014",
+  "solr_geom": "ENVELOPE(-83.551338, -83.169845, 40.507361, 40.106974)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Union County, Ohio, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Union",
+    "Union County",
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:15:46Z",
+  "layer_id_s": "restricted-figgy:77e5c1c6-314c-4ae8-8dd0-2cec0ad98491",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/842d9425-b5d6-4c2d-a528-c50555efbc6d\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e1d5f18e-dd03-4e7e-8b29-1078b4df5a21/file/19918176-3a8a-4516-b579-6e20ebf9c894\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77e5c1c6-314c-4ae8-8dd0-2cec0ad98491/file/7c1c679c-87f5-4a4a-8434-e6f72aa00a9f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77e5c1c6-314c-4ae8-8dd0-2cec0ad98491/file/5c3652e1-6b75-423d-a763-56dc1696f34a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

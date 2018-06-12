@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cj82kb74d",
+  "layer_slug_s": "princeton-cj82kb74d",
+  "uuid": "princeton-cj82kb74d",
+  "dc_title_s": "Chisago County, Minnesota land parcels, 2014",
+  "solr_geom": "ENVELOPE(-93.142048, -92.647543, 45.730935, 45.296196)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Chisago County, Minnesota, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Minnesota",
+    "Chisago",
+    "Chisago County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:00Z",
+  "layer_id_s": "restricted-figgy:b901cd72-d9bb-4b66-b295-81f02c1a71a9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/04bd5f0e-0253-449a-9ac7-425970af18a8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9e3aadce-8e3b-4cf3-863c-a0423003f9f1/file/caf30e02-e459-4c03-a942-cc4467691638\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b901cd72-d9bb-4b66-b295-81f02c1a71a9/file/5fa19c7e-6b0e-44a9-b3fd-f04f8d38f404\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b901cd72-d9bb-4b66-b295-81f02c1a71a9/file/f08970b8-6e97-4a70-9e39-688de223abd3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

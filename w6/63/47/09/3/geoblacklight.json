@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w66347093",
+  "layer_slug_s": "princeton-w66347093",
+  "uuid": "princeton-w66347093",
+  "dc_title_s": "Daniels County, Montana land parcels, 2011",
+  "solr_geom": "ENVELOPE(-106.151932, -104.973292, 48.999723, 48.563113)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Daniels County, Montana, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Daniels County",
+    "Daniels",
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:09:32Z",
+  "layer_id_s": "restricted-figgy:2f89edb3-7f69-4b86-8275-aeb8ba1a8dc8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8467ffa1-cd20-4218-88a0-8bb48f85dbbd\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2e1b94f3-d055-411b-ba4d-0eba9d3f80af/file/84cbf40f-21aa-46a9-a568-6f6d72992f6f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f89edb3-7f69-4b86-8275-aeb8ba1a8dc8/file/dfd7dede-5c98-488a-ad43-a743891a3f1a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f89edb3-7f69-4b86-8275-aeb8ba1a8dc8/file/a330dd8b-dccf-4f6d-bced-d1d276ef3ff3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

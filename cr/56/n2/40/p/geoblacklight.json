@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cr56n240p",
+  "layer_slug_s": "princeton-cr56n240p",
+  "uuid": "princeton-cr56n240p",
+  "dc_title_s": "Germany Elevations",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include elevations of Germany created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Elevation",
+    "Physical map"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:29Z",
+  "layer_id_s": "restricted-figgy:4f40b396-2418-4e54-bee0-2b60eab1ab9d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6cc61d79-2713-4cf5-b972-dd8f6c47165a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13190026-1293-4ee0-b469-7debf711b5b9/file/46e26bd0-4680-43ab-b3e9-8bb130df768d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f40b396-2418-4e54-bee0-2b60eab1ab9d/file/b8468ec1-4b6d-4a8b-87c9-08a32885ffda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f40b396-2418-4e54-bee0-2b60eab1ab9d/file/9c364bcb-874a-49a5-876f-3eef1edcaa0f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

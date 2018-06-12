@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/44558g04m",
+  "layer_slug_s": "princeton-44558g04m",
+  "uuid": "princeton-44558g04m",
+  "dc_title_s": "North Carolina ZIP Code Areas 2002",
+  "solr_geom": "ENVELOPE(-84.32187, -75.458716, 36.588118, 33.840123)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "North Carolina ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T02:49:45Z",
+  "layer_id_s": "restricted-figgy:fede5352-c578-430f-b296-a64ad18a495f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/d714d133-2f0c-4f97-b3d7-91fe81017055\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/40716b68-2889-44f2-b888-6d9bd0886446/file/57410360-cd7d-471c-9bc3-4b33db736986\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fede5352-c578-430f-b296-a64ad18a495f/file/189d6c19-bec7-47c9-8f08-be54eb641243\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fede5352-c578-430f-b296-a64ad18a495f/file/b1b3fd23-5f07-4dc9-b2d4-c2c1ffa669f1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

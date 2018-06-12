@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0v8383983",
+  "layer_slug_s": "princeton-0v8383983",
+  "uuid": "princeton-0v8383983",
+  "dc_title_s": "Cabell County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-82.500806, -82.044223, 38.595685, 38.228078)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Cabell County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Cabell",
+    "Cabell County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:53Z",
+  "layer_id_s": "restricted-figgy:57eb2fad-f95e-4e1b-ac04-e861551ed93b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/914d1e01-6481-4731-9756-5fdb0829b4d9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ca20f77d-8f60-4b2d-8f6b-2d09de320dd0/file/3c6d5c77-adeb-4f06-854f-d2e28baf17ea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/57eb2fad-f95e-4e1b-ac04-e861551ed93b/file/2e9e1304-72f4-4ca0-9f32-991a943966ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57eb2fad-f95e-4e1b-ac04-e861551ed93b/file/27e779ac-7618-4e78-a128-6dc9064ee6d2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

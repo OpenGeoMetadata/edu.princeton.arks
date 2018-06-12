@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pp58h",
+  "layer_slug_s": "princeton-tt44pp58h",
+  "uuid": "princeton-tt44pp58h",
+  "dc_title_s": "Trenton Police Patrol Zones",
+  "solr_geom": "ENVELOPE(-74.819202, -74.728687, 40.248589, 40.183711)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "\nThis dataset represents Police Department Patrol Zones for the City of Trenton, New Jersey\n",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "City of Trenton",
+  "dc_subject_sm": [
+    "Police Patrol zones",
+    "Society",
+    "Police Patrol Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "unkn"
+  ],
+  "layer_modified_dt": "2018-04-05T01:21:53Z",
+  "layer_id_s": "restricted-figgy:dcea7ace-55f6-4e9a-850b-fcfea726b55c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c5d93449-0128-47ff-afba-a32b0b5e5434\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c4a51555-1428-44ce-ab87-2a7da536d4a9/file/a0ee0ff6-a92a-462f-ae88-68208da93f72\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcea7ace-55f6-4e9a-850b-fcfea726b55c/file/baeb5a3f-18c6-4fdd-9bfb-9ef94dab1074\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcea7ace-55f6-4e9a-850b-fcfea726b55c/file/e142920c-ece8-4b56-9efa-d37270133d2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

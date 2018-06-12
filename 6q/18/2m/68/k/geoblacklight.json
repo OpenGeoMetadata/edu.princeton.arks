@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6q182m68k",
+  "layer_slug_s": "princeton-6q182m68k",
+  "uuid": "princeton-6q182m68k",
+  "dc_title_s": "Finland Major Highways, 2004",
+  "solr_geom": "ENVELOPE(21.648253, 28.879082, 65.2012, 60.148438)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Finland major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Major Roads",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Finland"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:53Z",
+  "layer_id_s": "restricted-figgy:5109f559-dfd4-4eaf-9241-f0237ceaca0a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/a42f9e86-f8f2-4fd3-9cb8-68562a496195\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b3cb7689-ec88-46b8-81e0-5f06e9fbbf42/file/083a80f2-0753-4762-afec-8d2e2a803d5f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5109f559-dfd4-4eaf-9241-f0237ceaca0a/file/580d238d-f425-4647-b0be-378e9a2c733c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5109f559-dfd4-4eaf-9241-f0237ceaca0a/file/221e92e6-4e05-4492-93e0-3c8abee626ca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

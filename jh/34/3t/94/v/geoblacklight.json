@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jh343t94v",
+  "layer_slug_s": "princeton-jh343t94v",
+  "uuid": "princeton-jh343t94v",
+  "dc_title_s": "Vermont Block Groups 2002",
+  "solr_geom": "ENVELOPE(-73.437741, -71.464556, 45.01666, 42.726853)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Vermont Block Groups represents the U.S. Census block groups of Vermont.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Vermont"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T01:15:55Z",
+  "layer_id_s": "restricted-figgy:f4cf9dc8-3f3d-4f36-ba23-6ed51ccc439c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bce4c273-748e-441d-9c87-e5732b443401\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f21c82e9-0b49-4253-8ae1-a22e55a6ebea/file/1f95b5a5-73d4-4458-afd3-8eeecee2d500\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4cf9dc8-3f3d-4f36-ba23-6ed51ccc439c/file/76f73866-8e33-49ec-9655-7848c70224b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4cf9dc8-3f3d-4f36-ba23-6ed51ccc439c/file/41e2ef97-400c-4e88-9a4e-5cc8ac09c2eb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

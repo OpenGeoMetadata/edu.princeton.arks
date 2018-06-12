@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cr56n442g",
+  "layer_slug_s": "princeton-cr56n442g",
+  "uuid": "princeton-cr56n442g",
+  "dc_title_s": "Jones County, Mississippi land parcels, 2014",
+  "solr_geom": "ENVELOPE(-89.401241, -88.942704, 31.824665, 31.433394)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jones County, Mississippi, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jones",
+    "Jones County",
+    "Mississippi"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:40Z",
+  "layer_id_s": "restricted-figgy:030bb485-58f9-4b75-b488-e2e92b80a0a6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/878b0301-04b2-4914-b225-0cc36050a57b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d55e381e-28e5-4e41-bcc9-6e2e662882f1/file/5dc083c5-e52b-4dc7-8823-7b24e7fc9779\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/030bb485-58f9-4b75-b488-e2e92b80a0a6/file/fad5fbbd-6bbf-4d3f-b73c-3936657c234d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/030bb485-58f9-4b75-b488-e2e92b80a0a6/file/bcd71c9d-d8a4-4ecf-bb6e-e693d0b653ea\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/37720h16k",
+  "layer_slug_s": "princeton-37720h16k",
+  "uuid": "princeton-37720h16k",
+  "dc_title_s": "Virginia Beach, Virginia land parcels, 2006",
+  "solr_geom": "ENVELOPE(-76.228117, -75.867561, 36.932557, 36.549422)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Virginia Beach, Virginia, 2006.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Virginia",
+    "Virginia Beach",
+    "Hampton Roads"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-04T22:49:29Z",
+  "layer_id_s": "restricted-figgy:72e68691-17b5-4282-8f10-c4abe5840ffd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/abc1bc51-0955-40c0-831a-2082ed5e96ae\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ae40def4-273e-4170-bdb9-acda6c130513/file/4349fc1e-de61-4496-9d6b-9982fd93cf4c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72e68691-17b5-4282-8f10-c4abe5840ffd/file/c5756151-bf48-4617-bb54-9bd86d3854e6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72e68691-17b5-4282-8f10-c4abe5840ffd/file/500c88f4-23c1-463f-82a9-3357d3d6f424\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

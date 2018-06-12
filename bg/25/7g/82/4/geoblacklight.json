@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bg257g824",
+  "layer_slug_s": "princeton-bg257g824",
+  "uuid": "princeton-bg257g824",
+  "dc_title_s": "Palm Beach County, Florida land parcels, 2009",
+  "solr_geom": "ENVELOPE(-80.886004, -80.030838, 26.970902, 26.320638)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Palm Beach County, Florida, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Palm Beach County",
+    "Palm Beach",
+    "Florida",
+    "West Palm Beach",
+    "Boca Raton"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:01:03Z",
+  "layer_id_s": "restricted-figgy:329d123a-40be-423d-a8f6-9ea3bc216885",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b930e6e3-b8b9-4387-8ab4-2d69e5db5bf9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ac0dbdf4-3632-49ab-9bff-74f25822101b/file/d3b379d0-ea54-4e2c-b607-3eb2380359ee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/329d123a-40be-423d-a8f6-9ea3bc216885/file/32dc0db9-1330-4175-8549-95334a3e4f5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/329d123a-40be-423d-a8f6-9ea3bc216885/file/eaa2a46c-3d10-4843-97c2-baa778d004a1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

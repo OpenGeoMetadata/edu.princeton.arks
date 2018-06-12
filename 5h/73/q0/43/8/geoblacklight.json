@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5h73q0438",
+  "layer_slug_s": "princeton-5h73q0438",
+  "uuid": "princeton-5h73q0438",
+  "dc_title_s": "White County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-92.119722, -91.34606, 35.534245, 35.020716)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in White County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "White",
+    "White County"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:23:25Z",
+  "layer_id_s": "restricted-figgy:a8364786-ac04-45b7-9e6f-5a5391b459e6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/659d3b2b-5cc8-48ee-9122-9f27dd5f324b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74e83741-f840-4272-bd56-803dbd1cb810/file/dfcb005a-f846-4091-9fbd-9df50e0c31b4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8364786-ac04-45b7-9e6f-5a5391b459e6/file/695e9f86-700c-42e6-8fa3-100ce358c8ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8364786-ac04-45b7-9e6f-5a5391b459e6/file/6bfe5afb-b43b-4f17-83cc-59354a39610a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

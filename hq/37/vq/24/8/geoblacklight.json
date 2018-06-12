@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hq37vq248",
+  "layer_slug_s": "princeton-hq37vq248",
+  "uuid": "princeton-hq37vq248",
+  "dc_title_s": "Mercer County, New Jersey land parcels, 2009",
+  "solr_geom": "ENVELOPE(-74.941608, -74.481095, 40.424156, 40.136771)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This GIS polygon feature data set was developed for Mercer County, New Jersey, USA, and contains tax parcels. The parcels were originally created using DVRPC digital orthophotgraphy at a scale of 1\"=200' and scanned taxed maps which were geo-referenced to the digital orthophotography. Several update cycles of the parcel layer have been conducted, with the most recent referencing the 2007 orthophotography from the New Jersey State office of GIS.",
+  "dc_creator_sm": [
+    "Civil Solutions"
+  ],
+  "dc_publisher_s": "County of Mercer",
+  "dc_subject_sm": [
+    "tax",
+    "cadastral",
+    "lot",
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "cadastral maps",
+    "ownership",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Mercer County",
+    "Trenton",
+    "Princeton",
+    "East Windsor",
+    "Ewing",
+    "Hamilton",
+    "Hightstown",
+    "Hopewell",
+    "Lawrence",
+    "Pennington",
+    "Robbinsville",
+    "West Windsor",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:49:30Z",
+  "layer_id_s": "restricted-figgy:ae7e4144-e375-43f8-acea-83cc5f630930",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7c2935eb-8d05-46cc-b73f-6c19d7f7daa9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc1fde63-bcee-490e-9cdc-e60733964b3d/file/f567f804-aa49-4d2f-9e63-225475868375\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae7e4144-e375-43f8-acea-83cc5f630930/file/48a5375b-0509-4000-bd31-5627a50b7b6a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae7e4144-e375-43f8-acea-83cc5f630930/file/86264f55-b7a4-408f-8a80-714d064f5399\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

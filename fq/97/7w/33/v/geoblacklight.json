@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fq977w33v",
+  "layer_slug_s": "princeton-fq977w33v",
+  "uuid": "princeton-fq977w33v",
+  "dc_title_s": "World Administrative Units 2008",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.6236, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Administrative Units represents the boundaries for the first-level administrative units of the world.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "polygon",
+    "administrative units",
+    "countries",
+    "international boundaries",
+    "coastlines",
+    "area",
+    "administrative unit and international codes",
+    "population",
+    "English and local names",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998",
+    "1993/1994",
+    "2000",
+    "1994",
+    "1999",
+    "2001",
+    "2002",
+    "2003",
+    "2007",
+    "2006"
+  ],
+  "solr_year_i": 1996,
+  "layer_modified_dt": "2018-04-05T02:50:06Z",
+  "layer_id_s": "restricted-figgy:74e89719-6ceb-4b39-ae67-3cd0a8d1a2af",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fe9ab569-6b2e-42b9-b5da-9c75bea91115\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/810262eb-51be-4e4d-82d1-aa625ef6417e/file/1c40f277-dfc8-4442-8fd1-4c84dcc1e91e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74e89719-6ceb-4b39-ae67-3cd0a8d1a2af/file/31da6d5f-76de-49f9-af0b-d3ffec6602eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74e89719-6ceb-4b39-ae67-3cd0a8d1a2af/file/77a3d9b9-d9d2-45bd-96c1-801bc87c8d82\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

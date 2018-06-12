@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1c18dk267",
+  "layer_slug_s": "princeton-1c18dk267",
+  "uuid": "princeton-1c18dk267",
+  "dc_title_s": "Coweta County, Georgia roads, 2014",
+  "solr_geom": "ENVELOPE(-85.011521, -84.497076, 33.511727, 33.191056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Coweta County, Georgia, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Coweta",
+    "Coweta County",
+    "Georgia",
+    "Atlanta",
+    "Chattahoochee Bend State Park"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T01:12:08Z",
+  "layer_id_s": "restricted-figgy:c56e6137-1a8a-4cd8-a627-051b953b0c1e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b516cecd-6165-4d98-a128-55fd3be03159\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2479d95d-6d45-484f-b178-43a324743ea4/file/6c699235-9b44-4aa6-ad54-41f4e7d3547a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c56e6137-1a8a-4cd8-a627-051b953b0c1e/file/b60b6136-c60c-41fb-91c3-175816c8a0a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c56e6137-1a8a-4cd8-a627-051b953b0c1e/file/a1d7e5cf-c62a-41c2-a16f-952c0ea620a6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

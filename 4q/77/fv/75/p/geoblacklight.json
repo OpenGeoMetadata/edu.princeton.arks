@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4q77fv75p",
+  "layer_slug_s": "princeton-4q77fv75p",
+  "uuid": "princeton-4q77fv75p",
+  "dc_title_s": "Grays Harbor County, Washington land parcels, 2008",
+  "solr_geom": "ENVELOPE(-124.353458, -123.158366, 47.533895, 46.790915)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grays Harbor County, Washington, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Grays Harbor",
+    "Grays Harbor County"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:47:00Z",
+  "layer_id_s": "restricted-figgy:00eb526d-8b35-4986-9330-8ef5e6788f47",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/574d0cf0-7e39-4736-b7d4-9a0a8a301696\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8a072d59-b0ed-4ead-b2d1-6ba1113b950a/file/338c18f5-b0a1-4d4e-9c7b-800a45a920b5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/00eb526d-8b35-4986-9330-8ef5e6788f47/file/384ff0bf-23aa-4b7b-b49e-77c1b6d5591d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/00eb526d-8b35-4986-9330-8ef5e6788f47/file/9af2f6a8-9149-4ecf-8411-95ff2c638e1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

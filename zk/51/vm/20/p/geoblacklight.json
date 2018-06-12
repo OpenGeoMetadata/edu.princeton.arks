@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zk51vm20p",
+  "layer_slug_s": "princeton-zk51vm20p",
+  "uuid": "princeton-zk51vm20p",
+  "dc_title_s": "Hays County, Texas land parcels, 2011",
+  "solr_geom": "ENVELOPE(-98.301859, -97.708351, 30.356478, 29.752493)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hays County, Texas, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hays",
+    "Hays County",
+    "Texas",
+    "San Marcos"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:49:22Z",
+  "layer_id_s": "restricted-figgy:fee1c5ee-000b-4f0c-8486-0a57c99293c2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/474cb384-3654-454f-8427-16826a2fa6d3\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f4f7725-5ef2-4c1e-b8a5-1d3bf026c3f9/file/d59fc7c6-985f-4dff-9102-ee4cd11f7c1b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fee1c5ee-000b-4f0c-8486-0a57c99293c2/file/f813901f-3195-4970-96b1-0f2114642691\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fee1c5ee-000b-4f0c-8486-0a57c99293c2/file/a9a1fddf-06e5-456f-ae2d-d4cc8aa2a7fc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

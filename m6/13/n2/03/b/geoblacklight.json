@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m613n203b",
+  "layer_slug_s": "princeton-m613n203b",
+  "uuid": "princeton-m613n203b",
+  "dc_title_s": "Seminole County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.459752, -80.987598, 28.877887, 28.610512)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Seminole County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Seminole County",
+    "Seminole",
+    "Florida",
+    "Orlando"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:34:52Z",
+  "layer_id_s": "restricted-figgy:edb3d642-ec8c-44d2-a233-627fee04dcb5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/09685049-d434-49f5-babd-122bc9dfe118\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc6c2273-fd1c-4df9-b6c5-2be01e92035d/file/8c7b13a0-3717-4626-974f-45d814820614\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edb3d642-ec8c-44d2-a233-627fee04dcb5/file/de7821e5-36f7-4aee-af52-658264e8be01\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edb3d642-ec8c-44d2-a233-627fee04dcb5/file/569a60b2-4dd3-40b6-96ec-5d8bf14bc949\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

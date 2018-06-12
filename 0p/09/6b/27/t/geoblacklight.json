@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0p096b27t",
+  "layer_slug_s": "princeton-0p096b27t",
+  "uuid": "princeton-0p096b27t",
+  "dc_title_s": "Steuben County, New York land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.749729, -76.965715, 42.580414, 41.998606)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Steuben County, New York, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Steuben",
+    "Steuben County",
+    "Finger Lakes"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2011"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T21:54:58Z",
+  "layer_id_s": "restricted-figgy:28cbe97d-e374-4a2b-a55e-22431258bb75",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6eef6d36-056b-497c-bdb2-8deb7a9447dc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/92138e0b-f084-4b99-ba72-0b3c69bbfc6d/file/40b94b58-cd0e-4bb5-a4b3-259b13ad40f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28cbe97d-e374-4a2b-a55e-22431258bb75/file/9e303fb7-f503-49a2-ab20-dccbf3da199c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28cbe97d-e374-4a2b-a55e-22431258bb75/file/a8b86e1f-24cb-43a9-996f-ef79dadcc8c3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

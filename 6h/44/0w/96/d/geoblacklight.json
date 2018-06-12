@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6h440w96d",
+  "layer_slug_s": "princeton-6h440w96d",
+  "uuid": "princeton-6h440w96d",
+  "dc_title_s": "Tanzania conflated historical administrative boundaries, 1950",
+  "solr_geom": "ENVELOPE(29.226769, 40.470059, -0.980016, -11.749957)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces and districts in Tanganyika (Tanzania) for 1950. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "boundary",
+    "Boundaries",
+    "administrative boundaries",
+    "administrative divisions",
+    "colony",
+    "colonies",
+    "colonial boundaries",
+    "historical boundaries",
+    "public",
+    "open access",
+    "province",
+    "provinces",
+    "district"
+  ],
+  "dct_spatial_sm": [
+    "Tanzania",
+    "Tanganyika",
+    "Zanzibar",
+    "Zanzibar Protectorate"
+  ],
+  "dct_temporal_sm": [
+    "1950",
+    "2016"
+  ],
+  "solr_year_i": 1950,
+  "layer_modified_dt": "2018-05-31T19:09:54Z",
+  "layer_id_s": "public-figgy:e4265df7-f718-4128-aae1-d99fdbca5f9a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6d42e5b5-a9a5-4d69-afd2-c539da3aa98e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/33b91a8c-1399-486d-9c95-3c201d163de1/file/c93871ba-610a-45c2-a70d-3a7de7a4c144\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4265df7-f718-4128-aae1-d99fdbca5f9a/file/9ea84458-d0c1-44ab-8a0b-0728a0993f40\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4265df7-f718-4128-aae1-d99fdbca5f9a/file/2ee1dad6-59b1-4f6e-a6ae-8767d58c77dc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

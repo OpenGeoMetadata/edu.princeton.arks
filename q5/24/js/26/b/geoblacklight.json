@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/q524js26b",
+  "layer_slug_s": "princeton-q524js26b",
+  "uuid": "princeton-q524js26b",
+  "dc_title_s": "Mason County, Washington land parcels, 2011",
+  "solr_geom": "ENVELOPE(-123.505589, -122.800235, 47.607406, 47.082159)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions in Mason County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Mason County",
+    "Mason",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:12:56Z",
+  "layer_id_s": "restricted-figgy:40c4a8e3-c4a4-4f70-bf3d-408971465118",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/48bd63a9-c2b2-4f6c-b84f-250cfa8b6b41\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4465a82a-c5a8-4f03-a449-e1ffd70bc26d/file/b6762e9e-9cb1-4f55-a1bc-e569e906e78e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40c4a8e3-c4a4-4f70-bf3d-408971465118/file/38f08442-816d-4236-9499-f8f0e9de6859\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40c4a8e3-c4a4-4f70-bf3d-408971465118/file/02939f47-3a7b-4159-8102-7b610402cafd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

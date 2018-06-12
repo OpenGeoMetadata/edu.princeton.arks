@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/r781wk484",
+  "layer_slug_s": "princeton-r781wk484",
+  "uuid": "princeton-r781wk484",
+  "dc_title_s": "Little River County, Arkansas land parcels, 2014",
+  "solr_geom": "ENVELOPE(-94.48582, -93.851915, 33.945182, 33.544003)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Little River County, Arkansas, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas",
+    "Little River",
+    "Little River County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:35:35Z",
+  "layer_id_s": "restricted-figgy:7e6cebab-98dc-4b81-9052-69f99bd3edc1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/ae387e45-578a-49e3-9b4d-ca0c10869296\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/798c26c5-f061-440c-8a79-3650375b56d8/file/dc0c6198-10b1-4718-9a62-96d0be0f617b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7e6cebab-98dc-4b81-9052-69f99bd3edc1/file/9b395f1b-5cfd-4f90-8100-e285d7b04c1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7e6cebab-98dc-4b81-9052-69f99bd3edc1/file/38978292-31c6-4087-abea-fb732abbec1e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

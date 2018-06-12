@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pk02cf205",
+  "layer_slug_s": "princeton-pk02cf205",
+  "uuid": "princeton-pk02cf205",
+  "dc_title_s": "Summers County, West Virginia land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.094648, -80.657438, 37.866609, 37.429351)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Summers County, West Virginia, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Summers",
+    "Summers County",
+    "West Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T01:10:44Z",
+  "layer_id_s": "restricted-figgy:dcefb4c3-4b6e-49c8-95ea-1aba63511190",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/881dc7d4-4183-4179-af34-0f8b12f32f5a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/abffa59b-55e3-4da5-8492-78b26a371fbc/file/01c42017-fdcd-45a6-b999-858ad45c7c8b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dcefb4c3-4b6e-49c8-95ea-1aba63511190/file/c442ed05-0fb0-44f1-9250-a6e2c3e73bf9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dcefb4c3-4b6e-49c8-95ea-1aba63511190/file/0d6c9f7a-65ba-4138-b729-b8c030a15cc6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

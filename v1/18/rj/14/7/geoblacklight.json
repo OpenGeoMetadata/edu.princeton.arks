@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v118rj147",
+  "layer_slug_s": "princeton-v118rj147",
+  "uuid": "princeton-v118rj147",
+  "dc_title_s": "Infogroup Business Locations for Arkansas, 2016",
+  "solr_geom": "ENVELOPE(-94.6025, -89.7247, 36.4993, 33.0079)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing businesses in Arkansas for 2016, taken from ESRI's national Infogroup Business Locations data. This dataset contains the locations of over 13 million private and public companies in United States. Businesses can be retrieved by their Standard Industrial Classification Code (SIC) as well as by North American Industry Classification System (NAICS) Code and Location.",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "business",
+    "businesses",
+    "sales",
+    "assets",
+    "headquarters",
+    "branch",
+    "branches",
+    "employment",
+    "employees",
+    "workers",
+    "workforce",
+    "SIC code",
+    "SIC codes",
+    "NAICS code",
+    "NAICS codes",
+    "economy"
+  ],
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "solr_year_i": 2016,
+  "layer_modified_dt": "2018-05-31T19:09:48Z",
+  "layer_id_s": "restricted-figgy:668aa707-835c-420c-88ff-8ecc2edddbd0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e168f7bd-463c-4655-9f69-50ee225ef294\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39f69446-340b-4d51-b51a-0a8f063f9a23/file/228adcc7-0d2c-4d07-90bf-2fad03fad6f1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/668aa707-835c-420c-88ff-8ecc2edddbd0/file/76347e98-d2c0-4ffa-9b84-e1acd4775b57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/668aa707-835c-420c-88ff-8ecc2edddbd0/file/76b09ffc-c6e9-4bb6-8b06-26873f9745a5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

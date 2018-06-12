@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vm40xt19q",
+  "layer_slug_s": "princeton-vm40xt19q",
+  "uuid": "princeton-vm40xt19q",
+  "dc_title_s": "Denmark Major Power Lines, 2005",
+  "solr_geom": "ENVELOPE(8.103958, 15.074909, 57.69579, 54.69508)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Denmark created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Denmark"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:51Z",
+  "layer_id_s": "restricted-figgy:602b591b-4e68-4a10-8c59-f5bb1c753199",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8d2f2e92-2e88-4393-97de-c80c0869bb65\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/181c6c91-a860-410b-9a23-e456935c5a9e/file/80a8f0d3-2cc7-443b-80ac-e282a3d2d11f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/602b591b-4e68-4a10-8c59-f5bb1c753199/file/f61ad224-2fe2-4b33-8a07-05bce7538018\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/602b591b-4e68-4a10-8c59-f5bb1c753199/file/a449ed0a-67cc-47a0-b6fe-9105fd0292f0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

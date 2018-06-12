@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj1393573",
+  "layer_slug_s": "princeton-sj1393573",
+  "uuid": "princeton-sj1393573",
+  "dc_title_s": "Belarus Power Lines, 2004",
+  "solr_geom": "ENVELOPE(23.4, 32.535862, 56.037651, 51.447431)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major powerlines of Belarus created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Utilities and Communication",
+    "power lines"
+  ],
+  "dct_spatial_sm": [
+    "Belarus"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2004"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:59:33Z",
+  "layer_id_s": "restricted-figgy:9535e64b-1a25-462b-9382-17af2502f626",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0efc12a1-9239-485e-a936-5d4df5baf34e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cce024f6-c45f-4a30-bcae-deae3ac94856/file/11167bde-004f-4165-ad23-fa676c3854be\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9535e64b-1a25-462b-9382-17af2502f626/file/359db91d-48a7-469d-81f3-589ac3e82ec0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9535e64b-1a25-462b-9382-17af2502f626/file/c5feac7c-8a7d-4b21-9c62-1760304f0cd8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

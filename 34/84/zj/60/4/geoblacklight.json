@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3484zj604",
+  "layer_slug_s": "princeton-3484zj604",
+  "uuid": "princeton-3484zj604",
+  "dc_title_s": "United Kingdom Cities With Population From 20 Thousand To 50 Thousand, 2005",
+  "solr_geom": "ENVELOPE(-6.667269, 1.41911, 57.653034, 50.123116)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes United Kingdom cities with population between 20 thousand and 50 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 20K"
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "UK"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:29Z",
+  "layer_id_s": "restricted-figgy:a8c5e5fe-e737-497c-958c-c8c297b0589e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b5d9d30a-e5ef-4437-b45c-86c65bbea603\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ccc60b0f-ad86-4fd3-8ca3-f3b7193db310/file/f2a528d2-855f-4ce9-8f30-408610d6baaa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8c5e5fe-e737-497c-958c-c8c297b0589e/file/ab6e972d-e930-44b1-90ef-cee05cfafe49\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8c5e5fe-e737-497c-958c-c8c297b0589e/file/bad42b9f-0cfb-4099-ab90-e8387e735c4b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

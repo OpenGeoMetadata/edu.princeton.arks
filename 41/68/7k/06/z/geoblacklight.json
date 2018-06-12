@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687k06z",
+  "layer_slug_s": "princeton-41687k06z",
+  "uuid": "princeton-41687k06z",
+  "dc_title_s": "Kansas Tracts 2002",
+  "solr_geom": "ENVELOPE(-102.051769, -94.588081, 40.003166, 36.993083)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Kansas Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Kansas.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census tracts",
+    "census block numbering areas",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Kansas"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2001"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-04-05T02:55:20Z",
+  "layer_id_s": "restricted-figgy:a404e1b6-6c2c-4a8a-a2a1-6d5d8c3f777c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6415ac33-7aad-4d40-b8e0-7d4152560ce9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b77d8a71-e709-4a66-927f-79a3198b0dff/file/dfe37d5a-3187-4bd3-942a-3edfa953211a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a404e1b6-6c2c-4a8a-a2a1-6d5d8c3f777c/file/905060d5-fbab-4c95-b9aa-a702fc883e8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a404e1b6-6c2c-4a8a-a2a1-6d5d8c3f777c/file/a133c9a7-33c0-4775-aadf-80d36a0e1216\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6395w850q",
+  "layer_slug_s": "princeton-6395w850q",
+  "uuid": "princeton-6395w850q",
+  "dc_title_s": "Mexico State, Mexico Basic Geographic Statistical Areas, 2011",
+  "solr_geom": "ENVELOPE(-100.436035, -98.625683, 20.236292, 18.576286)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Basic Geographic Statistical Areas (AGEB, Áreas Geográfico Estadísticas Básicas) in Mexico State, Mexico, 2011.",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "statistical area",
+    "statistical areas",
+    "census",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico State",
+    "State",
+    "Estado de Mexico",
+    "Estado"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:35:39Z",
+  "layer_id_s": "restricted-figgy:22ea4d4e-ed3b-4374-bdf5-324c79f34f92",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/8466cde3-a623-4d5e-95cb-c08247366c10\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9920afee-6360-4445-9bd1-38e8db779261/file/8f3085ea-7e23-4d7e-8dfa-48732e293be5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22ea4d4e-ed3b-4374-bdf5-324c79f34f92/file/8da073f4-66f8-4e35-ba7c-ca2772951d0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22ea4d4e-ed3b-4374-bdf5-324c79f34f92/file/b07a4376-e482-4c7c-a784-3456001191b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

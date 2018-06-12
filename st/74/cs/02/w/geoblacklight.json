@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/st74cs02w",
+  "layer_slug_s": "princeton-st74cs02w",
+  "uuid": "princeton-st74cs02w",
+  "dc_title_s": "Trenton Tax Blocks",
+  "solr_geom": "ENVELOPE(-74.819868, -74.728763, 40.248589, 40.184245)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "\nThis dataset contains Block boundaries based on new Block and Lot numbers used by the Tax Assessors Office as of 2005 for the City of Trenton , New Jersey\n",
+  "dc_creator_sm": [
+    "City of Trenton Division of Planning"
+  ],
+  "dc_publisher_s": "City of Trenton",
+  "dc_subject_sm": [
+    "Tax Block",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Trenton"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2018-04-05T02:49:44Z",
+  "layer_id_s": "restricted-figgy:5ae717c2-766f-431e-8eb3-bb79f052ab7c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/b11e4955-e91b-4a4c-93fb-564594576929\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c088b1a4-0605-4b65-b64f-61d6f140309a/file/4dc3e163-e362-43b2-9b49-5c0fc559b3f2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ae717c2-766f-431e-8eb3-bb79f052ab7c/file/e7fb2df6-a2bf-48c7-9794-73b2b0e0b8a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ae717c2-766f-431e-8eb3-bb79f052ab7c/file/fe879951-7b0b-41a4-884f-b5ecb2604959\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

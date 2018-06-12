@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fx719r10k",
+  "layer_slug_s": "princeton-fx719r10k",
+  "uuid": "princeton-fx719r10k",
+  "dc_title_s": "Rhode Island Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-71.892789, -71.121829, 42.018298, 41.140997)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Rhode Island Block Centroid Populations represents the population of the U.S. Census block centroids for Rhode Island.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-06-06T23:59:26Z",
+  "layer_id_s": "restricted-figgy:55e5224e-0079-4522-a806-43f39aa29dd5",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9bec25b2-7036-4c66-b7d4-2975bb6c9da8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/034f36a0-fd19-4c15-80f6-81be573c5a29/file/b4d631f2-55e5-4620-876c-1fc6a90ac2a2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55e5224e-0079-4522-a806-43f39aa29dd5/file/30a3663d-934a-4a64-92da-dfbe5b77d136\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55e5224e-0079-4522-a806-43f39aa29dd5/file/01cd3d5b-e315-41ed-b8c1-6930753a432f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4j03d1326",
+  "layer_slug_s": "princeton-4j03d1326",
+  "uuid": "princeton-4j03d1326",
+  "dc_title_s": "Washington Block Groups 2002",
+  "solr_geom": "ENVELOPE(-124.733174, -116.91558, 49.002495, 45.543542)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Washington Block Groups represents the U.S. Census block groups of Washington.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "census block groups",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Washington"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2018-05-31T19:09:56Z",
+  "layer_id_s": "restricted-figgy:be603c23-d477-4dcb-bdce-8a02b27ffdd6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/66ffaa15-51a6-48f3-b714-a959c2dc6d05\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4025a8fc-1323-4747-b304-13ab6d09b71e/file/ab2323c8-8e1e-444d-a715-ecbd294831f0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be603c23-d477-4dcb-bdce-8a02b27ffdd6/file/dd264f86-adfc-4ff5-a93d-8bcb1c736c17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be603c23-d477-4dcb-bdce-8a02b27ffdd6/file/f739c555-abe6-459a-8ff6-549fe0297b6a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/rn3012983",
+  "layer_slug_s": "princeton-rn3012983",
+  "uuid": "princeton-rn3012983",
+  "dc_title_s": "U.S. States, 2013",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. States represents the 50 states, the District of Columbia, and Puerto Rico of the United States.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_subject_sm": [
+    "polygon",
+    "area",
+    "detail",
+    "demographics",
+    "population",
+    "households",
+    "Farming",
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. States",
+    "States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010",
+    "2007",
+    "2012"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:47:15Z",
+  "layer_id_s": "restricted-figgy:bdf02dab-fad2-4c2b-b8eb-2ee28299bddb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c038f26a-853b-4d61-b663-a27408735233\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/45a91633-4741-43c4-bac4-28a1be3e7256/file/eda4221f-36e4-4f80-9032-90c1fd9ddb18\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bdf02dab-fad2-4c2b-b8eb-2ee28299bddb/file/fcf9ce5e-8153-46cd-b148-227bcd08f22a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bdf02dab-fad2-4c2b-b8eb-2ee28299bddb/file/69af704d-75f7-4956-ae32-d6a3ee33ecae\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

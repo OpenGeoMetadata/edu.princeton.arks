@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jq085m60z",
+  "layer_slug_s": "princeton-jq085m60z",
+  "uuid": "princeton-jq085m60z",
+  "dc_title_s": "New Mexico ZIP Code Areas 2002",
+  "solr_geom": "ENVELOPE(-109.050044, -103.002198, 37.000265, 31.332503)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "New Mexico ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "polygon",
+    "zip codes",
+    "areas",
+    "five-digit zip codes",
+    "post offices",
+    "population",
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2000"
+  ],
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2018-04-05T01:21:15Z",
+  "layer_id_s": "restricted-figgy:6f350fba-bf56-4f93-82e3-54fd5e21d5dc",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/225c6f65-0ac4-49e6-86de-97a50bd8a8e4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b871203a-e29d-44fe-9713-a9aebfe4b4c0/file/6a0681e0-48d6-4b87-b7a0-ccb8305a9fc9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f350fba-bf56-4f93-82e3-54fd5e21d5dc/file/a8d5bd3e-66ef-475c-bab8-0a19726d9e57\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f350fba-bf56-4f93-82e3-54fd5e21d5dc/file/c9bd849b-755b-4906-b4b2-72f0ba9051a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

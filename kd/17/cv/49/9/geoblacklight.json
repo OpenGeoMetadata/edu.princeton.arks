@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/kd17cv499",
+  "layer_slug_s": "princeton-kd17cv499",
+  "uuid": "princeton-kd17cv499",
+  "dc_title_s": "Portugal Cities With Population From 10 Thousand To 20 Thousand, 2005",
+  "solr_geom": "ENVELOPE(-27.219896, -7.153417, 41.739944, 32.635056)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Portugal cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:45:00Z",
+  "layer_id_s": "restricted-figgy:7fc085bf-1cd9-431e-af87-8595d6c3df09",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/50d83f55-5265-4d7f-bd34-8e854ca24beb\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6dca0b4-e42f-42a3-b544-55fe1a92822f/file/fd9a9098-4c7d-4fb8-b845-c9fcfb1edee0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7fc085bf-1cd9-431e-af87-8595d6c3df09/file/3d5b88bc-ccf5-4baf-9b7a-3f08fc7a879b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7fc085bf-1cd9-431e-af87-8595d6c3df09/file/25be3e56-0e16-475e-aa33-4949c1f3b85c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

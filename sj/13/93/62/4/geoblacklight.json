@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sj1393624",
+  "layer_slug_s": "princeton-sj1393624",
+  "uuid": "princeton-sj1393624",
+  "dc_title_s": "Taiwan Major Lakes, 2005",
+  "solr_geom": "ENVELOPE(120.346862, 121.517135, 24.818439, 21.972777)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data include major lakes of Taiwan created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Lakes",
+    "Inland Waters",
+    "Major lakes"
+  ],
+  "dct_spatial_sm": [
+    "Taiwan",
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:49:20Z",
+  "layer_id_s": "restricted-figgy:30939cdb-326b-4f4d-95e2-13d5f80eb927",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/09df937f-0cb8-4c4b-bff8-19b7753aa16c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fb405209-b8ed-431c-afe5-fdfe3e5fb1e2/file/07e3a052-7b4c-4949-9acd-c19d9163e0e6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30939cdb-326b-4f4d-95e2-13d5f80eb927/file/a8ad71c0-a802-433c-8f86-60a905ea2a1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30939cdb-326b-4f4d-95e2-13d5f80eb927/file/92a387e5-aaae-41bf-8c0f-2880fc5466f4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

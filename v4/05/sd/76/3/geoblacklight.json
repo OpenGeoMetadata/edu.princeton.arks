@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/v405sd763",
+  "layer_slug_s": "princeton-v405sd763",
+  "uuid": "princeton-v405sd763",
+  "dc_title_s": "Linn County, Iowa land parcels, 2014",
+  "solr_geom": "ENVELOPE(-91.835131, -91.363449, 42.29897, 41.859592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Linn County, Iowa, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Linn",
+    "Linn County",
+    "Cedar Rapids"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:30:08Z",
+  "layer_id_s": "restricted-figgy:9bb97c3c-25fb-489f-90c7-bf5f5f79ffae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/022f8611-b386-4d08-bad7-b67b6de202b8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c1cb5f3c-705a-4902-a109-31113106fbb7/file/4cbf1826-4e35-4f8f-b6e8-c88e9011c40c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9bb97c3c-25fb-489f-90c7-bf5f5f79ffae/file/2084e83b-42cb-4c05-9c5b-7de24e26f860\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9bb97c3c-25fb-489f-90c7-bf5f5f79ffae/file/7c27c75f-81e9-4b2b-9db8-c03b8177eedf\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

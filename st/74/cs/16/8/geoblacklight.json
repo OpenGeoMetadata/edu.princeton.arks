@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/st74cs168",
+  "layer_slug_s": "princeton-st74cs168",
+  "uuid": "princeton-st74cs168",
+  "dc_title_s": "Germany 3-Digit Postcode Areas, 2006",
+  "solr_geom": "ENVELOPE(5.866256, 15.041256, 55.056816, 47.270238)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Germany 3 digit postcode areas created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Postcodes",
+    "Location",
+    "Postcode Areas",
+    "3 digit"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:55:12Z",
+  "layer_id_s": "restricted-figgy:10623f7e-9877-46b3-bdff-49a0593a0a04",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1787a991-bd19-4315-a730-db34a47c5aa9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c58f69ea-8752-4366-9a0b-b4f86be52884/file/b2fa569c-d5aa-4162-8fbf-0325f13f8447\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/10623f7e-9877-46b3-bdff-49a0593a0a04/file/f5be78ab-d95c-4319-be38-2dae552eeba6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/10623f7e-9877-46b3-bdff-49a0593a0a04/file/1d814ca3-39c4-43dd-9fab-302dce982945\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

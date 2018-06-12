@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s1784q15b",
+  "layer_slug_s": "princeton-s1784q15b",
+  "uuid": "princeton-s1784q15b",
+  "dc_title_s": "Grays Harbor County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-124.353458, -123.158366, 47.533895, 46.790915)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Grays Harbor County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Grays Harbor",
+    "Grays Harbor County",
+    "Olympic National Forest",
+    "Quinault Indian Reservation",
+    "Washington State"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:02Z",
+  "layer_id_s": "restricted-figgy:cd362038-0108-419b-be1b-355b6259dc21",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/140e2889-9dfd-4da6-a525-151af62ad0d2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ab8ed93-9d3f-4660-81d8-8782d300ad53/file/1205bc2f-95a5-4daf-bfc1-e064726bed78\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd362038-0108-419b-be1b-355b6259dc21/file/d719da23-113d-4f70-8405-85a5a5f425d9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd362038-0108-419b-be1b-355b6259dc21/file/e5b02024-24e1-4f9a-b685-0e0dad343ca3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

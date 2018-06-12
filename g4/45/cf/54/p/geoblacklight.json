@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445cf54p",
+  "layer_slug_s": "princeton-g445cf54p",
+  "uuid": "princeton-g445cf54p",
+  "dc_title_s": "Erie County, New York land parcels, 2008",
+  "solr_geom": "ENVELOPE(-79.136548, -78.461702, 43.098576, 42.437939)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Erie County, New York, 2008.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "stories",
+    "floors",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "Erie",
+    "Erie County",
+    "Buffalo"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2018-04-04T22:48:03Z",
+  "layer_id_s": "restricted-figgy:629a5e8a-0faf-497b-b9d9-bee274e879e7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c38654ce-d804-4de3-8ac2-55c0ce09ea4e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/35bf5ef2-b2ce-46e5-ba74-ddbeed8162bf/file/d279e89d-4f28-441f-836c-be8145d39896\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/629a5e8a-0faf-497b-b9d9-bee274e879e7/file/bf194375-5d40-4a37-b3d1-02d1140cdff2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/629a5e8a-0faf-497b-b9d9-bee274e879e7/file/94de4570-a52e-4ede-8fc7-56e3807bba15\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

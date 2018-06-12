@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n583xz42k",
+  "layer_slug_s": "princeton-n583xz42k",
+  "uuid": "princeton-n583xz42k",
+  "dc_title_s": "Spokane County, Washington land parcels, 2014",
+  "solr_geom": "ENVELOPE(-117.823696, -117.039673, 48.047934, 47.259235)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Spokane County, Washington, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Spokane",
+    "Spokane County",
+    "Spokane Valley",
+    "Turnbull National Wildlife Refuge"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:34:53Z",
+  "layer_id_s": "restricted-figgy:ac5577c6-663d-4bf0-b4a1-5606a9491bc1",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/01ad56e4-5058-443a-832c-c1f1e1255b51\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b90c1a93-de3f-43c6-8fd1-3bf451b4755f/file/52582f66-b039-4e16-ad5b-5564ddadb1c2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac5577c6-663d-4bf0-b4a1-5606a9491bc1/file/fec95267-89f0-4051-89bb-3329d9644013\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac5577c6-663d-4bf0-b4a1-5606a9491bc1/file/012be082-00e0-4c52-a73f-e3939e55e470\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

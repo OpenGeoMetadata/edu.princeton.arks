@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vx767",
+  "layer_slug_s": "princeton-2v23vx767",
+  "uuid": "princeton-2v23vx767",
+  "dc_title_s": "Franklin County, Ohio land parcels, 2012",
+  "solr_geom": "ENVELOPE(-83.260673, -82.761907, 40.14276, 39.79492)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Ohio, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin",
+    "Franklin County",
+    "Ohio",
+    "Columbus"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:21:37Z",
+  "layer_id_s": "restricted-figgy:27d39742-fae9-4655-8726-764f7d100a72",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4bc5ed5c-c75e-4e99-b64a-12a8789b0a8a\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4b97b894-4576-4d84-bc03-8cf78f2473ee/file/2a031724-4c6b-41c8-bfee-38a59a46ebdb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27d39742-fae9-4655-8726-764f7d100a72/file/7a8870a0-0e12-4fd2-b9cc-5c6769b0832b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27d39742-fae9-4655-8726-764f7d100a72/file/85915835-8234-4874-8da3-cdc7238368e4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

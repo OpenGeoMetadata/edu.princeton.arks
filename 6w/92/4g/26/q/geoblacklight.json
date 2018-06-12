@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6w924g26q",
+  "layer_slug_s": "princeton-6w924g26q",
+  "uuid": "princeton-6w924g26q",
+  "dc_title_s": "King County, Washington roads, 2011",
+  "solr_geom": "ENVELOPE(-122.836824, -121.058818, 48.306693, 46.7383)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in King County, Washington, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "King",
+    "King County",
+    "Washington",
+    "Seattle",
+    "Lake Washington"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:46Z",
+  "layer_id_s": "restricted-figgy:9d917dbe-55cc-4dbb-a322-56efb4ad37e6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/9acfccf6-e0f3-45f4-bd44-e75617f581c0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7206c566-6e05-4e13-82bd-a83ac0f84da4/file/dc55c69f-76d3-4a49-8067-677c0a861504\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d917dbe-55cc-4dbb-a322-56efb4ad37e6/file/25cae868-4130-477d-910c-7920993cd542\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d917dbe-55cc-4dbb-a322-56efb4ad37e6/file/b5fc8e2b-9041-489c-84ac-b2013ed82f2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mc87pt70f",
+  "layer_slug_s": "princeton-mc87pt70f",
+  "uuid": "princeton-mc87pt70f",
+  "dc_title_s": "Liberty County, Montana land parcels, 2014",
+  "solr_geom": "ENVELOPE(-111.409051, -110.742454, 48.998606, 48.132215)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Liberty County, Montana, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Liberty",
+    "Liberty County",
+    "Montana",
+    "Lake Elwell"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:32Z",
+  "layer_id_s": "restricted-figgy:365a4576-8066-4048-92d1-3ed9da520443",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/101b1d98-9a0d-443a-8b6b-d080f1ff13cc\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/535ec29d-b5f0-44f0-b332-5d1979d5bac8/file/4a2ba4fc-df1b-4166-bcb1-4fce6e85f351\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/365a4576-8066-4048-92d1-3ed9da520443/file/12d8ebc7-a7a2-459e-9143-f2c7a61ec1b8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/365a4576-8066-4048-92d1-3ed9da520443/file/9273b30d-407c-496a-aa21-bb78ae2673af\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

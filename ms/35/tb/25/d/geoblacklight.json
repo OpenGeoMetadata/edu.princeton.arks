@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ms35tb25d",
+  "layer_slug_s": "princeton-ms35tb25d",
+  "uuid": "princeton-ms35tb25d",
+  "dc_title_s": "South Carolina Rivers 2002",
+  "solr_geom": "ENVELOPE(-83.351393, -78.550815, 35.209103, 32.064671)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "South Carolina Rivers represents streams and rivers within South Carolina.",
+  "dc_creator_sm": [
+    "Geographic Data Technology, Inc. (GDT)",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "line",
+    "streams",
+    "rivers",
+    "perennial",
+    "cfcc",
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "South Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2018-04-05T02:55:02Z",
+  "layer_id_s": "restricted-figgy:ec827204-da92-474a-9472-c77713e709db",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/92e6952c-7c40-4bdf-9be9-5f77685d8706\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f37be65e-09e0-4772-89d8-512cbe3db502/file/d2bd9173-1425-4c09-8dbf-2d732ed7e5a2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ec827204-da92-474a-9472-c77713e709db/file/0ff0f99a-65c0-4ffa-a7a0-8b43dad8fb4d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ec827204-da92-474a-9472-c77713e709db/file/80ed2e60-e03a-4eca-8797-bd2c24df0022\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

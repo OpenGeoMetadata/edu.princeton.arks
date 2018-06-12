@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/jd473083h",
+  "layer_slug_s": "princeton-jd473083h",
+  "uuid": "princeton-jd473083h",
+  "dc_title_s": "Surry County, North Carolina land parcels, 2011",
+  "solr_geom": "ENVELOPE(-80.972023, -80.439295, 36.562437, 36.237234)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Surry County, North Carolina, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Surry County",
+    "Surry",
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:26:01Z",
+  "layer_id_s": "restricted-figgy:cadfef51-1604-4011-8b1d-79fdc366548d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/186f0779-42b8-4180-a0b8-b1124c09c10e\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/583c2511-7b0e-4ee4-8e08-3ca949810f02/file/7c68dcec-ec45-402d-a88d-19d69b791205\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cadfef51-1604-4011-8b1d-79fdc366548d/file/63634d4d-725d-4579-9170-4516dba804cf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cadfef51-1604-4011-8b1d-79fdc366548d/file/9253f6c7-98a5-4331-805b-e50812811511\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

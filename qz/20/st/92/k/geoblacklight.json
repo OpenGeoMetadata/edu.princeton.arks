@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qz20st92k",
+  "layer_slug_s": "princeton-qz20st92k",
+  "uuid": "princeton-qz20st92k",
+  "dc_title_s": "U.S. Parks 2008",
+  "solr_geom": "ENVELOPE(-167.540447, -65.70742, 68.658579, 18.008539)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Parks represents parks and forests within United States at national, state, and local levels.",
+  "dc_creator_sm": [
+    "Tele Atlas North America, Inc.",
+    "ESRI"
+  ],
+  "dc_publisher_s": "ESRI",
+  "dc_subject_sm": [
+    "polygon",
+    "parks",
+    "national park or forest",
+    "state park or forest",
+    "local park or forest",
+    "Environment"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2006"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-04-05T03:00:05Z",
+  "layer_id_s": "restricted-figgy:d0ad044c-6f0e-4fc0-a61f-55566d93b786",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7e373554-83ed-420a-8625-7b8d2574a6b6\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1ebef7db-6b22-46f5-90a0-f19b09eb913a/file/7d3ff83a-5251-4349-a4c5-03a58c962549\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0ad044c-6f0e-4fc0-a61f-55566d93b786/file/90ab1955-6b45-4166-870e-59cd9710d307\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0ad044c-6f0e-4fc0-a61f-55566d93b786/file/55bd1a38-7a80-4ca7-b62d-b55710cad51b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

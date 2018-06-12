@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m2755",
+  "layer_slug_s": "princeton-th83m2755",
+  "uuid": "princeton-th83m2755",
+  "dc_title_s": "Sagadahoc County, Maine land parcels, 2011",
+  "solr_geom": "ENVELOPE(-70.055511, -69.759629, 44.168025, 43.636466)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Sagadahoc County, Maine, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Sagadahoc",
+    "Sagadahoc County",
+    "Maine"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:48:17Z",
+  "layer_id_s": "restricted-figgy:fbb36e01-571a-478f-bee3-a4f1e0c41c6d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/855e4f2c-76e4-4afa-a2c9-5fced073567f\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cfa234ef-84b2-4220-873a-12b47ec4be58/file/be4947d1-aa74-41ea-b8a9-42683c7a9752\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fbb36e01-571a-478f-bee3-a4f1e0c41c6d/file/c36088c9-c294-41a0-9f33-4ea463c0c935\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fbb36e01-571a-478f-bee3-a4f1e0c41c6d/file/5dcb355d-4204-4413-ac4f-6412734db768\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

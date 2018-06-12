@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/h128nj051",
+  "layer_slug_s": "princeton-h128nj051",
+  "uuid": "princeton-h128nj051",
+  "dc_title_s": "Shasta County, California roads, 2011",
+  "solr_geom": "ENVELOPE(-123.067427, -121.309072, 41.195668, 40.282592)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Shasta County, California, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Shasta",
+    "Shasta County",
+    "California",
+    "Redding"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:00:13Z",
+  "layer_id_s": "restricted-figgy:71250c59-fef8-43da-85ff-d37f12ad1b45",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/282ef078-037b-4c9c-81aa-b8f1dbe340a0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d96a6891-da5e-41a7-87be-ac6edafa27a4/file/1d6bacb4-488c-4126-a093-d88a50b1f21b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71250c59-fef8-43da-85ff-d37f12ad1b45/file/4781eee1-7127-4919-a43e-54c07d346fbd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71250c59-fef8-43da-85ff-d37f12ad1b45/file/b8515f38-c097-4b59-82c1-cdd8307d8e3c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bz60cz008",
+  "layer_slug_s": "princeton-bz60cz008",
+  "uuid": "princeton-bz60cz008",
+  "dc_title_s": "Nicaragua Major Highways, 1995",
+  "solr_geom": "ENVELOPE(-86.722588, -85.606003, 13.496907, 11.214474)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Nicaragua major highways created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "Roads",
+    "Transportation",
+    "Highways"
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1995"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T03:00:38Z",
+  "layer_id_s": "restricted-figgy:490dbb86-8990-432a-b99a-283081c86815",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7cacb9d6-0595-49fe-9d97-9df67a32add7\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/772cfbe7-a49d-4a7d-a0a3-4aa9ac97d3fc/file/0f68792e-2dda-481d-8089-31588c4f6350\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/490dbb86-8990-432a-b99a-283081c86815/file/d577dfa4-51ae-4e29-a03e-f7622d874524\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/490dbb86-8990-432a-b99a-283081c86815/file/f8d78bcf-46c1-4a8b-a22b-0589b183a4c9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/mk61rm378",
+  "layer_slug_s": "princeton-mk61rm378",
+  "uuid": "princeton-mk61rm378",
+  "dc_title_s": "Oxford County, Maine land parcels, 2014",
+  "solr_geom": "ENVELOPE(-71.083581, -70.262814, 45.337725, 43.910234)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in portions of Oxford County, Maine, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Oxford",
+    "Oxford County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:48:32Z",
+  "layer_id_s": "restricted-figgy:a8e59da7-9b3d-4ab1-b64c-724080237d13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/6046dd38-3113-4e0a-86cb-d6d192f7af8c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/711bb9c1-6e4b-461a-98ac-2718eaf10c62/file/05444ab2-ae02-46e8-afcd-63ef97c00a66\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a8e59da7-9b3d-4ab1-b64c-724080237d13/file/38880ace-5901-4a4c-be26-75704c305660\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a8e59da7-9b3d-4ab1-b64c-724080237d13/file/2af3f6d4-3f4f-4d4f-aff7-a6509479e294\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

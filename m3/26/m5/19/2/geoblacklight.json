@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/m326m5192",
+  "layer_slug_s": "princeton-m326m5192",
+  "uuid": "princeton-m326m5192",
+  "dc_title_s": "City and County of Broomfield, Colorado land parcels, 2012",
+  "solr_geom": "ENVELOPE(-105.165511, -104.961278, 40.044144, 39.8892)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in City and County of Broomfield, Colorado, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Broomfield",
+    "City and County of Broomfield",
+    "Colorado",
+    "Denver"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-05T01:10:09Z",
+  "layer_id_s": "restricted-figgy:76b1e20f-4dfb-40a3-ab0e-b5474f87fad4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/2f1c7772-d08a-415e-9cc2-cbe27aac3b4c\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/72d8ac35-87f0-4e58-8c9a-64aa94b35a59/file/d8abd094-aaf6-4d21-a1b5-493f96b1b2d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76b1e20f-4dfb-40a3-ab0e-b5474f87fad4/file/4a35f932-e8b8-4dde-9f61-0e37b671532b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76b1e20f-4dfb-40a3-ab0e-b5474f87fad4/file/6c59068c-0fb8-42d8-94d6-411943df9bb7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

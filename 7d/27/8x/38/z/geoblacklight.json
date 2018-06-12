@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7d278x38z",
+  "layer_slug_s": "princeton-7d278x38z",
+  "uuid": "princeton-7d278x38z",
+  "dc_title_s": "Butte County, California land parcels, 2014",
+  "solr_geom": "ENVELOPE(-122.069193, -121.076981, 40.151888, 39.294206)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Butte County, California, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "Butte County",
+    "Butte",
+    "Chico"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:02:19Z",
+  "layer_id_s": "restricted-figgy:c3f2bd52-ed14-4baa-a8d4-f4a7b57d4735",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/026e0cb3-8d2a-4a67-abaa-6431587ff8a0\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/88f3158a-504f-4f27-86b2-e585ec3bd465/file/f149c064-3f1b-4026-af78-ad5a5ec1d09d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3f2bd52-ed14-4baa-a8d4-f4a7b57d4735/file/5f2ca57f-d62b-423f-b2e4-8b7bda3cf035\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3f2bd52-ed14-4baa-a8d4-f4a7b57d4735/file/77e3c146-73d7-4b71-89e9-d328520626b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

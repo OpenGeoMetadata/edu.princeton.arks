@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/td96k597d",
+  "layer_slug_s": "princeton-td96k597d",
+  "uuid": "princeton-td96k597d",
+  "dc_title_s": "Mesa County, Colorado land parcels, 2014",
+  "solr_geom": "ENVELOPE(-109.060082, -107.379764, 39.36671, 38.500021)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Mesa County, Colorado, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Colorado",
+    "Mesa",
+    "Mesa County",
+    "Grand Junction"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-05T00:36:12Z",
+  "layer_id_s": "restricted-figgy:7a14a371-079e-4b3c-b026-e4429cd4ee13",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/1eab0423-50c3-4d59-a18b-c1d1c83a5c4b\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/977936d5-b974-4a3f-81d3-90a14792dab9/file/f4663677-f67b-4117-80c8-7277a79b1ddb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7a14a371-079e-4b3c-b026-e4429cd4ee13/file/e3712048-0355-4056-a74f-f562ec34635b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a14a371-079e-4b3c-b026-e4429cd4ee13/file/fc82f3fa-14e2-42a7-bf98-e8aa7cd1f9b7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

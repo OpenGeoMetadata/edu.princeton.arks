@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p6477",
+  "layer_slug_s": "princeton-z029p6477",
+  "uuid": "princeton-z029p6477",
+  "dc_title_s": "South Dakota Block Centroid Populations 2002",
+  "solr_geom": "ENVELOPE(-104.055193, -96.443954, 45.945125, 42.48333)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "South Dakota Block Centroid Populations represents the population of the U.S. Census block centroids for South Dakota.  U.S. Census blocks are the smallest geographic entities within a county for which the Census Bureau tabulates population.",
+  "dc_creator_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "census block centroids",
+    "census blocks",
+    "population",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "South Dakota"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:21:56Z",
+  "layer_id_s": "restricted-figgy:167cbf0c-a985-4d9a-88a4-b67301f8422e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/41296b3b-b560-4d2c-9e11-e75def19bad9\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc92e406-a416-40ec-8af5-22211db892db/file/fe9ca131-6ebf-4392-9ded-e0496aa6f721\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/167cbf0c-a985-4d9a-88a4-b67301f8422e/file/48b797c3-0edb-4ba1-8f76-6942e0b7b326\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/167cbf0c-a985-4d9a-88a4-b67301f8422e/file/34e17f45-c5b1-4935-9944-3cd41b943e49\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/sq87bz080",
+  "layer_slug_s": "princeton-sq87bz080",
+  "uuid": "princeton-sq87bz080",
+  "dc_title_s": "Collier County, Florida land parcels, 2011",
+  "solr_geom": "ENVELOPE(-81.845869, -80.872776, 26.516424, 25.802552)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Collier County, Florida, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Collier County",
+    "Collier",
+    "Florida"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:36:39Z",
+  "layer_id_s": "restricted-figgy:44faef0f-c48c-4533-9faa-b4a73a537e22",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/e7b148c0-3437-498a-bfea-77eb076e0534\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a42d9863-7819-4508-ac5d-9cbc5ba68c11/file/e5409716-449d-48bf-b8c9-4bbf17963cf5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/44faef0f-c48c-4533-9faa-b4a73a537e22/file/049f7cfd-77c6-4ab9-953b-bdff1619dd17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/44faef0f-c48c-4533-9faa-b4a73a537e22/file/e1a67d18-2aac-4254-bb23-d59f998f11af\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

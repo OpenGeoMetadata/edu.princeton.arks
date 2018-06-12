@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ms35td00x",
+  "layer_slug_s": "princeton-ms35td00x",
+  "uuid": "princeton-ms35td00x",
+  "dc_title_s": "Pepin County, Wisconsin land parcels, 2011",
+  "solr_geom": "ENVELOPE(-92.297648, -91.650298, 44.684356, 44.410673)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pepin County, Wisconsin, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pepin",
+    "Pepin County",
+    "Wisconsin"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2009"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-04T22:29:10Z",
+  "layer_id_s": "restricted-figgy:fd07ef85-cc94-48da-85ea-1501d8196377",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/0166ceb2-6c1f-4cf5-9820-0eb430e2d7a4\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/275262fd-6172-4825-98e8-18f0c4f36810/file/a963b336-5336-4be6-8820-57f98d23c4ad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd07ef85-cc94-48da-85ea-1501d8196377/file/ddcb148a-aa0b-4901-9562-03bb388dbda7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd07ef85-cc94-48da-85ea-1501d8196377/file/1fa68d2f-2c2e-4882-bf86-fbdec9f5cbfb\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

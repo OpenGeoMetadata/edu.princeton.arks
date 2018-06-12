@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3197xq46b",
+  "layer_slug_s": "princeton-3197xq46b",
+  "uuid": "princeton-3197xq46b",
+  "dc_title_s": "Fallon County, Montana land parcels, 2012",
+  "solr_geom": "ENVELOPE(-104.905716, -104.044191, 46.685005, 45.881918)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fallon County, Montana, 2012.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fallon",
+    "Fallon County",
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2011"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2018-04-04T22:48:15Z",
+  "layer_id_s": "restricted-figgy:84786589-1fbf-4e75-b5a4-9c6db5710fce",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/caaf2b2f-b085-4537-969d-170039da4714\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a9d6031f-23f3-4484-87f1-6ee5383384c4/file/04e61281-a554-4c5d-b7b3-4853ed2ad579\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84786589-1fbf-4e75-b5a4-9c6db5710fce/file/f46d2025-2023-4eb8-b6c1-b30da06eb62c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84786589-1fbf-4e75-b5a4-9c6db5710fce/file/28b91555-7939-45cf-8f58-11644218ca61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

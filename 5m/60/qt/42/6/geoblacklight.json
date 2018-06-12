@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5m60qt426",
+  "layer_slug_s": "princeton-5m60qt426",
+  "uuid": "princeton-5m60qt426",
+  "dc_title_s": "U.S. Geographic Names Information System Populated Place 2002",
+  "solr_geom": "ENVELOPE(-176.660538, 173.172546, 71.297638, -14.36111)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Populated Place represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
+  "dc_subject_sm": [
+    "point",
+    "populated place",
+    "place name",
+    "geographic feature",
+    "Location"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Commonwealths",
+    "Territories",
+    "Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "unkn"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2018-04-05T01:16:44Z",
+  "layer_id_s": "restricted-figgy:3367227f-28c7-40ef-8b1f-68016aa8e76e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/fea8eeda-0fa4-466b-b9ec-0451b7e1d9e1\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8dba1da2-33b2-44bd-b2d6-f2056eb19a58/file/55c92ba4-c88e-4523-8873-298eb6e31a68\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3367227f-28c7-40ef-8b1f-68016aa8e76e/file/89e05c7f-3b2a-4607-a4bd-3bc5cafe82b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3367227f-28c7-40ef-8b1f-68016aa8e76e/file/b7a76b3e-310f-44ea-bb61-110662910c77\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

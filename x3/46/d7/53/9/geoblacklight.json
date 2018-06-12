@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/x346d7539",
+  "layer_slug_s": "princeton-x346d7539",
+  "uuid": "princeton-x346d7539",
+  "dc_title_s": "Okaloosa County, Florida land parcels, 2014",
+  "solr_geom": "ENVELOPE(-86.800064, -86.388535, 30.99711, 30.378631)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Okaloosa County, Florida, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "buildings",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Florida",
+    "Okaloosa",
+    "Okaloosa County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:12:50Z",
+  "layer_id_s": "restricted-figgy:0a2c8620-583e-4df1-85c9-34a554517915",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/28e94a41-838b-4d95-903d-680a08238b98\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/76c2320c-e24f-4fc4-a73e-c6ade8ea66e1/file/c9d71f60-f772-4694-81b6-fb412b540085\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0a2c8620-583e-4df1-85c9-34a554517915/file/0829a337-2c6b-431d-bf7e-e2b9e601bee4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0a2c8620-583e-4df1-85c9-34a554517915/file/1c6ac046-b151-45ff-80ac-dc9b4083257a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

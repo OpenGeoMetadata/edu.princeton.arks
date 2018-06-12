@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/ws859k056",
+  "layer_slug_s": "princeton-ws859k056",
+  "uuid": "princeton-ws859k056",
+  "dc_title_s": "Plymouth County, Massachusetts roads, 2009",
+  "solr_geom": "ENVELOPE(-71.078992, -70.526944, 42.309465, 41.624857)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Plymouth County, Massachusetts, 2009.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "roads",
+    "highways",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth County",
+    "Plymouth",
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "solr_year_i": 2009,
+  "layer_modified_dt": "2018-04-04T22:37:55Z",
+  "layer_id_s": "restricted-figgy:97f1c50b-a54d-429c-a8c0-2ee027f0f12f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/68af4695-1ce7-4637-85bf-003dca048cc8\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4a95a68e-22ff-4027-99bd-e156bab39466/file/ee0667e9-3529-48b8-a11a-274c6850f502\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97f1c50b-a54d-429c-a8c0-2ee027f0f12f/file/95fd2c92-68e0-4ccf-afca-ee9b26a7e89c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97f1c50b-a54d-429c-a8c0-2ee027f0f12f/file/33890598-87d2-4f5d-bbcd-8edac2721e7c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

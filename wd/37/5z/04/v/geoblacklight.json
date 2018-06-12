@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wd375z04v",
+  "layer_slug_s": "princeton-wd375z04v",
+  "uuid": "princeton-wd375z04v",
+  "dc_title_s": "Austria Cities With Population From 10 Thousand To 20 Thousand, 2006",
+  "solr_geom": "ENVELOPE(9.633439, 16.572365, 48.604334, 46.66221)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "This data includes Austria cities with population between 10 thousand and 20 thousand created by GfK MACON company, Germany.",
+  "dc_creator_sm": [
+    "GfK MACON"
+  ],
+  "dc_publisher_s": "Gfk MACON Company",
+  "dc_subject_sm": [
+    "City",
+    "Location",
+    "Cities 10K"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2018-04-05T02:44:22Z",
+  "layer_id_s": "restricted-figgy:f6be2b7b-7130-4cd5-bfb0-69363204eca8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/c29414b4-a5c0-4759-88b0-03a61b7537ac\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db2477ed-93fc-4179-8487-403f0886fc69/file/607ed3f1-9ec6-484f-a4ff-39c64de4ee5e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6be2b7b-7130-4cd5-bfb0-69363204eca8/file/71975de3-5434-46f3-8e74-8f7dee7d1fde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6be2b7b-7130-4cd5-bfb0-69363204eca8/file/c72af0f0-da0b-4421-87c1-348622af85b5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5d86p367g",
+  "layer_slug_s": "princeton-5d86p367g",
+  "uuid": "princeton-5d86p367g",
+  "dc_title_s": "Greene County, Missouri land parcels, 2011",
+  "solr_geom": "ENVELOPE(-93.625752, -93.061503, 37.427343, 37.088758)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Greene County, Missouri, 2011.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "land use",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Greene",
+    "Greene County",
+    "Missouri",
+    "Springfield",
+    "Wilson's Creek National Battlefield"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2008"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-04-05T00:37:24Z",
+  "layer_id_s": "restricted-figgy:331cc9c8-247b-47c1-8553-d01395e93e47",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/beb174b8-8071-4678-8b9f-bb8ff28bc034\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5f1e78f9-0f3b-4568-a0d6-b5eef4483a90/file/24de54fc-abbb-4c22-8bd1-035e2340789f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/331cc9c8-247b-47c1-8553-d01395e93e47/file/b5134baa-ec82-4beb-a333-bb07ed1965fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/331cc9c8-247b-47c1-8553-d01395e93e47/file/c1d2b670-3235-457f-ba6d-edb4b642cb18\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b453p",
+  "layer_slug_s": "princeton-k643b453p",
+  "uuid": "princeton-k643b453p",
+  "dc_title_s": "Passaic County, New Jersey land parcels, 2014",
+  "solr_geom": "ENVELOPE(-74.503212, -74.106962, 41.203241, 40.819938)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Passaic County, New Jersey, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land value",
+    "value",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Passaic County",
+    "Passaic",
+    "Paterson",
+    "Clifton",
+    "New York",
+    "New York City"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-04-04T22:18:21Z",
+  "layer_id_s": "restricted-figgy:18bc77e4-0e7b-46f5-8997-e88b6e3756fd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/bee13024-9294-44cf-ac5f-1878b6979ce2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5ed7b613-99e7-44ff-9cca-f2f1a2394363/file/90979efa-c7b2-40ed-90a1-fec59b777197\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18bc77e4-0e7b-46f5-8997-e88b6e3756fd/file/fdf61f75-92cb-4904-a664-c92b734518b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18bc77e4-0e7b-46f5-8997-e88b6e3756fd/file/a76af6ec-a835-4acd-b6fb-50c40edf454e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}
