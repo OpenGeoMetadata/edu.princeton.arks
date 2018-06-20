@@ -13,13 +13,8 @@
   ],
   "dc_publisher_s": "ESRI",
   "dc_subject_sm": [
-    "polygon",
-    "time",
-    "time zone",
-    "greenwich mean time",
     "Location",
-    "Transportation",
-    "regions"
+    "Transportation"
   ],
   "dct_spatial_sm": [
     "World"
@@ -32,9 +27,9 @@
     "1991"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-04-05T02:45:11Z",
+  "layer_modified_dt": "2018-06-13T18:48:57Z",
   "layer_id_s": "restricted-figgy:9c3acb5e-4e3e-4469-ac47-8123364909cf",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4f4aad86-2c9d-4ead-8248-0ed173dbf765\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bb1d6a8-cc1c-49b3-95e5-ca07784fe04e/file/274aa0c2-3030-42d2-a2bc-cac41384fea0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c3acb5e-4e3e-4469-ac47-8123364909cf/file/11f47013-64ae-4f16-917f-17aeb92cbaaf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c3acb5e-4e3e-4469-ac47-8123364909cf/file/ab0a4554-70fd-4637-a234-ec5dd57e0bcd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7bb1d6a8-cc1c-49b3-95e5-ca07784fe04e/file/274aa0c2-3030-42d2-a2bc-cac41384fea0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9c3acb5e-4e3e-4469-ac47-8123364909cf/file/11f47013-64ae-4f16-917f-17aeb92cbaaf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9c3acb5e-4e3e-4469-ac47-8123364909cf/file/ab0a4554-70fd-4637-a234-ec5dd57e0bcd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
   "dc_format_s": "Shapefile"
 }

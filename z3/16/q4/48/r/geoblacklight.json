@@ -6,7 +6,7 @@
   "dc_title_s": "Center Township",
   "solr_geom": "ENVELOPE(-74.438595, -74.409816, 40.38641, 40.366424)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Jan. 1923.\" Includes text. \"5719.\" North oriented towards upper left. Historic Maps copy has sheets 21-22 of Gloucester City, N.J., series, showing Center Township.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:30:49Z",
-  "layer_id_s": "public-figgy:16a6c24c-9ef1-43db-9904-87ae9f1acdd5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/d31d64fb-76d3-4dce-aac9-314647674a4d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16a6c24c-9ef1-43db-9904-87ae9f1acdd5/file/ed38c3a4-7690-434a-a851-62ea9e462c2d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16a6c24c-9ef1-43db-9904-87ae9f1acdd5/file/ed3b43d2-6f23-4d30-8d06-900708ab2afb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2Fbe%2F6f%2Ffabe6fcdd52448b9af3fb0da62ca39f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d31d64fb-76d3-4dce-aac9-314647674a4d/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-z316q448r"
-  ]
+  "layer_modified_dt": "2018-06-07T01:30:50Z",
+  "layer_id_s": "ark:/88435/z316q448r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5360309\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16a6c24c-9ef1-43db-9904-87ae9f1acdd5/file/ed3b43d2-6f23-4d30-8d06-900708ab2afb\"}",
+  "layer_geom_type_s": "Image"
 }

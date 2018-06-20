@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Trenton, New Jersey, volume three",
   "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Including Lawrenceville, and part of Ewing, Lawrence and Hamilton Townships, New Jersey; also Morrisville and part of Yardley Township, Pennsylvania.\" Includes key, key map, streets and specials index, and text. \"324.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -33,13 +33,8 @@
     "New Jersey",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2018-06-07T03:23:02Z",
-  "layer_id_s": "public-figgy:16c7e2fc-cc19-4ea8-ab05-462c12576a9e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/31a524d3-d89f-4960-8e45-439cf2a41c39\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/16c7e2fc-cc19-4ea8-ab05-462c12576a9e/file/ee85add3-ae22-46d3-a317-d940f8845be1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/16c7e2fc-cc19-4ea8-ab05-462c12576a9e/file/2d2aee09-2ea9-4753-bbca-6609c42361cc\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f0%2F13%2Ff0%2Ff013f0d72a4d4616b706b6260ead22b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31a524d3-d89f-4960-8e45-439cf2a41c39/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-xd07gw62g"
-  ]
+  "layer_modified_dt": "2018-06-07T03:23:07Z",
+  "layer_id_s": "ark:/88435/xd07gw62g",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5612691\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c78cfa41-2ff8-4acc-a04a-a91258e9bacc/file/3c6464d2-b061-4308-aded-6a561ad3aac2\"}",
+  "layer_geom_type_s": "Image"
 }

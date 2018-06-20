@@ -6,7 +6,7 @@
   "dc_title_s": "Carteret, formerly Roosevelt, Middlesex Co., New Jersey",
   "solr_geom": "ENVELOPE(-74.254701, -74.203688, 40.604074, 40.557452)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"May 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1635.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:11:21Z",
-  "layer_id_s": "public-figgy:2cb227ea-c97a-4f21-9f1c-8b0750410dcf",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/955bc5d0-a29d-4528-9c12-bc34a9af4ce3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cb227ea-c97a-4f21-9f1c-8b0750410dcf/file/ae0f62b8-ce94-4dfc-b80b-51da806001de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cb227ea-c97a-4f21-9f1c-8b0750410dcf/file/bd61587b-91eb-44df-a0b5-cf9f6abf84b0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2Fac%2F83%2F1eac836d46794106a5c72c4ecfaf60ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/955bc5d0-a29d-4528-9c12-bc34a9af4ce3/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-4b29b891k"
-  ]
+  "layer_modified_dt": "2018-06-07T02:11:30Z",
+  "layer_id_s": "ark:/88435/4b29b891k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5519405\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cb227ea-c97a-4f21-9f1c-8b0750410dcf/file/bd61587b-91eb-44df-a0b5-cf9f6abf84b0\"}",
+  "layer_geom_type_s": "Image"
 }

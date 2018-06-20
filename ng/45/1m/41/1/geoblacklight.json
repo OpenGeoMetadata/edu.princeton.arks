@@ -6,7 +6,7 @@
   "dc_title_s": "Milford, Hunterdon County, New Jersey",
   "solr_geom": "ENVELOPE(-75.103003, -75.078757, 40.578277, 40.556343)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"November 1927.\" Includes location map, key, specials index, and text. \"3366.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:37:49Z",
-  "layer_id_s": "public-figgy:f98615a3-0b70-42b2-b42a-537c6f30583f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/cabed078-65f1-4b9b-9e67-10f9a65adffe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f98615a3-0b70-42b2-b42a-537c6f30583f/file/2cc7ed59-df50-4d82-a507-09f98a3db117\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f98615a3-0b70-42b2-b42a-537c6f30583f/file/fee8ab76-c43f-4211-ac5d-d94802957275\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F31%2Fca%2F5a31ca879b254d0290d6acc324cde17d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cabed078-65f1-4b9b-9e67-10f9a65adffe/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-ng451m411"
-  ]
+  "layer_id_s": "ark:/88435/ng451m411",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4788214\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f98615a3-0b70-42b2-b42a-537c6f30583f/file/fee8ab76-c43f-4211-ac5d-d94802957275\"}",
+  "layer_geom_type_s": "Image"
 }

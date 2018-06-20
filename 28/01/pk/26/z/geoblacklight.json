@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of West Orange, New Jersey",
   "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Index on preliminary sheet 1. Includes key, key map, streets, specials and estates, villas, &c. index, and text. \"712.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T03:00:43Z",
-  "layer_id_s": "public-figgy:a43d4d4e-7537-49be-9af1-fede3dc8bfda",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/d76fe641-e42a-4708-b5d6-7ffb3efcf718\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a43d4d4e-7537-49be-9af1-fede3dc8bfda/file/1cbe3689-ea8b-4d73-83ba-3b794152b850\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a43d4d4e-7537-49be-9af1-fede3dc8bfda/file/aac9f1f1-bf0c-4335-a38f-f63c8d9287c0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F71%2Fb1%2F6f71b1551c2344619c5d5ebf4c7fcdcb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d76fe641-e42a-4708-b5d6-7ffb3efcf718/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-2801pk26z"
-  ]
+  "layer_id_s": "ark:/88435/2801pk26z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5699469\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1eae212-7b33-4754-aed1-f9bb23588c76/file/b0eb93b6-b78b-438d-b368-2c46320cbfc7\"}",
+  "layer_geom_type_s": "Image"
 }

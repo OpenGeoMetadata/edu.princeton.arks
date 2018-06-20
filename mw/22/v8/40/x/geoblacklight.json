@@ -6,7 +6,7 @@
   "dc_title_s": "Westwood, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.055286, -74.004269, 41.000036, 40.973332)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"September 1928.\" \"3714.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:27:41Z",
-  "layer_id_s": "public-figgy:35ffcc02-55dd-46e1-bed5-88b1cebd456a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/21ba6f0f-0e1e-40ab-af51-ae25c251b55e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35ffcc02-55dd-46e1-bed5-88b1cebd456a/file/dfa5035e-0746-4e48-b6cf-664934fa9037\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35ffcc02-55dd-46e1-bed5-88b1cebd456a/file/c06dc113-bca4-408f-a7ec-019cab5fc4f0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2F32%2Fde%2F0532de225ca4493d94b731243a4d9f08%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/21ba6f0f-0e1e-40ab-af51-ae25c251b55e/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-mw22v840x"
-  ]
+  "layer_modified_dt": "2018-06-07T02:27:42Z",
+  "layer_id_s": "ark:/88435/mw22v840x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5318217\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35ffcc02-55dd-46e1-bed5-88b1cebd456a/file/c06dc113-bca4-408f-a7ec-019cab5fc4f0\"}",
+  "layer_geom_type_s": "Image"
 }

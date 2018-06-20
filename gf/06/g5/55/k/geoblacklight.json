@@ -6,7 +6,7 @@
   "dc_title_s": "Sayreville, Middlesex County, New Jersey",
   "solr_geom": "ENVELOPE(-74.386158, -74.257791, 40.509307, 40.416597)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Oct. 1931.\" Includes location map, key, key map, streets and specials index, and text. \"1511.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:51:30Z",
-  "layer_id_s": "public-figgy:ef3a8028-950a-430d-9ac5-277c0c34bd7b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/216d82c7-9afb-436d-8827-3a2363d24a55\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ef3a8028-950a-430d-9ac5-277c0c34bd7b/file/c0c7e6cd-d07a-47c2-8bfb-4b38c8d1a330\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef3a8028-950a-430d-9ac5-277c0c34bd7b/file/36184457-585f-47d2-860e-ce922ed03b16\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f1%2Fe5%2F92%2Ff1e5920907f547c89509f6be987d3689%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/216d82c7-9afb-436d-8827-3a2363d24a55/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-gf06g555k"
-  ]
+  "layer_modified_dt": "2018-06-07T01:51:32Z",
+  "layer_id_s": "ark:/88435/gf06g555k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5536546\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ef3a8028-950a-430d-9ac5-277c0c34bd7b/file/36184457-585f-47d2-860e-ce922ed03b16\"}",
+  "layer_geom_type_s": "Image"
 }

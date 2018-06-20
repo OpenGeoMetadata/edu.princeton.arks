@@ -6,7 +6,7 @@
   "dc_title_s": "Moorestown, Burlington County, New Jersey",
   "solr_geom": "ENVELOPE(-75.006, -74.884, 40.014, 39.937)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"October 1923.\" \"1346.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -17,13 +17,8 @@
     "Real property—New Jersey—Moorestown—Maps",
     "Moorestown (N.J.)—Maps"
   ],
-  "layer_modified_dt": "2018-06-07T02:41:14Z",
-  "layer_id_s": "public-figgy:2b32f93c-f1a6-4dde-a300-9989978d61ae",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/59846b21-2014-4f1d-af4e-618478018a88\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b32f93c-f1a6-4dde-a300-9989978d61ae/file/eecd704d-8dad-47a5-9d83-ae83f472c39e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b32f93c-f1a6-4dde-a300-9989978d61ae/file/8f14c054-83d2-49ec-9064-9481dc758cef\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bf%2F84%2F1d%2Fbf841dbbe9a2441a802deb9f4015200d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/59846b21-2014-4f1d-af4e-618478018a88/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-q237hv87g"
-  ]
+  "layer_modified_dt": "2018-06-07T02:41:15Z",
+  "layer_id_s": "ark:/88435/q237hv87g",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5137538\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b32f93c-f1a6-4dde-a300-9989978d61ae/file/8f14c054-83d2-49ec-9064-9481dc758cef\"}",
+  "layer_geom_type_s": "Image"
 }

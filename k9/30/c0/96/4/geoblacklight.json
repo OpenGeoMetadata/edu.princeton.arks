@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Phillipsburg, Warren Co., New Jersey : including Alpha, Springtown, Green's Bridge, Delaware Park, Hillcrest, Morris Park, Huntington and part of Pohatcong Township",
   "solr_geom": "ENVELOPE(-75.204062, -75.160209, 40.706562, 40.666172)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"May 1925.\" Includes location map, key, key map, streets and specials index, and text. \"2264.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -24,13 +24,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:17:11Z",
-  "layer_id_s": "public-figgy:83d110e6-668c-4a8e-b665-71b7499187cf",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/e2cc7aad-65dd-4284-9a26-8a51bcfb0150\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/83d110e6-668c-4a8e-b665-71b7499187cf/file/2288fa70-fda2-4cb7-ab5f-1ebbc528fb0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83d110e6-668c-4a8e-b665-71b7499187cf/file/21e5b152-20dc-4659-beb4-e12c1a796cfd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e9%2F41%2F59%2Fe9415986fa134a329c77efc90ce0d1ce%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2cc7aad-65dd-4284-9a26-8a51bcfb0150/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-k930c0964"
-  ]
+  "layer_modified_dt": "2018-06-07T02:17:13Z",
+  "layer_id_s": "ark:/88435/k930c0964",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5650536\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1c26d00-b562-42d5-8c08-1b5fb6ccbfc1/file/1117658f-b10f-4f32-a40c-2e828a89ffef\"}",
+  "layer_geom_type_s": "Image"
 }

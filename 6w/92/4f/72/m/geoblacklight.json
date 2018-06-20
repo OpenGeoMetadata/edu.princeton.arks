@@ -6,7 +6,7 @@
   "dc_title_s": "Township of Lyndhurst, including Kingsland, Bergen Co., New Jersey",
   "solr_geom": "ENVELOPE(-74.139987, -74.083351, 40.822629, 40.762114)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"January 1928.\" Includes location map, key, streets and specials index, and text. \"3461.\" North oriented towards upper left.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:46:02Z",
-  "layer_id_s": "public-figgy:171c49ab-6c8d-4b77-b7e1-057f7fdab2ca",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/2daaaf8e-5401-44b3-b836-ea73198f6905\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/171c49ab-6c8d-4b77-b7e1-057f7fdab2ca/file/39e56a4b-222f-4e32-b93b-e1b2637d0b38\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/171c49ab-6c8d-4b77-b7e1-057f7fdab2ca/file/0f9b6d43-fffc-4ae5-848b-025324da57bf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d2%2F7e%2F57%2Fd27e57543adf4523b2602180c06b8dac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2daaaf8e-5401-44b3-b836-ea73198f6905/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-6w924f72m"
-  ]
+  "layer_modified_dt": "2018-06-07T01:46:04Z",
+  "layer_id_s": "ark:/88435/6w924f72m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5268333\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/171c49ab-6c8d-4b77-b7e1-057f7fdab2ca/file/0f9b6d43-fffc-4ae5-848b-025324da57bf\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Atco, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April 1925.\" \"2114.\" Includes location map, key, specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:25:29Z",
-  "layer_id_s": "public-figgy:579e13bd-d9b3-4d62-88e1-12a7dad1cc7a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/8011d8a0-3508-4ad9-98c3-e81428ab16c2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/579e13bd-d9b3-4d62-88e1-12a7dad1cc7a/file/c25105fc-c0d3-4178-a180-26a42a2d5718\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/579e13bd-d9b3-4d62-88e1-12a7dad1cc7a/file/dd82873f-bfec-42f0-9f8a-f63892d45509\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2F29%2F66%2F5d296603d27b4e9985d34698517e1422%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8011d8a0-3508-4ad9-98c3-e81428ab16c2/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-db78tf96h"
-  ]
+  "layer_id_s": "ark:/88435/db78tf96h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5351944\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/579e13bd-d9b3-4d62-88e1-12a7dad1cc7a/file/dd82873f-bfec-42f0-9f8a-f63892d45509\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Dumont, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.011, -73.975, 40.955, 40.936)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"January 1929.\" \"3914.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:37:27Z",
-  "layer_id_s": "public-figgy:1356050c-bfda-44b4-b85c-9fcfb15fa3b1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/198cf7a4-59fe-4132-8ec0-a4d00c2030fd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1356050c-bfda-44b4-b85c-9fcfb15fa3b1/file/7f08fb2e-fd93-4d45-a8cb-d5573e776d1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1356050c-bfda-44b4-b85c-9fcfb15fa3b1/file/b57a1711-05da-49ab-9f2f-195fcbf5dcf5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/37%2F81%2Fab%2F3781ab0424544112bc763781b363fd4b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/198cf7a4-59fe-4132-8ec0-a4d00c2030fd/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-4b29b8922"
-  ]
+  "layer_modified_dt": "2018-06-07T02:37:29Z",
+  "layer_id_s": "ark:/88435/4b29b8922",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5241646\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1356050c-bfda-44b4-b85c-9fcfb15fa3b1/file/b57a1711-05da-49ab-9f2f-195fcbf5dcf5\"}",
+  "layer_geom_type_s": "Image"
 }

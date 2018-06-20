@@ -6,7 +6,7 @@
   "dc_title_s": "Farmingdale, Monmouth County, New Jersey",
   "solr_geom": "ENVELOPE(-74.179, -74.162, 40.205, 40.189)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"October 1923.\" Includes location map, key and text. \"1293.\" North oriented towards upper right.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:28:26Z",
-  "layer_id_s": "public-figgy:56e17c6f-facc-4bd0-870b-173de9a1e925",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/925c462c-4963-4033-966f-cee17ea04e4a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56e17c6f-facc-4bd0-870b-173de9a1e925/file/9e543604-ad7e-4d9b-884c-ad4c3bcc1356\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56e17c6f-facc-4bd0-870b-173de9a1e925/file/9f33ce67-5722-4250-a4df-4ece8cbe99b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Ff4%2F60%2F57f460661d3c4230ac1dd6edb6e6ce38%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/925c462c-4963-4033-966f-cee17ea04e4a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-cz30pw569"
-  ]
+  "layer_id_s": "ark:/88435/cz30pw569",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5997309\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56e17c6f-facc-4bd0-870b-173de9a1e925/file/9f33ce67-5722-4250-a4df-4ece8cbe99b7\"}",
+  "layer_geom_type_s": "Image"
 }

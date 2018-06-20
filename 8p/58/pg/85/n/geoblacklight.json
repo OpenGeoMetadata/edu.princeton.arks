@@ -6,7 +6,7 @@
   "dc_title_s": "Somerville, Somerset County, New Jersey",
   "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April, 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1568.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:12:12Z",
-  "layer_id_s": "public-figgy:3e606e4a-4167-45ea-b00c-81616738022e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/3332f027-2ceb-4c3c-be0e-f8bad0524c9d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/c6b238dc-506f-4eb0-9a57-4ec172b5de31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/fcd37f26-f6cc-474f-aeb3-81a330491fa4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2F34%2F91%2F203491fbf4bd47e58db94d8e463a3e24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3332f027-2ceb-4c3c-be0e-f8bad0524c9d/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-8p58pg85n"
-  ]
+  "layer_modified_dt": "2018-06-07T02:12:17Z",
+  "layer_id_s": "ark:/88435/8p58pg85n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606110\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/fcd37f26-f6cc-474f-aeb3-81a330491fa4\"}",
+  "layer_geom_type_s": "Image"
 }

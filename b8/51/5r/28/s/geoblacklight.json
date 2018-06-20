@@ -6,7 +6,7 @@
   "dc_title_s": "Absecon, Atlantic County, New Jersey : including Absecon Heights",
   "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Jan. 1931.\" \"1070.\" North oriented towards upper right. Sheet 8 shows Absecon Heights.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:00:57Z",
-  "layer_id_s": "public-figgy:41c97c99-ba2c-4f2e-9da8-162cc98983c3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/baf64d1c-89d8-4ee1-8424-84c38e644a29\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/41c97c99-ba2c-4f2e-9da8-162cc98983c3/file/bae240b8-0f80-40a8-86eb-87c9a8105d91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41c97c99-ba2c-4f2e-9da8-162cc98983c3/file/40ef6363-652d-4da4-a751-6660eb29608d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2F12%2F08%2F271208d56c124bc0b9847c7cb29a2c8e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/baf64d1c-89d8-4ee1-8424-84c38e644a29/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-b8515r28s"
-  ]
+  "layer_modified_dt": "2018-06-07T02:00:58Z",
+  "layer_id_s": "ark:/88435/b8515r28s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5165021\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41c97c99-ba2c-4f2e-9da8-162cc98983c3/file/40ef6363-652d-4da4-a751-6660eb29608d\"}",
+  "layer_geom_type_s": "Image"
 }

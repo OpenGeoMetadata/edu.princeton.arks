@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Woodbridge Township, Middlesex County, New Jersey : including villages of Woodbridge, Fords, Hopelawn, Avenel, Colonia, Iselin, Sewaren and Port Reading",
   "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Feb'y. 1929.\" Includes location map, key, key map, streets and specials index, and text. \"4016.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -26,13 +26,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:34:19Z",
-  "layer_id_s": "public-figgy:50844110-5fd6-45e0-855c-ddc4e06f088a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/05cb63c1-bfd1-4789-a8af-749900d02f55\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50844110-5fd6-45e0-855c-ddc4e06f088a/file/8caa8e81-77af-4a17-8cf6-6e8ea664a4dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50844110-5fd6-45e0-855c-ddc4e06f088a/file/5c4dae5f-592f-4a44-9c46-db600069ce68\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1f%2F4d%2F70%2F1f4d7075398d4afdb390c7a105d513f3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05cb63c1-bfd1-4789-a8af-749900d02f55/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-h128nh62v"
-  ]
+  "layer_modified_dt": "2018-06-07T01:34:21Z",
+  "layer_id_s": "ark:/88435/h128nh62v",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5545193\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50844110-5fd6-45e0-855c-ddc4e06f088a/file/5c4dae5f-592f-4a44-9c46-db600069ce68\"}",
+  "layer_geom_type_s": "Image"
 }

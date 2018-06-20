@@ -6,7 +6,7 @@
   "dc_title_s": "Lake Mohawk, Sussex County, New Jersey",
   "solr_geom": "ENVELOPE(-74.680162, -74.640162, 41.038431, 40.998431)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Including Sparta Township, Byram Township.\" \"Jan. 1937.\" Includes location map, key, key map, streets and specials index, and text. \"2098.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -24,13 +24,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:33:36Z",
-  "layer_id_s": "public-figgy:27b641a8-a631-4184-ac0b-75e820a73e34",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/38c34ea2-4c9a-4fad-883a-e8c2c8a4f761\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27b641a8-a631-4184-ac0b-75e820a73e34/file/644064c7-9b64-4031-bc98-bdd121f9a053\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27b641a8-a631-4184-ac0b-75e820a73e34/file/6c8c207d-c475-4069-8510-88600a95dfd1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2Fa6%2F29%2F9fa6299e583a460db7eca9e326bcdec3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/38c34ea2-4c9a-4fad-883a-e8c2c8a4f761/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-7p88ck45c"
-  ]
+  "layer_modified_dt": "2018-06-07T01:33:37Z",
+  "layer_id_s": "ark:/88435/7p88ck45c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607461\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27b641a8-a631-4184-ac0b-75e820a73e34/file/6c8c207d-c475-4069-8510-88600a95dfd1\"}",
+  "layer_geom_type_s": "Image"
 }

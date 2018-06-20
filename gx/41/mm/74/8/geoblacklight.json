@@ -6,7 +6,7 @@
   "dc_title_s": "Magnolia, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"March 1925.\" \"2064.\" Includes location map, key, streets and specials index, and text. North oriented towards upper right.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:53:50Z",
-  "layer_id_s": "public-figgy:d04964a3-7680-43b1-bdf3-9e1e64bd5917",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/fe266d95-f96a-417b-ba44-6841887af01d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d04964a3-7680-43b1-bdf3-9e1e64bd5917/file/6c4a6fdd-3a05-4dbf-95a3-500afafada04\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d04964a3-7680-43b1-bdf3-9e1e64bd5917/file/0520bcbc-b818-4e53-8848-8695c6d335ff\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2F35%2F4d%2Ff6354d023716463495264175e25d6506%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fe266d95-f96a-417b-ba44-6841887af01d/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-gx41mm748"
-  ]
+  "layer_id_s": "ark:/88435/gx41mm748",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5404437\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d04964a3-7680-43b1-bdf3-9e1e64bd5917/file/0520bcbc-b818-4e53-8848-8695c6d335ff\"}",
+  "layer_geom_type_s": "Image"
 }

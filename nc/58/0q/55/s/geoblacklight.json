@@ -6,7 +6,7 @@
   "dc_title_s": "Westmont, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Jan. 1932.\" \"1560.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:56:51Z",
-  "layer_id_s": "public-figgy:b505c79d-551f-4907-ba90-ffe237ab6071",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/7330a213-f37e-4836-9fa0-19cba95912db\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b505c79d-551f-4907-ba90-ffe237ab6071/file/3822d017-168d-4822-b6c0-2ba8993ad653\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b505c79d-551f-4907-ba90-ffe237ab6071/file/5e934ff6-5942-4a2f-adeb-2640406864c5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/55%2F9c%2F9f%2F559c9f396da74e6c9ef5e71a6da701d6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7330a213-f37e-4836-9fa0-19cba95912db/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-nc580q55s"
-  ]
+  "layer_modified_dt": "2018-06-07T02:56:52Z",
+  "layer_id_s": "ark:/88435/nc580q55s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409710\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b505c79d-551f-4907-ba90-ffe237ab6071/file/5e934ff6-5942-4a2f-adeb-2640406864c5\"}",
+  "layer_geom_type_s": "Image"
 }

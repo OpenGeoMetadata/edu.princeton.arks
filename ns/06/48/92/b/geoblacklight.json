@@ -6,7 +6,7 @@
   "dc_title_s": "Lambertville, Hunterdon Couny, New Jersey",
   "solr_geom": "ENVELOPE(-74.953, -74.931, 40.386, 40.356)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"November 1923.\" Includes location map, key, streets and specials index, and text. \"1383.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:55:14Z",
-  "layer_id_s": "public-figgy:6024b293-27cf-481f-a5b9-9de0ebbaa9d0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/c77a6416-7985-448f-b3dc-a7fb59edbcc1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6024b293-27cf-481f-a5b9-9de0ebbaa9d0/file/9b86e017-ca94-4854-bf8f-736b6f9f8e37\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6024b293-27cf-481f-a5b9-9de0ebbaa9d0/file/505fa580-e62b-4c19-971b-12ead5f9a0f1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fa%2F5c%2Fbc%2Ffa5cbc45eb2e47a3917cae3887abcc3c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c77a6416-7985-448f-b3dc-a7fb59edbcc1/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-ns064892b"
-  ]
+  "layer_modified_dt": "2018-06-07T01:55:15Z",
+  "layer_id_s": "ark:/88435/ns064892b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4788323\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6024b293-27cf-481f-a5b9-9de0ebbaa9d0/file/505fa580-e62b-4c19-971b-12ead5f9a0f1\"}",
+  "layer_geom_type_s": "Image"
 }

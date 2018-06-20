@@ -6,7 +6,7 @@
   "dc_title_s": "Wyckoff Township, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.191843, -74.137536, 41.02585, 40.971137)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1932.\" \"1622.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:12:32Z",
-  "layer_id_s": "public-figgy:391bbaf4-cdc5-4e42-be16-73624a8341c5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/564577c4-ce9c-4702-a1cd-845242c47fdd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/391bbaf4-cdc5-4e42-be16-73624a8341c5/file/a57e029d-6d34-4806-92ab-cc2be0cf1196\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/391bbaf4-cdc5-4e42-be16-73624a8341c5/file/e1894d91-c2a3-4161-afeb-1adb5f1f9dc0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/46%2F6c%2F30%2F466c30ec8aec42d28b5c305d42363012%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/564577c4-ce9c-4702-a1cd-845242c47fdd/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-gh93h243m"
-  ]
+  "layer_id_s": "ark:/88435/gh93h243m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5318234\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/391bbaf4-cdc5-4e42-be16-73624a8341c5/file/e1894d91-c2a3-4161-afeb-1adb5f1f9dc0\"}",
+  "layer_geom_type_s": "Image"
 }

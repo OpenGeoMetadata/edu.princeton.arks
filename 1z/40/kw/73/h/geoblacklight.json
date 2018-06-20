@@ -6,7 +6,7 @@
   "dc_title_s": "Barnegat, Ocean County, New Jersey",
   "solr_geom": "ENVELOPE(-74.417164, -74.145381, 39.828045, 39.704874)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April 1928.\" Includes location map, key, key map, streets and specials index, and text. \"3518.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:56:25Z",
-  "layer_id_s": "public-figgy:3e08d9c5-d629-4114-801b-54b9483c90f6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/f8707375-bf55-49bf-bfda-6546a7d86e0a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e08d9c5-d629-4114-801b-54b9483c90f6/file/5640123a-4f5d-4b82-af3b-2c0a5f56b5d0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e08d9c5-d629-4114-801b-54b9483c90f6/file/c569c00a-d7be-4b10-974a-bdf9e4203c00\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/0b%2F14%2Fcb%2F0b14cbde0e424af8863f629046b0b404%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f8707375-bf55-49bf-bfda-6546a7d86e0a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-1z40kw73h"
-  ]
+  "layer_modified_dt": "2018-06-07T01:56:26Z",
+  "layer_id_s": "ark:/88435/1z40kw73h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571616\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e08d9c5-d629-4114-801b-54b9483c90f6/file/c569c00a-d7be-4b10-974a-bdf9e4203c00\"}",
+  "layer_geom_type_s": "Image"
 }

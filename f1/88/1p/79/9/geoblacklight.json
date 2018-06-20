@@ -6,7 +6,7 @@
   "dc_title_s": "Ridgefield Park, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.034094, -73.988883, 40.847125, 40.812821)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1925.\" \"2316.\" \"12 sheets: 5 at 50', 6 at 100', 1 key map.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:40:41Z",
-  "layer_id_s": "public-figgy:5e9113ce-92e3-4637-aa23-10bbc30a641e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/72c26fb3-bbc6-48d1-ab54-7f992e59ac6e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e9113ce-92e3-4637-aa23-10bbc30a641e/file/379372c9-5d5f-416b-a2b8-d1bda70e59d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e9113ce-92e3-4637-aa23-10bbc30a641e/file/18f1bedf-5c99-4b77-846d-1627401770db\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/12%2F6d%2F0d%2F126d0db5dd2845fb9fb1fe8d7d7cc0fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/72c26fb3-bbc6-48d1-ab54-7f992e59ac6e/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-f1881p799"
-  ]
+  "layer_modified_dt": "2018-06-07T01:40:42Z",
+  "layer_id_s": "ark:/88435/f1881p799",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5288199\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e9113ce-92e3-4637-aa23-10bbc30a641e/file/18f1bedf-5c99-4b77-846d-1627401770db\"}",
+  "layer_geom_type_s": "Image"
 }

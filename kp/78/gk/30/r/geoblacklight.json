@@ -6,7 +6,7 @@
   "dc_title_s": "Lakewood, Ocean County, New Jersey",
   "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"July, 1928.\" Includes location map, key, key map, streets and specials index, and text. \"3676.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:23:58Z",
-  "layer_id_s": "public-figgy:9310b880-fde6-4f4f-b1f4-006aa57429c1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/421dbe51-9eaf-4b45-80c4-930291866ad4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9310b880-fde6-4f4f-b1f4-006aa57429c1/file/bd522ca1-38e1-4610-8c73-8a00a02fd3dd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9310b880-fde6-4f4f-b1f4-006aa57429c1/file/be8bef38-a9b9-46e5-9505-866cd94fcda4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2Fad%2F31%2F57ad31e6c5d1445ca5a72d25d28e2e40%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/421dbe51-9eaf-4b45-80c4-930291866ad4/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-kp78gk30r"
-  ]
+  "layer_modified_dt": "2018-06-07T02:24:00Z",
+  "layer_id_s": "ark:/88435/kp78gk30r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5573567\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9310b880-fde6-4f4f-b1f4-006aa57429c1/file/be8bef38-a9b9-46e5-9505-866cd94fcda4\"}",
+  "layer_geom_type_s": "Image"
 }

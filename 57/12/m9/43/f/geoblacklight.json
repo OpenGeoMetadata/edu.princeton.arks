@@ -6,7 +6,7 @@
   "dc_title_s": "Williamstown, Gloucester County, New Jersey",
   "solr_geom": "ENVELOPE(-75.015168, -74.975168, 39.706226, 39.666226)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"September 1923.\" \"1242.\" Includes location map, key, key map, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:47:36Z",
-  "layer_id_s": "public-figgy:1ef0e29b-96d6-4763-b77e-9e3b3e134bb5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/14adc5a1-aa6d-47c1-ab56-a7b6ede1eaff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ef0e29b-96d6-4763-b77e-9e3b3e134bb5/file/a82e31bb-1046-4464-8d1b-2566c2fdc121\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ef0e29b-96d6-4763-b77e-9e3b3e134bb5/file/09beb759-6962-49f4-88ec-fa3f6ee3511a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2Fe2%2F6a%2Fece26a22d836416f902f394e4fd20f05%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/14adc5a1-aa6d-47c1-ab56-a7b6ede1eaff/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-5712m943f"
-  ]
+  "layer_modified_dt": "2018-06-07T01:47:37Z",
+  "layer_id_s": "ark:/88435/5712m943f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5490494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ef0e29b-96d6-4763-b77e-9e3b3e134bb5/file/09beb759-6962-49f4-88ec-fa3f6ee3511a\"}",
+  "layer_geom_type_s": "Image"
 }

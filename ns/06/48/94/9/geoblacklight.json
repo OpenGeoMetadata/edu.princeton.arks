@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Newark, New Jersey : volume seven",
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Index on preliminary leaf 1. Includes key, key map, streets and specials index, graphic map of volumes, and text. \"565.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:49:44Z",
-  "layer_id_s": "public-figgy:26bab819-f1ac-4f73-8f8f-db311a3f2a1d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/504d9df5-86e2-4ba9-a117-f94c289567a6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/26bab819-f1ac-4f73-8f8f-db311a3f2a1d/file/7e111efa-750c-4726-824b-115f01736e00\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/26bab819-f1ac-4f73-8f8f-db311a3f2a1d/file/699fef96-1e5f-4172-9a2b-3028191a9e82\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f6%2Ffd%2Ff2%2Ff6fdf21da7d84508b86d89b944183100%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/504d9df5-86e2-4ba9-a117-f94c289567a6/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-ns0648949"
-  ]
+  "layer_modified_dt": "2018-06-07T02:49:55Z",
+  "layer_id_s": "ark:/88435/ns0648949",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5700364\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/26bab819-f1ac-4f73-8f8f-db311a3f2a1d/file/699fef96-1e5f-4172-9a2b-3028191a9e82\"}",
+  "layer_geom_type_s": "Image"
 }

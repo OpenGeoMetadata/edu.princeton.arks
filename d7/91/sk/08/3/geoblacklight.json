@@ -6,7 +6,7 @@
   "dc_title_s": "Riverton, Burlington County, New Jersey : including East Riverton",
   "solr_geom": "ENVELOPE(-75.026, -74.997, 40.016, 40.003)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April, 1925.\" Includes location map, key, streets and specials index, and text. \"2097.\" Sheet 14 shows East Riverton.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:00:00Z",
-  "layer_id_s": "public-figgy:b91526b0-3334-40f8-87c7-5391e8642b6c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/854d071c-017a-4372-aa8e-8d492ebcab3f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b91526b0-3334-40f8-87c7-5391e8642b6c/file/64436ffa-2f3b-46e4-a361-144375beb5df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b91526b0-3334-40f8-87c7-5391e8642b6c/file/19b06783-539a-429d-9628-a8557bd6bf28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/be%2F99%2F83%2Fbe9983152979447cb89d3ece8890c167%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/854d071c-017a-4372-aa8e-8d492ebcab3f/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-d791sk083"
-  ]
+  "layer_id_s": "ark:/88435/d791sk083",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5157772\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b91526b0-3334-40f8-87c7-5391e8642b6c/file/19b06783-539a-429d-9628-a8557bd6bf28\"}",
+  "layer_geom_type_s": "Image"
 }

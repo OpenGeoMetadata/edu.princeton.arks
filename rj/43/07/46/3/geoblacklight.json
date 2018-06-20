@@ -6,7 +6,7 @@
   "dc_title_s": "Hightstown, Mercer County, New Jersey",
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"May 1925.\" Includes location map, key, streets and specials index, and text. Oriented with the north to the upper right. \"2212\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:19:35Z",
-  "layer_id_s": "public-figgy:e59a54b6-7224-41ed-a423-e825862437c7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/6e983c38-5326-40dd-b6f5-4ec11a5fa44c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e59a54b6-7224-41ed-a423-e825862437c7/file/bc2d491a-315a-411d-b1ef-ffcc0f6ae77f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e59a54b6-7224-41ed-a423-e825862437c7/file/b13dc101-7b47-4c53-b1a1-2b4af1c13d2f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5d%2Fc2%2F71%2F5dc271501c214fc0b921bac2595ca460%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e983c38-5326-40dd-b6f5-4ec11a5fa44c/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-rj4307463"
-  ]
+  "layer_modified_dt": "2018-06-07T01:19:36Z",
+  "layer_id_s": "ark:/88435/rj4307463",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4597398\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77012631-4eec-476d-81da-4234b14c669f/file/a2caa5db-6596-4a67-8219-cadbfa86f4b7\"}",
+  "layer_geom_type_s": "Image"
 }

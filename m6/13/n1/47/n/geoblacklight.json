@@ -6,7 +6,7 @@
   "dc_title_s": "Lakehurst, Ocean County, New Jersey",
   "solr_geom": "ENVELOPE(-74.331896, -74.298465, 40.021582, 40.004135)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Jan. 1931.\" Includes location map, key, key map, specials index and text. \"1076.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:30:25Z",
-  "layer_id_s": "public-figgy:e57ab0a2-3f7a-41aa-b5c0-69e29a784f00",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/69ebbd00-d269-4a91-860a-926c00c77308\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e57ab0a2-3f7a-41aa-b5c0-69e29a784f00/file/ac4cca82-7025-4b3a-819c-fd7afc92e79e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e57ab0a2-3f7a-41aa-b5c0-69e29a784f00/file/7e4a7ce7-054a-44c9-896b-52f3edf2e657\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/17%2Ffb%2F22%2F17fb2270bd1e4d35844c172f280d20ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/69ebbd00-d269-4a91-860a-926c00c77308/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-m613n147n"
-  ]
+  "layer_modified_dt": "2018-06-07T01:30:29Z",
+  "layer_id_s": "ark:/88435/m613n147n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571650\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e57ab0a2-3f7a-41aa-b5c0-69e29a784f00/file/7e4a7ce7-054a-44c9-896b-52f3edf2e657\"}",
+  "layer_geom_type_s": "Image"
 }

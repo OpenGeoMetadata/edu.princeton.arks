@@ -6,7 +6,7 @@
   "dc_title_s": "Palmyra, N.J.",
   "solr_geom": "ENVELOPE(-75.054844, -75.010229, 40.012157, 39.991216)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Mar. 1925.\" \"2061.\" Sheet 16 of a larger series of maps of Burlington County, showing part of Cinnaminson Township. Includes text. North oriented toward upper left.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -23,12 +23,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:51:49Z",
-  "layer_id_s": "public-figgy:b21e111b-56a9-484a-adc1-0d689860b2d8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/0dde9523-2a2c-4746-bf64-69fd088e1f9d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b21e111b-56a9-484a-adc1-0d689860b2d8/file/b5df012a-b53d-42b8-a8a7-54d397f97a90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b21e111b-56a9-484a-adc1-0d689860b2d8/file/27f0310d-c105-4e49-83fd-d83b5bccbbe5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b1%2F28%2F89%2Fb12889231b024e5f9e5a1736438fa804%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0dde9523-2a2c-4746-bf64-69fd088e1f9d/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-x920g0750"
-  ]
+  "layer_id_s": "ark:/88435/x920g0750",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5060400\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b21e111b-56a9-484a-adc1-0d689860b2d8/file/27f0310d-c105-4e49-83fd-d83b5bccbbe5\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -12,18 +12,6 @@
     "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
   ],
   "dc_subject_sm": [
-    "roads",
-    "highways",
-    "road feature",
-    "centerline",
-    "linear feature",
-    "address range",
-    "MAF/TIGER",
-    "MAF",
-    "Master Address File",
-    "TIGER",
-    "Topologocally Integrated Geographic Encoding and Referencing",
-    "TIGER/Line",
     "Transportation"
   ],
   "dct_spatial_sm": [
@@ -36,9 +24,9 @@
     "2014"
   ],
   "solr_year_i": 2014,
-  "layer_modified_dt": "2018-04-05T00:35:30Z",
+  "layer_modified_dt": "2018-06-13T18:15:24Z",
   "layer_id_s": "restricted-figgy:f4b350e4-80d1-4b7c-ab6e-0d185e32b3e7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/7592d984-8cf7-4523-929f-6f7198ea5201\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/794fccc5-1854-48d5-965d-bacff9613ab5/file/ac8d3feb-f691-4640-b269-687b2cbc2fe0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4b350e4-80d1-4b7c-ab6e-0d185e32b3e7/file/a87003fb-8abb-4e00-b900-9a2e371aa22a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4b350e4-80d1-4b7c-ab6e-0d185e32b3e7/file/c6a02369-0a5e-4f34-8543-7e88b47d10ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/794fccc5-1854-48d5-965d-bacff9613ab5/file/ac8d3feb-f691-4640-b269-687b2cbc2fe0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f4b350e4-80d1-4b7c-ab6e-0d185e32b3e7/file/a87003fb-8abb-4e00-b900-9a2e371aa22a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f4b350e4-80d1-4b7c-ab6e-0d185e32b3e7/file/c6a02369-0a5e-4f34-8543-7e88b47d10ce\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
   "dc_format_s": "Shapefile"
 }

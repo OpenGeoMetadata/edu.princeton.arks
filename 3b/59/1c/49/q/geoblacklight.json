@@ -6,7 +6,7 @@
   "dc_title_s": "Haworth, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.027, -73.974, 40.972, 40.954)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"October 1924.\" \"1886.\" Includes location map, specials index, key and text. North oriented towards upper left.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:32:46Z",
-  "layer_id_s": "public-figgy:818fd02d-76fa-4ac8-bb8b-b7b1f869a0ed",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/e59b3e5a-c964-426d-aa9a-be0d8f9fe9bb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/818fd02d-76fa-4ac8-bb8b-b7b1f869a0ed/file/7231c13a-55aa-46ae-ae45-49747e7781ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/818fd02d-76fa-4ac8-bb8b-b7b1f869a0ed/file/8c55e6a4-23de-44b8-94c9-64e417c5ff4d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2F2f%2F4a%2Fe82f4a8800814701bd380a127cd07def%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e59b3e5a-c964-426d-aa9a-be0d8f9fe9bb/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-3b591c49q"
-  ]
+  "layer_id_s": "ark:/88435/3b591c49q",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267520\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/818fd02d-76fa-4ac8-bb8b-b7b1f869a0ed/file/8c55e6a4-23de-44b8-94c9-64e417c5ff4d\"}",
+  "layer_geom_type_s": "Image"
 }

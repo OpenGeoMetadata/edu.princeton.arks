@@ -6,7 +6,7 @@
   "dc_title_s": "Elmer, Salem County, New Jersey",
   "solr_geom": "ENVELOPE(-75.184421, -75.164676, 39.602163, 39.583751)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1646.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:32:26Z",
-  "layer_id_s": "public-figgy:d04a0621-feca-4d68-8aaf-71f35b7fd3e7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/74caefa4-940f-4960-b714-d56443e7eb25\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d04a0621-feca-4d68-8aaf-71f35b7fd3e7/file/c3509c5e-71ec-4580-bc03-e42cc4458a2c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d04a0621-feca-4d68-8aaf-71f35b7fd3e7/file/fd761766-917f-43df-ae2d-d6e3a2106eb3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e6%2Fe6%2F64%2Fe6e66494994f4a70b12ec73c6bf443bd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74caefa4-940f-4960-b714-d56443e7eb25/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-rj4307482"
-  ]
+  "layer_modified_dt": "2018-06-07T01:32:27Z",
+  "layer_id_s": "ark:/88435/rj4307482",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5592140\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d04a0621-feca-4d68-8aaf-71f35b7fd3e7/file/fd761766-917f-43df-ae2d-d6e3a2106eb3\"}",
+  "layer_geom_type_s": "Image"
 }

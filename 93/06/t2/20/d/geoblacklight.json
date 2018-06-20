@@ -6,7 +6,7 @@
   "dc_title_s": "Peetzburg section",
   "solr_geom": "ENVELOPE(-74.034, -74.002, 40.952, 40.914)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Aug. 1930.\" Includes text. \"4929.\" North oriented towards upper left. Historic Maps copy has sheets 2-5 of New Milford, N.J. series, showing Peetzburg section; other sheets in series foldered separately.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:44:07Z",
-  "layer_id_s": "public-figgy:2c467cd8-4e66-4814-b031-fb06756a94b4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/6395cc29-6ae8-4229-9fc8-57b18d2986c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c467cd8-4e66-4814-b031-fb06756a94b4/file/e683a4c2-65a6-408b-82fb-c5c4862dbd58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c467cd8-4e66-4814-b031-fb06756a94b4/file/fde9c2ff-107e-4c38-aa6e-a80131a105f4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F08%2F86%2Ff30886ea83fc4ea487f26c8be072bd06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6395cc29-6ae8-4229-9fc8-57b18d2986c5/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-9306t220d"
-  ]
+  "layer_modified_dt": "2018-06-07T01:44:08Z",
+  "layer_id_s": "ark:/88435/9306t220d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5285246\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c467cd8-4e66-4814-b031-fb06756a94b4/file/fde9c2ff-107e-4c38-aa6e-a80131a105f4\"}",
+  "layer_geom_type_s": "Image"
 }

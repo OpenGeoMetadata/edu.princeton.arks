@@ -6,7 +6,7 @@
   "dc_title_s": "Paulsboro, Gloucester County, New Jersey",
   "solr_geom": "ENVELOPE(-75.257328, -75.222864, 39.852064, 39.819836)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"January 1927.\" Includes location map, key, streets and specials index, and text. \"2949.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:31:03Z",
-  "layer_id_s": "public-figgy:56033ee5-9b76-4e64-88d1-5dab41dc2c98",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/90e714c6-034d-4662-9ae5-5e143cd955dd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56033ee5-9b76-4e64-88d1-5dab41dc2c98/file/29346df9-91dd-4d4e-aaf5-0c4703a39ea2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56033ee5-9b76-4e64-88d1-5dab41dc2c98/file/f9f2cd3e-3d0d-417b-a044-18b07bea2ce6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/56%2Ff9%2F30%2F56f9306e8eae40a3afdde1c7cb2fcaf7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/90e714c6-034d-4662-9ae5-5e143cd955dd/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-j3860988x"
-  ]
+  "layer_modified_dt": "2018-06-07T02:31:04Z",
+  "layer_id_s": "ark:/88435/j3860988x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5483760\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d369beb-90ed-462b-bf66-b707c9b6f756/file/917047ba-56b4-4c84-8efa-e2cb3fa6eaae\"}",
+  "layer_geom_type_s": "Image"
 }

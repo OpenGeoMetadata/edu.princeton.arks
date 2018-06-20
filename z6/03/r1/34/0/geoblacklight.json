@@ -6,7 +6,7 @@
   "dc_title_s": "Lenola",
   "solr_geom": "ENVELOPE(-75.002391, -74.962391, 39.982335, 39.942335)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1929.\" Includes text. \"4144.\" Sheets 26-29 of a larger series of maps of Burlington County, showing Lenola in Moorestown Township.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:32:35Z",
-  "layer_id_s": "public-figgy:3069fcff-9eba-4db3-b665-a05f66b13933",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/cea253df-01c2-40e1-b80d-0f22816ac112\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3069fcff-9eba-4db3-b665-a05f66b13933/file/d037cffa-5fde-4930-808e-217091fcf3ac\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3069fcff-9eba-4db3-b665-a05f66b13933/file/8db069f5-53f3-44f4-8454-31cb47193a88\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2Fbb%2F53%2Fdabb539b5a344dca8223e161df41d9dd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cea253df-01c2-40e1-b80d-0f22816ac112/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-z603r1340"
-  ]
+  "layer_id_s": "ark:/88435/z603r1340",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5077836\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3069fcff-9eba-4db3-b665-a05f66b13933/file/8db069f5-53f3-44f4-8454-31cb47193a88\"}",
+  "layer_geom_type_s": "Image"
 }

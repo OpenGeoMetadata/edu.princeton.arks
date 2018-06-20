@@ -6,7 +6,7 @@
   "dc_title_s": "Mullica Hill, Gloucester County, New Jersey",
   "solr_geom": "ENVELOPE(-75.244072, -75.204072, 39.75928, 39.71928)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1933.\" \"1854.\" Includes location map, key, specials index, correction record and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:15:40Z",
-  "layer_id_s": "public-figgy:d275d535-6014-41f6-b9b1-81baf4ede680",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/24d33016-1a25-429c-a4de-41dcf6959ba1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d275d535-6014-41f6-b9b1-81baf4ede680/file/8df8dffc-c438-416e-88bf-2b70596dfb90\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d275d535-6014-41f6-b9b1-81baf4ede680/file/88d1d76e-bdb8-45a5-998d-4420766e74cf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F17%2Fb5%2Fd917b525945a45019b7abb153972515a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/24d33016-1a25-429c-a4de-41dcf6959ba1/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-gx41mm767"
-  ]
+  "layer_modified_dt": "2018-06-07T02:15:41Z",
+  "layer_id_s": "ark:/88435/gx41mm767",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482373\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d275d535-6014-41f6-b9b1-81baf4ede680/file/88d1d76e-bdb8-45a5-998d-4420766e74cf\"}",
+  "layer_geom_type_s": "Image"
 }
