@@ -6,7 +6,7 @@
   "dc_title_s": "Somers Point, Atlantic County, New Jersey",
   "solr_geom": "ENVELOPE(-74.629, -74.574, 39.338, 39.297)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"August 1930.\" \"4928.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:17:08Z",
-  "layer_id_s": "public-figgy:a5f6b93d-63eb-4612-b178-79d80fa44e7d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/027c9cb9-6ace-4596-a46e-51c755e2e617\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a5f6b93d-63eb-4612-b178-79d80fa44e7d/file/d18abb2e-d6d4-4828-adac-325df2e2036c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5f6b93d-63eb-4612-b178-79d80fa44e7d/file/783c5c45-2b8b-42e3-aeeb-fbcbec872254\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6c%2F7f%2Fa6%2F6c7fa670e65d4ac58d48c1501c56c124%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/027c9cb9-6ace-4596-a46e-51c755e2e617/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-4q77fv26x"
-  ]
+  "layer_id_s": "ark:/88435/4q77fv26x",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5221277\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a5f6b93d-63eb-4612-b178-79d80fa44e7d/file/783c5c45-2b8b-42e3-aeeb-fbcbec872254\"}",
+  "layer_geom_type_s": "Image"
 }

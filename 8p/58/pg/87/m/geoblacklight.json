@@ -6,7 +6,7 @@
   "dc_title_s": "Mantua, Gloucester County, New Jersey : including part of Deptford T'w'p, part of West Deptford T'w'p.",
   "solr_geom": "ENVELOPE(-75.212123, -75.132123, 39.834003, 39.754003)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"May 1933.\" \"1832.\" Includes location map, key, streets and specials index, correction record and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:24:33Z",
-  "layer_id_s": "public-figgy:1f66f932-cfb8-48c9-9f74-1832d616a2d5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/9701e906-f467-460d-ac17-b5db62758aee\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1f66f932-cfb8-48c9-9f74-1832d616a2d5/file/006fd260-ae54-4d9e-aa7e-5877f437b94a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f66f932-cfb8-48c9-9f74-1832d616a2d5/file/3908974f-9886-4779-8fb6-1fa84481152c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F0f%2F1e%2F7e0f1ea243a64d13bd913087b989fde7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9701e906-f467-460d-ac17-b5db62758aee/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-8p58pg87m"
-  ]
+  "layer_modified_dt": "2018-06-07T02:24:42Z",
+  "layer_id_s": "ark:/88435/8p58pg87m",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482362\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f66f932-cfb8-48c9-9f74-1832d616a2d5/file/3908974f-9886-4779-8fb6-1fa84481152c\"}",
+  "layer_geom_type_s": "Image"
 }

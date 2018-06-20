@@ -6,7 +6,7 @@
   "dc_title_s": "Little Ferry, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.053981, -74.028418, 40.85919, 40.82855)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April 1931.\" \"1315.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:32:48Z",
-  "layer_id_s": "public-figgy:ea611a3c-6351-4e46-af8e-51ccaa8925b6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/8bb1d06f-7dcc-4a34-ad37-2aed93f61d97\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea611a3c-6351-4e46-af8e-51ccaa8925b6/file/033e0530-cda9-4f2b-9d4e-17014c07c3da\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea611a3c-6351-4e46-af8e-51ccaa8925b6/file/2e947679-7816-43d6-8d06-d5de9a07ca28\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cb%2Fb5%2F7c%2Fcbb57c0cfd1743a2bc386123c8be1e8b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8bb1d06f-7dcc-4a34-ad37-2aed93f61d97/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-w66346512"
-  ]
+  "layer_modified_dt": "2018-06-07T01:32:52Z",
+  "layer_id_s": "ark:/88435/w66346512",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5269181\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab329ac0-93f2-412e-b958-b46e92492ac9/file/e34d3828-dcd5-4324-b6ff-7b23f61ecaf9\"}",
+  "layer_geom_type_s": "Image"
 }

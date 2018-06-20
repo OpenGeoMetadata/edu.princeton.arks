@@ -6,7 +6,7 @@
   "dc_title_s": "Cranford, Union Co., New Jersey : including Kenilworth",
   "solr_geom": "ENVELOPE(-74.327693, -74.280691, 40.678402, 40.633459)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Jany. 1929.\" \"3888.\" Includes location map, key, key map, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:42:30Z",
-  "layer_id_s": "public-figgy:33f9dede-9286-4be9-8c47-5bc1670fb9cd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/5d914ecc-3f82-4a62-84e3-734906bf729c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33f9dede-9286-4be9-8c47-5bc1670fb9cd/file/a6adcd28-cdff-4965-8085-d24b1698b88d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33f9dede-9286-4be9-8c47-5bc1670fb9cd/file/f4c742dd-23d6-47c7-97e5-ff905c377013\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cd%2F8c%2F32%2Fcd8c32238d5442deb2ac7af3a907a6ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5d914ecc-3f82-4a62-84e3-734906bf729c/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-fb494c35k"
-  ]
+  "layer_modified_dt": "2018-06-07T02:42:33Z",
+  "layer_id_s": "ark:/88435/fb494c35k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5612769\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33f9dede-9286-4be9-8c47-5bc1670fb9cd/file/f4c742dd-23d6-47c7-97e5-ff905c377013\"}",
+  "layer_geom_type_s": "Image"
 }

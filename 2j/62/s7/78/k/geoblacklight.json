@@ -6,7 +6,7 @@
   "dc_title_s": "South Amboy, Middlesex County, New Jersey : including Morgan Beach, Melrose, Morgan & Laurence Harbor",
   "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, key map, streets and specials index, and text. \"4518.\" \"February 1930.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:24:22Z",
-  "layer_id_s": "public-figgy:b2e8eefe-bb4e-49d2-8fd4-2cdb85a0a0fb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/0271097e-73f1-4af6-8963-153f72cf110a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b2e8eefe-bb4e-49d2-8fd4-2cdb85a0a0fb/file/b3e46f5b-134e-414b-8bdc-4b29e9077f13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2e8eefe-bb4e-49d2-8fd4-2cdb85a0a0fb/file/df67660b-8745-463f-bf7b-f3b81e8b0ec5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5a%2F31%2F29%2F5a31298548bc4eac8909dc8616ae5695%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0271097e-73f1-4af6-8963-153f72cf110a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-2j62s778k"
-  ]
+  "layer_modified_dt": "2018-06-07T02:24:23Z",
+  "layer_id_s": "ark:/88435/2j62s778k",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5537475\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2e8eefe-bb4e-49d2-8fd4-2cdb85a0a0fb/file/df67660b-8745-463f-bf7b-f3b81e8b0ec5\"}",
+  "layer_geom_type_s": "Image"
 }

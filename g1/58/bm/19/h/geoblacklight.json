@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Palisades, New Jersey : volume one",
   "solr_geom": "ENVELOPE(-74.029505, -73.927943, 40.914496, 40.798873)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Index on preliminary leaves 1-2. Includes key, key map, streets and specials index, graphic map of volumes, and text. \"483.\" \"Complete series, 2 volumes.\" \"This volume includes Edgewater, Cliffside Park, Ridgefield & Fairview.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -28,13 +28,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:26:21Z",
-  "layer_id_s": "public-figgy:0da7e237-ee91-42b1-aa6c-e31f3fea0b34",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/3e5d098a-f7c8-4570-a723-8cb2b96c1de8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0da7e237-ee91-42b1-aa6c-e31f3fea0b34/file/f31cd2c7-cfdd-429c-bdf2-b5d783fb948c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0da7e237-ee91-42b1-aa6c-e31f3fea0b34/file/4677ab98-35db-4f4e-aa6d-26272dce2c67\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ee%2F0f%2F71%2Fee0f71a4151e4337be2ebc73036760dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e5d098a-f7c8-4570-a723-8cb2b96c1de8/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-g158bm19h"
-  ]
+  "layer_modified_dt": "2018-06-07T02:26:39Z",
+  "layer_id_s": "ark:/88435/g158bm19h",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5701843\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0da7e237-ee91-42b1-aa6c-e31f3fea0b34/file/4677ab98-35db-4f4e-aa6d-26272dce2c67\"}",
+  "layer_geom_type_s": "Image"
 }

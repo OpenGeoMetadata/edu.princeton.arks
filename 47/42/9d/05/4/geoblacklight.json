@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Trenton, New Jersey, volume two",
   "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Including part of Hamilton Township.\" Includes key, key map, streets and specials index, and text. \"317.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:06:41Z",
-  "layer_id_s": "public-figgy:c719aa33-b81e-44a7-ad30-690088dd12cc",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/7d43eee0-3944-443e-a8b7-7f5c690f45e2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c719aa33-b81e-44a7-ad30-690088dd12cc/file/71954839-af7b-45c6-abd6-d754f8b9d043\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c719aa33-b81e-44a7-ad30-690088dd12cc/file/52aeb191-620f-470b-81d4-75ced97e2f5e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/26%2F7e%2Fb4%2F267eb435fdeb4a9b9433ed7a901c3367%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d43eee0-3944-443e-a8b7-7f5c690f45e2/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-47429d054"
-  ]
+  "layer_modified_dt": "2018-06-07T03:06:49Z",
+  "layer_id_s": "ark:/88435/47429d054",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5610374\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ed22516-ab3a-416a-ab99-85abd153bfa0/file/95809852-57fc-4707-92ac-a26ca9a9b4e4\"}",
+  "layer_geom_type_s": "Image"
 }

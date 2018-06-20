@@ -6,7 +6,7 @@
   "dc_title_s": "Berlin & West Berlin, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"September 1923.\" Includes location map, key, streets and specials index and text. \"1252.\" Historic Maps copy has sheets 1-7, showing Berlin; sheets 8-11, showing West Berlin, foldered separately.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:49:31Z",
-  "layer_id_s": "public-figgy:350295cf-8db0-4df1-b6db-6615348862f4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/a1d97fce-69ff-4c8a-94d0-e253538b7b48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/350295cf-8db0-4df1-b6db-6615348862f4/file/0e1e5151-44dd-463e-a550-d50b29406a27\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/350295cf-8db0-4df1-b6db-6615348862f4/file/6a37ed05-d980-4b39-9794-6a1c00f81301\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c5%2F30%2Fea%2Fc530ea076bea497999a1f06d7c4941af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1d97fce-69ff-4c8a-94d0-e253538b7b48/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-8p58pg83p"
-  ]
+  "layer_id_s": "ark:/88435/8p58pg83p",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352850\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/350295cf-8db0-4df1-b6db-6615348862f4/file/6a37ed05-d980-4b39-9794-6a1c00f81301\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Tenafly, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-73.984433, -73.927389, 40.937905, 40.899757)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"April 1930.\" Includes location map, streets and specials index, key and text. \"4627.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:31:26Z",
-  "layer_id_s": "public-figgy:c2d4453a-4540-4728-9c3f-3312f6781e3e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/0a75598b-7301-45d7-9a93-c7444acc92c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2d4453a-4540-4728-9c3f-3312f6781e3e/file/73c3e589-f12e-40bc-a454-d101dbb6f74e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2d4453a-4540-4728-9c3f-3312f6781e3e/file/ce52f064-b26d-4b26-9b2e-711f2470fd2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/48%2Fff%2F19%2F48ff19b817ed46a39a410a26e365f944%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a75598b-7301-45d7-9a93-c7444acc92c0/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-pr76f634b"
-  ]
+  "layer_modified_dt": "2018-06-07T02:31:28Z",
+  "layer_id_s": "ark:/88435/pr76f634b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5316410\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2d4453a-4540-4728-9c3f-3312f6781e3e/file/ce52f064-b26d-4b26-9b2e-711f2470fd2a\"}",
+  "layer_geom_type_s": "Image"
 }

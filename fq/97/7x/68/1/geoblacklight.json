@@ -6,7 +6,7 @@
   "dc_title_s": "New Gretna, Burlington County, New Jersey",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1930.\" Includes location map, key, and text. \"4714.\" North oriented toward upper left. New Gretna is an unincorporated area within Bass River Township in Burlington County.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:38:56Z",
-  "layer_id_s": "public-figgy:fc5ed875-ed1b-4660-9337-cd2324246604",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/2a17b054-bb8b-43f8-9f3a-8a23f4441cd8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fc5ed875-ed1b-4660-9337-cd2324246604/file/f4b96a96-8a4c-4a86-a771-51d2d04f12ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc5ed875-ed1b-4660-9337-cd2324246604/file/ea5ae062-d62f-4582-b065-a319d160e33d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/af%2F32%2Fc7%2Faf32c77121c74b5faf469a3555cd6ac1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2a17b054-bb8b-43f8-9f3a-8a23f4441cd8/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-fq977x681"
-  ]
+  "layer_id_s": "ark:/88435/fq977x681",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5146292\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fc5ed875-ed1b-4660-9337-cd2324246604/file/ea5ae062-d62f-4582-b065-a319d160e33d\"}",
+  "layer_geom_type_s": "Image"
 }

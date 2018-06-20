@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Passaic, New Jersey",
   "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Index on preliminary sheets 1-2. Key map on preliminary sheet 3. Includes key, key map, streets and specials index, and text. \"640.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:08:01Z",
-  "layer_id_s": "public-figgy:572e30f8-c995-4235-a758-75e7b97c395d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/1beb8cc4-ad5e-4bb1-bebd-68b756b6d3e5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/572e30f8-c995-4235-a758-75e7b97c395d/file/aa5d44d7-ec35-4863-b166-157372b0bae2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/572e30f8-c995-4235-a758-75e7b97c395d/file/51e2f18d-f2c5-4aca-b595-35918b1ab8eb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4f%2Fae%2F16%2F4fae16b8259c493083f6d76d1957a51c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1beb8cc4-ad5e-4bb1-bebd-68b756b6d3e5/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-1n79h720r"
-  ]
+  "layer_modified_dt": "2018-06-07T02:08:12Z",
+  "layer_id_s": "ark:/88435/1n79h720r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5591253\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/572e30f8-c995-4235-a758-75e7b97c395d/file/51e2f18d-f2c5-4aca-b595-35918b1ab8eb\"}",
+  "layer_geom_type_s": "Image"
 }

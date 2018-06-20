@@ -6,7 +6,7 @@
   "dc_title_s": "Brown's Mills, Burlington County, New Jersey",
   "solr_geom": "ENVELOPE(-74.600463, -74.539823, 39.99041, 39.952842)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"November 1929.\" Includes location map, key, specials index, and text. \"4373.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:59:53Z",
-  "layer_id_s": "public-figgy:4e266627-fd4f-49e9-8007-826750d78188",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/62022419-d357-4cc4-ac50-7aa62effe4bd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e266627-fd4f-49e9-8007-826750d78188/file/9679806f-f96b-456d-b6e5-6de4b23f1af1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e266627-fd4f-49e9-8007-826750d78188/file/9071afe4-dfa1-4b8e-b06e-15d138732db8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2e%2Ff4%2F7a%2F2ef47abf3713467985dddc2ff343c862%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/62022419-d357-4cc4-ac50-7aa62effe4bd/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-3r074x85d"
-  ]
+  "layer_id_s": "ark:/88435/3r074x85d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5053503\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e266627-fd4f-49e9-8007-826750d78188/file/9071afe4-dfa1-4b8e-b06e-15d138732db8\"}",
+  "layer_geom_type_s": "Image"
 }

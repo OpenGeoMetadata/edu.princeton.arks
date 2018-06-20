@@ -6,7 +6,7 @@
   "dc_title_s": "Salem, Salem County, New Jersey : including Quinton, Alloway, Pennsville, Fort Elfsborg, Hancock's Bridge and Claysville",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Jan. 1930.\" Includes location map, key, key map, streets and specials index, and text. \"4407.\" Title from index sheet.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -26,13 +26,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:03:03Z",
-  "layer_id_s": "public-figgy:b301fbbe-f200-4bb8-9b3c-1344ef1db5a7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/e13d8fdd-2595-4f96-9c91-a585ae618809\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b301fbbe-f200-4bb8-9b3c-1344ef1db5a7/file/6674e8d9-776f-403b-a802-81ca6eaddd19\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b301fbbe-f200-4bb8-9b3c-1344ef1db5a7/file/e017a312-afe8-4065-8376-044f9cd2758b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/54%2Fde%2Fc3%2F54dec3df379846a8b55e516e6c18e498%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e13d8fdd-2595-4f96-9c91-a585ae618809/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-r494vp06r"
-  ]
+  "layer_modified_dt": "2018-06-07T03:03:05Z",
+  "layer_id_s": "ark:/88435/r494vp06r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5597259\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b301fbbe-f200-4bb8-9b3c-1344ef1db5a7/file/e017a312-afe8-4065-8376-044f9cd2758b\"}",
+  "layer_geom_type_s": "Image"
 }

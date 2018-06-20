@@ -6,7 +6,7 @@
   "dc_title_s": "Hohokus",
   "solr_geom": "ENVELOPE(-74.149, -74.078, 41.008, 40.955)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes text. \"May 1930.\" \"4698.\" Sheets 4-5 and 7-8 of Ridgewood, N.J. series.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:19:51Z",
-  "layer_id_s": "public-figgy:0fc2cd61-5854-465f-b17a-2c936393b392",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/13d1c1a6-decb-43a4-baf0-f834d7bb609a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fc2cd61-5854-465f-b17a-2c936393b392/file/a41f3aa2-9098-4d90-a6aa-dafab4b2f61c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc2cd61-5854-465f-b17a-2c936393b392/file/087c5456-30fd-428b-93de-c77098317a82\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2Ff5%2F02%2Fccf502d135284e4992d5030939553b2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/13d1c1a6-decb-43a4-baf0-f834d7bb609a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-jd4730395"
-  ]
+  "layer_id_s": "ark:/88435/jd4730395",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267741\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc2cd61-5854-465f-b17a-2c936393b392/file/087c5456-30fd-428b-93de-c77098317a82\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Little Falls Township, Passaic County, New Jersey",
   "solr_geom": "ENVELOPE(-74.254476, -74.190689, 40.89264, 40.859622)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Including Great Notch & Singac.\" \"March 1925.\" Includes location map, key, key map, streets and specials index, and text. \"2077.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:59:03Z",
-  "layer_id_s": "public-figgy:cc94ad90-f4a0-4ab1-9580-b27364d44205",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/552df1be-cf41-4a20-8b88-56a17c1420c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc94ad90-f4a0-4ab1-9580-b27364d44205/file/6a48075e-ed53-41f1-9827-16d6b6b69590\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc94ad90-f4a0-4ab1-9580-b27364d44205/file/9e854bef-de7a-4468-8ecd-7538edf1f108\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c6%2Fbe%2Ff2%2Fc6bef266709b41acbd52d42dae9d7ec1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/552df1be-cf41-4a20-8b88-56a17c1420c5/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-c821gn69j"
-  ]
+  "layer_modified_dt": "2018-06-07T01:59:04Z",
+  "layer_id_s": "ark:/88435/c821gn69j",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5575833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc94ad90-f4a0-4ab1-9580-b27364d44205/file/9e854bef-de7a-4468-8ecd-7538edf1f108\"}",
+  "layer_geom_type_s": "Image"
 }

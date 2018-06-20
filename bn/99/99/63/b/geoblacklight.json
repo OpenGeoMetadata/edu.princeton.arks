@@ -6,7 +6,7 @@
   "dc_title_s": "May's Landing, Atlantic County, New Jersey",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"June 1924.\" \"1656.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:49:21Z",
-  "layer_id_s": "public-figgy:186921eb-97c6-40d9-959c-f832d80b118c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/64e9b6ff-dc0c-4a91-86cb-eab50efdda7a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/186921eb-97c6-40d9-959c-f832d80b118c/file/cc4bd915-668c-4317-9e9c-ae7d5755dd85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/186921eb-97c6-40d9-959c-f832d80b118c/file/400667c8-3114-45cc-85ce-e199d7b22d38\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F8f%2F8b%2F478f8b4e59bb4dc3bb137e58cec8ba85%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64e9b6ff-dc0c-4a91-86cb-eab50efdda7a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-bn999963b"
-  ]
+  "layer_modified_dt": "2018-06-07T01:49:22Z",
+  "layer_id_s": "ark:/88435/bn999963b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190973\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/186921eb-97c6-40d9-959c-f832d80b118c/file/400667c8-3114-45cc-85ce-e199d7b22d38\"}",
+  "layer_geom_type_s": "Image"
 }

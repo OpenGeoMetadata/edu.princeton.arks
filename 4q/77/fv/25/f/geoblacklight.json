@@ -6,7 +6,7 @@
   "dc_title_s": "Pleasantville, Atlantic County, New Jersey",
   "solr_geom": "ENVELOPE(-74.551, -74.486, 39.42, 39.364)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Sept. 1924.\" \"1792.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:33:23Z",
-  "layer_id_s": "public-figgy:18ad4138-7d56-43c0-a140-d3618d9c944a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/363fdf72-f854-4c24-a607-9c26b0da0c75\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18ad4138-7d56-43c0-a140-d3618d9c944a/file/8b880bf2-482e-4222-87b5-01d4b23d2fce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18ad4138-7d56-43c0-a140-d3618d9c944a/file/815d5481-231b-402f-9def-08020992575b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ed%2F5c%2F39%2Fed5c39db44ca4b3badf2b17d6bf40894%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/363fdf72-f854-4c24-a607-9c26b0da0c75/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-4q77fv25f"
-  ]
+  "layer_modified_dt": "2018-06-07T01:33:28Z",
+  "layer_id_s": "ark:/88435/4q77fv25f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5220235\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f5f3786-067e-4088-a480-80d6a9b7579b/file/64a1f17b-e46a-4075-bf12-a57cd003b585\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -14,10 +14,7 @@
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
-    "polygon",
-    "countries",
-    "Boundaries",
-    "coastlines"
+    "Boundaries"
   ],
   "dct_spatial_sm": [
     "Europe"
@@ -26,9 +23,9 @@
     "1999"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-04-05T02:50:05Z",
+  "layer_modified_dt": "2018-06-13T19:00:22Z",
   "layer_id_s": "restricted-figgy:9cdd7fe3-6a47-4e34-a635-8f663a7aae5a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/4fb4c36d-aa24-410a-b533-d5991606e973\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/026f9faf-99f4-40a8-953b-6cf835cb6ed8/file/3668d421-499d-4f77-8ff9-456746e8b8a1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9cdd7fe3-6a47-4e34-a635-8f663a7aae5a/file/60e5b0b7-c87f-4139-a27e-abef738b4cbf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9cdd7fe3-6a47-4e34-a635-8f663a7aae5a/file/8e6f745c-50c8-456d-988b-55e27f4b342d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/026f9faf-99f4-40a8-953b-6cf835cb6ed8/file/3668d421-499d-4f77-8ff9-456746e8b8a1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9cdd7fe3-6a47-4e34-a635-8f663a7aae5a/file/60e5b0b7-c87f-4139-a27e-abef738b4cbf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9cdd7fe3-6a47-4e34-a635-8f663a7aae5a/file/8e6f745c-50c8-456d-988b-55e27f4b342d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
   "dc_format_s": "Shapefile"
 }

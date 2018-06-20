@@ -6,7 +6,7 @@
   "dc_title_s": "Bordentown, Burlington County, New Jersey : including Fieldsboro",
   "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"July 1924.\" Includes location map, key, streets and specials index, and text. \"1677.\" North oriented toward upper left.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:14:15Z",
-  "layer_id_s": "public-figgy:ba898bcf-d377-4c98-94d1-ec8c1dc90940",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/8b839e1c-a70b-44b6-bc28-01695453b85b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba898bcf-d377-4c98-94d1-ec8c1dc90940/file/498bd62c-7606-495d-a92a-abe076d20ea9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba898bcf-d377-4c98-94d1-ec8c1dc90940/file/7a866119-5c1a-4c3c-a63c-8d74043b6d29\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/da%2Ff9%2Fdf%2Fdaf9df59a793439ea4291c58b0527182%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8b839e1c-a70b-44b6-bc28-01695453b85b/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-h415pd470"
-  ]
+  "layer_modified_dt": "2018-06-07T02:14:25Z",
+  "layer_id_s": "ark:/88435/h415pd470",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5034860\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba898bcf-d377-4c98-94d1-ec8c1dc90940/file/7a866119-5c1a-4c3c-a63c-8d74043b6d29\"}",
+  "layer_geom_type_s": "Image"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Hillsdale, Bergen County, New Jersey : including Hillsdale Manor",
   "solr_geom": "ENVELOPE(-74.0434, -74.0392, 41.005, 41.001)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Aug. 1930.\" Includes location map, streets and specials index, key and text. \"4986.\" Sheets 3-4 shows Hillsdale Manor section.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:41:18Z",
-  "layer_id_s": "public-figgy:cddf9cb8-3942-4c27-bd0f-051d1cf9635d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/07f0c840-6e34-49eb-889a-2d5d6bde9166\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cddf9cb8-3942-4c27-bd0f-051d1cf9635d/file/b32b8488-d1aa-4dc0-a774-fddf56890a0d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cddf9cb8-3942-4c27-bd0f-051d1cf9635d/file/62f89afc-f937-4be7-81ca-498579f2584e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a3%2F7a%2F31%2Fa37a3186ff154b0681667f633283c318%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07f0c840-6e34-49eb-889a-2d5d6bde9166/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-xk81jp28n"
-  ]
+  "layer_id_s": "ark:/88435/xk81jp28n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267391\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cddf9cb8-3942-4c27-bd0f-051d1cf9635d/file/62f89afc-f937-4be7-81ca-498579f2584e\"}",
+  "layer_geom_type_s": "Image"
 }

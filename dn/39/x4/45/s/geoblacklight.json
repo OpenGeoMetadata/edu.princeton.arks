@@ -6,7 +6,7 @@
   "dc_title_s": "Clermont",
   "solr_geom": "ENVELOPE(-74.819607, -74.779607, 40.010668, 39.970668)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Nov. 1928.\" \"3850.\" Sheet 15 of a larger series of maps of Burlington County, showing Clermont area of Mount Holly. Includes text. North oriented toward upper right.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:38:54Z",
-  "layer_id_s": "public-figgy:cdf805e6-9b43-494d-8b9b-20dfb23a82c5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/cd7b1787-ad6e-4eee-ae68-15ada47a4c23\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cdf805e6-9b43-494d-8b9b-20dfb23a82c5/file/fda3dd42-9ea8-44dc-9eb6-8692a946299b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdf805e6-9b43-494d-8b9b-20dfb23a82c5/file/03f67663-8324-4ef0-9939-456931f4f93f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2F66%2Fbe%2F4766be0f21e24a4991ed6b8e02a12de2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd7b1787-ad6e-4eee-ae68-15ada47a4c23/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-dn39x445s"
-  ]
+  "layer_id_s": "ark:/88435/dn39x445s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5064074\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdf805e6-9b43-494d-8b9b-20dfb23a82c5/file/03f67663-8324-4ef0-9939-456931f4f93f\"}",
+  "layer_geom_type_s": "Image"
 }

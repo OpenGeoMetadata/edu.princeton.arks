@@ -6,7 +6,7 @@
   "dc_title_s": "Clementon, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Sept. 1924.\" \"1814.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T02:20:44Z",
-  "layer_id_s": "public-figgy:6d5372db-e25a-4bf9-a438-3832c35148c1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/bf9d034e-93e0-4b40-b79c-9489c4ff8832\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d5372db-e25a-4bf9-a438-3832c35148c1/file/f31399f1-5b38-4ef9-b759-268171ab8d99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d5372db-e25a-4bf9-a438-3832c35148c1/file/eb88f5df-edce-4160-82bd-c6191f743a9c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2F40%2F07%2F4140071672294b50b8397ca7e607e686%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf9d034e-93e0-4b40-b79c-9489c4ff8832/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-kp78gk29n"
-  ]
+  "layer_id_s": "ark:/88435/kp78gk29n",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5360321\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b79c6a35-c0c0-413f-8122-c422bf11f4a6/file/07f1f5cc-1916-461f-8ec9-80044dda25f4\"}",
+  "layer_geom_type_s": "Image"
 }

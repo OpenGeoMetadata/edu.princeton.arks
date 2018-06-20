@@ -6,7 +6,7 @@
   "dc_title_s": "Millville, Cumberland County, New Jersey",
   "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Sep't. 1923.\" Includes location map, key, streets and specials index, and text. \"1221.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T01:55:24Z",
-  "layer_id_s": "public-figgy:74a616af-163a-48db-b5a1-474c688fd99f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/3543b298-265b-4d80-a754-597f452d6cb2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74a616af-163a-48db-b5a1-474c688fd99f/file/5795eae3-f45c-48f9-be32-2114238bca22\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74a616af-163a-48db-b5a1-474c688fd99f/file/6204e6b3-dcdc-4de0-acad-ffd4c8b90676\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F39%2Fa5%2F7939a5aa448b4ab281a8172bda852ed2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3543b298-265b-4d80-a754-597f452d6cb2/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-tm70mz06r"
-  ]
+  "layer_modified_dt": "2018-06-07T01:55:26Z",
+  "layer_id_s": "ark:/88435/tm70mz06r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416820\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74a616af-163a-48db-b5a1-474c688fd99f/file/6204e6b3-dcdc-4de0-acad-ffd4c8b90676\"}",
+  "layer_geom_type_s": "Image"
 }

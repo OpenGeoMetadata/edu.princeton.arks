@@ -6,7 +6,7 @@
   "dc_title_s": "Lake Hopatcong : including Hopatcong and Mt. Arlington boroughs, Byram, Roxbury and Jefferson townships, Northwood, Sperry Springs, Landing, Hurdtown & Woodport, Morris & Sussex Co., New Jersey",
   "solr_geom": "ENVELOPE(-74.697709, -74.613751, 40.999481, 40.910844)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"Feby. 1925.\" Includes location map, key, streets and specials index, cottages and estates index, and text. \"2042.\" Shows Lake Hopatcong and boroughs and townships on its shore.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -33,12 +33,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:21:10Z",
-  "layer_id_s": "public-figgy:cf41e67f-cc2b-4437-99fa-a11e984c495b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/3e047336-3abb-4646-8f24-8dda91fc1fb0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf41e67f-cc2b-4437-99fa-a11e984c495b/file/32fa6c0b-285c-4a4e-9451-3e98415680fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf41e67f-cc2b-4437-99fa-a11e984c495b/file/e1a90936-e471-42fe-9223-be246166e91b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e2%2F0e%2Fa3%2Fe20ea378682f441392c4a1216b61abb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3e047336-3abb-4646-8f24-8dda91fc1fb0/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-x633f394s"
-  ]
+  "layer_id_s": "ark:/88435/x633f394s",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5330271\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee5d3a4d-fb3b-49d8-a3ae-93b057f301e4/file/5a1a508b-6140-4d2e-908f-1f64e282f97a\"}",
+  "layer_geom_type_s": "Image"
 }

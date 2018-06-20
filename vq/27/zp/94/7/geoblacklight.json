@@ -14,12 +14,6 @@
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
-    "polygon",
-    "census tracts",
-    "census block numbering areas",
-    "demographics",
-    "population",
-    "households",
     "Boundaries",
     "Society"
   ],
@@ -33,9 +27,9 @@
     "2001"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-04-05T02:44:12Z",
+  "layer_modified_dt": "2018-06-13T18:46:15Z",
   "layer_id_s": "restricted-figgy:8f67e4bc-2829-4ad1-b2c4-3b87c338fc9f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/vector_resources/da78ba68-6c17-42ee-bd3f-aeb3e0941ba2\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8ebbfa04-6d7e-450d-930e-ad1f472015eb/file/20964c58-daae-41de-b391-c562a63591e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f67e4bc-2829-4ad1-b2c4-3b87c338fc9f/file/8f1a188a-676c-4507-9932-8b1ac6c372a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f67e4bc-2829-4ad1-b2c4-3b87c338fc9f/file/f9d71d4a-c4cb-4f17-b9f1-30ac227ba036\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8ebbfa04-6d7e-450d-930e-ad1f472015eb/file/20964c58-daae-41de-b391-c562a63591e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8f67e4bc-2829-4ad1-b2c4-3b87c338fc9f/file/8f1a188a-676c-4507-9932-8b1ac6c372a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8f67e4bc-2829-4ad1-b2c4-3b87c338fc9f/file/f9d71d4a-c4cb-4f17-b9f1-30ac227ba036\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
   "dc_format_s": "Shapefile"
 }

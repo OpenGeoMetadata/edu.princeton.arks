@@ -6,7 +6,7 @@
   "dc_title_s": "National Park, Gloucester County, New Jersey : including Eagleton & Verga",
   "solr_geom": "ENVELOPE(-75.199635, -75.159635, 39.885968, 39.845968)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"July 1926.\" \"2747.\" Includes location map, key, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:27:38Z",
-  "layer_id_s": "public-figgy:4283bc1e-afbe-4b05-b9cc-0bb8966f337d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/2b13c4a7-0683-4a38-b08b-8c16f7b11694\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4283bc1e-afbe-4b05-b9cc-0bb8966f337d/file/16069fd5-bf04-4dc3-965b-991e702ba3c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4283bc1e-afbe-4b05-b9cc-0bb8966f337d/file/927ad80a-7da2-4fcc-84e0-c3b2a3d309db\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d6%2F3e%2F60%2Fd63e60a8b762424193a9fc802db301b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b13c4a7-0683-4a38-b08b-8c16f7b11694/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-qz20sw425"
-  ]
+  "layer_modified_dt": "2018-06-07T02:27:39Z",
+  "layer_id_s": "ark:/88435/qz20sw425",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482376\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4283bc1e-afbe-4b05-b9cc-0bb8966f337d/file/927ad80a-7da2-4fcc-84e0-c3b2a3d309db\"}",
+  "layer_geom_type_s": "Image"
 }

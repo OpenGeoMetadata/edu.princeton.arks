@@ -6,7 +6,7 @@
   "dc_title_s": "Merchantville, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"July 1925.\" Includes location map, key, streets and specials index, and text. \"2366\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:21:03Z",
-  "layer_id_s": "public-figgy:6e11fd86-ab04-4334-a696-5c0ba03f80ba",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/820e142b-5cfe-415e-9f5e-0fa742bf6f1b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e11fd86-ab04-4334-a696-5c0ba03f80ba/file/ebec341c-2e43-4bcf-a60f-f8d96d2e69f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e11fd86-ab04-4334-a696-5c0ba03f80ba/file/04eb5218-1d89-45da-8747-50b779ad72de\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Fb4%2Fa0%2F20b4a02034a44d36a093136b64956222%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/820e142b-5cfe-415e-9f5e-0fa742bf6f1b/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-44558h19w"
-  ]
+  "layer_modified_dt": "2018-06-07T02:21:04Z",
+  "layer_id_s": "ark:/88435/44558h19w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5406204\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cfd1f893-40da-453b-8241-8f9fc2b01019/file/68985246-9d64-4353-ae59-9c99eaa111bd\"}",
+  "layer_geom_type_s": "Image"
 }

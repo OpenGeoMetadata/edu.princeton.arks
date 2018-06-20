@@ -6,7 +6,7 @@
   "dc_title_s": "Paramus, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.102, -74.039, 40.981, 40.909)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "\"June 1930.\" Includes location map, streets and specials index, key and text. \"4767.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,12 +21,7 @@
     "New Jersey"
   ],
   "layer_modified_dt": "2018-06-07T01:51:02Z",
-  "layer_id_s": "public-figgy:7125def3-6f07-442d-901e-c631e87a4f81",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/d92a06ea-e306-440c-b355-63d6fbab892a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7125def3-6f07-442d-901e-c631e87a4f81/file/8e774abf-0472-44e4-9ef6-cb27d8a05078\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7125def3-6f07-442d-901e-c631e87a4f81/file/d74de0ea-d652-4acd-9f7f-c4adfb03c7ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F99%2F3a%2F7e993aba001c448db623e70a5ca614f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d92a06ea-e306-440c-b355-63d6fbab892a/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-kw52jb965"
-  ]
+  "layer_id_s": "ark:/88435/kw52jb965",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274572\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7125def3-6f07-442d-901e-c631e87a4f81/file/d74de0ea-d652-4acd-9f7f-c4adfb03c7ab\"}",
+  "layer_geom_type_s": "Image"
 }

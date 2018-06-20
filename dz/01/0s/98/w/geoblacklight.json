@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Bloomfield, New Jersey",
   "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Index on preliminary sheet 1. Includes key, key map, streets and specials index, graphic map of volumes, and text. \"694.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,8 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:04:45Z",
-  "layer_id_s": "public-figgy:43c3e03d-a371-4834-b9ad-c8313f0ebcc9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://figgy.princeton.edu/concern/scanned_maps/11e2ac10-a627-40e2-a1f6-7834d972b084\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43c3e03d-a371-4834-b9ad-c8313f0ebcc9/file/af1f16a4-5ba3-4c78-94e4-896c0b0a01a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43c3e03d-a371-4834-b9ad-c8313f0ebcc9/file/fdef6c59-dfc1-4a61-8567-9050db9c1f99\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/91%2Fea%2F0f%2F91ea0f5d7c5a4bb3811dc68997c7443a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/11e2ac10-a627-40e2-a1f6-7834d972b084/manifest\"}",
-  "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dct_source_sm": [
-    "princeton-dz010s98w"
-  ]
+  "layer_modified_dt": "2018-06-07T03:04:55Z",
+  "layer_id_s": "ark:/88435/dz010s98w",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5487265\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43c3e03d-a371-4834-b9ad-c8313f0ebcc9/file/fdef6c59-dfc1-4a61-8567-9050db9c1f99\"}",
+  "layer_geom_type_s": "Image"
 }
