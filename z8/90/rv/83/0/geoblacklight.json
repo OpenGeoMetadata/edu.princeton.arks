@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/z890rv830",
   "layer_slug_s": "princeton-z890rv830",
   "uuid": "princeton-z890rv830",
-  "dc_title_s": "Fort Lee, Bergen County, New Jersey",
+  "dc_title_s": "Fort Lee, Bergen County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-73.992, -73.953, 40.869, 40.828)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:42:43Z",
-  "layer_id_s": "public-figgy:783477e9-e5b4-444e-8bff-4bb1dd0414db",
+  "layer_modified_dt": "2018-06-21T19:43:29Z",
+  "layer_id_s": "public-figgy:p-783477e9-e5b4-444e-8bff-4bb1dd0414db",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5255710\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/783477e9-e5b4-444e-8bff-4bb1dd0414db/file/80b0c453-f8a0-4838-9bab-68b1808553d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/783477e9-e5b4-444e-8bff-4bb1dd0414db/file/46fdefe6-1190-4ae7-8c7a-515c3c555423\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8a%2F67%2Feb%2F8a67eb6e773d433e90207d504aad2b58%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/37f6556a-a0e1-4744-8583-2e31f2b09c78/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-hm50tv637"
-  ]
+  ],
+  "call_number_s": "HMC04 (Fort Lee)"
 }

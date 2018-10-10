@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/nk322f734",
   "layer_slug_s": "princeton-nk322f734",
   "uuid": "princeton-nk322f734",
-  "dc_title_s": "Pleasantville, Atlantic County, New Jersey",
+  "dc_title_s": "Pleasantville, Atlantic County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.551, -74.486, 39.42, 39.364)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:02:42Z",
-  "layer_id_s": "public-figgy:f728c949-fe03-460c-bd71-6d2c5927abf0",
+  "layer_modified_dt": "2018-06-21T20:20:24Z",
+  "layer_id_s": "public-figgy:p-f728c949-fe03-460c-bd71-6d2c5927abf0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5218946\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f728c949-fe03-460c-bd71-6d2c5927abf0/file/d1ba9365-4b49-4673-a449-2665346393f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f728c949-fe03-460c-bd71-6d2c5927abf0/file/6e9f9e35-b345-48d5-a3ee-d8ffd8bd2f06\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/16%2Fa5%2F47%2F16a54787eed545438f167c9e40e9e3e1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d16762b6-6b4e-4217-b638-591350fcf7f0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-kk91fp45v"
-  ]
+  ],
+  "call_number_s": "HMC04 (Pleasantville)"
 }

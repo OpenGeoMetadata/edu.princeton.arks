@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/j3860846r",
   "layer_slug_s": "princeton-j3860846r",
   "uuid": "princeton-j3860846r",
-  "dc_title_s": "Delanco, Burlington County, New Jersey",
+  "dc_title_s": "Delanco, Burlington County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.979, -74.927, 40.067, 40.029)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:36:42Z",
-  "layer_id_s": "public-figgy:486a22bc-2257-4321-ba9b-f6febc987cf0",
+  "layer_modified_dt": "2018-06-21T19:46:57Z",
+  "layer_id_s": "public-figgy:p-486a22bc-2257-4321-ba9b-f6febc987cf0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5070859\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/486a22bc-2257-4321-ba9b-f6febc987cf0/file/8e31c1f5-06f1-4048-9e6c-b2e669de5de9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/486a22bc-2257-4321-ba9b-f6febc987cf0/file/794c842e-a625-491b-9ff0-052298510b33\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2Fbc%2F23%2Ff4bc23b1186d4b2489dde22fad3f4c5f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/98ab5e5b-cfe7-4014-9086-95d1ae3b96ab/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-b8515r31v"
-  ]
+  ],
+  "call_number_s": "HMC04 (Delanco)"
 }

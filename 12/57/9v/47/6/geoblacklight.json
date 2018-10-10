@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/12579v476",
   "layer_slug_s": "princeton-12579v476",
   "uuid": "princeton-12579v476",
-  "dc_title_s": "Salem, Salem County, New Jersey",
+  "dc_title_s": "Salem, Salem County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:47:23Z",
-  "layer_id_s": "public-figgy:2db7bf08-4a49-4bbd-a22e-5b009dc4ee68",
+  "layer_modified_dt": "2018-06-21T20:26:00Z",
+  "layer_id_s": "public-figgy:p-2db7bf08-4a49-4bbd-a22e-5b009dc4ee68",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5594885\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2db7bf08-4a49-4bbd-a22e-5b009dc4ee68/file/2ce5772f-b9d0-4e15-870f-35651317d28c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2db7bf08-4a49-4bbd-a22e-5b009dc4ee68/file/423811a9-69c4-4262-b270-37fc229a55eb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/53%2F28%2Fb7%2F5328b7076c674107966bb5b7b8f889dd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7e3d8562-651e-44d7-bb0a-7efde80c4f22/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-bv73c332r"
-  ]
+  ],
+  "call_number_s": "HMC04 (Salem)"
 }

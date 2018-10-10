@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/rf55z962p",
   "layer_slug_s": "princeton-rf55z962p",
   "uuid": "princeton-rf55z962p",
-  "dc_title_s": "Westwood, Bergen County, New Jersey",
+  "dc_title_s": "Westwood, Bergen County, New Jersey (Sheet 8)",
   "solr_geom": "ENVELOPE(-74.055286, -74.004269, 41.000036, 40.973332)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:46:38Z",
-  "layer_id_s": "public-figgy:0f3f4491-2b0c-422c-9b16-92471fd66504",
+  "layer_modified_dt": "2018-06-21T20:26:41Z",
+  "layer_id_s": "public-figgy:p-0f3f4491-2b0c-422c-9b16-92471fd66504",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5317422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f3f4491-2b0c-422c-9b16-92471fd66504/file/124ae488-7bc2-4d39-afd7-cdbc0f285652\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f3f4491-2b0c-422c-9b16-92471fd66504/file/70954b26-c115-4cf7-b6ec-348d502dbfe7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/7e%2F34%2F19%2F7e34193c8dbf4e16876feb1e563b0f8a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65fd360f-dd47-4e62-acde-389231da57dd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-7h149s77g"
-  ]
+  ],
+  "call_number_s": "HMC04 (Westwood)"
 }

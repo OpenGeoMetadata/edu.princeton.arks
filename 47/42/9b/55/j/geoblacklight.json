@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/47429b55j",
   "layer_slug_s": "princeton-47429b55j",
   "uuid": "princeton-47429b55j",
-  "dc_title_s": "Camden, Burlington County, New Jersey",
+  "dc_title_s": "Camden, Burlington County, New Jersey (Sheet 37)",
   "solr_geom": "ENVELOPE(-75.128, -75.072, 39.969, 39.9)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:30:26Z",
-  "layer_id_s": "public-figgy:3f8c45f5-67bc-4b6a-b09f-ab1dfbb395ec",
+  "layer_modified_dt": "2018-08-27T15:31:29Z",
+  "layer_id_s": "public-figgy:p-3f8c45f5-67bc-4b6a-b09f-ab1dfbb395ec",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355769\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3f8c45f5-67bc-4b6a-b09f-ab1dfbb395ec/file/0049472e-a83e-4806-9356-d9fe5032050f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3f8c45f5-67bc-4b6a-b09f-ab1dfbb395ec/file/888a8568-fc76-4c5a-92ef-f768cbf8ab3b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a0%2Fe8%2F0e%2Fa0e80ee76ff841aa92ea3767f3c2221b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ad74e460-10d0-41a6-8c21-049ebb014419/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-sj139486c"
-  ]
+  ],
+  "call_number_s": "HMC04 (Camden)"
 }

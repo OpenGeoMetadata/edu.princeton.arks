@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jq085m50h",
   "layer_slug_s": "princeton-jq085m50h",
   "uuid": "princeton-jq085m50h",
-  "dc_title_s": "Riverside, Burlington County, New Jersey",
+  "dc_title_s": "Riverside, Burlington County, New Jersey (Sheet 1)",
   "solr_geom": "ENVELOPE(-74.972, -74.938, 40.044, 40.024)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:24:40Z",
-  "layer_id_s": "public-figgy:c3bef355-8465-49d1-84cb-364e71815b50",
+  "layer_modified_dt": "2018-09-04T18:44:02Z",
+  "layer_id_s": "public-figgy:p-c3bef355-8465-49d1-84cb-364e71815b50",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5151822\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3bef355-8465-49d1-84cb-364e71815b50/file/60f1e704-47b0-4046-a8e8-b4cddc57ee2e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3bef355-8465-49d1-84cb-364e71815b50/file/c94cb859-b998-468d-b9bf-a1adbdd5ac2a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F7c%2Fda%2Ff47cda1756df4834a6e7c47df9e66687%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4e50a7b-48b5-47ba-82e9-ff0e969ddc21/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-4j03d257x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Riverside)"
 }

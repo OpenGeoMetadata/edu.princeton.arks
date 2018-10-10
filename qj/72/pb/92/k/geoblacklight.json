@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qj72pb92k",
+  "layer_slug_s": "princeton-qj72pb92k",
+  "uuid": "princeton-qj72pb92k",
+  "dc_title_s": "Argentina housing conditions data from 2010 census",
+  "solr_geom": "ENVELOPE(-74.510484, -47.167178, -21.352829, -55.056737)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2010 housing conditions data for Argentina, displayed by individual census tract. The data were released by the Instituto Nacional de Estadística y Censos (INDEC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Instituto Nacional de Estadística y Censos"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Argentina",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-09-13T21:41:07Z",
+  "layer_id_s": "restricted-figgy:p-327e08ea-164a-413e-888f-9badf2b062d6",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/27b6adb0-af3e-4192-9923-b7ebfc3a08d8/file/67ad7e82-2e7f-4a72-b273-86c6841845b9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/327e08ea-164a-413e-888f-9badf2b062d6/file/0041819b-4472-4792-87ca-f6771bda81b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/327e08ea-164a-413e-888f-9badf2b062d6/file/152b500a-cfb5-42d0-9a0e-651d4ab7e13c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

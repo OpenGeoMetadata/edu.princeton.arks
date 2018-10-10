@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/dv13zw387",
   "layer_slug_s": "princeton-dv13zw387",
   "uuid": "princeton-dv13zw387",
-  "dc_title_s": "Insurance maps of Paterson, New Jersey : volume two",
+  "dc_title_s": "Insurance maps of Paterson, New Jersey : volume two (Sheet 113)",
   "solr_geom": "ENVELOPE(-74.206197, -74.12958, 40.94159, 40.888682)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:58:51Z",
-  "layer_id_s": "public-figgy:58ad034a-267c-4d0f-b727-eb63c53ca563",
+  "layer_modified_dt": "2018-06-21T20:48:37Z",
+  "layer_id_s": "public-figgy:p-58ad034a-267c-4d0f-b727-eb63c53ca563",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5580035\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58ad034a-267c-4d0f-b727-eb63c53ca563/file/40f5869e-c00d-4309-b217-9ef74aeed293\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58ad034a-267c-4d0f-b727-eb63c53ca563/file/33d6e998-29e7-4be4-8f12-f98243dfee42\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ce%2Fb7%2F4d%2Fceb74d9763c74384880db1769ea7b233%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c090e080-e946-4324-980a-cce45a1f5990/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-8336h4825"
-  ]
+  ],
+  "call_number_s": "HMC04 (Paterson)"
 }

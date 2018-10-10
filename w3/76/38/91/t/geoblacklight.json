@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/w3763891t",
   "layer_slug_s": "princeton-w3763891t",
   "uuid": "princeton-w3763891t",
-  "dc_title_s": "Insurance maps of Madison, Morris County, New Jersey",
+  "dc_title_s": "Insurance maps of Madison, Morris County, New Jersey (Sheet 8)",
   "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:27:53Z",
-  "layer_id_s": "public-figgy:032ff060-bc9b-4247-a2a7-87c95f177392",
+  "layer_modified_dt": "2018-08-14T20:01:14Z",
+  "layer_id_s": "public-figgy:p-032ff060-bc9b-4247-a2a7-87c95f177392",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560078\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/032ff060-bc9b-4247-a2a7-87c95f177392/file/feb663a7-6334-4b7e-a727-982bbfee7128\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/032ff060-bc9b-4247-a2a7-87c95f177392/file/ccb0172c-0fbc-4bf7-ae7b-b53433ae749b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b9%2F2f%2Fe6%2Fb92fe6acc1774a259931c55714b1a5c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/04cb5bcd-01a4-4b3c-838a-ebf96f1fa3d0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-m613n150q"
-  ]
+  ],
+  "call_number_s": "HMC04 (Madison)"
 }

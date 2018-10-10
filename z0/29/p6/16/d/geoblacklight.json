@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/z029p616d",
   "layer_slug_s": "princeton-z029p616d",
   "uuid": "princeton-z029p616d",
-  "dc_title_s": "Insurance maps of Atlantic City, New Jersey",
+  "dc_title_s": "Insurance maps of Atlantic City, New Jersey (Sheet 90)",
   "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:45:52Z",
-  "layer_id_s": "public-figgy:659b6b83-ef2f-4892-a978-91271efa886e",
+  "layer_modified_dt": "2018-09-12T15:24:58Z",
+  "layer_id_s": "public-figgy:p-659b6b83-ef2f-4892-a978-91271efa886e",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5174533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/659b6b83-ef2f-4892-a978-91271efa886e/file/16fa918c-9b1c-4ce9-80d2-a3cb8dd19afc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/659b6b83-ef2f-4892-a978-91271efa886e/file/37248fcf-b5a7-4ad5-8d0f-f6589afcaace\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/65%2F2c%2F3a%2F652c3adc0e214a66ac5ffe4dcdbc6a81%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2fa40d38-fcfd-4d5d-b0eb-81c8cdddc3ec/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-pv63g315j"
-  ]
+  ],
+  "call_number_s": "HMC04 (Atlantic City)"
 }

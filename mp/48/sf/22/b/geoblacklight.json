@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/mp48sf22b",
   "layer_slug_s": "princeton-mp48sf22b",
   "uuid": "princeton-mp48sf22b",
-  "dc_title_s": "Pennington, Mercer Co., N. J.",
+  "dc_title_s": "Pennington, Mercer Co., N. J. (Sheet 1)",
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T22:47:52Z",
-  "layer_id_s": "public-figgy:382c4042-a135-48fb-9234-5a8667547db6",
+  "layer_modified_dt": "2018-06-21T19:40:35Z",
+  "layer_id_s": "public-figgy:p-382c4042-a135-48fb-9234-5a8667547db6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4598907\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/382c4042-a135-48fb-9234-5a8667547db6/file/65ae6c00-44c5-4a19-b485-4b2c656f2613\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/382c4042-a135-48fb-9234-5a8667547db6/file/582c48a7-971b-4dce-a7aa-65adc0d15d20\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F19%2F1c%2Fc9191c381fce4c2bb195f88f2369b57e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c029eb78-5660-4274-8ee6-060d218e7ea4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-mk61rk835"
-  ]
+  ],
+  "call_number_s": "HMC04 (Pennington)"
 }

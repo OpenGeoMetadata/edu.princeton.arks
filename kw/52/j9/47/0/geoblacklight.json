@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/kw52j9470",
   "layer_slug_s": "princeton-kw52j9470",
   "uuid": "princeton-kw52j9470",
-  "dc_title_s": "Edgewater, Bergen County, New Jersey",
+  "dc_title_s": "Edgewater, Bergen County, New Jersey (Sheet 6)",
   "solr_geom": "ENVELOPE(-73.994, -73.963, 40.848, 40.801)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:38:37Z",
-  "layer_id_s": "public-figgy:dc414752-ce10-4d2d-9e5b-e4feecc92031",
+  "layer_modified_dt": "2018-06-21T19:46:12Z",
+  "layer_id_s": "public-figgy:p-dc414752-ce10-4d2d-9e5b-e4feecc92031",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5242427\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc414752-ce10-4d2d-9e5b-e4feecc92031/file/ff02fbed-90ea-4f59-97a7-86bb9d451bc3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc414752-ce10-4d2d-9e5b-e4feecc92031/file/ca1f6303-64da-48a6-aaae-22412f2607a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F00%2F14%2F6b00146c63fe4f948bfe711ba089aa63%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec131471-cde5-4672-805c-6f67a92129fd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-4f16c572s"
-  ]
+  ],
+  "call_number_s": "HMC04 (Edgewater)"
 }

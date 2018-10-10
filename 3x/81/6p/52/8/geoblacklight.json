@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3x816p528",
   "layer_slug_s": "princeton-3x816p528",
   "uuid": "princeton-3x816p528",
-  "dc_title_s": "Ridgewood, Bergen County, New Jersey",
+  "dc_title_s": "Ridgewood, Bergen County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.149088, -74.077559, 41.007844, 40.955272)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:44:53Z",
-  "layer_id_s": "public-figgy:04c07f36-5ad6-4061-bacd-6f00e768ee76",
+  "layer_modified_dt": "2018-06-21T20:55:59Z",
+  "layer_id_s": "public-figgy:p-04c07f36-5ad6-4061-bacd-6f00e768ee76",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5289033\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04c07f36-5ad6-4061-bacd-6f00e768ee76/file/a5929539-ce4f-445a-a08a-b977668c0400\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04c07f36-5ad6-4061-bacd-6f00e768ee76/file/7d79ad58-3667-43aa-9c93-c54fc712a9e2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3b%2F64%2Fce%2F3b64ce8c6071467fb6549a1841a45f86%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/69513173-cad0-439a-983e-366edb32da5e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-2r36v146n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Ridgewood)"
 }

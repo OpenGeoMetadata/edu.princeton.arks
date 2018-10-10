@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5t34sm165",
   "layer_slug_s": "princeton-5t34sm165",
   "uuid": "princeton-5t34sm165",
-  "dc_title_s": "Mount Holly, Burlington County, New Jersey",
+  "dc_title_s": "Mount Holly, Burlington County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.807, -74.768, 40.011, 39.979)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:26:47Z",
-  "layer_id_s": "public-figgy:96b026c6-7ac5-4156-87f5-ac40ca7391c0",
+  "layer_modified_dt": "2018-06-21T20:35:59Z",
+  "layer_id_s": "public-figgy:p-96b026c6-7ac5-4156-87f5-ac40ca7391c0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5145576\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/96b026c6-7ac5-4156-87f5-ac40ca7391c0/file/02436a9a-5c4b-4502-a9db-cb872d0a8887\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/96b026c6-7ac5-4156-87f5-ac40ca7391c0/file/aa257d14-7c15-44df-9d91-afe881f9d5bb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/05%2Fa5%2Fae%2F05a5ae72ce8f44b6b9e05794af120b3e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4ef45b13-5e65-4468-a9ed-5f41f0749869/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9z9032766"
-  ]
+  ],
+  "call_number_s": "HMC04 (Mount Holly)"
 }

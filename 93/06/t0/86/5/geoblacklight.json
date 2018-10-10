@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/9306t0865",
   "layer_slug_s": "princeton-9306t0865",
   "uuid": "princeton-9306t0865",
-  "dc_title_s": "Island Heights, Ocean County, New Jersey",
+  "dc_title_s": "Island Heights, Ocean County, New Jersey (Sheet 73)",
   "solr_geom": "ENVELOPE(-74.156, -74.133, 39.952, 39.937)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:05:10Z",
-  "layer_id_s": "public-figgy:453c4268-01d5-414f-b3af-c9e0291c531d",
+  "layer_modified_dt": "2018-06-21T20:45:17Z",
+  "layer_id_s": "public-figgy:p-453c4268-01d5-414f-b3af-c9e0291c531d",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802043\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/453c4268-01d5-414f-b3af-c9e0291c531d/file/bf9ab3a6-b4d5-4b9e-bd86-fce60e4d5890\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/453c4268-01d5-414f-b3af-c9e0291c531d/file/916450cb-4618-4f84-9b8f-cb4300886007\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2F99%2Fbc%2F2399bc1f43504cffbba2d887dfefd976%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/53ba6ced-9288-495c-8d21-e6b3bcfcbb0d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-hx11xj16f"
-  ]
+  ],
+  "call_number_s": "HMC04 (Island Heights)"
 }

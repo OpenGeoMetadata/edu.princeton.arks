@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/9w032465d",
   "layer_slug_s": "princeton-9w032465d",
   "uuid": "princeton-9w032465d",
-  "dc_title_s": "Mt. Holly, Burlington Co., N. J.",
+  "dc_title_s": "Mt. Holly, Burlington Co., N. J. (Sheet 7)",
   "solr_geom": "ENVELOPE(-74.807, -74.768, 40.011, 39.979)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:29:34Z",
-  "layer_id_s": "public-figgy:06342b83-b2d5-405f-81ae-60b903b7f771",
+  "layer_modified_dt": "2018-06-21T20:35:00Z",
+  "layer_id_s": "public-figgy:p-06342b83-b2d5-405f-81ae-60b903b7f771",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5144677\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06342b83-b2d5-405f-81ae-60b903b7f771/file/714f372d-25cf-4818-8669-a63aa8896465\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06342b83-b2d5-405f-81ae-60b903b7f771/file/7bed6299-7828-4f87-8b7b-98a5cf1b5e21\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/23%2F3b%2F46%2F233b467380a844a29dcde69f83e59089%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2e1cba2-3e5e-46e4-acbd-2fbb2c8563f1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-td96k544q"
-  ]
+  ],
+  "call_number_s": "HMC04 (Mount Holly)"
 }

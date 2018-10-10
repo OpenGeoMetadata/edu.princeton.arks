@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/b8515s178",
+  "layer_slug_s": "princeton-b8515s178",
+  "uuid": "princeton-b8515s178",
+  "dc_title_s": "El Salvador birth data from 2007 census",
+  "solr_geom": "ENVELOPE(-90.132002, -87.683802, 14.451055, 13.155402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2007 birth data for El Salvador, including number, sex, birthdates, and deaths of children, displayed at municipality level. The data were released by the Dirección General de Estadística y Censos (DIGESTYC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Dirección General de Estadística y Censos (DIGESTYC)"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2018"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-09-20T13:48:14Z",
+  "layer_id_s": "ark:/88435/b8515s178",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/775b137a-7e13-4191-b7be-8702539f28d5/file/e909cfa9-e810-4054-9892-3c8aa938aad7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3eea4df-d7b8-4e01-a792-09104bc6cec0/file/35e6f064-dccf-49d4-ae22-db227bde704d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3eea4df-d7b8-4e01-a792-09104bc6cec0/file/ab3b114f-ce0e-42bb-998f-a101750240d9\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

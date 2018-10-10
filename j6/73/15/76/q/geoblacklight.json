@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/j6731576q",
   "layer_slug_s": "princeton-j6731576q",
   "uuid": "princeton-j6731576q",
-  "dc_title_s": "Insurance maps of East Orange, New Jersey",
+  "dc_title_s": "Insurance maps of East Orange, New Jersey (Sheet 88)",
   "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:04:53Z",
-  "layer_id_s": "public-figgy:210f88e6-2e43-409f-b486-db9d57436bc1",
+  "layer_modified_dt": "2018-09-25T20:10:44Z",
+  "layer_id_s": "public-figgy:p-210f88e6-2e43-409f-b486-db9d57436bc1",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5473534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/210f88e6-2e43-409f-b486-db9d57436bc1/file/20de9685-cede-461c-acd2-2a525269c9d5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/210f88e6-2e43-409f-b486-db9d57436bc1/file/e68a0777-de00-4c9e-8b32-a42b8e87ec64\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F97%2F92%2Fb297921ff0ad4bed84f2f6f40a29544d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41db8c31-70c1-4ece-98d8-0755d1451c58/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-j9602353d"
-  ]
+  ],
+  "call_number_s": "HMC04 (East Orange)"
 }

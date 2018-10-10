@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/8c97kr946",
   "layer_slug_s": "princeton-8c97kr946",
   "uuid": "princeton-8c97kr946",
-  "dc_title_s": "Flemington, Hunterdon Co., New Jersey",
+  "dc_title_s": "Flemington, Hunterdon Co., New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.869, -74.851, 40.519, 40.498)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:42:09Z",
-  "layer_id_s": "public-figgy:b97f7d43-66ff-450b-9b59-185c9857ee13",
+  "layer_modified_dt": "2018-06-21T19:43:51Z",
+  "layer_id_s": "public-figgy:p-b97f7d43-66ff-450b-9b59-185c9857ee13",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4781058\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b97f7d43-66ff-450b-9b59-185c9857ee13/file/c01cf084-6d69-4ba3-a22f-8ba071a09ada\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b97f7d43-66ff-450b-9b59-185c9857ee13/file/35a0efdf-7651-4a2c-a272-fbc0a7c196bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/40%2F87%2Fa3%2F4087a3aaf61243548e38195d038e7647%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4424c61-5b02-4805-bb4e-27b1d027d433/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-sn00b170n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Flemington)"
 }

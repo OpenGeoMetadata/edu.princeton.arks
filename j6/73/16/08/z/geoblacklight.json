@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/j6731608z",
   "layer_slug_s": "princeton-j6731608z",
   "uuid": "princeton-j6731608z",
-  "dc_title_s": "Plainfield, New Jersey",
+  "dc_title_s": "Plainfield, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:15:48Z",
-  "layer_id_s": "public-figgy:a178525a-5df0-48ae-9e61-2c3e988cd13a",
+  "layer_modified_dt": "2018-06-21T20:14:14Z",
+  "layer_id_s": "public-figgy:p-a178525a-5df0-48ae-9e61-2c3e988cd13a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5620472\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a178525a-5df0-48ae-9e61-2c3e988cd13a/file/ec0c4db6-e2a9-4373-878b-ef1979518168\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a178525a-5df0-48ae-9e61-2c3e988cd13a/file/dc0d6b80-cfcd-4f9a-9599-968986e4f2c4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/4e%2Fbc%2F86%2F4ebc8636941740e2bc22ad00a9bd50cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/745026c2-d4a5-4836-917c-21c09ff54e45/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-zp38wg55s"
-  ]
+  ],
+  "call_number_s": "HMC04 (Plainfield)"
 }

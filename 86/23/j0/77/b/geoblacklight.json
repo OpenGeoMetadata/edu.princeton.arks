@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/8623j077b",
   "layer_slug_s": "princeton-8623j077b",
   "uuid": "princeton-8623j077b",
-  "dc_title_s": "North Bergen, Guttenberg",
+  "dc_title_s": "North Bergen, Guttenberg (Sheet 120)",
   "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:19:55Z",
-  "layer_id_s": "public-figgy:d74b9223-9035-4ed9-844f-da2f270ceada",
+  "layer_modified_dt": "2018-06-21T20:12:21Z",
+  "layer_id_s": "public-figgy:p-d74b9223-9035-4ed9-844f-da2f270ceada",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5496529\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d74b9223-9035-4ed9-844f-da2f270ceada/file/b8c20285-0f08-40a1-a8d8-8468de3ead32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d74b9223-9035-4ed9-844f-da2f270ceada/file/9be7eced-c311-4ce2-aff1-2c9b943ef5d6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6a%2F66%2F06%2F6a660681182f48c1bee400581743a3a1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aa33f8c9-eec8-4b19-a6a0-a42e4cd6d112/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-xg94hs440"
-  ]
+  ],
+  "call_number_s": "HMC04 (North Bergen)"
 }

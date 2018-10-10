@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5712m8431",
   "layer_slug_s": "princeton-5712m8431",
   "uuid": "princeton-5712m8431",
-  "dc_title_s": "Ramsey, Bergen County, New Jersey",
+  "dc_title_s": "Ramsey, Bergen County, New Jersey (Sheet 1)",
   "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:39:11Z",
-  "layer_id_s": "public-figgy:bd537783-9fe4-45f9-841d-50db83eff199",
+  "layer_modified_dt": "2018-06-21T20:58:54Z",
+  "layer_id_s": "public-figgy:p-bd537783-9fe4-45f9-841d-50db83eff199",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5286978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bd537783-9fe4-45f9-841d-50db83eff199/file/370b2178-5118-4eb7-9afa-592fe9b6384b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd537783-9fe4-45f9-841d-50db83eff199/file/8fc4eafd-4e42-46d3-ac05-488ec636000f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b2%2F5b%2F21%2Fb25b21c7056e4f8cade26c5148540e59%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94264e55-3c52-4718-9a6a-d4447a3642f9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-zs25xc38z"
-  ]
+  ],
+  "call_number_s": "HMC04 (Ramsey)"
 }

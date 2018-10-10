@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/t435gg005",
   "layer_slug_s": "princeton-t435gg005",
   "uuid": "princeton-t435gg005",
-  "dc_title_s": "Bridgeport, Gloucester County, New Jersey",
+  "dc_title_s": "Bridgeport, Gloucester County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-75.363419, -75.331404, 39.809518, 39.792373)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:28:51Z",
-  "layer_id_s": "public-figgy:ddd710e3-d215-4fd1-8a77-23fab794fc72",
+  "layer_modified_dt": "2018-06-21T19:50:02Z",
+  "layer_id_s": "public-figgy:p-ddd710e3-d215-4fd1-8a77-23fab794fc72",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5478967\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddd710e3-d215-4fd1-8a77-23fab794fc72/file/2c901177-cbe2-43c7-8f2e-bc8fcbccb651\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddd710e3-d215-4fd1-8a77-23fab794fc72/file/fdfe3fee-192e-457e-80df-d9372d78a545\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2a%2Fbf%2Fd4%2F2abfd4fd0eab4dadaec1b8180954d5c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/067f2220-9695-464e-a184-0ef2247b17ca/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-h702q9267"
-  ]
+  ],
+  "call_number_s": "HMC04 (Bridgeport)"
 }

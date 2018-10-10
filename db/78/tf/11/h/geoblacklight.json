@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/db78tf11h",
   "layer_slug_s": "princeton-db78tf11h",
   "uuid": "princeton-db78tf11h",
-  "dc_title_s": "Harrison & E. Newark",
+  "dc_title_s": "Harrison & E. Newark (Sheet 30)",
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:33:20Z",
-  "layer_id_s": "public-figgy:879e4d8f-532d-41f4-a0ad-d96907f907c2",
+  "layer_modified_dt": "2018-06-21T20:03:13Z",
+  "layer_id_s": "public-figgy:p-879e4d8f-532d-41f4-a0ad-d96907f907c2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5514329\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/879e4d8f-532d-41f4-a0ad-d96907f907c2/file/ed671299-2ee0-4a4d-a24f-55bc11516e55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/879e4d8f-532d-41f4-a0ad-d96907f907c2/file/0317fba1-955a-4987-b6d3-5e22391173f9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/60%2F1d%2F27%2F601d27e0b3e947f89b083e69f11dbe55%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b64ab3b6-afea-4873-b46f-2b6ea64a5c25/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-rr1721126"
-  ]
+  ],
+  "call_number_s": "HMC04 (East Newark)"
 }

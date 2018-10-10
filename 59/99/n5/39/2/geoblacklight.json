@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5999n5392",
   "layer_slug_s": "princeton-5999n5392",
   "uuid": "princeton-5999n5392",
-  "dc_title_s": "Orange and West Orange, N.J.",
+  "dc_title_s": "Orange and West Orange, N.J. (Sheet 102)",
   "solr_geom": "ENVELOPE(-74.305049, -74.22089, 40.826557, 40.757392)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:27:58Z",
-  "layer_id_s": "public-figgy:60b42241-9336-443d-be44-cc5ea6b7b2b6",
+  "layer_modified_dt": "2018-06-21T21:10:30Z",
+  "layer_id_s": "public-figgy:p-60b42241-9336-443d-be44-cc5ea6b7b2b6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5478431\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/60b42241-9336-443d-be44-cc5ea6b7b2b6/file/c120771d-1494-4600-85c2-c6b9186f5d1a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/60b42241-9336-443d-be44-cc5ea6b7b2b6/file/52c68fbf-ea01-48d3-bd4d-115f71ab027a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/3e%2F56%2F37%2F3e5637beef4f49bebc39d7b500b8ff16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56517f89-d5aa-4268-9871-f07a48f45b86/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-br86b6470"
-  ]
+  ],
+  "call_number_s": "HMC04 (West Orange)"
 }

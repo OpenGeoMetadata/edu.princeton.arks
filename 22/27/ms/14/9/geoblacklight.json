@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/2227ms149",
   "layer_slug_s": "princeton-2227ms149",
   "uuid": "princeton-2227ms149",
-  "dc_title_s": "Cornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia",
+  "dc_title_s": "Cornubia, Devonia, Somersetus, Dorcestria, Wiltonia, Glocestria, Monumetha, Glamorgan, Caermarden, Penbrok, Cardigan, Radnor, Breknoke, Herefordia & Wigornia [verso]",
   "solr_geom": "ENVELOPE(-6.7047493, 2.0919117, 55.917, 49.674)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -19,13 +19,14 @@
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2018-06-19T21:35:50Z",
-  "layer_id_s": "public-figgy:7edcc332-7e63-4eca-9126-358c3ee94f6c",
+  "layer_modified_dt": "2018-06-22T22:02:50Z",
+  "layer_id_s": "public-figgy:p-7edcc332-7e63-4eca-9126-358c3ee94f6c",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7207082\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7edcc332-7e63-4eca-9126-358c3ee94f6c/file/f91b9653-441a-419b-a530-c9884c9b0b22\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7edcc332-7e63-4eca-9126-358c3ee94f6c/file/b97ea2d6-ae00-45ba-85eb-1608f692fdde\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/1e%2Feb%2Ffb%2F1eebfb9ef5af496ebd8178518606b2ca%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a313af13-7193-4ac6-a7ce-199879d574a9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-5t34sn064"
-  ]
+  ],
+  "call_number_s": "HMC01.4679"
 }

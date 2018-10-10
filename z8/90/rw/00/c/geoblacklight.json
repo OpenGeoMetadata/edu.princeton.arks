@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/z890rw00c",
   "layer_slug_s": "princeton-z890rw00c",
   "uuid": "princeton-z890rw00c",
-  "dc_title_s": "Insurance maps of Red Bank, Monmouth County, New Jersey",
+  "dc_title_s": "Insurance maps of Red Bank, Monmouth County, New Jersey (14)",
   "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:15:58Z",
-  "layer_id_s": "public-figgy:afd40b87-ff37-40ea-914d-10951cebca2c",
+  "layer_modified_dt": "2018-06-21T21:07:14Z",
+  "layer_id_s": "public-figgy:p-afd40b87-ff37-40ea-914d-10951cebca2c",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827180\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afd40b87-ff37-40ea-914d-10951cebca2c/file/caec8935-0c42-460b-b4e1-d294b7f3559f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afd40b87-ff37-40ea-914d-10951cebca2c/file/fd1cebe9-5f40-410a-8e7c-2982559c8be5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/10%2F4c%2Fe2%2F104ce22558c84ad7a1f1ea4558d32a48%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec759de8-5524-40cd-9d3a-8161fce17119/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-bz60d017w"
-  ]
+  ],
+  "call_number_s": "HMC04 (Red Bank)"
 }

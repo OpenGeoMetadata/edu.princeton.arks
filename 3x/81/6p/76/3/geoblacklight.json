@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3x816p763",
   "layer_slug_s": "princeton-3x816p763",
   "uuid": "princeton-3x816p763",
-  "dc_title_s": "Insurance maps of Lakewood, Ocean County, New Jersey",
+  "dc_title_s": "Insurance maps of Lakewood, Ocean County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-74.257643, -74.177643, 40.137893, 40.057893)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:40:39Z",
-  "layer_id_s": "public-figgy:02165a0c-4878-44ad-9689-1f144cfc859b",
+  "layer_modified_dt": "2018-10-08T23:22:50Z",
+  "layer_id_s": "public-figgy:p-02165a0c-4878-44ad-9689-1f144cfc859b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5572422\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02165a0c-4878-44ad-9689-1f144cfc859b/file/97cbb98a-d35c-48bf-87ad-3144732ef62d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02165a0c-4878-44ad-9689-1f144cfc859b/file/912ed537-e3d3-4d19-ad86-5f6e64dbaddf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/72%2F20%2F4e%2F72204ed11ab2444495ecc6e8ede81550%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/27f8a988-dae1-4a88-9732-43ac3c5578b9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-6969z367b"
-  ]
+  ],
+  "call_number_s": "HMC04 (Lakewood)"
 }

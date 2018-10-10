@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/7s75df12s",
   "layer_slug_s": "princeton-7s75df12s",
   "uuid": "princeton-7s75df12s",
-  "dc_title_s": "Insurance maps of Englewood, Bergen County, New Jersey",
+  "dc_title_s": "Insurance maps of Englewood, Bergen County, New Jersey (Sheet 14)",
   "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:35:57Z",
-  "layer_id_s": "public-figgy:5fd17aaf-f405-4221-aac7-4363179e26fc",
+  "layer_modified_dt": "2018-06-21T21:01:06Z",
+  "layer_id_s": "public-figgy:p-5fd17aaf-f405-4221-aac7-4363179e26fc",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246999\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5fd17aaf-f405-4221-aac7-4363179e26fc/file/84ee078b-e557-4355-a5dd-94b6cb044d5b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5fd17aaf-f405-4221-aac7-4363179e26fc/file/dd8c922e-313b-4fe7-bf97-4bb5e4bc4865\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8c%2F9e%2Fbe%2F8c9ebe8104f0499990dab8415bc82cc8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e0b36f8-6702-4b22-a354-cc47fc202107/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-0g354j113"
-  ]
+  ],
+  "call_number_s": "HMC04 (Englewood)"
 }

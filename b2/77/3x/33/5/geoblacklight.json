@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/b2773x335",
   "layer_slug_s": "princeton-b2773x335",
   "uuid": "princeton-b2773x335",
-  "dc_title_s": "Matawan, Monmouth Co., N. J.",
+  "dc_title_s": "Matawan, Monmouth Co., N. J. (Overview)",
   "solr_geom": "ENVELOPE(-74.249, -74.221, 40.431, 40.391)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:54:40Z",
-  "layer_id_s": "public-figgy:140890f5-7244-4ed1-ba1b-8ce6448adb59",
+  "layer_modified_dt": "2018-06-21T20:51:15Z",
+  "layer_id_s": "public-figgy:p-140890f5-7244-4ed1-ba1b-8ce6448adb59",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4826660\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/140890f5-7244-4ed1-ba1b-8ce6448adb59/file/a94bc724-0699-4789-b399-7ade88c280e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/140890f5-7244-4ed1-ba1b-8ce6448adb59/file/5a82903d-94eb-4608-9643-23e6aea01183\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ec%2Ff2%2F8a%2Fecf28ae18ca24eed97d7b9d0343598fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5b295253-75c4-4778-af7d-dd2d7bc1c6eb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-05741v60v"
-  ]
+  ],
+  "call_number_s": "HMC04 (Matawan)"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/9880vt126",
   "layer_slug_s": "princeton-9880vt126",
   "uuid": "princeton-9880vt126",
-  "dc_title_s": "Mendham, Morris County, New Jersey",
+  "dc_title_s": "Mendham, Morris County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:10:13Z",
-  "layer_id_s": "public-figgy:c48a2f38-83ee-4a15-8e15-6592fa005aee",
+  "layer_modified_dt": "2018-06-21T21:08:01Z",
+  "layer_id_s": "public-figgy:p-c48a2f38-83ee-4a15-8e15-6592fa005aee",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560946\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c48a2f38-83ee-4a15-8e15-6592fa005aee/file/a85ac559-8590-4f60-a630-d4e6c8ded642\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c48a2f38-83ee-4a15-8e15-6592fa005aee/file/f01b8a13-18f4-493c-97fc-461d02b3351f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2Fd1%2F31%2F96d1317bc25d451b93d66c984dac957f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/175374df-61e0-463c-81f7-49dfd1f31ca9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-m900nx33h"
-  ]
+  ],
+  "call_number_s": "HMC04 (Mendham)"
 }

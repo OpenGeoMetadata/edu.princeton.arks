@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/v979v5185",
   "layer_slug_s": "princeton-v979v5185",
   "uuid": "princeton-v979v5185",
-  "dc_title_s": "New Brunswick, New Jersey",
+  "dc_title_s": "New Brunswick, New Jersey (Sheet 10)",
   "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:04:00Z",
-  "layer_id_s": "public-figgy:30e4f1ea-6148-446b-8f42-fb94f8b6b83b",
+  "layer_modified_dt": "2018-07-05T16:44:17Z",
+  "layer_id_s": "public-figgy:p-30e4f1ea-6148-446b-8f42-fb94f8b6b83b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5529597\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30e4f1ea-6148-446b-8f42-fb94f8b6b83b/file/a96cefd1-bd5c-454b-a016-1d2399a08c11\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30e4f1ea-6148-446b-8f42-fb94f8b6b83b/file/5afedabb-5070-4f4a-a130-c00ca8459b57\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6d%2Fc5%2F57%2F6dc557168d37455ea9485665be48e885%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d9b736e-8a8e-44d1-919b-3f17e1917189/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-41687m357"
-  ]
+  ],
+  "call_number_s": "HMC04 (New Brunswick)"
 }

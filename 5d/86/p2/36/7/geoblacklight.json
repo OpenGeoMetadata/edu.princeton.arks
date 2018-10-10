@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5d86p2367",
   "layer_slug_s": "princeton-5d86p2367",
   "uuid": "princeton-5d86p2367",
-  "dc_title_s": "Madison, Morris County, New Jersey",
+  "dc_title_s": "Madison, Morris County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.444606, -74.392166, 40.777214, 40.739944)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:31:38Z",
-  "layer_id_s": "public-figgy:ea0509ac-5fab-4d7c-9dac-1e039c258973",
+  "layer_modified_dt": "2018-06-21T21:02:50Z",
+  "layer_id_s": "public-figgy:p-ea0509ac-5fab-4d7c-9dac-1e039c258973",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5560058\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea0509ac-5fab-4d7c-9dac-1e039c258973/file/94fae8c2-9a30-43b2-9e66-52d3a5f2077d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea0509ac-5fab-4d7c-9dac-1e039c258973/file/6c834652-81b4-482d-8493-96bef35f1ec5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a6%2F54%2F4a%2Fa6544a2a2963469f9a0874fded5528e9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fc29537f-cffd-4635-8f4e-5aa5de064054/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-2n49t459x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Madison)"
 }

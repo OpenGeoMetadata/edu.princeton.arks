@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/rx913r32z",
   "layer_slug_s": "princeton-rx913r32z",
   "uuid": "princeton-rx913r32z",
-  "dc_title_s": "Gloucester City, Camden Co., New Jersey",
+  "dc_title_s": "Gloucester City, Camden Co., New Jersey (Sheet 1)",
   "solr_geom": "ENVELOPE(-75.1265, -75.1202, 39.9051, 39.8983)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:30:40Z",
-  "layer_id_s": "public-figgy:653a6fbf-5cba-432b-ba68-24ea06cad688",
+  "layer_modified_dt": "2018-10-01T21:58:55Z",
+  "layer_id_s": "public-figgy:p-653a6fbf-5cba-432b-ba68-24ea06cad688",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5365916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/653a6fbf-5cba-432b-ba68-24ea06cad688/file/e293782e-8814-4bf1-9b47-3b7c39a474b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/653a6fbf-5cba-432b-ba68-24ea06cad688/file/d29048e3-eabd-4444-b9d7-7ea54dbf0de3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d4%2Fb9%2Fe2%2Fd4b9e2e27a244695b41614b60975dac6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c8850915-1e84-4daa-86ee-67629efa9f8f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-6t053j903"
-  ]
+  ],
+  "call_number_s": "HMC04 (Gloucester City)"
 }

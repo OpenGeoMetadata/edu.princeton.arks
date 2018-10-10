@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/v405sc33f",
   "layer_slug_s": "princeton-v405sc33f",
   "uuid": "princeton-v405sc33f",
-  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey",
+  "dc_title_s": "Insurance maps, Bloomfield and Glen Ridge, New Jersey (Sheet 64)",
   "solr_geom": "ENVELOPE(-74.21189, -74.162628, 40.848799, 40.768048)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:23:35Z",
-  "layer_id_s": "public-figgy:afb4c96c-27ac-46e5-9916-12079114789f",
+  "layer_modified_dt": "2018-06-21T21:05:57Z",
+  "layer_id_s": "public-figgy:p-afb4c96c-27ac-46e5-9916-12079114789f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5419098\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/afb4c96c-27ac-46e5-9916-12079114789f/file/dcb1f9bc-1545-4fe5-aa34-87ab7637747c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/afb4c96c-27ac-46e5-9916-12079114789f/file/8cfecd22-798a-445c-b906-231205d45cbb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ae%2F9f%2Fd5%2Fae9fd5cf80bf49cfb063d495f9d7c930%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fe1bbe14-a15d-4290-af08-3ca87a75818b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-bg257h98w"
-  ]
+  ],
+  "call_number_s": "HMC04 (Bloomfield)"
 }

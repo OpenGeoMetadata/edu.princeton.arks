@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/x059c8817",
   "layer_slug_s": "princeton-x059c8817",
   "uuid": "princeton-x059c8817",
-  "dc_title_s": "Merchantville, Camden Co., N. J.",
+  "dc_title_s": "Merchantville, Camden Co., N. J. (Sheet 1)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:24:07Z",
-  "layer_id_s": "public-figgy:db806fe9-ca72-4bd4-b546-2ab6b799b7bb",
+  "layer_modified_dt": "2018-06-21T20:08:11Z",
+  "layer_id_s": "public-figgy:p-db806fe9-ca72-4bd4-b546-2ab6b799b7bb",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5404454\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/db806fe9-ca72-4bd4-b546-2ab6b799b7bb/file/9ab1c299-042e-4e24-a9fe-eb8716ba6f99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/db806fe9-ca72-4bd4-b546-2ab6b799b7bb/file/85d74191-b138-4e76-801b-fd801adfff26\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/30%2F3c%2Fb5%2F303cb52c22ca4c608802940b9bdfaec9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9c4c9557-5955-4af2-a3ec-88af81c7a95b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-p8418r10q"
-  ]
+  ],
+  "call_number_s": "HMC04 (Merchantville)"
 }

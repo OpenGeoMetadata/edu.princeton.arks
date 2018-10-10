@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/6395w879z",
   "layer_slug_s": "princeton-6395w879z",
   "uuid": "princeton-6395w879z",
-  "dc_title_s": "Insurance maps of Camden, New Jersey : volume two",
+  "dc_title_s": "Insurance maps of Camden, New Jersey : volume two (Sheet 46)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:45:14Z",
-  "layer_id_s": "public-figgy:f713e3a0-c138-40bd-9872-1c61a884433a",
+  "layer_modified_dt": "2018-09-17T20:27:55Z",
+  "layer_id_s": "public-figgy:p-f713e3a0-c138-40bd-9872-1c61a884433a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359051\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f713e3a0-c138-40bd-9872-1c61a884433a/file/b66f0050-7ca5-482f-a32d-43890db31404\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f713e3a0-c138-40bd-9872-1c61a884433a/file/56ce306a-3541-4695-a29a-12d6fb41c4f7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/b0%2Fc4%2Fe0%2Fb0c4e07ac7b1473fa80e8ed395e47c55%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43d18cce-6674-4e7b-949e-7af9eeab4c92/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-f1881p82c"
-  ]
+  ],
+  "call_number_s": "HMC04 (Camden)"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/v405sb984",
   "layer_slug_s": "princeton-v405sb984",
   "uuid": "princeton-v405sb984",
-  "dc_title_s": "Insurance maps of Garfield and Wallington, Bergen County, New Jersey",
+  "dc_title_s": "Insurance maps of Garfield and Wallington, Bergen County, New Jersey (Sheet 13)",
   "solr_geom": "ENVELOPE(-74.131, -74.092, 40.894, 40.841)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:59:02Z",
-  "layer_id_s": "public-figgy:97912f5b-98ed-4756-b7bb-78bb32b13388",
+  "layer_modified_dt": "2018-06-21T20:47:09Z",
+  "layer_id_s": "public-figgy:p-97912f5b-98ed-4756-b7bb-78bb32b13388",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5261429\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/97912f5b-98ed-4756-b7bb-78bb32b13388/file/21fa13c9-86e4-497a-bfa5-9654a255f19d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/97912f5b-98ed-4756-b7bb-78bb32b13388/file/99230933-ea85-4b1d-b951-0aa45ba6dd0a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F0d%2F97%2Fc00d971ed18240078e553f344811dd7c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/458f74f9-c3d4-4a52-84d4-59e52d261deb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-rv042w971"
-  ]
+  ],
+  "call_number_s": "HMC04 (Garfield)"
 }

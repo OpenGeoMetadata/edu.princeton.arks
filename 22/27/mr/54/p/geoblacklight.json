@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/2227mr54p",
   "layer_slug_s": "princeton-2227mr54p",
   "uuid": "princeton-2227mr54p",
-  "dc_title_s": "Insurance maps of Burlington, Burlington Co., New Jersey",
+  "dc_title_s": "Insurance maps of Burlington, Burlington Co., New Jersey (Overview)",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:16:55Z",
-  "layer_id_s": "public-figgy:3af85d48-72cc-43c7-a547-7e32fc423491",
+  "layer_modified_dt": "2018-06-21T21:06:28Z",
+  "layer_id_s": "public-figgy:p-3af85d48-72cc-43c7-a547-7e32fc423491",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5054091\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3af85d48-72cc-43c7-a547-7e32fc423491/file/e1268d26-6d2a-4525-9ea1-af8963fc1fc9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3af85d48-72cc-43c7-a547-7e32fc423491/file/b0247fe5-d2cc-4324-9661-d1729a786802\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2Fc7%2F57%2F58c757e6bb1941adb6f8e4c4400e8cf5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cd119e08-c5cc-4660-b40e-018aefda3b46/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-s4655k50x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Burlington)"
 }

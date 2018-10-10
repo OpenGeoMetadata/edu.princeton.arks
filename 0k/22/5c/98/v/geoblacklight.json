@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/0k225c98v",
   "layer_slug_s": "princeton-0k225c98v",
   "uuid": "princeton-0k225c98v",
-  "dc_title_s": "Lyndhurst, N.J.",
+  "dc_title_s": "Lyndhurst, N.J. (Sheet 12)",
   "solr_geom": "ENVELOPE(-74.139987, -74.083351, 40.822629, 40.762114)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:28:40Z",
-  "layer_id_s": "public-figgy:406f04d4-a708-46cf-a0f2-283968ceffbf",
+  "layer_modified_dt": "2018-08-18T15:46:17Z",
+  "layer_id_s": "public-figgy:p-406f04d4-a708-46cf-a0f2-283968ceffbf",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5268280\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/406f04d4-a708-46cf-a0f2-283968ceffbf/file/751b90ea-c4b6-44bd-95a7-551ec993bd21\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/406f04d4-a708-46cf-a0f2-283968ceffbf/file/b63e1838-0980-4904-be97-9c27cf832fd9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2Ff5%2F54%2F33f554c80be9439ebe42609f88761caa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/70c0d3e1-5e70-4f6b-b344-20377ef702fb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-xw42nb81j"
-  ]
+  ],
+  "call_number_s": "HMC04 (Kingsland)"
 }

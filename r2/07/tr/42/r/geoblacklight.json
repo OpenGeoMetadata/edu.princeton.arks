@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/r207tr42r",
   "layer_slug_s": "princeton-r207tr42r",
   "uuid": "princeton-r207tr42r",
-  "dc_title_s": "Weehawken",
+  "dc_title_s": "Weehawken (Sheet 74)",
   "solr_geom": "ENVELOPE(-74.032699, -74.001327, 40.780685, 40.756601)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:58:58Z",
-  "layer_id_s": "public-figgy:1fffd08f-8927-4915-9379-b6e3629c2c79",
+  "layer_modified_dt": "2018-06-21T20:19:56Z",
+  "layer_id_s": "public-figgy:p-1fffd08f-8927-4915-9379-b6e3629c2c79",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5515265\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1fffd08f-8927-4915-9379-b6e3629c2c79/file/179a1ff8-9a12-493c-ad28-c0ef556e10ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1fffd08f-8927-4915-9379-b6e3629c2c79/file/730cd800-f67d-49a1-91e7-170401750cc4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/cc%2F3e%2F6c%2Fcc3e6cf497c342d4a7fb6eb657a57cd4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4d534899-62eb-4d1e-8ce2-48f2c036e9b2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-xw42nb821"
-  ]
+  ],
+  "call_number_s": "HMC04 (Weehawken)"
 }

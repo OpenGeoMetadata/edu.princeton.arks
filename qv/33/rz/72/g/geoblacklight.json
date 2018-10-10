@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/qv33rz72g",
   "layer_slug_s": "princeton-qv33rz72g",
   "uuid": "princeton-qv33rz72g",
-  "dc_title_s": "Insurance maps of Hudson County, New Jersey, volume 9 : Jersey City",
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey, volume 9 : Jersey City (Title)",
   "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:08:17Z",
-  "layer_id_s": "public-figgy:fe2d3768-dd37-4b3f-8893-82d38df7c388",
+  "layer_modified_dt": "2018-09-22T23:43:31Z",
+  "layer_id_s": "public-figgy:p-fe2d3768-dd37-4b3f-8893-82d38df7c388",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5502334\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fe2d3768-dd37-4b3f-8893-82d38df7c388/file/2f0c6916-88cd-4fa1-8a69-94b1b77754fc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fe2d3768-dd37-4b3f-8893-82d38df7c388/file/ec3af6b0-e7ff-470a-acbe-682f202e3f05\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/15%2F51%2F21%2F155121b8ea5c4467a8e111228efd527e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb36bbcd-6eca-40d9-a3e4-888515492df3/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-jm214s05r"
-  ]
+  ],
+  "call_number_s": "HMC04 (Jersey City)"
 }

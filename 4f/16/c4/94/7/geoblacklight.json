@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/4f16c4947",
   "layer_slug_s": "princeton-4f16c4947",
   "uuid": "princeton-4f16c4947",
-  "dc_title_s": "Insurance maps of Perth Amboy, New Jersey",
+  "dc_title_s": "Insurance maps of Perth Amboy, New Jersey (Title)",
   "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:24:32Z",
-  "layer_id_s": "public-figgy:dd7d52e1-115e-4e50-b425-99ab63a711da",
+  "layer_modified_dt": "2018-06-21T20:37:54Z",
+  "layer_id_s": "public-figgy:p-dd7d52e1-115e-4e50-b425-99ab63a711da",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5534290\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd7d52e1-115e-4e50-b425-99ab63a711da/file/e2851915-c057-4370-bd65-662b0d20b20a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd7d52e1-115e-4e50-b425-99ab63a711da/file/3918c376-2ec7-402d-8845-3421ecbe2876\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2F5b%2Fda%2F585bdaf84e73481887d3b6d54803e40b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/62b97e26-a36f-4a5c-ba9e-28fca26a8d7a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-p2676z457"
-  ]
+  ],
+  "call_number_s": "HMC04 (Perth Amboy)"
 }

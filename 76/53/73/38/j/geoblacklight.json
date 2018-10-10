@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/76537338j",
   "layer_slug_s": "princeton-76537338j",
   "uuid": "princeton-76537338j",
-  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 10",
+  "dc_title_s": "Insurance maps of Hudson County, New Jersey : vol. 10 (Sheet 75)",
   "solr_geom": "ENVELOPE(-74.166087, -73.991958, 40.823417, 40.643781)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:21:55Z",
-  "layer_id_s": "public-figgy:067b1554-d164-43d8-a477-09e006b5d964",
+  "layer_modified_dt": "2018-06-21T20:08:43Z",
+  "layer_id_s": "public-figgy:p-067b1554-d164-43d8-a477-09e006b5d964",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5492602\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/067b1554-d164-43d8-a477-09e006b5d964/file/215b8271-6e38-46b9-b60c-e195fb2f4273\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/067b1554-d164-43d8-a477-09e006b5d964/file/63771edb-7395-4053-908f-3f3442cb46b7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2Fa3%2F5c%2F6fa35cc7ef9b4c50b0269123e9df7544%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc209c68-092e-4378-af3e-6128196a3c44/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9z9032785"
-  ]
+  ],
+  "call_number_s": "HMC04 (Bayonne)"
 }

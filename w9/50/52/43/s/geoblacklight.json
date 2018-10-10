@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/w9505243s",
   "layer_slug_s": "princeton-w9505243s",
   "uuid": "princeton-w9505243s",
-  "dc_title_s": "Millburn Township",
+  "dc_title_s": "Millburn Township (Sheet 90)",
   "solr_geom": "ENVELOPE(-74.3725599, -74.28549, 40.7608679, 40.7133)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:36:13Z",
-  "layer_id_s": "public-figgy:9d878651-db8c-4f8b-9fff-70f54226c66b",
+  "layer_modified_dt": "2018-06-21T20:01:58Z",
+  "layer_id_s": "public-figgy:p-9d878651-db8c-4f8b-9fff-70f54226c66b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5421212\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d878651-db8c-4f8b-9fff-70f54226c66b/file/8bd86fd4-6fbd-4e95-8609-1cf2bb8084d1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d878651-db8c-4f8b-9fff-70f54226c66b/file/b1cd9d33-c849-4e9a-a09d-2d18c95ecd07\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d0%2F96%2F58%2Fd096583a9c4040f28b1153277f3cb670%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c8457f17-0051-418e-aab4-a79d96b9458f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-w95053385"
-  ]
+  ],
+  "call_number_s": "HMC04 (Millburn)"
 }

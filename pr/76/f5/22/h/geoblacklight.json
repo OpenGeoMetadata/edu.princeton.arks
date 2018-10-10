@@ -3,10 +3,10 @@
   "dc_identifier_s": "ark:/88435/pr76f522h",
   "layer_slug_s": "princeton-pr76f522h",
   "uuid": "princeton-pr76f522h",
-  "dc_title_s": "Delhi urban area land use plan",
+  "dc_title_s": "Delhi urban area land use plan.",
   "solr_geom": "ENVELOPE(77.18333333333334, 77.3, 28.783333333333335, 28.516666666666666)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Town Planning Organisation, Ministry of Health. Map is a blue line copy.",
   "dc_language_s": "eng",
   "dc_publisher_s": "New Delhi : [s.n.], [1982].",
@@ -15,13 +15,14 @@
     "City blocks",
     "India—Maps"
   ],
-  "layer_modified_dt": "2018-06-19T21:36:50Z",
-  "layer_id_s": "public-figgy:997f2b61-6f27-4ae4-bbcb-4b3d5f301775",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866059\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/997f2b61-6f27-4ae4-bbcb-4b3d5f301775/file/05561bdd-5a2a-4b42-84b7-37ed3031ef25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/997f2b61-6f27-4ae4-bbcb-4b3d5f301775/file/a16fafe7-1c34-4e97-8cf8-1636a56bf0e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F47%2F36%2Fc947364f32d343ae846273d4357dd22f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d95bc3c8-cb40-4d36-93bf-a41493c1a507/manifest\"}",
+  "layer_modified_dt": "2018-09-13T21:10:30Z",
+  "layer_id_s": "997f2b61-6f27-4ae4-bbcb-4b3d5f301775",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866059\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/997f2b61-6f27-4ae4-bbcb-4b3d5f301775/file/a16fafe7-1c34-4e97-8cf8-1636a56bf0e6\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
-    "princeton-f23d162b-78e8-4bd7-89d8-1243a24634eb"
-  ]
+    "princeton-3484zm63d"
+  ],
+  "call_number_s": "G7654.D5G4.1982.T6"
 }
