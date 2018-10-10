@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/x633f3254",
   "layer_slug_s": "princeton-x633f3254",
   "uuid": "princeton-x633f3254",
-  "dc_title_s": "Insurance maps of Salem, Salem Co., New Jersey",
+  "dc_title_s": "Insurance maps of Salem, Salem Co., New Jersey (Sheet 7)",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:08:13Z",
-  "layer_id_s": "public-figgy:d235ae41-8a30-4f55-a44a-45fefa9fd054",
+  "layer_modified_dt": "2018-06-21T20:17:41Z",
+  "layer_id_s": "public-figgy:p-d235ae41-8a30-4f55-a44a-45fefa9fd054",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5594955\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d235ae41-8a30-4f55-a44a-45fefa9fd054/file/84722390-3ad6-4377-bb3d-129c6d506950\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d235ae41-8a30-4f55-a44a-45fefa9fd054/file/446354b1-cba0-463a-bfe3-e5ce543bb3a5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2Faa%2F04%2F79aa0444de5d44f5b086b3cf4d307ba1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/368fa886-6e89-43fc-81cd-d1ebc591c6a2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-8336h481p"
-  ]
+  ],
+  "call_number_s": "HMC04 (Salem)"
 }

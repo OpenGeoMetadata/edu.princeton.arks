@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/q811km12r",
   "layer_slug_s": "princeton-q811km12r",
   "uuid": "princeton-q811km12r",
-  "dc_title_s": "Red Bank, New Jersey",
+  "dc_title_s": "Red Bank, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:45:34Z",
-  "layer_id_s": "public-figgy:f721ebfb-1005-45f7-9326-b9ea1f298c0f",
+  "layer_modified_dt": "2018-06-21T20:28:54Z",
+  "layer_id_s": "public-figgy:p-f721ebfb-1005-45f7-9326-b9ea1f298c0f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4827166\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f721ebfb-1005-45f7-9326-b9ea1f298c0f/file/bf3d8341-8c0d-45bc-bc98-81c2beec6019\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f721ebfb-1005-45f7-9326-b9ea1f298c0f/file/1d3f0f39-9971-479e-9509-9d81c7a7c89b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ba%2Fee%2Fda%2Fbaeeda1dc46b49789557ab60f4aca0bd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4e66fb36-c108-4fb2-be80-5d8d52dd67bd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-d504rp22n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Red Bank)"
 }

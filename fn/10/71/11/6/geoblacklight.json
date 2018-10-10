@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/fn1071116",
   "layer_slug_s": "princeton-fn1071116",
   "uuid": "princeton-fn1071116",
-  "dc_title_s": "Passaic, Passaic County, New Jersey",
+  "dc_title_s": "Passaic, Passaic County, New Jersey (Sheet 22)",
   "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:53:13Z",
-  "layer_id_s": "public-figgy:e98a6bcb-e111-4716-a51f-12d1269091cc",
+  "layer_modified_dt": "2018-07-05T18:56:26Z",
+  "layer_id_s": "public-figgy:p-e98a6bcb-e111-4716-a51f-12d1269091cc",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5578638\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e98a6bcb-e111-4716-a51f-12d1269091cc/file/46fc6b35-a6a2-4067-9d65-65484d095a85\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e98a6bcb-e111-4716-a51f-12d1269091cc/file/fba0dd42-1e82-405f-af10-5c1242dbb53e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ca%2Fda%2F03%2Fcada031975a746d8859d2b5696617bb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/865b1c6c-d100-4285-90a1-8522b25716dd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-cf95jf36z"
-  ]
+  ],
+  "call_number_s": "HMC04 (Passaic)"
 }

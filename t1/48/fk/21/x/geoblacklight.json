@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/t148fk21x",
   "layer_slug_s": "princeton-t148fk21x",
   "uuid": "princeton-t148fk21x",
-  "dc_title_s": "Kearny",
+  "dc_title_s": "Kearny (Sheet 66)",
   "solr_geom": "ENVELOPE(-74.164799, -74.075933, 40.786491, 40.710381)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:17:45Z",
-  "layer_id_s": "public-figgy:973aaee7-7e2b-4eef-a097-ee01321951a6",
+  "layer_modified_dt": "2018-06-21T20:12:08Z",
+  "layer_id_s": "public-figgy:p-973aaee7-7e2b-4eef-a097-ee01321951a6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5505997\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/973aaee7-7e2b-4eef-a097-ee01321951a6/file/63b1ea2c-26fd-46f6-a818-c0917ed553dc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/973aaee7-7e2b-4eef-a097-ee01321951a6/file/daa8f3db-14ac-43ad-98b6-8f9b10365f80\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/bd%2F74%2Fc0%2Fbd74c00e4edc42d9a18d877efb6b66b2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/20edac19-69ca-4069-853d-321993c9e90d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-5h73pz97n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Kearny)"
 }

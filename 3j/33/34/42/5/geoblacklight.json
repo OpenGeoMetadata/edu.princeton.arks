@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3j3334425",
   "layer_slug_s": "princeton-3j3334425",
   "uuid": "princeton-3j3334425",
-  "dc_title_s": "Passaic, New Jersey",
+  "dc_title_s": "Passaic, New Jersey (Sheet 8)",
   "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:19:04Z",
-  "layer_id_s": "public-figgy:d371c825-27fe-42e6-b8ae-2d6352c0e276",
+  "layer_modified_dt": "2018-06-21T21:06:14Z",
+  "layer_id_s": "public-figgy:p-d371c825-27fe-42e6-b8ae-2d6352c0e276",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576894\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d371c825-27fe-42e6-b8ae-2d6352c0e276/file/9771fb07-17c7-4477-aa29-ef71c42b6042\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d371c825-27fe-42e6-b8ae-2d6352c0e276/file/8113f44d-77da-4307-9439-332afbbd192d\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2F7f%2F85%2Fdc7f85911fac4975b0ad8b7921eeb0da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0360b13-b92c-48ca-8566-cff5a44c0c1f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-p2676z46q"
-  ]
+  ],
+  "call_number_s": "HMC04 (Passaic)"
 }

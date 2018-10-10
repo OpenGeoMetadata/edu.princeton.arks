@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5x21th50p",
   "layer_slug_s": "princeton-5x21th50p",
   "uuid": "princeton-5x21th50p",
-  "dc_title_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys",
+  "dc_title_s": "Topographical map of the state of New Jersey : together with the vicinities of New York and Philadelphia, and with most of the state of Delaware : from the State Geological Survey and the U.S. Coast Survey, and from surveys (Sheet 1)",
   "solr_geom": "ENVELOPE(-75.9001, -73.8002, 41.4092, 38.9002)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -19,13 +19,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T22:52:45Z",
-  "layer_id_s": "public-figgy:001c7c0d-c3fd-49eb-8ffb-67942a3cdfa0",
+  "layer_modified_dt": "2018-06-22T22:08:09Z",
+  "layer_id_s": "public-figgy:p-001c7c0d-c3fd-49eb-8ffb-67942a3cdfa0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5581485\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/001c7c0d-c3fd-49eb-8ffb-67942a3cdfa0/file/3c76a122-74ce-4da5-b163-052a741cfd74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/001c7c0d-c3fd-49eb-8ffb-67942a3cdfa0/file/e13103cb-d3e1-49e5-9f62-283e6700d6bd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/70%2F36%2F97%2F703697aad3754b818b41c7b2030514c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64fe32d2-d5c2-45dc-83bd-70177e2a4c42/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-2514nn587"
-  ]
+  ],
+  "call_number_s": "HMC01.1698"
 }

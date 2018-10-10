@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/z316q3104",
   "layer_slug_s": "princeton-z316q3104",
   "uuid": "princeton-z316q3104",
-  "dc_title_s": "Keansburg, Monmouth County, New Jersey",
+  "dc_title_s": "Keansburg, Monmouth County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-74.148, -74.116, 40.457, 40.435)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:55:34Z",
-  "layer_id_s": "public-figgy:29998306-fd68-4c8f-8e8c-388c53cd8827",
+  "layer_modified_dt": "2018-06-21T20:22:29Z",
+  "layer_id_s": "public-figgy:p-29998306-fd68-4c8f-8e8c-388c53cd8827",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4798390\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/29998306-fd68-4c8f-8e8c-388c53cd8827/file/851ae94c-a286-4a40-aed5-b356ce852fc6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/29998306-fd68-4c8f-8e8c-388c53cd8827/file/60cf8065-27f0-4986-9816-b8cab1258612\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F66%2Fe6%2Fc066e65120a54a359b9b1514a0782c40%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3aba596d-e94d-4ed8-b8c9-c1bb5ab37701/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-df65vb767"
-  ]
+  ],
+  "call_number_s": "HMC04 (Keansburg)"
 }

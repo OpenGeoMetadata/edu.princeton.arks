@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/pc289m02k",
   "layer_slug_s": "princeton-pc289m02k",
   "uuid": "princeton-pc289m02k",
-  "dc_title_s": "Millville, New Jersey",
+  "dc_title_s": "Millville, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:07:50Z",
-  "layer_id_s": "public-figgy:bb91708f-31f1-4079-9e9c-ce242e9f5ad2",
+  "layer_modified_dt": "2018-08-27T00:13:05Z",
+  "layer_id_s": "public-figgy:p-bb91708f-31f1-4079-9e9c-ce242e9f5ad2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416178\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb91708f-31f1-4079-9e9c-ce242e9f5ad2/file/eb10787c-7092-4b92-b76c-ae179d4c246d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb91708f-31f1-4079-9e9c-ce242e9f5ad2/file/be457968-d4e2-4757-9923-bd40fbcb8b4a\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8d%2Ff2%2F89%2F8df2890bbd584ab28239f2ef16a2e48a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/79057b76-cd8c-4277-9887-fd69ff389f95/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-d217qs40z"
-  ]
+  ],
+  "call_number_s": "HMC04 (Millville)"
 }

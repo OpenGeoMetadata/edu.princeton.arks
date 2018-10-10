@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/tm70mw89z",
   "layer_slug_s": "princeton-tm70mw89z",
   "uuid": "princeton-tm70mw89z",
-  "dc_title_s": "Insurance maps of Ventnor, Margate City and Longport, New Jersey",
+  "dc_title_s": "Insurance maps of Ventnor, Margate City and Longport, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.538, -74.464, 39.357, 39.303)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -24,13 +24,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:56:20Z",
-  "layer_id_s": "public-figgy:715618fa-3217-435c-baa0-bb681e451213",
+  "layer_modified_dt": "2018-06-21T20:20:50Z",
+  "layer_id_s": "public-figgy:p-715618fa-3217-435c-baa0-bb681e451213",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5221935\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/715618fa-3217-435c-baa0-bb681e451213/file/45619303-1c9a-448b-98e4-c1d4fe3c368a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/715618fa-3217-435c-baa0-bb681e451213/file/cf849b35-7d44-482e-a96a-fd4c235900b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/87%2Fc7%2F55%2F87c7552c908c4262a6fc34cd88961ae5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a44d2e31-d810-46cb-9844-8d507704d3e9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-s7526g32m"
-  ]
+  ],
+  "call_number_s": "HMC04 (Ventnor)"
 }

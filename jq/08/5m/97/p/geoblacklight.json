@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jq085m97p",
   "layer_slug_s": "princeton-jq085m97p",
   "uuid": "princeton-jq085m97p",
-  "dc_title_s": "South Orange Village & Township",
+  "dc_title_s": "South Orange Village & Township (Sheet 14)",
   "solr_geom": "ENVELOPE(-74.283427, -74.234841, 40.762314, 40.735601)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:39:09Z",
-  "layer_id_s": "public-figgy:2b298ef8-666e-47d8-aef0-a1dac763a02b",
+  "layer_modified_dt": "2018-06-21T20:59:05Z",
+  "layer_id_s": "public-figgy:p-2b298ef8-666e-47d8-aef0-a1dac763a02b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5477905\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b298ef8-666e-47d8-aef0-a1dac763a02b/file/a4624c5d-1f38-493b-8574-36aebb74d3ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b298ef8-666e-47d8-aef0-a1dac763a02b/file/2fa7ffbc-c946-4659-a18c-3d677803b092\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/89%2Fb8%2F28%2F89b8289d14034ca7ae9b9c7a0f991d78%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/275e6fb6-e4ed-4245-b983-861c8ac30085/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-gh93h2405"
-  ]
+  ],
+  "call_number_s": "HMC04 (South Orange)"
 }

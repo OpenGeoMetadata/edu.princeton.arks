@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5425kd18w",
   "layer_slug_s": "princeton-5425kd18w",
   "uuid": "princeton-5425kd18w",
-  "dc_title_s": "Germany (eastern sheet)",
+  "dc_title_s": "Germany (eastern sheet) (eastern sheet)",
   "solr_geom": "ENVELOPE(13.0, 23.0, 55.0, 44.0)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2018-06-19T21:43:50Z",
-  "layer_id_s": "public-figgy:33f3d45a-bea6-441f-9ed5-420bee9753a8",
+  "layer_modified_dt": "2018-06-22T22:07:29Z",
+  "layer_id_s": "public-figgy:p-33f3d45a-bea6-441f-9ed5-420bee9753a8",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7377655\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/33f3d45a-bea6-441f-9ed5-420bee9753a8/file/1ac8e0d4-e26c-40df-8e10-159550cdc967\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/33f3d45a-bea6-441f-9ed5-420bee9753a8/file/254c99ed-1972-4c3e-8417-9ec221610ad5\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2F1e%2Fd4%2F2b1ed48db79a4540900278cccf8b37f0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e7ba8ce6-fae2-42ff-aeb3-65fbcb0b5cbe/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-8w32r810b"
-  ]
+  ],
+  "call_number_s": "HMC01.2935"
 }

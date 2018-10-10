@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jm214r295",
   "layer_slug_s": "princeton-jm214r295",
   "uuid": "princeton-jm214r295",
-  "dc_title_s": "Morristown, Morris Co., New Jersey",
+  "dc_title_s": "Morristown, Morris Co., New Jersey (Sheet 11)",
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:23:19Z",
-  "layer_id_s": "public-figgy:d14548db-9506-4e1e-aff9-197b7366044a",
+  "layer_modified_dt": "2018-06-21T20:38:14Z",
+  "layer_id_s": "public-figgy:p-d14548db-9506-4e1e-aff9-197b7366044a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5562463\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d14548db-9506-4e1e-aff9-197b7366044a/file/7e529333-1a84-493a-a589-56bad7ebe16d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d14548db-9506-4e1e-aff9-197b7366044a/file/3456bf08-d148-46c6-b868-ebd41d34c40c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/99%2Fed%2F58%2F99ed58701e154e1aa433c3d0f5a329fb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9b2f2170-8f64-4432-919d-cb62f5267a39/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-5x21tj325"
-  ]
+  ],
+  "call_number_s": "HMC04 (Morristown)"
 }

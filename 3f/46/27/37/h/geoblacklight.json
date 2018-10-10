@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3f462737h",
   "layer_slug_s": "princeton-3f462737h",
   "uuid": "princeton-3f462737h",
-  "dc_title_s": "Insurance maps of Bridgeton, Cumberland County, New Jersey",
+  "dc_title_s": "Insurance maps of Bridgeton, Cumberland County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.253033, -75.20384, 39.455303, 39.402758)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:28:32Z",
-  "layer_id_s": "public-figgy:fcfd878e-6887-463c-ab56-be447b012fb5",
+  "layer_modified_dt": "2018-06-21T20:33:57Z",
+  "layer_id_s": "public-figgy:p-fcfd878e-6887-463c-ab56-be447b012fb5",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5410887\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fcfd878e-6887-463c-ab56-be447b012fb5/file/0b5a7a34-d864-4e92-9dd1-de71b22aaa17\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fcfd878e-6887-463c-ab56-be447b012fb5/file/cd45586f-6ea0-4185-a7d6-88abd5842c00\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/95%2Ff5%2Ffb%2F95f5fbad73094f98afb329459ff45ec8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c83948d-7e0b-4d24-af19-02865e0da8e0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-z603r133h"
-  ]
+  ],
+  "call_number_s": "HMC04 (Bridgeton)"
 }

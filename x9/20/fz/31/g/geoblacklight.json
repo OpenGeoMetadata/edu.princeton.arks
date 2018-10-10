@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/x920fz31g",
   "layer_slug_s": "princeton-x920fz31g",
   "uuid": "princeton-x920fz31g",
-  "dc_title_s": "Lodi & Hasbrouck Heights",
+  "dc_title_s": "Lodi & Hasbrouck Heights (Sheet 59)",
   "solr_geom": "ENVELOPE(-74.099, -74.059, 40.895, 40.847)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:25:31Z",
-  "layer_id_s": "public-figgy:9fdb535c-34a3-4238-a304-0cb11a09ef3e",
+  "layer_modified_dt": "2018-06-21T20:08:20Z",
+  "layer_id_s": "public-figgy:p-9fdb535c-34a3-4238-a304-0cb11a09ef3e",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5267570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fdb535c-34a3-4238-a304-0cb11a09ef3e/file/e3aab677-44ca-48db-a692-1c1ddf95f859\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fdb535c-34a3-4238-a304-0cb11a09ef3e/file/c0b8a267-37aa-4452-bcaa-65ba03266901\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2Fe5%2Fa3%2F6be5a38896404704abf4250303d8040a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a2b35b1-00a9-4ba0-af57-afd0dadededf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9z903275q"
-  ]
+  ],
+  "call_number_s": "HMC04 (Hasbrouck Heights)"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/z316q3916",
   "layer_slug_s": "princeton-z316q3916",
   "uuid": "princeton-z316q3916",
-  "dc_title_s": "Insurance maps of Plainfield, New Jersey",
+  "dc_title_s": "Insurance maps of Plainfield, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.463351, -74.382791, 40.644185, 40.594502)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:41:01Z",
-  "layer_id_s": "public-figgy:c0d017c8-901e-4b29-a8c0-ab26db1fdb42",
+  "layer_modified_dt": "2018-06-21T20:29:38Z",
+  "layer_id_s": "public-figgy:p-c0d017c8-901e-4b29-a8c0-ab26db1fdb42",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5621388\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0d017c8-901e-4b29-a8c0-ab26db1fdb42/file/7dedd69e-f0f3-4553-b0c8-749c4132c8bf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0d017c8-901e-4b29-a8c0-ab26db1fdb42/file/fe214455-ddc7-4d9d-a336-0c0711300fd4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/79%2F42%2Ff6%2F7942f628f31d445e87713200958f7fcd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ca9e139b-7aef-403c-8911-4ee228477b2a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-gm80hz25x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Plainfield)"
 }

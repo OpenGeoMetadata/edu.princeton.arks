@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/1544bq679",
   "layer_slug_s": "princeton-1544bq679",
   "uuid": "princeton-1544bq679",
-  "dc_title_s": "Monmouth Beach, N. J.",
+  "dc_title_s": "Monmouth Beach, N. J. (Sheet 4)",
   "solr_geom": "ENVELOPE(-73.999, -73.972, 40.346, 40.322)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:26:45Z",
-  "layer_id_s": "public-figgy:96ef447d-43db-4c58-a4c9-04c68237477f",
+  "layer_modified_dt": "2018-06-21T20:06:43Z",
+  "layer_id_s": "public-figgy:p-96ef447d-43db-4c58-a4c9-04c68237477f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825992\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/96ef447d-43db-4c58-a4c9-04c68237477f/file/aa09dd6e-c799-4753-89d3-dde1d4eb9dde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/96ef447d-43db-4c58-a4c9-04c68237477f/file/5213ab0a-5144-49bf-b2d9-5ac36f73f10e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a3%2Ffe%2F3c%2Fa3fe3cb09b3642a582a719fb76c03066%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48603ba8-c1b1-442f-8751-d10b5a80f392/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-k0698b411"
-  ]
+  ],
+  "call_number_s": "HMC04 (Monmouth Beach)"
 }

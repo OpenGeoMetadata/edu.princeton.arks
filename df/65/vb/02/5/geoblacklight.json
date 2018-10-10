@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/df65vb025",
   "layer_slug_s": "princeton-df65vb025",
   "uuid": "princeton-df65vb025",
-  "dc_title_s": "Insurance maps of Passaic, Passaic County, New Jersey",
+  "dc_title_s": "Insurance maps of Passaic, Passaic County, New Jersey (Sheet 6)",
   "solr_geom": "ENVELOPE(-74.146704, -74.106786, 40.876812, 40.834098)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:45:20Z",
-  "layer_id_s": "public-figgy:ba428987-c119-4605-9ff4-e3644a834088",
+  "layer_modified_dt": "2018-07-05T19:00:31Z",
+  "layer_id_s": "public-figgy:p-ba428987-c119-4605-9ff4-e3644a834088",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5578870\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba428987-c119-4605-9ff4-e3644a834088/file/3a5a7158-8184-4656-a8d0-078a9e6c95de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba428987-c119-4605-9ff4-e3644a834088/file/e921d7aa-bc42-47d2-89a7-e9a2c585cebd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/45%2F34%2Fa7%2F4534a7cb04b740c3a6fecd2d5c76094d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9a97be25-ad09-4c24-9583-d3468d48e864/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-73666740x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Passaic)"
 }

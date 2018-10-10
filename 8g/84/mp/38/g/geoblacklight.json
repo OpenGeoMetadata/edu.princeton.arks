@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/8g84mp38g",
   "layer_slug_s": "princeton-8g84mp38g",
   "uuid": "princeton-8g84mp38g",
-  "dc_title_s": "City of South Amboy, Middlesex County, New Jersey",
+  "dc_title_s": "City of South Amboy, Middlesex County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.297673, -74.268088, 40.496252, 40.470172)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:08:21Z",
-  "layer_id_s": "public-figgy:120d286e-8fd5-426d-ac6d-cdc3481ab540",
+  "layer_modified_dt": "2018-09-07T14:10:53Z",
+  "layer_id_s": "public-figgy:p-120d286e-8fd5-426d-ac6d-cdc3481ab540",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5537445\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/120d286e-8fd5-426d-ac6d-cdc3481ab540/file/d3f245da-2311-45ee-ae46-135993ffc4be\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/120d286e-8fd5-426d-ac6d-cdc3481ab540/file/b6d4c0e2-099d-43ba-a175-bbb01d910047\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/38%2F39%2F87%2F383987a221d64973b48423a8ac5592f8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6834fb7c-8bcf-4822-a056-7c6013a45955/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-ft848t548"
-  ]
+  ],
+  "call_number_s": "HMC04 (South Amboy)"
 }

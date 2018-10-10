@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/6w924f339",
   "layer_slug_s": "princeton-6w924f339",
   "uuid": "princeton-6w924f339",
-  "dc_title_s": "A new map of Ireland according to Sr. W. Petty (but supplied wth. many additions which are not in his survey nor in any other map) divided into its provinces, counties & barronies where in are distinguished not only the bishopricks & boroughs but also all the bogs, passes, bridges, &c yt are in Sr. W.P. 32 county maps",
+  "dc_title_s": "A new map of Ireland according to Sr. W. Petty (but supplied wth. many additions which are not in his survey nor in any other map) divided into its provinces, counties & barronies where in are distinguished not only the bishopricks & boroughs but also all the bogs, passes, bridges, &c yt are in Sr. W.P. 32 county maps (but supplied wth many additions which are not in his survey nor in any other map)",
   "solr_geom": "ENVELOPE(-11.0, -5.0, 56.0, 51.0)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -19,13 +19,14 @@
   "dct_spatial_sm": [
     "Ireland"
   ],
-  "layer_modified_dt": "2018-06-19T21:21:47Z",
-  "layer_id_s": "public-figgy:357af14b-891f-480e-8d5a-1b0fcedb8e22",
+  "layer_modified_dt": "2018-06-22T21:54:05Z",
+  "layer_id_s": "public-figgy:p-357af14b-891f-480e-8d5a-1b0fcedb8e22",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7811169\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/357af14b-891f-480e-8d5a-1b0fcedb8e22/file/7f78a1eb-40d5-4513-97bd-89477bc5e838\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/357af14b-891f-480e-8d5a-1b0fcedb8e22/file/dc8be8a3-3ea2-4978-85a1-1b517776b7d9\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/25%2Fa1%2F62%2F25a1627c22014e11a54a4544d4791948%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68aa8721-b7ff-4aa0-9edc-dfcd9319544f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-gf06g5168"
-  ]
+  ],
+  "call_number_s": "HMC01.5047"
 }

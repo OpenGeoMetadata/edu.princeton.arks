@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/v979v5039",
   "layer_slug_s": "princeton-v979v5039",
   "uuid": "princeton-v979v5039",
-  "dc_title_s": "Insurance maps of Montclair, New Jersey",
+  "dc_title_s": "Insurance maps of Montclair, New Jersey (Overview)",
   "solr_geom": "ENVELOPE(-74.23764, -74.182689, 40.861847, 40.788323)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:37:20Z",
-  "layer_id_s": "public-figgy:23b20100-8c29-43a5-9a45-4f02be75e6e9",
+  "layer_modified_dt": "2018-09-22T00:17:53Z",
+  "layer_id_s": "public-figgy:p-23b20100-8c29-43a5-9a45-4f02be75e6e9",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5422934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/23b20100-8c29-43a5-9a45-4f02be75e6e9/file/50eb0939-bf52-4bb2-97c2-1ff70ba1627c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/23b20100-8c29-43a5-9a45-4f02be75e6e9/file/aa044779-f9ac-424d-8053-71a29d0bd355\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f9%2F9a%2F49%2Ff99a49de0e9447bc93fb7e66fcc24538%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25c05815-6907-452f-9735-d2233963aa2b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-02870z772"
-  ]
+  ],
+  "call_number_s": "HMC04 (Montclair)"
 }

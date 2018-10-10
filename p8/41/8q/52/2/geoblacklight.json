@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/p8418q522",
   "layer_slug_s": "princeton-p8418q522",
   "uuid": "princeton-p8418q522",
-  "dc_title_s": "Insurance maps of Rahway, Union Co., New Jersey",
+  "dc_title_s": "Insurance maps of Rahway, Union Co., New Jersey (Sheet 11)",
   "solr_geom": "ENVELOPE(-74.305326, -74.255608, 40.62753, 40.591903)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:37:44Z",
-  "layer_id_s": "public-figgy:d2430ae3-72f6-464d-9f66-a8085516464a",
+  "layer_modified_dt": "2018-07-15T01:33:32Z",
+  "layer_id_s": "public-figgy:p-d2430ae3-72f6-464d-9f66-a8085516464a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5621948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d2430ae3-72f6-464d-9f66-a8085516464a/file/c6089093-a251-429e-824f-9d31852743c8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2430ae3-72f6-464d-9f66-a8085516464a/file/e03b849c-e720-40ef-a0d2-09dddb408338\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c0%2F8b%2F44%2Fc08b449da1864408b711ea283c47d348%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8214c7d8-f978-48cb-884b-2550f8f75cf0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9p290d26p"
-  ]
+  ],
+  "call_number_s": "HMC04 (Rahway)"
 }

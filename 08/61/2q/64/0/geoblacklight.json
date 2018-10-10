@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/08612q640",
   "layer_slug_s": "princeton-08612q640",
   "uuid": "princeton-08612q640",
-  "dc_title_s": "Insurance maps of Perth Amboy, Middlesex County, New Jersey",
+  "dc_title_s": "Insurance maps of Perth Amboy, Middlesex County, New Jersey (Sheet 16)",
   "solr_geom": "ENVELOPE(-74.292226, -74.25028, 40.544561, 40.498903)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:43:11Z",
-  "layer_id_s": "public-figgy:30583915-9609-477b-82b5-c916d0244bc6",
+  "layer_modified_dt": "2018-06-21T20:56:08Z",
+  "layer_id_s": "public-figgy:p-30583915-9609-477b-82b5-c916d0244bc6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5532245\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30583915-9609-477b-82b5-c916d0244bc6/file/39cb0f75-d966-4fce-8a3b-73eafa969d45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30583915-9609-477b-82b5-c916d0244bc6/file/18a1734a-656b-440c-957a-0655b922d03e\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f3%2F25%2F59%2Ff32559875b6244788b6d76d31fc76f60%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/83eaa0d3-d45a-40e4-8487-02abfaea0261/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-ht24wn34r"
-  ]
+  ],
+  "call_number_s": "HMC04 (Perth Amboy)"
 }

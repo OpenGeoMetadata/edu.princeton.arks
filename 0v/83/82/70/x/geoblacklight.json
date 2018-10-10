@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/0v838270x",
   "layer_slug_s": "princeton-0v838270x",
   "uuid": "princeton-0v838270x",
-  "dc_title_s": "Dover, Morris Co., New Jersey",
+  "dc_title_s": "Dover, Morris Co., New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.578304, -74.538707, 40.904113, 40.872536)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:37:05Z",
-  "layer_id_s": "public-figgy:40532790-56f3-4638-962a-2432fbe54719",
+  "layer_modified_dt": "2018-06-21T19:46:40Z",
+  "layer_id_s": "public-figgy:p-40532790-56f3-4638-962a-2432fbe54719",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5556590\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/40532790-56f3-4638-962a-2432fbe54719/file/8bfefdc2-e5c3-41c6-a9db-e0e1c790b095\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/40532790-56f3-4638-962a-2432fbe54719/file/cd57c880-3b40-4ce0-b498-7e86fe1f82ab\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c2%2Fe0%2Fe9%2Fc2e0e94b6c0347ac9f2759d87981d1ab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e8a0ce96-c89c-4cd9-b2c5-c09a06f11689/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-37720g63z"
-  ]
+  ],
+  "call_number_s": "HMC04 (Dover)"
 }

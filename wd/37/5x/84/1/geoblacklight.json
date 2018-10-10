@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/wd375x841",
   "layer_slug_s": "princeton-wd375x841",
   "uuid": "princeton-wd375x841",
-  "dc_title_s": "Edgewater, Bergen Co., New Jersey",
+  "dc_title_s": "Edgewater, Bergen Co., New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-73.994, -73.963, 40.848, 40.801)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:38:30Z",
-  "layer_id_s": "public-figgy:3c2c2228-3aca-40ca-8baf-ec518ff535fd",
+  "layer_modified_dt": "2018-06-21T19:46:23Z",
+  "layer_id_s": "public-figgy:p-3c2c2228-3aca-40ca-8baf-ec518ff535fd",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5242414\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c2c2228-3aca-40ca-8baf-ec518ff535fd/file/f67aa484-845a-4f53-af61-aefc252ccce6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c2c2228-3aca-40ca-8baf-ec518ff535fd/file/1b6f2781-0696-43ae-9af0-8fa2183f8a0f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/22%2F8a%2F19%2F228a19dc462f474c9f7a3bbd616c782f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9da39e7a-80d6-4dad-afb5-719bfaceebee/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-rn3014298"
-  ]
+  ],
+  "call_number_s": "HMC04 (Edgewater)"
 }

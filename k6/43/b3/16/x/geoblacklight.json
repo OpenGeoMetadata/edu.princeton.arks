@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/k643b316x",
   "layer_slug_s": "princeton-k643b316x",
   "uuid": "princeton-k643b316x",
-  "dc_title_s": "Orange and East Orange, N.J.",
+  "dc_title_s": "Orange and East Orange, N.J. (Sheet 69)",
   "solr_geom": "ENVELOPE(-74.238349, -74.189989, 40.788123, 40.745094)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -24,13 +24,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:45:43Z",
-  "layer_id_s": "public-figgy:9142c1bb-9938-4b1a-96c1-b9987ac33e39",
+  "layer_modified_dt": "2018-06-21T20:54:54Z",
+  "layer_id_s": "public-figgy:p-9142c1bb-9938-4b1a-96c1-b9987ac33e39",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5467908\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9142c1bb-9938-4b1a-96c1-b9987ac33e39/file/ab47d523-d5ab-4698-9196-0bbff36443ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9142c1bb-9938-4b1a-96c1-b9987ac33e39/file/abf3368a-3eb2-4246-80a3-04994264e7fe\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/21%2Fce%2F00%2F21ce00d5ea6d450386cf26a08bbfdf32%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/42588513-5061-41f7-b94c-2a539ebbca8d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-n296x204h"
-  ]
+  ],
+  "call_number_s": "HMC04 (Orange)"
 }

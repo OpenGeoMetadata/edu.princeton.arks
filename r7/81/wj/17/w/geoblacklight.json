@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/r781wj17w",
   "layer_slug_s": "princeton-r781wj17w",
   "uuid": "princeton-r781wj17w",
-  "dc_title_s": "Morristown, New Jersey",
+  "dc_title_s": "Morristown, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.501444, -74.456181, 40.818361, 40.780231)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:58:38Z",
-  "layer_id_s": "public-figgy:13bdb365-dabb-479b-a20f-74e5d013f962",
+  "layer_modified_dt": "2018-08-23T13:16:43Z",
+  "layer_id_s": "public-figgy:p-13bdb365-dabb-479b-a20f-74e5d013f962",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5562431\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13bdb365-dabb-479b-a20f-74e5d013f962/file/d61e996f-3300-4f42-88ad-fda6614e61e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13bdb365-dabb-479b-a20f-74e5d013f962/file/b9839a08-d4bc-46ad-852e-80d796ed472f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fb%2Fc8%2Fbd%2Ffbc8bd917b97430e8b3c112668329130%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f709248d-a310-486c-a5c9-8bd4f8b9e956/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-2f75rb94x"
-  ]
+  ],
+  "call_number_s": "HMC04 (Morristown)"
 }

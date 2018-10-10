@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/hm50tt96m",
   "layer_slug_s": "princeton-hm50tt96m",
   "uuid": "princeton-hm50tt96m",
-  "dc_title_s": "Insurance maps of Newton, Sussex County, New Jersey",
+  "dc_title_s": "Insurance maps of Newton, Sussex County, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:16:16Z",
-  "layer_id_s": "public-figgy:6b605426-3376-4e46-a72f-fd7478bd3cf8",
+  "layer_modified_dt": "2018-06-21T21:07:39Z",
+  "layer_id_s": "public-figgy:p-6b605426-3376-4e46-a72f-fd7478bd3cf8",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609177\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6b605426-3376-4e46-a72f-fd7478bd3cf8/file/924a90a9-1352-429c-985e-ff7ee9bce5bc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6b605426-3376-4e46-a72f-fd7478bd3cf8/file/73b672f9-106d-471b-8d41-92503de177f1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2Fd1%2F0a%2F9fd10a7d62bc4734a5ba2620be801a64%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb57db10-6420-4caa-ad81-fbd493584d1e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-st74ct36k"
-  ]
+  ],
+  "call_number_s": "HMC04 (Newton)"
 }

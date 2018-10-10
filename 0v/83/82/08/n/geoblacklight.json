@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/0v838208n",
   "layer_slug_s": "princeton-0v838208n",
   "uuid": "princeton-0v838208n",
-  "dc_title_s": "Camden, New Jersey",
+  "dc_title_s": "Camden, New Jersey (Sheet 14)",
   "solr_geom": "ENVELOPE(-75.128, -75.072, 39.969, 39.9)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:30:49Z",
-  "layer_id_s": "public-figgy:2b3b63d5-f637-4115-87fe-46c8d8d33a87",
+  "layer_modified_dt": "2018-08-15T17:52:28Z",
+  "layer_id_s": "public-figgy:p-2b3b63d5-f637-4115-87fe-46c8d8d33a87",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355749\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b3b63d5-f637-4115-87fe-46c8d8d33a87/file/34d87f73-79ad-4373-af94-9a03bb3eedf1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b3b63d5-f637-4115-87fe-46c8d8d33a87/file/1136382c-dbd0-460b-93eb-2c7924058be0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2Fbc%2Fa0%2Fe1bca0a2f5244084bc317a0437aee693%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52f1cd3d-4430-42eb-a9d1-a34c09d12a10/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-7p88ck44w"
-  ]
+  ],
+  "call_number_s": "HMC04 (Camden)"
 }

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/w9505425p",
+  "layer_slug_s": "princeton-w9505425p",
+  "uuid": "princeton-w9505425p",
+  "dc_title_s": "Boulder County, Colorado land parcels, 2013",
+  "solr_geom": "ENVELOPE(-105.694451, -105.052815, 40.263955, 39.91297)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Boulder County, Colorado, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Boulder",
+    "Boulder County",
+    "Colorado",
+    "Arapaho National Forest",
+    "Roosevelt National Forest",
+    "Rocky Mountain National Park",
+    "Longmont"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-09-26T16:50:26Z",
+  "layer_id_s": "restricted-figgy:p-0db11624-d284-48b6-8a93-b685848c927d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/affe725a-9359-4f7e-88bf-a5742ea11531/file/fdcea504-0f30-4fa1-add1-248e7c170768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0db11624-d284-48b6-8a93-b685848c927d/file/f8a36e58-37c6-4f19-9626-0e4de2fb18ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0db11624-d284-48b6-8a93-b685848c927d/file/37ff1e8a-03c6-470c-ab43-e889ceb43f3d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

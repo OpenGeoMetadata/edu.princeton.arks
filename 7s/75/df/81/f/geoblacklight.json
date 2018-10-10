@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/7s75df81f",
   "layer_slug_s": "princeton-7s75df81f",
   "uuid": "princeton-7s75df81f",
-  "dc_title_s": "Base map of South and Middle America",
+  "dc_title_s": "Base map of South and Middle America [sheet 2 of 2]",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -16,13 +16,14 @@
   "dct_spatial_sm": [
     "South America"
   ],
-  "layer_modified_dt": "2018-06-19T21:24:40Z",
-  "layer_id_s": "public-figgy:eddab553-868e-4bfe-be59-f08c99046ba8",
+  "layer_modified_dt": "2018-06-22T22:05:31Z",
+  "layer_id_s": "public-figgy:p-eddab553-868e-4bfe-be59-f08c99046ba8",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6438665\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eddab553-868e-4bfe-be59-f08c99046ba8/file/86ab6805-ee4d-44ae-9c58-6fabd6f40d58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eddab553-868e-4bfe-be59-f08c99046ba8/file/9f286998-2371-4432-be1e-f23f778afa14\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/14%2F1c%2F42%2F141c4245d0ef4702a5afeda7e1fbd870%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b6db713-a862-4954-8f17-8b8fc29e6ebb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-cj82k9721"
-  ]
+  ],
+  "call_number_s": "HMC01.777"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/dj52w6711",
   "layer_slug_s": "princeton-dj52w6711",
   "uuid": "princeton-dj52w6711",
-  "dc_title_s": "Glassboro, Gloucester County, New Jersey",
+  "dc_title_s": "Glassboro, Gloucester County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:44:08Z",
-  "layer_id_s": "public-figgy:9763aa20-f7cf-4135-9018-51ba152a491f",
+  "layer_modified_dt": "2018-08-05T20:42:45Z",
+  "layer_id_s": "public-figgy:p-9763aa20-f7cf-4135-9018-51ba152a491f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5481545\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9763aa20-f7cf-4135-9018-51ba152a491f/file/3af71814-004a-4648-ac0f-811be0fa9b26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9763aa20-f7cf-4135-9018-51ba152a491f/file/4704c41e-60ad-460c-98ad-561587157ff2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2Fa9%2F61%2F2ca9618f3d2e46209c70ab1f76a03b7c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87aa8b44-26f0-4da8-803c-b95be121e0d7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-m039k7838"
-  ]
+  ],
+  "call_number_s": "HMC04 (Glassboro)"
 }

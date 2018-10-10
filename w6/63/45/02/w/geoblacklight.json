@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/w6634502w",
   "layer_slug_s": "princeton-w6634502w",
   "uuid": "princeton-w6634502w",
-  "dc_title_s": "Haddon Heights, Camden County, New Jersey",
+  "dc_title_s": "Haddon Heights, Camden County, New Jersey (Sheet 11)",
   "solr_geom": "ENVELOPE(-75.08, -75.0456, 39.8928, 39.872)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:45:30Z",
-  "layer_id_s": "public-figgy:56f47e5a-27d4-485d-be71-79f9de02da42",
+  "layer_modified_dt": "2018-08-31T03:10:08Z",
+  "layer_id_s": "public-figgy:p-56f47e5a-27d4-485d-be71-79f9de02da42",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5392071\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/56f47e5a-27d4-485d-be71-79f9de02da42/file/843c4493-1685-4acb-b887-783f813f10ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/56f47e5a-27d4-485d-be71-79f9de02da42/file/023b48f3-c44f-498b-9fea-bece94abd93b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2a%2F96%2F47%2F2a96478ee51b4c698e92ac5569732684%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d23f0cd4-bc0f-4720-890a-3d5952374b9b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-df65vb748"
-  ]
+  ],
+  "call_number_s": "HMC04 (Haddon Heights)"
 }

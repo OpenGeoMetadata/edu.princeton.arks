@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/0z708z673",
   "layer_slug_s": "princeton-0z708z673",
   "uuid": "princeton-0z708z673",
-  "dc_title_s": "Hamburg, Sussex Co., New Jersey",
+  "dc_title_s": "Hamburg, Sussex Co., New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:50:33Z",
-  "layer_id_s": "public-figgy:aa50adb9-adeb-4e1e-866c-9d60191c92c2",
+  "layer_modified_dt": "2018-08-03T21:44:38Z",
+  "layer_id_s": "public-figgy:p-aa50adb9-adeb-4e1e-866c-9d60191c92c2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607432\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/aa50adb9-adeb-4e1e-866c-9d60191c92c2/file/7c508342-834f-48aa-9e7c-842e06b1c5ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aa50adb9-adeb-4e1e-866c-9d60191c92c2/file/a1a65116-41db-4af3-9758-86245b3e7eea\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a2%2F51%2F1d%2Fa2511d9ac07748768ca30b4f72b115ec%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/190740c4-40ce-4e1e-8507-415607bdbe77/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-1z40kw740"
-  ]
+  ],
+  "call_number_s": "HMC04 (Hamburg)"
 }

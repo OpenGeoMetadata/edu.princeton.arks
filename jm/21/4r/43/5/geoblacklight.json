@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jm214r435",
   "layer_slug_s": "princeton-jm214r435",
   "uuid": "princeton-jm214r435",
-  "dc_title_s": "Insurance maps of Elizabeth, New Jersey, volume one",
+  "dc_title_s": "Insurance maps of Elizabeth, New Jersey, volume one (Sheet 6)",
   "solr_geom": "ENVELOPE(-74.254216, -74.138869, 40.690428, 40.634165)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:34:43Z",
-  "layer_id_s": "public-figgy:739bdb91-0717-4a10-a44f-95909e4d03aa",
+  "layer_modified_dt": "2018-08-23T12:04:24Z",
+  "layer_id_s": "public-figgy:p-739bdb91-0717-4a10-a44f-95909e4d03aa",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5615979\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/739bdb91-0717-4a10-a44f-95909e4d03aa/file/8d841fef-e8c8-43ab-b837-a55a122e5404\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/739bdb91-0717-4a10-a44f-95909e4d03aa/file/83a18ecf-5140-4056-a9de-4748c02e18aa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2F35%2Fba%2F3235ba78904f4e20b2830ae91da97992%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d41b9db4-8837-48ed-a7f9-34335c22c6e9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-nv9355798"
-  ]
+  ],
+  "call_number_s": "HMC04 (Elizabeth)"
 }

@@ -3,10 +3,10 @@
   "dc_identifier_s": "ark:/88435/6q182m95g",
   "layer_slug_s": "princeton-6q182m95g",
   "uuid": "princeton-6q182m95g",
-  "dc_title_s": "Delhi guide map. Surveyed 1939-42",
+  "dc_title_s": "Delhi guide map. Surveyed 1939-42.",
   "solr_geom": "ENVELOPE(77.11666666666666, 77.25, 28.716666666666665, 28.566666666666666)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "1942 (revised) Survey of India. Relief shown by 10 ft contour interval (contours are approximated) and spot heights. \"Published under the direction of Brigadier E. O. Wheeler, M. C., Surveyor General of India.\" In left lower margin: 1st ed 1912; 2nd 1913; 3rd 1919; 4th 1922; 5th (revised) 1926; 6th (revised) 1933; 7th (revised) 1942. With index to places of interest.",
   "dc_language_s": "eng",
   "dc_publisher_s": "Dehra Dun : Survey of India, 1942.",
@@ -15,9 +15,10 @@
     "Tourist maps",
     "India—Maps"
   ],
-  "layer_modified_dt": "2018-06-07T06:41:39Z",
-  "layer_id_s": "public-figgy:cf081b02-b20d-46a1-a605-cac919c016d3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866061\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf081b02-b20d-46a1-a605-cac919c016d3/file/c719f173-8dc3-4680-a40a-adf041d33b3e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf081b02-b20d-46a1-a605-cac919c016d3/file/7b39b005-d310-423d-b03c-53aa9c1d1218\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2Feb%2F59%2F9feb59e34efb4796aa161c5217f11740%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c633fc30-0e27-4e60-98ed-9f8e41552e9e/manifest\"}",
+  "layer_modified_dt": "2018-09-24T17:04:46Z",
+  "layer_id_s": "cf081b02-b20d-46a1-a605-cac919c016d3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866061\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf081b02-b20d-46a1-a605-cac919c016d3/file/7b39b005-d310-423d-b03c-53aa9c1d1218\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF"
+  "dc_format_s": "TIFF",
+  "call_number_s": "G7654.D5C2.1942.S9I5 (a)"
 }

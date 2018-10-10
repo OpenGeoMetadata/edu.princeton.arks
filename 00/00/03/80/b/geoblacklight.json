@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/00000380b",
+  "layer_slug_s": "princeton-00000380b",
+  "uuid": "princeton-00000380b",
+  "dc_title_s": "Dominican Republic hazard data from 2010 census",
+  "solr_geom": "ENVELOPE(-72.035261, -68.317415, 19.943384, 17.465211)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2010 hazard data for the Dominican Republic, including pollution, natural disasters, and shelters, displayed at the barrio level. The data were released by the National Statistics Office of the Dominican Republic and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Oficina Nacional de Estadística (ONE)"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Dominican Republic",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-09-19T17:30:00Z",
+  "layer_id_s": "restricted-figgy:p-48cbf377-2338-4c5f-aadc-1659bf27ce40",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/83e81c32-0708-4c4c-a375-66578c034095/file/eeeeb5f3-d005-4e95-a193-d0b6d8390cec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/48cbf377-2338-4c5f-aadc-1659bf27ce40/file/63be7926-9805-4c28-99b0-0bd43c4307c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/48cbf377-2338-4c5f-aadc-1659bf27ce40/file/01b0400d-edf8-46d6-a52c-6fd0e7e3a048\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

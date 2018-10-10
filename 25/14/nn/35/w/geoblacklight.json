@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-2514nn35w",
   "uuid": "princeton-2514nn35w",
   "dc_title_s": "Map of Princeton, N.J. : made for Walter B. Howe Inc",
-  "solr_geom": "ENVELOPE(-704.683334, -74.616666, 40.35, 40.333336)",
+  "solr_geom": "ENVELOPE(-74.683334, -74.616666, 40.35, 40.333336)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "C. S. Sincerbeaux, Princeton Class of 1902.",
@@ -21,9 +21,10 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T06:20:20Z",
-  "layer_id_s": "public-figgy:930c9ba6-7b09-49d4-b048-4b45c3ef3a0e",
+  "layer_modified_dt": "2018-06-28T16:07:04Z",
+  "layer_id_s": "public-figgy:p-930c9ba6-7b09-49d4-b048-4b45c3ef3a0e",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6514406\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/930c9ba6-7b09-49d4-b048-4b45c3ef3a0e/file/9a0e7cec-cc9a-4c0a-94c0-301a025a7530\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/930c9ba6-7b09-49d4-b048-4b45c3ef3a0e/file/88dc78e9-7b90-4926-aa94-9476351e71cd\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/35%2F02%2F72%2F35027254b74241afae26528e081c034b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/676f4445-d8dc-4355-b9e9-9cb7aca9a5d0/manifest\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF"
+  "dc_format_s": "TIFF",
+  "call_number_s": "G3814.P9.1936.S5"
 }

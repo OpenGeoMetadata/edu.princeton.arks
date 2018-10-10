@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/tt44pr62w",
+  "layer_slug_s": "princeton-tt44pr62w",
+  "uuid": "princeton-tt44pr62w",
+  "dc_title_s": "Nigeria conflated historical administrative boundaries, 1933",
+  "solr_geom": "ENVELOPE(2.561274, 14.724671, 13.904533, 3.895491)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Public",
+  "dc_description_s": "Shapefile representing historical boundaries of provinces in Nigeria for 1933. GADM country-level administrative shapefiles were conflated with, and where necessary supplemented by, the extracted boundaries of a scanned British Colonial Office map.",
+  "dc_creator_sm": [
+    "Map and Geospatial Information Center, Lewis Library, Princeton University"
+  ],
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria",
+    "Cameroon",
+    "Cameroons",
+    "British Cameroons"
+  ],
+  "dct_temporal_sm": [
+    "1933",
+    "2018"
+  ],
+  "solr_year_i": 1933,
+  "layer_modified_dt": "2018-07-31T18:27:51Z",
+  "layer_id_s": "public-figgy:p-72ef0457-1f4c-4785-81e7-fd9fc0b5de3d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/01b12124-3f5c-4441-ac27-c7ae9eb0eb95/file/d6fba192-4b10-4c73-ba16-4852c3994f70\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72ef0457-1f4c-4785-81e7-fd9fc0b5de3d/file/df9705bf-88e5-4360-9445-f107dc6f1331\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72ef0457-1f4c-4785-81e7-fd9fc0b5de3d/file/2aef3926-8b88-42b1-bb64-7eb0a979d243\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

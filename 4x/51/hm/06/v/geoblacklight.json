@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/4x51hm06v",
   "layer_slug_s": "princeton-4x51hm06v",
   "uuid": "princeton-4x51hm06v",
-  "dc_title_s": "North Bergen",
+  "dc_title_s": "North Bergen (Sheet 70)",
   "solr_geom": "ENVELOPE(-74.056895, -73.984883, 40.823569, 40.75737)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:28:52Z",
-  "layer_id_s": "public-figgy:89eea4a6-bdbe-4860-b9b4-dd13b93623b2",
+  "layer_modified_dt": "2018-07-10T21:56:35Z",
+  "layer_id_s": "public-figgy:p-89eea4a6-bdbe-4860-b9b4-dd13b93623b2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5497296\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/89eea4a6-bdbe-4860-b9b4-dd13b93623b2/file/63ee5b3c-f354-49a8-8acc-2e1eacb44d59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/89eea4a6-bdbe-4860-b9b4-dd13b93623b2/file/8cfe2519-49a9-41de-b1ff-78d1fc65e352\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f4%2F5a%2F9b%2Ff45a9b0a70a644feb47978e05132a9d3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/44e13306-5cdb-4489-9836-91e61ca75638/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-0p096982p"
-  ]
+  ],
+  "call_number_s": "HMC04 (North Bergen)"
 }

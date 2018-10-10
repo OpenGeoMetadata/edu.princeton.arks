@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/p8418p90g",
   "layer_slug_s": "princeton-p8418p90g",
   "uuid": "princeton-p8418p90g",
-  "dc_title_s": "Hammonton, N. J.",
+  "dc_title_s": "Hammonton, N. J. (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.861, -74.676, 39.73, 39.583)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:29:27Z",
-  "layer_id_s": "public-figgy:87fe777b-b573-4c5f-864d-644f8f6df1e9",
+  "layer_modified_dt": "2018-06-21T20:35:03Z",
+  "layer_id_s": "public-figgy:p-87fe777b-b573-4c5f-864d-644f8f6df1e9",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5213692\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/87fe777b-b573-4c5f-864d-644f8f6df1e9/file/fed7f926-0d93-4b7d-8222-7cb65e39dfa4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/87fe777b-b573-4c5f-864d-644f8f6df1e9/file/0b195a05-3190-48e8-8911-38f0ca79fabb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/08%2F6d%2Fcc%2F086dccddd37142baa83f2ec98639eb2c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b354f123-fd79-4f33-aed6-59370d6295fc/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-0p0969835"
-  ]
+  ],
+  "call_number_s": "HMC04 (Hammonton)"
 }

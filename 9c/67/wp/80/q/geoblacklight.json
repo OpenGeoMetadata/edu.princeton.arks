@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/9c67wp80q",
   "layer_slug_s": "princeton-9c67wp80q",
   "uuid": "princeton-9c67wp80q",
-  "dc_title_s": "Insurance maps of Newark, New Jersey : volume two",
+  "dc_title_s": "Insurance maps of Newark, New Jersey : volume two (Sheet 173)",
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:33:56Z",
-  "layer_id_s": "public-figgy:532f13ca-b357-4325-a944-386f4d63c9ff",
+  "layer_modified_dt": "2018-10-03T02:43:20Z",
+  "layer_id_s": "public-figgy:p-532f13ca-b357-4325-a944-386f4d63c9ff",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5438867\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/532f13ca-b357-4325-a944-386f4d63c9ff/file/ace06287-f3b6-4dcc-bfaf-1b021c65b256\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/532f13ca-b357-4325-a944-386f4d63c9ff/file/3d788ac1-a2c1-4813-bdfd-bf4604a426d1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/68%2F3a%2Fe9%2F683ae9bbf8244d11acfe97110f95e3c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03c5817f-6ac7-4e4b-80f1-d4cffa02554b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-gb19f872d"
-  ]
+  ],
+  "call_number_s": "HMC04 (Newark)"
 }

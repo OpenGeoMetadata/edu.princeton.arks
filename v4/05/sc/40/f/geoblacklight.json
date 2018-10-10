@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/v405sc40f",
   "layer_slug_s": "princeton-v405sc40f",
   "uuid": "princeton-v405sc40f",
-  "dc_title_s": "Williamstown, Gloucester County, New Jersey",
+  "dc_title_s": "Williamstown, Gloucester County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-75.015168, -74.975168, 39.706226, 39.666226)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:30:43Z",
-  "layer_id_s": "public-figgy:ff4224d9-1c61-4390-92ae-ff79e1574416",
+  "layer_modified_dt": "2018-06-21T20:05:01Z",
+  "layer_id_s": "public-figgy:p-ff4224d9-1c61-4390-92ae-ff79e1574416",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5490482\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ff4224d9-1c61-4390-92ae-ff79e1574416/file/ab59625a-f5f6-45db-b22f-da147200f75c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ff4224d9-1c61-4390-92ae-ff79e1574416/file/d37afbac-79a8-4735-8e69-e91deb2ccb68\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c9%2F8f%2Fe0%2Fc98fe06912264096b86ce1934796e24c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f2681230-8829-4ad5-b13b-d4655b1fb4f0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-sx61dq21b"
-  ]
+  ],
+  "call_number_s": "HMC04 (Williamstown)"
 }

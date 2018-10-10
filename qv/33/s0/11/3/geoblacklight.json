@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/qv33s0113",
   "layer_slug_s": "princeton-qv33s0113",
   "uuid": "princeton-qv33s0113",
-  "dc_title_s": "Carte geographique representant le cours entier du Rhin, de la Moselle, de la Meuse et de l'Escaut avec les pays confins specialement l'etat actuel de toutes les possessions de la Maison d'Autriche dans les Pays Bas et une grande partie de la France",
+  "dc_title_s": "Carte geographique representant le cours entier du Rhin, de la Moselle, de la Meuse et de l’Escaut avec les pays confins specialement l’etat actuel de toutes les possessions de la Maison d’Autriche dans les Pays Bas et une grande partie de la France [S2]",
   "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -18,13 +18,14 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2018-06-19T21:32:17Z",
-  "layer_id_s": "public-figgy:eb12ff26-d7b3-4cca-bdae-aae93c716262",
+  "layer_modified_dt": "2018-06-22T21:59:35Z",
+  "layer_id_s": "public-figgy:p-eb12ff26-d7b3-4cca-bdae-aae93c716262",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7090220\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb12ff26-d7b3-4cca-bdae-aae93c716262/file/a40e1064-0c42-4ae6-87eb-a9c0e7a7fd1c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb12ff26-d7b3-4cca-bdae-aae93c716262/file/5614b6d3-7432-46a6-8d78-9578b56d853c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F28%2F6e%2Fe1286e8b74b5469a9c901a27dffefb24%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5aa71978-306a-4feb-a20c-6059dfa38248/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-vm40xv048"
-  ]
+  ],
+  "call_number_s": "HMC01.760"
 }

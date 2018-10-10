@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/t148fk50s",
   "layer_slug_s": "princeton-t148fk50s",
   "uuid": "princeton-t148fk50s",
-  "dc_title_s": "Merchantville, Camden County, New Jersey",
+  "dc_title_s": "Merchantville, Camden County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:34:02Z",
-  "layer_id_s": "public-figgy:a00455d5-36ff-4318-8996-d31e5958374b",
+  "layer_modified_dt": "2018-06-21T20:31:02Z",
+  "layer_id_s": "public-figgy:p-a00455d5-36ff-4318-8996-d31e5958374b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5404468\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a00455d5-36ff-4318-8996-d31e5958374b/file/a558fb0c-4c44-462b-a132-1718f261cc4a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a00455d5-36ff-4318-8996-d31e5958374b/file/11596c43-f0a4-4780-b713-9d1e0b90a7e6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/be%2F60%2F22%2Fbe60224384d94bd999c91e96594a8daf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b814a113-1de5-4ca3-a84d-396b242c7775/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-mc87pt16n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Merchantville)"
 }

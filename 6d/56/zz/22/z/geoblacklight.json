@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/6d56zz22z",
   "layer_slug_s": "princeton-6d56zz22z",
   "uuid": "princeton-6d56zz22z",
-  "dc_title_s": "Insurance maps of Red Bank, New Jersey and vicinity",
+  "dc_title_s": "Insurance maps of Red Bank, New Jersey and vicinity (Sheet 51)",
   "solr_geom": "ENVELOPE(-74.091, -74.051, 40.36, 40.336)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -34,13 +34,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:36:41Z",
-  "layer_id_s": "public-figgy:016ecc46-ab3d-4190-9f3d-6732603b3154",
+  "layer_modified_dt": "2018-10-03T14:24:46Z",
+  "layer_id_s": "public-figgy:p-016ecc46-ab3d-4190-9f3d-6732603b3154",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4830296\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/016ecc46-ab3d-4190-9f3d-6732603b3154/file/b9953c16-7af0-4d97-b058-aaf88df3df97\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/016ecc46-ab3d-4190-9f3d-6732603b3154/file/50b376d1-5878-4e64-9e9b-038ca6547134\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/33%2F00%2Fd7%2F3300d7fae3a248188dccdfc0f82973f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e0614fe6-389a-4142-a468-605cace9f217/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-dn39x4468"
-  ]
+  ],
+  "call_number_s": "HMC04 (Red Bank)"
 }

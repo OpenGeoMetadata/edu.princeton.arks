@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/w37638897",
   "layer_slug_s": "princeton-w37638897",
   "uuid": "princeton-w37638897",
-  "dc_title_s": "Insurance maps of South River, Middlesex County, New Jersey",
+  "dc_title_s": "Insurance maps of South River, Middlesex County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.403543, -74.353585, 40.463878, 40.428946)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:32:09Z",
-  "layer_id_s": "public-figgy:9fe32ecd-2fca-407b-a869-528d8e549b35",
+  "layer_modified_dt": "2018-06-21T20:34:24Z",
+  "layer_id_s": "public-figgy:p-9fe32ecd-2fca-407b-a869-528d8e549b35",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5538798\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fe32ecd-2fca-407b-a869-528d8e549b35/file/86697727-c914-4ca3-964d-8267722edbe6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fe32ecd-2fca-407b-a869-528d8e549b35/file/c2f7c3b8-2f88-46be-8ffa-295cd7820f99\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/83%2Fd8%2F51%2F83d851bb6446439daae8d3f63eef55fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b18b3d0e-e40c-4852-bbcc-818c560f325f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-3j333517n"
-  ]
+  ],
+  "call_number_s": "HMC04 (South River)"
 }

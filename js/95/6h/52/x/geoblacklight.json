@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/js956h52x",
   "layer_slug_s": "princeton-js956h52x",
   "uuid": "princeton-js956h52x",
-  "dc_title_s": "Mount Holly, N.J.",
+  "dc_title_s": "Mount Holly, N.J. (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.807, -74.768, 40.011, 39.979)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:58:40Z",
-  "layer_id_s": "public-figgy:b70e10c0-ebae-45a8-9043-5d03cfc01977",
+  "layer_modified_dt": "2018-06-21T21:09:28Z",
+  "layer_id_s": "public-figgy:p-b70e10c0-ebae-45a8-9043-5d03cfc01977",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5144620\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b70e10c0-ebae-45a8-9043-5d03cfc01977/file/214445b8-44a4-42aa-83d6-103224abb44f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b70e10c0-ebae-45a8-9043-5d03cfc01977/file/98a5d1c4-93aa-4cdc-84e6-07dde6e2b3a4\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/a7%2F12%2F53%2Fa712534a63e542e48c4943f82f6412c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eeeeaaa6-b8f3-4e21-ab9b-55be3b5c55fc/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-x346d706h"
-  ]
+  ],
+  "call_number_s": "HMC04 (Mount Holly)"
 }

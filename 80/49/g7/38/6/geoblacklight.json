@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/8049g7386",
   "layer_slug_s": "princeton-8049g7386",
   "uuid": "princeton-8049g7386",
-  "dc_title_s": "Oxford, Warren County, New Jersey",
+  "dc_title_s": "Oxford, Warren County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.009616, -74.969616, 40.823155, 40.783155)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:46:53Z",
-  "layer_id_s": "public-figgy:e0e6855a-4e51-4794-80a2-df432fb9d398",
+  "layer_modified_dt": "2018-06-21T20:53:55Z",
+  "layer_id_s": "public-figgy:p-e0e6855a-4e51-4794-80a2-df432fb9d398",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5646676\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0e6855a-4e51-4794-80a2-df432fb9d398/file/94b41e77-5448-4104-bb8d-66b6d6a9fc61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0e6855a-4e51-4794-80a2-df432fb9d398/file/642bc6a2-dd39-4bfe-91e5-5d54afc0b70b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d7%2Ff4%2F7d%2Fd7f47d698668402487a086b9481c27da%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/78171a98-2464-4fad-9e40-f4274a877988/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-wp988n73b"
-  ]
+  ],
+  "call_number_s": "HMC04 (Oxford)"
 }

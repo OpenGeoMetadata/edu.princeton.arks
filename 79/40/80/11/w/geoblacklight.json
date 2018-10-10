@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/79408011w",
   "layer_slug_s": "princeton-79408011w",
   "uuid": "princeton-79408011w",
-  "dc_title_s": "Cedarville, Cumberland Co., New Jersey",
+  "dc_title_s": "Cedarville, Cumberland Co., New Jersey (Index)",
   "solr_geom": "ENVELOPE(-75.219631, -75.179631, 39.352615, 39.312615)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:32:59Z",
-  "layer_id_s": "public-figgy:a22eeb85-56b3-4021-9078-dc9c515936d2",
+  "layer_modified_dt": "2018-06-21T19:49:28Z",
+  "layer_id_s": "public-figgy:p-a22eeb85-56b3-4021-9078-dc9c515936d2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416150\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a22eeb85-56b3-4021-9078-dc9c515936d2/file/c2c67c5c-772f-49cd-b438-c174a88eb0da\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a22eeb85-56b3-4021-9078-dc9c515936d2/file/0a8f1fb1-872b-42df-a1ef-800ea8f3d602\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/9f%2F1e%2F7d%2F9f1e7def6761433eb8f660a61cfc4053%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fb51232e-78dc-49c7-afe8-6366e4acad38/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-rf55zb604"
-  ]
+  ],
+  "call_number_s": "HMC04 (Cedarville)"
 }

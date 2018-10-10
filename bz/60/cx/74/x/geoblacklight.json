@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/bz60cx74x",
   "layer_slug_s": "princeton-bz60cx74x",
   "uuid": "princeton-bz60cx74x",
-  "dc_title_s": "Atlantic City, New Jersey",
+  "dc_title_s": "Atlantic City, New Jersey (Sheet 16)",
   "solr_geom": "ENVELOPE(-74.498, -74.408, 39.417, 39.342)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:23:06Z",
-  "layer_id_s": "public-figgy:f6a38912-024b-4838-8fea-4280f65f1fcd",
+  "layer_modified_dt": "2018-06-21T19:54:02Z",
+  "layer_id_s": "public-figgy:p-f6a38912-024b-4838-8fea-4280f65f1fcd",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5165864\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f6a38912-024b-4838-8fea-4280f65f1fcd/file/20e3d2fc-a21e-48bc-8221-77046247668a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f6a38912-024b-4838-8fea-4280f65f1fcd/file/88f9415c-89cc-4376-b5ec-bb741e52a9b3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6f%2F27%2F95%2F6f2795885a8f4d8a95b273e5f1b91c28%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ace2df69-67df-4f14-a9e9-e66ceb2a17da/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-tt44pq77b"
-  ]
+  ],
+  "call_number_s": "HMC04 (Atlantic City)"
 }

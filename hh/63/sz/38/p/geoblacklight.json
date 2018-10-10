@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/hh63sz38p",
   "layer_slug_s": "princeton-hh63sz38p",
   "uuid": "princeton-hh63sz38p",
-  "dc_title_s": "Map of South America",
+  "dc_title_s": "Map of South America [south]",
   "solr_geom": "ENVELOPE(-61.0000502, -60.9999502, -20.9999498, -21.0000498)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -19,13 +19,14 @@
   "dct_spatial_sm": [
     "South America"
   ],
-  "layer_modified_dt": "2018-06-19T22:43:10Z",
-  "layer_id_s": "public-figgy:8ddf7449-0bfc-42f6-8227-89389305a6d2",
+  "layer_modified_dt": "2018-06-22T22:07:15Z",
+  "layer_id_s": "public-figgy:p-8ddf7449-0bfc-42f6-8227-89389305a6d2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6445289\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8ddf7449-0bfc-42f6-8227-89389305a6d2/file/106c30af-0871-4543-9e50-77783c4e8edd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8ddf7449-0bfc-42f6-8227-89389305a6d2/file/274b2f26-2439-48af-8755-03890aa5ea6b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/c1%2Fbb%2F83%2Fc1bb833493a94d2db07bbfa099670062%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ab634661-f9c3-48b6-bf54-18c76aab947b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-n870zt30c"
-  ]
+  ],
+  "call_number_s": "HMC01.904"
 }

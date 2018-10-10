@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/6h440t953",
   "layer_slug_s": "princeton-6h440t953",
   "uuid": "princeton-6h440t953",
-  "dc_title_s": "Englewood, N. J.",
+  "dc_title_s": "Englewood, N. J. (Sheet 1)",
   "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:40:37Z",
-  "layer_id_s": "public-figgy:d6e3da08-527e-4926-8cc0-8be3b89a3729",
+  "layer_modified_dt": "2018-06-21T19:42:41Z",
+  "layer_id_s": "public-figgy:p-d6e3da08-527e-4926-8cc0-8be3b89a3729",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246082\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6e3da08-527e-4926-8cc0-8be3b89a3729/file/4279e2a6-eddf-41c3-8b84-93f8b016e6f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6e3da08-527e-4926-8cc0-8be3b89a3729/file/923a6ae8-a99d-445e-88fe-337f82f46984\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8e%2Ffe%2Fe1%2F8efee1c1017444ecb40333e40c72fd78%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8c462616-e95c-4d39-93da-d24181772b20/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9880vt90t"
-  ]
+  ],
+  "call_number_s": "HMC04 (Englewood)"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/08612q481",
   "layer_slug_s": "princeton-08612q481",
   "uuid": "princeton-08612q481",
-  "dc_title_s": "Insurance maps of Belleville, Essex County, New Jersey",
+  "dc_title_s": "Insurance maps of Belleville, Essex County, New Jersey (Sheet 31)",
   "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:25:22Z",
-  "layer_id_s": "public-figgy:768e7e9e-226b-4bb0-a015-abdaf2301697",
+  "layer_modified_dt": "2018-06-21T21:04:37Z",
+  "layer_id_s": "public-figgy:p-768e7e9e-226b-4bb0-a015-abdaf2301697",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5418942\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/768e7e9e-226b-4bb0-a015-abdaf2301697/file/0d46f9bf-4e9b-44b8-9e48-c6b4cc5bc168\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/768e7e9e-226b-4bb0-a015-abdaf2301697/file/421f79b1-7ffc-4fc6-bec6-9e8f37118506\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2Fa9%2F51%2F96a951c330684257baf347620676c8ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/09dfd7dd-904d-47ee-993b-9321cf11ce09/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-dj52w759d"
-  ]
+  ],
+  "call_number_s": "HMC04 (Belleville)"
 }

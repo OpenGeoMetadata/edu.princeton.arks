@@ -6,7 +6,7 @@
   "dc_title_s": "Agra guide map",
   "solr_geom": "ENVELOPE(77.96666666666667, 78.06666666666666, 27.233333333333334, 27.133333333333333)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
+  "dc_rights_s": "Restricted",
   "dc_description_s": "Survey of India. \"Refer to this map as: 1:20,000 Agra guide map: first edition.\" Relief shown by 5 meter contour intervals and spot heights. Ancilliary maps: \"Bus routes\" (1:60,000); \"Fatehpur Sikri\" (1:10,000);\" \"See Agra\" (1:60,000. Places of interest are listed and located. Surveyed 1970-71. Published under the direction of Dr. Hari Narain, M.Sc., D.Phil., Ph.D., Surveyor General of India. In lower left margin: \"Reg. No. 4356 HD'73 (D.O.2-1:13,333)-5109'75.",
   "dc_language_s": "eng",
   "dc_publisher_s": "[Dehra Dun] : Survey of India, 1972.",
@@ -15,9 +15,10 @@
     "Transportation",
     "India—Maps"
   ],
-  "layer_modified_dt": "2018-06-07T06:41:44Z",
-  "layer_id_s": "public-figgy:bc5da484-cc3d-48bf-b4d4-21ccbe7fa7df",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831589\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc5da484-cc3d-48bf-b4d4-21ccbe7fa7df/file/c0aee898-549e-4c6a-b05e-95da492daa69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc5da484-cc3d-48bf-b4d4-21ccbe7fa7df/file/e629930d-7347-40e2-a96d-c00945cd30d0\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d9%2F9e%2F0e%2Fd99e0ed4568e4bfd8802fb68ed82f3e1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8af4e550-71e1-4a95-aa44-733f49716cae/manifest\"}",
+  "layer_modified_dt": "2018-10-03T14:21:35Z",
+  "layer_id_s": "bc5da484-cc3d-48bf-b4d4-21ccbe7fa7df",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6831589\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc5da484-cc3d-48bf-b4d4-21ccbe7fa7df/file/e629930d-7347-40e2-a96d-c00945cd30d0\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF"
+  "dc_format_s": "TIFF",
+  "call_number_s": "G7654.A2C2.1972.S8I5"
 }

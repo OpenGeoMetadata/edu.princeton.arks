@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jh343v403",
   "layer_slug_s": "princeton-jh343v403",
   "uuid": "princeton-jh343v403",
-  "dc_title_s": "Insurance maps of New Brunswick, New Jersey",
+  "dc_title_s": "Insurance maps of New Brunswick, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.4895, -74.392412, 40.509533, 40.467952)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T04:01:18Z",
-  "layer_id_s": "public-figgy:cdd07b1e-28aa-4c02-ab5d-a728d52af779",
+  "layer_modified_dt": "2018-08-29T19:26:48Z",
+  "layer_id_s": "public-figgy:p-cdd07b1e-28aa-4c02-ab5d-a728d52af779",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cdd07b1e-28aa-4c02-ab5d-a728d52af779/file/261a8397-53d5-4286-b25a-8cdfa74376b7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cdd07b1e-28aa-4c02-ab5d-a728d52af779/file/d5bb81bd-307f-4a02-9308-771dafb09ba7\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/92%2F7b%2Fc0%2F927bc0fc813b4feaa7231120d9c54225%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fa4896be-6d2d-4c05-920d-1b50dd904943/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-vm40xv461"
-  ]
+  ],
+  "call_number_s": "HMC04 (New Brunswick)"
 }

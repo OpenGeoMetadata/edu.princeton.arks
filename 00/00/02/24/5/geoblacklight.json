@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/000002245",
   "layer_slug_s": "princeton-000002245",
   "uuid": "princeton-000002245",
-  "dc_title_s": "Insurance maps of Salem, Salem County, New Jersey",
+  "dc_title_s": "Insurance maps of Salem, Salem County, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T05:17:37Z",
-  "layer_id_s": "public-figgy:fba931f4-d41e-4e8f-a673-35dbf9825b79",
+  "layer_modified_dt": "2018-06-21T20:13:05Z",
+  "layer_id_s": "public-figgy:p-fba931f4-d41e-4e8f-a673-35dbf9825b79",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596124\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fba931f4-d41e-4e8f-a673-35dbf9825b79/file/0aef267e-076e-4d7b-926d-f993a2832e5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fba931f4-d41e-4e8f-a673-35dbf9825b79/file/98a78128-748e-4933-babd-fdc26a4314c1\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/41%2Fa0%2F2e%2F41a02ec118ff493e98f4af49029602a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/59e0d137-d474-451f-8ae9-59c0c7b50da7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-cn69m705h"
-  ]
+  ],
+  "call_number_s": "HMC04 (Salem)"
 }

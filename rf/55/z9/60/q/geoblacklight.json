@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/rf55z960q",
   "layer_slug_s": "princeton-rf55z960q",
   "uuid": "princeton-rf55z960q",
-  "dc_title_s": "Insurance maps of Hackensack, Bergen County, New Jersey",
+  "dc_title_s": "Insurance maps of Hackensack, Bergen County, New Jersey (Sheet 7)",
   "solr_geom": "ENVELOPE(-74.068385, -74.024737, 40.913285, 40.858698)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T02:50:00Z",
-  "layer_id_s": "public-figgy:488d5bdc-d50d-47a5-949b-497689d4064e",
+  "layer_modified_dt": "2018-06-21T21:09:43Z",
+  "layer_id_s": "public-figgy:p-488d5bdc-d50d-47a5-949b-497689d4064e",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5265934\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/488d5bdc-d50d-47a5-949b-497689d4064e/file/a9830850-cfa3-41f8-9898-e5f5355e623a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/488d5bdc-d50d-47a5-949b-497689d4064e/file/e0cce4bd-4472-408c-a77d-d178702f9756\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e5%2F27%2F26%2Fe527264a541c435cbd2d4eccf587cf28%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/48cf43bb-b531-4025-b74a-26550bd5cebe/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-1544bs01j"
-  ]
+  ],
+  "call_number_s": "HMC04 (Hackensack)"
 }

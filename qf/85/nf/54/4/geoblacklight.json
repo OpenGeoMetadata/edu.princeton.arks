@@ -6,7 +6,7 @@
   "dc_title_s": "Tanganyika Territory",
   "solr_geom": "ENVELOPE(28.32, 41.666667, 2.333333, -15.175)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Map shows international, intercolonial and district boundaries, railways, roads, towns, rivers and swamps. Relief shown by hachures. \"P.2521,1203,A2218,63,1250,5/29.\" Original map is filed in the Map/Geospatial Center, map reproduction is attached to companion volume.",
   "dc_creator_sm": [
     "Tanganyika. Land Division"
@@ -23,9 +23,10 @@
   "dct_spatial_sm": [
     "Tanzania"
   ],
-  "layer_modified_dt": "2018-06-07T01:11:42Z",
-  "layer_id_s": "7f37816a-419e-4d5e-99ef-7d58c9ea6ff8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10134335\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f37816a-419e-4d5e-99ef-7d58c9ea6ff8/file/711ee4de-206c-4a5f-a2b5-1fc22e439502\"}",
+  "layer_modified_dt": "2018-09-11T20:26:17Z",
+  "layer_id_s": "public-figgy:p-7f37816a-419e-4d5e-99ef-7d58c9ea6ff8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/10134335\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7f37816a-419e-4d5e-99ef-7d58c9ea6ff8/file/1e98e8b6-55d3-4240-81f7-53205872ddeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7f37816a-419e-4d5e-99ef-7d58c9ea6ff8/file/711ee4de-206c-4a5f-a2b5-1fc22e439502\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/93%2F43%2F07%2F934307d78ad0467c91e45ed9b4726962%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/edbb5973-9e01-42f4-828f-1b7645ea455b/manifest\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF"
+  "dc_format_s": "TIFF",
+  "call_number_s": "G8441.F7 1929 .C6"
 }

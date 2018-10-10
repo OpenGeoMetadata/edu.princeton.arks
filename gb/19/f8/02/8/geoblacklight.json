@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/gb19f8028",
   "layer_slug_s": "princeton-gb19f8028",
   "uuid": "princeton-gb19f8028",
-  "dc_title_s": "Bernardsville, Somerset County, New Jersey",
+  "dc_title_s": "Bernardsville, Somerset County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.640976, -74.548751, 40.758005, 40.692871)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -22,13 +22,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:26:05Z",
-  "layer_id_s": "public-figgy:90211af3-3793-45ab-8cf0-30b656d3a77d",
+  "layer_modified_dt": "2018-09-24T13:50:03Z",
+  "layer_id_s": "public-figgy:p-90211af3-3793-45ab-8cf0-30b656d3a77d",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5597948\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/90211af3-3793-45ab-8cf0-30b656d3a77d/file/59148561-938c-4b4d-bb0e-d2fda0f5d39a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/90211af3-3793-45ab-8cf0-30b656d3a77d/file/f9891e58-af26-49fd-927e-5390ea5bada3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/58%2Ff3%2Fee%2F58f3ee24cded417dafbd4a0035f74bf4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9d7696d8-d4eb-4d8f-b80e-1ecd62579422/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-tm70mz077"
-  ]
+  ],
+  "call_number_s": "HMC04 (Bernardsville)"
 }

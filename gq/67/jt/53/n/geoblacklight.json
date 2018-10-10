@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/gq67jt53n",
   "layer_slug_s": "princeton-gq67jt53n",
   "uuid": "princeton-gq67jt53n",
-  "dc_title_s": "Newark, N. J.",
+  "dc_title_s": "Newark, N. J. (Sheet 22)",
   "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:25:13Z",
-  "layer_id_s": "public-figgy:6144e77e-71df-48c1-b54d-bf094b70dc03",
+  "layer_modified_dt": "2018-06-21T21:04:42Z",
+  "layer_id_s": "public-figgy:p-6144e77e-71df-48c1-b54d-bf094b70dc03",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5655425\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6144e77e-71df-48c1-b54d-bf094b70dc03/file/5568fd5d-9871-49f6-afb7-6e9830dbf996\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6144e77e-71df-48c1-b54d-bf094b70dc03/file/01a48b83-7d44-484c-a64f-137e3afacdb3\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/5b%2F1a%2F29%2F5b1a29da1b0645a4bd7cd6c8f714b11b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c32981ea-4974-400b-a98c-32e6fef32d74/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-9z903279n"
-  ]
+  ],
+  "call_number_s": "HMC04 (Newark)"
 }

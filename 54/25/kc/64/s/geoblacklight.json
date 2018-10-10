@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/5425kc64s",
   "layer_slug_s": "princeton-5425kc64s",
   "uuid": "princeton-5425kc64s",
-  "dc_title_s": "Vineland, Cumberland County, New Jersey",
+  "dc_title_s": "Vineland, Cumberland County, New Jersey (Sheet 15)",
   "solr_geom": "ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-07T03:39:59Z",
-  "layer_id_s": "public-figgy:ca317e84-7234-400f-9b40-ca2fc64e2164",
+  "layer_modified_dt": "2018-08-05T19:34:27Z",
+  "layer_id_s": "public-figgy:p-ca317e84-7234-400f-9b40-ca2fc64e2164",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5418230\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca317e84-7234-400f-9b40-ca2fc64e2164/file/3231e5c1-11b1-4467-bd88-ef9dd9f1daf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca317e84-7234-400f-9b40-ca2fc64e2164/file/e47a7790-bbfd-4cc9-9e5a-6400decc7bb2\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/19%2Ffd%2F85%2F19fd8501181a48e4a0cd08bb640bbef8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2cab1d12-aed3-4353-a028-bf14c4320ce2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-z890rx164"
-  ]
+  ],
+  "call_number_s": "HMC04 (Vineland)"
 }

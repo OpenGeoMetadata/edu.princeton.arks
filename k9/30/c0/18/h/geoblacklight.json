@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/k930c018h",
   "layer_slug_s": "princeton-k930c018h",
   "uuid": "princeton-k930c018h",
-  "dc_title_s": "Beach Haven, Ocean County, New Jersey",
+  "dc_title_s": "Beach Haven, Ocean County, New Jersey (Sheet 12)",
   "solr_geom": "ENVELOPE(-74.258177, -74.230009, 39.581824, 39.54701)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:24:44Z",
-  "layer_id_s": "public-figgy:92ca2703-7129-4ec4-9f80-56c92b2f7943",
+  "layer_modified_dt": "2018-08-20T08:05:16Z",
+  "layer_id_s": "public-figgy:p-92ca2703-7129-4ec4-9f80-56c92b2f7943",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5571640\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92ca2703-7129-4ec4-9f80-56c92b2f7943/file/37293c74-70f9-4bd3-839b-2d55c77cf403\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92ca2703-7129-4ec4-9f80-56c92b2f7943/file/6d340c29-031b-4239-a7bc-ab38054466a6\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2b%2Fb2%2Fa6%2F2bb2a6054461451cbeb73acb8a385100%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a384ff3-244f-4ba5-b1fe-eaf6a1de11cb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-ks65hg12f"
-  ]
+  ],
+  "call_number_s": "HMC04 (Beach Haven)"
 }

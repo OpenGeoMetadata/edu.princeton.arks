@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/9c67wq359",
   "layer_slug_s": "princeton-9c67wq359",
   "uuid": "princeton-9c67wq359",
-  "dc_title_s": "New Griechenlandt mit andern anstossenden Ländern, wie es zu unsern zeiten beschriben ist",
+  "dc_title_s": "New Griechenlandt",
   "solr_geom": "ENVELOPE(18.01, 28.87, 42.18, 35.2)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -21,13 +21,14 @@
     "Greece",
     "Turkey"
   ],
-  "layer_modified_dt": "2018-06-19T22:46:07Z",
-  "layer_id_s": "public-figgy:27c27c39-a897-4acd-ac84-9b8781505bce",
+  "layer_modified_dt": "2018-06-22T22:02:49Z",
+  "layer_id_s": "public-figgy:p-27c27c39-a897-4acd-ac84-9b8781505bce",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4811392\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/27c27c39-a897-4acd-ac84-9b8781505bce/file/237e1e36-3d5b-42f9-bb58-2ebd318eb47f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/27c27c39-a897-4acd-ac84-9b8781505bce/file/b35b66f5-3381-407c-98ad-3b63e01aca7c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/96%2F27%2Fbb%2F9627bb5166c140a3b673657aa8326f80%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b0ccd230-837b-4791-93ba-60d656905b0a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-cc08hh46j"
-  ]
+  ],
+  "call_number_s": "HMC01.3693"
 }

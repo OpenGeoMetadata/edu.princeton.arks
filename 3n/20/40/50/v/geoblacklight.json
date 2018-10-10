@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3n204050v",
   "layer_slug_s": "princeton-3n204050v",
   "uuid": "princeton-3n204050v",
-  "dc_title_s": "Imperial map of the world in hemispheres",
+  "dc_title_s": "Imperial map of the world in hemispheres (Sheet 2)",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -78.0)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -18,13 +18,14 @@
     "Rivers—Charts, diagrams, etc",
     "World maps"
   ],
-  "layer_modified_dt": "2018-06-19T22:14:42Z",
-  "layer_id_s": "public-figgy:8d330aad-2874-4e07-9f08-ee3db6552c8f",
+  "layer_modified_dt": "2018-06-22T21:54:31Z",
+  "layer_id_s": "public-figgy:p-8d330aad-2874-4e07-9f08-ee3db6552c8f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4554735\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8d330aad-2874-4e07-9f08-ee3db6552c8f/file/0c3d7e80-a897-4364-b199-0ff4fc410a0b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d330aad-2874-4e07-9f08-ee3db6552c8f/file/31507d4b-1b48-467d-ba8f-a4b994faf208\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/47%2Fbf%2F52%2F47bf5209498c4d3ab12114759214576d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d97f2834-3e84-43d1-bd31-56def4606773/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-fq977w44s"
-  ]
+  ],
+  "call_number_s": "HMC01.4148"
 }

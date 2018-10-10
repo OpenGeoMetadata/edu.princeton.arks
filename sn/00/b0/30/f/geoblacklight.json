@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/sn00b030f",
   "layer_slug_s": "princeton-sn00b030f",
   "uuid": "princeton-sn00b030f",
-  "dc_title_s": "Englewood, Bergen County, New Jersey",
+  "dc_title_s": "Englewood, Bergen County, New Jersey (Sheet 27)",
   "solr_geom": "ENVELOPE(-73.995, -73.949, 40.913, 40.866)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -20,13 +20,14 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-19T21:40:19Z",
-  "layer_id_s": "public-figgy:06a061da-b56b-48e4-930e-0c07fd45bee6",
+  "layer_modified_dt": "2018-06-21T19:45:13Z",
+  "layer_id_s": "public-figgy:p-06a061da-b56b-48e4-930e-0c07fd45bee6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5247939\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/06a061da-b56b-48e4-930e-0c07fd45bee6/file/618bed26-70c0-4349-8a1e-fc257159d3f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06a061da-b56b-48e4-930e-0c07fd45bee6/file/5aeac4c1-3cbe-4025-b2f0-9f8f0869933b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/27%2F71%2F4e%2F27714ed496cf403aa80b42ae1f2b9d9f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f36e5bee-f254-4550-84e9-9670eb50821d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dct_source_sm": [
     "princeton-1544br991"
-  ]
+  ],
+  "call_number_s": "HMC04 (Englewood)"
 }
