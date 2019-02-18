@@ -6,7 +6,7 @@
   "dc_title_s": "Millville, Cumberland County, New Jersey (Sheet 7)",
   "solr_geom": "ENVELOPE(-75.14901, -74.950823, 39.44701, 39.332481)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Sep't. 1923.\" Includes location map, key, streets and specials index, and text. \"1221.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:03:57Z",
-  "layer_id_s": "restricted-figgy:p-913af2be-02b9-4d54-9ac8-d542f1dbb609",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416820\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/913af2be-02b9-4d54-9ac8-d542f1dbb609/file/76e1e85b-467f-44d5-83cd-c521f34efe70\"}",
+  "layer_modified_dt": "2019-01-02T16:33:17Z",
+  "layer_id_s": "public-figgy:p-913af2be-02b9-4d54-9ac8-d542f1dbb609",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5416820\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/913af2be-02b9-4d54-9ac8-d542f1dbb609/file/8715be25-b609-47de-9445-fad112e1d7b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/913af2be-02b9-4d54-9ac8-d542f1dbb609/file/76e1e85b-467f-44d5-83cd-c521f34efe70\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/d1%2F24%2Fed%2Fd124ed23da274de596835c4fb87831b3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f514dbdc-3887-4948-92f6-31cc6a0b51a2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-tm70mz06r"
   ],
   "call_number_s": "HMC04 (Millville)"

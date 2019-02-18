@@ -6,7 +6,7 @@
   "dc_title_s": "Salem, Salem County, New Jersey : including Quinton, Alloway, Pennsville, Fort Elfsborg, Hancocks Bridge & Claysville (Sheet 9)",
   "solr_geom": "ENVELOPE(-75.494969, -75.452387, 39.584022, 39.554874)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1923.\" Includes location map, key, key map, streets and specials index, and text. \"1055.\" Title from index sheet.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -24,13 +24,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:05:54Z",
-  "layer_id_s": "restricted-figgy:p-993d4cad-d004-4fc6-a345-99e5e9171d65",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596177\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/993d4cad-d004-4fc6-a345-99e5e9171d65/file/8583f303-9121-4bf0-8f16-6505dac6ac96\"}",
+  "layer_modified_dt": "2019-01-02T16:34:39Z",
+  "layer_id_s": "public-figgy:p-993d4cad-d004-4fc6-a345-99e5e9171d65",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596177\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/993d4cad-d004-4fc6-a345-99e5e9171d65/file/2bec7a83-a1a7-43aa-8436-0ec65f10a2e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/993d4cad-d004-4fc6-a345-99e5e9171d65/file/8583f303-9121-4bf0-8f16-6505dac6ac96\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/6b%2F9e%2F59%2F6b9e59413509444384368ddf3c271475%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/45e208e8-cf2b-4fa1-9342-9816f6ccbd4b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-9k41zh40k"
   ],
   "call_number_s": "HMC04 (Salem)"

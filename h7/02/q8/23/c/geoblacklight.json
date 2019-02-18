@@ -6,7 +6,7 @@
   "dc_title_s": "Freehold, Monmouth County, New Jersey (Sheet 11)",
   "solr_geom": "ENVELOPE(-74.406777, -74.22275, 40.295479, 40.168296)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July, 1923.\" Includes location map, key, streets and specials index, and text. \"1114.\" Title from index sheet.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:21:07Z",
-  "layer_id_s": "restricted-figgy:p-ab5dad08-3563-4f15-95bf-cb74a5430a7f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802523\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab5dad08-3563-4f15-95bf-cb74a5430a7f/file/40daf8b8-89c0-4371-87a7-4e885f2d6f74\"}",
+  "layer_modified_dt": "2019-01-02T16:33:52Z",
+  "layer_id_s": "public-figgy:p-ab5dad08-3563-4f15-95bf-cb74a5430a7f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4802523\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ab5dad08-3563-4f15-95bf-cb74a5430a7f/file/2aa06f64-9d5a-44f5-87ba-c56722693833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ab5dad08-3563-4f15-95bf-cb74a5430a7f/file/40daf8b8-89c0-4371-87a7-4e885f2d6f74\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/ea%2F71%2Fec%2Fea71ec123eed4d4699b305b57ae8933d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03c96ed6-4bdb-4227-9962-c2539be0c511/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-j6731668n"
   ],
   "call_number_s": "HMC04 (Freehold)"

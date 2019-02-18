@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5x21tk30m",
+  "layer_slug_s": "princeton-5x21tk30m",
+  "uuid": "princeton-5x21tk30m",
+  "dc_title_s": "King William County, Virginia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-77.345022, -76.778869, 37.909826, 37.524039)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in King William County, Virginia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "King William",
+    "King William County",
+    "Virginia",
+    "Richmond"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-12-18T22:55:47Z",
+  "layer_id_s": "restricted-figgy:p-bb53884d-b0b3-40b2-91fd-71a9f83ff617",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ef63bf55-852f-4b23-80ab-35ff35e0bd77/file/85f2477e-afab-4c44-8869-a786de2a54e8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb53884d-b0b3-40b2-91fd-71a9f83ff617/file/60ae4f89-61f1-4560-89ad-5cbf0e9a03f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb53884d-b0b3-40b2-91fd-71a9f83ff617/file/6d3fa542-a31b-4ad3-97ad-620b91ae800b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

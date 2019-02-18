@@ -6,7 +6,7 @@
   "dc_title_s": "Haddonfield, Camden County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-75.0421, -75.0328, 39.8962, 39.8887)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"April 1923.\" Includes location map, key, streets and specials index, and text. \"5893\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:59:34Z",
-  "layer_id_s": "restricted-figgy:p-28d0b3ef-6040-4444-9bf2-60154dc578d4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5401562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28d0b3ef-6040-4444-9bf2-60154dc578d4/file/b3ff3166-7aff-4be4-adfd-6baff4890084\"}",
+  "layer_modified_dt": "2019-01-02T16:32:56Z",
+  "layer_id_s": "public-figgy:p-28d0b3ef-6040-4444-9bf2-60154dc578d4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5401562\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/28d0b3ef-6040-4444-9bf2-60154dc578d4/file/0b145af0-3a4a-4cc9-a9b4-91ec4c84e26f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28d0b3ef-6040-4444-9bf2-60154dc578d4/file/b3ff3166-7aff-4be4-adfd-6baff4890084\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/df%2F18%2F9c%2Fdf189caceb014bf7a8efc7909d1a54c2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cb667317-6d03-47e7-ac47-149c303d9361/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-rb68xf76v"
   ],
   "call_number_s": "HMC04 (Haddonfield)"

@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/wh246x01v",
+  "layer_slug_s": "princeton-wh246x01v",
+  "uuid": "princeton-wh246x01v",
+  "dc_title_s": "Hamilton County, Indiana land parcels, 2013",
+  "solr_geom": "ENVELOPE(-86.242667, -85.862045, 40.218876, 39.926116)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Delaware County, Indiana, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hamilton",
+    "Hamilton County",
+    "Indiana",
+    "Indianapolis",
+    "Carmel"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:55:27Z",
+  "layer_id_s": "restricted-figgy:p-5518485b-a2a8-4937-8e60-8ebf5c123552",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ebbaba67-f60b-4c6d-a7cb-1d61ccb189f5/file/0634dd9a-ed26-414e-9203-1e17f6908939\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5518485b-a2a8-4937-8e60-8ebf5c123552/file/499db2bd-6d77-4281-a61b-3ece129144b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5518485b-a2a8-4937-8e60-8ebf5c123552/file/6d67c561-dba2-409c-81d9-6a74b47bf51a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

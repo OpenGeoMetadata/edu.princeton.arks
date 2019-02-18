@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/4m90f034f",
+  "layer_slug_s": "princeton-4m90f034f",
+  "uuid": "princeton-4m90f034f",
+  "dc_title_s": "Hong Kong marine waters, 1999",
+  "solr_geom": "ENVELOPE(113.814773, 114.447984, 22.560057, 22.150029)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Polygons representing marine waters in Hong Kong for 1999. The data were extracted from a map by the Survey and Mapping Office of the Hong Kong Lands Department and published by LAND INFO Worldwide Mapping. Area of water shown in the dataset reflects area of the original map and should not be taken as a representation of maritime territory.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_subject_sm": [
+    "Oceans"
+  ],
+  "dct_spatial_sm": [
+    "Hong Kong",
+    "South China Sea"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "2008"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-11-13T15:54:58Z",
+  "layer_id_s": "restricted-figgy:p-2801f8c2-8e1d-470b-af38-30da100239d9",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c8ae28f-ff6a-4dea-bf43-c3b400657d97/file/9664c333-ceb7-4ade-877c-2a777f3b7698\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2801f8c2-8e1d-470b-af38-30da100239d9/file/48dea1ba-37aa-4f87-801a-18b2fbe6a8bf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2801f8c2-8e1d-470b-af38-30da100239d9/file/0aeaef73-f122-46c8-bbd3-6856244e3d81\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

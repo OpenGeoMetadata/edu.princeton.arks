@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5q47rs616",
+  "layer_slug_s": "princeton-5q47rs616",
+  "uuid": "princeton-5q47rs616",
+  "dc_title_s": "Fulton County, Georgia land parcels, 2013",
+  "solr_geom": "ENVELOPE(-84.850714, -84.097899, 34.186191, 33.502505)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fulton County, Georgia, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fulton",
+    "Fulton County",
+    "Georgia",
+    "Atlanta",
+    "Sandy Springs",
+    "Roswell",
+    "Johns Creek"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:14Z",
+  "layer_id_s": "restricted-figgy:p-0917ffd3-668f-4099-87ff-411a8785f380",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9f5463d-a6f3-46e8-a91f-76420d1f15ea/file/f137a5bb-f207-4078-ae98-7ca448caaa7b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0917ffd3-668f-4099-87ff-411a8785f380/file/994db3b9-6cc0-46e6-85ff-5a2112228204\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0917ffd3-668f-4099-87ff-411a8785f380/file/6b0400fb-6fa8-42ee-ac09-fe9aa5b688f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

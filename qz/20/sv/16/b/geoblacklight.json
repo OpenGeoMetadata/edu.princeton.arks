@@ -6,7 +6,7 @@
   "dc_title_s": "Camden (Sheet 78)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes text. \"New sheet, Apr. 1923.\" \"Camden, N.J., vol. 1.\" North oriented towards upper right. \"5911.\" Sheets 22, 49, 73-74 and 77-81; additional sheets to Camden, N.J., vol. 1 series.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:54:02Z",
-  "layer_id_s": "restricted-figgy:p-ed6a9ad8-24a3-4464-b33d-63ab116b391b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359890\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed6a9ad8-24a3-4464-b33d-63ab116b391b/file/1d968aca-5b72-482e-8aa4-b02b9e7c717b\"}",
+  "layer_modified_dt": "2019-01-02T16:34:20Z",
+  "layer_id_s": "public-figgy:p-ed6a9ad8-24a3-4464-b33d-63ab116b391b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359890\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ed6a9ad8-24a3-4464-b33d-63ab116b391b/file/02fc50d0-1d65-4674-b0de-2868b85474b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ed6a9ad8-24a3-4464-b33d-63ab116b391b/file/1d968aca-5b72-482e-8aa4-b02b9e7c717b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/8b%2Ff5%2F37%2F8bf53720bd64438fb8a6593e910e299a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c50b7c4f-003c-490b-a300-909e135ccbf4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-4t64gr093"
   ],
   "call_number_s": "HMC04 (Camden)"

@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/hx11xk07w",
+  "layer_slug_s": "princeton-hx11xk07w",
+  "uuid": "princeton-hx11xk07w",
+  "dc_title_s": "Hong Kong contour lines, 1999",
+  "solr_geom": "ENVELOPE(113.83564, 114.404137, 22.559009, 22.156814)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Lines representing 50-meter elevation contours in Hong Kong for 1999. The data were extracted from a map by the Survey and Mapping Office of the Hong Kong Lands Department and published by LAND INFO Worldwide Mapping. This dataset does not show Hong Kong's coastline or other points below 50 meters in elevation.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_spatial_sm": [
+    "Hong Kong"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "2008"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-11-13T15:49:10Z",
+  "layer_id_s": "restricted-figgy:p-939ee2e1-c58f-4389-961b-d2b45ae09ef3",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/896729c8-de80-44e8-857a-2b75dd506995/file/ff9e6905-f747-40bb-9cfa-49a84609d066\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/939ee2e1-c58f-4389-961b-d2b45ae09ef3/file/a89de02b-0a25-473d-817e-9b4372196242\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/939ee2e1-c58f-4389-961b-d2b45ae09ef3/file/992ef724-74eb-437c-8b08-7d07212cd8c6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

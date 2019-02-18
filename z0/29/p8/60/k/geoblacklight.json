@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z029p860k",
+  "layer_slug_s": "princeton-z029p860k",
+  "uuid": "princeton-z029p860k",
+  "dc_title_s": "Broomfield County, Colorado land parcels, 2013",
+  "solr_geom": "ENVELOPE(-105.165511, -104.961278, 40.044144, 39.8892)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Broomfield County, Colorado, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Broomfield",
+    "Broomfield County",
+    "Colorado",
+    "Denver"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:04Z",
+  "layer_id_s": "restricted-figgy:p-cf6c0aa6-2328-47c9-9d3a-b97daf16db36",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/affebfa3-7764-4197-a932-5b04be682aaa/file/1a97e71c-3084-484a-a26d-e31337dc0ede\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cf6c0aa6-2328-47c9-9d3a-b97daf16db36/file/3882ea9c-bc54-4b86-a6f0-43b91f95bf52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cf6c0aa6-2328-47c9-9d3a-b97daf16db36/file/e33fd0d1-e314-46c9-ac4f-5b88d41eb9f5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

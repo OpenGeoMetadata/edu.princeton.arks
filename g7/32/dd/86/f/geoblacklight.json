@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g732dd86f",
+  "layer_slug_s": "princeton-g732dd86f",
+  "uuid": "princeton-g732dd86f",
+  "dc_title_s": "Leon County, Florida roads, 2013",
+  "solr_geom": "ENVELOPE(-84.706116, -83.980412, 30.684237, 30.273814)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Leon County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Leon",
+    "Leon County",
+    "Florida",
+    "Tallahassee",
+    "Apalachicola National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:03Z",
+  "layer_id_s": "restricted-figgy:p-5bd86274-e6f4-459e-8b7a-1ad853271c3f",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a52f27f7-212b-4351-99ff-da436f96ca77/file/d0a22fd9-99ba-42a5-8864-d1e53b8c8dc3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bd86274-e6f4-459e-8b7a-1ad853271c3f/file/64eb2da0-2fe9-449c-9e90-c23701f67004\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bd86274-e6f4-459e-8b7a-1ad853271c3f/file/c32a53f2-6c0e-42fe-8f1c-9f0380381240\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

@@ -6,7 +6,7 @@
   "dc_title_s": "South River, Middlesex Co. : including East Brunswick Township (Sheet 10)",
   "solr_geom": "ENVELOPE(-74.403543, -74.353585, 40.463878, 40.428946)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, key map, streets and specials index, and text. \"1216.\" \"Aug. 1923.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:13:10Z",
-  "layer_id_s": "restricted-figgy:p-fd02d858-027c-4dde-b8d2-62bd628dc832",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5541335\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd02d858-027c-4dde-b8d2-62bd628dc832/file/fba27de2-4a07-4b5a-9f57-c4208597301f\"}",
+  "layer_modified_dt": "2019-01-02T16:33:42Z",
+  "layer_id_s": "public-figgy:p-fd02d858-027c-4dde-b8d2-62bd628dc832",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5541335\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd02d858-027c-4dde-b8d2-62bd628dc832/file/83270dfa-6edd-41f7-b813-947e26c4dc96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd02d858-027c-4dde-b8d2-62bd628dc832/file/fba27de2-4a07-4b5a-9f57-c4208597301f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/59%2F62%2Fd3%2F5962d34c80f442ebaf548bcb7aff3f85%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d8b161a0-aec7-478b-b4ea-05c0151b1709/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-s4655k52w"
   ],
   "call_number_s": "HMC04 (South River)"

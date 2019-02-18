@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gb19f9688",
+  "layer_slug_s": "princeton-gb19f9688",
+  "uuid": "princeton-gb19f9688",
+  "dc_title_s": "Fauquier County, Virginia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-78.131267, -77.531323, 39.02, 38.409429)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Fauquier County, Virginia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Fauquier",
+    "Fauquier County",
+    "Virginia",
+    "Washington",
+    "Washington DC",
+    "District of Columbia",
+    "Northern Virginia"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2012"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-12-18T22:55:39Z",
+  "layer_id_s": "restricted-figgy:p-6f410c4b-1147-40c1-8743-b5c7f99b2e83",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed2aa50b-363c-46c7-bf2f-2c9bd64ef291/file/cdc30fa6-2d1e-4238-980e-2f991f8a6582\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f410c4b-1147-40c1-8743-b5c7f99b2e83/file/20d87d7e-d9c1-442c-95bc-f898fb3c3305\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f410c4b-1147-40c1-8743-b5c7f99b2e83/file/f142478e-3af3-445e-bab2-a46c6c201800\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

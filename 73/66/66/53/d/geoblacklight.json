@@ -6,7 +6,7 @@
   "dc_title_s": "Pitman, Gloucester County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.15006, -75.113469, 39.749441, 39.717914)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"May 1923.\" Includes location map, key, key map, streets and specials index, and text. \"1022.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:55:07Z",
-  "layer_id_s": "restricted-figgy:p-87479507-d65c-4a54-b0cb-a0df92ea3b24",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5487282\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/87479507-d65c-4a54-b0cb-a0df92ea3b24/file/67353475-dd7c-4542-a75b-8b34a9af260b\"}",
+  "layer_modified_dt": "2019-01-02T16:34:09Z",
+  "layer_id_s": "public-figgy:p-87479507-d65c-4a54-b0cb-a0df92ea3b24",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5487282\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/87479507-d65c-4a54-b0cb-a0df92ea3b24/file/fcdc61bd-55e5-42b8-8177-9b2c38ac37c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/87479507-d65c-4a54-b0cb-a0df92ea3b24/file/67353475-dd7c-4542-a75b-8b34a9af260b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dd%2F2b%2F8a%2Fdd2b8a26b5394cc882b95077a50da159%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19be83b2-b7f1-4cf1-ba87-a661d433b78b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-mw22v838b"
   ],
   "call_number_s": "HMC04 (Pitman)"

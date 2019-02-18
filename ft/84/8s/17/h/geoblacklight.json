@@ -6,7 +6,7 @@
   "dc_title_s": "Keyport, Monmouth County, New Jersey : including South Keyport (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.219, -74.183, 40.448, 40.423)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Aug. 1923.\" Includes location map, key, streets and specials index, and text. Title from index sheet. \"1225.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -22,13 +22,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:05:01Z",
-  "layer_id_s": "restricted-figgy:p-ba8555c9-0d6f-4ef1-b124-6ea01c135db8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4806188\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba8555c9-0d6f-4ef1-b124-6ea01c135db8/file/25fea97f-7339-4ab9-9b6f-d585943aff82\"}",
+  "layer_modified_dt": "2019-01-29T14:11:29Z",
+  "layer_id_s": "public-figgy:p-ba8555c9-0d6f-4ef1-b124-6ea01c135db8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4806188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba8555c9-0d6f-4ef1-b124-6ea01c135db8/file/6d9d6357-69f1-495a-8650-4d51fce2586a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba8555c9-0d6f-4ef1-b124-6ea01c135db8/file/25fea97f-7339-4ab9-9b6f-d585943aff82\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/74%2F7a%2F7f%2F747a7f9409d24c9092214b323e66a59e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4afbf138-b104-47c9-aabf-9608fded1901/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-dr26z129f"
   ],
   "call_number_s": "HMC04 (Keyport)"

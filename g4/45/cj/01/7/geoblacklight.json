@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/g445cj017",
+  "layer_slug_s": "princeton-g445cj017",
+  "uuid": "princeton-g445cj017",
+  "dc_title_s": "Costa Rica demographic data from 2011 census",
+  "solr_geom": "ENVELOPE(-85.979069, -82.552319, 11.219758, 8.039627)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2011 demographic data for Costa Rica, displayed at district level. The data were released by the National Institute of Statistics and Census of Costa Rica and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Instituto Nacional de Estadística y Censos de Costa Rica"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Costa Rica",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2018"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2018-12-17T22:24:56Z",
+  "layer_id_s": "restricted-figgy:p-4d8f7731-3c1c-4083-ae96-9db95c74bf65",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e9333841-ab2d-4ec5-a994-93afd9b80f23/file/58f25758-9e56-4779-8f86-e0e0fd78f1ea\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d8f7731-3c1c-4083-ae96-9db95c74bf65/file/8dfae347-1103-4f77-958e-bf6f9b11ad32\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d8f7731-3c1c-4083-ae96-9db95c74bf65/file/5c384ae9-5f51-4a19-8115-3d4ac8d1af08\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

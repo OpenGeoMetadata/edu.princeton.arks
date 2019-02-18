@@ -6,7 +6,7 @@
   "dc_title_s": "Keansburg, Monmouth County, New Jersey : including West Keansburg, East Keansburg, Ideal Beach and Port Monmouth (Sheet 9)",
   "solr_geom": "ENVELOPE(-74.148, -74.116, 40.457, 40.435)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"May 1923.\" Includes location map, key, streets and specials index, and text. \"1038.\" Title from index sheet.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -28,13 +28,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:59:23Z",
-  "layer_id_s": "restricted-figgy:p-f729c041-07da-43b8-821b-8a12a77926c3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804291\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f729c041-07da-43b8-821b-8a12a77926c3/file/7b7d9f9a-053b-4545-b36c-e95b266229ae\"}",
+  "layer_modified_dt": "2019-01-02T16:34:26Z",
+  "layer_id_s": "public-figgy:p-f729c041-07da-43b8-821b-8a12a77926c3",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804291\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f729c041-07da-43b8-821b-8a12a77926c3/file/f8767b06-11ea-4264-a379-c1a4f6e5d319\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f729c041-07da-43b8-821b-8a12a77926c3/file/7b7d9f9a-053b-4545-b36c-e95b266229ae\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/24%2F8a%2Faa%2F248aaa3a28924c019530eb038916c3af%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/54ceb101-fc96-4749-974f-58297b13da53/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-s1784p64p"
   ],
   "call_number_s": "HMC04 (Keansburg)"

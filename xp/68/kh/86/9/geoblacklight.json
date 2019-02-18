@@ -6,7 +6,7 @@
   "dc_title_s": "Wrightstown, Burlington County, New Jersey (Sheet 1)",
   "solr_geom": "ENVELOPE(-74.66, -74.601, 40.041, 40.006)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July 1923.\" Includes location map, key, and text. \"1103.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:54:16Z",
-  "layer_id_s": "restricted-figgy:p-76f78230-0b41-4653-8164-3f771457b48e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5159136\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76f78230-0b41-4653-8164-3f771457b48e/file/b9997d4e-2d01-41da-96a1-84582922007b\"}",
+  "layer_modified_dt": "2019-01-02T16:34:15Z",
+  "layer_id_s": "public-figgy:p-76f78230-0b41-4653-8164-3f771457b48e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5159136\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76f78230-0b41-4653-8164-3f771457b48e/file/2befb603-8988-4351-9877-d346dff5c91e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76f78230-0b41-4653-8164-3f771457b48e/file/b9997d4e-2d01-41da-96a1-84582922007b\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/dc%2Fd9%2F44%2Fdcd9449ff2e442e1b86e7061ecf6addf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a2edacc7-9a91-4dcd-8c0c-8f41a15b59f8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-mp48sg66g"
   ],
   "call_number_s": "HMC04 (Wrightstown)"

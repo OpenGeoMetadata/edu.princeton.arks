@@ -6,7 +6,7 @@
   "dc_title_s": "Glassboro, Gloucester County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-75.168261, -75.054785, 39.73739, 39.678584)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July 1923.\" Includes location map, key, streets and specials index, and text. \"1097.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:14:07Z",
-  "layer_id_s": "restricted-figgy:p-0120b99f-9d8e-4447-a359-4c52ad81de3c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5481556\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0120b99f-9d8e-4447-a359-4c52ad81de3c/file/335e66d4-79e6-4982-a5b3-0e9396e03dbf\"}",
+  "layer_modified_dt": "2019-01-02T16:34:47Z",
+  "layer_id_s": "public-figgy:p-0120b99f-9d8e-4447-a359-4c52ad81de3c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5481556\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0120b99f-9d8e-4447-a359-4c52ad81de3c/file/b5b06a33-0801-4c8b-a76a-23e0622b1c92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0120b99f-9d8e-4447-a359-4c52ad81de3c/file/335e66d4-79e6-4982-a5b3-0e9396e03dbf\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e8%2Fac%2F3c%2Fe8ac3c1de3bf40138a0398db68a2a4cf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec027e3d-cbc8-4926-870d-045a726b86c0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-f1881p81w"
   ],
   "call_number_s": "HMC04 (Glassboro)"

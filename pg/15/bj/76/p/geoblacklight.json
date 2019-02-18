@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bj76p",
+  "layer_slug_s": "princeton-pg15bj76p",
+  "uuid": "princeton-pg15bj76p",
+  "dc_title_s": "Clear Creek County, Colorado land parcels, 2013",
+  "solr_geom": "ENVELOPE(-105.927275, -105.391528, 39.85248, 39.565258)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Clear Creek County, Colorado, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Clear Creek",
+    "Clear Creek County",
+    "Colorado",
+    "Denver",
+    "Pike National Forest",
+    "Roosevelt National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:05Z",
+  "layer_id_s": "restricted-figgy:p-a4bdc66c-90e4-4b55-a4df-cd252b69235d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f3c26962-f33a-440a-92b2-2431af4c9596/file/4b0056c5-62e0-4e71-8185-870d94b9201a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4bdc66c-90e4-4b55-a4df-cd252b69235d/file/3bf32644-5bd0-4bb6-9978-3056b0e5a275\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4bdc66c-90e4-4b55-a4df-cd252b69235d/file/15df7bb8-d277-41e7-a94f-af38f6a24902\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

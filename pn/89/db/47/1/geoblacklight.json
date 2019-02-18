@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pn89db471",
+  "layer_slug_s": "princeton-pn89db471",
+  "uuid": "princeton-pn89db471",
+  "dc_title_s": "Pinellas County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-82.851281, -82.582477, 28.173495, 27.611789)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Pinellas County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Pinellas",
+    "Pinellas County",
+    "Florida",
+    "Tampa",
+    "Tampa Bay",
+    "St. Petersburg",
+    "Clearwater"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:07Z",
+  "layer_id_s": "restricted-figgy:p-663aeadf-2079-4ee9-ac86-f59d8107b1b0",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed56da59-badb-4503-8395-495ee63b7a3a/file/d515ca81-1e2d-475f-af86-16806f4781e7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/663aeadf-2079-4ee9-ac86-f59d8107b1b0/file/497e46c5-2021-4800-9d27-380cc9d98e1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/663aeadf-2079-4ee9-ac86-f59d8107b1b0/file/fb26660d-e880-49c6-9dc9-716829a8d3f9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

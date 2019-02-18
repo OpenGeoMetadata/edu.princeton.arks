@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cc08hk49t",
+  "layer_slug_s": "princeton-cc08hk49t",
+  "uuid": "princeton-cc08hk49t",
+  "dc_title_s": "El Salvador personal data from 2007 census",
+  "solr_geom": "ENVELOPE(-90.132002, -87.683802, 14.451055, 13.155402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2007 personal data for El Salvador, including race and ethnicity, education, migration patterns, and language, displayed at municipality level. The data were released by the Dirección General de Estadística y Censos (DIGESTYC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Dirección General de Estadística y Censos (DIGESTYC)"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2018"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-12-17T22:23:36Z",
+  "layer_id_s": "restricted-figgy:p-c176ba93-b278-4d09-80ad-a614317d5325",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/580ef150-5c30-4818-9200-028741c9bc80/file/c0706d43-e296-4e9e-a32f-5ee85880aea8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c176ba93-b278-4d09-80ad-a614317d5325/file/d6935c82-9feb-43ac-b253-4b7284d331c4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c176ba93-b278-4d09-80ad-a614317d5325/file/1797bd60-2454-46ae-84f5-0b728433c177\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

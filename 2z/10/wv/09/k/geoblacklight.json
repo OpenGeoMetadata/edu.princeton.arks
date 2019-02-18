@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2z10wv09k",
+  "layer_slug_s": "princeton-2z10wv09k",
+  "uuid": "princeton-2z10wv09k",
+  "dc_title_s": "Monroe County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-81.964972, -80.251469, 25.80571, 24.521031)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Monroe County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Monroe",
+    "Monroe County",
+    "Florida",
+    "Florida Keys",
+    "Key West",
+    "Everglades",
+    "Everglades National Park",
+    "Dry Tortugas National Park",
+    "Big Cypress National Preserve"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:05Z",
+  "layer_id_s": "restricted-figgy:p-028640ba-adda-4023-af52-2d36bfd1a8f5",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a35b9745-d4a6-470b-9218-bd16d00f5e98/file/8dc88665-bf69-4ec5-941f-392c7b22361d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/028640ba-adda-4023-af52-2d36bfd1a8f5/file/571c86d3-d6ae-4819-90ef-0642791b90c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/028640ba-adda-4023-af52-2d36bfd1a8f5/file/96c4b45e-b024-48ca-afd1-6115c3987759\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

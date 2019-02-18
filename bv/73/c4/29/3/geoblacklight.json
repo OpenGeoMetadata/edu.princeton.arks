@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/bv73c4293",
+  "layer_slug_s": "princeton-bv73c4293",
+  "uuid": "princeton-bv73c4293",
+  "dc_title_s": "Lake County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-81.956586, -81.349714, 29.277329, 28.345703)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Lake County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Lake",
+    "Lake County",
+    "Florida",
+    "Orlando",
+    "Ocala National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:46Z",
+  "layer_id_s": "restricted-figgy:p-1b44489c-ed40-4575-af54-ea295584580e",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4af79c54-7cb5-42c3-a68c-bf0fb6ea8264/file/22abdb2a-071a-4e8f-9b6b-8a7114b57528\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b44489c-ed40-4575-af54-ea295584580e/file/3368a0bd-1600-4ec6-aa04-50da13827e81\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b44489c-ed40-4575-af54-ea295584580e/file/4639e715-82e8-4b6b-95d4-b6e7a5f8e39c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

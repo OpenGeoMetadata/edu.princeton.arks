@@ -6,7 +6,7 @@
   "dc_title_s": "Camden (Sheet 35)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes text. \"New sheet, May 1923.\" \"Camden, N.J., vol. 2.\" \"5021.\" Sheets 19, 35-36, 73, 77 and 85-86; sdditional sheets to Camden, N.J., vol. 2 series.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:53:40Z",
-  "layer_id_s": "restricted-figgy:p-f009e487-2e15-41b8-a353-10e1e7757ca9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359916\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f009e487-2e15-41b8-a353-10e1e7757ca9/file/6a87ed5c-4f82-4947-ba27-807a715ad701\"}",
+  "layer_modified_dt": "2019-01-02T16:32:52Z",
+  "layer_id_s": "public-figgy:p-f009e487-2e15-41b8-a353-10e1e7757ca9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5359916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f009e487-2e15-41b8-a353-10e1e7757ca9/file/ebaa2e2f-a326-40ad-a9bd-9f1c8cb1baf6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f009e487-2e15-41b8-a353-10e1e7757ca9/file/6a87ed5c-4f82-4947-ba27-807a715ad701\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/81%2F5d%2F4f%2F815d4f745157443cb474f501987805bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cc9618f6-67b3-4fa0-9c86-3feabfce1f31/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-6q182p06r"
   ],
   "call_number_s": "HMC04 (Camden)"
