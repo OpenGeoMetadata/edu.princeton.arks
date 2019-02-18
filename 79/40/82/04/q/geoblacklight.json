@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/79408204q",
+  "layer_slug_s": "princeton-79408204q",
+  "uuid": "princeton-79408204q",
+  "dc_title_s": "Broward County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-80.881227, -80.074336, 26.355502, 25.956729)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Broward County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Broward",
+    "Broward County",
+    "Florida",
+    "Miami",
+    "Fort Lauderdale",
+    "Pembroke Pines",
+    "Hollywood",
+    "Miramar",
+    "Coral Springs"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:20Z",
+  "layer_id_s": "restricted-figgy:p-d6fcc4ed-23d5-4a0b-b51e-2229696487d6",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8389d9e1-696f-44fc-a85b-35f49ea95c33/file/3d90ba90-aff1-4776-83be-8e0d89114f36\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6fcc4ed-23d5-4a0b-b51e-2229696487d6/file/c3965526-a66f-413e-bd18-7ff82232c532\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6fcc4ed-23d5-4a0b-b51e-2229696487d6/file/2ce1ef5e-1659-43e8-ab7a-cbad6401cda7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

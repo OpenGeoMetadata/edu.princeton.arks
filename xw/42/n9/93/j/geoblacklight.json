@@ -6,7 +6,7 @@
   "dc_title_s": "Williamstown, Gloucester County, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-75.015168, -74.975168, 39.706226, 39.666226)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"September 1923.\" \"1242.\" Includes location map, key, key map, streets and specials index, and text.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:02:32Z",
-  "layer_id_s": "restricted-figgy:p-490bd322-c238-4d5c-9f98-bfe9c8a0ad71",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5490494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/490bd322-c238-4d5c-9f98-bfe9c8a0ad71/file/c615fa8d-65cc-4929-b24f-13e1280af56c\"}",
+  "layer_modified_dt": "2019-01-02T16:34:32Z",
+  "layer_id_s": "public-figgy:p-490bd322-c238-4d5c-9f98-bfe9c8a0ad71",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5490494\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/490bd322-c238-4d5c-9f98-bfe9c8a0ad71/file/f71d040f-9c3a-4e7e-86ca-fdfd7fbfaafb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/490bd322-c238-4d5c-9f98-bfe9c8a0ad71/file/c615fa8d-65cc-4929-b24f-13e1280af56c\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/fd%2F88%2F51%2Ffd88519d6269429fa95d95e085f37d6b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2aaec985-74ac-4d07-8681-678aa6590df9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-5712m943f"
   ],
   "call_number_s": "HMC04 (Williamstown)"

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2v23vz25x",
+  "layer_slug_s": "princeton-2v23vz25x",
+  "uuid": "princeton-2v23vz25x",
+  "dc_title_s": "Argentina personal data from 2010 census",
+  "solr_geom": "ENVELOPE(-74.510484, -47.167178, -21.352829, -55.056737)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2010 personal data for Argentina, displayed by individual census tract. The data were released by the Instituto Nacional de Estadística y Censos (INDEC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Instituto Nacional de Estadística y Censos"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Argentina",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2018-12-17T22:25:26Z",
+  "layer_id_s": "restricted-figgy:p-f45f8520-41a5-4a48-b396-242dcdccde08",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc58a9cf-4075-473d-af50-5be3c2dd8752/file/5798d41c-bfd2-47c4-8019-7a4b2d014ff5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f45f8520-41a5-4a48-b396-242dcdccde08/file/513dd693-b9bc-463c-a7ab-b3966100c05b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f45f8520-41a5-4a48-b396-242dcdccde08/file/2529f685-d34c-47fc-b232-9890e1e5f434\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

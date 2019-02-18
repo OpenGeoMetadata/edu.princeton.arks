@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1j92gc34s",
+  "layer_slug_s": "princeton-1j92gc34s",
+  "uuid": "princeton-1j92gc34s",
+  "dc_title_s": "Franklin County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-85.22303, -84.333468, 30.013846, 29.586787)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Franklin County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Franklin",
+    "Franklin County",
+    "Florida",
+    "Apalachicola National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:37Z",
+  "layer_id_s": "restricted-figgy:p-5f3ee784-d71c-41c8-8770-e53817f20056",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c34d2419-a84a-4253-9b8f-87644c2d8110/file/5991c1c8-b9da-4aae-859d-08551404756d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5f3ee784-d71c-41c8-8770-e53817f20056/file/0a524093-dd5b-4174-9a06-f53ce642ce34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f3ee784-d71c-41c8-8770-e53817f20056/file/49960f9c-c402-405f-8e6c-dedf59cefdb6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

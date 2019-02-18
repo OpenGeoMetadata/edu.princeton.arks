@@ -6,7 +6,7 @@
   "dc_title_s": "Bergenfield, Bergen County, New Jersey (Index)",
   "solr_geom": "ENVELOPE(-74.017, -73.98, 40.938, 40.908)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"January 1923.\" Includes location map, key, streets and specials index, and text. \"5743\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:17:40Z",
-  "layer_id_s": "restricted-figgy:p-c9ca2402-8eee-4b45-8221-9bcb61877e12",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5226042\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9ca2402-8eee-4b45-8221-9bcb61877e12/file/350db9d1-f48f-4731-b081-c2cbd15a0e54\"}",
+  "layer_modified_dt": "2019-01-02T16:34:00Z",
+  "layer_id_s": "public-figgy:p-c9ca2402-8eee-4b45-8221-9bcb61877e12",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5226042\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9ca2402-8eee-4b45-8221-9bcb61877e12/file/3bbd20ec-6980-427c-8c39-55ab48ff1fda\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9ca2402-8eee-4b45-8221-9bcb61877e12/file/350db9d1-f48f-4731-b081-c2cbd15a0e54\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/2c%2F23%2Ffa%2F2c23facb7f1e4955be6c151e9c57bf46%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3aa7c37d-6c98-4cd8-bdb2-37df78f4a36a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-12579w18r"
   ],
   "call_number_s": "HMC04 (Bergenfield)"

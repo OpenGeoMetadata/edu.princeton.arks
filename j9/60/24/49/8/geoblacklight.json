@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/j96024498",
+  "layer_slug_s": "princeton-j96024498",
+  "uuid": "princeton-j96024498",
+  "dc_title_s": "Adams County, Illinois land parcels, 2013",
+  "solr_geom": "ENVELOPE(-91.512957, -90.911949, 40.199997, 39.756844)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Adams County, Illinois, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Adams",
+    "Adams County",
+    "Illinois",
+    "Mississippi River"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:55:23Z",
+  "layer_id_s": "restricted-figgy:p-f9e8a39e-1b8e-406c-a641-fa4abb4606c2",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/911f2ce4-009f-4014-845a-27e9eb63e2ed/file/c9be5ecf-b56d-4d65-ba17-9d42e6d43f27\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f9e8a39e-1b8e-406c-a641-fa4abb4606c2/file/fb5f12c6-9234-4130-9350-342b0de3594c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f9e8a39e-1b8e-406c-a641-fa4abb4606c2/file/aed85430-f3bc-4383-9b3a-7b747e94f619\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

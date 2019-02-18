@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/8c97kv268",
+  "layer_slug_s": "princeton-8c97kv268",
+  "uuid": "princeton-8c97kv268",
+  "dc_title_s": "Hong Kong spot heights, 1999",
+  "solr_geom": "ENVELOPE(113.836746, 114.389557, 22.547942, 22.160831)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Points representing elevations in Hong Kong for 1999. The data were extracted from a map by the Survey and Mapping Office of the Hong Kong Lands Department and published by LAND INFO Worldwide Mapping.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_spatial_sm": [
+    "Hong Kong"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "2008"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-11-13T15:54:15Z",
+  "layer_id_s": "restricted-figgy:p-937eb122-e449-436f-bdc8-2f9352eab2ea",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/deb318dd-e0f4-47cb-8dd9-e1908a1b4edf/file/45108c11-458a-4399-a7f4-6127bc831a75\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/937eb122-e449-436f-bdc8-2f9352eab2ea/file/0eda9cda-1b9a-41ce-812c-aff62df6a98a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/937eb122-e449-436f-bdc8-2f9352eab2ea/file/b53b1603-415c-448f-9676-a16b9aef64f0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile"
+}

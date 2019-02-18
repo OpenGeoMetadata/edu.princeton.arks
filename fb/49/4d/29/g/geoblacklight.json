@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fb494d29g",
+  "layer_slug_s": "princeton-fb494d29g",
+  "uuid": "princeton-fb494d29g",
+  "dc_title_s": "James City County, Virginia land parcels, 2014",
+  "solr_geom": "ENVELOPE(-76.914992, -76.578583, 37.458704, 37.169402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in James City County, Virginia, 2014.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "James City",
+    "James City County",
+    "Virginia",
+    "Jamestown",
+    "Hampton Roads",
+    "Virginia Beach"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2018-12-18T22:55:45Z",
+  "layer_id_s": "restricted-figgy:p-32d5c16c-0599-4ea8-9f4b-73301adef70f",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3ae0ff50-61cd-47ef-8c7e-aff68dcfc518/file/b200bbe8-f24d-42cf-92d3-1552d2346ebc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/32d5c16c-0599-4ea8-9f4b-73301adef70f/file/2d29190e-9549-46ae-8851-e9af8b1fa2b7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/32d5c16c-0599-4ea8-9f4b-73301adef70f/file/ddb25574-0bbb-4130-813a-a1d37b734a8b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

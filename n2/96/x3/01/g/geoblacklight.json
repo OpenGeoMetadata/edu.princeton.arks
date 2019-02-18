@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/n296x301g",
+  "layer_slug_s": "princeton-n296x301g",
+  "uuid": "princeton-n296x301g",
+  "dc_title_s": "Hendricks County, Indiana land parcels, 2013",
+  "solr_geom": "ENVELOPE(-86.69531, -86.325931, 39.924198, 39.60075)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Hendricks County, Indiana, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Hendricks",
+    "Hendricks County",
+    "Indiana",
+    "Indianapolis"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:55:29Z",
+  "layer_id_s": "restricted-figgy:p-0b38c0cc-3fda-4d43-984a-b94230fef78c",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/801af3fa-0c09-468c-ac87-add6cfc11880/file/11ae93b4-4e99-4b50-af5f-958220b5f25b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0b38c0cc-3fda-4d43-984a-b94230fef78c/file/f7033523-5fe8-4739-82cf-8dbea8d4e02d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0b38c0cc-3fda-4d43-984a-b94230fef78c/file/7aff31d2-05c7-4788-a828-94ddf3cc5427\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -6,7 +6,7 @@
   "dc_title_s": "Berlin & West Berlin, Camden County, New Jersey (Sheet 7)",
   "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"September 1923.\" Includes location map, key, streets and specials index and text. \"1252.\" Historic Maps copy has sheets 1-7, showing Berlin; sheets 8-11, showing West Berlin, foldered separately.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:59:35Z",
-  "layer_id_s": "restricted-figgy:p-c23d9f3d-f72f-4c5d-abbe-b76f7d6ce5ef",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352850\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c23d9f3d-f72f-4c5d-abbe-b76f7d6ce5ef/file/45d301de-be41-4e0c-9433-e7a5dd25a9fa\"}",
+  "layer_modified_dt": "2019-01-02T16:33:06Z",
+  "layer_id_s": "public-figgy:p-c23d9f3d-f72f-4c5d-abbe-b76f7d6ce5ef",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5352850\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c23d9f3d-f72f-4c5d-abbe-b76f7d6ce5ef/file/f459bdff-8e86-42c2-b262-5698ec867e4f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c23d9f3d-f72f-4c5d-abbe-b76f7d6ce5ef/file/45d301de-be41-4e0c-9433-e7a5dd25a9fa\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/76%2F69%2Fa8%2F7669a8434594487688792ee369b675c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/03680c7b-1dba-4608-805f-ee8246c15fe0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-8p58pg83p"
   ],
   "call_number_s": "HMC04 (Berlin)"

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/gm80j0209",
+  "layer_slug_s": "princeton-gm80j0209",
+  "uuid": "princeton-gm80j0209",
+  "dc_title_s": "Jackson County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-85.600412, -84.858207, 31.000847, 30.56429)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jackson County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jackson",
+    "Jackson County",
+    "Florida",
+    "Lake Seminole"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:46Z",
+  "layer_id_s": "restricted-figgy:p-142c2643-5778-415a-a074-2ce9a7367e80",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0963cb7-40b1-4de4-8baf-ad306a86f1e2/file/db624446-1635-45b9-9fec-9d005cd6041b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/142c2643-5778-415a-a074-2ce9a7367e80/file/3c086c64-14c0-493e-b537-a3e49b44de82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/142c2643-5778-415a-a074-2ce9a7367e80/file/b4be9371-4baf-439c-902c-889348c9ad14\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -6,7 +6,7 @@
   "dc_title_s": "Closter, Bergen County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.003, -73.934, 40.985, 40.958)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"October 1923.\" Includes location map, streets and specials index, key and text. \"1277.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:06:11Z",
-  "layer_id_s": "restricted-figgy:p-57ea9fa1-8f6c-4c82-a319-6b72033fb2ac",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5238286\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57ea9fa1-8f6c-4c82-a319-6b72033fb2ac/file/c2d328f3-36c7-4279-8479-c103506bb38f\"}",
+  "layer_modified_dt": "2019-01-02T16:33:33Z",
+  "layer_id_s": "public-figgy:p-57ea9fa1-8f6c-4c82-a319-6b72033fb2ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5238286\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/57ea9fa1-8f6c-4c82-a319-6b72033fb2ac/file/0d5dff67-cbd9-4878-9210-1b778b648a45\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/57ea9fa1-8f6c-4c82-a319-6b72033fb2ac/file/c2d328f3-36c7-4279-8479-c103506bb38f\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/02%2F49%2Fa0%2F0249a0089e1e4ea09e737ba1e4a54dee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d2628b02-7f1d-4b90-a183-1bba2516fd02/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-3197xp965"
   ],
   "call_number_s": "HMC04 (Closter)"

@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/qj72pc01g",
+  "layer_slug_s": "princeton-qj72pc01g",
+  "uuid": "princeton-qj72pc01g",
+  "dc_title_s": "El Salvador household amenity data from 2007 census",
+  "solr_geom": "ENVELOPE(-90.132002, -87.683802, 14.451055, 13.155402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2007 household amenity data for El Salvador, including utility, sanitation, and appliance information, displayed at municipality level. The data were released by the Dirección General de Estadística y Censos (DIGESTYC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Dirección General de Estadística y Censos (DIGESTYC)"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2018"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-12-17T22:24:26Z",
+  "layer_id_s": "restricted-figgy:p-cd1fb197-d621-450d-b1bb-9f1cb87cc647",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/77824b2a-5acb-4e83-b281-8f31ee6ef4d6/file/6858aadf-faa9-4bbe-84e8-34a7e5d67d48\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cd1fb197-d621-450d-b1bb-9f1cb87cc647/file/644838e1-1827-4ca2-b75c-fdfbb059ff71\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cd1fb197-d621-450d-b1bb-9f1cb87cc647/file/33ac8154-3a8b-448c-9d8b-f5de8d77c6d9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

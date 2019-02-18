@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3t945v64w",
+  "layer_slug_s": "princeton-3t945v64w",
+  "uuid": "princeton-3t945v64w",
+  "dc_title_s": "El Salvador employment data from 2007 census",
+  "solr_geom": "ENVELOPE(-90.132002, -87.683802, 14.451055, 13.155402)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Shapefile containing 2007 employment data for El Salvador, including work status, type, and hours, displayed at municipality level. The data were released by the Dirección General de Estadística y Censos (DIGESTYC) and sold by East View Geospatial.",
+  "dc_creator_sm": [
+    "Dirección General de Estadística y Censos (DIGESTYC)"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2018"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2018-12-17T22:23:57Z",
+  "layer_id_s": "restricted-figgy:p-53fe331f-0c57-4b29-9623-f20fb51d7516",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2aeefebf-2186-4463-8d05-94551b42b4aa/file/64f486db-654d-447f-94b6-336d7b1be11b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53fe331f-0c57-4b29-9623-f20fb51d7516/file/0519a5da-7a07-4d36-835b-f081eda886f3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53fe331f-0c57-4b29-9623-f20fb51d7516/file/84ef9876-92f5-47df-bc8d-0ad82aaef63b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9880vv86p",
+  "layer_slug_s": "princeton-9880vv86p",
+  "uuid": "princeton-9880vv86p",
+  "dc_title_s": "Grand County, Colorado roads, 2013",
+  "solr_geom": "ENVELOPE(-106.660905, -105.629451, 40.480835, 39.681844)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Grand County, Colorado, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Grand",
+    "Grand County",
+    "Colorado",
+    "Arapaho National Forest",
+    "Rocky Mountain National Park",
+    "Routt National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2011"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:54:07Z",
+  "layer_id_s": "restricted-figgy:p-bae4797c-5460-446f-81ad-ec75259366f2",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09bbf4c2-2a9c-4a50-85f6-1c17a54147df/file/0b1315a6-1258-474e-a942-f8e217663bce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bae4797c-5460-446f-81ad-ec75259366f2/file/cc736ac4-3195-40c9-9db2-98def997e990\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bae4797c-5460-446f-81ad-ec75259366f2/file/65f0707d-0051-4324-9429-ee85777cd94a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

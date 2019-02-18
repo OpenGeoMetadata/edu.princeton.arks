@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/d504rq16j",
+  "layer_slug_s": "princeton-d504rq16j",
+  "uuid": "princeton-d504rq16j",
+  "dc_title_s": "Hong Kong transportation routes, 1999",
+  "solr_geom": "ENVELOPE(113.815208, 114.441604, 22.560055, 22.15605)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Lines representing roads, railways, runways, paths, ferries, and surface waters in Hong Kong for 1999. Multiple types of roads and railways are also distinguished. The data were extracted from a map by the Survey and Mapping Office of the Hong Kong Lands Department and published by LAND INFO Worldwide Mapping.",
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_subject_sm": [
+    "Elevation",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Hong Kong",
+    "South China Sea"
+  ],
+  "dct_temporal_sm": [
+    "1999",
+    "2008"
+  ],
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2018-11-13T15:51:12Z",
+  "layer_id_s": "restricted-figgy:p-346958f1-55dd-4fb0-b59d-b166ec86d517",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/570d4858-4fc5-480a-85a3-d9f5c46a6fbc/file/1d40149a-6cd5-40f1-9fa9-3a521eddc330\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/346958f1-55dd-4fb0-b59d-b166ec86d517/file/fb1c0b3e-fd41-4f41-bed8-87fb7fa6325d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/346958f1-55dd-4fb0-b59d-b166ec86d517/file/7711f258-52f5-40d9-87bb-0abc17599dec\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile"
+}

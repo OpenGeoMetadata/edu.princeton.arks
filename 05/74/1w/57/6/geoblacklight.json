@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/05741w576",
+  "layer_slug_s": "princeton-05741w576",
+  "uuid": "princeton-05741w576",
+  "dc_title_s": "Jefferson County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-84.076417, -83.604104, 30.672132, 30.085047)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Jefferson County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Jefferson",
+    "Jefferson County",
+    "Florida",
+    "Tallahassee",
+    "Lake Miccosukee"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:00Z",
+  "layer_id_s": "restricted-figgy:p-b0076699-be9b-4ecf-bfc9-cb9aeb2bf8f5",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed927969-9f16-48bc-9f7b-351638ee7845/file/0eb2b8f9-6421-4832-8a94-23dd56f53c13\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b0076699-be9b-4ecf-bfc9-cb9aeb2bf8f5/file/7de71e4a-6e4f-4d17-9c57-1c09dee4e872\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b0076699-be9b-4ecf-bfc9-cb9aeb2bf8f5/file/76a3e26c-eff5-4f7e-8f93-da19f72cabf5\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

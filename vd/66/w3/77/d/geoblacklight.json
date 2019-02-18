@@ -1,0 +1,34 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/vd66w377d",
+  "layer_slug_s": "princeton-vd66w377d",
+  "uuid": "princeton-vd66w377d",
+  "dc_title_s": "Marion County, Florida land parcels, 2013",
+  "solr_geom": "ENVELOPE(-82.535953, -81.639041, 29.519906, 28.959897)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Marion County, Florida, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Marion",
+    "Marion County",
+    "Florida",
+    "Ocala",
+    "Ocala National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:56:00Z",
+  "layer_id_s": "restricted-figgy:p-86faf148-f011-4a7e-8be3-de3e1e3e3b91",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/74d8cb63-c2dc-4d8a-a5b3-0fd3a61161ed/file/7d52ac62-e9f5-4043-a64d-a356872e44ce\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/86faf148-f011-4a7e-8be3-de3e1e3e3b91/file/776a867c-fa69-4e15-b710-add455f333e8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/86faf148-f011-4a7e-8be3-de3e1e3e3b91/file/403720cc-69e7-4163-84ca-857132163af7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}

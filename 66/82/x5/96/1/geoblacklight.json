@@ -6,7 +6,7 @@
   "dc_title_s": "Clayton, Gloucester County, New Jersey (Sheet 6)",
   "solr_geom": "ENVELOPE(-75.120892, -75.031768, 39.679689, 39.640417)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"August 1923.\" Includes location map, key, streets and specials index, and text. \"1170.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T19:15:27Z",
-  "layer_id_s": "restricted-figgy:p-fb43ea99-5c46-48b9-93f4-815103d58a2a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5479376\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb43ea99-5c46-48b9-93f4-815103d58a2a/file/f4302e39-0b01-4e3d-b889-81b708a55482\"}",
+  "layer_modified_dt": "2019-01-02T16:33:38Z",
+  "layer_id_s": "public-figgy:p-fb43ea99-5c46-48b9-93f4-815103d58a2a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5479376\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb43ea99-5c46-48b9-93f4-815103d58a2a/file/9d1eda2d-d7bd-49d6-badb-1b6f86ec8198\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb43ea99-5c46-48b9-93f4-815103d58a2a/file/f4302e39-0b01-4e3d-b889-81b708a55482\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/57%2F90%2F6a%2F57906a964bfc41d0885e77549830e8bc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8d6e9802-a82c-41f6-8cee-e5a41906d67f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-5d86p311b"
   ],
   "call_number_s": "HMC04 (Clayton)"

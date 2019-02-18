@@ -6,7 +6,7 @@
   "dc_title_s": "Oradell, Bergen County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.052, -74.002, 40.972, 40.94)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"February 1923.\" Includes location map, streets and specials index, key and text. \"5828.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -20,13 +20,13 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2018-06-21T18:51:32Z",
-  "layer_id_s": "restricted-figgy:p-74564acb-546a-4f56-a6a4-8d833337dc9d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274345\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74564acb-546a-4f56-a6a4-8d833337dc9d/file/abe4a5fe-bc47-49d6-8155-5381a7ce0842\"}",
+  "layer_modified_dt": "2019-01-02T16:34:16Z",
+  "layer_id_s": "public-figgy:p-74564acb-546a-4f56-a6a4-8d833337dc9d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5274345\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/74564acb-546a-4f56-a6a4-8d833337dc9d/file/0b885b30-27ef-4287-91b5-a0ffa8c2f97e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/74564acb-546a-4f56-a6a4-8d833337dc9d/file/abe4a5fe-bc47-49d6-8155-5381a7ce0842\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/e1%2F3c%2F76%2Fe13c763256f64a4f91ecb9dfaa0afb6a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64167f02-85b5-487e-af10-14c9a7affab9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
-  "dct_source_sm": [
+  "dc_source_sm": [
     "princeton-7m01bp595"
   ],
   "call_number_s": "HMC04 (Oradell)"

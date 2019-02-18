@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/7s75dh241",
+  "layer_slug_s": "princeton-7s75dh241",
+  "uuid": "princeton-7s75dh241",
+  "dc_title_s": "Polk County, Iowa land parcels, 2013",
+  "solr_geom": "ENVELOPE(-93.815722, -93.328478, 41.863469, 41.481766)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Polk County, Iowa, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Polk",
+    "Polk County",
+    "Iowa",
+    "Des Moines"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2018-12-18T22:55:31Z",
+  "layer_id_s": "restricted-figgy:p-5ab35580-3f43-4cf6-83c0-3123a652362d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b12de4aa-5a8c-4f66-85fc-b36a4a87f87d/file/697701ef-9f2e-470c-a182-b17ee71a076e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ab35580-3f43-4cf6-83c0-3123a652362d/file/ef2f295a-12d9-4387-b62b-0170eaca605b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ab35580-3f43-4cf6-83c0-3123a652362d/file/496b50a0-1971-41f3-b1c7-156d11439c0c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile"
+}
