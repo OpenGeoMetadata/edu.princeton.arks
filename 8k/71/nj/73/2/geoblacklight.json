@@ -22,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2000",
+    "2005",
     "2005"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T18:54:30Z",
+  "layer_modified_dt": "2019-06-05T15:01:10Z",
   "layer_id_s": "restricted-figgy:p-31a81dde-08bc-4612-b768-dfe792ea21cb",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09705ca3-28df-4f8c-99d3-6c4bb0a09cb0/file/5b0be7fd-1dc7-46ca-96bc-b75f97e1da32\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31a81dde-08bc-4612-b768-dfe792ea21cb/file/87ca68f8-7fd5-4834-80e3-5a196adb2625\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31a81dde-08bc-4612-b768-dfe792ea21cb/file/b8478daf-823f-4e50-8c7f-6ddc0cbece4d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2005-01-01T00:00:00Z"
 }

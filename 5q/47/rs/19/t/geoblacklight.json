@@ -6,7 +6,7 @@
   "dc_title_s": "Q3 flood data, Washington",
   "solr_geom": "ENVELOPE(-124.75, -116.914377, 49.004274, 45.543987)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Q3 flood data for Washington, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
   "dc_creator_sm": [
     "Federal Emergency Management Agency"
@@ -98,12 +98,14 @@
     "Yakima County"
   ],
   "dct_temporal_sm": [
-    "1996"
+    "1996",
+    "1998"
   ],
   "solr_year_i": 1996,
-  "layer_modified_dt": "2018-06-13T18:57:04Z",
-  "layer_id_s": "restricted-figgy:p-3e905f76-02e9-41b8-a744-583c61fbc0f0",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3005009d-3c80-4372-978e-98755c94bb47/file/db90cd2f-083b-4858-8b56-3d85b8cf9188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e905f76-02e9-41b8-a744-583c61fbc0f0/file/9036e051-76e9-4a1f-8c13-516bbd80aaf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e905f76-02e9-41b8-a744-583c61fbc0f0/file/aa064262-e197-4c2a-b89a-cb0ce94a0a69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_modified_dt": "2019-06-05T14:42:05Z",
+  "layer_id_s": "public-figgy:p-3e905f76-02e9-41b8-a744-583c61fbc0f0",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3005009d-3c80-4372-978e-98755c94bb47/file/db90cd2f-083b-4858-8b56-3d85b8cf9188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e905f76-02e9-41b8-a744-583c61fbc0f0/file/9036e051-76e9-4a1f-8c13-516bbd80aaf4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e905f76-02e9-41b8-a744-583c61fbc0f0/file/aa064262-e197-4c2a-b89a-cb0ce94a0a69\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1998-01-01T00:00:00Z"
 }

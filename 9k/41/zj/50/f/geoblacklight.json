@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9k41zj50f",
+  "layer_slug_s": "princeton-9k41zj50f",
+  "uuid": "princeton-9k41zj50f",
+  "dc_title_s": "Chile urban census boundaries, 2017 (Limite Urbano Censal)",
+  "solr_geom": "ENVELOPE(-109.443845, -67.587673, -18.193459, -54.939314)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "In census terms, the census urban boundary (LUC) delimits the urban space in the territory to differentiate it from the rural areas, to execute the survey in the field and the Population and Housing Census. In order for a sector of the territory to be considered urban in character, it must meet the criteria for housing concentration and continuity, in addition to presenting blocklike or wardlike areas. In cartographic terms, the urban census boundary is represented as a polygon in which the urban space is located. Currently there are 504 urban areas recognized and delimited for both the 2011 and 2016 precensus. The population centers that have a LUC are cities (more than 5,000 inhabitants) and towns (2,001 - 5,000 inhabitants). If an entity, whatever it is, exceeds 2,000 inhabitants, this entity must be considered urban (or, for entities between 1,001 and 2,000 inhabitants, if 50% or more of its economically active population is engaged in secondary and/or tertiary activities) and therefore must be delimited by an LUC.[En términos censales, el límite urbano censal (LUC) delimita el espacio urbano en el territorio con el fin de diferenciarlo del espacio rural, para ejecutar el levantamiento de muestras en terreno y el Censo de Población y Viviendas. Para que un sector del territorio cumpla con características de urbano debe cumplir con los criterios de concentración y continuidad de viviendas, además de presentar áreas de amanzanamiento. En términos cartográficos el Límite Urbano Censal se representa como un polígono en cuyo interior se encuentra el espacio urbano. Actualmente existen 504 urbanos reconocidos y delimitados tanto para el Precenso 2011 como el 2016. Los centros poblados que poseen un LUC son las ciudades (más de 5.000 habitantes) y los pueblos (2.001 - 5.000 habitantes). Si una entidad, cualquiera sea ésta sobrepasa los 2.000 habitantes, dicha entidad debe considerarse como urbana (o entre 1.001 y 2.000 habitantes, con el 50% o más de su población económicamente activa dedicadas a actividades secundarias y/o terciarias) y por lo tanto, debe encontrarse delimitada por un LUC.]",
+  "dc_creator_sm": [
+    "Chile, National Institute of Statistics/Instituto Nacional de Estadísticas"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "2017",
+    "2016",
+    "2016"
+  ],
+  "solr_year_i": 2017,
+  "layer_modified_dt": "2019-06-05T14:42:17Z",
+  "layer_id_s": "restricted-figgy:p-4982d450-4546-4d46-a32d-7cec2f572626",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/712dbe20-6d8e-4f4b-85c6-d8607639dd5e/file/87ddf65b-aabd-4b3c-85c4-3c1ecd344c40\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4982d450-4546-4d46-a32d-7cec2f572626/file/db541e29-ba45-42f1-a64e-1662d8b2c0c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4982d450-4546-4d46-a32d-7cec2f572626/file/adca0cb2-bbdf-4a08-8aa2-a55126e42349\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2016-01-01T00:00:00Z"
+}

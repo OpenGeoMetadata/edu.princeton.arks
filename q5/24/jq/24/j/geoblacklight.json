@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Canada Telephone Area Code Boundaries represents the telephone area codes for Canada. The area code boundaries are based on CanMap® municipalities.",
   "dc_creator_sm": [
-    "DMTI Spatial Inc.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "DMTI Spatial Inc."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -20,12 +19,14 @@
     "Canada"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:01:20Z",
+  "layer_modified_dt": "2019-06-05T14:49:31Z",
   "layer_id_s": "restricted-figgy:p-487e931f-7178-4b4c-a7d3-b44d8534560e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bd5d20fb-4cd6-4663-ad73-a15e0bd0d31c/file/629dd3dd-f424-44f8-a4d8-a91e4a682a5b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/487e931f-7178-4b4c-a7d3-b44d8534560e/file/83c78d30-c771-4825-a76e-902062fe448a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/487e931f-7178-4b4c-a7d3-b44d8534560e/file/2dd91ebc-1372-4c66-8e02-7419a6996cd7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

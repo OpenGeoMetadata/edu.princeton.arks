@@ -18,12 +18,14 @@
     "China"
   ],
   "dct_temporal_sm": [
-    "1980"
+    "1980",
+    "2016"
   ],
   "solr_year_i": 1980,
-  "layer_modified_dt": "2018-06-13T18:40:34Z",
+  "layer_modified_dt": "2019-06-05T15:10:37Z",
   "layer_id_s": "restricted-figgy:p-6d50d750-12c3-4aa3-b4c2-1399d8499622",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/31d7082f-9d9b-46db-9541-bb30a58092d2/file/4c269f7b-c96c-44c6-bb24-ddac6b2a8319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d50d750-12c3-4aa3-b4c2-1399d8499622/file/792fc7ab-34e7-4e69-b6fb-8632a600baa1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d50d750-12c3-4aa3-b4c2-1399d8499622/file/6588f06d-0e19-4f8f-b6cb-2e8812cc410c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2016-01-01T00:00:00Z"
 }

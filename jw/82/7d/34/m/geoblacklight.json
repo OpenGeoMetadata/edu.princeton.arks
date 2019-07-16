@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Delaware Rivers represents streams and rivers within Delaware.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Delaware"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T19:03:40Z",
+  "layer_modified_dt": "2019-06-05T14:51:31Z",
   "layer_id_s": "restricted-figgy:p-9df07e88-8105-4cde-b246-3d228c8c44b9",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d322ef6-de0c-4a93-bf0c-5fc15f648cbd/file/e37c61b3-0aaf-488b-b99b-6651125b4a3c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9df07e88-8105-4cde-b246-3d228c8c44b9/file/e66dad57-ef7d-4a77-bf79-53082204b3a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9df07e88-8105-4cde-b246-3d228c8c44b9/file/313f7ccd-72d1-4fa7-9595-d45b3d40f8c8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Mississippi Block Groups represents the U.S. Census block groups of Mississippi.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:42:49Z",
+  "layer_modified_dt": "2019-06-05T15:12:46Z",
   "layer_id_s": "restricted-figgy:p-9919ae49-d9ea-4fc3-b65b-a8e148652de0",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/97603c2f-cd1a-4430-a760-3022a3b7ca9e/file/2ae28585-f06b-4132-a70a-78fc3f97c756\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9919ae49-d9ea-4fc3-b65b-a8e148652de0/file/33d70599-5a50-4eed-8886-dcd63c472fb9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9919ae49-d9ea-4fc3-b65b-a8e148652de0/file/c4f5ea3c-8d0e-4424-8676-1a078a03d7ec\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

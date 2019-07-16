@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/z603r243c",
+  "layer_slug_s": "princeton-z603r243c",
+  "uuid": "princeton-z603r243c",
+  "dc_title_s": "Plymouth County, Massachusetts roads, 2013",
+  "solr_geom": "ENVELOPE(-71.078992, -70.526944, 42.309465, 41.624857)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Plymouth County, Massachusetts, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Plymouth",
+    "Plymouth County",
+    "Massachusetts",
+    "Boston",
+    "Brockton",
+    "Massachusetts Bay",
+    "Cape Cod Bay"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2019-06-05T14:43:12Z",
+  "layer_id_s": "restricted-figgy:p-1d33e1c9-407e-4cf1-97cf-96538c3e2725",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/49fe3917-f4e7-4b26-a987-393defce3a9a/file/ef9b07f2-d9d8-4303-82ab-8c8516259561\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1d33e1c9-407e-4cf1-97cf-96538c3e2725/file/c620aee7-1774-43a4-8f54-7b48e861a471\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1d33e1c9-407e-4cf1-97cf-96538c3e2725/file/470dad4a-d84d-4a84-a2f0-270dca8944c7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2012-01-01T00:00:00Z"
+}

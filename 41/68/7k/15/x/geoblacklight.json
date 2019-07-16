@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. GDT Airports represents airport boundaries and airport runways within United States. All airports have a boundary and most have at least one runway.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
     "1999",
     "1994",
     "1992",
-    "1991"
+    "1991",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:06:32Z",
+  "layer_modified_dt": "2019-06-05T14:45:05Z",
   "layer_id_s": "restricted-figgy:p-d182eeba-5a9d-4618-b571-a362668ead7f",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7f4df50b-767c-433f-9f7a-aabfa2073490/file/72fe6e3d-3350-47ea-81df-42f20a3319dd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d182eeba-5a9d-4618-b571-a362668ead7f/file/7203edf6-dafc-4f6b-80b1-0c4397d95fc6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d182eeba-5a9d-4618-b571-a362668ead7f/file/f6ab04a4-1e39-4b55-b46f-8229a38b6c35\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

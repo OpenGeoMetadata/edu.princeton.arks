@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Federal Land Lines represents the linear federally owned land features (e.g., national parkways and wild and scenic rivers) of the United States.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
     "1972–1999",
     "1970–1995",
     "1998",
-    "199903"
+    "199903",
+    "2002"
   ],
   "solr_year_i": 1972,
-  "layer_modified_dt": "2018-06-13T18:46:04Z",
+  "layer_modified_dt": "2019-06-05T15:06:19Z",
   "layer_id_s": "restricted-figgy:p-611e35a4-c903-4331-9482-fc13f5c90750",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/319b975d-1153-43d3-b7f4-f3e52c898f1c/file/0dc5f17c-04a9-4a38-9ce9-4958930c1fc2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/611e35a4-c903-4331-9482-fc13f5c90750/file/435679c7-c4c1-4275-ae94-d5783ce5bdfa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/611e35a4-c903-4331-9482-fc13f5c90750/file/172b9927-86cd-46b0-86e0-686fec27bcbd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

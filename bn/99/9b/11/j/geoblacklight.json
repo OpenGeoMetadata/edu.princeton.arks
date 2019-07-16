@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Roads and highways in Kemper County, Mississippi, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
   "dc_creator_sm": [
-    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
-    "Boundary Solutions, Inc."
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
   ],
   "dc_subject_sm": [
     "Transportation"
@@ -21,12 +20,14 @@
     "Mississippi"
   ],
   "dct_temporal_sm": [
+    "2014",
     "2014"
   ],
   "solr_year_i": 2014,
-  "layer_modified_dt": "2018-06-13T18:12:05Z",
+  "layer_modified_dt": "2019-06-05T16:56:00Z",
   "layer_id_s": "restricted-figgy:p-80b832a8-30a6-414f-8749-8ae9d9d35af2",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f2728779-558d-4438-871f-41cbe996175d/file/0a60f49f-f55b-4b49-b549-c4ad829b8b38\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80b832a8-30a6-414f-8749-8ae9d9d35af2/file/ace3f82c-db61-4064-b310-1d7914428277\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80b832a8-30a6-414f-8749-8ae9d9d35af2/file/b0db103a-38eb-4acd-a4d6-95d2f9b8d803\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2014-01-01T00:00:00Z"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Public Land Survey represents the Public Land Surveys (e.g., donation lands, land grants, private and public lands) of the United States.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -21,12 +20,14 @@
   "dct_temporal_sm": [
     "1972–1999",
     "1970–1995",
-    "1998"
+    "1998",
+    "2000"
   ],
   "solr_year_i": 1972,
-  "layer_modified_dt": "2018-06-13T19:07:38Z",
+  "layer_modified_dt": "2019-06-05T14:47:12Z",
   "layer_id_s": "restricted-figgy:p-72af9210-a3dc-4128-9a51-7f61dd83a76a",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f1d407b6-0f75-4a37-aed7-e375d7247fcf/file/010f7725-f0f3-4097-a4eb-2984e9354049\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/72af9210-a3dc-4128-9a51-7f61dd83a76a/file/1dd36be8-e937-4fe6-9098-69b0d930d912\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/72af9210-a3dc-4128-9a51-7f61dd83a76a/file/15e9332c-b2b0-4fe6-92bd-1af4c2c3a72b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

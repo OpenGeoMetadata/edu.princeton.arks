@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Nevada Rivers represents streams and rivers within Nevada.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Nevada"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T19:04:22Z",
+  "layer_modified_dt": "2019-06-05T14:47:01Z",
   "layer_id_s": "restricted-figgy:p-3de3241b-abe0-4937-a00e-587ca4eb4df5",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b46784ea-6ecf-47f9-b549-2f7ecc753762/file/71e2358b-89da-4ffe-a1ec-53ed29212cf1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3de3241b-abe0-4937-a00e-587ca4eb4df5/file/ea131e73-939f-4ec0-8339-9e82031c89ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3de3241b-abe0-4937-a00e-587ca4eb4df5/file/8fabc876-080e-47ed-8b14-0a2db8a84513\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

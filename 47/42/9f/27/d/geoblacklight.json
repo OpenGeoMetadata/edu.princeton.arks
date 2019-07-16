@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/47429f27d",
+  "layer_slug_s": "princeton-47429f27d",
+  "uuid": "princeton-47429f27d",
+  "dc_title_s": "U.S. Census Populated Place Areas, 2017",
+  "solr_geom": "ENVELOPE(-176.713098, -66.98032, 71.339741, 19.018485)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Census Populated Place Areas represents populated place areas within the United States that include both incorporated places and census designated places identified by the U.S. Census Bureau.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Census Bureau",
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Society",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2013",
+    "2014",
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2019-06-26T14:18:07Z",
+  "layer_id_s": "restricted-figgy:p-2ddb5029-6b9a-4877-946a-d94dafd4bf3d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ed664a6e-01cf-47c2-89c9-cd1d87306cc7/file/14eb79ab-bd55-4b26-973c-d29eee67d9a3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2ddb5029-6b9a-4877-946a-d94dafd4bf3d/file/c0e88a56-9797-4364-9de1-001d0603fb95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2ddb5029-6b9a-4877-946a-d94dafd4bf3d/file/7c4f4686-9e55-4eda-ae7e-b711a3916b51\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

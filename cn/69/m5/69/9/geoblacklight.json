@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Alabama Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Alabama.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:48:31Z",
+  "layer_modified_dt": "2019-06-05T15:02:48Z",
   "layer_id_s": "restricted-figgy:p-0f905988-6dc3-4b1c-ab19-236826d852c0",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6586365-a40f-4a00-9785-806fe2cc1236/file/7799443d-2fa5-4372-9af8-e8e4a84a61c0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f905988-6dc3-4b1c-ab19-236826d852c0/file/a30424b8-d74f-4b3c-866e-c4592301a931\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f905988-6dc3-4b1c-ab19-236826d852c0/file/2d4a59e8-2e54-4909-a004-48798bddea05\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

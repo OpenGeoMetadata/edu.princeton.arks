@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Cities represents cities and towns in the United States.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -19,12 +18,14 @@
   "dct_temporal_sm": [
     "1998",
     "1970",
-    "1972–1994"
+    "1972–1994",
+    "2000"
   ],
   "solr_year_i": 1998,
-  "layer_modified_dt": "2018-06-13T18:46:39Z",
+  "layer_modified_dt": "2019-06-05T15:05:40Z",
   "layer_id_s": "restricted-figgy:p-4d58b0d6-f145-44cb-b9da-f65575514f62",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6c6a6f70-e9a4-4c58-b1d9-5e640a270c7e/file/f23bc7ae-0d97-4d1d-af85-a288a371fce3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d58b0d6-f145-44cb-b9da-f65575514f62/file/e948680a-1c34-4ef2-867d-c9d90ee090eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d58b0d6-f145-44cb-b9da-f65575514f62/file/f581171a-48f3-494b-b3b5-efc0a429169d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

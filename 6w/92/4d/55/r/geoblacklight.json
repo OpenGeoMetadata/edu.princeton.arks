@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "South Dakota Major Roads represents interstate, U.S., and state highways and other major thoroughfares within South Dakota.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "South Dakota"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:05:45Z",
+  "layer_modified_dt": "2019-06-05T14:49:01Z",
   "layer_id_s": "restricted-figgy:p-0662fe19-ad7d-4171-ad83-6b9dd3224b8a",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/acf478c9-5e22-46c7-a567-454b760bb06c/file/4d38a0ec-b092-4a6f-aaa0-52f03130e14e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0662fe19-ad7d-4171-ad83-6b9dd3224b8a/file/25c1b236-08b6-4ac3-919c-e59be21bf32d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0662fe19-ad7d-4171-ad83-6b9dd3224b8a/file/33d944d5-868b-48b8-a5bb-1622825d4756\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Massachusetts Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Massachusetts.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:49:12Z",
+  "layer_modified_dt": "2019-06-05T15:01:58Z",
   "layer_id_s": "restricted-figgy:p-9b2137e1-76e1-4c0a-94d9-4e0c0653474f",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/79782800-cbb3-45c0-84ab-fe7117456ffd/file/515cc0f9-804b-4305-9257-696e66cd703a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9b2137e1-76e1-4c0a-94d9-4e0c0653474f/file/497ac9cb-586f-436a-bebf-b5d4fb4a3fea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9b2137e1-76e1-4c0a-94d9-4e0c0653474f/file/54c558db-d366-41bd-9cf3-4e620638dc97\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

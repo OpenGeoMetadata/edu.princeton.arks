@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Illinois Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Illinois.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:47:06Z",
+  "layer_modified_dt": "2019-06-05T15:05:13Z",
   "layer_id_s": "restricted-figgy:p-515f6011-7c6b-4bd2-a03c-b5a0a4b721a8",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/be94d89d-4778-4300-a92e-0aa0fe188b85/file/ae306b9c-3ff5-41c5-830e-a8424c8538eb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/515f6011-7c6b-4bd2-a03c-b5a0a4b721a8/file/e35ad3df-9902-4477-81a6-541dd352881a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/515f6011-7c6b-4bd2-a03c-b5a0a4b721a8/file/d14d5bd7-1d2a-47f8-a9b8-f5ef0d19c146\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

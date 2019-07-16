@@ -20,12 +20,14 @@
     "Eddy County"
   ],
   "dct_temporal_sm": [
-    "2014"
+    "2014",
+    "2010"
   ],
   "solr_year_i": 2014,
-  "layer_modified_dt": "2018-06-13T18:15:05Z",
+  "layer_modified_dt": "2019-06-05T16:53:49Z",
   "layer_id_s": "restricted-figgy:p-5e2846b2-c9cd-400d-aec9-6a41baedc834",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e0d07486-714f-4680-b9d9-50557a3cbd3d/file/82768f36-c158-4d57-8ada-62bc7274c0cc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5e2846b2-c9cd-400d-aec9-6a41baedc834/file/7bbf3dc9-668b-481a-b444-36fa999fbe0b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5e2846b2-c9cd-400d-aec9-6a41baedc834/file/5348f0fc-1dad-40b9-acd4-4e23009faaf6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2010-01-01T00:00:00Z"
 }

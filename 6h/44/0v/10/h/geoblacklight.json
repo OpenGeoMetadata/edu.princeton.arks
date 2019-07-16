@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Water Feature Areas represents the water feature areas (e.g., bays, glaciers, lakes, and swamps) of the United States.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -25,12 +24,14 @@
     "1995–1999",
     "1972–1994",
     "1998",
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1995,
-  "layer_modified_dt": "2018-06-13T18:42:10Z",
+  "layer_modified_dt": "2019-06-05T15:13:33Z",
   "layer_id_s": "restricted-figgy:p-59c2ae19-ce9f-4cff-99b5-911dd085b93e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fd9773f3-b2a5-4f4f-b90a-db35ff822680/file/de21aada-9294-4667-8fb3-bef0f15ae272\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/59c2ae19-ce9f-4cff-99b5-911dd085b93e/file/fc24e0ac-ec42-47c3-a4f1-4fcdf7250949\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/59c2ae19-ce9f-4cff-99b5-911dd085b93e/file/45d90a04-7e05-4840-a832-ba4dc379da7b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

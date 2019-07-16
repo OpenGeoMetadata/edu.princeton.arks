@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2f75rd164",
+  "layer_slug_s": "princeton-2f75rd164",
+  "uuid": "princeton-2f75rd164",
+  "dc_title_s": "U.S. Census Block Centroid Populations, 2015",
+  "solr_geom": "ENVELOPE(-176.654504, -66.96578, 71.333649, 18.939804)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Census Block Centroid Populations represents the populations of the 2010 U.S. Census blocks as centroids for the United States. U.S. Census blocks nest within all other tabulated census geographic entities and are the basis for all tabulated data.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, Census Bureau, Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2013",
+    "2015",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2019-06-26T14:17:14Z",
+  "layer_id_s": "restricted-figgy:p-be7f90eb-5413-4f74-aa75-fb734d51a4c9",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6ce661cb-cc76-426f-b9f5-31e9d88534a4/file/0137873b-c4b3-4de1-9259-66213fd35876\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be7f90eb-5413-4f74-aa75-fb734d51a4c9/file/df286b59-db6e-486c-ab27-fbba89d4a0c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be7f90eb-5413-4f74-aa75-fb734d51a4c9/file/1eafacf8-e1e8-482d-b876-7de2dcf4c027\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

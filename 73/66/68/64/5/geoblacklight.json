@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/736668645",
+  "layer_slug_s": "princeton-736668645",
+  "uuid": "princeton-736668645",
+  "dc_title_s": "World Gazetteer, 2012",
+  "solr_geom": "ENVELOPE(-179.989, 179.996987, 85.213996, -86.906)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Gazetteer represents the locations and proper names for map features around the world. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
+  "dc_creator_sm": [
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Location",
+    "Transportation",
+    "Oceans"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "1996",
+    "2012",
+    "1993/1994",
+    "2000",
+    "1992",
+    "2007",
+    "1993",
+    "2018"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2019-06-26T14:06:51Z",
+  "layer_id_s": "restricted-figgy:p-a4333579-ac6a-473c-867b-25b0af3c801a",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f0981ef1-b641-4125-82b2-4314b61b0bcf/file/970975d1-9f7a-4ae1-88f4-c4edaae9801b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a4333579-ac6a-473c-867b-25b0af3c801a/file/b3203c04-b5f6-4d1d-9eca-3d9881b4cad7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a4333579-ac6a-473c-867b-25b0af3c801a/file/ac5977d3-68bb-4bca-bddc-09b42596bac0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

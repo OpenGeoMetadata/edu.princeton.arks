@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Europe Cities represents the cities of Europe.",
   "dc_creator_sm": [
-    "AND Data Solutions, B.V.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "AND Data Solutions, B.V."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "Europe"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:58:05Z",
+  "layer_modified_dt": "2019-06-05T14:53:20Z",
   "layer_id_s": "restricted-figgy:p-9341ed94-36a5-4c22-93a8-fe9dabbcb012",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2bfa79cc-2917-415d-9856-0f2b1aeb7b4c/file/8f4b4369-27ee-4599-a294-cdce6e82a40e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9341ed94-36a5-4c22-93a8-fe9dabbcb012/file/3a2e8ab4-26cf-4fa9-bf71-b4e6f93c08d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9341ed94-36a5-4c22-93a8-fe9dabbcb012/file/65c32aac-75a2-4982-a1b2-10c755d09d98\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

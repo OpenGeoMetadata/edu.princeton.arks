@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3x816r631",
+  "layer_slug_s": "princeton-3x816r631",
+  "uuid": "princeton-3x816r631",
+  "dc_title_s": "Bristol County, Massachusetts land parcels, 2013",
+  "solr_geom": "ENVELOPE(-71.38144, -70.816523, 42.095539, 41.480589)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Land parcels in Bristol County, Massachusetts, 2013.",
+  "dc_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Bristol",
+    "Bristol County",
+    "Massachusetts",
+    "Providence",
+    "New Bedford",
+    "Fall River"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2012",
+    "2012"
+  ],
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2019-06-05T14:43:15Z",
+  "layer_id_s": "restricted-figgy:p-cbc4a389-0cbd-4c09-a891-50c600d5dac7",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/de127a21-ee6e-4206-83b0-87beb5d84256/file/8da3e30d-e6ec-4123-a6df-d37c7f0f6548\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cbc4a389-0cbd-4c09-a891-50c600d5dac7/file/7f31d6a6-a8b3-47cb-b18f-a02911f80fa0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cbc4a389-0cbd-4c09-a891-50c600d5dac7/file/710cab36-817c-4679-bfc1-94905f9d7545\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2012-01-01T00:00:00Z"
+}

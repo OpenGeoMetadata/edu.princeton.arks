@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/fn107308z",
+  "layer_slug_s": "princeton-fn107308z",
+  "uuid": "princeton-fn107308z",
+  "dc_title_s": "World Elevation Contours, 2015",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 83.619202, -59.455204)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "World Elevation Contours represents the 600-meter interval contour lines of the world.",
+  "dc_creator_sm": [
+    "Garmin International, Inc."
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2015",
+    "2018"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2019-06-26T14:14:37Z",
+  "layer_id_s": "restricted-figgy:p-a755d39d-c557-47ea-b952-af473cc70967",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8fc823b4-8fb9-4fd9-9210-fd8b02ffa412/file/5d97f1a6-4dd0-4fe9-8232-679d1f0b797b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a755d39d-c557-47ea-b952-af473cc70967/file/07fb3548-326c-4f55-83e6-cfa4ab29b6ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a755d39d-c557-47ea-b952-af473cc70967/file/1f1fe0fd-ac08-477b-9263-2d1e16ebdd83\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

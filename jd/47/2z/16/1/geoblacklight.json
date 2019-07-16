@@ -19,12 +19,14 @@
     "Rajasthan"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2006"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T17:59:03Z",
+  "layer_modified_dt": "2019-06-05T17:10:45Z",
   "layer_id_s": "restricted-figgy:p-6f62f6bf-4427-4742-bf28-58fd9b56b62c",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fc1b387b-b48c-4afc-b228-f5b3c75e8f38/file/bb9eba16-4b31-4e50-bc48-91490524c2b7\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6f62f6bf-4427-4742-bf28-58fd9b56b62c/file/93f23bc9-0b2e-4d20-afa7-656cd60554c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6f62f6bf-4427-4742-bf28-58fd9b56b62c/file/7837b847-d7a2-4b98-b23c-0c6ebb088f61\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2006-01-01T00:00:00Z"
 }

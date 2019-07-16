@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Hawaii Block Groups represents the U.S. Census block groups of Hawaii.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:49:11Z",
+  "layer_modified_dt": "2019-06-05T15:02:00Z",
   "layer_id_s": "restricted-figgy:p-867dc9df-cb9f-4f31-809c-03b9444b84eb",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/560b2d5c-c462-471e-bd79-e10054ad179b/file/b7ce2b0a-6a7e-4ad8-86ed-93daf55b21a8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/867dc9df-cb9f-4f31-809c-03b9444b84eb/file/deae279b-8382-48a8-8bf1-af08e6c74eca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/867dc9df-cb9f-4f31-809c-03b9444b84eb/file/1c5a00fa-41aa-455f-8913-380374ef558a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

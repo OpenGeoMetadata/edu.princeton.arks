@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Transportation Atlas Railroads represents a comprehensive database of the nation's railway system at 1:100,000 scale. The data set covers the 48 contiguous States plus the District of Columbia within United States.",
   "dc_creator_sm": [
-    "Bureau of Transportation Statistics",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Bureau of Transportation Statistics"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -22,12 +21,14 @@
   "dct_temporal_sm": [
     "1997",
     "1996",
-    "199512"
+    "199512",
+    "2000"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:58:07Z",
+  "layer_modified_dt": "2019-06-05T14:53:18Z",
   "layer_id_s": "restricted-figgy:p-c3f609c1-2554-47f9-8b6d-d11707c6e140",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/71a1c729-5ceb-42fd-a95f-e87682ca43a5/file/3552c573-9606-4861-95d5-cf1d48a4bc9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3f609c1-2554-47f9-8b6d-d11707c6e140/file/a863f6ce-c5b4-46b2-8888-7db95b3295e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3f609c1-2554-47f9-8b6d-d11707c6e140/file/078b82ff-5e0f-4c04-8fd0-d416e86705b4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Water Feature Lines represents the linear water features (e.g., aqueducts, canals, intercoastal waterways, and streams) of the United States.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -25,12 +24,14 @@
     "1995–1999",
     "1972–1994",
     "1998",
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1995,
-  "layer_modified_dt": "2018-06-13T19:06:58Z",
+  "layer_modified_dt": "2019-06-05T14:44:40Z",
   "layer_id_s": "restricted-figgy:p-c3a1e851-024c-4aa7-b87e-5a266d657db2",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/81cadf80-60f5-43ed-85a5-cecfeb2fd32d/file/8018d1b3-0ef0-434a-b68a-599fc1399eb4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c3a1e851-024c-4aa7-b87e-5a266d657db2/file/2216ee07-c3a4-41f2-81b4-b83d60d2eb7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c3a1e851-024c-4aa7-b87e-5a266d657db2/file/d7b65637-67e1-409f-8a94-9e58a95fbd00\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

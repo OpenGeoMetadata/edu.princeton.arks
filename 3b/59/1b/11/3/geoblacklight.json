@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Canada FSA Postal Centroids represents the Forward Sortation Areas (FSA) of Canada as centroids, which are identified by the first three characters of the postal code. The sequence of the three-character FSA is always Alphabetical character/Number/Alphabetical character. The centroids are calculated from the DMTI Spatial FSA boundary file, which is created from the DMTI Spatial six-character postal code point file and CanMap®. The FSA boundaries encompass the six-character postal code points starting with that FSA designation, and conform to the streets and other physical features within CanMap.",
   "dc_creator_sm": [
-    "DMTI Spatial Inc.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "DMTI Spatial Inc."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
   ],
   "dct_temporal_sm": [
     "2000",
-    "1996"
+    "1996",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:05:07Z",
+  "layer_modified_dt": "2019-06-05T14:46:01Z",
   "layer_id_s": "restricted-figgy:p-b36f8ce1-20ed-4b74-8a9e-f8d37e3ef249",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/55488f31-c9fa-4342-a083-9441ec92075a/file/1c098a76-d85e-4a7b-a722-9c7f44a560c8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b36f8ce1-20ed-4b74-8a9e-f8d37e3ef249/file/7e1140f9-abdd-4761-8a0f-a6e29556d103\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b36f8ce1-20ed-4b74-8a9e-f8d37e3ef249/file/47328def-d207-41b0-b411-f5cdec695cd6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

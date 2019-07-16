@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/zg64tr06g",
+  "layer_slug_s": "princeton-zg64tr06g",
+  "uuid": "princeton-zg64tr06g",
+  "dc_title_s": "U.S. ZIP Code Points, 2018",
+  "solr_geom": "ENVELOPE(-176.760204, 145.631558, 70.74189, 13.264878)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. ZIP Code Points represents the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no associated area such as post office box ZIP Codes and single site ZIP Codes (government, building, or large volume customer).",
+  "dc_creator_sm": [
+    "Esri",
+    "TomTom North America, Inc."
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Location",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Guam"
+  ],
+  "dct_temporal_sm": [
+    "2018",
+    "2017",
+    "2011",
+    "2010",
+    "2018"
+  ],
+  "solr_year_i": 2018,
+  "layer_modified_dt": "2019-06-26T14:17:26Z",
+  "layer_id_s": "restricted-figgy:p-0710522e-639b-4009-8eaf-9c72a75b4790",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c8c6b4f9-fb09-4ae0-b8b7-ecd848f8eb0a/file/297c3899-be2c-4032-9de5-65eb9af8c8d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0710522e-639b-4009-8eaf-9c72a75b4790/file/47ab3068-70bb-4136-aecd-9099f96a3366\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0710522e-639b-4009-8eaf-9c72a75b4790/file/d21166f9-385c-4a7e-8848-78c83b2f9f08\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

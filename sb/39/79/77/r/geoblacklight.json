@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Nebraska Block Groups represents the U.S. Census block groups of Nebraska.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:47:09Z",
+  "layer_modified_dt": "2019-06-05T15:05:10Z",
   "layer_id_s": "restricted-figgy:p-d6770e92-d8c6-4e45-a5f2-15364f9fc764",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f04e3a1-dfee-493c-8dc9-9db5c0b563df/file/11611383-b935-47f9-a4f0-82528d53cadd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6770e92-d8c6-4e45-a5f2-15364f9fc764/file/50b0b026-8d54-4d30-bbc2-0aec19218392\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6770e92-d8c6-4e45-a5f2-15364f9fc764/file/4315fc58-6c58-4de0-b3dd-24b8bb43c538\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

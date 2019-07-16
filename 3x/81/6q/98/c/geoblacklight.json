@@ -21,12 +21,14 @@
     "India"
   ],
   "dct_temporal_sm": [
-    "2011"
+    "2011",
+    "2016"
   ],
   "solr_year_i": 2011,
-  "layer_modified_dt": "2018-06-13T18:10:01Z",
+  "layer_modified_dt": "2019-06-05T16:56:44Z",
   "layer_id_s": "restricted-figgy:p-ba9877dd-11ca-4a5d-84b1-f3936cfe0e49",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0ff1f47-2e7d-41e6-8b61-970485b7c8f1/file/9c5c26b0-5c3a-4d72-9e8d-7ef36ed3edf0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba9877dd-11ca-4a5d-84b1-f3936cfe0e49/file/a25be4f8-84bc-4fe9-80b3-f1293cc3cef5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba9877dd-11ca-4a5d-84b1-f3936cfe0e49/file/04dceefe-a1be-4353-9863-72235345dfe9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2016-01-01T00:00:00Z"
 }

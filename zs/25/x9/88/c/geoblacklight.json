@@ -19,12 +19,14 @@
     "Meghalaya"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2006"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T18:16:35Z",
+  "layer_modified_dt": "2019-06-05T16:51:04Z",
   "layer_id_s": "restricted-figgy:p-f8047217-e1ff-49bf-9d22-c7260128ef0b",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e6c5982b-5495-485f-aa48-77134ae17de7/file/f0560c96-6998-4d28-ba8a-adcab1caec3d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8047217-e1ff-49bf-9d22-c7260128ef0b/file/60bec768-2244-4cd7-8678-366417e5c207\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8047217-e1ff-49bf-9d22-c7260128ef0b/file/e2a4b807-3378-4332-aeff-1e94ce4c4a35\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2006-01-01T00:00:00Z"
 }

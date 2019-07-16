@@ -19,12 +19,14 @@
     "United States"
   ],
   "dct_temporal_sm": [
-    "1992"
+    "1992",
+    "2002"
   ],
   "solr_year_i": 1992,
-  "layer_modified_dt": "2018-06-13T18:44:07Z",
+  "layer_modified_dt": "2019-06-05T15:08:22Z",
   "layer_id_s": "restricted-figgy:p-6a5bd8e7-04e4-41e3-8713-24ae43b069f7",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fee4c235-f539-4a9a-bb5d-f559a9612cb2/file/bb7b6f8b-0e70-4c00-8aa1-0e72060dcea3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6a5bd8e7-04e4-41e3-8713-24ae43b069f7/file/e38ec905-e65d-40fb-ad15-bfc9c290db47\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6a5bd8e7-04e4-41e3-8713-24ae43b069f7/file/bff98b1f-c4d1-40b8-8eaf-e3310bddb8e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

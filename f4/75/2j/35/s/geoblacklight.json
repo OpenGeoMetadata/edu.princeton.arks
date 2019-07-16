@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Connecticut Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Connecticut.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:44:48Z",
+  "layer_modified_dt": "2019-06-05T15:07:27Z",
   "layer_id_s": "restricted-figgy:p-ffcea38b-31b9-4a1c-8b48-620104a08b1d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9add6807-8a29-42e0-a60d-248438226cff/file/ca69af55-7f72-46d6-b1fc-7eab3f7c40dc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ffcea38b-31b9-4a1c-8b48-620104a08b1d/file/8cc14839-83a3-4b1d-a439-bf94f93caeea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ffcea38b-31b9-4a1c-8b48-620104a08b1d/file/5a04b148-7f7a-49a4-ba2c-9e6194ec8bfc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

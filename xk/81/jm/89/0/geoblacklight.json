@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "World Wildlife Fund Marine Ecoregions represents global marine ecoregions. Ecoregions are defined as relatively large areas of land or water in the world containing a characteristic set of natural communities that share a large majority of their species, dynamics, and environmental conditions. This data set contains the marine ecoregions of the Global 200. Global 200 ecoregions are a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and we must protect if we are to preserve the web of life. For more information, contact http://www.worldwildlife.org.",
   "dc_creator_sm": [
-    "World Wildlife Fund",
-    "ESRI"
+    "World Wildlife Fund"
   ],
   "dc_publisher_s": "ESRI",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "World"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2008"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T19:03:14Z",
+  "layer_modified_dt": "2019-06-05T14:51:53Z",
   "layer_id_s": "restricted-figgy:p-bb045add-a0e7-4de8-b552-ef5423d88d23",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/728fb82a-5395-45a2-9662-6dc70d3bd98f/file/bb7d2c19-fd24-4fd7-8196-28ff34b0e5e2\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb045add-a0e7-4de8-b552-ef5423d88d23/file/0097bf1a-62b2-40c5-b2f4-ae7915055710\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb045add-a0e7-4de8-b552-ef5423d88d23/file/d13d14b4-170b-4b0c-a6e7-84d505beaa16\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2008-01-01T00:00:00Z"
 }

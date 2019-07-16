@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Michigan Block Groups represents the U.S. Census block groups of Michigan.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:48:49Z",
+  "layer_modified_dt": "2019-06-05T15:02:29Z",
   "layer_id_s": "restricted-figgy:p-fffbd08d-8975-422e-9235-059754204713",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/145cb0f6-8c47-4630-b259-7f95958a88bc/file/c7a65583-6542-45eb-bce0-3f6dd08a3d9a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fffbd08d-8975-422e-9235-059754204713/file/847db39e-d311-40a4-a408-4fb6c33e136a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fffbd08d-8975-422e-9235-059754204713/file/45870a6d-e4fc-423d-b49b-a8c28a530dd4\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

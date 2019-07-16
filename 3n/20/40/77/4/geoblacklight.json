@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Ohio Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Ohio.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:58:59Z",
+  "layer_modified_dt": "2019-06-05T14:52:30Z",
   "layer_id_s": "restricted-figgy:p-c6e4dc80-70c8-4646-b451-0748936a3f2c",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59978eae-54d2-43f3-98a6-2832602855bd/file/9b56afa6-a84f-43cd-b87b-341177619aaa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6e4dc80-70c8-4646-b451-0748936a3f2c/file/8d932b00-3d2f-407f-b3fa-675eae5aab4e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6e4dc80-70c8-4646-b451-0748936a3f2c/file/7e1613a9-133a-4313-9ad7-76989a1c06df\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

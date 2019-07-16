@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Virginia Block Groups represents the U.S. Census block groups of Virginia.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:05:20Z",
+  "layer_modified_dt": "2019-06-05T14:45:50Z",
   "layer_id_s": "restricted-figgy:p-d797f461-e9f5-4347-a24e-c747ef945b5b",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d4f5359d-1331-4132-a2d5-f36374187b41/file/d4ea93cd-db43-4b57-a5e3-61ce3cd2c797\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d797f461-e9f5-4347-a24e-c747ef945b5b/file/ce5f9912-1e46-47ee-9289-480c3566156a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d797f461-e9f5-4347-a24e-c747ef945b5b/file/7e461dcd-165b-474b-afe0-2cfa9d609ac8\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

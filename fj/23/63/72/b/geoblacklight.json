@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Large Area Landmarks represents common landmark areas within United States including military areas, prisons, educational institutions, amusement centers, government centers, sport centers, golf courses, and cemeteries.",
   "dc_creator_sm": [
-    "Tele Atlas North America, Inc.",
-    "ESRI"
+    "Tele Atlas North America, Inc."
   ],
   "dc_publisher_s": "ESRI",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2007",
-    "2006"
+    "2006",
+    "2008"
   ],
   "solr_year_i": 2007,
-  "layer_modified_dt": "2018-06-13T18:58:36Z",
+  "layer_modified_dt": "2019-06-05T14:52:49Z",
   "layer_id_s": "restricted-figgy:p-865eca65-9de9-45c0-bdf4-d48b13380795",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/770e43f7-f6d2-45cf-8947-aa30e92615f1/file/96ced063-f813-4131-9860-87827ee02133\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/865eca65-9de9-45c0-bdf4-d48b13380795/file/a5610ec1-d884-4ab2-ae17-95fdb7b6539f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/865eca65-9de9-45c0-bdf4-d48b13380795/file/3f3ac18c-a39d-4891-8d66-3db8cc66675c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2008-01-01T00:00:00Z"
 }

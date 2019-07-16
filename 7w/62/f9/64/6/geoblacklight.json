@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "New Jersey Major Roads represents interstate, U.S., and state highways and other major thoroughfares within New Jersey.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "New Jersey"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:04:29Z",
+  "layer_modified_dt": "2019-06-05T14:46:44Z",
   "layer_id_s": "restricted-figgy:p-04b17e7b-514e-4058-9b88-89a913da8208",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/9ac5926c-c994-429c-9581-557827e63c73/file/c178cdc8-c007-413d-a386-410a861c09d0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04b17e7b-514e-4058-9b88-89a913da8208/file/7934cf1f-11b0-475e-90b7-28faafe8c046\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04b17e7b-514e-4058-9b88-89a913da8208/file/d00a8be3-f470-4966-89a4-7a545dda94da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

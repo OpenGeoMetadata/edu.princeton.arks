@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Oklahoma Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Oklahoma.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:03:17Z",
+  "layer_modified_dt": "2019-06-05T14:51:49Z",
   "layer_id_s": "restricted-figgy:p-ee9d4460-4a27-4cd0-a3fd-d1be3985aa43",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8bb8b136-c56a-4de7-b200-91a370fba8bc/file/4be1984e-156a-4123-bbf6-3684048b3f9c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee9d4460-4a27-4cd0-a3fd-d1be3985aa43/file/44dbd51e-8312-481b-83d2-ba3b4649332f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee9d4460-4a27-4cd0-a3fd-d1be3985aa43/file/ee4ce8d8-f800-4303-8141-d5c988eff815\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

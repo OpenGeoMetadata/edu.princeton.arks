@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-3n204279x",
   "uuid": "princeton-3n204279x",
   "dc_title_s": "Imperium Car. Magn. ad finem sæc. post Christ. VIIIm.",
-  "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
+  "solr_geom": "ENVELOPE(-15.51, 35.02, 56.0, 34.01)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "At top of map: Ancient geography. Plate 1. Relief shown by hachures. From: Atlas of ancient geography. Philadelphia, 1806.",
@@ -21,9 +21,9 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2018-06-22T21:52:41Z",
+  "layer_modified_dt": "2019-06-04T17:47:25Z",
   "layer_id_s": "public-figgy:p-cc328210-78dc-43b0-9275-f8507ca8abc4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7090989\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc328210-78dc-43b0-9275-f8507ca8abc4/file/65e6db68-0666-49da-b9d8-a134156a362c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc328210-78dc-43b0-9275-f8507ca8abc4/file/6d46a296-00b6-410b-95c5-625f2e941695\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Fe6%2F25%2F20e6252674de455196cf3779d2626abb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f175042a-9959-470c-acd7-198bf37f1a80/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7090989\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc328210-78dc-43b0-9275-f8507ca8abc4/file/65e6db68-0666-49da-b9d8-a134156a362c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc328210-78dc-43b0-9275-f8507ca8abc4/file/6d46a296-00b6-410b-95c5-625f2e941695\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/20%2Fe6%2F25%2F20e6252674de455196cf3779d2626abb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f175042a-9959-470c-acd7-198bf37f1a80/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

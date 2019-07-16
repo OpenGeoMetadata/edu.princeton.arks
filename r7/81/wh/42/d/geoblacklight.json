@@ -20,12 +20,14 @@
     "Alabama"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:00:13Z",
+  "layer_modified_dt": "2019-06-05T14:50:07Z",
   "layer_id_s": "restricted-figgy:p-f148a1d0-3117-4311-a216-375efc62010d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fa5ae7c0-cded-4981-96a8-ad1f7bc0f562/file/d7b2c23f-7402-415c-b1b7-8c2b9b7bd1f8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f148a1d0-3117-4311-a216-375efc62010d/file/bfd33845-a805-4a58-bbf4-2da7e4ece7a9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f148a1d0-3117-4311-a216-375efc62010d/file/dd273815-2238-4f6a-b3f3-b35a8a7db957\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

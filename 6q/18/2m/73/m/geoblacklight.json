@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Wyoming Rivers represents streams and rivers within Wyoming.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Wyoming"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:57:56Z",
+  "layer_modified_dt": "2019-06-05T14:53:27Z",
   "layer_id_s": "restricted-figgy:p-c865e009-24ff-4752-90b4-40252b9d3067",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3abd15a4-b8aa-450d-978e-082ff3324028/file/99a7ed09-9ade-42f1-8c0e-edaa9fc263d3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c865e009-24ff-4752-90b4-40252b9d3067/file/94bdc5c8-d0dd-4522-8429-83ce46a6f5ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c865e009-24ff-4752-90b4-40252b9d3067/file/8a1cadea-e84e-48c2-8c99-ce366e3de95f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

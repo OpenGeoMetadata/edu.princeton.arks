@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "West Virginia Tracts represents the U.S. Census tracts and block numbering areas (BNA) of West Virginia.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:07:30Z",
+  "layer_modified_dt": "2019-06-05T14:47:17Z",
   "layer_id_s": "restricted-figgy:p-dc503764-fb78-4b05-83f3-4d14abe05831",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/772d176d-a10a-47d4-b230-2046487fe3be/file/1a34ab18-53f6-423a-8130-fcf1fa92032e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc503764-fb78-4b05-83f3-4d14abe05831/file/67622efa-cfd0-414d-8128-a1edd3625924\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc503764-fb78-4b05-83f3-4d14abe05831/file/ac3f6d4a-b851-4f70-b908-48da2cba1bef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

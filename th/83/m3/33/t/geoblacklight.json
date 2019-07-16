@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/th83m333t",
+  "layer_slug_s": "princeton-th83m333t",
+  "uuid": "princeton-th83m333t",
+  "dc_title_s": "Chile precensus blocks, 2017 (Manzana Precensal)",
+  "solr_geom": "ENVELOPE(-109.443845, -67.587673, -18.193459, -54.939314)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "A block is a territorial unit used for statistical purposes, preferably delimited by streets, property boundaries, or, failing that, watercourses and streams. It must have a residential, commercial, industrial, recreational, or other land use included within the urban perimeter. As such, a block must always be within the urban census limit (LUC). Blocks are the smallest territorial units that the INE is charged to survey for its statistical products, and each can be recognized through the block code, called 'Manzent,' which represents the information of the commune, type of area (urban or rural), district, zone, and block code.[La manzana es una unidad territorial utilizada para fines estadísticos, delimitada preferentemente por calles, límites prediales o en su defecto por cursos hídricos y quebradas. Debe contar con un uso de suelo residencial, comercial, industrial, recreativo y otros usos incluidos dentro del perímetro urbano. Una manzana como tal, siempre debe encontrarse al interior del límite urbano censal (LUC). La manzana es la mínima unidad territorial que ocupa el INE para el levantamiento de sus productos estadísticos y cada una puede ser reconocida a través del código de manzana, denominado 'Manzent', quien representa la información de la comuna, tipo de área (urbana o rural), distrito, zona y código de manzana.]",
+  "dc_creator_sm": [
+    "Chile, National Institute of Statistics/Instituto Nacional de Estadísticas"
+  ],
+  "dc_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "2017",
+    "2016",
+    "2016"
+  ],
+  "solr_year_i": 2017,
+  "layer_modified_dt": "2019-06-05T14:42:35Z",
+  "layer_id_s": "restricted-figgy:p-04ad04f8-251f-4348-8e23-dbc73171ae98",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cbe9767d-1b58-4419-b399-fa3cc25d36d2/file/b42b9352-ae2a-42cd-962b-f2b96e016b2e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04ad04f8-251f-4348-8e23-dbc73171ae98/file/fe727b9c-c291-49f5-8bbf-4db7f554a865\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04ad04f8-251f-4348-8e23-dbc73171ae98/file/425f83b7-f9bf-4519-9347-134b11a0128e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2016-01-01T00:00:00Z"
+}

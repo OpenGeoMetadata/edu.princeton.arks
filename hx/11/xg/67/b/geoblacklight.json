@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Europe Water Bodies represents the major and non-major inland water for Europe.",
   "dc_creator_sm": [
-    "AND Data Solutions, B.V.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "AND Data Solutions, B.V."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "Europe"
   ],
   "dct_temporal_sm": [
+    "1999",
     "1999"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:06:48Z",
+  "layer_modified_dt": "2019-06-05T14:44:52Z",
   "layer_id_s": "restricted-figgy:p-fa8f22bd-7ab1-4761-a0eb-6cb2b0e59ae2",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/517967cc-3d33-4b7a-ac0e-c124a5aade78/file/d8d209d3-2428-4a6d-ba8d-44dfcd9354da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fa8f22bd-7ab1-4761-a0eb-6cb2b0e59ae2/file/586e0790-6133-4c89-9247-3cfbe8e6d6ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fa8f22bd-7ab1-4761-a0eb-6cb2b0e59ae2/file/d0dccb21-67f0-4b3f-bbf5-4eed668c4e54\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1999-01-01T00:00:00Z"
 }

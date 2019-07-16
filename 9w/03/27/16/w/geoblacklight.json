@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9w032716w",
+  "layer_slug_s": "princeton-9w032716w",
+  "uuid": "princeton-9w032716w",
+  "dc_title_s": "U.S. Telephone Area Code Boundaries, 2018",
+  "solr_geom": "ENVELOPE(-178.227822, -65.244128, 71.390482, 17.926706)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Telephone Area Code Boundaries represents the telephone area codes for the United States. They are also known as Numbering Plan Areas (NPA). The Numbering Plan Areas reflect current and accurate boundary changes both where new NPAs split from existing NPAs and where new NPAs overlay existing NPAs.When an NPA is split, the geographic area covered by the old area code is divided geographically, with one portion retaining the previous area code and the other switching to the new area code. When a new NPA is added as an overlay, the old area code remains unaffected. Instead, all or part of the land covered by the old area code is now covered by the old and new area codes.",
+  "dc_creator_sm": [
+    "Esri",
+    "TomTom North America, Inc."
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2018",
+    "2011",
+    "2018"
+  ],
+  "solr_year_i": 2018,
+  "layer_modified_dt": "2019-06-26T14:17:56Z",
+  "layer_id_s": "restricted-figgy:p-3d4ddf6a-ebba-42d1-998c-3458825a1824",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5444f4e8-3b9d-4a87-9d78-ba899f7ac11b/file/04467f21-7276-47f2-92c7-363a578c0584\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d4ddf6a-ebba-42d1-998c-3458825a1824/file/e5d9f309-c26e-4e39-b970-afc85c30e3cf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d4ddf6a-ebba-42d1-998c-3458825a1824/file/2a3a4c07-087e-4d9d-a00f-b7d16f1945dd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}
