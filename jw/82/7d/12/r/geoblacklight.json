@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "New Mexico Block Groups represents the U.S. Census block groups of New Mexico.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:45:46Z",
+  "layer_modified_dt": "2019-06-05T15:10:50Z",
   "layer_id_s": "restricted-figgy:p-2d3b6710-e243-4365-8d1a-b40e1a6dd9c9",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c874f68f-bdde-4b81-9812-02c049124742/file/59b23999-443c-4c42-8e93-c372d20887bc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2d3b6710-e243-4365-8d1a-b40e1a6dd9c9/file/22d2cc0e-ad35-4ada-841d-9b861dc54675\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2d3b6710-e243-4365-8d1a-b40e1a6dd9c9/file/e9e44ff7-c0b3-4649-9a50-b306d638f37a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

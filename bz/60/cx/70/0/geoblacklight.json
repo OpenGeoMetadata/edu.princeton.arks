@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. GDT Large Area Landmarks represents common landmark areas within United States including military areas, prisons, educational institutions, amusement centers, government centers, sport centers, golf courses, and cemeteries.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:47:09Z",
+  "layer_modified_dt": "2019-06-05T15:05:10Z",
   "layer_id_s": "restricted-figgy:p-c2094f9c-0e2c-402b-a244-d43a0754104c",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b23dec41-4fff-40cf-b9a0-11ca5d4fa0f2/file/f8f8f526-230a-4e41-9506-165804a0c8c5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2094f9c-0e2c-402b-a244-d43a0754104c/file/f98de7a0-f1df-4e3d-8ebf-c64a2cd3eab9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2094f9c-0e2c-402b-a244-d43a0754104c/file/11bfccfe-0abf-4917-819f-54e444558fef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

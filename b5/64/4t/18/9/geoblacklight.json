@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "New Hampshire Major Roads represents interstate, U.S., and state highways and other major thoroughfares within New Hampshire.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "New Hampshire"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:44:42Z",
+  "layer_modified_dt": "2019-06-05T15:07:35Z",
   "layer_id_s": "restricted-figgy:p-8a5597c5-488f-4620-83f4-62df9f0ab0d6",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8b039073-a9b7-41ef-a765-2946c601c771/file/e7e0b3a4-7f57-40a8-bc0c-cd593e8a63c9\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a5597c5-488f-4620-83f4-62df9f0ab0d6/file/90d8fd04-e292-4608-baf6-35c44ad5229f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a5597c5-488f-4620-83f4-62df9f0ab0d6/file/563e37b8-edef-498b-bb9e-8f63fb16b8e3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-sn00b2492",
   "uuid": "princeton-sn00b2492",
   "dc_title_s": "Bradshaw’s railway map of Central Europe [Sheet 1]",
-  "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
+  "solr_geom": "ENVELOPE(-5.79, 25.34, 55.75, 41.25)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "In: Bradshaw's railway manual, ... for 1897. Insets: Environs of Paris -- The world on Mercator's projection -- Sweden & Norway -- Egypt.",
@@ -20,9 +20,9 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2018-06-22T21:57:31Z",
+  "layer_modified_dt": "2019-06-04T17:18:32Z",
   "layer_id_s": "public-figgy:p-4df190c5-091d-45f5-a089-fa56fe6549af",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7094220\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4df190c5-091d-45f5-a089-fa56fe6549af/file/5cace9c2-e4db-43d3-a01b-7fd274f4e9dc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4df190c5-091d-45f5-a089-fa56fe6549af/file/8bdbc2b8-36e3-462b-9d66-8d4da450d6cb\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/20%2Fea%2F50%2F20ea5054ed164fa491254504ed60dd20%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e534df5-6d7d-4fa1-90d6-440d1f13e5fe/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7094220\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4df190c5-091d-45f5-a089-fa56fe6549af/file/5cace9c2-e4db-43d3-a01b-7fd274f4e9dc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4df190c5-091d-45f5-a089-fa56fe6549af/file/8bdbc2b8-36e3-462b-9d66-8d4da450d6cb\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/20%2Fea%2F50%2F20ea5054ed164fa491254504ed60dd20%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e534df5-6d7d-4fa1-90d6-440d1f13e5fe/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "North Dakota Rivers represents streams and rivers within North Dakota.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "North Dakota"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:48:34Z",
+  "layer_modified_dt": "2019-06-05T15:02:45Z",
   "layer_id_s": "restricted-figgy:p-891d622b-068e-4b26-92ae-4cbd76218035",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/444b198e-800a-48e6-bf91-ae63e03f5689/file/386fbb26-de1d-4f22-a73d-ee249c14207d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/891d622b-068e-4b26-92ae-4cbd76218035/file/1bc5b4d3-a2e0-4d77-b3b3-12eeff973044\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/891d622b-068e-4b26-92ae-4cbd76218035/file/759f34cf-20d4-40ed-a39d-d1e7d59d1ae3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

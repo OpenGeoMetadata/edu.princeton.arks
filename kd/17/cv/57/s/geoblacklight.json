@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Arizona Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Arizona.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Arizona"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:00:13Z",
+  "layer_modified_dt": "2019-06-05T14:50:08Z",
   "layer_id_s": "restricted-figgy:p-ce71e5f5-67b8-4358-8c80-bc0c89d575d4",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c773fca1-a8b1-4ae6-b23a-062bdc9b101e/file/25ccca97-a037-4037-9576-08a9160a374f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ce71e5f5-67b8-4358-8c80-bc0c89d575d4/file/dfc1c28b-74df-4df1-8b12-6b18db459470\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ce71e5f5-67b8-4358-8c80-bc0c89d575d4/file/a729a969-0752-408f-a3d0-7ad5fc9837bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

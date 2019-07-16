@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Arkansas Block Groups represents the U.S. Census block groups of Arkansas.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:48:09Z",
+  "layer_modified_dt": "2019-06-05T15:03:30Z",
   "layer_id_s": "restricted-figgy:p-442c35b0-5f66-409b-9d8a-afeb1d41c37a",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c2f47d99-7f6f-491e-b55c-0cfb40eff123/file/8799bba7-389e-4294-9ab2-84304d278364\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/442c35b0-5f66-409b-9d8a-afeb1d41c37a/file/c323d9bf-f180-454c-8be1-eec0031d46fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/442c35b0-5f66-409b-9d8a-afeb1d41c37a/file/064aad00-1abc-485b-9c27-6b1947a434c0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

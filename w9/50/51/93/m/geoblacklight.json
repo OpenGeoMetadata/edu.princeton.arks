@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Minnesota ZIP Code Areas represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively.  The first digit of a five-digit ZIP Code divides the country into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West.  Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the 2nd and 3rd digits.  These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area.  The 4th and 5th digits identify a post office, station, branch or local delivery area.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2001",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T19:00:08Z",
+  "layer_modified_dt": "2019-06-05T14:50:14Z",
   "layer_id_s": "restricted-figgy:p-bbffc60d-4ab0-4f92-9735-83b3b2481fb9",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/faaeec75-6e96-4691-8085-654ecbbc0770/file/91df49b4-6476-445c-901c-edabc1a80f05\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbffc60d-4ab0-4f92-9735-83b3b2481fb9/file/0e4ad6d9-12b9-47f9-8499-aa32e9d769cd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbffc60d-4ab0-4f92-9735-83b3b2481fb9/file/a3567a88-2430-4857-a19a-b3f5ff40e186\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

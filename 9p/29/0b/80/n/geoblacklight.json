@@ -20,12 +20,14 @@
     "United States"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:07:28Z",
+  "layer_modified_dt": "2019-06-05T14:47:20Z",
   "layer_id_s": "restricted-figgy:p-3e940822-93f5-4824-9937-c4bd363b5495",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/42aaf8fb-0c87-4c7c-930c-03f9a5a2f7ec/file/f1c4df84-00ff-47e4-be8d-587441394748\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e940822-93f5-4824-9937-c4bd363b5495/file/29b3e9f9-05fa-4a8e-a9be-0685155647b9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e940822-93f5-4824-9937-c4bd363b5495/file/ae8c2490-6023-4309-af61-225d640b8bca\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

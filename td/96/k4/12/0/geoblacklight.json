@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. ZIP Code Points represents five-digit ZIP Code areas as points by placing the location using delivery based centroids and those ZIP Codes that have few or no street delivery locations or are assigned to a single organization such as a business which has street delivery.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:02:35Z",
+  "layer_modified_dt": "2019-06-05T17:07:42Z",
   "layer_id_s": "restricted-figgy:p-034d6336-18b2-4efa-aaa2-36eea0371d47",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ff39857e-c98d-4852-bc68-34b72414cc47/file/74728c52-d62f-4bfd-a739-538eb03ab958\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/034d6336-18b2-4efa-aaa2-36eea0371d47/file/302fa597-0c53-4d1a-b3eb-4793ea3dcdfb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/034d6336-18b2-4efa-aaa2-36eea0371d47/file/4db018e7-ba9a-41a0-8b71-9ac956cbb544\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

@@ -18,12 +18,14 @@
   "dct_temporal_sm": [
     "1992",
     "1991",
-    "1990"
+    "1990",
+    "2000"
   ],
   "solr_year_i": 1992,
-  "layer_modified_dt": "2018-06-13T19:06:02Z",
+  "layer_modified_dt": "2019-06-05T14:45:31Z",
   "layer_id_s": "restricted-figgy:p-e6e0840c-2883-4b57-a8f6-9144c58cb7c4",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e67ad141-1480-4a97-9c5b-3fc172a12d30/file/5bdbff96-0d29-4156-bee2-30017e26665c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6e0840c-2883-4b57-a8f6-9144c58cb7c4/file/c39a71f0-f8d7-48ee-b543-33e1fc48f6aa\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6e0840c-2883-4b57-a8f6-9144c58cb7c4/file/32f8c308-cebb-4509-aef0-e70650fef2f9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

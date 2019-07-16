@@ -21,12 +21,14 @@
     "Shasta-Trinity National Forest"
   ],
   "dct_temporal_sm": [
-    "2011"
+    "2011",
+    "2010"
   ],
   "solr_year_i": 2011,
-  "layer_modified_dt": "2018-06-13T18:11:18Z",
+  "layer_modified_dt": "2019-06-05T17:04:45Z",
   "layer_id_s": "restricted-figgy:p-b9a8e89d-b655-4f6f-b7e6-635969494056",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/65d03136-2d34-4c16-9f8e-f78da31541e6/file/8e2de6b6-df10-4bcd-be4b-900dd6ca6157\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9a8e89d-b655-4f6f-b7e6-635969494056/file/25f9b8b5-3c67-40da-81a4-4ad9944d6eef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9a8e89d-b655-4f6f-b7e6-635969494056/file/d90b88c4-dcf0-4055-990c-c10ad7c1192c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2010-01-01T00:00:00Z"
 }

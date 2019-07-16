@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/1g05fg75m",
+  "layer_slug_s": "princeton-1g05fg75m",
+  "uuid": "princeton-1g05fg75m",
+  "dc_title_s": "U.S. County Boundaries, 2015",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. County Boundaries represents the boundary lines of the counties and county equivalents of the United States.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc.",
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "U.S. Counties",
+    "United States",
+    "Puerto Rico",
+    "Counties"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2013",
+    "2015",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2019-06-26T14:17:19Z",
+  "layer_id_s": "restricted-figgy:p-ad9e953c-534f-4722-aad4-2ddc66952d1f",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/abed150d-57c0-4b66-9ffb-0ce1d98e78a5/file/582b82ea-661e-4fba-942c-652b7f6b86ef\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad9e953c-534f-4722-aad4-2ddc66952d1f/file/e1ce6552-ca81-4670-a5e1-9aae8e6f111f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad9e953c-534f-4722-aad4-2ddc66952d1f/file/5ad8d4dc-d839-4e84-a72a-69f143049eb2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

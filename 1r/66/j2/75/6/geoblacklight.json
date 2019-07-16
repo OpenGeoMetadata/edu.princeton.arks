@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Maine Rivers represents streams and rivers within Maine.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Maine"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:45:18Z",
+  "layer_modified_dt": "2019-06-05T15:06:57Z",
   "layer_id_s": "restricted-figgy:p-641d1a21-a3e6-4173-b125-9a993177964d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f624c32a-1f98-49db-8f59-b0e63d1aff47/file/44878987-6967-4c7d-bfcf-ae5059517ddd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/641d1a21-a3e6-4173-b125-9a993177964d/file/e881f829-ab35-46e5-881b-7e9492c965e9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/641d1a21-a3e6-4173-b125-9a993177964d/file/7654dd9d-60b6-40fb-b715-1cba4c53b5c7\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

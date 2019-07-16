@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Roads and highways in Decatur County, Georgia, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
   "dc_creator_sm": [
-    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
-    "Boundary Solutions, Inc."
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
   ],
   "dc_subject_sm": [
     "Transportation"
@@ -21,12 +20,14 @@
     "Georgia"
   ],
   "dct_temporal_sm": [
+    "2014",
     "2014"
   ],
   "solr_year_i": 2014,
-  "layer_modified_dt": "2018-06-13T18:04:58Z",
+  "layer_modified_dt": "2019-06-05T17:08:24Z",
   "layer_id_s": "restricted-figgy:p-fdca4c58-5d37-4b87-8621-eb09301859fe",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/dc92f3e1-21dd-46d6-ada1-3cff05a844d9/file/c0f55d7b-0f42-432d-a24e-ce8426e66155\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fdca4c58-5d37-4b87-8621-eb09301859fe/file/1febccc6-9ef7-4df3-8041-b5f004542797\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdca4c58-5d37-4b87-8621-eb09301859fe/file/73d5be98-b6fa-4618-880b-fa9cefb7698c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2014-01-01T00:00:00Z"
 }

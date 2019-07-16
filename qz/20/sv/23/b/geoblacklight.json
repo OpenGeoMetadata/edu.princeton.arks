@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Hawaii Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Hawaii.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:43:52Z",
+  "layer_modified_dt": "2019-06-05T15:09:13Z",
   "layer_id_s": "restricted-figgy:p-5b556b58-6265-481e-b726-b5489b6e520d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f9f4f0c1-1c81-4a93-9ad3-044356f9592e/file/ea188450-950d-4143-90ca-2beb748bac1c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5b556b58-6265-481e-b726-b5489b6e520d/file/c31ab7e3-a076-4fbd-88a5-9c34ad55a138\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5b556b58-6265-481e-b726-b5489b6e520d/file/41b5a33a-d22e-40f7-a3b1-e26a2fba5af1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

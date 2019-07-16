@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/08612s678",
+  "layer_slug_s": "princeton-08612s678",
+  "uuid": "princeton-08612s678",
+  "dc_title_s": "U.S. National Atlas Federal Land Lines, 2015",
+  "solr_geom": "ENVELOPE(-163.248699, -65.749605, 69.04217, 18.262144)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Federal Land Lines represents the linear federally owned or administered land features (for example, national parkways and wild and scenic rivers) of the United States. Some features may be administered in conjunction with local governments. No data exists for Hawaii.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Planning and Cadastral",
+    "Inland Waters",
+    "Environment"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2015",
+    "2018"
+  ],
+  "solr_year_i": 2015,
+  "layer_modified_dt": "2019-06-27T19:36:41Z",
+  "layer_id_s": "restricted-figgy:p-f03579be-5cae-4372-9468-2bfa137e8cca",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e91188e7-9984-4342-8fae-89f869da8ae5/file/f0a8e34a-c794-47ae-b364-d757d93394e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f03579be-5cae-4372-9468-2bfa137e8cca/file/e41ade12-2af5-4915-b04f-a08d24d09e73\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f03579be-5cae-4372-9468-2bfa137e8cca/file/c04deced-4209-48aa-a43b-2c2721bd982f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

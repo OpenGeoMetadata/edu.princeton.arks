@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Mississippi Rivers represents streams and rivers within Mississippi.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Mississippi"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:45:28Z",
+  "layer_modified_dt": "2019-06-05T15:11:06Z",
   "layer_id_s": "restricted-figgy:p-993405e2-1012-4bce-9531-2d396e7e0fa6",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1cfe239f-a0bc-4a8e-a864-4714e45bbf6b/file/a5ee99d7-6161-46b2-8cb5-1407eeb9988b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/993405e2-1012-4bce-9531-2d396e7e0fa6/file/6b4cd877-1d4f-4cff-a789-1c87a588537f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/993405e2-1012-4bce-9531-2d396e7e0fa6/file/33a7d6bf-1e9f-45fa-b0c9-56b62f08f100\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

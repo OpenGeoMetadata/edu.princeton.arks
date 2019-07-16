@@ -16,12 +16,14 @@
     "Canada"
   ],
   "dct_temporal_sm": [
-    "1992"
+    "1992",
+    "1999"
   ],
   "solr_year_i": 1992,
-  "layer_modified_dt": "2018-06-13T18:58:42Z",
+  "layer_modified_dt": "2019-06-05T14:52:46Z",
   "layer_id_s": "restricted-figgy:p-ae7420a0-9923-4c06-b006-5ff166f2e5be",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2bec8854-20d8-46ed-9a28-5e6d9ef34456/file/70d3cf0a-daac-4e70-936e-763a6228702b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ae7420a0-9923-4c06-b006-5ff166f2e5be/file/bfba8f1b-e113-43eb-9908-35973a5fee71\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ae7420a0-9923-4c06-b006-5ff166f2e5be/file/34e82753-13a0-4d14-a908-0f5aaee235be\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1999-01-01T00:00:00Z"
 }

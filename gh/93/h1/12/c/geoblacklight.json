@@ -19,12 +19,14 @@
     "Jharkand"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2006"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T17:59:08Z",
+  "layer_modified_dt": "2019-06-05T17:10:43Z",
   "layer_id_s": "restricted-figgy:p-84ebdb79-382e-49ed-abfd-1b6b1346beab",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6bcef028-1189-4f19-bc34-8d8d94dd1882/file/b05ea00a-d689-4551-9189-df334aca08e3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/84ebdb79-382e-49ed-abfd-1b6b1346beab/file/04bcf01d-9314-47c7-bd33-5603929af145\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84ebdb79-382e-49ed-abfd-1b6b1346beab/file/2118d916-a835-4643-b64c-feaa97dbf15d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2006-01-01T00:00:00Z"
 }

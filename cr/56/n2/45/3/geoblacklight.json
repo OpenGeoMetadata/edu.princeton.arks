@@ -20,12 +20,14 @@
     "New Mexico"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:05:51Z",
+  "layer_modified_dt": "2019-06-05T14:48:57Z",
   "layer_id_s": "restricted-figgy:p-5bdd2419-e14b-446b-876c-ef4a305ae665",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/93f6218e-667e-440a-8fa5-aadd04d40275/file/c8375d99-f4ce-4aa0-b1dd-05f82a816ff3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bdd2419-e14b-446b-876c-ef4a305ae665/file/d0285a01-99c8-45d8-859c-023bab95718f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bdd2419-e14b-446b-876c-ef4a305ae665/file/2f617f0a-76b0-462d-a43d-d22d2567c255\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

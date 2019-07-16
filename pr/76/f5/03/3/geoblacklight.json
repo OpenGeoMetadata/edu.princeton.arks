@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Canada Water Bodies represents the major fresh- and salt-water bodies within Canada including lakes/lac, large rivers/fleuve, reservoirs, oceans, and bays/baie. The boundaries are based on Statistics Canada data.",
   "dc_creator_sm": [
-    "DMTI Spatial Inc.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "DMTI Spatial Inc."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   "dct_temporal_sm": [
     "2000",
     "1996",
-    "1986"
+    "1986",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T18:59:36Z",
+  "layer_modified_dt": "2019-06-05T14:52:20Z",
   "layer_id_s": "restricted-figgy:p-6d05cb4a-1374-4292-b144-25d43dbc0c1d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/50a26d05-f0b1-4299-9f7c-fec166cc4022/file/775290b1-e94d-4cf6-bfb6-d8b16502e581\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d05cb4a-1374-4292-b144-25d43dbc0c1d/file/59701a0f-472c-487d-9a4a-c359cfbb0114\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d05cb4a-1374-4292-b144-25d43dbc0c1d/file/3430fd19-94a1-4326-b4cc-4c0cb508b0ef\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

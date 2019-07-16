@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "New Hampshire Tracts represents the U.S. Census tracts and block numbering areas (BNA) of New Hampshire.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:04:22Z",
+  "layer_modified_dt": "2019-06-05T14:47:02Z",
   "layer_id_s": "restricted-figgy:p-367a6cfb-b82c-4c30-b31c-0b2af2168291",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1b2f7d19-3f59-485e-a7a3-7671357e7c32/file/27b091d7-8d51-4b63-9fc2-b0bfabf6428c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/367a6cfb-b82c-4c30-b31c-0b2af2168291/file/25e5b492-dc3f-4d7e-8bfd-9a55454c0ac8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/367a6cfb-b82c-4c30-b31c-0b2af2168291/file/cb20ed46-554c-4260-be4e-af9be5df0004\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

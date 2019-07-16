@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/5t34sp578",
+  "layer_slug_s": "princeton-5t34sp578",
+  "uuid": "princeton-5t34sp578",
+  "dc_title_s": "Chile census areas, 2017 (Zonas Censales)",
+  "solr_geom": "ENVELOPE(-109.443845, -67.587673, -18.193459, -54.939314)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "The division of the Census District in urban areas, formed by a conglomerate of blocks. Its purpose is to facilitate the organization, control, and survey of the Census. In small towns, the map of the entire population center may be equivalent to a single census area. Census areas are recognized in the cartography because they present a code in which the first value is the number of the district to which it belongs, followed by the number of zone within that same district, in addition its numbering correlates with 1 to N within the district.\r\n\t  \r\n[División del Distrito Censal en el área urbana, formada por un conglomerado de manzanas. Su finalidad es facilitar la organización, control y levantamiento del Censo. En los pueblos pequeños el plano del centro poblado completo podría equivaler a una sola zona censal. Las zonas censales se reconocen en la cartografía porque presentan un código en el que el primer valor es el número del distrito al que pertenece, seguido por el número de zona dentro de ese mismo distrito, además su numeración es correlativa de 1 a n dentro del distrito.]",
+  "dc_creator_sm": [
+    "Chile, National Institute of Statistics/Instituto Nacional de Estadísticas"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "2017",
+    "2016",
+    "2016"
+  ],
+  "solr_year_i": 2017,
+  "layer_modified_dt": "2019-06-05T14:42:17Z",
+  "layer_id_s": "restricted-figgy:p-9509c1d1-67a4-403a-b183-f6193c441c14",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59d6c05b-3839-4163-a21f-47549e9148e0/file/d119ff79-77f4-424e-a44e-affd771f911a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9509c1d1-67a4-403a-b183-f6193c441c14/file/9755d01f-7b80-41ac-a092-5c19c76293fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9509c1d1-67a4-403a-b183-f6193c441c14/file/c66109e9-ed61-4a35-9e81-afe48e6c1e9f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2016-01-01T00:00:00Z"
+}

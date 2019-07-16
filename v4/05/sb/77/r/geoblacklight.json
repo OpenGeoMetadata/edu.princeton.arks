@@ -19,12 +19,14 @@
     "Delhi"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2006"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-08-18T21:21:53Z",
+  "layer_modified_dt": "2019-06-05T14:44:17Z",
   "layer_id_s": "restricted-figgy:p-95624f76-46c7-4dd7-b15a-23b0dfbb9cb2",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ed77b63-54be-4c94-9876-e20bd8ffb580/file/695fa35d-ec0f-45a3-bd88-8c88d7070651\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/95624f76-46c7-4dd7-b15a-23b0dfbb9cb2/file/7177e2e5-7ba0-4271-8d01-a0aa22b05de3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/95624f76-46c7-4dd7-b15a-23b0dfbb9cb2/file/4f35ecff-49ab-4b9c-b23c-092a8701739d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2006-01-01T00:00:00Z"
 }

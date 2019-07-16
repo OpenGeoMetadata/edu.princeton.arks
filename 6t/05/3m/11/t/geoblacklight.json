@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/6t053m11t",
+  "layer_slug_s": "princeton-6t053m11t",
+  "uuid": "princeton-6t053m11t",
+  "dc_title_s": "U.S. Hospitals (Geographic Names Information System), 2018",
+  "solr_geom": "ENVELOPE(-170.684444, 158.216389, 71.297234, -14.295278)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Geographic Names Information System Hospitals represents the Federal standard for geographic nomenclature and contains information about the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. The U.S. Geological Survey developed the Geographic Names Information System (GNIS) for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public.",
+  "dc_creator_sm": [
+    "United States Geological Survey",
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Health",
+    "Elevation",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Freely Associated States",
+    "U.S. Territories"
+  ],
+  "dct_temporal_sm": [
+    "1981",
+    "2018",
+    "1974-Present",
+    "2018"
+  ],
+  "solr_year_i": 1981,
+  "layer_modified_dt": "2019-06-27T19:36:39Z",
+  "layer_id_s": "restricted-figgy:p-5c55d03e-1bf5-4e13-8ad3-2af37b7ca97f",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d0812842-b6a7-4f52-8c00-3167c872bb46/file/5950f36b-cf7b-4230-a496-5f2060c84e98\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c55d03e-1bf5-4e13-8ad3-2af37b7ca97f/file/8e3340a7-75dc-4b82-8379-54c44c9eab3d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c55d03e-1bf5-4e13-8ad3-2af37b7ca97f/file/26a91e6e-5391-4205-be79-196e0b56d6da\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

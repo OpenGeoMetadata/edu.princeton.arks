@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Geographic Names Information System Building represents an automated inventory of the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories.",
   "dc_creator_sm": [
-    "United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -25,12 +24,14 @@
   ],
   "dct_temporal_sm": [
     "2000",
-    "unkn"
+    "unkn",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T18:44:40Z",
+  "layer_modified_dt": "2019-06-05T15:07:39Z",
   "layer_id_s": "restricted-figgy:p-b972e95e-603c-4271-8755-231273e9818c",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1e114cee-baa5-4c2e-a1fb-63ac28f68904/file/87dfbff8-5fb9-4274-a1b9-52d4d54bdccf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b972e95e-603c-4271-8755-231273e9818c/file/939596ca-25df-479a-9635-0494fb8a10a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b972e95e-603c-4271-8755-231273e9818c/file/796d0318-5319-41ef-8d8c-8f5634dd801e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

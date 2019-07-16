@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Roads and highways in Cumberland County, North Carolina, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
   "dc_creator_sm": [
-    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch",
-    "Boundary Solutions, Inc."
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
   ],
   "dc_subject_sm": [
     "Transportation"
@@ -23,12 +22,14 @@
     "Fort Bragg"
   ],
   "dct_temporal_sm": [
+    "2014",
     "2014"
   ],
   "solr_year_i": 2014,
-  "layer_modified_dt": "2018-06-13T18:21:51Z",
+  "layer_modified_dt": "2019-06-05T15:30:23Z",
   "layer_id_s": "restricted-figgy:p-55c4371e-023a-4f55-a010-5dc3c57e6cb9",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b9262941-536f-4aac-bd30-8dab72322649/file/b2326e8a-ebb2-4abf-b5e8-c83b18f27d43\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/55c4371e-023a-4f55-a010-5dc3c57e6cb9/file/2118a792-69f6-4194-a293-ecd3e20346d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/55c4371e-023a-4f55-a010-5dc3c57e6cb9/file/b2683b66-a2dd-4b94-a163-708e530b472c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2014-01-01T00:00:00Z"
 }

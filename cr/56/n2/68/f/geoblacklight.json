@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Canada Provinces represents the Canadian provinces and territories as well as coastline, international boundaries, provincial boundaries, and demographics.  The boundaries are digitized from CanMap®.",
   "dc_creator_sm": [
-    "DMTI Spatial Inc.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "DMTI Spatial Inc."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -19,12 +18,14 @@
   "dct_temporal_sm": [
     "1998",
     "1996",
-    "2000"
+    "2000",
+    "1999"
   ],
   "solr_year_i": 1998,
-  "layer_modified_dt": "2018-06-13T18:59:59Z",
+  "layer_modified_dt": "2019-06-05T14:50:25Z",
   "layer_id_s": "restricted-figgy:p-d5244e53-6028-41d4-ad2f-2872758c7801",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2376dbd4-d6da-4fc0-b03a-9be62ff1408d/file/4cee6d14-275f-4cec-beb8-d4f74314a583\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d5244e53-6028-41d4-ad2f-2872758c7801/file/503e5f92-2de8-418a-9d5a-5895e8dbcb54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d5244e53-6028-41d4-ad2f-2872758c7801/file/9eb51613-6031-4919-a5c3-9a31ef020243\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1999-01-01T00:00:00Z"
 }

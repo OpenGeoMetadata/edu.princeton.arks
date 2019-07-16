@@ -16,12 +16,14 @@
     "Canada"
   ],
   "dct_temporal_sm": [
-    "1992"
+    "1992",
+    "1999"
   ],
   "solr_year_i": 1992,
-  "layer_modified_dt": "2018-06-13T18:44:04Z",
+  "layer_modified_dt": "2019-06-05T15:08:24Z",
   "layer_id_s": "restricted-figgy:p-dfb43e92-0f60-4c27-8687-c9114581895e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/7eec9901-2049-4297-8363-862d25f3e355/file/7d1ec473-4045-4a7d-a75c-7ad5fba6ed59\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfb43e92-0f60-4c27-8687-c9114581895e/file/ef0326c0-0b72-47bf-8c9a-e8e59d1a70de\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfb43e92-0f60-4c27-8687-c9114581895e/file/6f37ae3f-f9f5-4b5d-b1b5-d6cba92d8e16\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1999-01-01T00:00:00Z"
 }

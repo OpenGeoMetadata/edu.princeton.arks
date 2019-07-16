@@ -4,21 +4,28 @@
   "layer_slug_s": "princeton-n583xw86g",
   "uuid": "princeton-n583xw86g",
   "dc_title_s": "Beijing: sheet 1.",
-  "solr_geom": "ENVELOPE(116.13333333333334, 116.26666666666667, 40.05, 39.93333333333333)",
+  "solr_geom": "ENVELOPE(116.1475, 116.266667, 40.050556, 39.940833)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "[United States. Central Intelligence Agency] Inset: Beijng environs (1:250,000). Verso: Index to numbered features identified on map:\"505393 12-82 \" One map in six sheets.",
+  "dc_description_s": "Inset: Relief map of Beijing region (1:250,000). Map shows administrative boundaries; governmental/ institutional, comercial/industrial and population density areas by color code. \"505393 12-82.\" Indexes and glossary on verso. Map is companion to 5 more sheet covering the Beijing area. PrEx 3.10/4:B 39/2/sheet 1-6. Inset: Beijng environs (1:250,000). Verso: Index to numbered features identified on map:\"505393 12-82 \" One map in six sheets. [United States. Central Intelligence Agency]",
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1982.",
   "dc_subject_sm": [
-    "Transportation",
+    "Beijing (China)—Maps",
+    "China—Maps",
     "Land use",
-    "China—Maps"
+    "Transportation"
   ],
-  "layer_modified_dt": "2018-06-07T06:30:41Z",
+  "dct_spatial_sm": [
+    "Beijing (China)"
+  ],
+  "layer_modified_dt": "2019-06-04T17:09:44Z",
   "layer_id_s": "public-figgy:p-79f3d663-05de-4943-b06e-e6d21baae691",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/dccb74af-f429-49ef-8bd3-c117e19d42e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/a29c5948-5d21-45fb-bcdb-70f08f5ad3e8\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/32%2Fcc%2Fb4%2F32ccb439faaa43aa8dc9e2643f6a3cb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0da481e3-df0c-4e51-b411-664dc472c64e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/dccb74af-f429-49ef-8bd3-c117e19d42e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/a29c5948-5d21-45fb-bcdb-70f08f5ad3e8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/32%2Fcc%2Fb4%2F32ccb439faaa43aa8dc9e2643f6a3cb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0da481e3-df0c-4e51-b411-664dc472c64e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.B4G4.1982.C4I5 (b) sh1"
+  "call_number_s": "G7824.B4 1982 .C4I5 (b) sh1"
 }

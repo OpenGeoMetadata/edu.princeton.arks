@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Tracts represents the U.S. Census tracts and block numbering areas (BNA) of the United States in the fifty states and the District of Columbia.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -19,12 +18,14 @@
   "dct_temporal_sm": [
     "1999",
     "1990",
+    "2000",
     "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:47:41Z",
+  "layer_modified_dt": "2019-06-05T15:08:39Z",
   "layer_id_s": "restricted-figgy:p-c8112bcd-2444-4d10-8570-2e61dfd5096a",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/afdc9cff-c12e-4de8-a6fc-835245113040/file/56b4785d-6b27-438b-8d21-18ac6b86ad82\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c8112bcd-2444-4d10-8570-2e61dfd5096a/file/20ee26c5-fc03-4b83-86de-556be26060d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c8112bcd-2444-4d10-8570-2e61dfd5096a/file/8475ef35-33de-45b9-9263-9636280cb30e\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

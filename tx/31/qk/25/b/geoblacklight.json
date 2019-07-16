@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "California Rivers represents streams and rivers within California.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "California"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:47:49Z",
+  "layer_modified_dt": "2019-06-05T15:08:30Z",
   "layer_id_s": "restricted-figgy:p-3d3ade9b-1342-4660-ac93-9dc50d3cc7b2",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3f9f27c4-ab5d-4f0f-92bb-c6edbfab5eb9/file/6036d3d7-dc4e-49c6-acf3-2aab1dd8b8ff\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3d3ade9b-1342-4660-ac93-9dc50d3cc7b2/file/66c45da4-1da7-42dc-bc3e-0077e4ad4b3a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d3ade9b-1342-4660-ac93-9dc50d3cc7b2/file/0b027b37-00bd-450a-890a-22207214dc49\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

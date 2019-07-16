@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Nevada Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Nevada.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Nevada"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:05:22Z",
+  "layer_modified_dt": "2019-06-05T14:45:48Z",
   "layer_id_s": "restricted-figgy:p-02b22ea2-f53d-41a5-81c8-883632e8e02f",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d49fb232-b4f1-4feb-8c12-912be43679e7/file/313c7d70-07b6-4bac-95ca-b455d6a57266\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/02b22ea2-f53d-41a5-81c8-883632e8e02f/file/a7426f67-e64c-4ca4-be9f-8b64bb786985\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/02b22ea2-f53d-41a5-81c8-883632e8e02f/file/186b6f9f-e1c6-4767-bf21-0b4797262d4c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

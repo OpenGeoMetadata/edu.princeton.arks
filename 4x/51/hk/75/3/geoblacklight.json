@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "District of Columbia Block Groups represents the U.S. Census block groups of District of Columbia.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:04:29Z",
+  "layer_modified_dt": "2019-06-05T14:46:44Z",
   "layer_id_s": "restricted-figgy:p-c1da224e-a5f5-47b7-8649-7709cea8a600",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d6b2e1fc-6f08-459f-8862-ce376d6e138d/file/4c498f6f-9263-4f6e-a892-fb4e811a9755\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1da224e-a5f5-47b7-8649-7709cea8a600/file/53d117c9-7f3d-43d3-91e4-093b622b95e3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1da224e-a5f5-47b7-8649-7709cea8a600/file/831866ec-5d5f-44e4-8e55-421507213fe2\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

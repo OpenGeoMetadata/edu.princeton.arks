@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "West Virginia Block Groups represents the U.S. Census block groups of West Virginia.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:03:52Z",
+  "layer_modified_dt": "2019-06-05T14:51:17Z",
   "layer_id_s": "restricted-figgy:p-7184c6ad-cc0c-4f35-85bf-0c2e5c37da07",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/263ee00d-9318-4d36-8a14-c4d385d90a85/file/60f5b2bf-0b99-4e08-b892-e08c66251054\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7184c6ad-cc0c-4f35-85bf-0c2e5c37da07/file/e0c2bf0e-79f8-423b-ac52-663cc0414c59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7184c6ad-cc0c-4f35-85bf-0c2e5c37da07/file/0893c006-e034-40ec-aae3-5007587f163b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

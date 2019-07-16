@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "North Dakota Block Groups represents the U.S. Census block groups of North Dakota.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T18:46:20Z",
+  "layer_modified_dt": "2019-06-05T15:06:04Z",
   "layer_id_s": "restricted-figgy:p-badad8f1-6286-4419-ab36-ae73ab443f6e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e1d9dcd8-88cd-4527-9c04-81d5329e7cda/file/9ad7ce27-a3c8-4528-92d0-0f0308c7d08d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/badad8f1-6286-4419-ab36-ae73ab443f6e/file/f8451351-46af-4d0e-a4dc-613e88261c69\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/badad8f1-6286-4419-ab36-ae73ab443f6e/file/d300ab36-21a4-4cbb-bad1-702f7ae5b914\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

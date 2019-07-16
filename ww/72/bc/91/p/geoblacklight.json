@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Urbanized Areas represents urban areas in the United States derived from the urban areas layer of the Digital Chart of the World (DCW).",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -22,12 +21,14 @@
   "dct_temporal_sm": [
     "1998",
     "1996",
-    "1994"
+    "1994",
+    "2002"
   ],
   "solr_year_i": 1998,
-  "layer_modified_dt": "2018-06-13T19:00:12Z",
+  "layer_modified_dt": "2019-06-05T14:50:08Z",
   "layer_id_s": "restricted-figgy:p-ee099fd6-1c9d-47d8-b020-c37b83d4abb4",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/748175e8-8a7c-4e95-a2e5-169d6cc5f7e7/file/b8ab455b-e54f-4a2f-9872-f8a71095e613\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee099fd6-1c9d-47d8-b020-c37b83d4abb4/file/4447e5d0-aa9f-4ab2-8fd8-4c701037ca49\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee099fd6-1c9d-47d8-b020-c37b83d4abb4/file/a3a7804d-9cf2-4a8e-9c82-d6c6f06b07e6\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

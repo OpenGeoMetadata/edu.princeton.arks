@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. GDT Transportation Terminals represents locations within United States for transportation terminals such as bus terminals, train stations, marine terminals, and other significant transportation nodes.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:46:46Z",
+  "layer_modified_dt": "2019-06-05T15:05:36Z",
   "layer_id_s": "restricted-figgy:p-856129ba-36ad-4529-914f-ace920f86789",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/f82601d3-7875-49a1-9fdf-6189eb7fd2f1/file/a8190743-d217-434b-937a-70de25cc988b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/856129ba-36ad-4529-914f-ace920f86789/file/913f7c81-ac89-4599-9777-61211d1a4d99\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/856129ba-36ad-4529-914f-ace920f86789/file/fa71e786-f4a1-4bd5-818d-35604d5757ff\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

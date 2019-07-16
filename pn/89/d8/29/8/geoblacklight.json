@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "South Carolina Block Groups represents the U.S. Census block groups of South Carolina.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -23,12 +22,14 @@
   ],
   "dct_temporal_sm": [
     "2002",
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:00:35Z",
+  "layer_modified_dt": "2019-06-05T14:49:45Z",
   "layer_id_s": "restricted-figgy:p-14d3c3fc-03ad-461f-9d00-6acfe2ef67d9",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fda82672-c805-4451-8aaf-f2cf84b0f1ff/file/28ac7f79-de39-4c24-aab2-ae8d214b55ac\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14d3c3fc-03ad-461f-9d00-6acfe2ef67d9/file/aff1a306-3472-45bf-8b3d-c0e67c7e3c33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14d3c3fc-03ad-461f-9d00-6acfe2ef67d9/file/812b04a5-7f46-442e-9fcb-8ec3b65293c0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

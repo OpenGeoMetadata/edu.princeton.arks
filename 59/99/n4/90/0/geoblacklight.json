@@ -20,12 +20,14 @@
     "North Dakota"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:01:20Z",
+  "layer_modified_dt": "2019-06-05T14:49:31Z",
   "layer_id_s": "restricted-figgy:p-033e5852-0409-486c-8761-d48cb7330afa",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0db442cd-81d4-4a6b-895b-3466c4888c19/file/13cc84db-ca04-4a8a-b2d4-a8139870d1b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/033e5852-0409-486c-8761-d48cb7330afa/file/4dec0f6d-6b61-4b57-b396-676a1431d011\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/033e5852-0409-486c-8761-d48cb7330afa/file/2312a8c0-ab3b-4113-bf9a-fa76dcbf589b\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

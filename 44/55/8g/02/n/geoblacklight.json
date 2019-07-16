@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Alaska Rivers represents streams and rivers within Alaska.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Alaska"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:47:24Z",
+  "layer_modified_dt": "2019-06-05T15:09:01Z",
   "layer_id_s": "restricted-figgy:p-15f94305-3c22-40af-81f1-2ca8902c3444",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bdf8d0d4-66a4-4eb7-9741-7744a858fbd4/file/2cfc2ad6-f51f-4682-8394-a5feb3b21690\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/15f94305-3c22-40af-81f1-2ca8902c3444/file/83e61a7e-0e79-4218-a404-6b35aa2a0c16\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/15f94305-3c22-40af-81f1-2ca8902c3444/file/257bd895-6250-4c6c-ad6e-73d5960a9f2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

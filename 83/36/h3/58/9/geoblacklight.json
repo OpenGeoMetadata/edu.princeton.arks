@@ -19,12 +19,14 @@
     "Chandigarh"
   ],
   "dct_temporal_sm": [
-    "2001"
+    "2001",
+    "2006"
   ],
   "solr_year_i": 2001,
-  "layer_modified_dt": "2018-06-13T17:59:13Z",
+  "layer_modified_dt": "2019-06-05T17:10:37Z",
   "layer_id_s": "restricted-figgy:p-367f835b-f582-4ce0-8386-01381a7dc396",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/262c7ab2-60fc-4367-a2c9-af067a78d2b5/file/e72aa02b-2b0d-4c17-a000-fcad95398509\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/367f835b-f582-4ce0-8386-01381a7dc396/file/25320b63-bc84-488f-b7bb-abf382eead9d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/367f835b-f582-4ce0-8386-01381a7dc396/file/1012e3a2-e797-4784-a284-6f06d7ad8416\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2006-01-01T00:00:00Z"
 }

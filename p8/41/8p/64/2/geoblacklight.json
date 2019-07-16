@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of greater than or equal to 250 passengers per year.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -22,12 +21,14 @@
     "1999",
     "1998",
     "1997",
-    "1994–1996"
+    "1994–1996",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:48:24Z",
+  "layer_modified_dt": "2019-06-05T15:02:52Z",
   "layer_id_s": "restricted-figgy:p-8dffaced-1794-438c-9151-8b120ccf96fe",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/bba00e11-472e-4809-8935-6f167ff1a7f8/file/504ef223-f794-471b-a561-fed35a0576d8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8dffaced-1794-438c-9151-8b120ccf96fe/file/a9ff2468-7189-402c-a719-5edeb3f8787b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8dffaced-1794-438c-9151-8b120ccf96fe/file/9b6e7390-9b86-4ac3-9682-148d8417f2bd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

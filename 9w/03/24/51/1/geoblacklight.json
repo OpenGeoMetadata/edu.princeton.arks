@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Alabama Rivers represents streams and rivers within Alabama.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Alabama"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T18:46:11Z",
+  "layer_modified_dt": "2019-06-05T15:06:15Z",
   "layer_id_s": "restricted-figgy:p-ee89e11c-46a0-45ed-a05c-3262864dfb38",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4e52065a-72bc-405a-96ac-2ba860a40c47/file/06cc3d61-9614-4734-b793-f24fa45f234a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ee89e11c-46a0-45ed-a05c-3262864dfb38/file/3fb9af8e-5975-4ed5-9469-d1679470e789\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ee89e11c-46a0-45ed-a05c-3262864dfb38/file/fa98d123-b0d6-44e2-827f-1241ea76af04\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

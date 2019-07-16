@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Connecticut Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Connecticut.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Connecticut"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:58:11Z",
+  "layer_modified_dt": "2019-06-05T14:53:13Z",
   "layer_id_s": "restricted-figgy:p-af8ac81b-e552-46c6-9df2-8f0b36b2d268",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/1d002f17-8fb2-47ef-b4ef-970cd17bbb6b/file/44316345-a5fa-4bbd-9dce-518535b3dbdd\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af8ac81b-e552-46c6-9df2-8f0b36b2d268/file/7f5f4868-35f9-475b-9c76-9c116c63a222\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af8ac81b-e552-46c6-9df2-8f0b36b2d268/file/b19ca720-14c6-4301-948f-6766d10562fd\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

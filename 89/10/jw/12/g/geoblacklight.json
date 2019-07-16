@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Europe Provinces represents provinces or province-like areas for Europe.",
   "dc_creator_sm": [
-    "AND Data Solutions, B.V.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "AND Data Solutions, B.V."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -20,12 +19,14 @@
     "Europe"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:58:05Z",
+  "layer_modified_dt": "2019-06-05T14:53:20Z",
   "layer_id_s": "restricted-figgy:p-efd874b2-e4d9-46b2-addf-8e64183e08cf",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/458a3fa5-4886-46dc-89d8-08f0b68038fe/file/3c616c0a-3178-47cf-ba7e-0688c1faaab3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/efd874b2-e4d9-46b2-addf-8e64183e08cf/file/e142a788-7559-4b95-94b1-7f44bcbe52bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/efd874b2-e4d9-46b2-addf-8e64183e08cf/file/1a88d84d-497f-49fd-8b40-81829af4cf2c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

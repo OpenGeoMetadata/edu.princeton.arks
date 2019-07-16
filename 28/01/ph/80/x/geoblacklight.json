@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Idaho Rivers represents streams and rivers within Idaho.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Idaho"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T19:06:11Z",
+  "layer_modified_dt": "2019-06-05T14:45:20Z",
   "layer_id_s": "restricted-figgy:p-51fe1a94-8c18-4604-8a14-46235b82536e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/84d2a5a4-802a-4c36-91b9-7fbb7a3657a9/file/86266760-aa56-406e-b74b-0f12be8e6341\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51fe1a94-8c18-4604-8a14-46235b82536e/file/a00ab29a-b71e-44a8-ab0f-332068b8c1d3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51fe1a94-8c18-4604-8a14-46235b82536e/file/511f3681-9190-45e7-baca-23ca4ec8e98c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

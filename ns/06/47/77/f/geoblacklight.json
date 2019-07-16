@@ -20,12 +20,14 @@
     "Hawaii"
   ],
   "dct_temporal_sm": [
-    "2000"
+    "2000",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:03:31Z",
+  "layer_modified_dt": "2019-06-05T14:51:41Z",
   "layer_id_s": "restricted-figgy:p-5bb6b5f1-ad00-40dc-843e-016f6c8f5f79",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a403edb4-b924-456c-b200-dd15a9d4de2d/file/7211f7ad-4d29-4cd8-a7a9-b9f4191823d5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5bb6b5f1-ad00-40dc-843e-016f6c8f5f79/file/c8839658-7064-4266-aad1-dac5f7eee081\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5bb6b5f1-ad00-40dc-843e-016f6c8f5f79/file/3bfc5912-b868-4c5e-a948-ef09e47d0994\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

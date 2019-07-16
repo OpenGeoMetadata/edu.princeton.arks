@@ -7,18 +7,25 @@
   "solr_geom": "ENVELOPE(-87.883333, 87.95, 15.466667, 15.416667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. National Imagery Mapping Agency North Decimal Degree 15.466667 South Decimal Degree 15.416667 East Decimal Degree -87.883333 West Decimal Degree 87.950000 Alternate title: La Lima. Transverse Mercator projection. Alternate title: La Lima. \"Reprinted by NIMA 08-00.\" \"Compiled in 1990 from best available sources.\" With a glossary. Relief shown by 20 meter contour intervals and spot elevation.",
-  "dc_language_s": "spa",
-  "dc_publisher_s": "Bethesda, Md. : Reprinted by National Imagery and Mapping Agency, 1991.",
-  "dc_subject_sm": [
-    "Geomorphology",
-    "Topographic maps",
-    "Honduras—Maps"
+  "dc_description_s": "Relief shown by contours and spot heights. Contour interval 20 meters, supplementary contours 10 meters. Includes street index, location map, boundaries map, glossry, and notes. \"Reprinted by NIMA 08-00.\" \"NIMA REF. NO. E952XLALIMA.\" North Decimal Degree 15.466667 South Decimal Degree 15.416667 East Decimal Degree -87.883333 United States. National Imagery Mapping Agency Alternate title: La Lima. Transverse Mercator projection. Alternate title: La Lima. \"Reprinted by NIMA 08-00.\" \"Compiled in 1990 from best available sources.\" With a glossary. Relief shown by 20 meter contour intervals and spot elevation. West Decimal Degree 87.950000",
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency. Hydrographic/Topographic Center"
   ],
-  "layer_modified_dt": "2019-01-28T04:22:47Z",
+  "dc_language_s": "spa",
+  "dc_publisher_s": "Washington, D.C. : Defense Mapping Agency Hydrographic/Topographic Center [1991]",
+  "dc_subject_sm": [
+    "La Lima (Honduras)—Maps",
+    "Topographic maps",
+    "Honduras—Maps",
+    "Geomorphology"
+  ],
+  "dct_spatial_sm": [
+    "Honduras"
+  ],
+  "layer_modified_dt": "2019-06-04T19:30:00Z",
   "layer_id_s": "public-figgy:p-fdcc01aa-74de-4fc3-80b9-fbba159e45e0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449583\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ddca6074-c830-44f5-8cb0-58297504bcad/file/ffa8f6e1-8cfd-4a2f-ad8c-dea3551c6392\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fdcc01aa-74de-4fc3-80b9-fbba159e45e0/file/090a4b2b-c33d-4b2c-9ae7-f4e7293c004b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdcc01aa-74de-4fc3-80b9-fbba159e45e0/file/d07de132-d67e-40fc-b220-7ac4b7608d24\",\"http://iiif.io/api/image\":\"https://libimages1.princeton.edu/loris/figgy_prod/f5%2Fa6%2Fcb%2Ff5a6cb9f276b4eeab622b1c1b64965dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a9f2805-a17f-45c3-a998-5480e1091aa3/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449583\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ddca6074-c830-44f5-8cb0-58297504bcad/file/ffa8f6e1-8cfd-4a2f-ad8c-dea3551c6392\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fdcc01aa-74de-4fc3-80b9-fbba159e45e0/file/090a4b2b-c33d-4b2c-9ae7-f4e7293c004b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdcc01aa-74de-4fc3-80b9-fbba159e45e0/file/d07de132-d67e-40fc-b220-7ac4b7608d24\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f5%2Fa6%2Fcb%2Ff5a6cb9f276b4eeab622b1c1b64965dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a9f2805-a17f-45c3-a998-5480e1091aa3/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G4834.L35C2.1991.D4M3"
+  "call_number_s": "G4834.L35C2 1991 .D4M3"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.",
   "dc_creator_sm": [
-    "Tele Atlas North America, Inc.",
-    "ESRI"
+    "Tele Atlas North America, Inc."
   ],
   "dc_publisher_s": "ESRI",
   "dc_subject_sm": [
@@ -22,12 +21,14 @@
   ],
   "dct_temporal_sm": [
     "2007",
-    "2006"
+    "2006",
+    "2008"
   ],
   "solr_year_i": 2007,
-  "layer_modified_dt": "2018-06-13T18:59:47Z",
+  "layer_modified_dt": "2019-06-05T14:50:35Z",
   "layer_id_s": "restricted-figgy:p-7069cf48-771d-411d-ae03-1d64828784ca",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab01657f-bdb5-4c32-ab6d-ccc88d35190d/file/31d4dc6f-3234-4b51-ac93-14f460b6d4b0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7069cf48-771d-411d-ae03-1d64828784ca/file/eb7ae8cb-9d9d-43a5-99b4-478ed9c1e818\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7069cf48-771d-411d-ae03-1d64828784ca/file/8cc9fdf0-a0d1-4664-a955-2d8ee1274a01\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2008-01-01T00:00:00Z"
 }

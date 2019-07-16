@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/2514nq64k",
+  "layer_slug_s": "princeton-2514nq64k",
+  "uuid": "princeton-2514nq64k",
+  "dc_title_s": "U.S. Major Highways, 2008",
+  "solr_geom": "ENVELOPE(-159.779918, -66.981845, 65.826906, 19.058082)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. Major Highways represents the major highways of the United States. These include interstates, U.S. highways, state highways, and major roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1 and 2 road segments plus any other road segments necessary to provide network connectivity for the Class_Rte field.",
+  "dc_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Location",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2008",
+    "2018"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2019-07-16T17:45:19Z",
+  "layer_id_s": "restricted-figgy:p-d1f32780-c797-4f82-a18a-7f44e7b3b8a9",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ccb871dd-d7f7-4587-bdcb-6ac8f6010e99/file/9ac8b517-502a-43e4-bcd1-63cd9f5ba717\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1f32780-c797-4f82-a18a-7f44e7b3b8a9/file/ea6d9baf-f7f5-41a9-ad5d-12677e661bfd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1f32780-c797-4f82-a18a-7f44e7b3b8a9/file/19177a98-e203-43d7-abcd-9bedef39d3aa\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

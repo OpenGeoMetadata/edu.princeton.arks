@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Canada Municipalities represents the municipalities (townships) within Canada of types including cities, cantons, hamlets, towns/ville, villages, Indian reserves, parishes/paroisse, communities, unorganized, districts, and terre Inuite. The boundaries are digitized from CanMap®.",
   "dc_creator_sm": [
-    "DMTI Spatial Inc.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "DMTI Spatial Inc."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
   ],
   "dct_temporal_sm": [
     "2000",
-    "1996"
+    "1996",
+    "2002"
   ],
   "solr_year_i": 2000,
-  "layer_modified_dt": "2018-06-13T19:02:32Z",
+  "layer_modified_dt": "2019-06-05T14:48:04Z",
   "layer_id_s": "restricted-figgy:p-2905be2e-18ab-4b8a-97a1-fa6a1df63886",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d67996b8-6cac-4468-ba12-43194f9b0ace/file/78b725b8-1ca5-4f17-8a1b-d874b831fbcf\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2905be2e-18ab-4b8a-97a1-fa6a1df63886/file/d6a8d08a-1922-42e8-ad31-0528a6e40b4b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2905be2e-18ab-4b8a-97a1-fa6a1df63886/file/884aeb4e-bfca-4602-9046-705f249d97bc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

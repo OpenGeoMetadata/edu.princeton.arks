@@ -9,20 +9,21 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Major Roads represents interstate, U.S., and state highways and other major thoroughfares within the United States.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:00:18Z",
+  "layer_modified_dt": "2019-06-05T14:50:02Z",
   "layer_id_s": "restricted-figgy:p-5d8fbccb-378d-4b34-a5e9-6b7281b5c85d",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/784ffd20-97f7-49cd-b426-fad57c8cfabd/file/0abbd442-7264-42e1-8f89-06352056329c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d8fbccb-378d-4b34-a5e9-6b7281b5c85d/file/64492926-7519-4da3-8592-46179d96de56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d8fbccb-378d-4b34-a5e9-6b7281b5c85d/file/3a7c43d8-c450-4029-a125-1b33ada3d0c1\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

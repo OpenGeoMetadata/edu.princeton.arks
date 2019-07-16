@@ -9,9 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. Parks represents National Parks, National Forests, State and local parks and forests within United States.",
   "dc_creator_sm": [
-    "National Park Service",
-    "Environmental Systems Research Institute, Inc. (ESRI)",
-    "Geographic Data Technology, Inc. (GDT)"
+    "National Park Service"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -19,12 +17,14 @@
   ],
   "dct_temporal_sm": [
     "1992",
-    "1997"
+    "1997",
+    "2000"
   ],
   "solr_year_i": 1992,
-  "layer_modified_dt": "2018-06-13T18:46:35Z",
+  "layer_modified_dt": "2019-06-05T15:05:45Z",
   "layer_id_s": "restricted-figgy:p-ebf42c97-5234-48dd-a463-92947ba42644",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/39c1139f-1b64-4ea9-ad07-6f53e5b29ad5/file/8af196fb-033a-4121-8e2d-371c618559da\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ebf42c97-5234-48dd-a463-92947ba42644/file/b216ea9d-595a-4294-b418-c22445f0cd8e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ebf42c97-5234-48dd-a463-92947ba42644/file/f8a127f9-dfb1-4635-b913-78da4061fd33\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

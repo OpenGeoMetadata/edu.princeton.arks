@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "U.S. National Atlas Historic Earthquakes represents the locations of significant, historic earthquakes in United States and adjacent Canada and Mexico that caused deaths, property damage, and geological effects, or were otherwise experienced by the resident populations.",
   "dc_creator_sm": [
-    "National Atlas of the United States and the United States Geological Survey",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "National Atlas of the United States and the United States Geological Survey"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dct_spatial_sm": [
@@ -25,12 +24,14 @@
     "1568–1989",
     "1638–1970",
     "1990–1996",
-    "1568"
+    "1568",
+    "2002"
   ],
   "solr_year_i": 1568,
-  "layer_modified_dt": "2018-06-13T19:01:00Z",
+  "layer_modified_dt": "2019-06-05T14:54:02Z",
   "layer_id_s": "restricted-figgy:p-6e44028b-0eb6-492d-8502-46cca0f41bce",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/aae0a043-e778-4f05-ac8a-ad37017de4b3/file/7a0518c1-d7a8-482d-83d1-4d8ae6f4c5f3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6e44028b-0eb6-492d-8502-46cca0f41bce/file/95fad96a-e0e7-4bc6-b458-494b0007b4a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6e44028b-0eb6-492d-8502-46cca0f41bce/file/e6af5e13-c678-4561-884d-6ef1073eee1c\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Point",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

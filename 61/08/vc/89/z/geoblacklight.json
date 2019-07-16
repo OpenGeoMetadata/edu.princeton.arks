@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "North Carolina Major Roads represents interstate, U.S., and state highways and other major thoroughfares within North Carolina.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "North Carolina"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T19:06:35Z",
+  "layer_modified_dt": "2019-06-05T14:45:01Z",
   "layer_id_s": "restricted-figgy:p-a9914801-4fb0-46df-a4f3-3eeac26d3442",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/89bb77de-1281-47cf-9330-94f9c9c9be96/file/81317a35-a717-4859-a202-8a85b6765eec\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9914801-4fb0-46df-a4f3-3eeac26d3442/file/3bf6d78a-2c7e-4911-9aca-339b41dc3cf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9914801-4fb0-46df-a4f3-3eeac26d3442/file/beebbef1-bb05-44f3-9013-9d61db159d45\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Washington Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Washington.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Washington"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2002"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:42:12Z",
+  "layer_modified_dt": "2019-06-05T15:13:31Z",
   "layer_id_s": "restricted-figgy:p-dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2c281554-ca66-4a96-a1e7-50eefa30c34b/file/9cb556f7-d5ea-4cd2-86d0-1ed5ae702dde\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71/file/25a910e4-4d8e-41a7-a466-51b8156f1a88\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc714fc2-ad9a-4b7a-adbc-7e67d8ee3f71/file/79ab9528-262e-4af6-818b-63658cf86889\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

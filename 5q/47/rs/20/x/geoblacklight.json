@@ -6,7 +6,7 @@
   "dc_title_s": "Q3 flood data, Arkansas",
   "solr_geom": "ENVELOPE(-94.617709, -89.642186, 36.499963, 33.008368)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Q3 flood data for Arkansas, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.",
   "dc_creator_sm": [
     "Federal Emergency Management Agency"
@@ -87,12 +87,14 @@
     "Van Buren"
   ],
   "dct_temporal_sm": [
-    "1996"
+    "1996",
+    "1998"
   ],
   "solr_year_i": 1996,
-  "layer_modified_dt": "2018-06-13T18:36:44Z",
-  "layer_id_s": "restricted-figgy:p-0063ebeb-7623-462a-a8dc-846f0b87bf38",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e508bc8d-7f82-45fd-9374-8912d4266ab0/file/cdd7589f-0e4a-43a1-919a-d37646e1dcfa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0063ebeb-7623-462a-a8dc-846f0b87bf38/file/9bf41f81-a2ca-4dc9-ba74-e0f7f7ef6f52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0063ebeb-7623-462a-a8dc-846f0b87bf38/file/da22df25-768c-4f82-969f-fcbfad1ffa74\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_modified_dt": "2019-06-05T14:42:08Z",
+  "layer_id_s": "public-figgy:p-0063ebeb-7623-462a-a8dc-846f0b87bf38",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e508bc8d-7f82-45fd-9374-8912d4266ab0/file/cdd7589f-0e4a-43a1-919a-d37646e1dcfa\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0063ebeb-7623-462a-a8dc-846f0b87bf38/file/9bf41f81-a2ca-4dc9-ba74-e0f7f7ef6f52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0063ebeb-7623-462a-a8dc-846f0b87bf38/file/da22df25-768c-4f82-969f-fcbfad1ffa74\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "1998-01-01T00:00:00Z"
 }

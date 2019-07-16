@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Rhode Island Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Rhode Island.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -24,12 +23,14 @@
   "dct_temporal_sm": [
     "2002",
     "2000",
-    "2001"
+    "2001",
+    "2002"
   ],
   "solr_year_i": 2002,
-  "layer_modified_dt": "2018-06-13T19:06:07Z",
+  "layer_modified_dt": "2019-06-05T14:45:25Z",
   "layer_id_s": "restricted-figgy:p-6eda86b8-4978-460a-9577-bfab7150db5b",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6245aea6-6a62-48a7-95e2-6685ea4d9f0a/file/6fbc6862-39f0-4bba-9d1e-dad9d6055815\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6eda86b8-4978-460a-9577-bfab7150db5b/file/ca9e0769-6a05-465e-bd49-835319296013\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6eda86b8-4978-460a-9577-bfab7150db5b/file/ca81608e-89d6-41d1-b626-a4f3a935b735\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }

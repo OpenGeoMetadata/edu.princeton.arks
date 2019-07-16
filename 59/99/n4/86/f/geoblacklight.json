@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Europe Roads represents the roads of Europe.",
   "dc_creator_sm": [
-    "AND Data Solutions, B.V.",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "AND Data Solutions, B.V."
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -20,12 +19,14 @@
     "Europe"
   ],
   "dct_temporal_sm": [
-    "1999"
+    "1999",
+    "2000"
   ],
   "solr_year_i": 1999,
-  "layer_modified_dt": "2018-06-13T18:42:53Z",
+  "layer_modified_dt": "2019-06-05T15:12:42Z",
   "layer_id_s": "restricted-figgy:p-8a6acd94-76c8-49bf-a21b-bac2562fca83",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/16292e1d-be0a-4139-9392-d353772f19b3/file/be882022-6ffa-4fe0-9ecd-dbebd37a68b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8a6acd94-76c8-49bf-a21b-bac2562fca83/file/2f5e9498-23a7-4ebf-9181-9224cce22280\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8a6acd94-76c8-49bf-a21b-bac2562fca83/file/3eab3cd9-d7d7-4d67-a01b-5ee83cf4ca43\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2000-01-01T00:00:00Z"
 }

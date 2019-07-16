@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/41687n60k",
+  "layer_slug_s": "princeton-41687n60k",
+  "uuid": "princeton-41687n60k",
+  "dc_title_s": "U.S. National Atlas Airports, 2012",
+  "solr_geom": "ENVELOPE(-176.646047, -64.80172, 71.285448, 17.701559)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "U.S. National Atlas Airports represents airports in the United States, Puerto Rico, and U.S. Virgin Islands with airport passenger enplanements of 25 passengers or more per year.",
+  "dc_creator_sm": [
+    "National Atlas of the United States and the United States Geological Survey",
+    "Esri"
+  ],
+  "dc_publisher_s": "Esri",
+  "dc_subject_sm": [
+    "Location",
+    "Transportation",
+    "Elevation"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "U.S. Virgin Islands",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2012",
+    "2018"
+  ],
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2019-06-27T19:36:41Z",
+  "layer_id_s": "restricted-figgy:p-9cc80e20-2fb4-4ec0-b415-4896cc57aa59",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b89dafbb-9e46-4bc6-8eb5-a8053648d3d2/file/351a14e2-e07c-4e17-87b4-339ba4767b80\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9cc80e20-2fb4-4ec0-b415-4896cc57aa59/file/97590c66-de09-41d6-a13b-70442fcf4c13\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9cc80e20-2fb4-4ec0-b415-4896cc57aa59/file/1d5b9123-3d95-4953-acab-52afa11c9014\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Point",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2018-01-01T00:00:00Z"
+}

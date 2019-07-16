@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/cz30px735",
+  "layer_slug_s": "princeton-cz30px735",
+  "uuid": "princeton-cz30px735",
+  "dc_title_s": "China Economic Census Data by county, 2004",
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 18.160896)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Data collected in China's 2004 economic census, displayed at the county level.",
+  "dc_creator_sm": [
+    "All China Marketing Research Co., Ltd."
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2004",
+    "2010"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2019-06-05T14:41:56Z",
+  "layer_id_s": "restricted-figgy:p-0bca8663-1620-418b-95f0-a974ef2e8aa4",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8afe4b42-f7d5-47c6-92e1-9efe4f260944/file/c2e109fb-d2d8-4182-a25a-3708ecc90323\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0bca8663-1620-418b-95f0-a974ef2e8aa4/file/845128aa-b83b-4f05-ae31-ae255b8f0833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0bca8663-1620-418b-95f0-a974ef2e8aa4/file/ff6f4a81-9a35-4b36-85ba-27c7fb9d1fdc\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2010-01-01T00:00:00Z"
+}

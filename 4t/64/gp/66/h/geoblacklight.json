@@ -9,8 +9,7 @@
   "dc_rights_s": "Restricted",
   "dc_description_s": "Colorado Rivers represents streams and rivers within Colorado.",
   "dc_creator_sm": [
-    "Geographic Data Technology, Inc. (GDT)",
-    "Environmental Systems Research Institute, Inc. (ESRI)"
+    "Geographic Data Technology, Inc. (GDT)"
   ],
   "dc_publisher_s": "Environmental Systems Research Institute, Inc. (ESRI)",
   "dc_subject_sm": [
@@ -21,12 +20,14 @@
     "Colorado"
   ],
   "dct_temporal_sm": [
-    "1997"
+    "1997",
+    "2002"
   ],
   "solr_year_i": 1997,
-  "layer_modified_dt": "2018-06-13T19:07:11Z",
+  "layer_modified_dt": "2019-06-05T14:44:29Z",
   "layer_id_s": "restricted-figgy:p-dd682435-2d24-451e-a927-d1e8fdc0a72e",
   "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/466e50d6-9995-482b-b3eb-b67dead9a369/file/bacc63c8-e0a8-4204-b187-73f5ed250eba\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dd682435-2d24-451e-a927-d1e8fdc0a72e/file/56342506-05a5-4a42-ba5b-6cce48d1e20b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dd682435-2d24-451e-a927-d1e8fdc0a72e/file/13bae714-f349-4cd9-a3be-6f14f883e3fe\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
   "layer_geom_type_s": "Line",
-  "dc_format_s": "Shapefile"
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2002-01-01T00:00:00Z"
 }
