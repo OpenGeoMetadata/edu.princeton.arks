@@ -1,0 +1,59 @@
+{
+  "id": "princeton-v118rh94d",
+  "dct_title_s": "Summit County, Ohio land parcels, 2008",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "The Parcel Regions layer contains polygons depicting the taxable areas of parcels for all of Summit County, Ohio, 2008. The dataset is maintained in an ESRI ARC/INFO LIBRARIAN database. Multiple spatially-identical polygons may exist for parcels where multiple tax rates are applied to the same property. Areas of properties that exist within road right-of-ways are not included in this dataset, as they are not taxed (To determine the legal boundary of any parcel, its recorded survey or legal description should be referenced). Several attribute fields from the Summit County Fiscal Office's CAMA database are included in this dataset."
+  ],
+  "dct_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dct_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "tax",
+    "Planning and Cadastral"
+  ],
+  "dcat_theme_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Ohio",
+    "Summit",
+    "Summit County",
+    "Akron",
+    "Cleveland"
+  ],
+  "dct_temporal_sm": [
+    "2008",
+    "2008"
+  ],
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:43:18Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/66f95c6f-8d0d-46af-b29c-cd73dbd66ac0/file/74c28891-d770-4f6c-ae44-0dec1ddef2ad\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4ee20201-d123-4c74-b73a-11e163b7164c/file/d4519eff-2ce5-4c72-b305-a9447bd3e151\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4ee20201-d123-4c74-b73a-11e163b7164c/file/9a460327-0923-496e-af78-27d6ad84dd5a\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/21/bb/95/21bb9551797c486294a021a0ac9555a6/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2008",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/v118rh94d"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-81.688378, -81.391717, 41.35127, 40.906581)",
+  "dcat_bbox": "ENVELOPE(-81.688378, -81.391717, 41.35127, 40.906581)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

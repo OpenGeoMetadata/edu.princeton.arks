@@ -1,0 +1,77 @@
+{
+  "id": "princeton-r207ts76f",
+  "dct_title_s": "Q3 flood data, Kansas",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Q3 flood data for Kansas, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000."
+  ],
+  "dct_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_publisher_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dcat_theme_sm": [
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Kansas",
+    "Barton County",
+    "Butler County",
+    "Douglas County",
+    "Johnson County",
+    "Reno County",
+    "Saline County",
+    "Sedgwick County",
+    "Shawnee County",
+    "Barton",
+    "Butler",
+    "Douglas",
+    "Johnson",
+    "Reno",
+    "Saline",
+    "Sedgwick",
+    "Shawnee"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:37:05Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4ede2214-4b5c-404f-bca4-556cc29c7fda/file/10b8767b-69b3-44a3-80f4-4e172d533ce0\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9348c83-298e-44f4-9040-64f41d0a7dad/file/5589e1a4-34ac-400b-be29-cfb672a58783\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9348c83-298e-44f4-9040-64f41d0a7dad/file/d1538dde-acd0-41da-a462-cdbf34bdc7e0\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/14/56/b5/1456b5cd591d47f08a931375d9b18904/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "1998",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/r207ts76f"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-99.033088, -94.607149, 39.216674, 37.473874)",
+  "dcat_bbox": "ENVELOPE(-99.033088, -94.607149, 39.216674, 37.473874)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "princeton-dcbz60d685j",
+  "dct_title_s": "Russia housing data from 2010 census (by municipality)",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Official housing data from the 2010 Russian census. Data are presented at the municipality level."
+  ],
+  "dct_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_subject_sm": [
+    "census",
+    "population",
+    "demographics",
+    "housing",
+    "households",
+    "occupancy",
+    "occupants",
+    "Society"
+  ],
+  "dcat_theme_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Russia",
+    "Russian Federation"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdModified_dt": "2025-11-04T09:51:22Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/09fef2d0-a36d-440f-9a79-fc1169bc6edb/file/753609cb-8e6c-4eda-b6b0-911032932316\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/88c109ae-3df5-4ef6-857d-fd592a76775c/file/a8de5cc1-5e7c-45b9-8fdd-29ff13a98f26\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/88c109ae-3df5-4ef6-857d-fd592a76775c/file/472495c5-7806-4c38-a5ee-80eb39852f28\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/0d/d7/6a/0dd76a64633c48ac8a05250933840511/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2021",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/dcbz60d685j"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(19.638645, 179.999996, 81.856987, 41.185609)",
+  "dcat_bbox": "ENVELOPE(19.638645, 179.999996, 81.856987, 41.185609)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

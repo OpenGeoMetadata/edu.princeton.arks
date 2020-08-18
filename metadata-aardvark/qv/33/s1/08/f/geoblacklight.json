@@ -1,0 +1,67 @@
+{
+  "id": "princeton-qv33s108f",
+  "dct_title_s": "Q3 flood data, Delaware",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Q3 flood data for Delaware, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000."
+  ],
+  "dct_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_publisher_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dcat_theme_sm": [
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Kent County",
+    "New Castle County",
+    "Sussex County",
+    "Kent",
+    "New Castle",
+    "Sussex",
+    "Delaware"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:37:05Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6529b70a-2bd4-4d79-95ed-80e60efea0ec/file/ca4d774e-0337-4abc-bcb9-1756703ce325\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cc72f303-69fe-4f5e-900a-7229c0ccaf04/file/c46b0f21-0dcc-4691-84dd-a5a0e57d1b0e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc72f303-69fe-4f5e-900a-7229c0ccaf04/file/3644e494-e09d-4317-ad26-949c0bb79237\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/af/2a/8e/af2a8eb1f8ff4d949ad41368c6da3ff3/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "1998",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/qv33s108f"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-75.789089, -75.045449, 39.839318, 38.450909)",
+  "dcat_bbox": "ENVELOPE(-75.789089, -75.045449, 39.839318, 38.450909)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

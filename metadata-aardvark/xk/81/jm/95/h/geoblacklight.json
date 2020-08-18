@@ -1,0 +1,50 @@
+{
+  "id": "princeton-xk81jm95h",
+  "dct_title_s": "Canada FSA Postal Centroids 2000",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Canada FSA Postal Centroids represents the Forward Sortation Areas (FSA) of Canada as centroids, which are identified by the first three characters of the postal code. The sequence of the three-character FSA is always Alphabetical character/Number/Alphabetical character. The centroids are calculated from the DMTI Spatial FSA boundary file, which is created from the DMTI Spatial six-character postal code point file and CanMap®. The FSA boundaries encompass the six-character postal code points starting with that FSA designation, and conform to the streets and other physical features within CanMap."
+  ],
+  "dct_creator_sm": [
+    "DMTI Spatial Inc."
+  ],
+  "dct_publisher_sm": [
+    "Environmental Systems Research Institute, Inc. (ESRI)"
+  ],
+  "dct_subject_sm": [
+    "point",
+    "postal codes",
+    "forward sortation areas",
+    "three-character postal codes"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "1996",
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:46:03Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/d8ae8c3c-2263-44df-a18e-b9da4898317b/file/174f6a72-1330-412a-bc87-9278ea28d3b8\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c31007d5-9e63-4dae-a7d8-358c53f089dc/file/41d53bdf-433f-4c05-bfe8-650a76ad696a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c31007d5-9e63-4dae-a7d8-358c53f089dc/file/5790fd28-b604-45cf-948b-44a7fdf1df94\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/d4/49/aa/d449aa00546c486ba690184d8315ee3b/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2000",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/xk81jm95h"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-135.066895, -52.711426, 70.780014, 42.033581)",
+  "dcat_bbox": "ENVELOPE(-135.066895, -52.711426, 70.780014, 42.033581)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

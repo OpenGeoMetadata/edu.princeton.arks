@@ -1,0 +1,55 @@
+{
+  "id": "princeton-5t34sp578",
+  "dct_title_s": "Chile census areas, 2017 (Zonas Censales)",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "The division of the Census District in urban areas, formed by a conglomerate of blocks. Its purpose is to facilitate the organization, control, and survey of the Census. In small towns, the map of the entire population center may be equivalent to a single census area. Census areas are recognized in the cartography because they present a code in which the first value is the number of the district to which it belongs, followed by the number of zone within that same district, in addition its numbering correlates with 1 to N within the district.\r\n\t  \r\n[División del Distrito Censal en el área urbana, formada por un conglomerado de manzanas. Su finalidad es facilitar la organización, control y levantamiento del Censo. En los pueblos pequeños el plano del centro poblado completo podría equivaler a una sola zona censal. Las zonas censales se reconocen en la cartografía porque presentan un código en el que el primer valor es el número del distrito al que pertenece, seguido por el número de zona dentro de ese mismo distrito, además su numeración es correlativa de 1 a n dentro del distrito.]"
+  ],
+  "dct_creator_sm": [
+    "Chile, National Institute of Statistics/Instituto Nacional de Estadísticas"
+  ],
+  "dct_subject_sm": [
+    "census",
+    "census areas",
+    "census boundaries",
+    "zona",
+    "zona censal",
+    "límites censales",
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "dct_temporal_sm": [
+    "2017",
+    "2016",
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:43:52Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/59d6c05b-3839-4163-a21f-47549e9148e0/file/d119ff79-77f4-424e-a44e-affd771f911a\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9509c1d1-67a4-403a-b183-f6193c441c14/file/9755d01f-7b80-41ac-a092-5c19c76293fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9509c1d1-67a4-403a-b183-f6193c441c14/file/12a2afc3-4307-4767-a63c-5f2cb9bc692a\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/53/ad/a3/53ada3c6bedd42668914e45002530612/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2016",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/5t34sp578"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-109.443845, -67.587673, -18.193459, -54.939314)",
+  "dcat_bbox": "ENVELOPE(-109.443845, -67.587673, -18.193459, -54.939314)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

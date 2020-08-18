@@ -1,0 +1,50 @@
+{
+  "id": "princeton-dc3n204c54b",
+  "dct_title_s": "2006 New Orleans High Resolution Orthoimagery",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "High resolution orthorectified images combine the image characteristics of an aerial photograph with the geometric qualities of a map. An orthoimage is a uniform-scale image where corrections have been made for feature displacement such as building tilt and for scale variations caused by terrain relief, sensor geometry, and camera tilt. A mathematical equation based on ground control points, sensor calibration information, and a digital elevation model is applied to each pixel to rectify the image to obtain the geometric qualities of a map.\n\nA digital orthoimage may be created from several photographs mosaicked to form the final image. The source imagery may be black-and-white, natural color, color infrared, or color near infrared (4-band) with a pixel resolution of 1-meter or finer. With orthoimagery, the resolution refers to the distance on the ground represented by each pixel."
+  ],
+  "dct_creator_sm": [
+    "U.S. Geological Survey (USGS)"
+  ],
+  "dct_publisher_sm": [
+    "Tempe, AZ: Aerials Express, [2006] .",
+    "USGS Earth Resources Observations and Science Center (EROS)"
+  ],
+  "dct_subject_sm": [
+    "Aerial photo",
+    "High Resolution Orthoimagery",
+    "Imagery and Base Maps"
+  ],
+  "dcat_theme_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dct_spatial_sm": [
+    "New Orleans"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2025-12-18T17:05:32Z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9951489853506421\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ee637fbf-7eb4-437b-9e94-7a105c4f1660/file/9b438d68-1d91-4a35-8cce-92e1822170e0\",\"http://www.opengis.net/def/serviceType/ogc/wmts\":\"https://map-tiles.princeton.edu/e0c33bcab30a4efb8b310e4b881ac493/mosaicjson/WebMercatorQuad/WMTSCapabilities.xml\",\"https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames\":\"https://map-tiles.princeton.edu/e0c33bcab30a4efb8b310e4b881ac493/mosaicjson/tiles/WebMercatorQuad/{z}/{x}/{y}@1x.png\"}",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_issued_s": "2006",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/dc3n204c54b"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-90.160202, -89.624114, 30.199108, 29.834361)",
+  "dcat_bbox": "ENVELOPE(-90.160202, -89.624114, 30.199108, 29.834361)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/CNE/1.0/\">Copyright Not Evaluated</a><br><p>The copyright and related rights status of this Item has not been evaluated.\n<br/>Please refer to the organization that has made the Item available for more information.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

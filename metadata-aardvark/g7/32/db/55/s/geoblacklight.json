@@ -1,0 +1,56 @@
+{
+  "id": "princeton-g732db55s",
+  "dct_title_s": "U.S. Census Tracts, 2013",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "U.S. Census Tracts represents the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico."
+  ],
+  "dct_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dct_subject_sm": [
+    "polygon",
+    "census tracts",
+    "demographics",
+    "population",
+    "households",
+    "Boundaries",
+    "Society"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2010",
+    "2012",
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:48:04Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2ee93c36-d084-4cb4-9d46-a62efbeb83d7/file/cadeb727-eb0f-48b6-be0e-2a1b6a382dfb\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bd2b997-1508-4788-b595-17776e133179/file/7a354d6c-e77e-4e61-b96d-01314a670d00\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bd2b997-1508-4788-b595-17776e133179/file/be808b00-b0fe-4435-aaa9-75ab7d2e039b\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/e2/bf/c0/e2bfc06136fe42fa862f886fa060844f/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2013",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/g732db55s"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "dcat_bbox": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

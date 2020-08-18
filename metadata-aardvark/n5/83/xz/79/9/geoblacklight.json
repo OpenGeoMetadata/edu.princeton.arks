@@ -1,0 +1,51 @@
+{
+  "id": "princeton-n583xz799",
+  "dct_title_s": "The State of New Jersey",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "The historical map of New Jersey published originally by the Geological Survey of New Jersey was scanned, georeferenced and reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software."
+  ],
+  "dct_creator_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dct_publisher_sm": [
+    "Geological Survey of New Jersey"
+  ],
+  "dct_subject_sm": [
+    "Administrative boundaries",
+    "Boundaries",
+    "Political boundaries"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "REQU",
+    "1888"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:37:05Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a6bc8018-ac92-4689-b2a4-020e9c2dadd6/file/041434cb-b6c7-4c6e-b089-164a06577705\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/14411dcf-812b-464d-bd7a-b30b11a1e1c6/file/99419040-cde4-46a5-8cd1-4ed8c070f51e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/14411dcf-812b-464d-bd7a-b30b11a1e1c6/file/3d05139a-8c82-4500-b88e-f986d07b98d3\",\"http://www.opengis.net/def/serviceType/ogc/wmts\":\"https://map-tiles.princeton.edu/6fd1af8e40d54f2b9621533f8898bf79/cog/WebMercatorQuad/WMTSCapabilities.xml\",\"https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames\":\"https://map-tiles.princeton.edu/6fd1af8e40d54f2b9621533f8898bf79/cog/tiles/WebMercatorQuad/{z}/{x}/{y}@1x.png\",\"https://github.com/cogeotiff/cog-spec\":\"https://geodata.lib.princeton.edu/6f/d1/af/6fd1af8e40d54f2b9621533f8898bf79/display_raster.tif\"}",
+  "gbl_resourceType_sm": [
+    "Raster"
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_issued_s": "1888",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/n583xz799"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-75, -74, 41, 38)",
+  "dcat_bbox": "ENVELOPE(-75, -74, 41, 38)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

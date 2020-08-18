@@ -1,0 +1,40 @@
+{
+  "id": "princeton-6d570124g",
+  "dct_title_s": "New York City Hydrography 2004",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "The \"Hydrography\" dataset is a polygon representation of New York City bodies of water. The data is comprised of polygon geometries with attribute information including water body name. Feature classifications include: \r\n\t1. Lake/Reservior,\r\n\t2. Pond, \r\n\t3. River,\r\n\t4. Stream wider than 8 feet,\r\n\t5. Wetland,\r\n\t6. Beach/Shoreline,\r\n\t7. Bay/Ocean.\r\n"
+  ],
+  "dct_creator_sm": [
+    "New York City Department of Information Technology and Telecommunications"
+  ],
+  "dct_subject_sm": [
+    "New York City bodies of water, Lake, Reservior, Pond, River, Stream wider than 8 feet, Wetland, Beach, Shoreline, Bay, Ocean."
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "5"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:38:12Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/13bcb1ab-23bf-40ea-b3af-7ffeadbdb4aa/file/731f16c8-f43e-47c1-b111-0bf129ae2d5f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d219dac-c56f-472c-becf-fbf53ca4e6e7/file/990f405b-afab-4776-80ee-19999e06a41e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d219dac-c56f-472c-becf-fbf53ca4e6e7/file/2d1537ce-d229-42eb-ad33-f53af1c0b5fe\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/c0/76/c4/c076c409e5d7441d961f57fb48b740a2/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2005",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/6d570124g"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-74.268666, -73.712342, 40.920144, 40.488829)",
+  "dcat_bbox": "ENVELOPE(-74.268666, -73.712342, 40.920144, 40.488829)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

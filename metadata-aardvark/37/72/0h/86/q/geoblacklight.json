@@ -1,0 +1,65 @@
+{
+  "id": "princeton-37720h86q",
+  "dct_title_s": "U.S. ZIP Code Areas (Five-Digit), 2018",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "U.S. ZIP Code Areas (Five-Digit) represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. The fourth and fifth digits identify a post office, station, branch or local delivery area."
+  ],
+  "dct_creator_sm": [
+    "Esri"
+  ],
+  "dct_publisher_sm": [
+    "Esri"
+  ],
+  "dct_subject_sm": [
+    "polygon",
+    "areas",
+    "ZIP codes",
+    "five-digit ZIP codes",
+    "population",
+    "post offices",
+    "Location",
+    "Society",
+    "Boundaries"
+  ],
+  "dcat_theme_sm": [
+    "Location",
+    "Society",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "U.S. Virgin Islands",
+    "Guam"
+  ],
+  "dct_temporal_sm": [
+    "2018",
+    "2017",
+    "2011",
+    "2010",
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "gbl_mdModified_dt": "2025-11-03T22:38:38Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/75e71f4d-3ab0-4e94-8827-b950cc1bdda2/file/1201df4c-596d-4dce-8b55-5b81571cbe22\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3c7a653f-1522-4535-ab4c-1c8ea16c466e/file/282a1853-c7df-4dcd-94cd-fce5b990b6ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c7a653f-1522-4535-ab4c-1c8ea16c466e/file/66dbfd78-c14d-490f-9df2-5556cb36a726\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/f7/a7/bb/f7a7bb6324ad4dc883db79d9438b1b73/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2018",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/37720h86q"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-179.14734, 179.778465, 71.390482, 13.234193)",
+  "dcat_bbox": "ENVELOPE(-179.14734, 179.778465, 71.390482, 13.234193)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

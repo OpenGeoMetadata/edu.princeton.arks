@@ -1,0 +1,57 @@
+{
+  "id": "princeton-3b591d71m",
+  "dct_title_s": "World Airports, 2018",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "World Airports represents the airport (public commercial) locations of the world."
+  ],
+  "dct_creator_sm": [
+    "Garmin International, Inc."
+  ],
+  "dct_publisher_sm": [
+    "Esri"
+  ],
+  "dct_subject_sm": [
+    "point",
+    "airports",
+    "ICAO",
+    "IATA",
+    "airport codes",
+    "public",
+    "commercial",
+    "Transportation",
+    "economy"
+  ],
+  "dcat_theme_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2018",
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:42:08Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/6e54ac90-c57a-48bf-a8c7-e94646193ef0/file/10c59cf2-696f-4c61-8ede-768c7a0ec014\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77181403-28fb-43f5-a4ab-93bd5fff17b2/file/a5f3b99f-fd32-4c25-9390-684fa669a203\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77181403-28fb-43f5-a4ab-93bd5fff17b2/file/d5725330-aeae-4b21-9bdd-a2c86ca47c90\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/9d/bf/b9/9dbfb982f49c4d6380660b631d6c91ff/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Point"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2018",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/3b591d71m"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-177.380636, 178.559228, 78.246111, -54.843278)",
+  "dcat_bbox": "ENVELOPE(-177.380636, 178.559228, 78.246111, -54.843278)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

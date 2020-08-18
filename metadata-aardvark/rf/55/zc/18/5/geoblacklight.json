@@ -1,0 +1,52 @@
+{
+  "id": "princeton-rf55zc185",
+  "dct_title_s": "Montana voting districts from 2010 Census",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Voting districts in Montana based on the US decennial Census of 2010. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Voting district is the generic name for geographic entities such as precincts, wards, and election districts established by State governments for the purpose of conducting elections. States participating in the 2010 Census Redistricting Data Program as part of Public Law 94-171 (1975) provided the Census Bureau with boundaries, codes, and names for their VTDs. Each VTD is identified by a 1- to 6-character alphanumeric census code that is unique within county. For the 2010 Census, Rhode Island is the only State that did not participate in Phase 2 (the Voting District Project) of the Redistricting Data Program and no VTDs exist for this State in the 2010 Census data products. Note that only Montana and Oregon do not have complete coverage of VTDs for the 2010 Census."
+  ],
+  "dct_creator_sm": [
+    "US Census Bureau, Geography Division"
+  ],
+  "dct_subject_sm": [
+    "Census",
+    "voting districts",
+    "electoral districts",
+    "electoral boundaries",
+    "state legislative district",
+    "Boundaries"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "Montana"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2012",
+    "2012"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:37:41Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5c1642ba-9ee7-4af6-9094-3ac60648cc5c/file/e8e46538-3bfb-45d4-a1a7-352dc9d47388\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5b7a2f97-f8a6-421a-b31b-12de14b73a74/file/e7f2d3d6-0341-4d05-8313-20d1d6f9bcca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5b7a2f97-f8a6-421a-b31b-12de14b73a74/file/d4f2aef3-b4fd-49f6-9bcf-8d98862243b8\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/59/e6/25/59e6251ed2f44140924262457473ac8c/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2012",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/rf55zc185"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-116.049763, -104.039138, 49.00139, 44.358209)",
+  "dcat_bbox": "ENVELOPE(-116.049763, -104.039138, 49.00139, 44.358209)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

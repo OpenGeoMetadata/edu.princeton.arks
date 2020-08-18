@@ -1,0 +1,51 @@
+{
+  "id": "princeton-4j03d5645",
+  "dct_title_s": "Dominican Republic migration data from 2010 census",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Official population and housing data for the Dominican Republic from the 2010 census. This census is provided at the barrio administrative level (ADM5) and includes 12,565 polygons with 756 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “H23_Si” was updated to D001 and given the alias “There is a newborn girl or boy that has not been previously mentioned: Yes[H23_Si]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries."
+  ],
+  "dct_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_subject_sm": [
+    "census",
+    "migration",
+    "residence",
+    "residency",
+    "Society"
+  ],
+  "dcat_theme_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Dominican Republic",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:43:53Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/488f212d-2363-4742-8870-6233301e7330/file/ae1e4919-054d-4f43-a31e-d772f5bba556\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/127844fa-5cf4-4c02-a1a0-7a1047d12f0b/file/d4cd8bb7-5ac6-476e-b927-cb023a7ee1f7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/127844fa-5cf4-4c02-a1a0-7a1047d12f0b/file/67fb0fc0-ab7c-4055-9d37-f17aca1d7a69\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/c1/0a/21/c10a21c8b8de47dda228ea88575b5d56/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2019",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/4j03d5645"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-72.035261, -68.317415, 19.943384, 17.465211)",
+  "dcat_bbox": "ENVELOPE(-72.035261, -68.317415, 19.943384, 17.465211)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

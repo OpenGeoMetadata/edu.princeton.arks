@@ -1,0 +1,55 @@
+{
+  "id": "princeton-dcw9505c27j",
+  "dct_title_s": "Japan education data from 2015 census (by chome)",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Education data for Japan from the 2015 census. Data are presented at the chome (city-district) level."
+  ],
+  "dct_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_subject_sm": [
+    "chome",
+    "district",
+    "census",
+    "population",
+    "demography",
+    "demographic",
+    "sex",
+    "education",
+    "schools",
+    "Society"
+  ],
+  "dcat_theme_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "2015",
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdModified_dt": "2025-11-04T02:04:21Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a82381ce-784e-486c-a36a-a178fdf01597/file/3f6cb4b9-530c-46d7-a869-3b3dcbb10bf3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0ab8bdd5-2730-4b78-826f-7406a0746c76/file/7041dddb-d21b-4b83-b8ed-4a96e6c130d2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0ab8bdd5-2730-4b78-826f-7406a0746c76/file/94e5877d-1021-483d-bb70-192edba8c129\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/67/76/a6/6776a63df6844e8bb0c2dac8029fb18f/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2023",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/dcw9505c27j"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(122.933788, 153.982714, 45.557708, 20.425009)",
+  "dcat_bbox": "ENVELOPE(122.933788, 153.982714, 45.557708, 20.425009)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

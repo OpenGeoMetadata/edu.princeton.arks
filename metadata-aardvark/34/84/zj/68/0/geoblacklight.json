@@ -1,0 +1,64 @@
+{
+  "id": "princeton-3484zj680",
+  "dct_title_s": "Multnomah County, Oregon land parcels, 2006",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Land parcels in Multnomah County, Oregon, 2006. Tax lots, right-of-way outlines and tax account numbers as represented on county tax assessor hard copy maps. Each tax lot is a polygon with an associated tax lot number which is the \"hook\" to the county tax assessor's tabular data base. Selected items from each County Assessor's file are included. The tax lot spatial features are maintained by each county and delivered to Metro quarterly."
+  ],
+  "dct_creator_sm": [
+    "Boundary Solutions, Inc."
+  ],
+  "dct_subject_sm": [
+    "property maps",
+    "cadastral maps",
+    "parcel",
+    "tax parcels",
+    "parcels",
+    "property",
+    "ownership",
+    "land use",
+    "land value",
+    "value",
+    "buildings",
+    "tax lots",
+    "assessor",
+    "cadastral",
+    "Planning and Cadastral"
+  ],
+  "dcat_theme_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "Oregon",
+    "Multnomah",
+    "Multnomah County",
+    "Portland",
+    "Gresham"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2006"
+  ],
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:45:30Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/2fc8dbce-cb9b-4ef7-bc2d-fdd15c1f43e6/file/af2e9ee7-730e-4c7e-b5fe-a2f2bc3d3492\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/efee5025-4553-44cb-bb62-bc38e72712c7/file/d3cd870a-2094-4ee7-82f7-2c1b31ee445f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/efee5025-4553-44cb-bb62-bc38e72712c7/file/9ced26b8-afd8-40b8-b265-3d38a554b7c2\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/b7/60/e5/b760e5d1cfda4fa0a0483f9c7e986488/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/3484zj680"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-122.929605, -121.820506, 45.728573, 45.432664)",
+  "dcat_bbox": "ENVELOPE(-122.929605, -121.820506, 45.728573, 45.432664)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

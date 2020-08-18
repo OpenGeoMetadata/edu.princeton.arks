@@ -1,0 +1,58 @@
+{
+  "id": "princeton-2514nq64k",
+  "dct_title_s": "U.S. Major Highways, 2008",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "U.S. Major Highways represents the major highways of the United States. These include interstates, U.S. highways, state highways, and major roads. This dataset is from the Census 2000 TIGER/Line files. It contains all Class 1 and 2 road segments plus any other road segments necessary to provide network connectivity for the Class_Rte field."
+  ],
+  "dct_creator_sm": [
+    "TomTom North America, Inc."
+  ],
+  "dct_publisher_sm": [
+    "Esri"
+  ],
+  "dct_subject_sm": [
+    "Location",
+    "Transportation",
+    "line",
+    "interstates",
+    "highways",
+    "freeways or expressways",
+    "major roads"
+  ],
+  "dcat_theme_sm": [
+    "Location",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2000",
+    "2008",
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:43:46Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ccb871dd-d7f7-4587-bdcb-6ac8f6010e99/file/9ac8b517-502a-43e4-bcd1-63cd9f5ba717\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1f32780-c797-4f82-a18a-7f44e7b3b8a9/file/ea6d9baf-f7f5-41a9-ad5d-12677e661bfd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1f32780-c797-4f82-a18a-7f44e7b3b8a9/file/44a70173-5093-4a62-9af2-7917e6294ede\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/81/b2/42/81b24277733548bea91cc3148ecc3b1e/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2018",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/2514nq64k"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-159.779918, -66.981845, 65.826906, 19.058082)",
+  "dcat_bbox": "ENVELOPE(-159.779918, -66.981845, 65.826906, 19.058082)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

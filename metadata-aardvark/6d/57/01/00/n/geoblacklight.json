@@ -1,0 +1,81 @@
+{
+  "id": "princeton-6d570100n",
+  "dct_title_s": "Q3 flood data, Arizona",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Q3 flood data for Arizona, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000."
+  ],
+  "dct_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_publisher_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dcat_theme_sm": [
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Arizona",
+    "Cochise County",
+    "Coconino County",
+    "Gila County",
+    "Greenlee County",
+    "Maricopa County",
+    "Mohave County",
+    "Navajo County",
+    "Pima County",
+    "Santa Cruz County",
+    "Yavapai County",
+    "Cochise",
+    "Coconino",
+    "Gila",
+    "Greenlee",
+    "Maricopa",
+    "Mohave",
+    "Navajo",
+    "Pima",
+    "Santa Cruz",
+    "Yavapai"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:38:03Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/8fff498a-add7-4be6-894b-35516ce24457/file/ab3ff20d-7815-425e-bffc-3225baf5f310\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/103b675e-b02e-46ad-ab90-eaba86e37d72/file/0352c541-23c0-4cf7-870f-a71614e87be6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/103b675e-b02e-46ad-ab90-eaba86e37d72/file/653c95ac-f33f-49a0-9f20-57ff08ad3d34\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/15/ee/b7/15eeb7ef95e44f3ebac4a6f211e80bfc/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "1998",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/6d570100n"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-114.75559, -109.045866, 37.002885, 31.33038)",
+  "dcat_bbox": "ENVELOPE(-114.75559, -109.045866, 37.002885, 31.33038)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

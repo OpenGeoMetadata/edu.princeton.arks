@@ -1,0 +1,63 @@
+{
+  "id": "princeton-cv43p127m",
+  "dct_title_s": "Q3 flood data, District of Columbia",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Q3 flood data for District of Columbia, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000."
+  ],
+  "dct_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_publisher_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dcat_theme_sm": [
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington DC",
+    "District of Columbia"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:44:34Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/5430c8ec-de34-4df0-a21f-3ad3566a909b/file/ba679c78-7400-45b5-bf81-42c14406b724\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5e67956-7cac-4dfa-bf71-1867ca2a5698/file/301d275d-c57c-46fa-b280-f5e403667377\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5e67956-7cac-4dfa-bf71-1867ca2a5698/file/c21115a2-a342-4b71-a28a-232a4acbeab4\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/a0/dc/cb/a0dccbd483524972a76c100a3c1c769b/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "1998",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/cv43p127m"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-77.1201, -76.909368, 38.995752, 38.791757)",
+  "dcat_bbox": "ENVELOPE(-77.1201, -76.909368, 38.995752, 38.791757)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

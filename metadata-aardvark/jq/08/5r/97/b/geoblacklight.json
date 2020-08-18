@@ -1,0 +1,63 @@
+{
+  "id": "princeton-jq085r97b",
+  "dct_title_s": "Colombia housing data from 2005 census",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Official population and housing data for Colombia from the 2005 census. This census is provided at the manzana administrative level (ADM6) and includes 261,263 polygons with 194 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sexo_Hombre” was updated to D001 and given the alias “Gender: Male[Sexo_Hombre]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries."
+  ],
+  "dct_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_subject_sm": [
+    "house-type",
+    "rural",
+    "occupancy",
+    "housing",
+    "census",
+    "occupants",
+    "ownership",
+    "families",
+    "households",
+    "urban",
+    "household",
+    "utilities",
+    "electricity",
+    "water",
+    "Society",
+    "Structures"
+  ],
+  "dcat_theme_sm": [
+    "Society",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "Colombia",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:43:52Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e17aa817-9d43-41ec-8ba4-ee24924ca006/file/3034ff70-94bd-4a58-97fb-85d98f9b59fe\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7ca52e1-764a-4e96-a9a5-00a0106b9dfc/file/81a59ca3-b07c-4330-bb55-f5081fc50c6b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7ca52e1-764a-4e96-a9a5-00a0106b9dfc/file/6f65e84b-33a5-4f1e-a556-89ead004f0e5\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/3f/7d/7c/3f7d7c99d74043f8b2deee7c558dccb0/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2019",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/jq085r97b"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-81.722456, -67.47411, 13.385775, -0.566358)",
+  "dcat_bbox": "ENVELOPE(-81.722456, -67.47411, 13.385775, -0.566358)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

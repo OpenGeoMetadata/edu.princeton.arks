@@ -1,0 +1,60 @@
+{
+  "id": "princeton-6108vf66f",
+  "dct_title_s": "Riley County, Kansas roads, 2014",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Roads and highways in Riley County, Kansas, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways."
+  ],
+  "dct_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dct_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dcat_theme_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Kansas",
+    "Riley",
+    "Riley County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdModified_dt": "2025-11-04T04:43:58Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3ad2e58-612b-464f-b023-3b866fa6cf1f/file/c18813f7-bacc-476f-8209-469063c638a6\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a0de2a86-0747-4640-91f6-55eaef1e0d06/file/c8180d1c-cc62-4fd0-9595-11ca98798c3f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a0de2a86-0747-4640-91f6-55eaef1e0d06/file/78a5a682-23d8-48eb-8cca-b50616cae39e\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/da/c3/8b/dac38ba7565b429e851aa6e24bec97c6/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2014",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/6108vf66f"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-96.961706, -96.388999, 39.566582, 39.043232)",
+  "dcat_bbox": "ENVELOPE(-96.961706, -96.388999, 39.566582, 39.043232)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

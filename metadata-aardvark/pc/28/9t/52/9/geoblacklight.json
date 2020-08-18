@@ -1,0 +1,73 @@
+{
+  "id": "princeton-pc289t529",
+  "dct_title_s": "Net-Zero America bulk transmission expansions between metropolitan statistical areas for 100% renewable scenario (base land use), 2050",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "This dataset shows the expansions to bulk electric transmission corridors in the contiguous United States that will be required by 2050 to balance renewable energy capacity (solar PV, wind, and offshore wind) across metropolitan statistical areas (MSAs) under a net-zero-emissions scenario with 100% renewable energy generation and more permissive land-use assumptions. Balancing ensures that each of the 73 MSAs included in the analysis has access to a minimum level of renewable electricity supply on an annualized basis. For an overview of the \"E+RE+\" all-renewable scenario and \"base\" land-use assumptions on which this dataset is based, please refer to the \"supplemental information\" portion of this record."
+  ],
+  "dct_creator_sm": [
+    "Andrew Pascale, Andlinger Center, Princeton University, Post-Doctoral Research Associate"
+  ],
+  "dct_subject_sm": [
+    "net-zero",
+    "solar",
+    "wind",
+    "offshore",
+    "transmission",
+    "spur",
+    "bulk",
+    "renewable energy",
+    "transition",
+    "energy",
+    "infrastructure",
+    "electricity",
+    "grid",
+    "MSAs",
+    "metropolitan areas",
+    "netzeroamerica",
+    "public",
+    "open access",
+    "E+RE+",
+    "all-renewable",
+    "100% renewable",
+    "BLUA",
+    "Utilities and Communication"
+  ],
+  "dcat_theme_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2025",
+    "2030",
+    "2035",
+    "2040",
+    "2045",
+    "2050",
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "gbl_mdModified_dt": "2025-11-03T21:25:01Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/28e9e487-16b4-4255-96e0-dd92cad88e21/file/b7227632-16a9-46a7-9293-557846485da4\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb2666ba-02f0-41b7-994d-198dc4fded6a/file/10c232ae-e0e3-4bae-bb24-c72bb8160297\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb2666ba-02f0-41b7-994d-198dc4fded6a/file/815265e8-1272-4b44-be88-6e0311f72d5f\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/f3/c7/11/f3c7115e6da144218ce671964d626828/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2021",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/pc289t529"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-124.839634, -69.894145, 48.21328, 24.947527)",
+  "dcat_bbox": "ENVELOPE(-124.839634, -69.894145, 48.21328, 24.947527)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

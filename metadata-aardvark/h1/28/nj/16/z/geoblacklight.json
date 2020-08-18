@@ -1,0 +1,98 @@
+{
+  "id": "princeton-h128nj16z",
+  "dct_title_s": "Q3 flood data, Maryland",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Q3 flood data for Maryland, 1996. The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using geographic projection and decimal degree coordinate system. Specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000."
+  ],
+  "dct_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_publisher_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dct_subject_sm": [
+    "flood",
+    "floods",
+    "risk",
+    "insurance",
+    "FEMA",
+    "FEMA flood hazard zones",
+    "Q3",
+    "Q3 flood data",
+    "Q3 coverage",
+    "Special Flood Hazard Areas",
+    "SFHAs",
+    "digital flood insurance rate maps",
+    "Inland Waters"
+  ],
+  "dcat_theme_sm": [
+    "Inland Waters"
+  ],
+  "dct_spatial_sm": [
+    "Maryland",
+    "Allegany County",
+    "Anne Arundel County",
+    "Calvert County",
+    "Carroll County",
+    "Cecil County",
+    "Dorchester County",
+    "Frederick County",
+    "Harford County",
+    "Kent County",
+    "Prince Georges County",
+    "Queen Annes County",
+    "St. Marys County",
+    "Somerset County",
+    "Talbot County",
+    "Washington County",
+    "Wicomico County",
+    "Worcester County",
+    "Baltimore City County",
+    "Allegany",
+    "Anne Arundel",
+    "Baltimore",
+    "Calvert",
+    "Carroll",
+    "Cecil",
+    "Dorchester",
+    "Frederick",
+    "Harford",
+    "Kent",
+    "Prince Georges",
+    "Queen Annes",
+    "St. Marys",
+    "Somerset",
+    "Talbot",
+    "Washington",
+    "Wicomico",
+    "Worcester",
+    "Baltimore City"
+  ],
+  "dct_temporal_sm": [
+    "1996",
+    "1998"
+  ],
+  "gbl_indexYear_im": [
+    1996
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:38:04Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c9996772-b4fe-45b0-b716-898d24d1a365/file/f93ad513-89f9-4678-bab9-ac67990bb96b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4235d82c-312d-4fe9-b340-7f70be280a39/file/06902e6c-c10b-43da-bbb5-16de1f24535f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4235d82c-312d-4fe9-b340-7f70be280a39/file/3a3afb28-9064-40a4-87c6-3513de3b7e0e\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/c6/5d/ab/c65dabf99fb2434eb912387aff7901b9/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "1998",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/h128nj16z"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-79.068211, -75.04784, 39.723051, 37.906523)",
+  "dcat_bbox": "ENVELOPE(-79.068211, -75.04784, 39.723051, 37.906523)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

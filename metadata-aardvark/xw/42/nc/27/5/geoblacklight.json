@@ -1,0 +1,61 @@
+{
+  "id": "princeton-xw42nc275",
+  "dct_title_s": "roads_19187_2014",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Roads and highways in Webster County, Iowa, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways."
+  ],
+  "dct_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dct_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dcat_theme_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Iowa",
+    "Webster",
+    "Webster County"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013",
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdModified_dt": "2025-11-04T11:26:18Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/0e810e73-6281-444b-9700-015a42baf8ee/file/5c61894b-9f19-4c69-845c-95987fc6832e\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3db8a700-97a3-4d92-ba50-c8bd6fd0923c/file/fd3c8057-97e8-4390-8233-7aaec5ebe798\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3db8a700-97a3-4d92-ba50-c8bd6fd0923c/file/c207924a-ce2e-4704-bd0e-2a2f2c5dc7ca\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/e4/8a/a1/e48aa1d786b04fa29795bca0f535e8f6/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2013",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/xw42nc275"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-94.443578, -93.931581, 42.645192, 42.209048)",
+  "dcat_bbox": "ENVELOPE(-94.443578, -93.931581, 42.645192, 42.209048)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

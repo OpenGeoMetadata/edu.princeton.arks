@@ -1,0 +1,61 @@
+{
+  "id": "princeton-9c67wr277",
+  "dct_title_s": "San Francisco, California roads, 2014",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Roads and highways in the consolidated city-county of San Francisco, California, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways."
+  ],
+  "dct_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dct_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dcat_theme_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "California",
+    "San Francisco",
+    "City and County of San Francisco",
+    "Bay Area"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdModified_dt": "2025-11-04T00:18:05Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/af3bb625-2579-44e7-98fe-02a4e67d7e19/file/69254c71-c846-4dad-9103-9d954c555077\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f8bf9c8c-99e3-4d3e-ae2a-fbc18f213ed7/file/755cd155-a682-4839-a6ec-1dd176da675c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f8bf9c8c-99e3-4d3e-ae2a-fbc18f213ed7/file/6dfd2e0b-ebd0-4ba1-a762-8931210d6e90\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/b6/2b/0e/b62b0ee13cdc4d3faa952fec5208924e/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2014",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/9c67wr277"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-122.513617, -122.349024, 37.831644, 37.708132)",
+  "dcat_bbox": "ENVELOPE(-122.513617, -122.349024, 37.831644, 37.708132)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

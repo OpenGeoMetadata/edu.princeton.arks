@@ -1,0 +1,65 @@
+{
+  "id": "princeton-h989r6692",
+  "dct_title_s": "Kittitas County, Washington roads, 2014",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Roads and highways in Kittitas County, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways."
+  ],
+  "dct_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dct_subject_sm": [
+    "roads",
+    "highways",
+    "road feature",
+    "centerline",
+    "linear feature",
+    "address range",
+    "MAF/TIGER",
+    "MAF",
+    "Master Address File",
+    "TIGER",
+    "Topologocally Integrated Geographic Encoding and Referencing",
+    "TIGER/Line",
+    "Transportation"
+  ],
+  "dcat_theme_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "Washington State",
+    "Kittitas",
+    "Kittitas County",
+    "Cascade Mountains",
+    "Cascade Range",
+    "Snoqualmie National Forest",
+    "Wenatchee National Forest"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdModified_dt": "2025-11-04T00:12:10Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/22e6f60f-023c-4017-a800-2aa776c9e27f/file/23ea00f3-11e5-455c-9a00-3d8ce58df366\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3085c854-d5a1-4bc2-a57f-1e45c56ffa15/file/95b0b20a-323c-41d5-9ea6-394e8e3d4cb1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3085c854-d5a1-4bc2-a57f-1e45c56ffa15/file/9529ea19-b129-4c7c-ac49-640e4e7c2710\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/66/1e/41/661e41286a4e467ba89144b0520cb56e/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2014",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/h989r6692"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-121.447368, -119.934099, 47.544917, 46.735612)",
+  "dcat_bbox": "ENVELOPE(-121.447368, -119.934099, 47.544917, 46.735612)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "princeton-ww72bd22f",
+  "dct_title_s": "U.S. Census Urbanized Areas, 2013",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "U.S. Census Urbanized Areas represents the 2010 Census urban areas in the United States. An urban area comprises a densely settled core of census tracts and/or census blocks that meet minimum population density requirements, along with adjacent territory containing non-residential urban land uses as well as territory with low population density included to link outlying densely settled territory with the densely settled core. To qualify as an urban area, the territory identified according to criteria must encompass at least 2,500 people, at least 1,500 of which reside outside institutional group quarters. The U.S. Census Bureau identifies two types of urban areas—Urbanized Areas (UA) of 50,000 or more people and Urban Clusters (UC) of at least 2,500 and less than 50,000 people. The U.S. Census Bureau delineates urban areas that represent densely developed territory, encompassing residential, commercial, and other non-residential urban land uses. In general, this territory consists of areas of high population density and urban land use resulting in a representation of the \"urban footprint.\""
+  ],
+  "dct_creator_sm": [
+    "U.S. Department of Commerce, Census Bureau, Geography Division"
+  ],
+  "dct_subject_sm": [
+    "polygon",
+    "urban areas",
+    "urbanized areas",
+    "urban clusters",
+    "cities",
+    "housing units",
+    "Location",
+    "Society",
+    "Boundaries"
+  ],
+  "dcat_theme_sm": [
+    "Location",
+    "Society",
+    "Boundaries"
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdModified_dt": "2025-11-04T14:49:07Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c774c4d6-645e-475f-af15-42048400f18f/file/c6e22fe4-9f30-45ff-a752-b53d45c77d04\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b1fd9858-fdfb-464d-bd8a-11f86a8da045/file/2ae70998-06ef-4ce5-885a-cbde669dc832\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b1fd9858-fdfb-464d-bd8a-11f86a8da045/file/209e1ff6-e8e5-4a46-998b-381aa42507b7\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/d1/b5/6e/d1b56e9dc3db41e2b667cd25d10d4648/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2013",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/ww72bd22f"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-165.43038, -65.425188, 71.307227, 17.929405)",
+  "dcat_bbox": "ENVELOPE(-165.43038, -65.425188, 71.307227, 17.929405)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

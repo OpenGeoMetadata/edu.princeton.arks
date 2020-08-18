@@ -1,0 +1,73 @@
+{
+  "id": "princeton-5d86p865k",
+  "dct_title_s": "Net-Zero America bulk transmission expansions from spur lines to metropolitan statistical areas for renewable-limited scenario (base land use), 2050",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "This dataset shows the expansions to bulk electric transmission lines in the contiguous United States that will be required by 2050 to connect spur line connection points (substations that existed in 2019 and had a voltage class rating of 161kV or greater) to metropolitan statistical areas (MSAs) under a net-zero-emissions scenario with constrained renewable-energy development and more permissive land-use assumptions. For an overview of this \"E+RE-\" renewable-limited scenario and these \"base\" land-use assumptions, please refer to the \"supplemental information\" portion of this record."
+  ],
+  "dct_creator_sm": [
+    "Andrew Pascale, Andlinger Center, Princeton University, Post-Doctoral Research Associate"
+  ],
+  "dct_subject_sm": [
+    "net-zero",
+    "solar",
+    "wind",
+    "offshore",
+    "transmission",
+    "spur",
+    "bulk",
+    "renewable energy",
+    "transition",
+    "energy",
+    "infrastructure",
+    "electricity",
+    "grid",
+    "MSAs",
+    "metropolitan areas",
+    "netzeroamerica",
+    "public",
+    "open access",
+    "E+RE-",
+    "renewable-constrained",
+    "renewable-limited",
+    "BLUA",
+    "Utilities and Communication"
+  ],
+  "dcat_theme_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2025",
+    "2030",
+    "2035",
+    "2040",
+    "2045",
+    "2050",
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "gbl_mdModified_dt": "2025-11-03T21:24:58Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3c3f1d2-18fa-40a5-9e12-bc816c4dbf79/file/53fc3f2c-4593-43ed-9798-cc98c7b758a5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c822ccd-9b09-403f-9f52-4cadb5eadc8f/file/45a79655-de9f-4f54-95d9-64f9676d18a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c822ccd-9b09-403f-9f52-4cadb5eadc8f/file/260746de-c729-40e8-82fe-b41875b8c067\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/e0/ce/2c/e0ce2caaf981421ba810e20ef1c9d5d4/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Line"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2021",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/5d86p865k"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-127.548074, -67.541225, 50.305295, 23.62668)",
+  "dcat_bbox": "ENVELOPE(-127.548074, -67.541225, 50.305295, 23.62668)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "princeton-xs55mn54h",
+  "dct_title_s": "Net-Zero America land-use exclusions for wind projects under net-zero scenarios (base land use), 2050",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "This dataset shows land excluded from the siting of wind energy candidate project areas (CPAs) in the contiguous United States to 2050 under all net-zero-emissions scenarios with more permissive land-use assumptions. Exclusions based on considerations of techno-economic factors, environment and conservation, slope, and offshore restrictions are shown separately. For an overview of the \"base\" land-use assumptions on which this dataset is predicated, please refer to the \"supplemental information\" portion of this record."
+  ],
+  "dct_creator_sm": [
+    "Andrew Pascale, Andlinger Center, Princeton University, Post-Doctoral Research Associate",
+    "Emily Leslie, Energy Reflections, LLC, Principal",
+    "Jesse Jenkins, Mechanical and Aerospace Engineering Department and Andlinger Center, Princeton University, Assistant Professor"
+  ],
+  "dct_subject_sm": [
+    "net-zero",
+    "wind",
+    "offshore",
+    "renewable energy",
+    "transition",
+    "energy",
+    "infrastructure",
+    "electricity",
+    "exclusions",
+    "netzeroamerica",
+    "public",
+    "open access",
+    "BLUA",
+    "Utilities and Communication"
+  ],
+  "dcat_theme_sm": [
+    "Utilities and Communication"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2050",
+    "2020",
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2050
+  ],
+  "gbl_mdModified_dt": "2025-11-04T04:32:52Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/ab0070d4-40c4-40e7-b4cb-8e1ebafec231/file/822d821a-c625-478f-a806-bf86e93f93e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9950387-ad81-4a6e-ae0b-6b0c70d670ce/file/406894bf-c1cc-43fe-a811-c3f04f33dbc8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9950387-ad81-4a6e-ae0b-6b0c70d670ce/file/c3841686-2243-4f0b-84ca-3397af10e4cf\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/75/ed/f3/75edf303033e41b7aaaad2aaeeaa697d/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2020",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/xs55mn54h"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-128.806427, -64.523506, 51.644949, 21.823167)",
+  "dcat_bbox": "ENVELOPE(-128.806427, -64.523506, 51.644949, 21.823167)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

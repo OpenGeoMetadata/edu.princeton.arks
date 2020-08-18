@@ -1,0 +1,51 @@
+{
+  "id": "princeton-02871402z",
+  "dct_title_s": "Guyana transportation data from 2012 census",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Restricted",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "Official population and housing data for Guyana from the 2012 census. This census is provided at the council administrative level (ADM3) and includes 802 polygons with 264 attribute variables. Attributes were provided in English. Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sex: Males” was updated to D001 and given the alias “Sex: Males”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases. Vector data was analyzed for accuracy and compared with national boundaries."
+  ],
+  "dct_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_subject_sm": [
+    "census",
+    "Society",
+    "Transportation",
+    "vehicles"
+  ],
+  "dcat_theme_sm": [
+    "Society",
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Guyana",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdModified_dt": "2025-11-04T15:23:12Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b74d6d69-ac0a-4ee9-8dfc-2c9985179aa3/file/1057b1f5-9c7d-413f-bc7c-f466eaf3d486\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f96eca96-46f2-4e6d-854c-f45d680f092e/file/ce2261ce-cba6-4881-8643-7eaec3256d19\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f96eca96-46f2-4e6d-854c-f45d680f092e/file/a491ff95-6bb3-4adc-b0d6-cc46bbe03346\",\"https://github.com/protomaps/PMTiles\":\"https://geodata-restricted.lib.princeton.edu/39/dc/32/39dc32b73c744daf8e86dfee13978083/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2019",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/02871402z"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-61.536722, -57.133214, 8.353926, 0.000035)",
+  "dcat_bbox": "ENVELOPE(-61.536722, -57.133214, 8.353926, 0.000035)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a><br><p>This Item is protected by copyright and/or related rights.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.\n<br/>For other uses you need to obtain permission from the rights-holder(s).</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}

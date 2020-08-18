@@ -1,0 +1,94 @@
+{
+  "id": "princeton-hm50tw23v",
+  "dct_title_s": "Brooklyn MapPLUTO (Primary Land Use Tax Lot Output), 2005",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_accessRights_s": "Public",
+  "gbl_mdVersion_s": "Aardvark",
+  "dct_description_sm": [
+    "This dataset represents a compilation of data from various government agencies throughout the City of New York. The underlying geography is derived from the Department of City Planning's COGIS project. Through COGIS, the Department of City Planning is responsible for maintaining the city's base map for all city agencies. The attribute information is the Department of City Planning's PLUTO database application. The attribute data pertains to tax, adminstrative, and locational information related to each lot in New York City."
+  ],
+  "dct_creator_sm": [
+    "NYC Department of City Planning"
+  ],
+  "dct_publisher_sm": [
+    "NYC Department of City Planning"
+  ],
+  "dct_subject_sm": [
+    "tax lot",
+    "base map",
+    "basemap",
+    "COGIS",
+    "PLUTO",
+    "mapPLUTO",
+    "parcel",
+    "parcels",
+    "tax parcels",
+    "property",
+    "property maps",
+    "ownership",
+    "cadastral maps",
+    "Boundaries",
+    "base maps",
+    "land use",
+    "zones",
+    "zoning",
+    "schools",
+    "school district",
+    "fire",
+    "fire district",
+    "police",
+    "police precinct",
+    "buildings",
+    "commercial",
+    "offices",
+    "retail",
+    "residential",
+    "garage",
+    "basement",
+    "basements",
+    "value",
+    "land value",
+    "floors",
+    "stories",
+    "landmarks",
+    "condos",
+    "condominium",
+    "public",
+    "public domain",
+    "Planning and Cadastral"
+  ],
+  "dcat_theme_sm": [
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_spatial_sm": [
+    "New York",
+    "New York City",
+    "Brooklyn"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2006",
+    "2006"
+  ],
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdModified_dt": "2025-11-04T13:38:10Z",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/a3a074fe-f5af-412c-9520-4e125b30df1d/file/c86f2a75-9c8b-4c1c-83cb-62e110229319\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d71cb0fe-dddc-467e-822e-ce315518b7da/file/d658148d-483d-4769-9d0c-b7e1d4568ae8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d71cb0fe-dddc-467e-822e-ce315518b7da/file/5ac54f0c-9e90-4572-9dc1-582d633d62ec\",\"https://github.com/protomaps/PMTiles\":\"https://geodata.lib.princeton.edu/57/90/96/5790961d273f4a9d8b4787952b4d77f4/display_vector.pmtiles\"}",
+  "gbl_resourceType_sm": [
+    "Polygon"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_issued_s": "2006",
+  "gbl_suppressed_b": false,
+  "dct_identifier_sm": [
+    "ark:/88435/hm50tw23v"
+  ],
+  "schema_provider_s": "Princeton",
+  "locn_geometry": "ENVELOPE(-74.041973, -73.833231, 40.739134, 40.569421)",
+  "dcat_bbox": "ENVELOPE(-74.041973, -73.833231, 40.739134, 40.569421)",
+  "rights_statement_s": "<a href=\"http://rightsstatements.org/vocab/NKC/1.0/\">No Known Copyright</a><br><p>Princeton University Library reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.\n<br/>You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use.</p><p>Princeton University Library claims no copyright or license governing this digital resource. It is provided for free, on a non-commercial, open-access basis, for fair-use academic and research purposes only. Anyone who claims copyright over any part of these resources and feels that they should not be presented in this manner is invited to contact Princeton University Library, who will in turn consider such concerns and make every effort to respond appropriately. We request that users reproducing this resource cite it according to the guidelines described at <a href=\"https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines\">https://library.princeton.edu/about/policies/special-collections-copyright-credit-and-citation-guidelines</a>.\n</p>"
+}
