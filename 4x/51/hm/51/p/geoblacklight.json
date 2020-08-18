@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C. : U.S. House of Representatives, 1852] (Philada. : P.S. Duval & Co.'s Steam Lith. Press)",
   "dc_subject_sm": [
-    "Railroads—United States—Surveys—Maps"
+    "Railroads—United States—Surveys—Maps",
+    "Maps—United States—1852",
+    "Transportation maps—United States—1852"
   ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:59Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-23T15:40:12Z",
   "layer_id_s": "public-figgy:p-d4053473-4b87-4511-bd8b-38a8b97581f4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246869\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/4a262b29-9c0e-4dec-9012-ff10b052c65f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/5c690f48-f4cc-4da4-bdaa-0264c2eb356b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f7%2F30%2F8e%2Ff7308e5a0c63427ba081dc78ea9f75a8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60d55ce1-2b59-4b78-918f-04d81772c20c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246869\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/4a262b29-9c0e-4dec-9012-ff10b052c65f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4053473-4b87-4511-bd8b-38a8b97581f4/file/5c690f48-f4cc-4da4-bdaa-0264c2eb356b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/61%2Feb%2Ff5%2F61ebf5c22953475c97f724c89da6ce26%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60d55ce1-2b59-4b78-918f-04d81772c20c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6836"
 }

@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-c821gn714",
   "uuid": "princeton-c821gn714",
   "dc_title_s": "Newark, N.J., vol. 1",
-  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_geom": "ENVELOPE(-74.151604, -74.118001, 40.730787, 40.698454)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Sheets 91, 106, 108 and 113 of Insurance maps of Newark, N.J., vol. 1, series; sheets 91, 106 and 108: New sheet, Mar. 1920; sheet 113: Add'l sheet, Mar. 1920.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "[New York] : Sanborn Map Co., 1920.",
   "dc_subject_sm": [
     "Real property—New Jersey—Newark—Maps",
-    "Newark (N.J.)—Maps"
+    "Newark (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Newark—1920",
+    "Maps—New Jersey—Newark—1920"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:36:36Z",
+  "solr_year_i": 1920,
+  "layer_modified_dt": "2020-06-23T19:56:50Z",
   "layer_id_s": "ark:/88435/c821gn714",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704402\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/208466d7-9ccf-4470-a21b-34589a207e2d/file/4787f971-de9c-4c62-b819-bdc7a1de37fe\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/40%2F3c%2F77%2F403c774ceb44495b8541a32f75e12442%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/087a41fb-89f0-4704-a4e9-2bd9c8c24e44/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704402\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/208466d7-9ccf-4470-a21b-34589a207e2d/file/669e81c7-e380-4e2a-8250-3fa86b48d4ef\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/65%2F58%2F09%2F655809c1a673434a95e2d606d83e72a2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/087a41fb-89f0-4704-a4e9-2bd9c8c24e44/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Newark)"
 }

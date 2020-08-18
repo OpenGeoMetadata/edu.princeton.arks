@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/9s161f33z",
+  "layer_slug_s": "princeton-9s161f33z",
+  "uuid": "princeton-9s161f33z",
+  "dc_title_s": "Uruguay migration data from 2011 census",
+  "solr_geom": "ENVELOPE(-58.439349, -53.181051, -30.085502, -34.974054)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Uruguay from the 2011 census. This census is provided at the census tract administrative level (ADM3) and includes 4,313 polygons with 730 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sexo: Hombre” was updated to D001 and given the alias “Sex: Man[Sexo: Hombre]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Uruguay",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2019"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2020-08-12T14:53:41Z",
+  "layer_id_s": "restricted-figgy:p-7781b282-51e1-4022-8c48-dc23cc8dd080",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/eb18fe45-db41-4cf1-8710-af0a6344c124/file/0c31c3b6-d8c9-4f6d-96cd-012ed16bc7e1\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7781b282-51e1-4022-8c48-dc23cc8dd080/file/d559e8a1-9f79-498a-9d68-20c995cb17a1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7781b282-51e1-4022-8c48-dc23cc8dd080/file/ea32da3b-fc1d-4c7b-88f4-9cb5fd2a80e0\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

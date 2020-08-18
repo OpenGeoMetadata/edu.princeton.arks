@@ -6,7 +6,7 @@
   "dc_title_s": "Burlington, Burlington County, New Jersey : including Springside (Sheet 11)",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Oct. 1924.\" Includes location map, key, streets and specials index, and text. \"1867.\" Title from index sheet.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Burlington—Maps",
-    "Burlington (N.J.)—Maps"
+    "Burlington (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Burlington—1924",
+    "Maps—New Jersey—Burlington—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:47:47Z",
-  "layer_id_s": "restricted-figgy:p-8531cbde-e20d-4690-b1a1-a495af5dd427",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5054867\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8531cbde-e20d-4690-b1a1-a495af5dd427/file/a690d1c1-e8d0-43e6-9ba1-14c22ca7d082\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:59:08Z",
+  "layer_id_s": "public-figgy:p-8531cbde-e20d-4690-b1a1-a495af5dd427",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5054867\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8531cbde-e20d-4690-b1a1-a495af5dd427/file/ff891a80-95e6-494d-8e39-28b0d687aa91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8531cbde-e20d-4690-b1a1-a495af5dd427/file/1e50c840-4e66-4e59-9658-b66f20ad98bc\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f7%2F0f%2F26%2Ff70f269c7d0544b4871849a9d355fa1a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f24dda14-0756-44c8-8569-a6d65623754a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

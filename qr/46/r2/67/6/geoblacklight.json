@@ -14,15 +14,18 @@
   "dc_language_s": "ita",
   "dc_publisher_s": "Roma : data in luce da Gio. Giacomo Rossi ..., 1683.",
   "dc_subject_sm": [
-    "Greece—Maps"
+    "Greece—Maps",
+    "Historical maps—Greece"
   ],
   "dct_spatial_sm": [
     "Greece"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:21Z",
+  "solr_year_i": 1683,
+  "layer_modified_dt": "2020-06-24T03:47:18Z",
   "layer_id_s": "public-figgy:p-a9fc5c66-8243-4933-8312-786b1c002671",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804884\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9fc5c66-8243-4933-8312-786b1c002671/file/f38241d6-6d02-43b9-9f49-161480a81f58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9fc5c66-8243-4933-8312-786b1c002671/file/e75cb566-fe4a-42ea-a3f8-fc3d8db301c3\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b2%2F0b%2Fed%2Fb20bed679eb64abcaa83780a495cdf58%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73eef0c9-6632-4a10-bacc-ab945d448121/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4804884\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9fc5c66-8243-4933-8312-786b1c002671/file/f38241d6-6d02-43b9-9f49-161480a81f58\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9fc5c66-8243-4933-8312-786b1c002671/file/e75cb566-fe4a-42ea-a3f8-fc3d8db301c3\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9e%2F3d%2F82%2F9e3d829a5598430e9f502edb9f83026b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73eef0c9-6632-4a10-bacc-ab945d448121/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2088"
 }

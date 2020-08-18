@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(72.956111, 73.157222, 33.771389, 33.6275)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Shows roads, important places, and buildings. Copyright reserved. Relief shown by gradient tints.",
+  "dc_description_s": "Shows roads, important places, and buildings. \"Copyright reserved.\" Relief shown by gradient tints.",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
@@ -16,15 +16,18 @@
   "dc_subject_sm": [
     "Islāmābād (Pakistan)—Maps",
     "Islāmābād Capital Territory (Pakistan)—Maps",
-    "Punjab (Pakistan)—Maps"
+    "Punjab (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:17:42Z",
-  "layer_id_s": "restricted-figgy:p-1f1b0d45-9f65-44f5-8817-35ca369930fc",
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2020-06-22T23:26:36Z",
+  "layer_id_s": "1f1b0d45-9f65-44f5-8817-35ca369930fc",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7700736\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1f1b0d45-9f65-44f5-8817-35ca369930fc/file/67293f5b-1985-4b14-aad7-7707000a5ca7\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.I8E635 2002 .S8"
 }

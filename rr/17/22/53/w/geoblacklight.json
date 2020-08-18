@@ -15,15 +15,18 @@
   "dc_publisher_s": "[Washington, D.C.] : Reproduction Branch, OSS, 1945.",
   "dc_subject_sm": [
     "Postal service—Japan—Tokyo—Maps",
-    "Tokyo (Japan)—Maps"
+    "Tokyo (Japan)—Maps",
+    "Thematic maps"
   ],
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2019-07-10T14:45:00Z",
+  "solr_year_i": 1945,
+  "layer_modified_dt": "2020-06-23T08:55:29Z",
   "layer_id_s": "public-figgy:p-bcb55c3c-9630-42a1-83b8-a4db347a9722",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11458244\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcb55c3c-9630-42a1-83b8-a4db347a9722/file/9d918c9c-bde4-4365-ab15-ddc2455c5c10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcb55c3c-9630-42a1-83b8-a4db347a9722/file/4e235d8e-1a23-4495-9183-f1079094f9e8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8d%2Fac%2F8f%2F8dac8fa5676246aea42b26f1eef6d5dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/37cc354e-910e-43f1-9e41-5de4faf42874/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11458244\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bcb55c3c-9630-42a1-83b8-a4db347a9722/file/9d918c9c-bde4-4365-ab15-ddc2455c5c10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bcb55c3c-9630-42a1-83b8-a4db347a9722/file/4e235d8e-1a23-4495-9183-f1079094f9e8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f8%2F48%2Fc8%2Ff848c86610914d0083274581cd8f10c5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/37cc354e-910e-43f1-9e41-5de4faf42874/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7964.T7P8 1945 .O3S7"
 }

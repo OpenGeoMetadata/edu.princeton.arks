@@ -17,7 +17,11 @@
     "Asia—Maps—Early works to 1800",
     "Asia, Central—Maps—Early works to 1800",
     "South Asia—Maps—Early works to 1800",
-    "Southeast Asia—Maps—Early works to 1800"
+    "Southeast Asia—Maps—Early works to 1800",
+    "Maps—Asia—1681",
+    "Maps—Asia, Central—1681",
+    "Maps—South Asia—1681",
+    "Maps—Southeast Asia—1681"
   ],
   "dct_spatial_sm": [
     "Asia",
@@ -25,10 +29,12 @@
     "Southeast Asia",
     "Asia, Central"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:08Z",
+  "solr_year_i": 1681,
+  "layer_modified_dt": "2020-06-23T19:46:07Z",
   "layer_id_s": "public-figgy:p-f227f322-1bda-4285-8575-fbeb2dc062a5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5718135\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f227f322-1bda-4285-8575-fbeb2dc062a5/file/4dfe635c-b193-44e8-825a-6679e61144a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f227f322-1bda-4285-8575-fbeb2dc062a5/file/0937babe-1379-4a47-a726-1192cf926283\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e3%2F33%2F1b%2Fe3331b72180547a2a57fe7a237d900c5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a44c421-1f60-418d-9c12-0a77f5465bc6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5718135\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f227f322-1bda-4285-8575-fbeb2dc062a5/file/4dfe635c-b193-44e8-825a-6679e61144a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f227f322-1bda-4285-8575-fbeb2dc062a5/file/0937babe-1379-4a47-a726-1192cf926283\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b3%2F15%2F66%2Fb3156671dacb4eddb18bb02e10ccc821%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4a44c421-1f60-418d-9c12-0a77f5465bc6/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.396"
 }

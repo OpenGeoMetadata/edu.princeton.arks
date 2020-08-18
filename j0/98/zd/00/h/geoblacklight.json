@@ -16,7 +16,13 @@
     "Saint Augustine (Fla.)—Maps—Early works to 1800",
     "Haiti—Maps—Early works to 1800",
     "Mexico City (Mexico)—Maps—Early works to 1800",
-    "Veracruz (Veracruz-Llave, Mexico)—Maps—Early works to 1800"
+    "Veracruz (Veracruz-Llave, Mexico)—Maps—Early works to 1800",
+    "Maps—Caribbean Area—1750",
+    "Maps—Central America—1750",
+    "Maps—Florida—Saint Augustine—1750",
+    "Maps—Haiti—1750",
+    "Maps—Mexico—Mexico City—1750",
+    "Maps—Mexico—Veracruz—1750"
   ],
   "dct_spatial_sm": [
     "Caribbean Area; Caribbean Sea",
@@ -24,10 +30,12 @@
     "Haiti",
     "Mexico"
   ],
-  "layer_modified_dt": "2019-06-04T17:30:38Z",
+  "solr_year_i": 1750,
+  "layer_modified_dt": "2020-06-23T15:38:17Z",
   "layer_id_s": "public-figgy:p-fb4c661b-011d-45b6-8059-ab3acdad2170",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5127907\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb4c661b-011d-45b6-8059-ab3acdad2170/file/664b1f81-ae2d-4e1b-85f1-115cd1f50398\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb4c661b-011d-45b6-8059-ab3acdad2170/file/a457573e-d978-4cee-8990-91e2cb1b4152\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d7%2F25%2F21%2Fd72521d29e0042489b5e27db74ca4939%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea053dec-ebe4-460d-ab0b-81fb677d7e65/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5127907\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fb4c661b-011d-45b6-8059-ab3acdad2170/file/664b1f81-ae2d-4e1b-85f1-115cd1f50398\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fb4c661b-011d-45b6-8059-ab3acdad2170/file/a457573e-d978-4cee-8990-91e2cb1b4152\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/36%2F4b%2F1c%2F364b1c0b433f401a899f07f7e172423e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ea053dec-ebe4-460d-ab0b-81fb677d7e65/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3724"
 }

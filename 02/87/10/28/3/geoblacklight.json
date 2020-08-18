@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/028710283",
+  "layer_slug_s": "princeton-028710283",
+  "uuid": "princeton-028710283",
+  "dc_title_s": "Wood County, Wisconsin roads, 2014",
+  "solr_geom": "ENVELOPE(-90.458866, -89.593955, 44.786747, 44.154568)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Roads and highways in Wood County, Wisconsin, 2014. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The All Roads Shapefile includes all features within the MTDB Super Class \"Road/Path Features\" distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the feature in MTDB that begins with \"S\". This includes all primary, secondary, local neighborhood, and rural roads, city streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches, etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch"
+  ],
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dct_spatial_sm": [
+    "Wisconsin",
+    "Wood County",
+    "Wood",
+    "Marshfield",
+    "Wisconsin Rapids"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2013"
+  ],
+  "solr_year_i": 2014,
+  "layer_modified_dt": "2020-06-24T11:11:08Z",
+  "layer_id_s": "restricted-figgy:p-7041eb45-d7e7-4e68-9c26-15f214037616",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/e2d4504a-739c-44d8-a641-59ced2e488eb/file/157f38cd-5fef-44a5-83ce-027baf58567b\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7041eb45-d7e7-4e68-9c26-15f214037616/file/f93da5b2-8056-4371-b4cc-3593c5b04d8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7041eb45-d7e7-4e68-9c26-15f214037616/file/025b1954-2659-40cb-a328-c49aa3b6b282\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Line",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2013-01-01T00:00:00Z",
+  "suppressed_b": false
+}

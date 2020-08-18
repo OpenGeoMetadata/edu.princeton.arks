@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : chez Jean rue St. Jean de Beauvais No. 10, 1827.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1827",
+    "City maps—France—Paris—1827"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:27:11Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-23T16:35:38Z",
   "layer_id_s": "public-figgy:p-9132eb20-208a-4fa3-b26d-5883df23fc97",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6032247\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9132eb20-208a-4fa3-b26d-5883df23fc97/file/fb6c490c-50fe-4984-a7cb-8409694285f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9132eb20-208a-4fa3-b26d-5883df23fc97/file/876f8ef0-652a-4c72-8183-a704c1895fc0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/de%2Fed%2Fad%2Fdeedad6083fa4c319d59a83ba208319c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/24f4c49f-3e04-427c-b384-52588020cfe8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6032247\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9132eb20-208a-4fa3-b26d-5883df23fc97/file/fb6c490c-50fe-4984-a7cb-8409694285f2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9132eb20-208a-4fa3-b26d-5883df23fc97/file/876f8ef0-652a-4c72-8183-a704c1895fc0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/45%2F3c%2F9e%2F453c9e6190b848ebb074e47fa0d6ef47%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/24f4c49f-3e04-427c-b384-52588020cfe8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2399"
 }

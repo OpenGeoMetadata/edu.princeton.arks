@@ -4,10 +4,10 @@
   "layer_slug_s": "princeton-mk61rn01f",
   "uuid": "princeton-mk61rn01f",
   "dc_title_s": "Kýthēra = Kythira",
-  "solr_geom": "ENVELOPE(22.891667, 23.118611, 36.385556, 36.130278)",
+  "solr_geom": "ENVELOPE(22.890556, 23.119722, 36.383611, 36.129444)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Relief shown by gradient tints and spot heights. Verso: Directory and tourist information. Tourist map with roads emphasized. Panel title. Tourist information on verso.",
+  "dc_description_s": "Tourist map with roads emphasized. Relief shown by gradient tints and spot heights. Verso: directory and tourist information. Panel title. Tourist information on verso.",
   "dc_creator_sm": [
     "Road Ekdoseis A.E."
   ],
@@ -18,16 +18,19 @@
     "Transportation",
     "Tourist maps",
     "Topographic maps",
-    "Greece—Maps"
+    "Kythēra Island (Greece)—Maps",
+    "Road maps"
   ],
   "dct_spatial_sm": [
     "Greece"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:46Z",
+  "solr_year_i": 1999,
+  "layer_modified_dt": "2020-06-24T03:04:04Z",
   "layer_id_s": "4b67d121-fa37-4b7d-97fe-23cfab8baaf6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845895\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b67d121-fa37-4b7d-97fe-23cfab8baaf6/file/e4beb557-b6c9-4842-b10c-1de0fe283be9\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-rb68xg927"
   ],

@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Belgium—Maps",
     "Luxembourg—Maps",
-    "Netherlands—Maps"
+    "Netherlands—Maps",
+    "Maps—Belgium—1889",
+    "Maps—Luxembourg—1889",
+    "Maps—Netherlands—1889"
   ],
   "dct_spatial_sm": [
     "Netherlands",
     "Belgium",
     "Luxembourg"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:03Z",
+  "solr_year_i": 1889,
+  "layer_modified_dt": "2020-06-24T03:53:01Z",
   "layer_id_s": "public-figgy:p-24ba8af9-900b-4d06-b262-f370431f19db",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6936701\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24ba8af9-900b-4d06-b262-f370431f19db/file/8ff87e76-eae5-4f00-9c5e-1d7072ae2f0c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24ba8af9-900b-4d06-b262-f370431f19db/file/4ec6a395-8de1-43d3-8efa-c43836bd1640\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a1%2Ff0%2Fc1%2Fa1f0c1dc80f9492eb7671030887e100f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/361bb8da-d7a6-4d58-809f-0b47ace6d86c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6936701\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24ba8af9-900b-4d06-b262-f370431f19db/file/8ff87e76-eae5-4f00-9c5e-1d7072ae2f0c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24ba8af9-900b-4d06-b262-f370431f19db/file/4ec6a395-8de1-43d3-8efa-c43836bd1640\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2c%2F68%2F29%2F2c682967e102473c99cd28985d680c91%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/361bb8da-d7a6-4d58-809f-0b47ace6d86c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5381"
 }

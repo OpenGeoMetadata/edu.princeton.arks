@@ -17,7 +17,11 @@
     "Finland—Maps",
     "Norway—Maps",
     "Russia—Maps",
-    "Sweden—Maps"
+    "Sweden—Maps",
+    "Maps—Finland—1877",
+    "Maps—Norway—1877",
+    "Maps—Russia—1877",
+    "Maps—Sweden—1877"
   ],
   "dct_spatial_sm": [
     "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
@@ -25,10 +29,12 @@
     "Sweden",
     "Finland"
   ],
-  "layer_modified_dt": "2019-06-04T19:31:31Z",
+  "solr_year_i": 1877,
+  "layer_modified_dt": "2020-06-23T15:34:17Z",
   "layer_id_s": "public-figgy:p-602bc05d-47d2-45d9-8397-3eb27aa278f8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8239054\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/602bc05d-47d2-45d9-8397-3eb27aa278f8/file/b32a614a-6e7f-4c57-8ddf-fe5ef3bc0a68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/602bc05d-47d2-45d9-8397-3eb27aa278f8/file/38fbc362-b3c2-453a-8d0c-48cece6ff99f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/10%2F5f%2Fbd%2F105fbd6f72644c94a8e80e09dea9f7dc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f73b4485-de5e-4aed-b348-aaccc8ebcf85/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8239054\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/602bc05d-47d2-45d9-8397-3eb27aa278f8/file/b32a614a-6e7f-4c57-8ddf-fe5ef3bc0a68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/602bc05d-47d2-45d9-8397-3eb27aa278f8/file/c7c7b0c3-ba6a-4e84-ab6a-963e5915f836\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b4%2F65%2Fa2%2Fb465a2493c9d4f72bf55da68f4ba2950%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f73b4485-de5e-4aed-b348-aaccc8ebcf85/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.520"
 }

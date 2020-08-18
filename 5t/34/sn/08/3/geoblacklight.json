@@ -16,7 +16,10 @@
   "dc_subject_sm": [
     "Central America—Maps",
     "Mexico—Maps",
-    "Southwestern States—Maps"
+    "Southwestern States—Maps",
+    "Maps—Central America—1825",
+    "Maps—Mexico—1825",
+    "Maps—Southwestern States—1825"
   ],
   "dct_spatial_sm": [
     "Central America",
@@ -24,10 +27,12 @@
     "Southwest, New",
     "Southern States"
   ],
-  "layer_modified_dt": "2019-06-04T18:10:37Z",
+  "solr_year_i": 1825,
+  "layer_modified_dt": "2020-06-24T10:21:59Z",
   "layer_id_s": "public-figgy:p-ea02d179-1723-4655-b1df-802665dd7914",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7921055\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea02d179-1723-4655-b1df-802665dd7914/file/f7b82d3c-1323-49f4-a6ae-3a47e1955df6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea02d179-1723-4655-b1df-802665dd7914/file/4eaac899-b01f-42f6-a0e4-dfd4b1a0562f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5c%2F4d%2F68%2F5c4d68c0867d416b90b913b114ba5de7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01bde0eb-70c2-4893-8419-8f82684a3683/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7921055\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ea02d179-1723-4655-b1df-802665dd7914/file/f7b82d3c-1323-49f4-a6ae-3a47e1955df6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ea02d179-1723-4655-b1df-802665dd7914/file/4eaac899-b01f-42f6-a0e4-dfd4b1a0562f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/70%2F7c%2F5f%2F707c5fcada84415c8f94f4d21a4e0d95%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/01bde0eb-70c2-4893-8419-8f82684a3683/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7063"
 }

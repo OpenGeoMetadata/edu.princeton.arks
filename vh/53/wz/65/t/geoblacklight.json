@@ -6,7 +6,7 @@
   "dc_title_s": "Oaklyn",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Sept. 1924.\" Includes text. North oriented towards upper left. \"1803.\" Historic Maps copy has sheets 4 and 10-12 of Audubon, N.J. series, showing Oaklyn.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "[New York : Sanborn Map Company, 1924]",
   "dc_subject_sm": [
     "Real property—New Jersey—Oaklyn—Maps",
-    "Oaklyn (N.J.)—Maps"
+    "Oaklyn (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Oaklyn—1924",
+    "Maps—New Jersey—Oaklyn—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:39:40Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:09:59Z",
   "layer_id_s": "ark:/88435/vh53wz65t",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409321\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2ee044b-8943-4f51-bf8a-015f3d695f08/file/67fe338f-10a3-4f2a-830c-2c79be24e8c0\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409321\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b2ee044b-8943-4f51-bf8a-015f3d695f08/file/33280aa6-23e7-483c-8799-5c959781a960\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6e%2F80%2Fdd%2F6e80dd4fb4644c969a6add3bf238a374%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/329ace3e-9e21-4671-8c9f-e842b732e90f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Oaklyn)"
 }

@@ -15,15 +15,19 @@
   "dc_publisher_s": "Dublin : James McGlashan, 50 Upper Sackville St, 1851.",
   "dc_subject_sm": [
     "Roads—Ireland—Maps",
-    "Ireland—Maps"
+    "Ireland—Maps",
+    "Maps—Ireland—1851",
+    "Road maps—Ireland—1851"
   ],
   "dct_spatial_sm": [
     "Ireland"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:55Z",
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2020-06-23T16:39:02Z",
   "layer_id_s": "public-figgy:p-c2fa243c-9854-4b08-98c5-8b418d00c7a7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7785265\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/c321aab6-e200-4512-b59f-ae0a6cf22ab4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/aabe693a-4f70-4cae-ad84-dff45fc9786c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/27%2F11%2Fcb%2F2711cb482ffd4205b2068661f110dc17%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0c69c42-835d-49bc-b215-45d4d1458e56/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7785265\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/c321aab6-e200-4512-b59f-ae0a6cf22ab4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2fa243c-9854-4b08-98c5-8b418d00c7a7/file/aabe693a-4f70-4cae-ad84-dff45fc9786c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4b%2F54%2F88%2F4b548866af1d4b62a10452a97011e955%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c0c69c42-835d-49bc-b215-45d4d1458e56/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5001"
 }

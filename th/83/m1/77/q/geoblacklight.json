@@ -17,17 +17,23 @@
     "Colombia—Maps",
     "Ecuador—Maps",
     "Peru—Maps",
-    "Venezuela—Maps"
+    "Venezuela—Maps",
+    "Maps—Colombia—1854",
+    "Maps—Ecuador—1854",
+    "Maps—Peru—1854",
+    "Maps—Venezuela—1854"
   ],
   "dct_spatial_sm": [
     "Venezuela",
     "Ecuador",
     "Peru"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:59Z",
+  "solr_year_i": 1857,
+  "layer_modified_dt": "2020-06-24T03:50:37Z",
   "layer_id_s": "public-figgy:p-2539ce95-48da-4d46-834d-ff524b746f5a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6550299\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2539ce95-48da-4d46-834d-ff524b746f5a/file/8505281a-ec53-4e80-b24d-121d1ea1f432\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2539ce95-48da-4d46-834d-ff524b746f5a/file/daba1658-46a2-4b87-a66a-191132eeeb51\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/83%2Fd8%2F78%2F83d8784707bd47c7a247502da0a479a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19b6fa0e-e775-489c-a160-6399f9bbde3c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6550299\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2539ce95-48da-4d46-834d-ff524b746f5a/file/8505281a-ec53-4e80-b24d-121d1ea1f432\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2539ce95-48da-4d46-834d-ff524b746f5a/file/daba1658-46a2-4b87-a66a-191132eeeb51\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/fa%2F41%2F2e%2Ffa412ef2f455464db6c67f50fe031060%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19b6fa0e-e775-489c-a160-6399f9bbde3c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6111"
 }

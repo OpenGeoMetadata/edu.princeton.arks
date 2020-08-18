@@ -18,7 +18,11 @@
     "Black Sea—Maps—Early works to 1800",
     "Europe, Eastern—Maps—Early works to 1800",
     "Turkey—Maps—Early works to 1800",
-    "Ukraine—Maps—Early works to 1800"
+    "Ukraine—Maps—Early works to 1800",
+    "Maps—Black Sea—1737",
+    "Maps—Europe, Eastern—1737",
+    "Maps—Turkey—1737",
+    "Maps—Ukraine—1737"
   ],
   "dct_spatial_sm": [
     "Europe, Eastern",
@@ -26,10 +30,12 @@
     "Ukraine",
     "Turkey"
   ],
-  "layer_modified_dt": "2019-06-04T18:15:22Z",
+  "solr_year_i": 1737,
+  "layer_modified_dt": "2020-06-23T16:37:50Z",
   "layer_id_s": "public-figgy:p-2a5feb27-19f5-4810-860d-fc91603db026",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8820519\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a5feb27-19f5-4810-860d-fc91603db026/file/c7079cbc-99e5-4660-a6e7-ab72e18ee2f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a5feb27-19f5-4810-860d-fc91603db026/file/ce8a77b2-ab86-4cf3-8de1-67022aa5ed9e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3a%2Ffe%2F75%2F3afe75c120474b01a041808426e0a2e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/102d159e-2a85-47b7-af2c-3a99964f0e96/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8820519\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a5feb27-19f5-4810-860d-fc91603db026/file/c7079cbc-99e5-4660-a6e7-ab72e18ee2f9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a5feb27-19f5-4810-860d-fc91603db026/file/ce8a77b2-ab86-4cf3-8de1-67022aa5ed9e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7b%2F6d%2F4b%2F7b6d4b72569740c986ac668e900bf79b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/102d159e-2a85-47b7-af2c-3a99964f0e96/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7135"
 }

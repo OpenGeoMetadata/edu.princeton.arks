@@ -12,15 +12,19 @@
   "dc_publisher_s": "A Paris : Chez Esnault le jeune editeur ... , 1815.",
   "dc_subject_sm": [
     "Paris (France)—Maps, Tourist",
-    "Streets—France—Paris—Maps"
+    "Streets—France—Paris—Maps",
+    "Maps—France—Paris—1815",
+    "Tourist maps—France—Paris—1815"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:20Z",
+  "solr_year_i": 1815,
+  "layer_modified_dt": "2020-06-24T03:51:36Z",
   "layer_id_s": "public-figgy:p-bb9f9564-b02d-4ad3-b7d6-40978c80c3fb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/fe62661f-cbc3-4c31-8fde-5d939553b84a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/9ef73af2-034f-4539-af33-31d0d7b6f63b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9e%2Fc5%2F60%2F9ec5605c83c34fd9801dd6c6c8974b07%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28eb5384-5615-4533-a15b-890c849936bc/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/fe62661f-cbc3-4c31-8fde-5d939553b84a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb9f9564-b02d-4ad3-b7d6-40978c80c3fb/file/9ef73af2-034f-4539-af33-31d0d7b6f63b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f5%2F17%2Ffd%2Ff517fd7f18334f7891d22d020b410121%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28eb5384-5615-4533-a15b-890c849936bc/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3003"
 }

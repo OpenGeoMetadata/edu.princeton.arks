@@ -6,7 +6,7 @@
   "dc_title_s": "Milltown, Middlesex County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.449486, -74.423035, 40.463366, 40.434438)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, key map, streets and specials index, and text. \"May 1924.\" \"1589.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Milltown—Maps",
-    "Milltown (N.J.)—Maps"
+    "Milltown (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Milltown—1924",
+    "Maps—New Jersey—Milltown—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:14:12Z",
-  "layer_id_s": "restricted-figgy:p-d6fba071-03dc-4451-b607-0e4e78dcf2c4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527064\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6fba071-03dc-4451-b607-0e4e78dcf2c4/file/7f74055f-71bc-4f25-ade3-c2fda12bd4f8\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:12:26Z",
+  "layer_id_s": "public-figgy:p-d6fba071-03dc-4451-b607-0e4e78dcf2c4",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527064\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d6fba071-03dc-4451-b607-0e4e78dcf2c4/file/b838e66c-1d56-48ad-b744-b0802f3702fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d6fba071-03dc-4451-b607-0e4e78dcf2c4/file/d109a853-f69c-4809-8322-b84b9784e8b0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7a%2F17%2Fc9%2F7a17c971df1845b0ac44cb61905829ac%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/80e6975b-7f08-46eb-86c1-76f8158618b1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

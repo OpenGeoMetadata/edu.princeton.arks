@@ -6,7 +6,7 @@
   "dc_title_s": "Oaklyn (Sheet 10)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Sept. 1924.\" Includes text. North oriented towards upper left. \"1803.\" Historic Maps copy has sheets 4 and 10-12 of Audubon, N.J. series, showing Oaklyn.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "[New York : Sanborn Map Company, 1924]",
   "dc_subject_sm": [
     "Real property—New Jersey—Oaklyn—Maps",
-    "Oaklyn (N.J.)—Maps"
+    "Oaklyn (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Oaklyn—1924",
+    "Maps—New Jersey—Oaklyn—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:39:44Z",
-  "layer_id_s": "restricted-figgy:p-eb06eec5-8524-47c2-8792-e62c7968da1d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409321\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb06eec5-8524-47c2-8792-e62c7968da1d/file/7b9859e6-a3da-4a96-a9fe-e3915a0ea44b\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:09:52Z",
+  "layer_id_s": "public-figgy:p-eb06eec5-8524-47c2-8792-e62c7968da1d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5409321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb06eec5-8524-47c2-8792-e62c7968da1d/file/c6fcf448-f0c1-409b-87d1-3163470d9cde\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb06eec5-8524-47c2-8792-e62c7968da1d/file/84cc684a-258f-46be-b673-456fb5697358\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/8f%2F5c%2F76%2F8f5c76f8181a47559c05c9fe13eee6b2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fdf6f611-87ed-4fd3-bbe8-c0dd97259b23/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -18,7 +18,12 @@
     "Harbors—Massachusetts—Boston—Maps",
     "Harbors—New York (State)—New York—Maps",
     "Harbors—South Carolina—Charleston—Maps",
-    "Delaware River (N.Y.-Del. and N.J.)—Maps"
+    "Delaware River (N.Y.-Del. and N.J.)—Maps",
+    "Maps—Cuba—Havana—1778",
+    "Maps—Massachusetts—Boston—1778",
+    "Maps—New York (State)—New York—1778",
+    "Maps—Pennsylvania—Philadelphia—1778",
+    "Maps—South Carolina—Charleston—1778"
   ],
   "dct_spatial_sm": [
     "New York",
@@ -27,10 +32,12 @@
     "South Carolina",
     "Cuba"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:18Z",
+  "solr_year_i": 1778,
+  "layer_modified_dt": "2020-06-23T16:35:50Z",
   "layer_id_s": "public-figgy:p-d0da9428-55fa-41f3-90eb-f61490e02936",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6425742\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0da9428-55fa-41f3-90eb-f61490e02936/file/d47c3f7f-fbb5-48e9-97ce-b1ea0ffada34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0da9428-55fa-41f3-90eb-f61490e02936/file/2bc9b455-22b0-417f-badd-5129e3df10e6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f6%2F82%2F11%2Ff68211e12ef64c9a88611a4599c4b598%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fcb9ed30-e845-4c85-aca0-bed890fd9886/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6425742\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d0da9428-55fa-41f3-90eb-f61490e02936/file/d47c3f7f-fbb5-48e9-97ce-b1ea0ffada34\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d0da9428-55fa-41f3-90eb-f61490e02936/file/2bc9b455-22b0-417f-badd-5129e3df10e6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/13%2F91%2Fce%2F1391ceefe6884310878f4441f0f19ceb%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fcb9ed30-e845-4c85-aca0-bed890fd9886/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6705"
 }

@@ -16,16 +16,21 @@
   "dc_subject_sm": [
     "Belgium—Maps",
     "Luxembourg—Maps",
-    "Netherlands—Maps"
+    "Netherlands—Maps",
+    "Maps—Belgium—1912",
+    "Maps—Luxembourg—1912",
+    "Maps—Netherlands—1912"
   ],
   "dct_spatial_sm": [
     "Netherlands",
     "Belgium",
     "Luxembourg"
   ],
-  "layer_modified_dt": "2019-06-04T19:01:18Z",
+  "solr_year_i": 1912,
+  "layer_modified_dt": "2020-06-23T14:35:14Z",
   "layer_id_s": "ark:/88435/bv73c289z",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6936709\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68a68831-f94e-4a6c-8cd3-e1d0ac90b78a/file/8751c031-245d-4167-8864-9ee42005e99a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/48%2F9b%2F4d%2F489b4d8fbd024fddad1f9a8e3722a601%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/942358aa-d048-4b12-b654-245d7b18d5e6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6936709\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/68a68831-f94e-4a6c-8cd3-e1d0ac90b78a/file/941a43d2-0225-404e-8d99-23073f21147d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/26%2F7e%2F0f%2F267e0fbfe70d4d258058308c7e52a908%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/942358aa-d048-4b12-b654-245d7b18d5e6/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5377"
 }

@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-765373987",
   "uuid": "princeton-765373987",
   "dc_title_s": "Nova São Paulo",
-  "solr_geom": "ENVELOPE(-46.771111, -46.528889, -23.653333, -23.66222)",
+  "solr_geom": "ENVELOPE(-46.771111, -46.528889, -23.50205, -23.66222)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Map shows municipal, district and sub-district boundaries.",
@@ -21,10 +21,12 @@
   "dct_spatial_sm": [
     "Brazil"
   ],
-  "layer_modified_dt": "2019-06-04T17:05:46Z",
+  "solr_year_i": 1990,
+  "layer_modified_dt": "2020-06-23T16:41:41Z",
   "layer_id_s": "restricted-figgy:p-a33701ce-a125-46ce-b694-e6c0045caffb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6809833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a33701ce-a125-46ce-b694-e6c0045caffb/file/93617722-f6e3-4ebf-927d-a52556f25f95\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6809833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a33701ce-a125-46ce-b694-e6c0045caffb/file/d56387e2-76c0-43df-b5c6-930e89ee265c\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5404.S7 1990 .G4"
 }

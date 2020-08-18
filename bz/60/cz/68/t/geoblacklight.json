@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[ New York] : American Express Co., [ca. 1887]",
   "dc_subject_sm": [
-    "New York (N.Y.)—Maps"
+    "New York (N.Y.)—Maps",
+    "Maps—New York (State)—New York—1887"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:06Z",
+  "solr_year_i": 1887,
+  "layer_modified_dt": "2020-06-23T16:35:31Z",
   "layer_id_s": "public-figgy:p-6c3401ea-5aaf-45aa-a8b6-888f292bfe5a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6247613\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c3401ea-5aaf-45aa-a8b6-888f292bfe5a/file/08c1ce34-cba2-4529-9e0a-5af8efeaa677\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c3401ea-5aaf-45aa-a8b6-888f292bfe5a/file/0829dd8d-a40f-46e8-8188-407ef43cf27a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/41%2F41%2Fcd%2F4141cd37aa354895ac1d01e9a4908c94%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18c5fe59-ad7a-4718-affb-b3e79a562e9c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6247613\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6c3401ea-5aaf-45aa-a8b6-888f292bfe5a/file/08c1ce34-cba2-4529-9e0a-5af8efeaa677\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6c3401ea-5aaf-45aa-a8b6-888f292bfe5a/file/0829dd8d-a40f-46e8-8188-407ef43cf27a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/8c%2Fbd%2F83%2F8cbd8370595f40b0b7958d437022e3f8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18c5fe59-ad7a-4718-affb-b3e79a562e9c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5557"
 }

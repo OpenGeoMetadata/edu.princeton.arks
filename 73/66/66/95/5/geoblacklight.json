@@ -9,6 +9,7 @@
   "dc_rights_s": "Public",
   "dc_description_s": "Facsimile of facsimile of ms. in the library of the British Museum. \"From the original facsimile in the possession of George H. Moore.\" \"Lith. for D.T. Valentine's Manual, 1859.\" \"Entered according to act of Congress in the 1859 by George Hayward.\" Oriented with north to lower left. Map within decorative border. Title within illustrative cartouche.",
   "dc_creator_sm": [
+    "Hayward, George, approximately 1800-",
     "Hayward, George, b. ca. 1800"
   ],
   "dc_language_s": "eng",
@@ -17,14 +18,17 @@
     "Manhattan (New York, N.Y.)—Maps, Manuscript—Early works to 1800—Facsimiles",
     "Manhattan (New York, N.Y.)—Maps, Pictorial—Early works to 1800—Facsimiles",
     "New York (N.Y.)—Maps, Manuscript—Early works to 1800—Facsimiles",
-    "New York (N.Y.)—Maps, Pictorial—Early works to 1800—Facsimiles"
+    "New York (N.Y.)—Maps, Pictorial—Early works to 1800—Facsimiles",
+    "Historical maps—New York (State)—New York"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T19:34:12Z",
+  "solr_year_i": 1859,
+  "layer_modified_dt": "2020-06-22T22:03:17Z",
   "layer_id_s": "ark:/88435/736666955",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6167453\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06eeec4f-e4b0-47b4-990f-249bccf8e52c/file/2964aa2f-a305-4e76-a555-ea066a138898\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/69%2F72%2F4b%2F69724b48a0d248e0b8849907789777c7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f244bb15-96f5-4335-aa55-c0ec253b214f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6167453\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/06eeec4f-e4b0-47b4-990f-249bccf8e52c/file/2964aa2f-a305-4e76-a555-ea066a138898\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/01%2Fd6%2F32%2F01d632ceb0e14c4c8b2cf6ee524b8173%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f244bb15-96f5-4335-aa55-c0ec253b214f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5698"
 }

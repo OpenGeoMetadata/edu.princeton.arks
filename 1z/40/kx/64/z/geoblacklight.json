@@ -3,27 +3,29 @@
   "dc_identifier_s": "ark:/88435/1z40kx64z",
   "layer_slug_s": "princeton-1z40kx64z",
   "uuid": "princeton-1z40kx64z",
-  "dc_title_s": "Guangzhou dao you tu Guangzhou tourist map",
+  "dc_title_s": "广州导游图 = Guangzhou tourist map",
   "solr_geom": "ENVELOPE(113.216389, 113.302778, 23.16, 23.1)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Selected buildings shown pictorially. Title in Chinese and English. Place names and text in English. Panel title. Cartographic Publishing House. Alternate title: Guangzhou. Includes 5 insets. Tourist information, 2 mini maps, and diagrams of Baiyan Airport on verso.",
+  "dc_description_s": "Ancillary maps on recto: Original site of the Peasant Movement Institute -- Memorial garden to the martyrs in the Guangzhou uprising -- Huanghuagang Mausoleum of the 72 martyrs -- Yuexiu Park -- Guangzhou Zoo. On verso: Sketch maps of terminal buildings of the Baiyun airport -- Foshan City]-- Zhaoqing City. Selected buildings are shown pictorially. Includes text and tourist information. \"Book no. 120114-1188\".",
   "dc_creator_sm": [
-    "Cartographic Publishing House"
+    "Di tu chu ban she",
+    "地图出版社"
   ],
-  "dc_language_s": "und",
-  "dc_publisher_s": "Beijing, China : Cartographic Pub. House, [1982]",
+  "dc_language_s": "eng",
+  "dc_publisher_s": "Beijing, China : Cartographic Publishing House, 1982.",
   "dc_subject_sm": [
     "Guangzhou (China)—Maps",
-    "China—Maps"
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Guangdong Sheng (China)"
   ],
-  "layer_modified_dt": "2019-06-04T15:25:17Z",
-  "layer_id_s": "9dc1ad73-cfe0-4cd5-9454-3a1e5d748f4b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6827408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9dc1ad73-cfe0-4cd5-9454-3a1e5d748f4b/file/6311a620-9534-4690-a93a-a09459ba9663\"}",
+  "solr_year_i": 1982,
+  "layer_modified_dt": "2020-06-24T10:31:56Z",
+  "layer_id_s": "ark:/88435/1z40kx64z",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6827408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fdd67404-555f-42a8-a4b4-48bb2483deb2/file/3276859f-9a37-4be9-bfcc-68aeea91f085\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "call_number_s": "G7824.G815E635 1982 .C3"
+  "suppressed_b": false,
+  "call_number_s": "G7824.G8E635 1982 .C3"
 }

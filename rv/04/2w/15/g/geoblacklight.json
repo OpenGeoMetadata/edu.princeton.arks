@@ -19,7 +19,9 @@
     "New Jersey—Maps—Early works to 1800",
     "New Jersey—Administrative and political divisions—Maps—Early works to 1800",
     "Northeastern States—Maps—Early works to 1800",
-    "Québec (Province)—Maps—Early works to 1800"
+    "Québec (Province)—Maps—Early works to 1800",
+    "Maps—New York (State)—1777",
+    "Maps—New Jersey—1777"
   ],
   "dct_spatial_sm": [
     "New York",
@@ -27,10 +29,12 @@
     "Northeastern States",
     "Québec (Province)"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:11Z",
+  "solr_year_i": 1777,
+  "layer_modified_dt": "2020-06-24T03:53:17Z",
   "layer_id_s": "public-figgy:p-f26cdcf6-8202-48f9-87bb-1132777b7887",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576684\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/9a3cce2b-6fee-4cc1-ba99-3c3753c9c6e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/b8ba57de-4e6b-4cdb-9c4f-2e94d8604f33\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ee%2F5a%2F83%2Fee5a831fa96b45b89b714f6eb65028cd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a116351-97d3-4ab5-88da-c2d80d5d593e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5576684\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/9a3cce2b-6fee-4cc1-ba99-3c3753c9c6e4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f26cdcf6-8202-48f9-87bb-1132777b7887/file/b8ba57de-4e6b-4cdb-9c4f-2e94d8604f33\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b3%2F90%2F85%2Fb390854ecd964608a4f32c9045e74c3c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6a116351-97d3-4ab5-88da-c2d80d5d593e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1823"
 }

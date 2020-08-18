@@ -21,16 +21,26 @@
     "Korea—Maps",
     "Malaysia—Maps",
     "Southeast Asia—Maps",
-    "Thailand—Maps"
+    "Thailand—Maps",
+    "Maps—China—1898",
+    "Maps—East Asia—1898",
+    "Maps—Indochina—1898",
+    "Maps—Japan—1898",
+    "Maps—Korea—1898",
+    "Maps—Malaysia—1898",
+    "Maps—Southeast Asia—1898",
+    "Maps—Thailand—1898"
   ],
   "dct_spatial_sm": [
     "East Asia",
     "Southeast Asia"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:50Z",
+  "solr_year_i": 1898,
+  "layer_modified_dt": "2020-06-22T22:37:17Z",
   "layer_id_s": "public-figgy:p-954e11a4-f7e6-40c6-bc2b-f871a7a7ab87",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7702890\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/954e11a4-f7e6-40c6-bc2b-f871a7a7ab87/file/9ef65925-6543-4b75-ac7f-f644b12106c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/954e11a4-f7e6-40c6-bc2b-f871a7a7ab87/file/812197b6-0e5b-4989-8050-7c75a7ad8461\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/28%2Fb7%2F4e%2F28b74e99807242f9bb8d41c91e87f1fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ed9ca13-2303-4886-8264-55a9ec77f104/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7702890\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/954e11a4-f7e6-40c6-bc2b-f871a7a7ab87/file/9ef65925-6543-4b75-ac7f-f644b12106c7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/954e11a4-f7e6-40c6-bc2b-f871a7a7ab87/file/ce96a7ee-4eda-4dae-8c4c-bf3d558239db\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b7%2F33%2F6b%2Fb7336b85546f484b8e4a2386f083c9c1%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ed9ca13-2303-4886-8264-55a9ec77f104/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.849"
 }

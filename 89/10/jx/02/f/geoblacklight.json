@@ -11,15 +11,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : Publié par Augte. Logerot, 1846.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1846",
+    "City maps—France—Paris—1846"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:57Z",
+  "solr_year_i": 1846,
+  "layer_modified_dt": "2020-06-24T03:51:38Z",
   "layer_id_s": "public-figgy:p-a947dcd9-c3de-4c33-9931-3bf67aca1399",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6032261\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a947dcd9-c3de-4c33-9931-3bf67aca1399/file/7bf145fc-459d-44ea-a8b9-c4dc07c8eefc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a947dcd9-c3de-4c33-9931-3bf67aca1399/file/ee96fe7b-08fe-42b0-9b32-79ee47637971\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2a%2F9e%2F74%2F2a9e74f94e7947b2bd5e1b55e5cca7a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b699be52-d7a0-4a3a-ad25-27a1ea5afb88/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6032261\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a947dcd9-c3de-4c33-9931-3bf67aca1399/file/7bf145fc-459d-44ea-a8b9-c4dc07c8eefc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a947dcd9-c3de-4c33-9931-3bf67aca1399/file/ee96fe7b-08fe-42b0-9b32-79ee47637971\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c0%2F01%2F47%2Fc0014706288b42909b5c0a7570848f24%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b699be52-d7a0-4a3a-ad25-27a1ea5afb88/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2393"
 }

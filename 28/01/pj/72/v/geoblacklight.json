@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : chez Le Roi, Libraire, Rue du Coq Saint-Honoré, No. 4, [ca. 1830]",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1830",
+    "City maps—France—Paris—1830"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T19:30:22Z",
+  "solr_year_i": 1830,
+  "layer_modified_dt": "2020-06-23T15:23:44Z",
   "layer_id_s": "public-figgy:p-bb69f21b-1c73-4de2-8197-d68a3258e0bc",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030697\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb69f21b-1c73-4de2-8197-d68a3258e0bc/file/3d1bbc07-d575-468f-9e83-dc69b26ab8ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb69f21b-1c73-4de2-8197-d68a3258e0bc/file/93a71d71-e3da-4c7f-8d87-76eeeb30d95a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ee%2F49%2Fa8%2Fee49a8bc0e0b408da3609dd05da35d77%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/448fa6dd-6c03-4671-8bc5-c9c023dc8db5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030697\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb69f21b-1c73-4de2-8197-d68a3258e0bc/file/3d1bbc07-d575-468f-9e83-dc69b26ab8ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb69f21b-1c73-4de2-8197-d68a3258e0bc/file/5ace8123-3d06-483a-bdca-c35b9edef30c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ed%2F1c%2F58%2Fed1c58c940a2426193626438d204c1b3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/448fa6dd-6c03-4671-8bc5-c9c023dc8db5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2391"
 }

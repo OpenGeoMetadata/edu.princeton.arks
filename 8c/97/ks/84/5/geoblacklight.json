@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : publié par E. Andriveau-Goujon ... , 1887 (Paris : imp. Chardon et Sormani).",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1887",
+    "City maps—France—Paris—1887"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:06Z",
+  "solr_year_i": 1887,
+  "layer_modified_dt": "2020-06-23T19:46:13Z",
   "layer_id_s": "public-figgy:p-43d0d804-59cd-400f-94c8-c1a4f0910839",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6135578\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43d0d804-59cd-400f-94c8-c1a4f0910839/file/9b67d523-7d9a-42ff-b429-7bccffe1b97a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43d0d804-59cd-400f-94c8-c1a4f0910839/file/1737f550-8bf3-4668-85d7-b4b4dcc62339\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9c%2F06%2F37%2F9c0637c318494d138c85f3562954a5e3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d827ad9-2d65-4dd3-84f3-efaf246a6b54/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6135578\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/43d0d804-59cd-400f-94c8-c1a4f0910839/file/9b67d523-7d9a-42ff-b429-7bccffe1b97a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/43d0d804-59cd-400f-94c8-c1a4f0910839/file/1737f550-8bf3-4668-85d7-b4b4dcc62339\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/58%2F12%2Fce%2F5812ce4b66944bb2833a3d20e1ef0f8e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d827ad9-2d65-4dd3-84f3-efaf246a6b54/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4508"
 }

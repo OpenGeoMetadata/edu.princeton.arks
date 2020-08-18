@@ -7,17 +7,25 @@
   "solr_geom": "ENVELOPE(-85.475556, -85.421667, 10.648056, 10.604167)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Alternate title: Ciudad de Liberia, Guanacaste, Costa Rica. Lambert projection. Relief shown by 10 m. contour interval and spot heights. Includes location map.",
+  "dc_description_s": "Map shows roads, railways, buildings of interest, schools, churches, rivers, densely populated zones, parks, and forests. Relief shown by 10 meter contour interval and spot heights. Includes location map. \"Esferoide de Clarke de 1866.\"",
+  "dc_creator_sm": [
+    "Instituto Geográfico Nacional (Costa Rica)"
+  ],
   "dc_language_s": "spa",
-  "dc_publisher_s": "San Jose, Costa Rica : Costa Rica. Instituto Geografico Nacional, 1991.",
+  "dc_publisher_s": "[San Jose] : Instituto geográfico nacional, 1991.",
   "dc_subject_sm": [
     "Topographic maps",
     "Costa Rica—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T19:24:47Z",
+  "dct_spatial_sm": [
+    "Costa Rica"
+  ],
+  "solr_year_i": 1991,
+  "layer_modified_dt": "2020-06-23T09:49:44Z",
   "layer_id_s": "83cc462b-752c-4834-92e8-588fd0fc669c",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6821551\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83cc462b-752c-4834-92e8-588fd0fc669c/file/65a8a1c8-3dbf-4f00-91a9-74162e77ef3e\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G4864.L4 1991 .I5G4"
 }

@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Philadelphia, Pa. : H.C. Carey & I. Lea, 1827]",
   "dc_subject_sm": [
-    "New Jersey—Historical geography—Maps"
+    "New Jersey—Historical geography—Maps",
+    "Maps—New Jersey—1827"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:49Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-23T19:57:26Z",
   "layer_id_s": "public-figgy:p-734e9959-58a0-48bf-b158-176f37361eb4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5593221\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/734e9959-58a0-48bf-b158-176f37361eb4/file/56121938-918a-4333-8969-d6cc17559494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/734e9959-58a0-48bf-b158-176f37361eb4/file/b24c5023-9c16-4bb8-a190-e2229fe4720f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ae%2F43%2Fb8%2Fae43b8e23e7841819a1e4731177eb4cf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2aded010-7819-46fb-86d2-335a226f2cd5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5593221\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/734e9959-58a0-48bf-b158-176f37361eb4/file/56121938-918a-4333-8969-d6cc17559494\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/734e9959-58a0-48bf-b158-176f37361eb4/file/b24c5023-9c16-4bb8-a190-e2229fe4720f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9c%2Ffc%2Fbb%2F9cfcbb26c3be402a88ada49efd7b0641%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2aded010-7819-46fb-86d2-335a226f2cd5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1815"
 }

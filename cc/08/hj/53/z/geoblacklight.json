@@ -6,7 +6,7 @@
   "dc_title_s": "Emerson, Bergen County, New Jersey",
   "solr_geom": "ENVELOPE(-74.057, -73.994, 40.987, 40.962)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, specials index, key and text. \"1648.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Emerson—Maps",
-    "Emerson (N.J.)—Maps"
+    "Emerson (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Emerson—1924",
+    "Maps—New Jersey—Emerson—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:43:14Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:28:08Z",
   "layer_id_s": "ark:/88435/cc08hj53z",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246067\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c21b984-c32a-4994-ae7e-670150605153/file/03869d28-afc7-4b03-969d-380edf0d9f35\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246067\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3c21b984-c32a-4994-ae7e-670150605153/file/9ab98bd2-051a-4418-82f4-251e83bb3100\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6d%2F4d%2Fa6%2F6d4da6f373bc422eaa8f9b7dade7347b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e87d0744-0820-4add-8472-3ebeaf94501b/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Emerson)"
 }

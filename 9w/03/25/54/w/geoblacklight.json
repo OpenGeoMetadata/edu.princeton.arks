@@ -17,17 +17,20 @@
     "Railroads—China—Jiangsu Sheng—Maps",
     "Railroads—China—Zhejiang Sheng—Maps",
     "Railroads—China—Shanghai—Maps",
-    "China—Maps"
+    "China—Maps",
+    "Maps—China—1917"
   ],
   "dct_spatial_sm": [
     "Jiangsu Sheng (China)",
     "Zhejiang Sheng (China)",
     "Shanghai (China)"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:48Z",
+  "solr_year_i": 1917,
+  "layer_modified_dt": "2020-06-24T03:53:24Z",
   "layer_id_s": "public-figgy:p-92771f5c-ca12-4631-96f7-e0f7fd927bed",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7711458\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92771f5c-ca12-4631-96f7-e0f7fd927bed/file/0d0c8b6b-61eb-494d-9920-0c1e5c50d319\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92771f5c-ca12-4631-96f7-e0f7fd927bed/file/2ec3a117-9742-4b61-aea8-a816db7a5940\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3e%2F9f%2F54%2F3e9f540092ec404c816cbdf3d8839ad2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef31b77d-665b-47bf-8110-1459c977f1c2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7711458\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/92771f5c-ca12-4631-96f7-e0f7fd927bed/file/0d0c8b6b-61eb-494d-9920-0c1e5c50d319\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92771f5c-ca12-4631-96f7-e0f7fd927bed/file/2ec3a117-9742-4b61-aea8-a816db7a5940\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/30%2Fbd%2F18%2F30bd188e30e04a89ab97b619867469c0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ef31b77d-665b-47bf-8110-1459c977f1c2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.828"
 }

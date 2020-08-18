@@ -17,15 +17,21 @@
     "Judges—Great Britain",
     "Judges—Ireland",
     "Great Britain—Maps",
-    "Ireland—Maps"
+    "Ireland—Maps",
+    "Maps—Great Britain—1805",
+    "Maps—Ireland—1805",
+    "Thematic maps—Great Britain—1805",
+    "Thematic maps—Ireland—1805"
   ],
   "dct_spatial_sm": [
     "Great Britain"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:18Z",
+  "solr_year_i": 1805,
+  "layer_modified_dt": "2020-06-22T22:27:18Z",
   "layer_id_s": "public-figgy:p-5ee19b50-0502-4045-953e-905991a1db03",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7212006\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ee19b50-0502-4045-953e-905991a1db03/file/7a1ef6e1-5cb4-445c-aad1-447c60092581\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ee19b50-0502-4045-953e-905991a1db03/file/21b19f89-df95-4a38-a90a-76b0f84492e7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/df%2F0c%2F34%2Fdf0c34ddbf7d4441a8f447df47908a12%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/61512b48-18b9-40bc-aa14-eb5ce3301a3e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7212006\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ee19b50-0502-4045-953e-905991a1db03/file/7a1ef6e1-5cb4-445c-aad1-447c60092581\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ee19b50-0502-4045-953e-905991a1db03/file/494a86a7-4d80-4751-b005-af1218bb0cd4\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/af%2F87%2Fec%2Faf87ec89a3f24b348277e8a1cc042e12%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/61512b48-18b9-40bc-aa14-eb5ce3301a3e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6820"
 }

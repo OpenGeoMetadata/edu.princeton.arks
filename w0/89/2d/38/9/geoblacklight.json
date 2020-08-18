@@ -3,32 +3,38 @@
   "dc_identifier_s": "ark:/88435/w0892d389",
   "layer_slug_s": "princeton-w0892d389",
   "uuid": "princeton-w0892d389",
-  "dc_title_s": "New-York city & county map : with vicinity entire, Brooklyn, Williamsburgh, Jersey City &c. in the 79th year of the independence of the United States",
-  "solr_geom": "ENVELOPE(-74.002507, -73.973368, 40.780393, 40.764793)",
+  "dc_title_s": "Map showing all the farm and boundary lines of the estates as they existed when in possession of the Apthorpe's, Vanderheuvel's, Somerindike's, Lawrence's, Harsen's, Cadel's, Dykeman's &c.",
+  "solr_geom": "ENVELOPE(-74.02875, -73.749285, 40.881412, 40.648555)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Relief shown by hachures. Hand colored. Map within decorative border. Includes ill., key, and insets of Declaration of Independence within illustrative border and map of Long Island.",
+  "dc_description_s": "Cadastral map. Also shows names of adjacent landowners, positions of old roads and buildings and the original shoreline. Oriented with north to the upper left. Includes \"Conveyances.\" Historic Maps copy has \"c\" added in ms. to \"Dykeman's\" in title. Includes ill., key, and insets of Declaration of Independence within illustrative border and map of Long Island. Relief shown by hachures. Hand colored. Map within decorative border.",
   "dc_creator_sm": [
+    "Holmes, J. B. (John Bute)",
     "Magnus, Charles"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "New York : Charles Magnus, [1855?]",
+  "dc_publisher_s": "[New York : City Surveyor, 187-?] (N[ew] Y[ork] : Mayer, Merkel & Ottmann, lith.)",
   "dc_subject_sm": [
+    "Real property—New York (State)—New York—Maps",
+    "Landowners—New York (State)—New York—Maps",
     "Manhattan (New York, N.Y.)—Maps",
-    "Brooklyn (New York, N.Y.)—Maps",
-    "Williamsburg (New York, N.Y.)—Maps",
+    "New York (N.Y.)—Maps",
+    "Historical maps—New York (State)—New York",
     "Hoboken (N.J.)—Maps",
+    "Brooklyn (New York, N.Y.)—Maps",
     "Jersey City (N.J.)—Maps",
-    "New York (N.Y.)—Maps"
+    "Williamsburg (New York, N.Y.)—Maps"
   ],
   "dct_spatial_sm": [
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:09Z",
+  "solr_year_i": 1870,
+  "layer_modified_dt": "2020-06-22T23:07:13Z",
   "layer_id_s": "public-figgy:p-cfd38850-6ff4-4073-ae36-3be1f32cd8be",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6226443\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cfd38850-6ff4-4073-ae36-3be1f32cd8be/file/3f0e1104-5d0f-40da-80e7-081b299a10db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cfd38850-6ff4-4073-ae36-3be1f32cd8be/file/b26820de-56cb-443e-8ea2-63698de75ea0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e3%2F65%2Fd0%2Fe365d0c46ea34cbb96544c7f0f8c9c25%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/910a8ee3-b169-462b-8dec-fb417cdb3834/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6226548\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cfd38850-6ff4-4073-ae36-3be1f32cd8be/file/3f0e1104-5d0f-40da-80e7-081b299a10db\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cfd38850-6ff4-4073-ae36-3be1f32cd8be/file/b26820de-56cb-443e-8ea2-63698de75ea0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/5a%2F03%2Fc6%2F5a03c62626ba40c4bdf4894819dad852%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/910a8ee3-b169-462b-8dec-fb417cdb3834/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "HMC01.5516"
+  "suppressed_b": false,
+  "call_number_s": "HMC01.6576"
 }

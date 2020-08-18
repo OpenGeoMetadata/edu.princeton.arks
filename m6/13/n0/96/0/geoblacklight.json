@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris, Danlos, 1838.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1838",
+    "City maps—France—Paris—1838"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:59Z",
+  "solr_year_i": 1838,
+  "layer_modified_dt": "2020-06-24T03:50:24Z",
   "layer_id_s": "public-figgy:p-22e1dcb8-90d8-4022-91bd-0396dc34c3e2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6027279\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22e1dcb8-90d8-4022-91bd-0396dc34c3e2/file/752a5f67-391f-48c6-b2c9-3a0e879b297f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22e1dcb8-90d8-4022-91bd-0396dc34c3e2/file/65da815d-4316-40ee-a130-3b22916d4089\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/73%2F39%2Fc6%2F7339c6dd3a18470d880ce9cf0b0b1630%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a51cdada-e82f-46a3-acea-9b8b6e813d24/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6027279\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22e1dcb8-90d8-4022-91bd-0396dc34c3e2/file/752a5f67-391f-48c6-b2c9-3a0e879b297f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22e1dcb8-90d8-4022-91bd-0396dc34c3e2/file/65da815d-4316-40ee-a130-3b22916d4089\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/89%2Fc3%2Fa8%2F89c3a8f011594853a6a351bd5540c576%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a51cdada-e82f-46a3-acea-9b8b6e813d24/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2396"
 }

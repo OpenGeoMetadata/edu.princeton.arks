@@ -4,21 +4,28 @@
   "layer_slug_s": "princeton-th83m315w",
   "uuid": "princeton-th83m315w",
   "dc_title_s": "Town plan of Kofu",
-  "solr_geom": "ENVELOPE(138.566667, 138.6, 35.666664, 35.633333)",
+  "solr_geom": "ENVELOPE(138.474722, 138.661111, 35.756944, 35.567778)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Office of Strategic Services In lower left margin: \"No. 5260 - R&A, OSS\". Includes location map.",
-  "dc_language_s": "eng",
-  "dc_publisher_s": "[Washington, D.C.] : Office of Strategic Services, 1944.",
-  "dc_subject_sm": [
-    "Topographic maps",
-    "Road maps",
-    "Kōfu-shi (Japan)—Maps"
+  "dc_description_s": "\"26 September 1944.\" In lower left margin: \"No. 5260 - R&A, OSS\". Includes location map.",
+  "dc_creator_sm": [
+    "United States. Office of Strategic Services. Research and Analysis Branch"
   ],
-  "layer_modified_dt": "2019-06-04T15:25:12Z",
+  "dc_language_s": "eng",
+  "dc_publisher_s": "[Washington, D.C.] : Office of Strategic Services. Reproduction Branch, 1944.",
+  "dc_subject_sm": [
+    "Kōfu-shi (Japan)—Maps",
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "solr_year_i": 1944,
+  "layer_modified_dt": "2020-06-24T10:44:42Z",
   "layer_id_s": "public-figgy:p-bbc05c76-3dc4-4868-a931-11c68622c910",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450032\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbc05c76-3dc4-4868-a931-11c68622c910/file/f7b877ac-c80b-49ba-b662-fb2b1749009b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbc05c76-3dc4-4868-a931-11c68622c910/file/de245a59-3f4b-4465-8e33-ead9d0fbd01c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/db%2Ff2%2F5b%2Fdbf25b957ee94650b209e30092317b3c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7539702d-c922-4301-abd1-9775f1eeb77d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450032\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bbc05c76-3dc4-4868-a931-11c68622c910/file/f7b877ac-c80b-49ba-b662-fb2b1749009b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bbc05c76-3dc4-4868-a931-11c68622c910/file/de245a59-3f4b-4465-8e33-ead9d0fbd01c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/af%2F02%2F8b%2Faf028bf8ef564da89ef2c3ac6f752d9f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7539702d-c922-4301-abd1-9775f1eeb77d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7964.K78 1944"
 }

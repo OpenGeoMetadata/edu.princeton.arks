@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Philadelphia : Published by Dobson, [1818]",
   "dc_subject_sm": [
-    "Africa, North—Maps"
+    "Africa, North—Maps",
+    "Maps—Africa, North—1818"
   ],
   "dct_spatial_sm": [
     "Africa, North"
   ],
-  "layer_modified_dt": "2019-06-04T17:10:19Z",
+  "solr_year_i": 1818,
+  "layer_modified_dt": "2020-06-24T03:47:09Z",
   "layer_id_s": "public-figgy:p-d948a6ff-9e50-49a8-bb73-c68c9e64e9c8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4640857\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d948a6ff-9e50-49a8-bb73-c68c9e64e9c8/file/864583ce-3944-48ac-9aad-ef79aca7b261\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d948a6ff-9e50-49a8-bb73-c68c9e64e9c8/file/05be6904-64a9-42f0-9645-cd6fa65a9942\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6c%2Fc5%2F83%2F6cc58377bd3c4e16a7275e0c4ca2520d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/91e61c65-9752-49a7-9d1f-ca0ac553e623/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4640857\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d948a6ff-9e50-49a8-bb73-c68c9e64e9c8/file/864583ce-3944-48ac-9aad-ef79aca7b261\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d948a6ff-9e50-49a8-bb73-c68c9e64e9c8/file/05be6904-64a9-42f0-9645-cd6fa65a9942\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/08%2F63%2F15%2F08631525a8724233926ebb87a9529df5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/91e61c65-9752-49a7-9d1f-ca0ac553e623/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.290"
 }

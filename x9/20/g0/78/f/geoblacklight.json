@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-x920g078f",
   "uuid": "princeton-x920g078f",
   "dc_title_s": "Insurance maps of Nutley-Glen Ridge, New Jersey : comprising town of Nutley and borough of Glen Ridge",
-  "solr_geom": "ENVELOPE(-74.183836, -74.130031, 40.837869, 40.80564)",
+  "solr_geom": "ENVELOPE(-74.247552, -74.129277, 40.838183, 40.802004)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Indexes on preliminary sheets 1-2. Includes keys, key maps, streets and specials indexes, graphic map of volumes, and text. \"690.\"",
@@ -17,14 +17,20 @@
     "Real property—New Jersey—Nutley—Maps",
     "Real property—New Jersey—Glen Ridge—Maps",
     "Nutley (N.J.)—Maps",
-    "Glen Ridge (N.J.)—Maps"
+    "Glen Ridge (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Nutley—1938",
+    "Fire insurance maps—New Jersey—Glen Ridge—1938",
+    "Maps—New Jersey—Nutley—1938",
+    "Maps—New Jersey—Glen Ridge—1938"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T19:10:24Z",
+  "solr_year_i": 1938,
+  "layer_modified_dt": "2020-06-24T03:10:16Z",
   "layer_id_s": "ark:/88435/x920g078f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5699512\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/335b421a-a9da-4435-affa-d3207f34b571/file/71fc5bf0-ad65-45ec-82ef-583a982739ee\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5699512\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/335b421a-a9da-4435-affa-d3207f34b571/file/16f109e3-ca52-40da-8b14-52af8423d816\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Nutley)"
 }

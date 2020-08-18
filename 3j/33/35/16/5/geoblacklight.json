@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1911.",
   "dc_subject_sm": [
     "Real property—New Jersey—Absecon—Maps",
-    "Absecon (N.J.)—Maps"
+    "Absecon (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Absecon—1911",
+    "Maps—New Jersey—Absecon—1911"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:42:20Z",
+  "solr_year_i": 1911,
+  "layer_modified_dt": "2020-06-24T11:13:49Z",
   "layer_id_s": "ark:/88435/3j3335165",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5164987\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af960482-a780-4577-9cd8-7d5682cbd65b/file/7936acde-5351-4b8d-91b7-217548e7807f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9b%2F43%2F54%2F9b4354d9331c41f1b8836f2547eebb2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2265314-e500-433e-ac82-a73c434c223b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5164987\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af960482-a780-4577-9cd8-7d5682cbd65b/file/7936acde-5351-4b8d-91b7-217548e7807f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ef%2F89%2Fba%2Fef89bafa0cd7458e822e8955a6c9c6b2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e2265314-e500-433e-ac82-a73c434c223b/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Absecon)"
 }

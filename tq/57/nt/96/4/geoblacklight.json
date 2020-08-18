@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-tq57nt964",
   "uuid": "princeton-tq57nt964",
   "dc_title_s": "Denbigh shire",
-  "solr_geom": "ENVELOPE(-3.6019609, -3.0902935, 53.357335, 52.8619561)",
+  "solr_geom": "ENVELOPE(-3.9819, -2.8483, 53.4572, 52.7984)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Inset: Denbigh. This map also used for his Theatre of the empire of Great Britaine.",
@@ -14,14 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London], Solde in Popes head alley by Iohn Sudbury and George Humble, 1610.",
   "dc_subject_sm": [
-    "Denbighshire (Wales)—Maps—Early works to 1800"
+    "Denbighshire (Wales)—Maps—Early works to 1800",
+    "Maps—Wales—Denbighshire—1610",
+    "County maps—Wales—Denbighshire—1610"
   ],
   "dct_spatial_sm": [
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:11Z",
+  "solr_year_i": 1610,
+  "layer_modified_dt": "2020-06-22T22:06:51Z",
   "layer_id_s": "ark:/88435/tq57nt964",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273121\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84c7ebad-7ba2-48cd-ae36-eb9c35463851/file/48c9fb70-9726-41c2-9702-57fb8e406fe8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/72%2F3c%2F48%2F723c484cc9b74625aabf1c9d17dc4b3a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/55708565-f791-4197-a025-f706db29ee0e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273121\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/84c7ebad-7ba2-48cd-ae36-eb9c35463851/file/48c9fb70-9726-41c2-9702-57fb8e406fe8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b8%2F5c%2Fed%2Fb85cede6ba2e44038100eb3df6b52693%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/55708565-f791-4197-a025-f706db29ee0e/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4774"
 }

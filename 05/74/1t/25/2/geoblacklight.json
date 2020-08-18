@@ -15,16 +15,20 @@
   "dc_publisher_s": "A Paris : Chez l'autheur ... , 1720.",
   "dc_subject_sm": [
     "Egypt—Maps—Early works to 1800",
-    "Nile River Valley—Maps—Early works to 1800"
+    "Nile River Valley—Maps—Early works to 1800",
+    "Maps—Egypt—1720",
+    "Maps—Nile River Valley—1720"
   ],
   "dct_spatial_sm": [
     "Egypt",
     "Nile River"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:38Z",
+  "solr_year_i": 1720,
+  "layer_modified_dt": "2020-06-23T16:36:04Z",
   "layer_id_s": "public-figgy:p-094a415a-c5d2-4540-952f-03590308d612",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4950864\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b989def9-260b-4af1-8f42-f7fea9b47ef0/file/014dc909-ed77-4c5e-8ded-1e07882e77f5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/094a415a-c5d2-4540-952f-03590308d612/file/74532b4e-5c87-41a3-a1d1-a57d5e263d82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/094a415a-c5d2-4540-952f-03590308d612/file/c6e34887-994b-42a6-ba6e-127d84dd55c2\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/65%2F2e%2F13%2F652e13156ff640ada074268c37a47231%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dbcc6e05-391d-44f6-81aa-525ed7a846e9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4950864\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b989def9-260b-4af1-8f42-f7fea9b47ef0/file/014dc909-ed77-4c5e-8ded-1e07882e77f5\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/094a415a-c5d2-4540-952f-03590308d612/file/74532b4e-5c87-41a3-a1d1-a57d5e263d82\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/094a415a-c5d2-4540-952f-03590308d612/file/c6e34887-994b-42a6-ba6e-127d84dd55c2\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b2%2Fa6%2F1f%2Fb2a61f7a0d0241a99ad890bc4e740a3d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dbcc6e05-391d-44f6-81aa-525ed7a846e9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4236"
 }

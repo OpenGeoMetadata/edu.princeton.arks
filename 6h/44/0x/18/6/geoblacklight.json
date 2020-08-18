@@ -20,7 +20,11 @@
     "New Jersey—Maps—Early works to 1800",
     "Québec (Province)—Maps—Early works to 1800",
     "New York (State)—Administrative and political divisions—Maps—Early works to 1800",
-    "New Jersey—Administrative and political divisions—Maps—Early works to 1800"
+    "New Jersey—Administrative and political divisions—Maps—Early works to 1800",
+    "Maps—New England—1777",
+    "Maps—New Jersey—1777",
+    "Maps—New York (State)—1777",
+    "Maps—Québec (Province)—1777"
   ],
   "dct_spatial_sm": [
     "Northeastern States",
@@ -28,9 +32,10 @@
     "New Jersey",
     "Québec (Province)"
   ],
-  "layer_modified_dt": "2019-06-04T19:24:43Z",
+  "solr_year_i": 1777,
+  "layer_modified_dt": "2020-06-23T11:03:11Z",
   "layer_id_s": "public-figgy:p-c38af856-5995-4456-9b24-d0694bd120ce",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5944338\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c38af856-5995-4456-9b24-d0694bd120ce/file/c578b5e5-c25b-4ce0-9325-99242e650229\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c38af856-5995-4456-9b24-d0694bd120ce/file/6e86e8a1-60cd-4328-92f6-3079030f4d06\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/11%2F06%2Fc0%2F1106c010c64648e98111b57f3b0fe17c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e66278f0-248b-4b42-9de1-532a019a8e69/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5944338\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c38af856-5995-4456-9b24-d0694bd120ce/file/c578b5e5-c25b-4ce0-9325-99242e650229\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c38af856-5995-4456-9b24-d0694bd120ce/file/6e86e8a1-60cd-4328-92f6-3079030f4d06\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b5%2F0d%2Fcc%2Fb50dcc7ed6214af69d58d395c5293e6a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e66278f0-248b-4b42-9de1-532a019a8e69/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

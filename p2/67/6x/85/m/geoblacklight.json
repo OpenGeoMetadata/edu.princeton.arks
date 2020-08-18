@@ -16,7 +16,10 @@
     "Coasts—Virginia—Maps—Early works to 1800",
     "Coasts—Maryland—Maps—Early works to 1800",
     "Coasts—New England—Maps—Early works to 1800",
-    "Coasts—Middle Atlantic States—Maps—Early works to 1800"
+    "Coasts—Middle Atlantic States—Maps—Early works to 1800",
+    "Maps—Virginia—1684",
+    "Maps—Maryland—1684",
+    "Maps—New England—1684"
   ],
   "dct_spatial_sm": [
     "Virginia",
@@ -24,10 +27,12 @@
     "New England",
     "Middle Atlantic States"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:48Z",
+  "solr_year_i": 1684,
+  "layer_modified_dt": "2020-06-24T11:03:21Z",
   "layer_id_s": "public-figgy:p-265e331e-954c-41d9-860c-5a8e3c6a7b69",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5739922\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/2e87cbde-9d02-4dab-aa52-78c01f089659\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/9f511924-30ec-45ca-a8d9-14844763179c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/43%2F72%2Fa6%2F4372a652f2544da3b4bc7a7efe11ea77%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd48dae3-5457-4e88-828b-e3668d6c3024/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5739922\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/2e87cbde-9d02-4dab-aa52-78c01f089659\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/265e331e-954c-41d9-860c-5a8e3c6a7b69/file/9f511924-30ec-45ca-a8d9-14844763179c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3f%2Fcd%2F53%2F3fcd534a84c34cae9685f7985459e3d5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd48dae3-5457-4e88-828b-e3668d6c3024/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1256"
 }

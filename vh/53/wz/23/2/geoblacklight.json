@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-vh53wz232",
   "uuid": "princeton-vh53wz232",
   "dc_title_s": "Principatus Silesiae Saganensis in suos circulos, Sagan, Priebus, et Naumburg",
-  "solr_geom": "ENVELOPE(18.0349749, 19.9740656, 51.0992051, 49.393973)",
+  "solr_geom": "ENVELOPE(14.43752, 15.876043, 51.966826, 51.35691)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially and by hachures. There is another issue in 'Atlas Silesiae'.",
@@ -14,15 +14,18 @@
   "dc_language_s": "lat",
   "dc_publisher_s": "Norimbergae : Ab Haeredibus Homannianis, [1736]",
   "dc_subject_sm": [
-    "Silesia—Maps—Early works to 1800"
+    "Silesia—Maps—Early works to 1800",
+    "Maps—Silesia—1736"
   ],
   "dct_spatial_sm": [
     "Germany",
     "Poland"
   ],
-  "layer_modified_dt": "2019-06-04T18:38:19Z",
+  "solr_year_i": 1736,
+  "layer_modified_dt": "2020-06-24T03:50:21Z",
   "layer_id_s": "ark:/88435/vh53wz232",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7341219\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f84b85a-45b3-42ab-8ad9-67de18a8781f/file/53938516-88bc-48b1-b33d-e0a89f10f360\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b3%2F89%2F79%2Fb38979513dbe4627b06a987765b6f9c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c559b31e-b8e0-4283-84c1-881aa5187ef2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7341219\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f84b85a-45b3-42ab-8ad9-67de18a8781f/file/53938516-88bc-48b1-b33d-e0a89f10f360\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d3%2F4f%2Fd0%2Fd34fd0416f124996b24c9f2742ec2007%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c559b31e-b8e0-4283-84c1-881aa5187ef2/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3200"
 }

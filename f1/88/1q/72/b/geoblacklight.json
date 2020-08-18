@@ -4,21 +4,28 @@
   "layer_slug_s": "princeton-f1881q72b",
   "uuid": "princeton-f1881q72b",
   "dc_title_s": "Leningrad",
-  "solr_geom": "ENVELOPE(30.216666666666665, 30.416666666666668, 59.983333333333334, 59.9)",
+  "solr_geom": "ENVELOPE(30.2166665, 30.4166668, 59.983334, 59.9)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Intourist. Verso: tourist information.",
-  "dc_language_s": "fra",
-  "dc_publisher_s": "[Moscow] : [s.n.], [1970[?]",
-  "dc_subject_sm": [
-    "Tourist maps",
-    "Transportation",
-    "Soviet Union—Maps"
+  "dc_description_s": "Tourist map of central district. Includes text, index to points of interest, directories, and illustrations. \"LO-1187. LFOP 1. 3. 1177.\" Verso: tourist information.",
+  "dc_creator_sm": [
+    "Inturist (Firm)"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:47Z",
-  "layer_id_s": "7d7150d4-3ca1-4c1c-ba8b-fa7989c110e0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6819393\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d7150d4-3ca1-4c1c-ba8b-fa7989c110e0/file/342ab685-4714-44b9-9a81-ea7e625dea0b\"}",
+  "dc_language_s": "fra",
+  "dc_publisher_s": "[Moscow?] : Vneshtorgizdat, [1970?]",
+  "dc_subject_sm": [
+    "Cities and towns",
+    "Tourist maps",
+    "Saint Petersburg (Russia)—Maps"
+  ],
+  "dct_spatial_sm": [
+    "Russia (Federation)"
+  ],
+  "solr_year_i": 1970,
+  "layer_modified_dt": "2020-07-03T21:37:45Z",
+  "layer_id_s": "ark:/88435/f1881q72b",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6819393\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7a16dea3-a527-4486-87f2-c6c1eb59c04c/file/b43a044f-4d5e-488f-a339-f1c220588d1b\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7064.S2E635 1970 I5"
 }

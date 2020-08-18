@@ -19,7 +19,13 @@
     "North Carolina—Maps—Early works to 1800",
     "South Atlantic States—Maps—Early works to 1800",
     "South Carolina—Maps—Early works to 1800",
-    "Virginia—Maps—Early works to 1800"
+    "Virginia—Maps—Early works to 1800",
+    "Maps—Florida—1640",
+    "Maps—Georgia—1640",
+    "Maps—North Carolina—1640",
+    "Maps—South Atlantic States—1640",
+    "Maps—South Carolina—1640",
+    "Maps—Virginia—1640"
   ],
   "dct_spatial_sm": [
     "Southern States",
@@ -29,9 +35,11 @@
     "Georgia",
     "Florida"
   ],
-  "layer_modified_dt": "2019-06-04T18:41:11Z",
+  "solr_year_i": 1640,
+  "layer_modified_dt": "2020-06-24T10:25:42Z",
   "layer_id_s": "ark:/88435/9p290c802",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107993\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08916b5d-c499-44c9-bbfe-229eb46cc930/file/e78184c5-89b5-4875-9aa5-6bd2ed92a9a4\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e5%2F61%2F23%2Fe56123cc0a184d8a961fd332128bf98a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bd75eb82-e4c9-4f07-ab3e-d6e32277ae9f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107993\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08916b5d-c499-44c9-bbfe-229eb46cc930/file/a47419bf-44bd-41f1-a752-87ea3a2890a8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/db%2Fc1%2Ff0%2Fdbc1f04ba05e4209b0c8dae0e353be5e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bd75eb82-e4c9-4f07-ab3e-d6e32277ae9f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1340"
 }

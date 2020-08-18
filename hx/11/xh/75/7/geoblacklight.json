@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "New-York : B.S. Squire, Jr., 1836, c1835.",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1836",
+    "State maps—New Jersey—1836"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:56Z",
+  "solr_year_i": 1836,
+  "layer_modified_dt": "2020-06-22T22:34:54Z",
   "layer_id_s": "public-figgy:p-38604d30-f874-4d83-a2c6-7f6585e2ed4f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7959767\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/38604d30-f874-4d83-a2c6-7f6585e2ed4f/file/90d0ddfb-2ee3-4985-8c21-e6d10df1642c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/38604d30-f874-4d83-a2c6-7f6585e2ed4f/file/4e68d79b-fcc0-4bb0-89f6-c56bddef8f40\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/67%2Faa%2F46%2F67aa46ced00143a69e0367ebb57d1276%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/42bf3c04-a4ac-47da-ad0a-7e0c3a531b74/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7959767\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/38604d30-f874-4d83-a2c6-7f6585e2ed4f/file/90d0ddfb-2ee3-4985-8c21-e6d10df1642c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/38604d30-f874-4d83-a2c6-7f6585e2ed4f/file/e6c695af-032b-4b7b-bf88-efb4ecd4b853\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7c%2Fd4%2F30%2F7cd430d3a8a14a3c950f0c51b44fded7%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/42bf3c04-a4ac-47da-ad0a-7e0c3a531b74/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7066"
 }

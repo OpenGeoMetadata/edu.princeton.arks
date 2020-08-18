@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/3n204153q",
   "layer_slug_s": "princeton-3n204153q",
   "uuid": "princeton-3n204153q",
-  "dc_title_s": "Six ethnographical maps, illustrative of \"The natural history of man,\" and \"Researches into the physical history of mankind.\" By James Cowles Prichard. [Map III: Africa]",
+  "dc_title_s": "Six ethnographical maps, illustrative of \"The natural history of man,\" and \"Researches into the physical history of mankind.\" By James Cowles Prichard. [Map II: Europe]",
   "solr_geom": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -16,10 +16,12 @@
   "dc_subject_sm": [
     "Ethnology—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:07:52Z",
-  "layer_id_s": "public-figgy:p-0821b206-73f4-47fc-ad32-8aa6f2521948",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6379524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0821b206-73f4-47fc-ad32-8aa6f2521948/file/0ec2d2a0-783e-4bd5-ac12-b53db9deddb9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0821b206-73f4-47fc-ad32-8aa6f2521948/file/98bd5f4c-719a-47b2-976c-9177d4daf032\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/96%2Fd9%2F3f%2F96d93f5855454e0c964012b8021d8ca2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/910b1331-03ab-485e-9d56-f7c9a6eeb05e/manifest\"}",
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2020-05-21T03:02:37Z",
+  "layer_id_s": "public-figgy:p-a2929278-52a3-4ba0-98fd-8378b5cf0fb2",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6379524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a2929278-52a3-4ba0-98fd-8378b5cf0fb2/file/6eb0a048-a089-4f7a-b865-6d02a1b39490\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a2929278-52a3-4ba0-98fd-8378b5cf0fb2/file/5cc0c6a8-34f7-4acf-be1f-1d21a5577242\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a6%2Fdd%2Fb3%2Fa6ddb326a542484d8488226ca00b5f67%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/65f3a187-4d2e-4283-806a-2bf77df9e2d8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "2011-0007E"
 }

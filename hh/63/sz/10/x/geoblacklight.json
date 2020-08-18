@@ -6,7 +6,7 @@
   "dc_title_s": "Elmer, Salem County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.184421, -75.164676, 39.602163, 39.583751)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1646.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Elmer—Maps",
-    "Elmer (N.J.)—Maps"
+    "Elmer (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Elmer—1924",
+    "Maps—New Jersey—Elmer—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:46Z",
-  "layer_id_s": "restricted-figgy:p-dc71435f-d58e-4d1a-ac60-70ea56d7ba86",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5592140\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc71435f-d58e-4d1a-ac60-70ea56d7ba86/file/9507d9c3-90cf-4474-b2b9-8e1fa5afbd40\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T17:42:22Z",
+  "layer_id_s": "public-figgy:p-dc71435f-d58e-4d1a-ac60-70ea56d7ba86",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5592140\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dc71435f-d58e-4d1a-ac60-70ea56d7ba86/file/8f9c69cb-a220-4d79-9a54-113072e60659\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dc71435f-d58e-4d1a-ac60-70ea56d7ba86/file/06bc795e-e061-4391-8687-fa71fad9f1ca\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/98%2Faa%2F82%2F98aa82ba7f514f2f8cb7c02842f6a37e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f43af859-ed02-4c39-b8d8-35be8441a12c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

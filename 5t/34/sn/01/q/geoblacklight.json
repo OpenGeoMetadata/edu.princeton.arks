@@ -19,7 +19,11 @@
     "North Carolina—Maps",
     "South Carolina—Maps",
     "United States—History—Revolution, 1775-1783—Maps",
-    "Virginia—Maps"
+    "Virginia—Maps",
+    "Historical maps—Georgia",
+    "Historical maps—North Carolina",
+    "Historical maps—South Carolina",
+    "Historical maps—Virginia"
   ],
   "dct_spatial_sm": [
     "United States",
@@ -28,10 +32,12 @@
     "South Carolina",
     "Virginia"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:29Z",
+  "solr_year_i": 1807,
+  "layer_modified_dt": "2020-06-24T03:50:28Z",
   "layer_id_s": "public-figgy:p-b32b569b-e674-49b8-9d7f-41aea7026945",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6417540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b32b569b-e674-49b8-9d7f-41aea7026945/file/54e4b0e5-f2ec-4a73-b594-c41a84d1db35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b32b569b-e674-49b8-9d7f-41aea7026945/file/3664dbff-41e9-4c3d-afa4-4c7486f460c2\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/47%2F0c%2Fd7%2F470cd77b237340aea844b8a5eff28cfd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a78b3d8-d09d-4a79-88ef-f9fbd0ffec2e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6417540\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b32b569b-e674-49b8-9d7f-41aea7026945/file/54e4b0e5-f2ec-4a73-b594-c41a84d1db35\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b32b569b-e674-49b8-9d7f-41aea7026945/file/3664dbff-41e9-4c3d-afa4-4c7486f460c2\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/1d%2Ff8%2F5d%2F1df85d0b5d5e4cc89d1059a88ae95f6e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a78b3d8-d09d-4a79-88ef-f9fbd0ffec2e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6688"
 }

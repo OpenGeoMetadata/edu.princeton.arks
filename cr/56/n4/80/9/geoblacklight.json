@@ -3,28 +3,31 @@
   "dc_identifier_s": "ark:/88435/cr56n4809",
   "layer_slug_s": "princeton-cr56n4809",
   "uuid": "princeton-cr56n4809",
-  "dc_title_s": "Lahore guide map surveyed 2002-2003",
-  "solr_geom": "ENVELOPE(74.346389, 74.399722, 31.658889, 31.411667)",
+  "dc_title_s": "Lahore guide map",
+  "solr_geom": "ENVELOPE(74.201944, 74.450556, 31.638056, 31.441944)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Ed. 2003 (Digital) Pictorial relief. Map shows petrol stations and population density. Includes names of important buildings and other tourist information. In upper right margin: \"Surveyed 2002-2003.\" Published under the authority of Major General Jamil-ur-Rahman Afridi, Surveyor General of Pakistan. \"Refer to this map as: 1:30,000 Lahore guide map first edition 2003 (digital).\"",
+  "dc_description_s": "Includes names of important buildings and other tourist information. In upper right margin: \"Surveyed 2002-2003.\" Published under the authority of Major General Jamil-ur-Rahman Afridi, Surveyor General of Pākistān. \"REG. no. 43 RWD 2003 (No. 2 C.O.)\".",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Faizabad Rawalpindi : Survey of Pakistan, 2003.",
+  "dc_publisher_s": "Faizabad Rāwalpindi : Survey of Pākistān, 2003.",
   "dc_subject_sm": [
     "Central business districts—Pakistan—Lahore—Maps",
     "Lahore (Pakistan)—Maps",
-    "Lahore Metropolitan Area (Pakistan)—Maps"
+    "Lahore Metropolitan Area (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:03:25Z",
-  "layer_id_s": "restricted-figgy:p-3d2fbe2e-47af-47d4-98e6-71791d34bf2a",
+  "solr_year_i": 2003,
+  "layer_modified_dt": "2020-06-23T20:28:06Z",
+  "layer_id_s": "3d2fbe2e-47af-47d4-98e6-71791d34bf2a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845978\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d2fbe2e-47af-47d4-98e6-71791d34bf2a/file/1a7a715a-52c8-4c22-91eb-d70ea814a8e5\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.L3 2003 .S8P3"
 }

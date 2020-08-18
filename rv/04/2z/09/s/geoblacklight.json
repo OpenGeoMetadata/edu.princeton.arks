@@ -7,20 +7,23 @@
   "solr_geom": "ENVELOPE(3.0, 3.05, 50.666667, 50.633333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Map shows city boundary, street names, principal sites and roads. On verso: \"Nomenclature des rues et voies diverses de la ville de Lambersart.\" \" Répertoires des Adresses du nord de la France.\"",
+  "dc_description_s": "Map shows city boundary, street names, principal sites and roads. On verso: \"Nomenclature des rues et voies diverses de la ville de Lambersart.\" \"Répertoires des Adresses du nord de la France.\"",
   "dc_creator_sm": [
     "Ravet-Anceau (Firm)"
   ],
   "dc_language_s": "fra",
   "dc_publisher_s": "[Lille] : Annuaires Ravet-Anceau, [date of publication not identified].",
   "dc_subject_sm": [
-    "Lambersart (France)—Maps"
+    "Lambersart (France)—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:06:53Z",
+  "solr_year_i": 2019,
+  "layer_modified_dt": "2020-06-23T19:09:19Z",
   "layer_id_s": "e4c535b6-7f67-436e-92d6-c0ac8307f011",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820458\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4c535b6-7f67-436e-92d6-c0ac8307f011/file/6521b587-9adc-4ba5-8e11-f4bfb97723e3\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-h989r7229"
   ],

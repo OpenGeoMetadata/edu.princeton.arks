@@ -18,7 +18,12 @@
     "Poland—Maps—Early works to 1800",
     "Russia—Maps—Early works to 1800",
     "Sweden—Maps—Early works to 1800",
-    "Ukraine—Maps—Early works to 1800"
+    "Ukraine—Maps—Early works to 1800",
+    "Maps—Baltic States—1562",
+    "Maps—Poland—1562",
+    "Maps—Russia—1562",
+    "Maps—Scandinavia—1562",
+    "Maps—Ukraine—1562"
   ],
   "dct_spatial_sm": [
     "Baltic States",
@@ -27,9 +32,10 @@
     "Scandinavia",
     "Ukraine"
   ],
-  "layer_modified_dt": "2019-06-04T18:26:29Z",
+  "solr_year_i": 1562,
+  "layer_modified_dt": "2020-06-24T10:22:39Z",
   "layer_id_s": "public-figgy:p-eede021f-7c46-4592-8ae0-e1d73c53ffb9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8215458\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eede021f-7c46-4592-8ae0-e1d73c53ffb9/file/ad9c3532-6e7a-4c7e-a505-4f7e595f14a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eede021f-7c46-4592-8ae0-e1d73c53ffb9/file/2c354018-dfc1-4861-bb54-f9ca4742207d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/66%2F4c%2Fdc%2F664cdc9e11884c4f94dcb05b705becdd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9757e9b2-d007-405e-bd6f-196b4415fcc8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8215458\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eede021f-7c46-4592-8ae0-e1d73c53ffb9/file/ad9c3532-6e7a-4c7e-a505-4f7e595f14a0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eede021f-7c46-4592-8ae0-e1d73c53ffb9/file/2c354018-dfc1-4861-bb54-f9ca4742207d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ce%2Fdd%2F88%2Fcedd88fae1114050a72caf4d7e5f1f35%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9757e9b2-d007-405e-bd6f-196b4415fcc8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

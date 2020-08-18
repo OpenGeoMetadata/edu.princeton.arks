@@ -17,7 +17,11 @@
     "Central America—Maps—Early works to 1800",
     "Colombia—Maps—Early works to 1800",
     "Panama—Maps—Early works to 1800",
-    "South America—Maps—Early works to 1800"
+    "South America—Maps—Early works to 1800",
+    "Maps—Central America—1638",
+    "Maps—Colombia—1638",
+    "Maps—Panama—1638",
+    "Maps—South America—1638"
   ],
   "dct_spatial_sm": [
     "Central America",
@@ -25,10 +29,12 @@
     "Panama",
     "Colombia"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:43Z",
+  "solr_year_i": 1638,
+  "layer_modified_dt": "2020-06-24T11:06:36Z",
   "layer_id_s": "public-figgy:p-a9ce0862-e548-452f-b279-ef5135b49ce7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6470241\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9ce0862-e548-452f-b279-ef5135b49ce7/file/fcb50825-9419-46c2-90bf-b2c7638c9a61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9ce0862-e548-452f-b279-ef5135b49ce7/file/ee9faa7e-a016-4795-94fe-99241668c899\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e2%2Fa0%2F9f%2Fe2a09f06110c4a229d9fbfecf92f84b0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64b01ab4-7285-4b60-9fca-993bf6bbaae2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6470241\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a9ce0862-e548-452f-b279-ef5135b49ce7/file/fcb50825-9419-46c2-90bf-b2c7638c9a61\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a9ce0862-e548-452f-b279-ef5135b49ce7/file/ee9faa7e-a016-4795-94fe-99241668c899\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e3%2Ff2%2F14%2Fe3f2140baf2745b8961e67eb0b9194f1%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/64b01ab4-7285-4b60-9fca-993bf6bbaae2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.924"
 }

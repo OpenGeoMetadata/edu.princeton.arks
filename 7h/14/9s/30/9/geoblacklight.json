@@ -14,15 +14,19 @@
   "dc_language_s": "spa",
   "dc_publisher_s": "[Mexico, DF] : Departamento del Distrito Federal, [1906?]",
   "dc_subject_sm": [
-    "Mexico City (Mexico)—Maps"
+    "Mexico City (Mexico)—Maps",
+    "Maps—Mexico—Mexico City—1906",
+    "City maps—Mexico—Mexico City—1906"
   ],
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:25Z",
+  "solr_year_i": 1906,
+  "layer_modified_dt": "2020-06-23T16:36:44Z",
   "layer_id_s": "public-figgy:p-bf1c210d-4d08-4ba7-b1e6-967ba597a9ce",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6419393\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf1c210d-4d08-4ba7-b1e6-967ba597a9ce/file/1639b624-1f70-44c1-9beb-4d57c66d0b74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf1c210d-4d08-4ba7-b1e6-967ba597a9ce/file/36553ab4-2886-4ccd-b6e1-14a0de1bef23\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/87%2Fbb%2F45%2F87bb45bf56f34029851b7c6778705b66%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd420210-ae1c-465e-be8a-8d4476d72dc4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6419393\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf1c210d-4d08-4ba7-b1e6-967ba597a9ce/file/1639b624-1f70-44c1-9beb-4d57c66d0b74\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf1c210d-4d08-4ba7-b1e6-967ba597a9ce/file/36553ab4-2886-4ccd-b6e1-14a0de1bef23\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/73%2F01%2Fd9%2F7301d9c6797c49ad93bd015a24aec0e0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd420210-ae1c-465e-be8a-8d4476d72dc4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC02.345"
 }

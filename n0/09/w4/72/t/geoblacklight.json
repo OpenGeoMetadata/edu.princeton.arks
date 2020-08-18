@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/n009w472t",
   "layer_slug_s": "princeton-n009w472t",
   "uuid": "princeton-n009w472t",
-  "dc_title_s": "Maps of Peiping and its environs in full colors",
+  "dc_title_s": "Maps of Peiping and its environs in full color: Sleeve [back]",
   "solr_geom": "ENVELOPE(116.340288, 116.440367, 39.950144, 39.866695)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -13,9 +13,12 @@
   "dc_subject_sm": [
     "Beijing (China)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:49:34Z",
-  "layer_id_s": "ark:/88435/n009w472t",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6304427\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1de8f3cd-60d8-4c86-aa12-62f314af5b2c/file/8781fdc6-08c7-4e0e-9465-a591807b5812\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2e%2F71%2Fc9%2F2e71c9c97d22475ea1aa22219dcaeeab%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9783603d-40b7-42f0-a255-d4c2152d67cd/manifest\"}",
+  "solr_year_i": 1935,
+  "layer_modified_dt": "2020-05-21T03:01:43Z",
+  "layer_id_s": "public-figgy:p-f556653f-57ba-4082-b5a2-2dc12638cc87",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6304427\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f556653f-57ba-4082-b5a2-2dc12638cc87/file/a5ae700f-463d-4997-a965-24f2162f2376\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f556653f-57ba-4082-b5a2-2dc12638cc87/file/904109e0-d40e-4b98-9edd-e9b9f7d0eb8e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ad%2Fd3%2F9f%2Fadd39f5ec3b14843a098e35cd2514ef3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/41fd90ba-1eef-4161-8365-51e19e1b6770/manifest\"}",
   "layer_geom_type_s": "Image",
+  "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC02.342"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/sj139383h",
   "layer_slug_s": "princeton-sj139383h",
   "uuid": "princeton-sj139383h",
-  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe veröffentlichen Aufnahmen",
+  "dc_title_s": "Karte von Kleinasien meist nach noch nicht oder in kleinstem Massstabe vero¨ffentlichen Aufnahmen / in 24 Blatt bearbeitet von Richard Kiepert.  (Sheet AIII. Zafaranboli.)",
   "solr_geom": "ENVELOPE(25.62, 44.82, 43.25, 34.78)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -14,11 +14,15 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "Berlin : Dietrich Reimer (Ernst Vohsen), 1902-1906.",
   "dc_subject_sm": [
-    "Turkey—Maps"
+    "Turkey—Maps",
+    "Maps—Turkey—1906"
   ],
-  "layer_modified_dt": "2019-06-04T17:11:33Z",
-  "layer_id_s": "ark:/88435/sj139383h",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4953019\"}",
+  "solr_year_i": 1902,
+  "layer_modified_dt": "2020-06-22T23:03:17Z",
+  "layer_id_s": "public-figgy:p-3a0a719f-0727-42d4-9e62-df2e0465f34e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4953019\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3a0a719f-0727-42d4-9e62-df2e0465f34e/file/4c231407-56e2-421e-a7ba-f9980ffa939e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3a0a719f-0727-42d4-9e62-df2e0465f34e/file/f15c2e29-6632-45a5-9336-1f2d5b5b9020\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6d%2F86%2F2a%2F6d862a9152f6444abbe4a3cd7d15c65f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6ede6d1-982e-4729-90f6-4d3f38c12a43/manifest\"}",
   "layer_geom_type_s": "Image",
+  "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2775"
 }

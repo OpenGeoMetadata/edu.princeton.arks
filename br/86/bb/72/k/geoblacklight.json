@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/br86bb72k",
+  "layer_slug_s": "princeton-br86bb72k",
+  "uuid": "princeton-br86bb72k",
+  "dc_title_s": "Peru economic data from 2007 census",
+  "solr_geom": "ENVELOPE(-81.642098, -68.473231, -0.038371, -18.407142)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Peru from the 2007 census. This census is provided at the district administrative level (ADM3) and includes 1,834 polygons with 781 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “PAREA_Urbano” was updated to D001 and given the alias “People in Area Type: Urban [PAREA_Urbano]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Peru",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2019"
+  ],
+  "solr_year_i": 2007,
+  "layer_modified_dt": "2020-08-10T19:02:15Z",
+  "layer_id_s": "restricted-figgy:p-35088b56-7d1a-4d2b-9913-f455857d03d7",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/342c0ed2-5645-440a-9d7c-2c4d4d85d654/file/30112fb9-a60f-4fe0-951f-5c853551e6fc\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/35088b56-7d1a-4d2b-9913-f455857d03d7/file/3c664606-9e4e-4279-a2c4-1b07374fff27\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/35088b56-7d1a-4d2b-9913-f455857d03d7/file/7e42a301-22b7-4df0-8711-6921155f2264\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

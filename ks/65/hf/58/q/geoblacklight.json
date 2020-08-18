@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris] : Chés Lattré, rue St. Jacques, à la Ville de Bordeaux, [1778]",
   "dc_subject_sm": [
-    "Paris (France)—Maps—Early works to 1800"
+    "Paris (France)—Maps—Early works to 1800",
+    "Maps—France—Paris—1778",
+    "City maps—France—Paris—1778"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:29Z",
+  "solr_year_i": 1778,
+  "layer_modified_dt": "2020-06-24T03:04:36Z",
   "layer_id_s": "public-figgy:p-1edd0834-7b09-4e41-9a07-8a6803db0fdc",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5995503\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1edd0834-7b09-4e41-9a07-8a6803db0fdc/file/d0a0223c-ddfa-44ea-a551-dc52e929d0c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1edd0834-7b09-4e41-9a07-8a6803db0fdc/file/2fd3725a-7602-4f9d-ac6b-c129646dd358\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ca%2F17%2Fd3%2Fca17d3c3dcb14f7283cbafadf44908c6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b7b7e53-620e-449e-81af-380acb29047f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5995503\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1edd0834-7b09-4e41-9a07-8a6803db0fdc/file/d0a0223c-ddfa-44ea-a551-dc52e929d0c9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1edd0834-7b09-4e41-9a07-8a6803db0fdc/file/2fd3725a-7602-4f9d-ac6b-c129646dd358\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/62%2Fad%2Fa5%2F62ada5714d5749d6bde8d64782ef7718%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2b7b7e53-620e-449e-81af-380acb29047f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3030"
 }

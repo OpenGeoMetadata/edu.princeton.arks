@@ -17,15 +17,19 @@
     "Manhattan (New York, N.Y.)—Maps, Pictorial",
     "Manhattan (New York, N.Y.)—Maps",
     "New York (N.Y.)—Maps, Pictorial",
-    "New York (N.Y.)—Maps, Tourist"
+    "New York (N.Y.)—Maps, Tourist",
+    "Maps—New York (State)—New York—1870",
+    "City maps—New York (State)—New York—1870"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:01Z",
+  "solr_year_i": 1870,
+  "layer_modified_dt": "2020-06-22T23:02:31Z",
   "layer_id_s": "public-figgy:p-2b34dabb-523c-4d5b-b29c-9b15714a2d75",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6237339\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b34dabb-523c-4d5b-b29c-9b15714a2d75/file/05e66db6-4717-4695-bcb0-c7f3ea923793\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b34dabb-523c-4d5b-b29c-9b15714a2d75/file/cba30aa6-9c5d-459a-95c1-12ef859bdc24\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7e%2Fe7%2Faf%2F7ee7af4f7cd84945a8cf4fce646a6c49%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c59400f4-9a8b-4112-ad33-35f77314661c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6237339\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b34dabb-523c-4d5b-b29c-9b15714a2d75/file/05e66db6-4717-4695-bcb0-c7f3ea923793\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b34dabb-523c-4d5b-b29c-9b15714a2d75/file/cba30aa6-9c5d-459a-95c1-12ef859bdc24\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f1%2Ff0%2Ff3%2Ff1f0f30455794c9598256e933e141d00%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c59400f4-9a8b-4112-ad33-35f77314661c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5536"
 }

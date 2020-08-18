@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-tq57nt51x",
   "uuid": "princeton-tq57nt51x",
   "dc_title_s": "Karte von Deutschland, dem Ko¨nigr. Der Niederlande, dem Kgr. Belgien, der Schweiz, und den angra¨nzenden La¨ndern, bis Paris, Lyon, Turin, Mailand, Venedig, Ofen, Ko¨nigsberg, in XXV Bla¨ttern [Sheet 2 of 20]",
-  "solr_geom": "ENVELOPE(5.8663425, 24.1458932, 55.0815, 45.4216739)",
+  "solr_geom": "ENVELOPE(2.08, 20.77, 55.1, 45.06)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown by hachures. Inset: Der Helder und Umgebung. Includes key to sheets. Each sheet has paper label on verso with sheet number.",
@@ -15,15 +15,18 @@
   "dc_publisher_s": "Gotha : Bei Justus Perthes, 1853.",
   "dc_subject_sm": [
     "Europe, Central—Maps",
-    "Germany—Maps"
+    "Germany—Maps",
+    "Maps—Central Europe—1853",
+    "Maps—Germany—1853"
   ],
   "dct_spatial_sm": [
     "Germany",
     "Europe, Central"
   ],
-  "layer_modified_dt": "2019-06-04T18:54:55Z",
+  "solr_year_i": 1853,
+  "layer_modified_dt": "2020-06-23T13:53:11Z",
   "layer_id_s": "public-figgy:p-ceeb0bf6-d9f3-468c-aea8-7cf489b9aa6b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7378898\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ceeb0bf6-d9f3-468c-aea8-7cf489b9aa6b/file/85527808-ed25-405e-aaf8-20c84ee08864\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ceeb0bf6-d9f3-468c-aea8-7cf489b9aa6b/file/040ac40e-d0d7-410a-b359-850bb36ca687\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/63%2F2e%2Fd2%2F632ed22664644d8db49e757cccee4e0b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4dd7548-53e0-4675-91e9-d907b468faea/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7378898\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ceeb0bf6-d9f3-468c-aea8-7cf489b9aa6b/file/85527808-ed25-405e-aaf8-20c84ee08864\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ceeb0bf6-d9f3-468c-aea8-7cf489b9aa6b/file/040ac40e-d0d7-410a-b359-850bb36ca687\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/bd%2F53%2F70%2Fbd5370cb26ef4dca9aed0d86cfd2f900%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4dd7548-53e0-4675-91e9-d907b468faea/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Philadelphia : Published by H.S. Tanner ; New York : T.R. Tanner, 1841, c1834.",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1841",
+    "State maps—New Jersey—1841"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:32Z",
+  "solr_year_i": 1841,
+  "layer_modified_dt": "2020-06-23T19:47:39Z",
   "layer_id_s": "public-figgy:p-c26d9775-4103-4e90-ba2e-8e40bdea2ab4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5580434\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c26d9775-4103-4e90-ba2e-8e40bdea2ab4/file/923b8953-5c22-4a00-a6fe-9b4d98b3834e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c26d9775-4103-4e90-ba2e-8e40bdea2ab4/file/42dcec5c-46e7-49fa-ae66-b77b9f1f9ce6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/4e%2F6f%2Ffc%2F4e6ffc5bd0a046108c3f3342c1e26897%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85ebcf0d-f532-4f54-880f-42fe52e34ff9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5580434\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c26d9775-4103-4e90-ba2e-8e40bdea2ab4/file/923b8953-5c22-4a00-a6fe-9b4d98b3834e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c26d9775-4103-4e90-ba2e-8e40bdea2ab4/file/42dcec5c-46e7-49fa-ae66-b77b9f1f9ce6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f8%2Fa8%2Ff7%2Ff8a8f71494bd456f8d993223005c4560%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85ebcf0d-f532-4f54-880f-42fe52e34ff9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1809"
 }

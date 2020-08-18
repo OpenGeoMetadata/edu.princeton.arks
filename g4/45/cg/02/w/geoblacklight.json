@@ -6,7 +6,7 @@
   "dc_title_s": "[Geological Survey of England and Wales : one inch to the mile map. New Series.] Hertford, drift, sheet 239",
   "solr_geom": "ENVELOPE(-0.4, 0.0167, 51.85, 51.6833)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Geological Survey of Great Britain. Great Britain. Geological Survey of England and Wales. Sheet 239 drift. Great Britain. Ordnance Survey of England. North Decimal Degree 51.850000. South Decimal Degree 51.6833. East Decimal Degree 0.0167. West Decimal Degree -0.4000. In upper left margin: Ordnance Survey of Great Britain. Relief shown by contour interval and spot heights. Transverse Mercator projection. National grid system. \"Original geolgocial survey on the Old Series one-inch maps, published in 1861-1898. Re-surveyed on the six-inch scale by R. L. Serlock et al in 1911-14 and 1921.\".",
   "dc_language_s": "eng",
   "dc_publisher_s": "Southampton : Director General, Ordnance Survey, 1924.",
@@ -15,10 +15,12 @@
     "Geology",
     "England—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:22:50Z",
-  "layer_id_s": "restricted-figgy:p-ad77b517-b430-4444-b7e8-ab6cbd3f3e6f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868580\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad77b517-b430-4444-b7e8-ab6cbd3f3e6f/file/9a099163-4219-41ae-87fd-42f5f8d42903\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:36:08Z",
+  "layer_id_s": "public-figgy:p-ad77b517-b430-4444-b7e8-ab6cbd3f3e6f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6868580\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ad77b517-b430-4444-b7e8-ab6cbd3f3e6f/file/3a87b3cb-0d6b-4599-8686-6de44c3dd332\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ad77b517-b430-4444-b7e8-ab6cbd3f3e6f/file/aa92f2c7-37bb-450b-ba88-e9e4de9e4c32\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/43%2Fb3%2F3b%2F43b33bc8e5c04595bae6f1f5e129d908%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/badef42e-bf13-4fca-b8e2-999220d81221/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5751.C5.s63.E5W3 sh 239 (d)"
 }

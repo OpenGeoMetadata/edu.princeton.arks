@@ -15,16 +15,20 @@
   "dc_publisher_s": "London ; New York : J. & F. Tallis, [1851]",
   "dc_subject_sm": [
     "Turkey—Maps",
-    "Cyprus—Maps"
+    "Cyprus—Maps",
+    "Maps—Turkey—1851",
+    "Maps—Cyprus—1851"
   ],
   "dct_spatial_sm": [
     "Turkey",
     "Cyprus"
   ],
-  "layer_modified_dt": "2019-06-04T17:29:56Z",
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2020-06-24T03:44:41Z",
   "layer_id_s": "public-figgy:p-58d34d6d-ae2b-4840-a69d-24ce0a2a7703",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4866029\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58d34d6d-ae2b-4840-a69d-24ce0a2a7703/file/4ba69c17-982d-4000-9d4b-3039074c9421\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58d34d6d-ae2b-4840-a69d-24ce0a2a7703/file/83332f0a-3274-4871-9b95-d7e902ea1ade\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/40%2Fb8%2Fc7%2F40b8c75511b14b86af185cc46edf1943%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66de45ac-bf3f-4392-afad-1e58ba8b4e69/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4866029\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/58d34d6d-ae2b-4840-a69d-24ce0a2a7703/file/4ba69c17-982d-4000-9d4b-3039074c9421\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/58d34d6d-ae2b-4840-a69d-24ce0a2a7703/file/83332f0a-3274-4871-9b95-d7e902ea1ade\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ea%2F8b%2F9f%2Fea8b9f4f93ba464ba06a781dba7465c2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66de45ac-bf3f-4392-afad-1e58ba8b4e69/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2806"
 }

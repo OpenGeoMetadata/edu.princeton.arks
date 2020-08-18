@@ -14,16 +14,19 @@
   "dc_language_s": "lat",
   "dc_publisher_s": "Nutley, N.J. : Hoffmann - La Roche, [1945?]",
   "dc_subject_sm": [
-    "Magellan, Strait of (Chile and Argentina)—Maps—Facsimiles"
+    "Magellan, Strait of (Chile and Argentina)—Maps—Facsimiles",
+    "Maps—Magellan, Strait of (Chile and Argentina)—1666"
   ],
   "dct_spatial_sm": [
     "Chile",
     "Argentina"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:32Z",
+  "solr_year_i": 1945,
+  "layer_modified_dt": "2020-06-24T03:53:09Z",
   "layer_id_s": "public-figgy:p-5ae98d0b-2836-4d0b-807e-b2648f824153",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6590710\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/36fc78b0-0436-4f0a-a1f7-2a5a22add436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/a4793d77-e1ba-4629-8842-3f6c7a1db7e6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/41%2F64%2F75%2F416475201f5f40cb90676dea7611487f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6fce955-05c4-4c5e-8c39-a421cac000ed/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6590710\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/36fc78b0-0436-4f0a-a1f7-2a5a22add436\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ae98d0b-2836-4d0b-807e-b2648f824153/file/a4793d77-e1ba-4629-8842-3f6c7a1db7e6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/14%2F8f%2F89%2F148f89774d244c70be1eee797509e79b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6fce955-05c4-4c5e-8c39-a421cac000ed/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6090"
 }

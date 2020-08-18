@@ -6,7 +6,7 @@
   "dc_title_s": "Boonton, Morris County, New Jersey : including Mountain Lakes, Powerville and Montville (Sheet 13)",
   "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"March 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1521.\" Sheet 14 shows Powerville; sheets 16-17 show Montville; sheets 8-21 show Mountain Lakes.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,14 +21,23 @@
     "Boonton (N.J.)—Maps",
     "Mountain Lakes (N.J.)—Maps",
     "Powerville (N.J.)—Maps",
-    "Montville (N.J. : Township)—Maps"
+    "Montville (N.J. : Township)—Maps",
+    "Fire insurance maps—New Jersey—Boonton—1924",
+    "Fire insurance maps—New Jersey—Mountain Lakes—1924",
+    "Fire insurance maps—New Jersey—Powerville—1924",
+    "Fire insurance maps—New Jersey—Montville Township—1924",
+    "Maps—New Jersey—Boonton—1924",
+    "Maps—New Jersey—Mountain Lakes—1924",
+    "Maps—New Jersey—Powerville—1924",
+    "Maps—New Jersey—Montville Township—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:39:05Z",
-  "layer_id_s": "restricted-figgy:p-18f38ae6-4eb2-4149-984f-ea378a6d1705",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5549917\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18f38ae6-4eb2-4149-984f-ea378a6d1705/file/d27b40e5-90c2-431e-966e-75dbc3c04792\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-22T22:50:46Z",
+  "layer_id_s": "public-figgy:p-18f38ae6-4eb2-4149-984f-ea378a6d1705",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5549917\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18f38ae6-4eb2-4149-984f-ea378a6d1705/file/a5622669-90da-46e2-9111-f63fa42eedea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18f38ae6-4eb2-4149-984f-ea378a6d1705/file/8df8a924-548d-43cc-aaf9-a4d5febf8d1f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/50%2F72%2F94%2F5072942d65604fa9a528580dfb179c5d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2f4993d4-c8a0-4ae0-947e-43dc515af18b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

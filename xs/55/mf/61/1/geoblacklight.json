@@ -17,16 +17,19 @@
     "Mercer County (N.J.)—Cities and towns—Maps",
     "Somerset County (N.J.)—Cities and towns—Maps",
     "Hunterdon County (N.J.)—Cities and towns—Maps",
-    "Philadelphia (Pa.)—Maps"
+    "Philadelphia (Pa.)—Maps",
+    "City maps—Pennsylvania—Philadelphia—1860"
   ],
   "dct_spatial_sm": [
     "New Jersey",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2019-06-04T18:16:11Z",
+  "solr_year_i": 1860,
+  "layer_modified_dt": "2020-06-23T16:38:39Z",
   "layer_id_s": "public-figgy:p-549005b3-4e29-4b03-aaa7-bdaeeaded5c5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8826500\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/549005b3-4e29-4b03-aaa7-bdaeeaded5c5/file/ce532bb8-e0b9-4ed4-abb0-124dcb61a8b2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/549005b3-4e29-4b03-aaa7-bdaeeaded5c5/file/c0f10955-9c08-4170-bd8c-cd0e52fad14f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/39%2F4c%2F5e%2F394c5e779f894042a2a179e293c3aeba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34996f17-942a-48f3-8a2b-e144ac318a77/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8826500\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/549005b3-4e29-4b03-aaa7-bdaeeaded5c5/file/ce532bb8-e0b9-4ed4-abb0-124dcb61a8b2\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/78%2Fe2%2F17%2F78e217d3893a4bf89fcf5084f63ce83a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/34996f17-942a-48f3-8a2b-e144ac318a77/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7145"
 }

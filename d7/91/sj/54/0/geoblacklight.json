@@ -16,16 +16,20 @@
   "dc_subject_sm": [
     "Velikaia Sibirskaia magistral—Maps",
     "Europe—Maps",
-    "Asia—Maps"
+    "Asia—Maps",
+    "Maps—Europe—1900",
+    "Maps—Asia—1900"
   ],
   "dct_spatial_sm": [
     "Europe",
     "Asia"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:25Z",
+  "solr_year_i": 1900,
+  "layer_modified_dt": "2020-06-24T03:51:24Z",
   "layer_id_s": "public-figgy:p-2dec837f-a7e9-45c8-838f-79d003f35a8d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5688839\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2dec837f-a7e9-45c8-838f-79d003f35a8d/file/cd3d6ca5-0892-41ed-89f8-f16cbf30fd28\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2dec837f-a7e9-45c8-838f-79d003f35a8d/file/52cd681a-9ff4-48ab-a9d3-e8ef7e690b2b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a2%2Ff2%2F6d%2Fa2f26d11202b49c7811cee7e1e45928a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/567e694d-1acb-44b1-b5a4-7dceae40682f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5688839\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2dec837f-a7e9-45c8-838f-79d003f35a8d/file/cd3d6ca5-0892-41ed-89f8-f16cbf30fd28\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2dec837f-a7e9-45c8-838f-79d003f35a8d/file/52cd681a-9ff4-48ab-a9d3-e8ef7e690b2b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ab%2Fd9%2F61%2Fabd9616e505e49a4b06a6622f7d0bb8c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/567e694d-1acb-44b1-b5a4-7dceae40682f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.367"
 }

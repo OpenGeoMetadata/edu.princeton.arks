@@ -20,7 +20,11 @@
     "Atlantic Coast (Del.)—Maps",
     "Atlantic Coast (Md.)—Maps",
     "Atlantic Coast (Va.)—Maps",
-    "North Atlantic Ocean—Navigation"
+    "North Atlantic Ocean—Navigation",
+    "Maps—Atlantic Coast (Del.)—1852",
+    "Maps—Atlantic Coast (Md.)—1852",
+    "Maps—Atlantic Coast (Va.)—1852",
+    "Nautical charts—North Atlantic Ocean—1852"
   ],
   "dct_spatial_sm": [
     "Delaware",
@@ -28,10 +32,12 @@
     "Virginia",
     "North Atlantic Ocean"
   ],
-  "layer_modified_dt": "2019-06-04T18:17:52Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-24T03:52:18Z",
   "layer_id_s": "public-figgy:p-809a4e5f-5b41-40c2-a874-052ff1933fb0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7675668\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/809a4e5f-5b41-40c2-a874-052ff1933fb0/file/ecf621b6-8d83-452d-b0a1-33248f4ec183\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/809a4e5f-5b41-40c2-a874-052ff1933fb0/file/f06fb251-223f-47b6-a75a-14861d7e35f9\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/fb%2F9c%2F03%2Ffb9c035111964b1c987954826d612138%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4fc7a224-e81d-4ea5-bfbe-91128529c471/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7675668\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/809a4e5f-5b41-40c2-a874-052ff1933fb0/file/ecf621b6-8d83-452d-b0a1-33248f4ec183\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/809a4e5f-5b41-40c2-a874-052ff1933fb0/file/f06fb251-223f-47b6-a75a-14861d7e35f9\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/26%2F23%2F47%2F2623473f6f1c4cc0bec93f1803aa175b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4fc7a224-e81d-4ea5-bfbe-91128529c471/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7008"
 }

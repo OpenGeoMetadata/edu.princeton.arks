@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris? : Langlois?, 1802?]",
   "dc_subject_sm": [
-    "Africa—Maps"
+    "Africa—Maps",
+    "Maps—Africa—1802"
   ],
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2019-06-04T17:23:32Z",
+  "solr_year_i": 1802,
+  "layer_modified_dt": "2020-06-22T23:11:11Z",
   "layer_id_s": "public-figgy:p-18c49640-52ab-45be-940c-d65592dfa917",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4582528\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18c49640-52ab-45be-940c-d65592dfa917/file/0a2f1db8-de40-48fd-ab95-5c6c8a0ff92e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18c49640-52ab-45be-940c-d65592dfa917/file/b33e3454-b146-4c1b-b70a-7db5710cbc36\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/aa%2Fcf%2F64%2Faacf64f1507744568ec648f43ebb5dad%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/798ecd77-7f14-42db-9f82-23af5685e032/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4582528\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/18c49640-52ab-45be-940c-d65592dfa917/file/0a2f1db8-de40-48fd-ab95-5c6c8a0ff92e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/18c49640-52ab-45be-940c-d65592dfa917/file/b33e3454-b146-4c1b-b70a-7db5710cbc36\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/22%2F07%2Fdc%2F2207dcad61c04ec9acc75945ec63e04b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/798ecd77-7f14-42db-9f82-23af5685e032/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.213"
 }

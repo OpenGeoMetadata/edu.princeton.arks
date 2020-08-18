@@ -7,24 +7,27 @@
   "solr_geom": "ENVELOPE(135.45, 135.541667, 34.745833, 34.641667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Panel title. Copyright: ITMB Publishing Ltd 2002. Includes index, col. ill. Inset maps: Osaka regional map, Osaka subway guide.",
+  "dc_description_s": "Copyright: ITMB Publishing Ltd 2002. Includes index, color illustrations. Inset maps: Osaka regional map -- Osaka subway guide.",
   "dc_creator_sm": [
-    "Duggan, Andrew"
+    "Duggan, Andrew, 1968-"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "[Vancouver, B.C.] : International Travel Maps, 2002.",
+  "dc_publisher_s": "Vancouver, B.C. : International Travel Maps, 2002.",
   "dc_subject_sm": [
-    "Transportation",
+    "Cities and towns",
+    "Roads—Japan—Osaka—Maps",
     "Osaka (Japan)—Maps",
-    "Japan—Maps"
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2019-06-04T15:25:00Z",
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2020-06-24T10:27:27Z",
   "layer_id_s": "b5746f68-1ae2-4444-8d55-67a096530fae",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6829288\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5746f68-1ae2-4444-8d55-67a096530fae/file/9ed0cb50-9208-4b66-b080-62dd265d4360\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7964.O8E635 2002 .D8"
 }

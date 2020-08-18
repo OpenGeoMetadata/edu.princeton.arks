@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London : George E. Eyre and William Spottiswoode for her Majesty's Stationery Office, 1865]",
   "dc_subject_sm": [
-    "Jerusalem—Maps"
+    "Jerusalem—Maps",
+    "Maps—Jerusalem—1865",
+    "City maps—Jerusalem—1865"
   ],
   "dct_spatial_sm": [
     "Israel"
   ],
-  "layer_modified_dt": "2019-06-04T18:12:24Z",
+  "solr_year_i": 1865,
+  "layer_modified_dt": "2020-06-23T16:41:24Z",
   "layer_id_s": "public-figgy:p-ac843548-bb28-486b-a768-cf5192b0687e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7061391\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac843548-bb28-486b-a768-cf5192b0687e/file/fd567064-b968-463f-8613-262a2160d049\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac843548-bb28-486b-a768-cf5192b0687e/file/fc908732-4b9e-4f41-8930-d579a2fdebd8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/02%2F8c%2Fff%2F028cffad695b4544ab0dc2622c65aadd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0ca5950-4caf-4b6c-a8eb-8f1a2a3a7c0d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7061391\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac843548-bb28-486b-a768-cf5192b0687e/file/fd567064-b968-463f-8613-262a2160d049\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac843548-bb28-486b-a768-cf5192b0687e/file/fc908732-4b9e-4f41-8930-d579a2fdebd8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/86%2F91%2F78%2F8691789365284c24b34462b039969926%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0ca5950-4caf-4b6c-a8eb-8f1a2a3a7c0d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2752"
 }

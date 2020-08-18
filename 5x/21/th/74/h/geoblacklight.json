@@ -14,15 +14,20 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : The Office, [1866]",
   "dc_subject_sm": [
-    "Nevada—Maps"
+    "Nevada—Maps",
+    "Maps—Nevada—1866",
+    "State maps—Nevada—1866",
+    "Topographic maps—Nevada—1866"
   ],
   "dct_spatial_sm": [
     "Nevada"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:35Z",
+  "solr_year_i": 1866,
+  "layer_modified_dt": "2020-06-23T11:03:10Z",
   "layer_id_s": "public-figgy:p-76f24dd3-7f1c-4d80-89d0-1f59bb730f8d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609639\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76f24dd3-7f1c-4d80-89d0-1f59bb730f8d/file/b25dae2a-688a-4008-ad66-64d8c1fb34d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76f24dd3-7f1c-4d80-89d0-1f59bb730f8d/file/a1d960b3-9f2d-445d-85c2-d6d1b1c53257\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/78%2F46%2Fea%2F7846ea0aec294f348de19b418328d443%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b3aa7c0-30cd-49bb-9609-d0abe1d12a2a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609639\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/76f24dd3-7f1c-4d80-89d0-1f59bb730f8d/file/b25dae2a-688a-4008-ad66-64d8c1fb34d8\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/76f24dd3-7f1c-4d80-89d0-1f59bb730f8d/file/a1d960b3-9f2d-445d-85c2-d6d1b1c53257\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9a%2F7b%2F5a%2F9a7b5aa8e0bf46db989a2f6589509677%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b3aa7c0-30cd-49bb-9609-d0abe1d12a2a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6416"
 }

@@ -7,20 +7,31 @@
   "solr_geom": "ENVELOPE(135.1, 135.216667, 34.7, 34.6)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. Office of Strategic Services. Research and Analysis Branch \"Based on a Japanese map of 1935 with additions from other sources.\" Map: \"No. 3799--R & A, OSS; 29 July 1944.\" Relief shown by hachures. With a Japanase - English glossary",
+  "dc_description_s": "Relief shown by hachures. \"With a Japanase - English glossary. \"Based on a Japanese map of 1935 with additions from other sources.\" Map: \"No. 3799--R & A, OSS; 29 July 1944. United States. Office of Strategic Services. Research and Analysis Branch \"Based on a Japanese map of 1935 with additions from other sources.\" Map: \"No. 3799--R & A, OSS; 29 July 1944.\" Relief shown by hachures. With a Japanase - English glossary",
+  "dc_creator_sm": [
+    "United States. Office of Strategic Services. Research and Analysis Branch"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : Office of Strategic Services, Branch of Research and Analysis, 1944.",
   "dc_subject_sm": [
-    "Cities and towns",
+    "Cities and towns—Japan—Maps",
+    "Kōbe-shi (Japan)—Maps",
+    "Thematic maps",
     "Roads",
     "Railroads",
-    "Transportation",
-    "Japan—Maps"
+    "Cities and towns",
+    "Japan—Maps",
+    "Transportation"
   ],
-  "layer_modified_dt": "2019-06-04T17:30:42Z",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "solr_year_i": 1944,
+  "layer_modified_dt": "2020-06-23T15:38:27Z",
   "layer_id_s": "public-figgy:p-c20deae7-2ddf-4a66-b866-aafa74713f20",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449972\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0f2d5f7-0a00-41e6-912c-7fe081d12980/file/5533e1dd-08d9-432e-8c16-fdc6c17515de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/79ed43cb-7e2b-47df-a232-f2f583ddcb70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/b4179810-fe55-42dd-8786-bc1b1c2dcd18\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/df%2F63%2Fbf%2Fdf63bfd6ab004027a45320fe130f9790%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f7c0792-bb05-4bc9-b132-10b62cbf5c82/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449972\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/c0f2d5f7-0a00-41e6-912c-7fe081d12980/file/5533e1dd-08d9-432e-8c16-fdc6c17515de\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/79ed43cb-7e2b-47df-a232-f2f583ddcb70\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c20deae7-2ddf-4a66-b866-aafa74713f20/file/b4179810-fe55-42dd-8786-bc1b1c2dcd18\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/64%2F95%2Fda%2F6495daba0825445298cb8be1dda9b055%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f7c0792-bb05-4bc9-b132-10b62cbf5c82/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7964.K5P1 1944 .O3S8"
 }

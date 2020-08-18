@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "London : The Society, 1841.",
   "dc_subject_sm": [
-    "Hamburg (Germany)—Maps"
+    "Hamburg (Germany)—Maps",
+    "City maps—Germany—Hamburg—1841",
+    "Maps—Germany—Hamburg—1841"
   ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:42Z",
+  "solr_year_i": 1841,
+  "layer_modified_dt": "2020-06-23T16:39:12Z",
   "layer_id_s": "public-figgy:p-baf5963b-fc84-414e-a979-a1be3a1a1e0c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7648608\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/70b37954-db11-477e-8400-83641daaf7eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/c8912fad-5352-4093-8707-17bcc3ed1855\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/55%2F89%2F3f%2F55893f3898ba4d13bed4d53e6daaec57%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33f9c6ff-4546-4f95-8696-d8f1f96d82d5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7648608\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/70b37954-db11-477e-8400-83641daaf7eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/baf5963b-fc84-414e-a979-a1be3a1a1e0c/file/c8912fad-5352-4093-8707-17bcc3ed1855\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b6%2F1b%2F65%2Fb61b654c723044abb634b326adb9aad2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/33f9c6ff-4546-4f95-8696-d8f1f96d82d5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6953"
 }

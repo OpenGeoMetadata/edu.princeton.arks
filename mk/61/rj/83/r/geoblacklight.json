@@ -6,7 +6,7 @@
   "dc_title_s": "Columbus, Burlington County, New Jersey (Sheet 1)",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"September 1924.\" \"1839.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,11 +15,14 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Columbus—Maps",
-    "Columbus (N.J.)—Maps"
+    "Columbus (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Columbus—1924",
+    "Maps—New Jersey—Columbus—1924"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:23Z",
-  "layer_id_s": "restricted-figgy:p-0789290a-f296-4579-a2c7-99db7acf4479",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5064084\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0789290a-f296-4579-a2c7-99db7acf4479/file/9f3c0116-91de-4a9f-bc96-0990eb6e88ea\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:12:30Z",
+  "layer_id_s": "public-figgy:p-0789290a-f296-4579-a2c7-99db7acf4479",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5064084\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0789290a-f296-4579-a2c7-99db7acf4479/file/03b1beb6-f12a-4d24-aa05-b4f494993ee6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0789290a-f296-4579-a2c7-99db7acf4479/file/90510c17-c3d8-42f2-8897-9bba7933d36c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e2%2F27%2F99%2Fe22799da3d5543948eda9ee00d82d059%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6f63d15b-3da8-45c5-9cf7-390b74a4e492/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -14,16 +14,22 @@
     "Armenia—Maps",
     "Balkan Peninsula—Maps",
     "Greece—Maps",
-    "Turkey—Maps"
+    "Turkey—Maps",
+    "Maps—Armenia—1850",
+    "Maps—Balkan Peninsula—1850",
+    "Maps—Greece—1850",
+    "Maps—Turkey—1850"
   ],
   "dct_spatial_sm": [
     "Armenia (Republic)",
     "Greece"
   ],
-  "layer_modified_dt": "2019-06-04T17:24:48Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-06-22T23:06:20Z",
   "layer_id_s": "public-figgy:p-b5f6b304-3739-4830-b682-088d05ac1103",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5152845\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5f6b304-3739-4830-b682-088d05ac1103/file/d247eff6-081a-4d15-a977-810d36de55fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5f6b304-3739-4830-b682-088d05ac1103/file/6082bb0c-69fa-4669-aa79-fb97dd25d1c8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7b%2F5a%2F83%2F7b5a8348cde94726b1fbb5ed78785660%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c41375fa-cc70-47b3-8808-ed6740e63f6f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5152845\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b5f6b304-3739-4830-b682-088d05ac1103/file/d247eff6-081a-4d15-a977-810d36de55fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5f6b304-3739-4830-b682-088d05ac1103/file/6082bb0c-69fa-4669-aa79-fb97dd25d1c8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/31%2Fb1%2Fe2%2F31b1e2c36f3c436f8501e833d1a39ba8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c41375fa-cc70-47b3-8808-ed6740e63f6f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2847"
 }

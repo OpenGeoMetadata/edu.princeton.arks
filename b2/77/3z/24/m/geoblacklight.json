@@ -11,15 +11,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris, Imprimerie nationale, 1880] (Héliog. Dujardin, Imp. Ch. Chardon aîné)",
   "dc_subject_sm": [
-    "Paris (France)—Maps—Facsimiles"
+    "Paris (France)—Maps—Facsimiles",
+    "Historical maps—France—Paris"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:30Z",
+  "solr_year_i": 1880,
+  "layer_modified_dt": "2020-06-23T16:43:38Z",
   "layer_id_s": "public-figgy:p-22158fe5-7b46-46e0-9e93-e368b27df625",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8831041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22158fe5-7b46-46e0-9e93-e368b27df625/file/b40197b5-8679-492e-8abf-b5abe92d50c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22158fe5-7b46-46e0-9e93-e368b27df625/file/d6916fcf-db52-42e1-be70-f9ef973eff3c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b9%2F30%2F40%2Fb930405580ba494cb26a772033546d56%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b341a665-8358-49f3-b711-37a52e690838/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8831041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/22158fe5-7b46-46e0-9e93-e368b27df625/file/b40197b5-8679-492e-8abf-b5abe92d50c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/22158fe5-7b46-46e0-9e93-e368b27df625/file/d6916fcf-db52-42e1-be70-f9ef973eff3c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7a%2F6f%2Fd0%2F7a6fd00f83824b7aa4a6fe4c289e4a01%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b341a665-8358-49f3-b711-37a52e690838/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7142"
 }

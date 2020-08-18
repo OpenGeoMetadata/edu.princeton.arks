@@ -7,17 +7,26 @@
   "solr_geom": "ENVELOPE(26.6875, 26.775, -10.929444, -11.037778)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "North Decimal Degree -10.929444. South Decimal Degree -11.037778. East Decimal Degree 26.775000. West Decimal Degree 26.687500. Alternate title: Likasi. Transverse Mercator projection. Relief shown by 20 m. contour interval and spot heights. Horizontal datum ARC 1950 Datum. Vertical datum mean sea level. \"Standard map series designation: Series Z901.\" Guide to numbered features and index to stressts on the map.",
+  "dc_description_s": "Relief shown by contours of 20 meters and spot heights. \"Compiled in 1980 from best available source materials.\" Includes legend, glossary, guide to numbered features, index to streets and inset map of airfield. Horizontal datum ARC 1950 Datum. Vertical datum mean sea level. Guide to numbered features and index to streets on the map. South Decimal Degree -11.037778. West Decimal Degree 26.687500. East Decimal Degree 26.775000. North Decimal Degree -10.929444. Alternate title: Likasi. Transverse Mercator projection. Relief shown by 20 m. contour interval and spot heights. Horizontal datum ARC 1950 Datum. Vertical datum mean sea level. \"Standard map series designation: Series Z901.\" Guide to numbered features and index to stressts on the map.",
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency. Hydrographic/Topographic Center"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington,DC : United States. Defense Mapping Agency. Hydrographic/Topographic Center, 1980.",
   "dc_subject_sm": [
     "Topographic maps",
-    "Zaire—Maps"
+    "Zaire—Maps",
+    "Likasi (Congo)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:11:17Z",
+  "dct_spatial_sm": [
+    "Congo (Democratic Republic)"
+  ],
+  "solr_year_i": 1980,
+  "layer_modified_dt": "2020-06-24T03:04:23Z",
   "layer_id_s": "public-figgy:p-83bc3a73-295d-4295-aff9-f71ff085e2ef",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845273\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/83bc3a73-295d-4295-aff9-f71ff085e2ef/file/63164fec-96f2-46c7-8620-de99a51f4127\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83bc3a73-295d-4295-aff9-f71ff085e2ef/file/cf879d68-bf58-49ac-9b02-3948ef0a682c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/25%2F46%2Ffc%2F2546fca5131842eda666a5feccdf5d7b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57c4b7e7-9e8c-4bf1-bfb5-b77192b86d43/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845273\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/83bc3a73-295d-4295-aff9-f71ff085e2ef/file/63164fec-96f2-46c7-8620-de99a51f4127\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/83bc3a73-295d-4295-aff9-f71ff085e2ef/file/cf879d68-bf58-49ac-9b02-3948ef0a682c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4c%2F85%2Ff3%2F4c85f3811258491882e95544407c45b5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57c4b7e7-9e8c-4bf1-bfb5-b77192b86d43/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G8654.L4 1981"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Insurance maps of Woodbridge Township, Middlesex County, New Jersey : including villages of Woodbridge, Fords, Hopelawn, Avenel, Colonia, Iselin, Sewaren and Port Reading (Sheet 17)",
   "solr_geom": "ENVELOPE(-74.324591, -74.244591, 40.597605, 40.517604)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Feb. 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1471.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -21,14 +21,22 @@
     "Woodbridge (N.J. : Township)—Maps",
     "Woodbridge (N.J.)—Maps",
     "Avenel (N.J.)—Maps",
-    "Iselin (N.J.)—Maps"
+    "Iselin (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Woodbridge—1924",
+    "Fire insurance maps—New Jersey—Avenel—1924",
+    "Fire insurance maps—New Jersey—Iselin—1924",
+    "Maps—New Jersey—Woodbridge Township—1924",
+    "Maps—New Jersey—Woodbridge—1924",
+    "Maps—New Jersey—Avenel—1924",
+    "Maps—New Jersey—Iselin—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T19:18:22Z",
-  "layer_id_s": "restricted-figgy:p-e01e4d4b-938c-4244-8efb-2032456803df",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5544857\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e01e4d4b-938c-4244-8efb-2032456803df/file/7ba89213-e858-4c4f-892f-a6310a526b64\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T18:05:42Z",
+  "layer_id_s": "public-figgy:p-e01e4d4b-938c-4244-8efb-2032456803df",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5544857\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e01e4d4b-938c-4244-8efb-2032456803df/file/a7604531-7616-43c0-b7dc-06c0a4e997bd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e01e4d4b-938c-4244-8efb-2032456803df/file/af191d04-5944-426b-b852-2704010576e4\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/68%2Fba%2F2d%2F68ba2d02eae44c4a9b0972ec7b8a0372%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f0272361-c80d-4a15-9d8c-a14026a0c69c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

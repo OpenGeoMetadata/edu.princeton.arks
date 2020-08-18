@@ -19,17 +19,24 @@
     "North America—Maps—Early works to 1800",
     "South America—Maps—Early works to 1800",
     "Europe, Southern—Maps—Early works to 1800",
-    "Africa, West—Maps—Early works to 1800"
+    "Africa, West—Maps—Early works to 1800",
+    "Maps—North Atlantic Ocean—1746",
+    "Maps—North America—1746",
+    "Maps—South America—1746",
+    "Maps—Europe, Southern—1746",
+    "Maps—Africa, West—1746"
   ],
   "dct_spatial_sm": [
     "North Atlantic Ocean",
     "Europe, Southern",
     "Africa, West"
   ],
-  "layer_modified_dt": "2019-06-04T17:29:21Z",
+  "solr_year_i": 1746,
+  "layer_modified_dt": "2020-06-24T03:46:17Z",
   "layer_id_s": "public-figgy:p-e6e1bdd4-8579-4383-9bde-5c1e0be7e983",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825256\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/7275b145-4bb7-48c3-968d-28e61080bf1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/685ea236-df89-48e0-aa84-c7cf0193a420\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/20%2Fc4%2Fd3%2F20c4d3ee107c468ba9ae64d563b315b7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2262b383-6a5f-4500-8f19-76215bd1cc72/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4825256\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/7275b145-4bb7-48c3-968d-28e61080bf1e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e6e1bdd4-8579-4383-9bde-5c1e0be7e983/file/685ea236-df89-48e0-aa84-c7cf0193a420\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ea%2F71%2F02%2Fea71021e3b654874b6b1909b8d7b5c27%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2262b383-6a5f-4500-8f19-76215bd1cc72/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3706"
 }

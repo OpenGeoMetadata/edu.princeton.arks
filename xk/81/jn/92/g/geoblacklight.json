@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "London : John Murray, 1856.",
   "dc_subject_sm": [
-    "Rome (Italy)—Maps"
+    "Rome (Italy)—Maps",
+    "City maps—Italy—Rome—1856",
+    "Maps—Italy—Rome—1856"
   ],
   "dct_spatial_sm": [
     "Italy"
   ],
-  "layer_modified_dt": "2019-06-04T18:27:18Z",
+  "solr_year_i": 1856,
+  "layer_modified_dt": "2020-06-24T10:23:30Z",
   "layer_id_s": "public-figgy:p-0789b643-bf7f-4a84-a245-824869633f69",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8749611\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/0a6c67c7-1ccc-41b1-b5ca-4bd9bb1add52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/efe1dfea-64fb-47b5-bc0f-f53f4bad8e9f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3e%2F2f%2F93%2F3e2f93afb34c429ca372ff988af85230%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85ecc772-c61b-4088-add0-e2c278c5e85d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8749611\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/0a6c67c7-1ccc-41b1-b5ca-4bd9bb1add52\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0789b643-bf7f-4a84-a245-824869633f69/file/efe1dfea-64fb-47b5-bc0f-f53f4bad8e9f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/5b%2F29%2Fa7%2F5b29a7eb4b434b688807015e8617a4b0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/85ecc772-c61b-4088-add0-e2c278c5e85d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5289"
 }

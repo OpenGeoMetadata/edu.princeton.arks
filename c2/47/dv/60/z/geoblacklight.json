@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Mexico—Maps",
     "Southwest, New—Maps",
-    "Texas—Maps"
+    "Texas—Maps",
+    "Maps—Mexico—1846",
+    "Maps—Southwest, New—1846",
+    "Maps—Texas—1846"
   ],
   "dct_spatial_sm": [
     "Mexico",
     "Texas",
     "Southwest, New"
   ],
-  "layer_modified_dt": "2019-06-04T18:29:07Z",
+  "solr_year_i": 1846,
+  "layer_modified_dt": "2020-08-03T21:49:49Z",
   "layer_id_s": "public-figgy:p-a7386a12-f0ec-4899-afee-e839773a9f2f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7944663\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7386a12-f0ec-4899-afee-e839773a9f2f/file/8d8ba17c-68b4-4b8b-b7e6-fb119c23af06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7386a12-f0ec-4899-afee-e839773a9f2f/file/a22bbc33-bce5-4485-be46-105c33e196f8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6e%2Fc7%2F6f%2F6ec76f81b3f14e548f7c1170bc48d09a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40c8c16e-ec5d-46b6-bc3b-c5b22b932025/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7944663\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a7386a12-f0ec-4899-afee-e839773a9f2f/file/8d8ba17c-68b4-4b8b-b7e6-fb119c23af06\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a7386a12-f0ec-4899-afee-e839773a9f2f/file/a22bbc33-bce5-4485-be46-105c33e196f8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/90%2Fc5%2Ff0%2F90c5f04278d74009a6fbab4b59a2287a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/40c8c16e-ec5d-46b6-bc3b-c5b22b932025/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2138"
 }

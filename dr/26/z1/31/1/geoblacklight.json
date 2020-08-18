@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-dr26z1311",
   "uuid": "princeton-dr26z1311",
   "dc_title_s": "Garfield, N. J.",
-  "solr_geom": "ENVELOPE(-74.129142, -74.091913, 40.893664, 40.861615)",
+  "solr_geom": "ENVELOPE(-74.120766, -74.055427, 40.913269, 40.821287)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "\"5359.\" \"New sheet, Aug. 1922.\" Sheets 2-3, 10, 24-25, 32, 49-50, and 63-64 of Garfield, N.J. series; sheets 24-25 show Wallington; sheet 32 shows Rutherford; sheets 49-50 shows E. Rutherford and Carlstadt; sheets 63-64 show Rochelle Park.",
@@ -25,14 +25,28 @@
     "Rutherford (N.J.)—Maps",
     "East Rutherford (N.J.)—Maps",
     "Carlstadt (N.J.)—Maps",
-    "Rochelle Park (N.J.)—Maps"
+    "Rochelle Park (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Garfield—1922",
+    "Fire insurance maps—New Jersey—Wallington—1922",
+    "Fire insurance maps—New Jersey—Rutherford—1922",
+    "Fire insurance maps—New Jersey—East Rutherford—1922",
+    "Fire insurance maps—New Jersey—Carlstadt—1922",
+    "Fire insurance maps—New Jersey—Rochelle Park—1922",
+    "Maps—New Jersey—Garfield—1922",
+    "Maps—New Jersey—Wallington—1922",
+    "Maps—New Jersey—Rutherford—1922",
+    "Maps—New Jersey—East Rutherford—1922",
+    "Maps—New Jersey—Carlstadt—1922",
+    "Maps—New Jersey—Rochelle Park—1922"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:01:26Z",
+  "solr_year_i": 1922,
+  "layer_modified_dt": "2020-06-23T14:46:33Z",
   "layer_id_s": "ark:/88435/dr26z1311",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5658338\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b28a47ca-8ae5-40ea-921f-2d14db982762/file/b2c73618-8fbe-4b4f-81e2-e81b2c39f341\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6f%2F85%2Ff4%2F6f85f446b8c04c78b744c52b567b9901%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f8799b79-132c-4b03-9796-4052bbd70b6f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5658338\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b28a47ca-8ae5-40ea-921f-2d14db982762/file/b2c73618-8fbe-4b4f-81e2-e81b2c39f341\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b7%2Fbc%2Fbd%2Fb7bcbdbbb593486ab369f0ebe4831444%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f8799b79-132c-4b03-9796-4052bbd70b6f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Garfield)"
 }

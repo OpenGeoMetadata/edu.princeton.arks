@@ -14,15 +14,19 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "[Berlin] : Verlag der Nicolaïschen Buchhandling, Brüder. Str. No. 13, 1853.",
   "dc_subject_sm": [
-    "Berlin (Germany)—Maps"
+    "Berlin (Germany)—Maps",
+    "City maps—Germany—Berlin—1853",
+    "Maps—Germany—Berlin—1853"
   ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:47Z",
+  "solr_year_i": 1853,
+  "layer_modified_dt": "2020-06-22T22:35:50Z",
   "layer_id_s": "public-figgy:p-0f38ba1d-7565-4240-b2f8-ab107fc0ae21",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7649883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f38ba1d-7565-4240-b2f8-ab107fc0ae21/file/0624f955-6cb7-4ffb-ac17-a9ff4e1f2aa5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f38ba1d-7565-4240-b2f8-ab107fc0ae21/file/44efbbe0-ba35-43e3-bf57-decfb7fa75c9\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d5%2F66%2Fa6%2Fd566a693e54b45a9ad8d3b047a67d0b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5319d64-7509-4c24-9eab-9138e1862896/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7649883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f38ba1d-7565-4240-b2f8-ab107fc0ae21/file/0624f955-6cb7-4ffb-ac17-a9ff4e1f2aa5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f38ba1d-7565-4240-b2f8-ab107fc0ae21/file/1d732f0e-2093-45e2-967f-dc776a18ad6d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cd%2F41%2F68%2Fcd4168a1f43a4f38b3994cb7f0d46dd7%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a5319d64-7509-4c24-9eab-9138e1862896/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6950"
 }

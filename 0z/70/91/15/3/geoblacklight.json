@@ -14,19 +14,19 @@
   "dc_language_s": "lat",
   "dc_publisher_s": "[Cologne : George Braun & Franz Hogenberg, 1575]",
   "dc_subject_sm": [
-    "Cambridge (England)—Maps"
+    "Cambridge (England)—Maps",
+    "Maps—England—Cambridge—1575",
+    "Bird's-eye views—England—Cambridge—1575"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T19:19:11Z",
+  "solr_year_i": 1575,
+  "layer_modified_dt": "2020-06-23T14:31:55Z",
   "layer_id_s": "public-figgy:p-0f6d2469-7b58-4e4a-aa9d-afd9ef44bfa7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7225402\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f6d2469-7b58-4e4a-aa9d-afd9ef44bfa7/file/983e11c1-559f-4a25-a083-cd64acb25b56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f6d2469-7b58-4e4a-aa9d-afd9ef44bfa7/file/42727504-423a-46a3-91b1-83ec60f1a24c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/02%2Fe6%2Fb3%2F02e6b343f096456fa3452065e38bb027%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b9ca196-9c1d-49ce-ae3c-5419a1901c53/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7225402\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f6d2469-7b58-4e4a-aa9d-afd9ef44bfa7/file/983e11c1-559f-4a25-a083-cd64acb25b56\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f6d2469-7b58-4e4a-aa9d-afd9ef44bfa7/file/42727504-423a-46a3-91b1-83ec60f1a24c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a9%2F3c%2F8a%2Fa93c8a406a0c4b7895af13d73d2d088a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b9ca196-9c1d-49ce-ae3c-5419a1901c53/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dc_source_sm": [
-    "princeton-3t945t26n"
-  ],
+  "suppressed_b": false,
   "call_number_s": "HMC01.4695"
 }

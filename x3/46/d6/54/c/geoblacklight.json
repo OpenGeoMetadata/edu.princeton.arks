@@ -18,7 +18,12 @@
     "Algeria—Maps",
     "Mali—Maps",
     "Mauritania—Maps",
-    "Sahara—Maps"
+    "Sahara—Maps",
+    "Maps—Morocco—1827",
+    "Maps—Algeria—1827",
+    "Maps—Mali—1827",
+    "Maps—Mauritania—1827",
+    "Maps—Sahara—1827"
   ],
   "dct_spatial_sm": [
     "Morocco",
@@ -26,10 +31,12 @@
     "Mali",
     "Mauritania"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:35Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-24T03:50:41Z",
   "layer_id_s": "public-figgy:p-99e93edf-9035-4886-9674-b17b96bff8db",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5727138\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99e93edf-9035-4886-9674-b17b96bff8db/file/6260959e-309e-48ac-9543-1059e7e909a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99e93edf-9035-4886-9674-b17b96bff8db/file/5939f7d1-db45-4570-b10d-8838022da6bf\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c1%2Fde%2F23%2Fc1de239db1da4521ad02365df2aaf5b8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06e0e594-d558-4037-afb4-2af4de689bf1/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5727138\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99e93edf-9035-4886-9674-b17b96bff8db/file/6260959e-309e-48ac-9543-1059e7e909a4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99e93edf-9035-4886-9674-b17b96bff8db/file/5939f7d1-db45-4570-b10d-8838022da6bf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ba%2Fe0%2Fee%2Fbae0ee07e2de4eea806647ef19798194%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/06e0e594-d558-4037-afb4-2af4de689bf1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6453"
 }

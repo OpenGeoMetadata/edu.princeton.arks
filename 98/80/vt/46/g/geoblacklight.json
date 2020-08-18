@@ -17,15 +17,19 @@
     "Post roads—England—Maps",
     "Post roads—Europe—Maps",
     "Postal service—Europe—Maps",
-    "Europe—History—1848-1871—Maps"
+    "Europe—History—1848-1871—Maps",
+    "Maps—Europe—1865",
+    "Thematic maps—Europe—1865"
   ],
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2019-06-04T18:17:08Z",
+  "solr_year_i": 1865,
+  "layer_modified_dt": "2020-06-23T20:02:11Z",
   "layer_id_s": "public-figgy:p-1b79e918-9b84-4243-b740-1c2cef4cee48",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7097768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b79e918-9b84-4243-b740-1c2cef4cee48/file/ed8b2a6d-20fd-414b-8ea6-e6eec6976f68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b79e918-9b84-4243-b740-1c2cef4cee48/file/6bbc2390-c1ec-472e-9739-f4a431891ede\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e0%2F60%2F40%2Fe060407bc0374b62b7ace1fa01aa6ade%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77e16e65-0774-4741-9668-29a315df82f2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7097768\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1b79e918-9b84-4243-b740-1c2cef4cee48/file/ed8b2a6d-20fd-414b-8ea6-e6eec6976f68\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1b79e918-9b84-4243-b740-1c2cef4cee48/file/6bbc2390-c1ec-472e-9739-f4a431891ede\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ac%2F95%2F6d%2Fac956d3d7f064a32a92d700ec893d96d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77e16e65-0774-4741-9668-29a315df82f2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.744"
 }

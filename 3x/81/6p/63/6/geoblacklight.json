@@ -6,7 +6,7 @@
   "dc_title_s": "Grenloch, Camden & Gloucester Counties, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, streets and specials index, and text. \"1642.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Grenloch—Maps",
-    "Grenloch (N.J.)—Maps"
+    "Grenloch (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Grenloch—1924",
+    "Maps—New Jersey—Grenloch—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:52:01Z",
-  "layer_id_s": "restricted-figgy:p-34a6e77c-9ba0-421b-a5bd-0ea4bb3fcbf8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482354\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34a6e77c-9ba0-421b-a5bd-0ea4bb3fcbf8/file/75ca3c63-5187-40d6-ad22-f1a77cc62279\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T16:02:29Z",
+  "layer_id_s": "public-figgy:p-34a6e77c-9ba0-421b-a5bd-0ea4bb3fcbf8",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482354\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34a6e77c-9ba0-421b-a5bd-0ea4bb3fcbf8/file/dfafaf0a-94c9-4c63-9682-b71311e81c75\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34a6e77c-9ba0-421b-a5bd-0ea4bb3fcbf8/file/6e26b28c-6341-42a5-90ee-13d9fe7aa420\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e4%2F5c%2F8a%2Fe45c8a9a06ca438e91acf8278c1c4497%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/59c89ef3-f0d7-4ca1-aef9-55b7428e75cf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

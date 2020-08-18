@@ -4,19 +4,31 @@
   "layer_slug_s": "princeton-sn00b2581",
   "uuid": "princeton-sn00b2581",
   "dc_title_s": "China, east coast, city of Ning-po (Yin-hsien).",
-  "solr_geom": "ENVELOPE(121.53333333333333, 121.56666666666666, 29.9, 29.866666666666667)",
+  "solr_geom": "ENVELOPE(121.533333, 121.566666, 29.9, 29.866667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. Office of Strategic Services. Research and Analysis Branch. Map no. 5471.",
+  "dc_description_s": "Map shows ship yard, ferry, and relevant buildings. Map \"No. 5471--R & A, OSS.\" Includes reliability of data table, and glossary, and location map.",
+  "dc_creator_sm": [
+    "United States. Office of Strategic Services. Research and Analysis Branch"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : Office of Strategic Services, Branch of Research and Analysis, 1944.",
   "dc_subject_sm": [
-    "China—Maps"
+    "Cities and towns—Maps",
+    "Ningbo Shi (China)—Maps",
+    "Yinzhou Qu (Ningbo Shi, China)—Maps",
+    "Yin-hsien",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:03:47Z",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "solr_year_i": 1944,
+  "layer_modified_dt": "2020-06-24T10:28:41Z",
   "layer_id_s": "public-figgy:p-2a9fd923-d498-4111-bdc7-3b795605592d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a9fd923-d498-4111-bdc7-3b795605592d/file/67fa9901-abe2-46ee-b964-c51e46165395\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a9fd923-d498-4111-bdc7-3b795605592d/file/c1bd6672-2b70-42b2-9962-97088206a2ca\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/65%2F6c%2F1b%2F656c1bb3ee584e699070487b9e00fc8c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e93c6927-cfbb-4a64-9ac3-e952dea2dd79/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830379\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a9fd923-d498-4111-bdc7-3b795605592d/file/67fa9901-abe2-46ee-b964-c51e46165395\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a9fd923-d498-4111-bdc7-3b795605592d/file/c1bd6672-2b70-42b2-9962-97088206a2ca\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/93%2Fc4%2F68%2F93c4688c2a2f4ad88415f793156ba415%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e93c6927-cfbb-4a64-9ac3-e952dea2dd79/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.D5 1944 .O3S8"
+  "suppressed_b": false,
+  "call_number_s": "G7824.N5 1944 .O3S8"
 }

@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(66.885, 67.146111, 30.288889, 30.043333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Relief shown by gradient tints. Shows roads, railways, important places, and buildings. Government of Pākistān copyright reserved. \"Surveyed 1996. Updated 2006.\" \"REG. No. 14 RWD' 2006 ...\" \"Refer to this map as 1:40,000 Quetta guide map first edition (digitized).\"",
+  "dc_description_s": "Relief shown by gradient tints. Shows roads, railways, important places, and buildings. \"Government of Pākistān copyright reserved.\" \"Surveyed 1996. Updated 2006.\" \"REG. No. 14 RWD' 2006 ...\"",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
@@ -16,15 +16,18 @@
   "dc_subject_sm": [
     "Quetta (Pakistan)—Maps",
     "Quetta District (Pakistan)—Maps",
-    "Baluchistān (Pakistan)—Maps"
+    "Baluchistān (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:17:35Z",
-  "layer_id_s": "restricted-figgy:p-af0d6075-5a96-47e5-9614-3460e99ee101",
+  "solr_year_i": 2006,
+  "layer_modified_dt": "2020-06-23T16:43:36Z",
+  "layer_id_s": "af0d6075-5a96-47e5-9614-3460e99ee101",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7704158\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af0d6075-5a96-47e5-9614-3460e99ee101/file/dfe05660-edb1-4956-b636-6deaf44a815e\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.Q8E635 2006 .S8"
 }

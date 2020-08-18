@@ -6,7 +6,7 @@
   "dc_title_s": "May's Landing, Atlantic County, New Jersey",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"June 1924.\" \"1656.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—May's Landing—Maps",
-    "May's Landing (N.J.)—Maps"
+    "May's Landing (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—May's Landing—1924",
+    "Maps—New Jersey—May's Landing—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:39:30Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T03:00:33Z",
   "layer_id_s": "ark:/88435/bn999963b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190973\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/186921eb-97c6-40d9-959c-f832d80b118c/file/400667c8-3114-45cc-85ce-e199d7b22d38\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190973\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/186921eb-97c6-40d9-959c-f832d80b118c/file/17bb69e2-be25-4031-9f64-c88c493edb2a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9c%2Fea%2Fa3%2F9ceaa3430128497e8ace2bf608cbac5a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/933ae1a1-bc63-4da5-8adf-6b8f810e480f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (May's Landing)"
 }

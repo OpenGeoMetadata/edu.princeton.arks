@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Central America—Maps",
     "Mexico—Maps",
-    "United States—Maps"
+    "United States—Maps",
+    "Maps—Central America—1852",
+    "Maps—Mexico—1852",
+    "Maps—United States—1852"
   ],
   "dct_spatial_sm": [
     "Mexico",
     "Central America",
     "Texas"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:42Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-22T22:19:57Z",
   "layer_id_s": "public-figgy:p-8fbe957b-e0da-4764-8cc7-ad502161ae83",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7978134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8fbe957b-e0da-4764-8cc7-ad502161ae83/file/44bcb4fb-38f9-47e6-bb84-dd887c215e31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8fbe957b-e0da-4764-8cc7-ad502161ae83/file/6aa74349-5818-4139-82b5-50667164ce24\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7b%2Fed%2F81%2F7bed81a8165b45f3be4486db8fa351ef%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/45440dc1-3bb1-4177-a59b-7c981efececf/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7978134\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8fbe957b-e0da-4764-8cc7-ad502161ae83/file/44bcb4fb-38f9-47e6-bb84-dd887c215e31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8fbe957b-e0da-4764-8cc7-ad502161ae83/file/5d18018f-6437-480c-8b07-689b5a38d44a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/49%2F10%2F8c%2F49108c1c10c84c34b4912331b9230c6f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/45440dc1-3bb1-4177-a59b-7c981efececf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6047"
 }

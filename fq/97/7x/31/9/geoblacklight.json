@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Norway—Maps",
     "Russia—Maps",
-    "Sweden—Maps"
+    "Sweden—Maps",
+    "Maps—Norway—1913",
+    "Maps—Russia—1913",
+    "Maps—Sweden—1913"
   ],
   "dct_spatial_sm": [
     "Norway",
     "Sweden",
     "Russia. Russian Empire. Soviet Union. Former Soviet Republics"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:56Z",
+  "solr_year_i": 1913,
+  "layer_modified_dt": "2020-06-23T15:35:49Z",
   "layer_id_s": "public-figgy:p-b8b2c091-b6cc-4bd4-bbf5-9de58e9f06f1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8229058\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8b2c091-b6cc-4bd4-bbf5-9de58e9f06f1/file/56c0fa9c-6dc5-43b7-aa7d-b0937a5e8d93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8b2c091-b6cc-4bd4-bbf5-9de58e9f06f1/file/c96cbf32-ce36-4925-a99b-d4172b68d371\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f6%2Ffe%2Fb4%2Ff6feb454cde34b73baf30f9dd8e63bd9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/926ae2e9-8379-4ca6-95f9-bda9f4789ec5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8229058\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b8b2c091-b6cc-4bd4-bbf5-9de58e9f06f1/file/56c0fa9c-6dc5-43b7-aa7d-b0937a5e8d93\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b8b2c091-b6cc-4bd4-bbf5-9de58e9f06f1/file/c96cbf32-ce36-4925-a99b-d4172b68d371\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7c%2F40%2F3b%2F7c403b2abc3348c0a1c1a2fe877af039%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/926ae2e9-8379-4ca6-95f9-bda9f4789ec5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.514"
 }

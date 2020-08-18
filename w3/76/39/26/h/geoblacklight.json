@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-w3763926h",
   "uuid": "princeton-w3763926h",
   "dc_title_s": "Ducatus Eboracensis pars borealis : the Northriding of York shire",
-  "solr_geom": "ENVELOPE(-2.5647389, -0.2124959, 54.5601224, 53.6210943)",
+  "solr_geom": "ENVELOPE(-1.8501, -0.3086, 54.6667, 53.9169)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Imprint derived from the earliest atlas in which the map was issued. Issued in this state in successive editions of the atlas until the plate was destroyed in 1672. Shows wapontake boundaries, rivers, woods, parks and settlements ; coats of arms. Decorative title cartouche. Relief shown pictorially. French text on verso with caption title: North-riding; p. 329-330; signature Sssss.",
@@ -14,14 +14,18 @@
   "dc_language_s": "lat",
   "dc_publisher_s": "[Amsterdam : J. Blaeu, 1648]",
   "dc_subject_sm": [
-    "North Riding of Yorkshire (England)—Maps—Early works to 1800"
+    "North Riding of Yorkshire (England)—Maps—Early works to 1800",
+    "County maps—England—Yorkshire—1648",
+    "Maps—England—Yorkshire—1648"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T17:19:42Z",
+  "solr_year_i": 1645,
+  "layer_modified_dt": "2020-06-24T10:44:59Z",
   "layer_id_s": "ark:/88435/w3763926h",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273163\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d118a91-79e1-4370-b91a-75df4660e694/file/279a1bf7-6418-4778-8acb-00d167665b36\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e1%2F6e%2F7d%2Fe16e7d10255a476481c9693292aa0de5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75d1496c-e36b-4374-a883-bf8c167cf85d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7273163\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8d118a91-79e1-4370-b91a-75df4660e694/file/279a1bf7-6418-4778-8acb-00d167665b36\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c8%2Fe0%2Ff6%2Fc8e0f67249b9426ea1fb339beff02d64%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/75d1496c-e36b-4374-a883-bf8c167cf85d/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4766"
 }

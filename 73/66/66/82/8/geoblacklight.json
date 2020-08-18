@@ -17,7 +17,11 @@
     "Canada—History—To 1763 (New France)—Maps—Early works to 1800",
     "New England—Maps—Early works to 1800",
     "New York (State)—Maps—Early works to 1800",
-    "Virginia—Maps—Early works to 1800"
+    "Virginia—Maps—Early works to 1800",
+    "Maps—Canada—1638",
+    "Maps—New England—1638",
+    "Maps—New York (State)—1638",
+    "Maps—Virginia—1638"
   ],
   "dct_spatial_sm": [
     "North America",
@@ -25,10 +29,12 @@
     "New York",
     "Virginia"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:48Z",
+  "solr_year_i": 1638,
+  "layer_modified_dt": "2020-06-24T03:52:17Z",
   "layer_id_s": "public-figgy:p-810862f3-90bc-4958-accb-af503afaca6a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5739831\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/810862f3-90bc-4958-accb-af503afaca6a/file/27b6cf31-4999-4172-b224-d9b283c01983\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/810862f3-90bc-4958-accb-af503afaca6a/file/3c1ab141-28d2-4031-accc-f8c2739ddbc0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8d%2Fc5%2F68%2F8dc568ea6c5a4d41ac18b061a5717eb1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19e62543-6b28-4fad-b94c-a67afb24ccb5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5739831\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/810862f3-90bc-4958-accb-af503afaca6a/file/27b6cf31-4999-4172-b224-d9b283c01983\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/810862f3-90bc-4958-accb-af503afaca6a/file/3c1ab141-28d2-4031-accc-f8c2739ddbc0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/02%2F29%2Fec%2F0229ec6d733a4a6ca8539e7dbf5471fe%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19e62543-6b28-4fad-b94c-a67afb24ccb5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1218"
 }

@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, 1848.",
   "dc_subject_sm": [
     "Harbors—Massachusetts—Edgarton—Maps",
-    "Edgartown Harbor (Mass.)—Maps"
+    "Edgartown Harbor (Mass.)—Maps",
+    "Maps—Massachusetts—Edgartown Harbor—1848",
+    "Nautical charts—Massachusetts—Edgartown Harbor—1848"
   ],
   "dct_spatial_sm": [
     "Massachusetts"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:34Z",
+  "solr_year_i": 1848,
+  "layer_modified_dt": "2020-06-22T22:37:33Z",
   "layer_id_s": "public-figgy:p-0dc7e2a5-5ed3-43a8-b9e0-bcd6fd6d50e7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7684009\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0dc7e2a5-5ed3-43a8-b9e0-bcd6fd6d50e7/file/9a275e82-c03a-47dd-bc02-f5913001e9ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0dc7e2a5-5ed3-43a8-b9e0-bcd6fd6d50e7/file/88e1643d-c747-43bc-bde7-61aa88599c32\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3b%2F7b%2F42%2F3b7b42ce9de54e5fa8c3b6819e681ec1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a287d733-def1-4aa3-873d-483bdb13bfff/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7684009\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0dc7e2a5-5ed3-43a8-b9e0-bcd6fd6d50e7/file/9a275e82-c03a-47dd-bc02-f5913001e9ca\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0dc7e2a5-5ed3-43a8-b9e0-bcd6fd6d50e7/file/a11ede50-48ed-4072-a853-0b90ecaabf6a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/05%2F38%2Fc0%2F0538c0cf3a2d47f7a92db369785b690a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a287d733-def1-4aa3-873d-483bdb13bfff/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6977"
 }

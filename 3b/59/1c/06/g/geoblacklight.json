@@ -17,16 +17,20 @@
     "Roads—England—Maps",
     "Roads—Wales—Maps",
     "England—Distances, etc—Maps",
-    "Wales—Distances, etc—Maps"
+    "Wales—Distances, etc—Maps",
+    "Maps—England—1851",
+    "Maps—Wales—1851"
   ],
   "dct_spatial_sm": [
     "England",
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:10Z",
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2020-06-22T22:35:29Z",
   "layer_id_s": "public-figgy:p-8305807d-9b5a-439c-837c-ed554a8d7b72",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7195424\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/8fbd21b3-2eb2-42e8-ab65-5f00e856e99b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/60daec69-4d13-467b-93ec-0f083bdbeb92\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7a%2F70%2F95%2F7a7095c2237245bc80e43054276ff2cc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8180d730-8b7d-439a-a43a-beb2e494d166/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7195424\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/8fbd21b3-2eb2-42e8-ab65-5f00e856e99b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8305807d-9b5a-439c-837c-ed554a8d7b72/file/76f222a8-698e-4957-9a3e-3438301984cc\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/dc%2F7b%2Fb7%2Fdc7bb71297b64df4970566e6dd4a2728%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8180d730-8b7d-439a-a43a-beb2e494d166/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4667"
 }

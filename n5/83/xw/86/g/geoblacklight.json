@@ -15,6 +15,7 @@
   "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1982.",
   "dc_subject_sm": [
     "Beijing (China)—Maps",
+    "Maps",
     "China—Maps",
     "Land use",
     "Transportation"
@@ -22,10 +23,12 @@
   "dct_spatial_sm": [
     "Beijing (China)"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:44Z",
+  "solr_year_i": 1982,
+  "layer_modified_dt": "2020-06-24T03:46:55Z",
   "layer_id_s": "public-figgy:p-79f3d663-05de-4943-b06e-e6d21baae691",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/dccb74af-f429-49ef-8bd3-c117e19d42e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/a29c5948-5d21-45fb-bcdb-70f08f5ad3e8\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/32%2Fcc%2Fb4%2F32ccb439faaa43aa8dc9e2643f6a3cb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0da481e3-df0c-4e51-b411-664dc472c64e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/dccb74af-f429-49ef-8bd3-c117e19d42e2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79f3d663-05de-4943-b06e-e6d21baae691/file/a29c5948-5d21-45fb-bcdb-70f08f5ad3e8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/87%2F7c%2F80%2F877c80741b404199b8cf856e62b87345%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0da481e3-df0c-4e51-b411-664dc472c64e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7824.B4 1982 .C4I5 (b) sh1"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "West Collingswood Heights, Haddon Township (Sheet 19)",
   "solr_geom": "ENVELOPE(-74.966, -74.908, 39.81, 39.776)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Sept. 1924.\" Includes text. North oriented towards upper right. \"1803.\" Historic Maps copy has sheet 19 of Audubon, N.J. series, showing West Collingswood Heights.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "[New York] : Sanborn Map Co., 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—West Collingswood—Maps",
-    "West Collingswood (N.J.)—Maps"
+    "West Collingswood (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—West Collingswood—1924",
+    "Maps—New Jersey—West Collingswood—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:13Z",
-  "layer_id_s": "restricted-figgy:p-9d7b78f4-4963-4b94-a02f-70add55caae7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5364368\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d7b78f4-4963-4b94-a02f-70add55caae7/file/bac860ea-65ab-4590-b1a9-b47c8d56c110\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:10:38Z",
+  "layer_id_s": "public-figgy:p-9d7b78f4-4963-4b94-a02f-70add55caae7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5364368\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d7b78f4-4963-4b94-a02f-70add55caae7/file/872a7aa3-1706-4fcd-a9a2-0328282b4f3f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d7b78f4-4963-4b94-a02f-70add55caae7/file/ab7311b0-89a5-43f4-ba5c-bc65ee949967\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/bd%2Fcf%2F7a%2Fbdcf7a6991a84cfcb057384217625d06%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c06fccab-6375-4995-b6e8-51bf7292121d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -14,15 +14,18 @@
   "dc_language_s": "spa",
   "dc_publisher_s": "Washington, D.C. : Hydrographic/Topographic Center, 1980.",
   "dc_subject_sm": [
-    "Bogotá (Colombia)—Maps"
+    "Bogotá (Colombia)—Maps",
+    "Topographic maps"
   ],
   "dct_spatial_sm": [
     "Colombia"
   ],
-  "layer_modified_dt": "2019-06-04T19:23:59Z",
+  "solr_year_i": 1980,
+  "layer_modified_dt": "2020-06-23T10:11:12Z",
   "layer_id_s": "public-figgy:p-576f6902-977d-4a34-b08f-1db93b48f27f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11115994\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/576f6902-977d-4a34-b08f-1db93b48f27f/file/90eb879f-0da3-4345-807d-d1b6ae0ea3f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/576f6902-977d-4a34-b08f-1db93b48f27f/file/c6f401e8-d198-4d69-a227-9cebbc0dd115\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/fd%2F0d%2F9b%2Ffd0d9bbda0a84bc6b01d57a6feb02a06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6ea6c09-0932-42fe-b89e-959eec07b89a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11115994\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/576f6902-977d-4a34-b08f-1db93b48f27f/file/90eb879f-0da3-4345-807d-d1b6ae0ea3f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/576f6902-977d-4a34-b08f-1db93b48f27f/file/c6f401e8-d198-4d69-a227-9cebbc0dd115\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/66%2Fc0%2F4b%2F66c04b3484c14a89892e96a63e9c0d58%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a6ea6c09-0932-42fe-b89e-959eec07b89a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5294.B6C2 1980 .D4M3"
 }

@@ -15,16 +15,21 @@
   "dc_publisher_s": "[London] : Published according to Act of Parliament at the Hydrographic Office of the Admiralty, June 25th, 1848.",
   "dc_subject_sm": [
     "Africa, North—Maps",
-    "Tenerife (Canary Islands)—Maps"
+    "Tenerife (Canary Islands)—Maps",
+    "Maps—Africa, North—1848",
+    "Maps—Canary Islands—Tenerife—1848",
+    "Nautical charts—Canary Islands—Tenerife—1848"
   ],
   "dct_spatial_sm": [
     "Africa, North",
     "Canary Islands"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:26Z",
+  "solr_year_i": 1848,
+  "layer_modified_dt": "2020-06-24T03:00:44Z",
   "layer_id_s": "public-figgy:p-c84ff066-a519-425c-8a5a-021e49077e7e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4628724\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c84ff066-a519-425c-8a5a-021e49077e7e/file/066253b2-5b16-4c7f-9665-58e61ba1b1b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c84ff066-a519-425c-8a5a-021e49077e7e/file/cc7bc31e-c60c-42d4-99f1-c3033205d598\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b4%2F5c%2F76%2Fb45c76a20d6647d99ca04d271ea101f6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be1f9b4a-8623-4059-9c63-eac4fe5e6c2f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4628724\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c84ff066-a519-425c-8a5a-021e49077e7e/file/066253b2-5b16-4c7f-9665-58e61ba1b1b0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c84ff066-a519-425c-8a5a-021e49077e7e/file/cc7bc31e-c60c-42d4-99f1-c3033205d598\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/90%2Feb%2F11%2F90eb11312aeb4512b2e96d0326a78afc%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be1f9b4a-8623-4059-9c63-eac4fe5e6c2f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.282"
 }

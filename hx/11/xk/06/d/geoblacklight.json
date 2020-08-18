@@ -3,20 +3,28 @@
   "dc_identifier_s": "ark:/88435/hx11xk06d",
   "layer_slug_s": "princeton-hx11xk06d",
   "uuid": "princeton-hx11xk06d",
-  "dc_title_s": "Pogranitchnaya",
-  "solr_geom": "ENVELOPE(131.15, 131.166667, 44.416667, 44.383333)",
+  "dc_title_s": "Pogranitchna",
+  "solr_geom": "ENVELOPE(131.355574, 131.39188, 44.417415, 44.400715)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "[s.n.] Map is a photocopy.",
-  "dc_language_s": "eng",
-  "dc_publisher_s": "[s.l.] : [s.n.], [n.d.].",
+  "dc_description_s": "Map is a photocopy. Relief shown by form lines. Principal meridian is not Greenwich.",
+  "dc_language_s": "rus",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [19__?].",
   "dc_subject_sm": [
-    "China—Maps"
+    "Pogranichnyĭ raĭon (Russia)—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:17Z",
-  "layer_id_s": "restricted-figgy:p-493d7fd5-c47d-40f7-9e33-317c083eae0c",
+  "dct_spatial_sm": [
+    "Russia (Federation)",
+    "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
+    "Russian Far East (Russia)"
+  ],
+  "solr_year_i": 1900,
+  "layer_modified_dt": "2020-06-05T18:29:28Z",
+  "layer_id_s": "493d7fd5-c47d-40f7-9e33-317c083eae0c",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449879\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/493d7fd5-c47d-40f7-9e33-317c083eae0c/file/e7dcbe1e-eea7-4e39-a362-fcd59d777f01\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.S8"
+  "suppressed_b": false,
+  "call_number_s": "G7824.P6"
 }

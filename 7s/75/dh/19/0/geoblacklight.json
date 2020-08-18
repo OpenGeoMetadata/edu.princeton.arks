@@ -4,17 +4,19 @@
   "layer_slug_s": "princeton-7s75dh190",
   "uuid": "princeton-7s75dh190",
   "dc_title_s": "Tientsin",
-  "solr_geom": "ENVELOPE(117.15, 117.233334, 39.183334, 39.1)",
+  "solr_geom": "ENVELOPE(117.151153, 117.24385, 39.17447, 39.099324)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "\"Street directory of the foreign concessions and the special areas (districts) of Tientsin\" on the verso.",
+  "dc_description_s": "Title supplied by cataloger. Map shows Italian, Japanese, British, French, and  Belgian concessions; and special districts by color coding. Map shows the Hai - Ho river and canals, railroads, public areas and buildings. Includes indexes of Chinese city (inside and outside city). \"Street directory of the foreign concessions and the special areas (districts) of Tientsin\" on the verso.",
   "dc_language_s": "eng",
-  "dc_publisher_s": "[s.l.] : [s.n.], [193[?]",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [between 1930 and 1939]",
   "dc_subject_sm": [
-    "China—Maps"
+    "Concessions—China—Tianjin—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:14:54Z",
-  "layer_id_s": "restricted-figgy:p-196c190c-abdd-4b3c-a026-d0118844fd7b",
+  "solr_year_i": 1930,
+  "layer_modified_dt": "2020-06-24T10:43:18Z",
+  "layer_id_s": "196c190c-abdd-4b3c-a026-d0118844fd7b",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449880\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/196c190c-abdd-4b3c-a026-d0118844fd7b/file/5c9dd146-3527-439a-a8c1-e55bf45fe440\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
@@ -22,5 +24,5 @@
   "dc_source_sm": [
     "princeton-mg74qq92x"
   ],
-  "call_number_s": "G7824.T5 1930"
+  "call_number_s": "G7824.T5F3 [1930 -1939]"
 }

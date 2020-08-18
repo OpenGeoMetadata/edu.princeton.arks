@@ -18,17 +18,24 @@
     "Maryland—Maps—19th century",
     "Middle Atlantic States—Maps—19th century",
     "Virginia—Maps—19th century",
-    "West Virginia—Maps—19th century"
+    "West Virginia—Maps—19th century",
+    "Maps—Delaware—1884",
+    "Maps—Maryland—1884",
+    "Maps—Middle Atlantic States—1884",
+    "Maps—Virginia—1884",
+    "Maps—West Virginia—1884"
   ],
   "dct_spatial_sm": [
     "Middle Atlantic States",
     "Virginia",
     "West Virginia"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:20Z",
+  "solr_year_i": 1884,
+  "layer_modified_dt": "2020-06-22T22:27:04Z",
   "layer_id_s": "public-figgy:p-dbc4a053-e9b4-4e04-8b54-7f7a88b5a704",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7114610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dbc4a053-e9b4-4e04-8b54-7f7a88b5a704/file/188a916c-4f74-4474-8df9-f382bbfb28c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dbc4a053-e9b4-4e04-8b54-7f7a88b5a704/file/14aa79c4-ffb9-43de-834b-a0e520734dc5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/27%2Faf%2Ff8%2F27aff8b7131943d7aaaec4acf09aec39%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56b2faad-ba3b-46ff-897c-2bebd0cda5d5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7114610\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dbc4a053-e9b4-4e04-8b54-7f7a88b5a704/file/188a916c-4f74-4474-8df9-f382bbfb28c3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dbc4a053-e9b4-4e04-8b54-7f7a88b5a704/file/87a7307e-aa8a-409a-bd9b-b6253bf03b26\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9c%2Fa4%2F55%2F9ca455110c2f43fca08d69fc49c0c572%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/56b2faad-ba3b-46ff-897c-2bebd0cda5d5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1322"
 }

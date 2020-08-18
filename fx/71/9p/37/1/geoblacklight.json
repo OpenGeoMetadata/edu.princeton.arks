@@ -6,7 +6,7 @@
   "dc_title_s": "May's Landing, Atlantic County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.747661, -74.707661, 39.472333, 39.432333)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"June 1924.\" \"1656.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—May's Landing—Maps",
-    "May's Landing (N.J.)—Maps"
+    "May's Landing (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—May's Landing—1924",
+    "Maps—New Jersey—May's Landing—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:42:25Z",
-  "layer_id_s": "restricted-figgy:p-af9a8e5e-2fd9-4285-ad58-c497bff68888",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190973\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af9a8e5e-2fd9-4285-ad58-c497bff68888/file/7ededc19-e576-4f2f-9bd8-a1f658267102\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T18:07:39Z",
+  "layer_id_s": "public-figgy:p-af9a8e5e-2fd9-4285-ad58-c497bff68888",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5190973\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af9a8e5e-2fd9-4285-ad58-c497bff68888/file/575dde14-6a98-4216-b8b1-ce443bfbf89f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af9a8e5e-2fd9-4285-ad58-c497bff68888/file/b3385e48-c7d6-4de3-b4d8-2b3d18d57aab\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6a%2F16%2F6b%2F6a166b30ec6a4b8882496de91670e562%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/08d90675-e829-4b6f-a707-a0df0c98fa7b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

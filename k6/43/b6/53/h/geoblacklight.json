@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/k643b653h",
+  "layer_slug_s": "princeton-k643b653h",
+  "uuid": "princeton-k643b653h",
+  "dc_title_s": "LandScan Global Population Database, 2004",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 84.0, -90.0)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "LandScan Global Population Database for 2004. Population counds at 30 arc second resolution.",
+  "dc_creator_sm": [
+    "Oak Ridge National Laboratory, Marie L. Urban, Research Staff"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "world"
+  ],
+  "dct_temporal_sm": [
+    "2004",
+    "2005"
+  ],
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2020-05-21T05:41:12Z",
+  "layer_id_s": "restricted-figgy:p-c6645604-deb7-4b9b-b695-3dfe980491b7",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/41941a87-7567-47d7-89ca-226f67074780/file/e1548723-b3ae-4502-9568-9b490ca5711c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6645604-deb7-4b9b-b695-3dfe980491b7/file/90a871a3-ee3a-4439-8607-03137344ca18\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6645604-deb7-4b9b-b695-3dfe980491b7/file/f999b70d-2573-4156-971a-2e12c972d74a\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wcs\"}",
+  "layer_geom_type_s": "Raster",
+  "dc_format_s": "Arc/Info Binary Grid",
+  "dct_issued_dt": "2005-01-01T00:00:00Z",
+  "suppressed_b": false
+}

@@ -17,16 +17,22 @@
     "Telephone lines—Belgium—Maps",
     "Telephone lines—Netherlands—Maps",
     "Belgium—Maps",
-    "Netherlands—Maps"
+    "Netherlands—Maps",
+    "Maps—Belgium—1914",
+    "Maps—Luxembourg—1914",
+    "Maps—Netherlands—1914",
+    "Thematic maps—Netherlands—1914"
   ],
   "dct_spatial_sm": [
     "Netherlands",
     "Belgium"
   ],
-  "layer_modified_dt": "2019-06-04T19:29:43Z",
+  "solr_year_i": 1914,
+  "layer_modified_dt": "2020-06-22T22:35:04Z",
   "layer_id_s": "public-figgy:p-2792be77-394e-44e8-8c92-bb3bf85819b0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6945488\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2792be77-394e-44e8-8c92-bb3bf85819b0/file/ac7a26a6-0ea0-4e5f-9ca0-3f1d9091824f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2792be77-394e-44e8-8c92-bb3bf85819b0/file/1428780a-a40c-410a-9a83-6435a6720d3f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/49%2F48%2F59%2F49485956b9d141c4bd2da5ac565db60b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f48e4187-1948-4afd-956e-2d0ab48244a2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6945488\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2792be77-394e-44e8-8c92-bb3bf85819b0/file/ac7a26a6-0ea0-4e5f-9ca0-3f1d9091824f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2792be77-394e-44e8-8c92-bb3bf85819b0/file/25864b1a-aa8e-4932-952a-80a1008bc061\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/13%2F1d%2Faa%2F131daa664d924b5d96feb0ad5e466834%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f48e4187-1948-4afd-956e-2d0ab48244a2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5361"
 }

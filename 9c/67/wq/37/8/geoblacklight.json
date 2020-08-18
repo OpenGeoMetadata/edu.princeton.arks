@@ -3,27 +3,35 @@
   "dc_identifier_s": "ark:/88435/9c67wq378",
   "layer_slug_s": "princeton-9c67wq378",
   "uuid": "princeton-9c67wq378",
-  "dc_title_s": "Thracia et Macedonia",
-  "solr_geom": "ENVELOPE(16.52, 32.51, 47.3, 37.49)",
+  "dc_title_s": "Partie de l'Empire de Russie comprise en Europe",
+  "solr_geom": "ENVELOPE(16.73, 36.76, 47.01, 38.64)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Relief shown pictorially. In upper right-hand corner: p. 28.",
+  "dc_description_s": "Relief shown pictorially.",
   "dc_creator_sm": [
-    "Chilcot, William, 1663 or 1664-1711"
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782"
   ],
-  "dc_language_s": "lat",
-  "dc_publisher_s": "[S.l. : s.n., ca. 1700]",
+  "dc_language_s": "fra",
+  "dc_publisher_s": "[Geneva? : s.n.], 1759.",
   "dc_subject_sm": [
-    "Macedonia (Greece)—Maps—Early works to 1800",
-    "Thrace, Western (Greece)—Maps—Early works to 1800"
+    "Russia—Maps—Early works to 1800",
+    "Ukraine—Maps—Early works to 1800",
+    "Europe, Eastern—Maps—Early works to 1800",
+    "Maps—Europe,Eastern—1759",
+    "Maps—Russia—1759",
+    "Maps—Ukraine—1759"
   ],
   "dct_spatial_sm": [
-    "Greece"
+    "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
+    "Ukraine",
+    "Europe, Eastern"
   ],
-  "layer_modified_dt": "2019-06-04T19:27:22Z",
-  "layer_id_s": "public-figgy:p-287fb18a-3826-427c-bb4b-026557941e12",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8786771\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/287fb18a-3826-427c-bb4b-026557941e12/file/58070e16-3b97-44ee-a383-99a1fe18ecc4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/287fb18a-3826-427c-bb4b-026557941e12/file/1c282031-5870-4bdf-b061-869c478d7204\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/15%2Fac%2Fcf%2F15accf3f5b414d3685d8e49318e6b69d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a4ddc4b4-f26f-4942-bf67-b81f9016053e/manifest\"}",
+  "solr_year_i": 1759,
+  "layer_modified_dt": "2020-06-22T22:20:35Z",
+  "layer_id_s": "public-figgy:p-7d2db43e-d5a5-403b-8053-9bc4c84961d9",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8796657\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7d2db43e-d5a5-403b-8053-9bc4c84961d9/file/7763a789-9251-4c32-9dc4-ce12d6f7b4b1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7d2db43e-d5a5-403b-8053-9bc4c84961d9/file/62973bf9-a123-4763-9375-101996461fbe\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f3%2F0c%2F6d%2Ff30c6d5600b94cf9b7f8f963b16afc50%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0069ef1c-9961-4931-9eef-ec99c32e3a19/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "HMC01.7122"
+  "suppressed_b": false,
+  "call_number_s": "HMC01.7129"
 }

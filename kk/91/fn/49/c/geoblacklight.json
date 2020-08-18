@@ -18,7 +18,11 @@
     "Siberia (Russia)—Maps—Early works to 1800",
     "Mongolia—Maps—Early works to 1800",
     "Russia—Maps—Early works to 1800",
-    "China—Maps—Early works to 1800"
+    "China—Maps—Early works to 1800",
+    "Maps—Asia, Central—1603",
+    "Maps—Russia—Siberia—1603",
+    "Maps—Mongolia—1603",
+    "Maps—Russia—1603"
   ],
   "dct_spatial_sm": [
     "Asia, Central",
@@ -27,10 +31,12 @@
     "Russia. Russian Empire. Soviet Union. Former Soviet Republics",
     "China"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:32Z",
+  "solr_year_i": 1603,
+  "layer_modified_dt": "2020-06-23T19:58:31Z",
   "layer_id_s": "public-figgy:p-2b6cd07b-b06c-4c00-ba58-8224ce61954d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5391049\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b6cd07b-b06c-4c00-ba58-8224ce61954d/file/204f32d5-68cd-4484-a1b1-7b0905cfa829\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b6cd07b-b06c-4c00-ba58-8224ce61954d/file/47d100ed-cb3b-4f01-b226-efea11667715\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/dc%2F7f%2F45%2Fdc7f45d7ddee467c934565402abff452%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a76ecb51-1cd1-471a-b3ff-2bbc0fd26921/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5391049\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b6cd07b-b06c-4c00-ba58-8224ce61954d/file/204f32d5-68cd-4484-a1b1-7b0905cfa829\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b6cd07b-b06c-4c00-ba58-8224ce61954d/file/47d100ed-cb3b-4f01-b226-efea11667715\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/48%2F23%2F45%2F482345eb0b104f1dba3cc87810c07aaa%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a76ecb51-1cd1-471a-b3ff-2bbc0fd26921/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.618"
 }

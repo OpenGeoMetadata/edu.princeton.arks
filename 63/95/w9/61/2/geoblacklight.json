@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : J. Andriveau-Goujon, 1870 (Paris : Impie. de Chardon, jne. fils, Rue Racine, 3)",
   "dc_subject_sm": [
-    "Italy—Maps"
+    "Italy—Maps",
+    "Maps—Italy—1870"
   ],
   "dct_spatial_sm": [
     "Italy"
   ],
-  "layer_modified_dt": "2019-06-04T18:13:09Z",
+  "solr_year_i": 1870,
+  "layer_modified_dt": "2020-06-23T16:38:55Z",
   "layer_id_s": "public-figgy:p-53f0fe63-f8d2-4898-bdce-5004087c8bbe",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8049507\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53f0fe63-f8d2-4898-bdce-5004087c8bbe/file/c2438712-25f0-49f4-bb2e-aa25a0c6f756\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53f0fe63-f8d2-4898-bdce-5004087c8bbe/file/b248979d-805e-4dd8-bdaa-5edf364aa6fb\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/66%2F89%2F91%2F668991b1c9e24992877b500b49923a34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a02a147e-f707-4db9-8360-21807a2b1873/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8049507\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53f0fe63-f8d2-4898-bdce-5004087c8bbe/file/c2438712-25f0-49f4-bb2e-aa25a0c6f756\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53f0fe63-f8d2-4898-bdce-5004087c8bbe/file/b248979d-805e-4dd8-bdaa-5edf364aa6fb\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b8%2F3b%2Fcc%2Fb83bccc86cb14607a20030d26fce4e6c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a02a147e-f707-4db9-8360-21807a2b1873/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5240"
 }

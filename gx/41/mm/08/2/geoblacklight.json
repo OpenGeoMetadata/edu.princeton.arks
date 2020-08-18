@@ -6,7 +6,7 @@
   "dc_title_s": "Hamburg, Sussex County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.58292, -74.560975, 41.161163, 41.136764)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, key map, specials index, and text. \"February 1924.\" \"1484.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Hamburg—Maps",
-    "Hamburg (N.J.)—Maps"
+    "Hamburg (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Hamburg—1924",
+    "Maps—New Jersey—Hamburg—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:42:28Z",
-  "layer_id_s": "restricted-figgy:p-fd6e8f24-d399-4d30-a25e-f8c6c55fb5ed",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607444\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd6e8f24-d399-4d30-a25e-f8c6c55fb5ed/file/1989b071-65c2-44d6-bd1b-b27106e213aa\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:40:24Z",
+  "layer_id_s": "public-figgy:p-fd6e8f24-d399-4d30-a25e-f8c6c55fb5ed",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5607444\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd6e8f24-d399-4d30-a25e-f8c6c55fb5ed/file/0c18aa16-23be-4b29-9dd1-dd2bb207869e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd6e8f24-d399-4d30-a25e-f8c6c55fb5ed/file/2fef41d8-3bfa-44a3-9dc0-0d8b659c5fae\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3a%2Fff%2F32%2F3aff3266e19145579bde5f8d510dc60c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/585b9d72-ece2-40ac-94d4-e3d09ef7f2b4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Manchester : Published by Isaac Slater, 36 Portland St., 1873.",
   "dc_subject_sm": [
-    "Manchester (England)—Maps"
+    "Manchester (England)—Maps",
+    "Maps—England—Manchester—1873",
+    "City maps—England—Manchester—1873"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:09Z",
+  "solr_year_i": 1873,
+  "layer_modified_dt": "2020-06-23T20:01:25Z",
   "layer_id_s": "public-figgy:p-08bc675f-0a94-4822-b418-ac9d009bd568",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564240\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08bc675f-0a94-4822-b418-ac9d009bd568/file/9cf31df9-4b38-48c7-afac-0c953f5adb2c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08bc675f-0a94-4822-b418-ac9d009bd568/file/df4f685a-fcb1-4ab4-9e3a-d746008a8d0f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/56%2Fa4%2F32%2F56a43254a57649258599a2a662834abd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9faa87cb-905e-44dd-81ed-03725653e03d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5564240\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08bc675f-0a94-4822-b418-ac9d009bd568/file/9cf31df9-4b38-48c7-afac-0c953f5adb2c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08bc675f-0a94-4822-b418-ac9d009bd568/file/df4f685a-fcb1-4ab4-9e3a-d746008a8d0f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/00%2F05%2F25%2F000525a2bbaa4b3da503c731759ce3af%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/9faa87cb-905e-44dd-81ed-03725653e03d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4711"
 }

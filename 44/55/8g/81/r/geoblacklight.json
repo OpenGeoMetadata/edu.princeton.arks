@@ -17,16 +17,22 @@
     "Roads—Italy—Maps",
     "Roads—Switzerland—Maps",
     "Italy—Maps",
-    "Switzerland—Maps"
+    "Switzerland—Maps",
+    "Maps—Italy—1834",
+    "Maps—Switzerland—1834",
+    "Road maps—Italy—1834",
+    "Road maps—Switzerland—1834"
   ],
   "dct_spatial_sm": [
     "Italy",
     "Switzerland"
   ],
-  "layer_modified_dt": "2019-06-04T18:17:00Z",
+  "solr_year_i": 1834,
+  "layer_modified_dt": "2020-06-24T03:54:12Z",
   "layer_id_s": "public-figgy:p-11028402-0b4f-482b-814c-96d7176e577f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8048121\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11028402-0b4f-482b-814c-96d7176e577f/file/14872917-6abd-41de-8497-c5f09942a968\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11028402-0b4f-482b-814c-96d7176e577f/file/56dfc71f-254e-4ac6-98df-ae3732880b68\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/bb%2F17%2Fa5%2Fbb17a52089e2463b90e5ded9af32dc16%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c95ab7ec-4404-42e2-a196-9ac5fa574818/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8048121\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11028402-0b4f-482b-814c-96d7176e577f/file/14872917-6abd-41de-8497-c5f09942a968\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11028402-0b4f-482b-814c-96d7176e577f/file/56dfc71f-254e-4ac6-98df-ae3732880b68\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/0a%2Fa3%2F2c%2F0aa32c65387c43ddb2cfa2195da7f821%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c95ab7ec-4404-42e2-a196-9ac5fa574818/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5224"
 }

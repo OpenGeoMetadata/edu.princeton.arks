@@ -14,16 +14,20 @@
   "dc_language_s": "lat",
   "dc_publisher_s": "[Amsterdam : Jan Jansson, 1634]",
   "dc_subject_sm": [
-    "America—Maps—Early works to 1800"
+    "America—Maps—Early works to 1800",
+    "Maps—America—1631",
+    "Maps—Western Hemisphere—1631"
   ],
   "dct_spatial_sm": [
     "North America",
     "South America"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:02Z",
+  "solr_year_i": 1634,
+  "layer_modified_dt": "2020-06-22T23:07:35Z",
   "layer_id_s": "public-figgy:p-1ce9d7c7-0094-46ab-b00e-843ad4ac0ece",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4729715\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/d3328172-0094-456a-a418-2dbb7c58dff7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/a662e1fc-0595-417c-86fc-2322fd8048fd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f7%2Fbd%2Fb7%2Ff7bdb73503dd42dbba1aef67ee2455ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c10ae6e-b795-4732-ad9a-2c2218728292/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4729715\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/d3328172-0094-456a-a418-2dbb7c58dff7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ce9d7c7-0094-46ab-b00e-843ad4ac0ece/file/a662e1fc-0595-417c-86fc-2322fd8048fd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3f%2F18%2F2f%2F3f182f1bbce045c4a9c9984864ec2f4b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5c10ae6e-b795-4732-ad9a-2c2218728292/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.133"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Blackwood, Camden County, New Jersey",
   "solr_geom": "ENVELOPE(-75.0773, -75.0617, 39.8071, 39.7959)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July 1924.\" Includes location map, key, specials index, and text. \"1691.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Blackwood—Maps",
-    "Blackwood (N.J.)—Maps"
+    "Blackwood (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Blackwood—1924",
+    "Maps—New Jersey—Blackwood—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:41:51Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T16:09:14Z",
   "layer_id_s": "ark:/88435/w3763967s",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355732\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8fa9464-b732-4410-a806-eccfa8400ba7/file/2b7b761a-8002-40a6-8dd5-70e21a33df03\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5355732\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e8fa9464-b732-4410-a806-eccfa8400ba7/file/6d3a3089-3916-4fa1-ad73-b525f5f236ab\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/05%2F48%2F04%2F054804eb6c184bc9a1309f0800db6d74%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ce12f4c1-c34e-4c3e-afba-d1550f1884a0/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Blackwood)"
 }

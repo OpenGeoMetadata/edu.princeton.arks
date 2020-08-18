@@ -14,16 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : chez l'auteur ... , 1820.",
   "dc_subject_sm": [
-    "British Isles—Maps"
+    "British Isles—Maps",
+    "Maps—British Isles—1820"
   ],
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:31Z",
+  "solr_year_i": 1820,
+  "layer_modified_dt": "2020-06-22T22:49:54Z",
   "layer_id_s": "public-figgy:p-51b76abf-9ae9-47ec-81dd-e35f8d9285dd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7199522\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51b76abf-9ae9-47ec-81dd-e35f8d9285dd/file/5eef522a-3eee-4da3-89a8-5c7375f54562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51b76abf-9ae9-47ec-81dd-e35f8d9285dd/file/b49a3a57-9f1d-49e1-a034-c15bef457d68\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3f%2F6e%2F56%2F3f6e56f664074e7f98fe4fd49c19dc77%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/89c67caa-c159-4e39-bd84-bd6067f3abc9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7199522\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/51b76abf-9ae9-47ec-81dd-e35f8d9285dd/file/5eef522a-3eee-4da3-89a8-5c7375f54562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/51b76abf-9ae9-47ec-81dd-e35f8d9285dd/file/cea21dfc-b9ae-4759-964e-2eee3470ae3e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/41%2F0e%2Fef%2F410eef32b8e84b628ff0272c3e6d5123%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/89c67caa-c159-4e39-bd84-bd6067f3abc9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3109"
 }

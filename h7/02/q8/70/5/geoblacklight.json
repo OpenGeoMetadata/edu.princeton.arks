@@ -14,15 +14,20 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Trenton, N.J.] : Geological Survey of New Jersey, 1888.",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1888",
+    "Relief maps—New Jersey—1888",
+    "State maps—New Jersey—1888"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:38Z",
+  "solr_year_i": 1888,
+  "layer_modified_dt": "2020-06-23T19:58:35Z",
   "layer_id_s": "public-figgy:p-4b7afb65-3270-4073-9db9-9eb530b145a7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5620121\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b7afb65-3270-4073-9db9-9eb530b145a7/file/1d257931-3c6d-4d5f-a43a-e75fe4b94429\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b7afb65-3270-4073-9db9-9eb530b145a7/file/c91e603c-3aae-4c77-bd6e-430f92f93dad\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0e%2F83%2F10%2F0e83103c7f724b1a8a0de549c5e84f47%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/960f8a6a-9a91-4053-8579-fe5bd86a8b93/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5620121\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b7afb65-3270-4073-9db9-9eb530b145a7/file/1d257931-3c6d-4d5f-a43a-e75fe4b94429\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b7afb65-3270-4073-9db9-9eb530b145a7/file/c91e603c-3aae-4c77-bd6e-430f92f93dad\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/81%2F7f%2Ff6%2F817ff6c839b7444cb2266d139ab7cafe%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/960f8a6a-9a91-4053-8579-fe5bd86a8b93/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1685"
 }

@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-0g354h70w",
   "uuid": "princeton-0g354h70w",
   "dc_title_s": "Nassovia Comitatus",
-  "solr_geom": "ENVELOPE(7.7724063, 10.2364858, 51.657817, 49.3952611)",
+  "solr_geom": "ENVELOPE(7.3016, 8.7854, 51.0367, 50.0118)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Map of the Nassau region of Germany, formerly a county and later a duchy; now in west Hesse and north-east Rhineland-Palatinate states. Relief shown pictorially. French text on verso with caption title: Description de la Comté de Nassau; p. 437, 440; signature Rrrrr 4. From: Gerardi Mercatoris et I. Hondii Atlas, ou, Réprésentation du monde ... , vol. 2. p. 437.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "Amstelodami : Henricus Hondius Excudit, [1633]",
   "dc_subject_sm": [
     "Hesse (Germany)—Maps—Early works to 1800",
-    "Rhineland-Palatinate (Germany)—Maps—Early works to 1800"
+    "Rhineland-Palatinate (Germany)—Maps—Early works to 1800",
+    "Maps—Germany—Hesse—1633",
+    "Maps—Germany—Rhineland-Palatinate—1633"
   ],
   "dct_spatial_sm": [
     "Germany (West)"
   ],
-  "layer_modified_dt": "2019-06-04T17:59:32Z",
+  "solr_year_i": 1633,
+  "layer_modified_dt": "2020-06-23T14:50:03Z",
   "layer_id_s": "ark:/88435/0g354h70w",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7313974\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac59ca44-8ccb-4812-b17f-1ede21431726/file/b2889a0d-6669-47ee-9fc0-82cab32dfdfd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f1%2F61%2Fde%2Ff161de27c8b74b288d6c656b49eb05cf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7fee32f-1682-4b80-a0cf-a88b773987b2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7313974\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac59ca44-8ccb-4812-b17f-1ede21431726/file/b2889a0d-6669-47ee-9fc0-82cab32dfdfd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/15%2Fce%2Fdd%2F15cedd6b8cb648c5a23bee4049951128%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7fee32f-1682-4b80-a0cf-a88b773987b2/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3220"
 }

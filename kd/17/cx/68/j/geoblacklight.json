@@ -6,7 +6,7 @@
   "dc_title_s": "Amman town",
   "solr_geom": "ENVELOPE(35.899444, 35.946944, 31.965278, 31.934167)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Relief shown by contours, spot elevation and hachures. Palestine belt grid. Place and street names in Arabic and English. \"History note: compiled from miscellaneous material up to 1953.\" Map shows municipal boundaries, railways, roads, cables, principal antiquities of interest, religious and public buildings. \"Printed by 42 Survey Engineer Regiment-MELF No.15574.\"",
   "dc_creator_sm": [
     "Great Britain. Directorate of Military Survey"
@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London]: D. Survey, War Office and Air Ministry, 1958.",
   "dc_subject_sm": [
-    "Amman (Jordan)—Maps"
+    "Amman (Jordan)—Maps",
+    "Topographic maps"
   ],
   "dct_spatial_sm": [
     "Jordan"
   ],
-  "layer_modified_dt": "2019-06-04T19:23:04Z",
-  "layer_id_s": "restricted-figgy:p-4a8a6a63-c5ef-4998-a593-223c333bf302",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11033725\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a8a6a63-c5ef-4998-a593-223c333bf302/file/8b2223e3-a6e1-4b8c-8a4c-47f0bc24ba7a\"}",
+  "solr_year_i": 1958,
+  "layer_modified_dt": "2020-06-23T11:03:39Z",
+  "layer_id_s": "public-figgy:p-4a8a6a63-c5ef-4998-a593-223c333bf302",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11033725\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4a8a6a63-c5ef-4998-a593-223c333bf302/file/72187cfe-2473-4463-aa91-845bad33f00a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4a8a6a63-c5ef-4998-a593-223c333bf302/file/8b2223e3-a6e1-4b8c-8a4c-47f0bc24ba7a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c5%2Fd9%2Ff9%2Fc5d9f9d0e55e44af82ee085c6f797d7a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/19366e37-9196-4e15-9dbc-98a46974375b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7514.A5C2 1958 .G4"
 }

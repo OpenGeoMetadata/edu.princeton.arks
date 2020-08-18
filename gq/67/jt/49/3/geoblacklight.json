@@ -6,7 +6,7 @@
   "dc_title_s": "Scotch Plains, Union County, New Jersey (Sheet 7)",
   "solr_geom": "ENVELOPE(-74.408267, -74.325635, 40.678234, 40.600901)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Including Fanwood & Glenside Park.\" \"September 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1825.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -17,14 +17,19 @@
     "Real property—New Jersey—Scotch Plains—Maps",
     "Real property—New Jersey—Fanwood—Maps",
     "Scotch Plains (N.J.)—Maps",
-    "Fanwood (N.J.)—Maps"
+    "Fanwood (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Scotch Plains—1924",
+    "Fire insurance maps—New Jersey—Fanwood—1924",
+    "Maps—New Jersey—Scotch Plains—1924",
+    "Maps—New Jersey—Fanwood—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:33:05Z",
-  "layer_id_s": "restricted-figgy:p-73e8e029-9e74-49b3-ae9f-01ebea32d218",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625975\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73e8e029-9e74-49b3-ae9f-01ebea32d218/file/aedb8d1a-02fe-4ef3-aa2f-b4d3808064ca\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T03:25:43Z",
+  "layer_id_s": "public-figgy:p-73e8e029-9e74-49b3-ae9f-01ebea32d218",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625975\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73e8e029-9e74-49b3-ae9f-01ebea32d218/file/5f55a463-34b7-4611-a70c-7cb9af2e20ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73e8e029-9e74-49b3-ae9f-01ebea32d218/file/9a20ee8e-8458-4f61-bcdc-08cc481d3e44\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c0%2Fb4%2Fce%2Fc0b4ce036ee741e68e5fad7588adf571%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fdafb99b-b34f-473a-99a6-40b7273f0d2e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

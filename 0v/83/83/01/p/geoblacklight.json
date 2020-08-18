@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Panama—Maps",
     "Colombia—Maps",
-    "Ecuador—Maps"
+    "Ecuador—Maps",
+    "Maps—Colombia—1822",
+    "Maps—Ecuador—1822",
+    "Maps—Panama—1822"
   ],
   "dct_spatial_sm": [
     "Colombia",
     "Ecuador",
     "Panama"
   ],
-  "layer_modified_dt": "2019-06-04T17:25:36Z",
+  "solr_year_i": 1822,
+  "layer_modified_dt": "2020-06-22T23:05:11Z",
   "layer_id_s": "public-figgy:p-c6c15499-8d22-4b0e-bc28-574a805b4ceb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6556844\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/efb7f4c3-9037-41b2-9d0c-f8f7a9182ba4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/fe55cd0e-7779-43a2-acfd-476375cb3c86\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e0%2Fa4%2F68%2Fe0a468f9db4540928d2536880afea97b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b4ef7a9-49bc-4467-8ce0-16e20c03fded/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6556844\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/efb7f4c3-9037-41b2-9d0c-f8f7a9182ba4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6c15499-8d22-4b0e-bc28-574a805b4ceb/file/fe55cd0e-7779-43a2-acfd-476375cb3c86\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f7%2F82%2F27%2Ff782272ce2504282bfdf706182eb9edf%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4b4ef7a9-49bc-4467-8ce0-16e20c03fded/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6077"
 }

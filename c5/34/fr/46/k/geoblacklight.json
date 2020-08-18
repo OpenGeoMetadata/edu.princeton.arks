@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris : Vve. Turgis], 1840.",
   "dc_subject_sm": [
-    "China—Maps"
+    "China—Maps",
+    "Maps—China—1840"
   ],
   "dct_spatial_sm": [
     "China"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:27Z",
+  "solr_year_i": 1840,
+  "layer_modified_dt": "2020-06-24T03:50:50Z",
   "layer_id_s": "public-figgy:p-4f273996-0c2d-4189-9b10-02d8bd2a6acd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7705314\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f273996-0c2d-4189-9b10-02d8bd2a6acd/file/b2008f19-28f7-4fdf-a8fc-06d350868342\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f273996-0c2d-4189-9b10-02d8bd2a6acd/file/61a6f087-a478-45e8-b026-a48dd5b4ec30\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e0%2Fd6%2F71%2Fe0d67188f8d441bd8b793bd48c1b5cd1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73907cbf-32c0-4530-876e-4191dc22a4b0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7705314\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f273996-0c2d-4189-9b10-02d8bd2a6acd/file/b2008f19-28f7-4fdf-a8fc-06d350868342\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f273996-0c2d-4189-9b10-02d8bd2a6acd/file/61a6f087-a478-45e8-b026-a48dd5b4ec30\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/08%2Fd6%2F5a%2F08d65ad9eb3349f2a6bca6f335a93528%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/73907cbf-32c0-4530-876e-4191dc22a4b0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.859"
 }

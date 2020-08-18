@@ -6,7 +6,7 @@
   "dc_title_s": "Pemberton, Burlington County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, specials index, and text. \"June 1924.\" \"1613.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,11 +15,14 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Pemberton—Maps",
-    "Pemberton (N.J.)—Maps"
+    "Pemberton (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Pemberton—1924",
+    "Maps—New Jersey—Pemberton—1924"
   ],
-  "layer_modified_dt": "2019-06-04T17:45:11Z",
-  "layer_id_s": "restricted-figgy:p-6186fba6-4f85-4b1b-8a92-e05a1d5674ba",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5150350\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6186fba6-4f85-4b1b-8a92-e05a1d5674ba/file/c81e2f3a-0500-4e5e-a6c4-a45e2303d4fa\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T03:19:42Z",
+  "layer_id_s": "public-figgy:p-6186fba6-4f85-4b1b-8a92-e05a1d5674ba",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5150350\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6186fba6-4f85-4b1b-8a92-e05a1d5674ba/file/59134eb0-e1da-45a0-addd-80cc92adb5b6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6186fba6-4f85-4b1b-8a92-e05a1d5674ba/file/de02c7a4-b214-42b2-9bdd-1468770863c7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7b%2Ff9%2F9f%2F7bf99fd7c4fa4a1d8e624cd5560b5ce8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbcb22c2-c3d0-4e36-8e2c-1d60236f1b82/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

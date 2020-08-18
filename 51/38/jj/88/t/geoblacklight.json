@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-5138jj88t",
   "uuid": "princeton-5138jj88t",
   "dc_title_s": "Port of Bordeaux",
-  "solr_geom": "ENVELOPE(-0.603333, -0.553056, 44.925556, 44.844722)",
+  "solr_geom": "ENVELOPE(-0.582778, -0.520556, 44.905833, 44.829444)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Shows: principal buildings, railways, water locks, warehouses, quays. \"Confidential.\" Includes inset map: Gironde estuary ports (scale 1:2,500,000). At foot of legend: \"1943 base map, corrected by aerial photographs.\" At bottom left: \"No. 3122. 28 February 1944.\" Oriented with north to the left. Index to numbered quays on verso.",
@@ -23,11 +23,13 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:06:52Z",
+  "solr_year_i": 1944,
+  "layer_modified_dt": "2020-06-23T19:09:17Z",
   "layer_id_s": "public-figgy:p-bedd1f42-29fb-43c8-be51-bbc5889f8550",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820398\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bedd1f42-29fb-43c8-be51-bbc5889f8550/file/77ccc87c-84a1-4062-ad5c-d059b9434a8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bedd1f42-29fb-43c8-be51-bbc5889f8550/file/0bf13695-9b75-4b00-8a8d-cd7ee8d56cdd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e1%2F22%2F20%2Fe122205761ef4e37a867888f98f4a66a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1025bc86-7239-4c50-bcf9-843ff0ce4949/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820398\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bedd1f42-29fb-43c8-be51-bbc5889f8550/file/77ccc87c-84a1-4062-ad5c-d059b9434a8c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bedd1f42-29fb-43c8-be51-bbc5889f8550/file/0bf13695-9b75-4b00-8a8d-cd7ee8d56cdd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/eb%2F83%2F37%2Feb8337071dc143a8b4f0c7c323928d61%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1025bc86-7239-4c50-bcf9-843ff0ce4949/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-wm117t000"
   ],

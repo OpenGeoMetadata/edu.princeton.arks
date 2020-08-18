@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-7s75dh37x",
   "uuid": "princeton-7s75dh37x",
   "dc_title_s": "Mapa de la República Oriental del Uruguay",
-  "solr_geom": "ENVELOPE(-57.059722, -53.060278, -30.102222, -35.0325)",
+  "solr_geom": "ENVELOPE(-58.816667, -52.7, -29.633333, -35.333333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Map shows departmental boundaries; 12 classes of roads; railroads, and airports. Includes distance table, index of streets and points of interest. Some sites are shown pictorially. ©1961 General Drafting Co., Inc., Convent Station, N.J., E.U.A.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "Convent Station, NJ. : General Drafting Co., Inc., 1961.",
   "dc_subject_sm": [
     "Roads—Uruguay—Maps",
-    "Montevideo (Uruguay)—Maps"
+    "Montevideo (Uruguay)—Maps",
+    "Road maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Uruguay"
   ],
-  "layer_modified_dt": "2019-06-04T17:15:26Z",
+  "solr_year_i": 1961,
+  "layer_modified_dt": "2020-06-23T15:36:03Z",
   "layer_id_s": "ark:/88435/7s75dh37x",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6821484\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d2ba9e2b-26d8-4160-9f20-d5b340255ea1/file/efd55e72-9f96-4a01-ab3b-37bf4317fa55\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "G5371.P2 1961 .E8"
 }

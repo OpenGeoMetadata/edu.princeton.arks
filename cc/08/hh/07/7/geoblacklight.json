@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[New York] : T.J. Farnham, 1845.",
   "dc_subject_sm": [
-    "California—Maps"
+    "California—Maps",
+    "Maps—California—1845"
   ],
   "dct_spatial_sm": [
     "California"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:08Z",
+  "solr_year_i": 1845,
+  "layer_modified_dt": "2020-08-03T21:49:50Z",
   "layer_id_s": "public-figgy:p-b77110b3-d71e-4492-97c6-94c626e77e7c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5412387\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db90b90b-45c7-4f4d-b3e4-b1078daabfde/file/d103b12a-f304-4148-ac9a-2a1c37f2188d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b77110b3-d71e-4492-97c6-94c626e77e7c/file/cbb6eae5-9211-456b-b317-03c6631aff03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b77110b3-d71e-4492-97c6-94c626e77e7c/file/29f1c2e6-6c2c-4189-8693-920066e50afa\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/59%2F80%2F9e%2F59809ed2902d4f8faf13c28cfb18c038%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4be577fa-5ef6-4694-b11c-4c2e038fd0b4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5412387\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/db90b90b-45c7-4f4d-b3e4-b1078daabfde/file/d103b12a-f304-4148-ac9a-2a1c37f2188d\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b77110b3-d71e-4492-97c6-94c626e77e7c/file/cbb6eae5-9211-456b-b317-03c6631aff03\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b77110b3-d71e-4492-97c6-94c626e77e7c/file/29f1c2e6-6c2c-4189-8693-920066e50afa\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/33%2F58%2F3e%2F33583e2405ef480382f29a5f9cd3a7e0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4be577fa-5ef6-4694-b11c-4c2e038fd0b4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3829"
 }

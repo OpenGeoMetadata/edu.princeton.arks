@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-k0698999q",
   "uuid": "princeton-k0698999q",
   "dc_title_s": "Rutlandshire, with Oukham and Stanford, her bordering neighbour newely described [Verso]",
-  "solr_geom": "ENVELOPE(-0.8217615, -0.4283755, 52.7598184, 52.5247864)",
+  "solr_geom": "ENVELOPE(-0.833466, -0.428376, 52.759818, 52.524786)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Insets: Oukham.--Stanford. Shows hundred boundaries and main roads. From: The theatre of the empire of Great Britaine ... / divided and described by Iohn Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611. On verso of map: Rutland-shire. Book I, Chap 30; p. 59-60; signature Ll.",
@@ -14,14 +14,17 @@
   "dc_language_s": "und",
   "dc_publisher_s": "[London], Solde by M. John Sudbury and George Humbell, in Popes head alley against the Exchange, [1610]",
   "dc_subject_sm": [
-    "Rutland (England)—Maps—Early works to 1880"
+    "Rutland (England)—Maps—Early works to 1880",
+    "County maps—England—Rutland—1610",
+    "Maps—England—Rutland—1610"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T18:25:21Z",
+  "solr_year_i": 1610,
+  "layer_modified_dt": "2020-06-23T19:46:48Z",
   "layer_id_s": "public-figgy:p-f1a7f681-9f44-4352-be38-dced143f6c59",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7277970\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a7f681-9f44-4352-be38-dced143f6c59/file/655adefb-7175-42d0-9f6f-8334d353fbee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a7f681-9f44-4352-be38-dced143f6c59/file/cb1d242f-4cb8-4cc0-a565-00b668870f11\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/60%2F8d%2F86%2F608d86694e134793ac284b3e2113d7c1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4cbf5543-1e98-4a50-acf7-afd479f6e5aa/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7277970\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f1a7f681-9f44-4352-be38-dced143f6c59/file/655adefb-7175-42d0-9f6f-8334d353fbee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f1a7f681-9f44-4352-be38-dced143f6c59/file/cb1d242f-4cb8-4cc0-a565-00b668870f11\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f0%2F2d%2F40%2Ff02d4096516d43218a270e257ea81cd9%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4cbf5543-1e98-4a50-acf7-afd479f6e5aa/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

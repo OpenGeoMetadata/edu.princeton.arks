@@ -3,21 +3,26 @@
   "dc_identifier_s": "ark:/88435/000003848",
   "layer_slug_s": "princeton-000003848",
   "uuid": "princeton-000003848",
-  "dc_title_s": "Downtown Pusan: population distribution",
-  "solr_geom": "ENVELOPE(128.95, 129.2, 35.25, 35.016666666666666)",
+  "dc_title_s": "Downtown Pusan : population distribution",
+  "solr_geom": "ENVELOPE(128.938172, 129.202187, 35.230705, 35.028398)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "[s.n.]. Also includes 5 insets maps showing developed land (1:200,000), for the years: 1885, 1915. 1935, 1965, and 1985. Map is a photocopy.",
+  "dc_description_s": "Includes 5 ancillary maps (1:2000,000) showing development of land for1885, 1915,1935, 1965, and projected for1985.",
   "dc_language_s": "eng",
-  "dc_publisher_s": "[s.l.] : [s.n.], [1965].",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [1965].",
   "dc_subject_sm": [
     "Population density",
     "Pusan (Korea)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:46Z",
-  "layer_id_s": "restricted-figgy:p-08df67f4-3276-4e3c-a100-cd205204b520",
+  "dct_spatial_sm": [
+    "Korea"
+  ],
+  "solr_year_i": 1965,
+  "layer_modified_dt": "2020-07-02T00:44:39Z",
+  "layer_id_s": "08df67f4-3276-4e3c-a100-cd205204b520",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830572\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08df67f4-3276-4e3c-a100-cd205204b520/file/c6ba3ec6-06b0-4719-9422-b3730c70b216\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7904.P987E2 1965"
 }

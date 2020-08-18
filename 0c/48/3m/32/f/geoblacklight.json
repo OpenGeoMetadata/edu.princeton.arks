@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Milwaukee, Wis. : Dyer & Pasmore, 1856.",
   "dc_subject_sm": [
-    "Minnesota—Maps"
+    "Minnesota—Maps",
+    "Maps—Minnesota—1856",
+    "State maps—Minnesota—1856"
   ],
   "dct_spatial_sm": [
     "Minnesota"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:57Z",
+  "solr_year_i": 1856,
+  "layer_modified_dt": "2020-06-24T03:04:43Z",
   "layer_id_s": "public-figgy:p-ddb0b301-9923-4535-9e2f-9d8c13145c26",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5302052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/6009d625-9a4a-4d25-ae51-421fc03333e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/da342499-593f-46e5-8fd8-1620548fe071\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/17%2Fd1%2F31%2F17d131e8e868421f9173c5f0ac33fb67%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1d699be-f453-4d09-9d30-264d7213f9b4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5302052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/6009d625-9a4a-4d25-ae51-421fc03333e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ddb0b301-9923-4535-9e2f-9d8c13145c26/file/da342499-593f-46e5-8fd8-1620548fe071\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/da%2F0f%2Ff4%2Fda0ff45c27e146bd9a42d4dca3418bb8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a1d699be-f453-4d09-9d30-264d7213f9b4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6323"
 }

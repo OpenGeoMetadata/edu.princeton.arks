@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "New York : Scribner, Armstrong, & Co. [between 1871 and 1879].",
   "dc_subject_sm": [
-    "Africa—Maps"
+    "Africa—Maps",
+    "Maps—Africa—1871"
   ],
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:09Z",
+  "solr_year_i": 1871,
+  "layer_modified_dt": "2020-06-24T03:04:14Z",
   "layer_id_s": "public-figgy:p-4e534549-9fb4-4e35-8aa0-7d9092f1d429",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4588978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e534549-9fb4-4e35-8aa0-7d9092f1d429/file/cb9e02fb-6503-4379-924b-c15151064bd3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e534549-9fb4-4e35-8aa0-7d9092f1d429/file/c9089030-da6a-4775-b6d3-21dcd706b023\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/dc%2Fde%2F97%2Fdcde97d367e043a4871c43f7750bb24c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd3fe5ca-7a95-4679-ac68-e035c08079f0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4588978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4e534549-9fb4-4e35-8aa0-7d9092f1d429/file/cb9e02fb-6503-4379-924b-c15151064bd3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4e534549-9fb4-4e35-8aa0-7d9092f1d429/file/c9089030-da6a-4775-b6d3-21dcd706b023\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ee%2F79%2F03%2Fee7903870a344a8e87b006609360cc79%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd3fe5ca-7a95-4679-ac68-e035c08079f0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.230"
 }

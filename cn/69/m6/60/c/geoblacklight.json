@@ -17,15 +17,19 @@
     "Railroads—Europe, Central—Maps",
     "Steamboat lines—Mediterranean Region—Maps",
     "Europe, Central—Maps",
-    "Mediterranean Region—Maps"
+    "Mediterranean Region—Maps",
+    "Maps—Europe, Central—1876",
+    "Maps—Mediterranean Region—1876"
   ],
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2019-06-04T19:25:42Z",
+  "solr_year_i": 1876,
+  "layer_modified_dt": "2020-06-22T22:43:07Z",
   "layer_id_s": "public-figgy:p-3b05c2c3-af3e-4bd0-99de-541df6d8adcb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7099278\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b05c2c3-af3e-4bd0-99de-541df6d8adcb/file/3a82fea9-67bb-4564-b624-c6b1508d0c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b05c2c3-af3e-4bd0-99de-541df6d8adcb/file/8903116b-99ee-4465-8114-83fcf68a3b25\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f4%2Ff7%2Fd8%2Ff4f7d8336c6a4e8599b495d17d4c5fea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd39bd5f-b116-469e-866d-9ed123c511cb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7099278\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3b05c2c3-af3e-4bd0-99de-541df6d8adcb/file/3a82fea9-67bb-4564-b624-c6b1508d0c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3b05c2c3-af3e-4bd0-99de-541df6d8adcb/file/28aa8608-6616-48ea-91b6-6830f25a34e1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ff%2Fc7%2Fa2%2Fffc7a2bebb7148589457a40d44e2888f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd39bd5f-b116-469e-866d-9ed123c511cb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.725"
 }

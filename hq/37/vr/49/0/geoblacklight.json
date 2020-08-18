@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-hq37vr490",
   "uuid": "princeton-hq37vr490",
   "dc_title_s": "Insurance maps of Trenton, Mercer Co., New Jersey",
-  "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
+  "solr_geom": "ENVELOPE(-74.819582, -74.728904, 40.248298, 40.183834)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Title from title sheet. Includes location map, key, streets and specials index, and text. Includes maps of Morrisville, Bucks Co., Pa.; Lawrenceville School, and Hamilton Square, Mercer Co., N.J. on sheet 42. Oriented with the north to the upper left.",
@@ -21,15 +21,19 @@
     "Lawrenceville School—Maps",
     "Trenton (N.J.)—Maps",
     "Hamilton Square (N.J.)—Maps",
-    "Morrisville (Bucks County, Pa.)—Maps"
+    "Morrisville (Bucks County, Pa.)—Maps",
+    "Fire insurance maps—New Jersey—Trenton—1890",
+    "Maps—New Jersey—Trenton—1890"
   ],
   "dct_spatial_sm": [
     "New Jersey",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2019-06-04T19:09:00Z",
+  "solr_year_i": 1890,
+  "layer_modified_dt": "2020-06-24T03:11:48Z",
   "layer_id_s": "ark:/88435/hq37vr490",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4600828\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e09ded2-0627-411c-b519-1b809755026f/file/bff509fa-fbc5-4e51-a928-1545c8f195ca\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6e%2F4f%2Fa6%2F6e4fa6590b8a4afcb5a9f35b5f084a06%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/39e8fb2a-f996-42c3-ad01-a796a3789e47/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4600828\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e09ded2-0627-411c-b519-1b809755026f/file/6a674874-a60d-4198-9c6a-47f6cffc7ba1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/5e%2F24%2Fd8%2F5e24d8a4aaa84df6bf7936ca8f209f13%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/39e8fb2a-f996-42c3-ad01-a796a3789e47/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Trenton)"
 }

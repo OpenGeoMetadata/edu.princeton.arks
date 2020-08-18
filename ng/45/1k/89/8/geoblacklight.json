@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Costa Rica—Maps",
     "Nicaragua—Maps",
-    "Panama—Maps"
+    "Panama—Maps",
+    "Maps—Costa Rica—1827",
+    "Maps—Nicaragua—1827",
+    "Maps—Panama—1827"
   ],
   "dct_spatial_sm": [
     "Nicaragua",
     "Costa Rica",
     "Panama"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:22Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-23T20:00:10Z",
   "layer_id_s": "public-figgy:p-8106cf27-1c8e-473e-82bd-e31a934922de",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722471\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8106cf27-1c8e-473e-82bd-e31a934922de/file/42cd97ca-4254-4545-b2de-cf04c198a034\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8106cf27-1c8e-473e-82bd-e31a934922de/file/e19f5510-eb09-44d8-baa7-3493a142f97f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/1f%2F3d%2Fbb%2F1f3dbb8b4e434b9ca86f63a8893fa7fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87e91e6a-fc10-4bea-8061-eb75ba6c888c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722471\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8106cf27-1c8e-473e-82bd-e31a934922de/file/42cd97ca-4254-4545-b2de-cf04c198a034\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8106cf27-1c8e-473e-82bd-e31a934922de/file/e19f5510-eb09-44d8-baa7-3493a142f97f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/75%2F35%2Fe3%2F7535e353abdf4a2f8dcb1c31bc74aed7%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87e91e6a-fc10-4bea-8061-eb75ba6c888c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6486"
 }

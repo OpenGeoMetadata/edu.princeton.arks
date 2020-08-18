@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-dv13zw71n",
   "uuid": "princeton-dv13zw71n",
   "dc_title_s": "Post- & Reise-Karte von Deutschland und den nachbar Staaten bis Kopenhagen, Dover, Paris, Lyon, Turin, Ferrara, Ofen, Debrecin, Lubin, Grodno, Tauroggen",
-  "solr_geom": "ENVELOPE(9.9999497, 10.0000497, 51.0000503, 50.9999503)",
+  "solr_geom": "ENVELOPE(0.68, 24.26, 56.51, 44.36)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Originally issued folded in covers 15 x 19 cm.",
@@ -15,15 +15,19 @@
   "dc_publisher_s": "Glogau : Druck u. Verlag von C. Flemming, 1857.",
   "dc_subject_sm": [
     "Europe—Maps",
-    "Germany—Maps"
+    "Germany—Maps",
+    "Maps—Europe—1857",
+    "Maps—Germany—1857"
   ],
   "dct_spatial_sm": [
     "Germany",
     "Europe"
   ],
-  "layer_modified_dt": "2019-06-04T18:32:53Z",
+  "solr_year_i": 1857,
+  "layer_modified_dt": "2020-06-23T19:46:36Z",
   "layer_id_s": "ark:/88435/dv13zw71n",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7320617\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/645cd68a-ff8c-4d6e-8153-8263a3c9e554/file/e92f5782-a45b-43ee-bdbe-d0c5534ce1cd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7d%2F58%2Fe5%2F7d58e5695512493a8a563aa0b902fa39%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/93e40441-0960-462c-87dd-ee447b2180c9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7320617\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/645cd68a-ff8c-4d6e-8153-8263a3c9e554/file/e92f5782-a45b-43ee-bdbe-d0c5534ce1cd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6e%2F47%2F1a%2F6e471a26e5254a2282b1ecd3cbef3b47%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/93e40441-0960-462c-87dd-ee447b2180c9/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2972"
 }

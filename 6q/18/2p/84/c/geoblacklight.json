@@ -4,11 +4,12 @@
   "layer_slug_s": "princeton-6q182p84c",
   "uuid": "princeton-6q182p84c",
   "dc_title_s": "Calecut nuova tavola [Front]",
-  "solr_geom": "ENVELOPE(78.9020168, 95.0146589, 22.756079, 5.7264796)",
+  "solr_geom": "ENVELOPE(68.01, 92.01, 24.5, 7.01)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Map of southern India and the Maldives. Relief shown pictorially. From: La geografia di Claudio Tolomeo Alessandrino / nuouamente tradotta di Greco in Italiano da Ieronimo Ruscelli ... In Venetia : Appresso Giordano Ziletti, 1564.",
   "dc_creator_sm": [
+    "Ruscelli, Girolamo, -approximately 1565",
     "Ruscelli, Girolamo, d. ca. 1565"
   ],
   "dc_language_s": "lat",
@@ -17,14 +18,19 @@
     "Bengal, Bay of—Maps—Early works to 1800",
     "India—Maps—Early works to 1800",
     "Maldives—Maps—Early works to 1800",
-    "South Asia—Maps—Early works to 1800"
+    "South Asia—Maps—Early works to 1800",
+    "Maps—Bay of Bengal—1564",
+    "Maps—India—1564",
+    "Maps—Maldives—1564",
+    "Maps—South Asia—1564"
   ],
   "dct_spatial_sm": [
     "India"
   ],
-  "layer_modified_dt": "2019-06-04T17:45:42Z",
+  "solr_year_i": 1564,
+  "layer_modified_dt": "2020-06-23T15:05:17Z",
   "layer_id_s": "public-figgy:p-c762cc5f-a677-4065-99f2-ef741ad82906",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7356181\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c762cc5f-a677-4065-99f2-ef741ad82906/file/0a2d4b21-d917-4c53-a267-1ae7b9585abd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c762cc5f-a677-4065-99f2-ef741ad82906/file/d31f8c4c-1150-4c8b-9623-025ca3c6b0b5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/63%2Fcf%2F70%2F63cf70f1a05147fa90d61f3863f432f0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2ce25fec-a121-4fac-ab71-55b87a82afbb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7356181\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c762cc5f-a677-4065-99f2-ef741ad82906/file/0a2d4b21-d917-4c53-a267-1ae7b9585abd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c762cc5f-a677-4065-99f2-ef741ad82906/file/d31f8c4c-1150-4c8b-9623-025ca3c6b0b5\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/86%2F58%2F1d%2F86581d045893465fac743ecca2f3e7df%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2ce25fec-a121-4fac-ab71-55b87a82afbb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

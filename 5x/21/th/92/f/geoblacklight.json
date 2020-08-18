@@ -14,7 +14,8 @@
   "dc_language_s": "ita",
   "dc_publisher_s": "[Venice : Zoppino, 1528]",
   "dc_subject_sm": [
-    "World maps—Early works to 1800"
+    "World maps—Early works to 1800",
+    "World maps—1528"
   ],
   "dct_spatial_sm": [
     "Europe",
@@ -23,9 +24,11 @@
     "North America",
     "South America"
   ],
-  "layer_modified_dt": "2019-06-04T17:51:44Z",
+  "solr_year_i": 1528,
+  "layer_modified_dt": "2020-06-23T14:55:17Z",
   "layer_id_s": "ark:/88435/5x21th92f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7563268\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41d7a7d2-e4a9-491d-8f50-10756598045d/file/587ecec9-ae7d-4c1b-b233-ffd05355e29e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/69%2Fcf%2Fea%2F69cfeaf1d659477cb98d5a943a7f0290%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/182a476d-3796-4081-bbaa-7c535c7357ab/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7563268\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/41d7a7d2-e4a9-491d-8f50-10756598045d/file/587ecec9-ae7d-4c1b-b233-ffd05355e29e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4c%2F42%2F54%2F4c425476c0fb48ab836e0f88a7f2a40b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/182a476d-3796-4081-bbaa-7c535c7357ab/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6884"
 }

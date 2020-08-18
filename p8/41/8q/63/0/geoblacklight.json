@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : chez Jean rue St. Jean de Beauvais No. 10, 1813.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1813",
+    "City maps—France—Paris—1813"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T17:15:17Z",
+  "solr_year_i": 1813,
+  "layer_modified_dt": "2020-06-23T18:06:27Z",
   "layer_id_s": "public-figgy:p-960defdb-2ffd-4fd7-bb63-09dff4aa06a1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6063505\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/960defdb-2ffd-4fd7-bb63-09dff4aa06a1/file/1e44e44a-ec03-46f9-81d1-f049fe278cdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/960defdb-2ffd-4fd7-bb63-09dff4aa06a1/file/b2086318-b659-421a-b241-af409c517384\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/35%2F94%2Ffd%2F3594fd3d596b4ba2a396b77366316236%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c5159f96-b7d3-48c3-8975-6b44527bf7ba/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6063505\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/960defdb-2ffd-4fd7-bb63-09dff4aa06a1/file/1e44e44a-ec03-46f9-81d1-f049fe278cdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/960defdb-2ffd-4fd7-bb63-09dff4aa06a1/file/b2086318-b659-421a-b241-af409c517384\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/70%2F25%2F90%2F70259068aad64420afa9b2d5bf364752%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c5159f96-b7d3-48c3-8975-6b44527bf7ba/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3006"
 }

@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington, D.C. : U.S. Engineer Office, [1873?]",
   "dc_subject_sm": [
-    "West (U.S.)—Surveys—Maps"
+    "West (U.S.)—Surveys—Maps",
+    "Maps—West (U.S.)—1873"
   ],
   "dct_spatial_sm": [
     "West (U.S.)"
   ],
-  "layer_modified_dt": "2019-06-04T17:24:45Z",
+  "solr_year_i": 1873,
+  "layer_modified_dt": "2020-06-22T23:05:57Z",
   "layer_id_s": "public-figgy:p-77428b33-19a5-41d8-b5ac-d99c8e23b558",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6304420\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77428b33-19a5-41d8-b5ac-d99c8e23b558/file/ca77bcfb-d5dc-496a-91ef-88a8e3be6419\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77428b33-19a5-41d8-b5ac-d99c8e23b558/file/84458a3d-ad8c-49ab-b866-7ccd4837edc1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/53%2F7f%2F17%2F537f177a4f874477a4f45380b6a81906%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6f5f7725-9616-4900-b30a-2cb0ca6c6307/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6304420\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/77428b33-19a5-41d8-b5ac-d99c8e23b558/file/ca77bcfb-d5dc-496a-91ef-88a8e3be6419\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/77428b33-19a5-41d8-b5ac-d99c8e23b558/file/84458a3d-ad8c-49ab-b866-7ccd4837edc1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2b%2Fb0%2F26%2F2bb02687ec634df6aaa9977639c9d4d0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6f5f7725-9616-4900-b30a-2cb0ca6c6307/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6605"
 }

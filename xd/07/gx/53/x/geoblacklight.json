@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-xd07gx53x",
   "uuid": "princeton-xd07gx53x",
   "dc_title_s": "Ville de Joyeuse. Ville de les Vans",
-  "solr_geom": "ENVELOPE(4.116667, 4.25, 44.483333, 44.4)",
+  "solr_geom": "ENVELOPE(4.123365, 4.252844, 44.485082, 44.402273)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "With an index of roads and points of interest. \"Plan-guide édité sous le patronage de la Municipalité avec l'aide des Commerçants et Industriels de la région.\"",
@@ -15,15 +15,18 @@
   "dc_publisher_s": "Les Angles [France] : Éditions Provence Paris publicité, 1968.",
   "dc_subject_sm": [
     "Joyeuse (France)—Maps",
-    "Les Vans (France)—Maps"
+    "Les Vans (France)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T17:19:33Z",
+  "solr_year_i": 1968,
+  "layer_modified_dt": "2020-06-24T10:29:47Z",
   "layer_id_s": "0cec345f-03cd-43a5-a06f-a7cd9c1723b0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820468\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0cec345f-03cd-43a5-a06f-a7cd9c1723b0/file/f8415425-183b-46cb-81a7-09dba823293a\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5834.J7E635 1968 .P7P3"
 }

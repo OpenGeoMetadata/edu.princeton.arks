@@ -6,7 +6,7 @@
   "dc_title_s": "Stewartsville, Warren County, New Jersey",
   "solr_geom": "ENVELOPE(-75.127804, -75.106089, 40.704989, 40.689957)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, specials index, and text. \"1690.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Stewartsville—Maps",
-    "Stewartsville (N.J.)—Maps"
+    "Stewartsville (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Stewartsville—1924",
+    "Maps—New Jersey—Stewartsville—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:21:29Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:43:46Z",
   "layer_id_s": "ark:/88435/cz30pw588",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5652336\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e296d2b-2e9b-453f-8457-08146d6727a3/file/f59f86e0-685b-4934-a9d1-5b710a6a0e8c\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5652336\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0e296d2b-2e9b-453f-8457-08146d6727a3/file/78327204-2645-4b59-8a24-0ee5d5933e03\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b4%2F15%2Fd5%2Fb415d565170246e8af2f3291d6d750eb%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/849d0dd9-d604-4bf3-9d47-c39ab139f0ad/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Stewartsville)"
 }

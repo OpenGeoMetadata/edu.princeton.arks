@@ -7,24 +7,27 @@
   "solr_geom": "ENVELOPE(72.300556, 72.407778, 33.802778, 33.748056)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Shows roads, important places, and buildings. Government of Pākistān copyright reserved. Area surveyed 1998-99. \"REG. No. 187 RWD 2000 ...\" \"Refer to this map as 1:15,000 Attock guide map first edition.\"",
+  "dc_description_s": "Shows built up areas, roads and railways, important places and buildings. Government of Pākistān copyright reserved. Area surveyed 1998-99. \"REG. No. 187 RWD 2000 ...\"",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Rāwalpindi : Survey of Pakistan, 2001.",
+  "dc_publisher_s": "Rāwalpindi : Survey of Pākistān 2001.",
   "dc_subject_sm": [
     "Attock (Pakistan)—Maps",
     "Attock District (Pakistan)—Maps",
-    "Punjab (Pakistan)—Maps"
+    "Punjab (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:18:36Z",
-  "layer_id_s": "restricted-figgy:p-c2fe3933-c641-43fa-ab52-aa1b8a29e035",
+  "solr_year_i": 2001,
+  "layer_modified_dt": "2020-06-24T10:29:12Z",
+  "layer_id_s": "c2fe3933-c641-43fa-ab52-aa1b8a29e035",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7705568\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c2fe3933-c641-43fa-ab52-aa1b8a29e035/file/71053377-5496-4ef0-9b7d-3e62f320b4df\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.A88E635 2001 .S8"
 }

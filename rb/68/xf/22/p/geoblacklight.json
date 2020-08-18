@@ -17,17 +17,23 @@
     "Libya—Maps",
     "Chad—Maps",
     "Niger—Maps",
-    "Sahara—Maps"
+    "Sahara—Maps",
+    "Maps—Libya—1827",
+    "Maps—Chad—1827",
+    "Maps—Niger—1827",
+    "Maps—Sahara—1827"
   ],
   "dct_spatial_sm": [
     "Libya",
     "Chad",
     "Niger"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:49Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-23T16:35:32Z",
   "layer_id_s": "public-figgy:p-2dbbd5b7-7029-494e-af88-3c3ec826c91d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5735463\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2dbbd5b7-7029-494e-af88-3c3ec826c91d/file/a4dc4cf7-0b10-4523-875f-4b9b6e78c686\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2dbbd5b7-7029-494e-af88-3c3ec826c91d/file/c06ddd0f-6b42-4531-99ab-d8f6b6d49441\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8a%2Fbf%2F72%2F8abf72922e0e43e1898a06fd2615ce85%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cea73cb1-058b-41f0-9b88-e0cf7ebb76d2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5735463\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2dbbd5b7-7029-494e-af88-3c3ec826c91d/file/a4dc4cf7-0b10-4523-875f-4b9b6e78c686\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2dbbd5b7-7029-494e-af88-3c3ec826c91d/file/c06ddd0f-6b42-4531-99ab-d8f6b6d49441\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/30%2F8e%2Ff2%2F308ef2ece8254b21b65ec521094721ff%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cea73cb1-058b-41f0-9b88-e0cf7ebb76d2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6462"
 }

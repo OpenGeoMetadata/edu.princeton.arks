@@ -14,16 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : Publiée par J. Andriveau-Goujon, Rue du Bac no. 21, 1855 (Paris : Impie. de Louis Antoine, Rue des Noyers, 70)",
   "dc_subject_sm": [
-    "Great Britain—Maps"
+    "Great Britain—Maps",
+    "Maps—Great Britain—1855"
   ],
   "dct_spatial_sm": [
     "Great Britain",
     "Ireland"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:58Z",
+  "solr_year_i": 1855,
+  "layer_modified_dt": "2020-06-23T15:40:09Z",
   "layer_id_s": "public-figgy:p-3be9f9ef-95e4-4f35-9bcb-32bbb530d6e5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7199533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3be9f9ef-95e4-4f35-9bcb-32bbb530d6e5/file/644d6ec6-65b3-4be9-a2fa-45b9a6bd78eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3be9f9ef-95e4-4f35-9bcb-32bbb530d6e5/file/7bb0d3cb-1164-4d22-a643-a925cacdb050\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5f%2F60%2Fcf%2F5f60cfdbc2274d7692f6662c02078d9e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5458679f-0dc3-4c13-a3e8-cce0155d2ed1/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7199533\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3be9f9ef-95e4-4f35-9bcb-32bbb530d6e5/file/644d6ec6-65b3-4be9-a2fa-45b9a6bd78eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3be9f9ef-95e4-4f35-9bcb-32bbb530d6e5/file/7bb0d3cb-1164-4d22-a643-a925cacdb050\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/97%2Fdd%2F00%2F97dd00726c1d43de8ec533eab415c49a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5458679f-0dc3-4c13-a3e8-cce0155d2ed1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3108"
 }

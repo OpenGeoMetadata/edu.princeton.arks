@@ -11,15 +11,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[S.l. : s.n., 1854?]",
   "dc_subject_sm": [
-    "Philadelphia (Pa.)—Maps"
+    "Philadelphia (Pa.)—Maps",
+    "Maps—Pennsylvania—Philadelphia—1854",
+    "City maps—Pennsylvania—Philadelphia—1854"
   ],
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2019-06-04T17:12:21Z",
+  "solr_year_i": 1854,
+  "layer_modified_dt": "2020-06-23T17:42:51Z",
   "layer_id_s": "public-figgy:p-ca568540-faa6-4f81-9b43-eb8c47cea8c2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531847\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/6b83781a-62c8-4c3b-ab0a-c2fdb2c117ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/615ea88a-75ed-4f97-b1f6-383c55d3bd00\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/03%2F95%2F46%2F0395464f4e7e4fc7848b5e6816c6da4f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eba0acd6-5007-4bc3-a241-948a254f13a2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5531847\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/6b83781a-62c8-4c3b-ab0a-c2fdb2c117ce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca568540-faa6-4f81-9b43-eb8c47cea8c2/file/615ea88a-75ed-4f97-b1f6-383c55d3bd00\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/79%2Fa0%2Faf%2F79a0af3f24774208a2ba62f2b3a3335f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/eba0acd6-5007-4bc3-a241-948a254f13a2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6383"
 }

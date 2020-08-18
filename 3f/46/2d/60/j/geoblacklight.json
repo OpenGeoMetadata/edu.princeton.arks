@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/3f462d60j",
+  "layer_slug_s": "princeton-3f462d60j",
+  "uuid": "princeton-3f462d60j",
+  "dc_title_s": "Chile demographic data from 2002 census",
+  "solr_geom": "ENVELOPE(-113.999996, -68.842485, -14.933136, -53.314978)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Chile from the 2002 census. This census is provided at the manzana administrative level (ADM6) and includes 150,930 polygons with 875 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “P18_1” was updated to D001 and given the alias “Sex: Male[P18_1]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Chile",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2019"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2020-07-28T19:00:36Z",
+  "layer_id_s": "restricted-figgy:p-80032db2-af2c-407f-b6c5-73a38c2392d7",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/613d0423-55c5-44f9-95ab-0868e691a2a5/file/4193e5e9-a224-4d8c-91f1-7bc2ea70b90f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/80032db2-af2c-407f-b6c5-73a38c2392d7/file/6f3fa616-421f-4ccd-b6aa-66224348e7ff\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/80032db2-af2c-407f-b6c5-73a38c2392d7/file/664336ff-76e9-428b-a0ee-d9f8f30f2d43\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

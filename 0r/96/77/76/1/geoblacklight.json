@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-0r9677761",
   "uuid": "princeton-0r9677761",
   "dc_title_s": "Nova São Paulo : escala 1:20.000, edição 1990",
-  "solr_geom": "ENVELOPE(-46.771111, -46.528889, -23.653333, -23.66222)",
+  "solr_geom": "ENVELOPE(-46.771111, -46.528889, -23.50205, -23.66222)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Map shows municipal, district and sub-district boundaries.",
@@ -21,10 +21,12 @@
   "dct_spatial_sm": [
     "Brazil"
   ],
-  "layer_modified_dt": "2019-06-04T18:07:03Z",
+  "solr_year_i": 1990,
+  "layer_modified_dt": "2020-06-23T18:54:50Z",
   "layer_id_s": "a3fa0bba-fa5c-4b7e-8863-aca50f0673f7",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6809833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3fa0bba-fa5c-4b7e-8863-aca50f0673f7/file/29a11814-cb16-4d16-b09a-91223b750080\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5404.S7 1990 .G4"
 }

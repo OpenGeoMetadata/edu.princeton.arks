@@ -19,7 +19,9 @@
     "Religions—Europe—Maps",
     "Protestant churches—Missions—Canada—Maps",
     "Protestant churches—Missions—South Africa—Maps",
-    "Protestant churches—Missions—South Asia—Maps"
+    "Protestant churches—Missions—South Asia—Maps",
+    "Thematic maps—1854",
+    "World maps—1854"
   ],
   "dct_spatial_sm": [
     "Europe",
@@ -27,10 +29,12 @@
     "South Africa",
     "South Asia"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:51Z",
+  "solr_year_i": 1854,
+  "layer_modified_dt": "2020-06-22T22:32:22Z",
   "layer_id_s": "public-figgy:p-20448c25-dd19-4975-be97-29cd0f1334ad",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5127906\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20448c25-dd19-4975-be97-29cd0f1334ad/file/ff3d8acb-3523-470a-abf6-98c27838587a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20448c25-dd19-4975-be97-29cd0f1334ad/file/c712089c-62ec-4ab7-b98a-b43425a623dc\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f0%2F99%2F6e%2Ff0996ec9c846414a889565825767e0ac%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c15186a5-08a0-4112-984a-70bb5dec0894/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5127906\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20448c25-dd19-4975-be97-29cd0f1334ad/file/ff3d8acb-3523-470a-abf6-98c27838587a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20448c25-dd19-4975-be97-29cd0f1334ad/file/889226a6-386c-41f7-965a-949d6ffaba78\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/24%2F86%2F67%2F24866723139f48318daa736502f0591f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c15186a5-08a0-4112-984a-70bb5dec0894/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3723"
 }

@@ -14,15 +14,19 @@
   "dc_language_s": "nld",
   "dc_publisher_s": "[Amsterdam : Isaak Tirion, ca. 1760]",
   "dc_subject_sm": [
-    "Cayenne (French Guiana)—Maps—Early works to 1800"
+    "Cayenne (French Guiana)—Maps—Early works to 1800",
+    "Maps—French Guiana—Cayenne—1760",
+    "Nautical charts—French Guiana—1760"
   ],
   "dct_spatial_sm": [
     "French Guiana"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:54Z",
+  "solr_year_i": 1760,
+  "layer_modified_dt": "2020-06-24T03:51:45Z",
   "layer_id_s": "public-figgy:p-2cda0e63-2d0b-4319-a2c7-c9698ecc9f22",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6586491\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cda0e63-2d0b-4319-a2c7-c9698ecc9f22/file/3537ffd5-150f-493d-9502-39b088e4d115\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cda0e63-2d0b-4319-a2c7-c9698ecc9f22/file/a4cff530-7d9c-4a10-a457-d63b2b057415\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ff%2Fe6%2Faf%2Fffe6aff9e4dd42c78e9c6b470973f9d2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/afeec3e6-47af-4a97-a8db-72c451cae89c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6586491\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2cda0e63-2d0b-4319-a2c7-c9698ecc9f22/file/3537ffd5-150f-493d-9502-39b088e4d115\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2cda0e63-2d0b-4319-a2c7-c9698ecc9f22/file/a4cff530-7d9c-4a10-a457-d63b2b057415\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/1f%2Fec%2Fdd%2F1fecddcedab348ca8914b7135d9ab555%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/afeec3e6-47af-4a97-a8db-72c451cae89c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6174"
 }

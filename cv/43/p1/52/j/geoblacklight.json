@@ -6,7 +6,7 @@
   "dc_title_s": "Washington, Warren County, New Jersey : including Port Colden, Port Murray, Changewater, Broadway and New Village (Sheet 3)",
   "solr_geom": "ENVELOPE(-75.011019, -74.946345, 40.779915, 40.74835)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1689.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Washington—Maps",
-    "Washington (N.J.)—Maps"
+    "Washington (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Washington—1924",
+    "Maps—New Jersey—Washington—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:22:00Z",
-  "layer_id_s": "restricted-figgy:p-bf428e5c-563b-4982-85ab-a2a70ddbb41e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5653582\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf428e5c-563b-4982-85ab-a2a70ddbb41e/file/781fe015-7bf2-4ffc-ac00-c0c23945b10a\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:51:13Z",
+  "layer_id_s": "public-figgy:p-bf428e5c-563b-4982-85ab-a2a70ddbb41e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5653582\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bf428e5c-563b-4982-85ab-a2a70ddbb41e/file/f721ef11-3d7b-4094-8a35-5b9630df25b5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bf428e5c-563b-4982-85ab-a2a70ddbb41e/file/abab0a36-69ef-42e6-a762-0a05f1594a6f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/57%2Fe7%2F14%2F57e71442c8db411a8dfc7b4b74184c6d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0a01ee32-5882-47ac-a34d-d52aaa21a870/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

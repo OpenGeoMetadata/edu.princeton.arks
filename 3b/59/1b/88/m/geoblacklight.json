@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Boston : Little, Brown and Company, 1858]",
   "dc_subject_sm": [
-    "New England—Maps"
+    "New England—Maps",
+    "Historical maps—New England"
   ],
   "dct_spatial_sm": [
     "New England"
   ],
-  "layer_modified_dt": "2019-06-04T17:10:06Z",
+  "solr_year_i": 1858,
+  "layer_modified_dt": "2020-06-24T03:46:37Z",
   "layer_id_s": "public-figgy:p-4d2beecf-cf68-4841-9c07-f902a307a793",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5762353\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d2beecf-cf68-4841-9c07-f902a307a793/file/e1133a30-7f10-40fb-85bf-d2bccbd3c4fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d2beecf-cf68-4841-9c07-f902a307a793/file/5a86bb15-dff4-4cdc-9164-209e2a570417\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/00%2Ff3%2Fdd%2F00f3dd47f0a8432dadf7ae7a98176342%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/715b74ea-c062-4c8e-8446-3ed19c2e4749/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5762353\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4d2beecf-cf68-4841-9c07-f902a307a793/file/e1133a30-7f10-40fb-85bf-d2bccbd3c4fb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4d2beecf-cf68-4841-9c07-f902a307a793/file/5a86bb15-dff4-4cdc-9164-209e2a570417\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3c%2F62%2F89%2F3c6289201a194bb1b2220ea429712e06%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/715b74ea-c062-4c8e-8446-3ed19c2e4749/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6220"
 }
