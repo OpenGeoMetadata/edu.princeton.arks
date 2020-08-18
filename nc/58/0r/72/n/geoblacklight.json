@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(19.628623, 20.122557, 39.82223, 39.360369)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Relief shown by form lines and spot heights. Legend in Greek, English, German, and Italian; text in Greek and English. Includes text and illustrations. Tourist map with roads emphasized. Includes inset: Kerkyra [town plan]. Directory and tourist information on verso. Cover title.",
+  "dc_description_s": "Relief shown by form lines and spot heights. Tourist map with roads emphasized. Legend in Greek, English, German, and Italian; text in Greek and English. Includes text and illustrations. Includes inset: Kerkyra [town plan]. Directory and tourist information on verso. Cover title.",
   "dc_creator_sm": [
     "Road Ekdoseis A.E."
   ],
@@ -16,16 +16,19 @@
   "dc_subject_sm": [
     "Roads—Corfu Island (Greece)—Maps",
     "Corfu Island (Greece)—Maps",
-    "Kerkyra (Greece)—Maps"
+    "Kerkyra (Greece)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Greece"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:50Z",
+  "solr_year_i": 1997,
+  "layer_modified_dt": "2020-06-23T02:32:50Z",
   "layer_id_s": "54043874-3166-49c0-9d2f-19d246a990d6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9704913\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54043874-3166-49c0-9d2f-19d246a990d6/file/de5845dd-5fb1-4787-a993-d41f544528d1\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-ww72bg571"
   ],

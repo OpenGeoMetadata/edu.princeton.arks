@@ -6,7 +6,7 @@
   "dc_title_s": "Trenton Redevelopment Areas",
   "solr_geom": "ENVELOPE(-74.796097, -74.73157, 40.246813, 40.184308)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "City of Trenton Redevelopment Area boundaries",
   "dc_creator_sm": [
     "City of Trenton Division of Planning"
@@ -19,10 +19,12 @@
     "10/2",
     "929"
   ],
-  "layer_modified_dt": "2019-06-05T15:08:36Z",
-  "layer_id_s": "restricted-figgy:p-2aa41a69-4c37-437a-b943-a72132ddd645",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4245d250-5dee-4a55-a481-4a3d9223126d/file/4891618a-187e-40e3-9a2b-387a62f08260\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2aa41a69-4c37-437a-b943-a72132ddd645/file/ec43038e-a20d-4124-bb69-4f93a2f1511e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2aa41a69-4c37-437a-b943-a72132ddd645/file/11d05f5f-26d5-46ce-b1f2-3cff9d09335d\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "solr_year_i": 2018,
+  "layer_modified_dt": "2020-05-21T06:46:56Z",
+  "layer_id_s": "public-figgy:p-2aa41a69-4c37-437a-b943-a72132ddd645",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/4245d250-5dee-4a55-a481-4a3d9223126d/file/4891618a-187e-40e3-9a2b-387a62f08260\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2aa41a69-4c37-437a-b943-a72132ddd645/file/ec43038e-a20d-4124-bb69-4f93a2f1511e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2aa41a69-4c37-437a-b943-a72132ddd645/file/c39b91ae-aa06-46a4-8e1f-c92e9179ca7f\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/public-figgy/wfs\"}",
   "layer_geom_type_s": "Polygon",
   "dc_format_s": "Shapefile",
-  "dct_issued_dt": "0929-01-01T00:00:00Z"
+  "dct_issued_dt": "0929-01-01T00:00:00Z",
+  "suppressed_b": false
 }

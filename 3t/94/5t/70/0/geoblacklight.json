@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-3t945t700",
   "uuid": "princeton-3t945t700",
   "dc_title_s": "Wildwood",
-  "solr_geom": "ENVELOPE(-74.833461, -74.801896, 38.998783, 38.976884)",
+  "solr_geom": "ENVELOPE(-74.819766, -74.807599, 38.988665, 38.975928)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "\"5093.\" \"Add'l. sheet, July 1923.\" Sheets 108-109 of New Jersey coast map, vol. 4, series. North oriented towards upper left.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "[New York] : Sanborn Map Co., 1923.",
   "dc_subject_sm": [
     "Real property—New Jersey—Wildwood—Maps",
-    "Wildwood (N.J.)—Maps"
+    "Wildwood (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Wildwood—1923",
+    "Maps—New Jersey—Wildwood—1923"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T19:20:36Z",
+  "solr_year_i": 1923,
+  "layer_modified_dt": "2020-06-23T14:32:19Z",
   "layer_id_s": "ark:/88435/3t945t700",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5660868\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/52e678c6-18da-40f1-ba14-f104a9aeb246/file/45458e3c-4596-41dd-b09e-95b3f9c8ed52\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/bc%2Fef%2F27%2Fbcef27494b80464d99ab4ab8610ef3e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/54f96c28-dac7-43db-ad76-43749824999a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5660868\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/52e678c6-18da-40f1-ba14-f104a9aeb246/file/737c09eb-e130-4653-bab8-31a3765317bf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d6%2F3b%2Fba%2Fd63bba7b82024d9ca60a8be941fc4f69%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/54f96c28-dac7-43db-ad76-43749824999a/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Wildwood)"
 }

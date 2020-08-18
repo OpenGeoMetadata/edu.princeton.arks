@@ -6,7 +6,7 @@
   "dc_title_s": "Allendale, Bergen County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-74.156, -74.115, 41.049, 41.018)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"December 1924.\" Includes location map, key, specials index, and text. \"1935\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Allendale—Maps",
-    "Allendale (N.J.)—Maps"
+    "Allendale (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Allendale—1924",
+    "Maps—New Jersey—Allendale—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:45:19Z",
-  "layer_id_s": "restricted-figgy:p-9930b8cc-9a20-4f1d-bc88-682308b83d8d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5225278\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9930b8cc-9a20-4f1d-bc88-682308b83d8d/file/74e16ba2-4ffa-4d73-bcf9-1a425d817073\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:30:31Z",
+  "layer_id_s": "public-figgy:p-9930b8cc-9a20-4f1d-bc88-682308b83d8d",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5225278\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9930b8cc-9a20-4f1d-bc88-682308b83d8d/file/476f1696-29bb-4449-9abc-880f3488ff95\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9930b8cc-9a20-4f1d-bc88-682308b83d8d/file/79798ee1-23cc-4f01-8472-78e38ed314db\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b9%2Fda%2F65%2Fb9da65c436404567b77a6808fa306738%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0dad8af0-2906-4e04-acb7-caa35527372a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

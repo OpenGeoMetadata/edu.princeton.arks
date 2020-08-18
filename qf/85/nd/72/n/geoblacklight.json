@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.? : Corps of Engineers?, 1869?]",
   "dc_subject_sm": [
     "Antietam, Battle of, Md., 1862—Maps",
-    "United States—History—Civil War, 1861-1865—Maps"
+    "United States—History—Civil War, 1861-1865—Maps",
+    "Historical maps—Maryland—Antietam",
+    "Military maps—Maryland—Antietam"
   ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T18:26:55Z",
+  "solr_year_i": 1869,
+  "layer_modified_dt": "2020-06-24T03:51:29Z",
   "layer_id_s": "public-figgy:p-f3ed099c-17cf-4b4f-a8a0-5c5bdb9b8b5a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6406587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3ed099c-17cf-4b4f-a8a0-5c5bdb9b8b5a/file/10af4c34-f864-4a32-be48-2721f121b99e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3ed099c-17cf-4b4f-a8a0-5c5bdb9b8b5a/file/74505be9-234d-4c6f-a0be-8ef321f4596b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/04%2F54%2Fb7%2F0454b759b92b4512b20f6fca284caf45%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60ef5899-e662-48c3-801e-9a9dd8a0bee6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6406587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f3ed099c-17cf-4b4f-a8a0-5c5bdb9b8b5a/file/10af4c34-f864-4a32-be48-2721f121b99e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f3ed099c-17cf-4b4f-a8a0-5c5bdb9b8b5a/file/74505be9-234d-4c6f-a0be-8ef321f4596b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b9%2F49%2Ff8%2Fb949f85945234319b22046ff89a4fcf5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60ef5899-e662-48c3-801e-9a9dd8a0bee6/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6684"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Sussex, Sussex County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-74.6165461, -74.5985659, 41.2163271, 41.202844)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Februrary 1924.\" Includes location map, key, key map, specials index, and text. \"1483.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Sussex—Maps",
-    "Sussex (N.J.)—Maps"
+    "Sussex (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Sussex—1924",
+    "Maps—New Jersey—Sussex—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:11Z",
-  "layer_id_s": "restricted-figgy:p-42b21295-da48-4eec-8eb4-3e31d0eae7ec",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609881\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42b21295-da48-4eec-8eb4-3e31d0eae7ec/file/49c97176-480d-4d39-8712-392cc3ca5cfe\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:48:33Z",
+  "layer_id_s": "public-figgy:p-42b21295-da48-4eec-8eb4-3e31d0eae7ec",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5609881\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42b21295-da48-4eec-8eb4-3e31d0eae7ec/file/1c96cec6-0804-4fde-97a4-1e8e95cb5161\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42b21295-da48-4eec-8eb4-3e31d0eae7ec/file/7873b214-ff18-4be8-a7ff-c1cb74aa4fc9\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/16%2Fd5%2Ff8%2F16d5f8012fd44a2c89990182d0311d04%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b5747a78-0bb1-4f63-85d0-b8ecf8df76f9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

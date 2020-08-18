@@ -14,15 +14,19 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "Hildburghausen ; Amsterdam ; Paris ; Philadelphia : Aus der Geographischen Graviranstalt des Bibliographischen Instituts, 1845.",
   "dc_subject_sm": [
-    "Frankfurt am Main (Germany)—Maps"
+    "Frankfurt am Main (Germany)—Maps",
+    "City maps—Germany—Frankfurt am Main—1845",
+    "Maps—Germany—Frankfurt am Main—1845"
   ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:45Z",
+  "solr_year_i": 1845,
+  "layer_modified_dt": "2020-06-22T22:35:49Z",
   "layer_id_s": "public-figgy:p-a604d3a5-f649-4db9-b0d6-caf0c278e983",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7427231\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a604d3a5-f649-4db9-b0d6-caf0c278e983/file/6c556b62-d3e2-4905-a191-53285cb75cd9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a604d3a5-f649-4db9-b0d6-caf0c278e983/file/120a8df5-5ec0-4536-9a45-37e9444a6da7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/37%2F83%2Fd8%2F3783d8c828cf4cdaa2275f3886952388%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8814a46-4006-480b-a6be-9a3721fac4bf/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7427231\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a604d3a5-f649-4db9-b0d6-caf0c278e983/file/6c556b62-d3e2-4905-a191-53285cb75cd9\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a604d3a5-f649-4db9-b0d6-caf0c278e983/file/10c2dcd1-141a-412a-926b-e3001d5df9fe\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/fc%2Fb0%2F9b%2Ffcb09bfff8c444afb22f5fb0a0588896%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a8814a46-4006-480b-a6be-9a3721fac4bf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6889"
 }

@@ -15,16 +15,20 @@
   "dc_publisher_s": "Chicago : Rand McNally & Co., Map Publishers and Engravers, 1912.",
   "dc_subject_sm": [
     "Colombia—Maps",
-    "Venezuela—Maps"
+    "Venezuela—Maps",
+    "Maps—Colombia—1912",
+    "Maps—Venezuela—1912"
   ],
   "dct_spatial_sm": [
     "Colombia",
     "Venezuela"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:52Z",
+  "solr_year_i": 1912,
+  "layer_modified_dt": "2020-06-23T19:46:11Z",
   "layer_id_s": "public-figgy:p-eb686b84-ce1b-4d1e-9d3f-92d27593c547",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6553326\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb686b84-ce1b-4d1e-9d3f-92d27593c547/file/86f99400-7f07-45df-b4a9-d8133deb2f94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb686b84-ce1b-4d1e-9d3f-92d27593c547/file/e5a9bf15-12a9-42c6-a515-5f64dd1e06e0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9c%2Ff7%2Ffb%2F9cf7fbfed28243249dc64b45d2de5ffa%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68cf9900-75f6-4f18-92ce-d04a095979fb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6553326\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eb686b84-ce1b-4d1e-9d3f-92d27593c547/file/86f99400-7f07-45df-b4a9-d8133deb2f94\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eb686b84-ce1b-4d1e-9d3f-92d27593c547/file/e5a9bf15-12a9-42c6-a515-5f64dd1e06e0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/48%2F3a%2Fdc%2F483adce4953a458599e7a584e096c885%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68cf9900-75f6-4f18-92ce-d04a095979fb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6068"
 }

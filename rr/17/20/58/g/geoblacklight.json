@@ -11,15 +11,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris?] : [s.n., ca. 1810-1812]",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1810",
+    "City maps—France—Paris—1810"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:10Z",
+  "solr_year_i": 1810,
+  "layer_modified_dt": "2020-06-23T19:57:50Z",
   "layer_id_s": "public-figgy:p-ba7a5818-c849-4ebc-9174-5e5cab8b5b7a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6075446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba7a5818-c849-4ebc-9174-5e5cab8b5b7a/file/3b947ca3-8848-4895-b809-7c4484167d6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba7a5818-c849-4ebc-9174-5e5cab8b5b7a/file/787b190e-a2bd-4d1a-a0b5-922f7fbc0b2e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/84%2F1f%2F3e%2F841f3e2756764db3bfaba0dbdbfcb3e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af4a88a5-d7cc-430d-8d06-15d1bc2a85a7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6075446\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ba7a5818-c849-4ebc-9174-5e5cab8b5b7a/file/3b947ca3-8848-4895-b809-7c4484167d6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ba7a5818-c849-4ebc-9174-5e5cab8b5b7a/file/787b190e-a2bd-4d1a-a0b5-922f7fbc0b2e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/07%2Fb6%2F76%2F07b676855c6c43e59a51f308248c07b7%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/af4a88a5-d7cc-430d-8d06-15d1bc2a85a7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3013"
 }

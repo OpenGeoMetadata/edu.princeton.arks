@@ -3,23 +3,37 @@
   "dc_identifier_s": "ark:/88435/pv63g409f",
   "layer_slug_s": "princeton-pv63g409f",
   "uuid": "princeton-pv63g409f",
-  "dc_title_s": "Nancy Jarville, Laxou, Malzeville, Maxeville, St. Max, Tomblaine, Villers-les-Nancy, Vandoeuvre. Meurthe et Moselle",
-  "solr_geom": "ENVELOPE(6.183333, 6.216667, 48.7, 48.666667)",
+  "dc_title_s": "Nancy, Jarville, Laxou, Malzeville, Maxeville, St. Max, Tomblaine, Villers-les-Nancy, Vandoeuvre : Meurthe et Moselle",
+  "solr_geom": "ENVELOPE(6.1326, 6.2222894, 48.714359, 48.634785)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Alternate title: Nancy, Jarville, Laxou, Malzeville, Maxeville, Saint-Max, Tomblaine, Viller-les-Nancy, Vandoeuvre, Meurthe et Moselle. Inset of downtown area. Map is accompanied by text, Map Library does not have it.",
+  "dc_description_s": "Inset of downtown area. Map is accompanied by text. Map Library does not have it.",
   "dc_creator_sm": [
     "Cybèle (Firm)"
   ],
   "dc_language_s": "fra",
-  "dc_publisher_s": "[Paris] : Cybele, [ca. 1964].",
+  "dc_publisher_s": "[Paris] : Cybèle, [1964].",
   "dc_subject_sm": [
-    "France—Maps"
+    "Nancy (France)—Maps",
+    "Malzéville (France)—Maps",
+    "Jarville-la-Malgrange (France)—Maps",
+    "Vandoeuvre-lès-Nancy (France)—Maps",
+    "Saint-Max (France)—Maps",
+    "Maxeville (France)—Maps",
+    "Laxou (France)—Maps",
+    "Villers-lès-Nancy (France)—Maps",
+    "Tomblaine (France)—Maps",
+    "Meurthe-et-Moselle (France)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:19:31Z",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "solr_year_i": 1964,
+  "layer_modified_dt": "2020-06-24T10:30:01Z",
   "layer_id_s": "94f12c58-eb19-426b-ac57-ab33baddf6a6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865998\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/94f12c58-eb19-426b-ac57-ab33baddf6a6/file/bfb3b3c4-f107-4503-8420-3ff726820eca\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5834.N2 1964 .C9"
 }

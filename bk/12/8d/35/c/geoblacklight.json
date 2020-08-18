@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Munich] : Topograph. Zweigstelle d. B. Landesvermessungsamts, [1919]",
   "dc_subject_sm": [
     "Bavaria (Germany)—Maps",
-    "Ingolstadt (Germany)—Maps"
+    "Ingolstadt (Germany)—Maps",
+    "Topographic maps—Germany—Bavaria—1919",
+    "Topographic maps—Germany—Ingolstadt—1919"
   ],
   "dct_spatial_sm": [
     "Germany (West)"
   ],
-  "layer_modified_dt": "2019-06-04T17:10:03Z",
+  "solr_year_i": 1919,
+  "layer_modified_dt": "2020-06-23T15:39:47Z",
   "layer_id_s": "public-figgy:p-8c6f26a7-f1f7-46fa-bdc1-b6fa6ae62c72",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6857017\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8c6f26a7-f1f7-46fa-bdc1-b6fa6ae62c72/file/03ce6b16-9e68-4234-a7e6-ce97ea71d82f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8c6f26a7-f1f7-46fa-bdc1-b6fa6ae62c72/file/abb77dcf-d67b-4f83-9f41-6c3efb2a0124\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a5%2F70%2F6a%2Fa5706a8c66c84626abaedecc52f001a7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3886b072-098c-4b8c-9681-5ae6526bc06a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6857017\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8c6f26a7-f1f7-46fa-bdc1-b6fa6ae62c72/file/03ce6b16-9e68-4234-a7e6-ce97ea71d82f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8c6f26a7-f1f7-46fa-bdc1-b6fa6ae62c72/file/abb77dcf-d67b-4f83-9f41-6c3efb2a0124\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d0%2F76%2Fa8%2Fd076a8bb78b246b4bd9904248fd3bb3a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3886b072-098c-4b8c-9681-5ae6526bc06a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3277"
 }

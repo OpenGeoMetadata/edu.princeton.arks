@@ -7,19 +7,24 @@
   "solr_geom": "ENVELOPE(14.442778, 14.632778, 46.099722, 46.012222)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "City street map showing buildings, generalized land use, and local transit routes. Relief shown by shading and spot heights. Title from cover. UTM grid. Notes, street index, city-center map, detailed diagrammatic map of LPP local transit routes, 3 suburban-area maps, and coverage map on verso. Notes, main legend, coverage/location maps, and col. ill. on cover.",
+  "dc_description_s": "City street map showing buildings, generalized land use, and local transit routes. Relief shown by shading and spot heights. Title from cover. UTM grid. Notes, street index, city-center map, detailed diagrammatic map of LPP local transit routes, 3 suburban-area maps, and coverage map on verso. Notes, main legend, coverage/location maps, and image of building on cover.",
   "dc_creator_sm": [
     "Kartografija d.o.o. (Ljubljana)"
   ],
   "dc_language_s": "slv",
   "dc_publisher_s": "Ljubljana : Kartografija d.o.o., [2011]",
   "dc_subject_sm": [
+    "Tourist maps",
     "Central business districts—Slovenia—Ljubljana—Maps",
     "Local transit—Slovenia—Ljubljana—Maps",
     "Ljubljana (Slovenia)—Maps",
     "Ljubljana Metropolitan Area (Slovenia)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:33Z",
+  "dct_spatial_sm": [
+    "Slovenia"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2020-06-23T17:51:39Z",
   "layer_id_s": "e93205d1-6dc0-43a0-85b2-01f33daa3c9f",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7560848\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e93205d1-6dc0-43a0-85b2-01f33daa3c9f/file/1538f722-7638-4f48-895c-7c675cdb34dc\"}",
   "layer_geom_type_s": "Image",

@@ -12,15 +12,19 @@
   "dc_publisher_s": "Paris : Esnault, 1818.",
   "dc_subject_sm": [
     "Paris (France)—Maps, Tourist",
-    "Streets—France—Paris—Maps"
+    "Streets—France—Paris—Maps",
+    "Maps—France—Paris—1818",
+    "Tourist maps—France—Paris—1818"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:39Z",
+  "solr_year_i": 1818,
+  "layer_modified_dt": "2020-06-24T03:52:38Z",
   "layer_id_s": "public-figgy:p-0f427ad2-c539-4d70-b9fe-cce96dbfeac3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062592\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/ca63b972-d0c7-4070-96c3-0528b894f03d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/8905ee55-974d-4461-94a4-28e2359bd79b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/03%2Fdc%2Fff%2F03dcff5e920b4d52ba4c964ce6c0ae58%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d067da1-4626-4fa9-bda8-5bd9dda0b3be/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6062592\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/ca63b972-d0c7-4070-96c3-0528b894f03d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0f427ad2-c539-4d70-b9fe-cce96dbfeac3/file/8905ee55-974d-4461-94a4-28e2359bd79b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/66%2Ff9%2F45%2F66f945eb2e894a3fb7fddc0deca1429a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0d067da1-4626-4fa9-bda8-5bd9dda0b3be/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3002"
 }

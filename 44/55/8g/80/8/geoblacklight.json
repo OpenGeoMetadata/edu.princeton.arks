@@ -30,16 +30,20 @@
     "Kilkenny (Ireland)—Maps",
     "Kinsale (Ireland)—Maps",
     "Limerick (Limerick, Ireland)—Maps",
-    "Waterford (Ireland)—Maps"
+    "Waterford (Ireland)—Maps",
+    "Maps—Ireland—1760",
+    "Maps—Northern Ireland—1760"
   ],
   "dct_spatial_sm": [
     "Ireland",
     "Northern Ireland"
   ],
-  "layer_modified_dt": "2019-06-04T18:15:13Z",
+  "solr_year_i": 1760,
+  "layer_modified_dt": "2020-06-23T16:39:05Z",
   "layer_id_s": "public-figgy:p-34d0ebfc-b9f4-4107-93fc-e49b588fcd3f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7810926\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34d0ebfc-b9f4-4107-93fc-e49b588fcd3f/file/1d56c30d-489a-4577-9125-a85f87417153\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34d0ebfc-b9f4-4107-93fc-e49b588fcd3f/file/eec96af0-2f05-4875-9cd8-47b6376f1714\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7c%2Ffe%2Fed%2F7cfeed1ab1d0452abaf25f6afc47834c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dccda97e-ef76-4976-b73e-ac23c7bbb260/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7810926\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34d0ebfc-b9f4-4107-93fc-e49b588fcd3f/file/1d56c30d-489a-4577-9125-a85f87417153\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34d0ebfc-b9f4-4107-93fc-e49b588fcd3f/file/eec96af0-2f05-4875-9cd8-47b6376f1714\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f6%2Fd5%2F96%2Ff6d5962cd7834f8da5e02e1f9978f9d8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dccda97e-ef76-4976-b73e-ac23c7bbb260/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5044"
 }

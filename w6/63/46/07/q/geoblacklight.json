@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Boston : Heliotrope Printing Co., [1899?]",
   "dc_subject_sm": [
-    "British Guiana—Maps"
+    "British Guiana—Maps",
+    "Maps—British Guiana—1899"
   ],
   "dct_spatial_sm": [
     "Guyana"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:42Z",
+  "solr_year_i": 1899,
+  "layer_modified_dt": "2020-06-23T16:36:41Z",
   "layer_id_s": "public-figgy:p-edf66450-d755-48ab-9f9f-4afdf47c165a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6583481\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edf66450-d755-48ab-9f9f-4afdf47c165a/file/74c17b26-498c-414d-8c9f-73671b09cadd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edf66450-d755-48ab-9f9f-4afdf47c165a/file/b608c6ad-4134-4deb-8736-96d1dd0173cd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6c%2F53%2F7e%2F6c537ef2370b47568e57053665add275%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc2cb956-3731-46f1-af18-8b5fe2829cd5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6583481\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/edf66450-d755-48ab-9f9f-4afdf47c165a/file/74c17b26-498c-414d-8c9f-73671b09cadd\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/edf66450-d755-48ab-9f9f-4afdf47c165a/file/b608c6ad-4134-4deb-8736-96d1dd0173cd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/63%2F88%2Fdc%2F6388dc52c8b64c8fa883a7061717a368%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dc2cb956-3731-46f1-af18-8b5fe2829cd5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6161"
 }

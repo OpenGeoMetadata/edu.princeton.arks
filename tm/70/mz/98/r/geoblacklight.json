@@ -3,21 +3,29 @@
   "dc_identifier_s": "ark:/88435/tm70mz98r",
   "layer_slug_s": "princeton-tm70mz98r",
   "uuid": "princeton-tm70mz98r",
-  "dc_title_s": "Eastern China 1:50,000: Peking. Sheet 16/2200. Series G.S.G.S. no. 3789 (AMS 3).",
-  "solr_geom": "ENVELOPE(116.16666666666667, 116.53333333333333, 40.0, 39.81666666666667)",
+  "dc_title_s": "Eastern China 1:50,000",
+  "solr_geom": "ENVELOPE(116.166667, 116.533333, 40.0, 39.816667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "AMS 3. Reprint of 1945 United States. Army Map Service Alternate title: Peking. Relief shown by 5 and 25 m. contour interval and spot heights. World polyconic grid.",
+  "dc_description_s": "Relief shown by 5 and 25 m. contour interval and spot heights. Reprint of 1945. \"9-45.\" \"Geographical Section, General Staff, No. 3789. Published at the War Office 1927. First GSGS Edition (AMS 1), 1926; Third GSGS Edition (AMS 2), 1944; AMS Revisions (AMS 3), 1944.\"",
+  "dc_creator_sm": [
+    "Great Britain. War Office. General Staff. Geographical Section"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1944.",
   "dc_subject_sm": [
     "Topographic maps",
-    "China—Maps"
+    "Beijing (China)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:08Z",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "solr_year_i": 1944,
+  "layer_modified_dt": "2020-06-24T03:57:20Z",
   "layer_id_s": "public-figgy:p-1bfe9a78-b0df-4660-adaf-fe3da3a65a28",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449777\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1bfe9a78-b0df-4660-adaf-fe3da3a65a28/file/7f9b6693-9de8-4d2b-b0bf-cc8503c4f018\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1bfe9a78-b0df-4660-adaf-fe3da3a65a28/file/9a8dcabc-b29a-4a5f-9656-9994ea885410\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/46%2F7f%2F4e%2F467f4e57e0e64e1186965bf1d31d4ff3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/532f367e-50f1-44ce-974d-5876be5dc339/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449777\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1bfe9a78-b0df-4660-adaf-fe3da3a65a28/file/7f9b6693-9de8-4d2b-b0bf-cc8503c4f018\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1bfe9a78-b0df-4660-adaf-fe3da3a65a28/file/9a8dcabc-b29a-4a5f-9656-9994ea885410\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a2%2Fb6%2F9c%2Fa2b69cf84d91461f81cfdac34dec3730%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/532f367e-50f1-44ce-974d-5876be5dc339/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.B4C2.1944.A7M3"
+  "suppressed_b": false,
+  "call_number_s": "G7824.B4C2 1944 .A7M3"
 }

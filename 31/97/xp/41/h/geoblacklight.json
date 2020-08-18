@@ -22,15 +22,19 @@
     "Ferries—New York (State)—New York—Maps",
     "Parks—New York (State)—New York—Maps",
     "Railroads—New York (State)—New York—Maps",
-    "Cemeteries—New York (State)—New York—Maps"
+    "Cemeteries—New York (State)—New York—Maps",
+    "Maps—New York (State)—New York—1868",
+    "City maps—New York (State)—New York—1868"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:21Z",
+  "solr_year_i": 1868,
+  "layer_modified_dt": "2020-06-23T19:56:40Z",
   "layer_id_s": "public-figgy:p-c1b09509-1e55-46bb-83f2-77110e372cad",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1b09509-1e55-46bb-83f2-77110e372cad/file/62e01d55-1bd4-41ed-904f-2d1bc78bf81c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1b09509-1e55-46bb-83f2-77110e372cad/file/15ac03f2-774d-4f36-abc7-bce5e9d90a2d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/17%2F4f%2Ff3%2F174ff3a8582c41e4adcc8e0ea1cdabc6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/00fc4894-4a06-4d4b-8905-611d35a59842/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c1b09509-1e55-46bb-83f2-77110e372cad/file/62e01d55-1bd4-41ed-904f-2d1bc78bf81c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c1b09509-1e55-46bb-83f2-77110e372cad/file/15ac03f2-774d-4f36-abc7-bce5e9d90a2d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f2%2F3d%2Fbf%2Ff23dbff824484494a88f56d3755f1f72%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/00fc4894-4a06-4d4b-8905-611d35a59842/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5525"
 }

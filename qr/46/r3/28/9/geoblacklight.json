@@ -15,16 +15,20 @@
   "dc_publisher_s": "London : John Murray ... , [1874]",
   "dc_subject_sm": [
     "Egypt—Maps",
-    "Ethiopia—Maps"
+    "Ethiopia—Maps",
+    "Historical maps—Egypt",
+    "Historical maps—Ethiopia"
   ],
   "dct_spatial_sm": [
     "Egypt",
     "Ethiopia"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:13Z",
+  "solr_year_i": 1874,
+  "layer_modified_dt": "2020-06-22T22:35:20Z",
   "layer_id_s": "public-figgy:p-7b046e7f-83f9-4001-a431-d853db8c1499",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7011000\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b046e7f-83f9-4001-a431-d853db8c1499/file/ecf5f388-1e15-4b49-a63a-e888ce8f4ada\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b046e7f-83f9-4001-a431-d853db8c1499/file/ad14d12c-5a29-450c-959c-fc60d9264305\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0f%2F48%2F10%2F0f4810301e8444f9823086e940431b78%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a7df0a13-2771-45de-b358-b5286711df4f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7011000\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b046e7f-83f9-4001-a431-d853db8c1499/file/ecf5f388-1e15-4b49-a63a-e888ce8f4ada\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b046e7f-83f9-4001-a431-d853db8c1499/file/4066f9c2-8634-4e9c-ad7c-b21a69199e0c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/51%2Fdb%2F58%2F51db58c92ea84fbca9d3dd63b63e0a64%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a7df0a13-2771-45de-b358-b5286711df4f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4237"
 }

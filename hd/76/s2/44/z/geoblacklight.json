@@ -15,16 +15,20 @@
   "dc_publisher_s": "New York : D. Appleton & Co., [1856]",
   "dc_subject_sm": [
     "Texas—Maps",
-    "California—Maps"
+    "California—Maps",
+    "Maps—Texas—1856",
+    "Maps—California—1856"
   ],
   "dct_spatial_sm": [
     "Texas",
     "California"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:31Z",
+  "solr_year_i": 1856,
+  "layer_modified_dt": "2020-08-03T21:49:51Z",
   "layer_id_s": "public-figgy:p-989cace9-0d00-460f-8f62-04875f69fa6e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5817295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/989cace9-0d00-460f-8f62-04875f69fa6e/file/0c7a5793-9952-440e-ba94-fd8a92ae8bd1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/989cace9-0d00-460f-8f62-04875f69fa6e/file/00e36af2-5048-4daa-8891-5828708f4da0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/57%2Fa8%2F0b%2F57a80b3130944c6e90a4b2e847eb7a17%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74e7aecc-7c11-45af-91a1-493d2540cc68/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5817295\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/989cace9-0d00-460f-8f62-04875f69fa6e/file/0c7a5793-9952-440e-ba94-fd8a92ae8bd1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/989cace9-0d00-460f-8f62-04875f69fa6e/file/00e36af2-5048-4daa-8891-5828708f4da0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/75%2Fdd%2Fea%2F75ddea0ae09e4cbebccf5e1c6669f531%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/74e7aecc-7c11-45af-91a1-493d2540cc68/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1144"
 }

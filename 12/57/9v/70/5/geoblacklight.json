@@ -17,7 +17,11 @@
     "Argentina—Maps",
     "Chile—Maps",
     "Paraguay—Maps",
-    "Uruguay—Maps"
+    "Uruguay—Maps",
+    "Maps—Argentina—1892",
+    "Maps—Chile—1892",
+    "Maps—Paraguay—1892",
+    "Maps—Uruguay—1892"
   ],
   "dct_spatial_sm": [
     "South America",
@@ -26,10 +30,12 @@
     "Paraguay",
     "Uruguay"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:11Z",
+  "solr_year_i": 1892,
+  "layer_modified_dt": "2020-06-24T03:52:23Z",
   "layer_id_s": "public-figgy:p-059d2e37-263d-4419-bee7-ae117d6a376c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6509672\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/059d2e37-263d-4419-bee7-ae117d6a376c/file/fc7d4895-6c5c-4c02-bf40-470fe8339100\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/059d2e37-263d-4419-bee7-ae117d6a376c/file/d56049ff-6e02-43b6-b9e6-63cb7f204ba1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2f%2F25%2Fcb%2F2f25cbda568e4c539a38745fcebd95a3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6bcd0be4-93c8-4af7-8bdb-f558849ffee9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6509672\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/059d2e37-263d-4419-bee7-ae117d6a376c/file/fc7d4895-6c5c-4c02-bf40-470fe8339100\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/059d2e37-263d-4419-bee7-ae117d6a376c/file/d56049ff-6e02-43b6-b9e6-63cb7f204ba1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e0%2F92%2F09%2Fe09209ca82df46be8f95cd6052886302%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6bcd0be4-93c8-4af7-8bdb-f558849ffee9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6118"
 }

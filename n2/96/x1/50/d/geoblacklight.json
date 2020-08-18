@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington, National Geographic Society, 1931.",
   "dc_subject_sm": [
-    "Washington, George, 1732-1799—Travel—Maps"
+    "Washington, George, 1732-1799—Travel—Maps",
+    "Historical maps—Middle Atlantic States",
+    "Historical maps—South Atlantic States"
   ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:04Z",
+  "solr_year_i": 1931,
+  "layer_modified_dt": "2020-06-24T03:50:25Z",
   "layer_id_s": "public-figgy:p-e5f143ff-0def-45c9-a81b-71f7e30a509a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5936021\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5f143ff-0def-45c9-a81b-71f7e30a509a/file/e4912daf-f417-43e9-85bf-2178ad048cf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5f143ff-0def-45c9-a81b-71f7e30a509a/file/6f600549-6dd7-4ccc-ab1c-e8b5077418e9\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c7%2F84%2Fbe%2Fc784be7eb8084a3eb3a896b300002d92%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f47e6bf1-5665-4ddd-bc12-6ed6bab7a141/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5936021\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5f143ff-0def-45c9-a81b-71f7e30a509a/file/e4912daf-f417-43e9-85bf-2178ad048cf7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5f143ff-0def-45c9-a81b-71f7e30a509a/file/6f600549-6dd7-4ccc-ab1c-e8b5077418e9\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/12%2F2a%2F48%2F122a48621b9a4575a6f5b70be76131d8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f47e6bf1-5665-4ddd-bc12-6ed6bab7a141/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6226"
 }

@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.] : U.S. Coast Survey Office, Published in 1850.",
   "dc_subject_sm": [
     "Coasts—California—Maps",
-    "Pacific Coast (Calif.)—Maps"
+    "Pacific Coast (Calif.)—Maps",
+    "Maps—Pacific Coast (Calif.)—1850",
+    "Nautical charts—Pacific Coast (Calif.)—1850"
   ],
   "dct_spatial_sm": [
     "California"
   ],
-  "layer_modified_dt": "2019-06-04T18:16:46Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-08-03T21:49:53Z",
   "layer_id_s": "public-figgy:p-34c40ed4-560b-49b2-be4d-5a2c30c3f15a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7816661\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34c40ed4-560b-49b2-be4d-5a2c30c3f15a/file/89a96332-281a-4fdf-8796-853973dd8ba2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34c40ed4-560b-49b2-be4d-5a2c30c3f15a/file/d235e8e4-9816-4781-b243-21345f36f0bc\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a0%2F5c%2F3a%2Fa05c3a802a174ed090fc6890b87bf870%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e1a4ff5-0d0d-4e0f-94e9-bcfef2294bd9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7816661\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/34c40ed4-560b-49b2-be4d-5a2c30c3f15a/file/89a96332-281a-4fdf-8796-853973dd8ba2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/34c40ed4-560b-49b2-be4d-5a2c30c3f15a/file/d235e8e4-9816-4781-b243-21345f36f0bc\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/06%2Fc5%2F0c%2F06c50c4375254f71ae426304370037ac%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1e1a4ff5-0d0d-4e0f-94e9-bcfef2294bd9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7038"
 }

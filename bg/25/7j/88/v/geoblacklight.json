@@ -4,22 +4,29 @@
   "layer_slug_s": "princeton-bg257j88v",
   "uuid": "princeton-bg257j88v",
   "dc_title_s": "Hong Kong scale 1:9 600",
-  "solr_geom": "ENVELOPE(114.15, 114.18333333333334, 21.3, 21.283333333333335)",
+  "solr_geom": "ENVELOPE(114.154944, 114.187244, 22.302671, 22.279977)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Map is a photocopy. Map Room has sheet 196 only.",
+  "dc_description_s": "Relief is shown by rock drawing. \"Surveyed by Svy. Div. C.L. & S.O. P.W.D. Hong Kong 1958.\" Map shows future and proposed reclamation lines. Includes Hong Kong - Kwoolon index of relevant buildings. Map is part of a set. Map Collection has sheet 196 only [it is a photocopy]. \"Crown copyright reserved\".",
   "dc_creator_sm": [
-    "Hong Kong. Lands & Survey Department"
+    "Hong Kong. Public Works Department. Survey Division"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Hong Kong : Crown Lands & Survey Office, 1958.",
+  "dc_publisher_s": "Hong Kong : Public Works Department. Survey Division, 1958.",
   "dc_subject_sm": [
-    "Hong Kong (China)—Maps"
+    "Cities and towns",
+    "Hong Kong—Maps",
+    "Victoria Harbor (China)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:46Z",
-  "layer_id_s": "restricted-figgy:p-2e1b45ea-7f0b-4409-8148-cb8361c82f07",
+  "dct_spatial_sm": [
+    "Hong Kong (China)"
+  ],
+  "solr_year_i": 1958,
+  "layer_modified_dt": "2020-06-24T10:29:09Z",
+  "layer_id_s": "2e1b45ea-7f0b-4409-8148-cb8361c82f07",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449884\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2e1b45ea-7f0b-4409-8148-cb8361c82f07/file/1ae42443-6383-4453-8803-4cc855f793c7\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.H51958 .C7L3"
+  "suppressed_b": false,
+  "call_number_s": "G7824.H5 1958 .C7L3"
 }

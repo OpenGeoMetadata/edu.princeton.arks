@@ -14,15 +14,19 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "Hildburghausen [Germany] : Aus der Geographischen Graviranstalt des Bibliographischen Instituts, 1844.",
   "dc_subject_sm": [
-    "Lisbon (Portugal)—Maps"
+    "Lisbon (Portugal)—Maps",
+    "City maps—Portugal—Lisbon—1844",
+    "Maps—Portugal—Lisbon—1844"
   ],
   "dct_spatial_sm": [
     "Portugal"
   ],
-  "layer_modified_dt": "2019-06-04T17:10:59Z",
+  "solr_year_i": 1844,
+  "layer_modified_dt": "2020-06-24T03:46:26Z",
   "layer_id_s": "public-figgy:p-2a1ea5a3-1490-4c56-b344-22d096462947",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6992530\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a1ea5a3-1490-4c56-b344-22d096462947/file/661cc0db-6833-4d5d-bf63-c731c204f7c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a1ea5a3-1490-4c56-b344-22d096462947/file/aabf39bc-6bc2-4e23-a827-2a79c43e34aa\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c0%2F30%2Fc9%2Fc030c9d7ab3a4196bf3c5ca5401bad7f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/610978ad-f002-46fe-a0b8-34dc170691c8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6992530\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2a1ea5a3-1490-4c56-b344-22d096462947/file/661cc0db-6833-4d5d-bf63-c731c204f7c2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2a1ea5a3-1490-4c56-b344-22d096462947/file/aabf39bc-6bc2-4e23-a827-2a79c43e34aa\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cb%2Ffd%2F57%2Fcbfd57fe28cc4697904760db4da72339%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/610978ad-f002-46fe-a0b8-34dc170691c8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5214"
 }

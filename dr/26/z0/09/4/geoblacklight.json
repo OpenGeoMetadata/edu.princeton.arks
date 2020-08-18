@@ -18,7 +18,12 @@
     "Nile River Valley—Maps",
     "Sudan—Maps",
     "Ethiopia—Maps",
-    "Africa, Eastern—Maps"
+    "Africa, Eastern—Maps",
+    "Maps—Egypt—1858",
+    "Maps—Nile River Valley—1858",
+    "Maps—Sudan—1858",
+    "Maps—Ethiopia—1858",
+    "Maps—Africa, Eastern—1858"
   ],
   "dct_spatial_sm": [
     "Africa, Eastern",
@@ -26,10 +31,12 @@
     "Sudan",
     "Ethiopia"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:01Z",
+  "solr_year_i": 1858,
+  "layer_modified_dt": "2020-06-23T20:00:20Z",
   "layer_id_s": "public-figgy:p-2b74d67e-a2bb-43f8-89f3-090aed58fac2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4990980\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e6c3878-657a-4eff-9640-e7041201ee83/file/f01d47bd-c5f0-49ae-a2b4-bde6b0331f8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b74d67e-a2bb-43f8-89f3-090aed58fac2/file/d61ee3a3-f3f6-45c3-95d6-e6f241510902\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b74d67e-a2bb-43f8-89f3-090aed58fac2/file/2c660b26-9154-44c3-b821-c8b3c541714e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/16%2F08%2F71%2F160871c1415e444ea01c89130d93da0e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/35edf73f-a033-4628-9985-6e7a0e8bf4a2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4990980\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/3e6c3878-657a-4eff-9640-e7041201ee83/file/f01d47bd-c5f0-49ae-a2b4-bde6b0331f8c\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2b74d67e-a2bb-43f8-89f3-090aed58fac2/file/d61ee3a3-f3f6-45c3-95d6-e6f241510902\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2b74d67e-a2bb-43f8-89f3-090aed58fac2/file/2c660b26-9154-44c3-b821-c8b3c541714e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d0%2F1f%2Fe5%2Fd01fe5f75b7c4a058d979a346018df0e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/35edf73f-a033-4628-9985-6e7a0e8bf4a2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3722"
 }

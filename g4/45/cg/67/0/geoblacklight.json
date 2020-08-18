@@ -16,15 +16,21 @@
   "dc_subject_sm": [
     "Coasts—New Jersey—Maps",
     "Coasts—New York (State)—Long Island—Maps",
-    "Atlantic Coast (U.S.)—Maps"
+    "Atlantic Coast (U.S.)—Maps",
+    "Maps—Atlantic Coast (U.S.)—1850",
+    "Nautical charts—Atlantic Coast (U.S.)—1850",
+    "Nautical charts—New Jersey—1850",
+    "Nautical charts—New York (State)—Long Island—1850"
   ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:44Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-06-23T20:01:22Z",
   "layer_id_s": "public-figgy:p-be7f09c6-b1b8-4587-957b-e4f78f5b9297",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7692094\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be7f09c6-b1b8-4587-957b-e4f78f5b9297/file/f1dd49af-d834-44b6-b30b-715fff43bd6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be7f09c6-b1b8-4587-957b-e4f78f5b9297/file/725cee2b-8aa0-4da1-9f40-7e8a02ef92f4\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d4%2Fef%2F66%2Fd4ef66f5ef66401da183a7bc495be85e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2387fb53-0c24-4a56-b627-fccfd7398748/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7692094\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/be7f09c6-b1b8-4587-957b-e4f78f5b9297/file/f1dd49af-d834-44b6-b30b-715fff43bd6c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/be7f09c6-b1b8-4587-957b-e4f78f5b9297/file/725cee2b-8aa0-4da1-9f40-7e8a02ef92f4\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/08%2F6f%2F42%2F086f426994d94742804b01979f44c10a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2387fb53-0c24-4a56-b627-fccfd7398748/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6987"
 }

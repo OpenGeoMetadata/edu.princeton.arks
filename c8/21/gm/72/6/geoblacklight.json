@@ -6,7 +6,7 @@
   "dc_title_s": "Audubon, Camden County, New Jersey : including Oaklyn and parts of Haddon Township (Sheet 7)",
   "solr_geom": "ENVELOPE(-75.132837, -75.066546, 39.968156, 39.898664)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Sept. 1924.\" Includes location map, key, streets and specials index, and text. North oriented towards upper left. \"1803.\" Historic Maps copy has sheets 1-3 and 6-17; sheets 4-5, showing Haddon Township, and sheets 18-20, showing Oaklyn, foldered separately.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Audubon—Maps",
-    "Audubon (N.J.)—Maps"
+    "Audubon (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Audubon—1924",
+    "Maps—New Jersey—Audubon—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:07Z",
-  "layer_id_s": "restricted-figgy:p-c0b1df76-7443-4543-b983-8c054dfca90f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5351978\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0b1df76-7443-4543-b983-8c054dfca90f/file/65f561a2-1f4e-42d6-bfc0-8a5791f6ceb6\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:08:20Z",
+  "layer_id_s": "public-figgy:p-c0b1df76-7443-4543-b983-8c054dfca90f",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5351978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c0b1df76-7443-4543-b983-8c054dfca90f/file/fbeb1bc4-0b3e-41c1-b9c2-c912ff8d1a54\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c0b1df76-7443-4543-b983-8c054dfca90f/file/4cf64a87-2806-439d-b1da-5fb281342868\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/25%2Ff1%2F98%2F25f19823b2e045b4a4edb3526bae83e5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c03711c3-c2aa-4c59-9184-3cf5b0da67b4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

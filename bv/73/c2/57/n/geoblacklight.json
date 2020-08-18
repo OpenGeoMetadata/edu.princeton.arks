@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Boston : Thomas & Andrews, May 1812]",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1812",
+    "State maps—New Jersey—1812"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:12:26Z",
+  "solr_year_i": 1812,
+  "layer_modified_dt": "2020-06-23T17:45:12Z",
   "layer_id_s": "public-figgy:p-89269e67-cdd7-47a0-bb76-2b7626ebcde3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5586206\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/89269e67-cdd7-47a0-bb76-2b7626ebcde3/file/91acbca8-118f-4e27-af5a-3ab5cd46272e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/89269e67-cdd7-47a0-bb76-2b7626ebcde3/file/78c40488-327d-43e3-a1b6-02b4acddbdf7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/1f%2Ffb%2Fac%2F1ffbac48c5a242f4a5e96193b602fe34%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e385799e-02f1-4591-a5d5-7b1fe818abbf/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5586206\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/89269e67-cdd7-47a0-bb76-2b7626ebcde3/file/91acbca8-118f-4e27-af5a-3ab5cd46272e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/89269e67-cdd7-47a0-bb76-2b7626ebcde3/file/78c40488-327d-43e3-a1b6-02b4acddbdf7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3b%2F29%2F51%2F3b295150f555490d8b0ca0547eae30e2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e385799e-02f1-4591-a5d5-7b1fe818abbf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1831"
 }

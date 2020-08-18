@@ -14,16 +14,20 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : A. Leconte, [191-?]",
   "dc_subject_sm": [
-    "Paris (France)—Maps, Tourist"
+    "Paris (France)—Maps, Tourist",
+    "Maps—France—Paris—191-.",
+    "Tourist maps—France—Paris—191-."
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:59Z",
+  "solr_year_i": 1910,
+  "layer_modified_dt": "2020-06-23T19:57:59Z",
   "layer_id_s": "public-figgy:p-5dc7cff7-0b92-436c-a833-84d1d0fbd652",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6131667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5dc7cff7-0b92-436c-a833-84d1d0fbd652/file/43ee15f8-60cb-4830-abd1-57eb3ea04c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5dc7cff7-0b92-436c-a833-84d1d0fbd652/file/d883514d-0822-4fe4-8416-f27ff87bccdf\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a7%2F9e%2Fd1%2Fa79ed177a3c04eddb070d04c41dcbfdd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/86939040-3e13-4db2-b66f-fa343b180579/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6131667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5dc7cff7-0b92-436c-a833-84d1d0fbd652/file/43ee15f8-60cb-4830-abd1-57eb3ea04c80\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5dc7cff7-0b92-436c-a833-84d1d0fbd652/file/d883514d-0822-4fe4-8416-f27ff87bccdf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e7%2F20%2Ff5%2Fe720f59c1a42472fa0a79f0ce00932a5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/86939040-3e13-4db2-b66f-fa343b180579/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-6108vg23m"
   ],

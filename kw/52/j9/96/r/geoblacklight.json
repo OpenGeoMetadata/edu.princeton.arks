@@ -6,7 +6,7 @@
   "dc_title_s": "Bordentown, Burlington County, New Jersey : including Fieldsboro (Sheet 12)",
   "solr_geom": "ENVELOPE(-74.426537, -74.383293, 40.917784, 40.892961)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July 1924.\" Includes location map, key, streets and specials index, and text. \"1677.\" North oriented toward upper left.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -17,14 +17,19 @@
     "Real property—New Jersey—Bordentown—Maps",
     "Real property—New Jersey—Fieldsboro—Maps",
     "Bordentown (N.J.)—Maps",
-    "Fieldsboro (N.J.)—Maps"
+    "Fieldsboro (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Bordentown—1924",
+    "Fire insurance maps—New Jersey—Fieldsboro—1924",
+    "Maps—New Jersey—Bordentown—1924",
+    "Maps—New Jersey—Fieldsboro—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:05:35Z",
-  "layer_id_s": "restricted-figgy:p-b396fc3e-9e51-4d93-b863-f01bd1b6d91a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5034860\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b396fc3e-9e51-4d93-b863-f01bd1b6d91a/file/c9bc5f89-b228-4bf9-bb43-ee9b6c210c6b\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T00:05:48Z",
+  "layer_id_s": "public-figgy:p-b396fc3e-9e51-4d93-b863-f01bd1b6d91a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5034860\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b396fc3e-9e51-4d93-b863-f01bd1b6d91a/file/1deaf8c8-9e5b-4c7b-8d53-7289bcd3ccc1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b396fc3e-9e51-4d93-b863-f01bd1b6d91a/file/072d16e1-6927-42f5-a250-bf4822b647eb\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d4%2Fbf%2F15%2Fd4bf15858a5d4794b3b10bb82cbcc067%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/170d5fc1-2858-4cb6-a085-ee1730bd5a32/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

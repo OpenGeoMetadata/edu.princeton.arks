@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Philadelphia? : Mathew Carey?, between 1795 and 1818]",
   "dc_subject_sm": [
-    "Germany (East)—Maps"
+    "Germany (East)—Maps",
+    "Maps—Germany (East)—1818"
   ],
   "dct_spatial_sm": [
     "Germany (West)"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:06Z",
+  "solr_year_i": 1795,
+  "layer_modified_dt": "2020-06-23T20:01:32Z",
   "layer_id_s": "public-figgy:p-d4f2e317-81ef-47df-ba7f-f159ddb673cd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6034778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4f2e317-81ef-47df-ba7f-f159ddb673cd/file/097e7c9c-c6b2-4591-a170-45fae08f2526\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4f2e317-81ef-47df-ba7f-f159ddb673cd/file/f4161c84-364a-452f-89c1-64810dd37ac2\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/50%2F81%2F0e%2F50810e4f71ae42e0a1df62a08e9397e7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f99792c1-104f-4f22-8650-76969c2a4680/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6034778\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d4f2e317-81ef-47df-ba7f-f159ddb673cd/file/097e7c9c-c6b2-4591-a170-45fae08f2526\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d4f2e317-81ef-47df-ba7f-f159ddb673cd/file/f4161c84-364a-452f-89c1-64810dd37ac2\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/43%2F7e%2F0e%2F437e0eac37db4f22860209ab99caf9c1%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f99792c1-104f-4f22-8650-76969c2a4680/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2983"
 }

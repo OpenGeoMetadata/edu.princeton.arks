@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.?] : Post Office Dept., [1902]",
   "dc_subject_sm": [
     "Post roads—New Mexico—Maps",
-    "New Mexico—Maps"
+    "New Mexico—Maps",
+    "Maps—New Mexico—1902",
+    "Thematic maps—New Mexico—1902"
   ],
   "dct_spatial_sm": [
     "New Mexico"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:20Z",
+  "solr_year_i": 1902,
+  "layer_modified_dt": "2020-06-23T00:01:15Z",
   "layer_id_s": "public-figgy:p-bb40f055-ea54-4f5c-a83f-83c9b8388565",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6924353\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb40f055-ea54-4f5c-a83f-83c9b8388565/file/35c828d4-b024-4108-8ba0-5b7d81844f33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb40f055-ea54-4f5c-a83f-83c9b8388565/file/9ecf2cbe-aaf8-4548-b8c2-f4f655bb2f85\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/aa%2Ff1%2Fa0%2Faaf1a0aabb9047dba431c0d9284b85c0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c2ba0b1-d4b1-47e3-b345-c009a31d3f4a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6924353\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bb40f055-ea54-4f5c-a83f-83c9b8388565/file/35c828d4-b024-4108-8ba0-5b7d81844f33\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bb40f055-ea54-4f5c-a83f-83c9b8388565/file/9ecf2cbe-aaf8-4548-b8c2-f4f655bb2f85\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cb%2Ffc%2Fdd%2Fcbfcdd7f450947ce8d2470539bf1b53d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1c2ba0b1-d4b1-47e3-b345-c009a31d3f4a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6762"
 }

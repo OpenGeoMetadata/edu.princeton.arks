@@ -11,15 +11,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Bruxelles : chez A. Tessaro, éditeur ... , [1852?]",
   "dc_subject_sm": [
-    "Brussels (Belgium)—Maps"
+    "Brussels (Belgium)—Maps",
+    "City maps—Belgium—Brussels—1852",
+    "Maps—Belgium—Brussels—1852"
   ],
   "dct_spatial_sm": [
     "Belgium"
   ],
-  "layer_modified_dt": "2019-06-04T19:25:55Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-22T22:40:57Z",
   "layer_id_s": "public-figgy:p-ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6909306\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/cf6684a7-2780-4161-a158-4577601c780c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/6880055e-998d-4288-ae7e-32f0efaee537\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/dd%2Fe8%2F11%2Fdde811c214814997acf7cd20f21c9fbb%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c52b4613-98d8-4ecb-8ed8-d443aa57222b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6909306\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/cf6684a7-2780-4161-a158-4577601c780c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca7fe8f3-6c11-4f98-94e4-bd5963cf4c83/file/9394ebdd-b900-4f33-b9e8-8fc9cf4b06b0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e7%2F59%2Fa4%2Fe759a444c8c94401a41bc60f85376809%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c52b4613-98d8-4ecb-8ed8-d443aa57222b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5392"
 }

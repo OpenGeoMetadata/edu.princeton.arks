@@ -17,7 +17,10 @@
     "Connecticut—Maps—Early works to 1800",
     "Massachusetts—Maps—Early works to 1800",
     "Rhode Island—Maps—Early works to 1800",
-    "United States—History—Revolution, 1775-1783—Naval operations—Maps"
+    "United States—History—Revolution, 1775-1783—Naval operations—Maps",
+    "Maps—Connecticut—1780",
+    "Maps—Massachusetts—1780",
+    "Maps—Rhode Island—1780"
   ],
   "dct_spatial_sm": [
     "New England",
@@ -25,10 +28,12 @@
     "Rhode Island",
     "Massachusetts"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:09Z",
+  "solr_year_i": 1780,
+  "layer_modified_dt": "2020-06-24T03:52:57Z",
   "layer_id_s": "public-figgy:p-d15587ce-d505-42f6-aee9-fe7ac23798a0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6413012\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d15587ce-d505-42f6-aee9-fe7ac23798a0/file/40bc16ce-4de6-4040-af45-d7f36abd6b55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d15587ce-d505-42f6-aee9-fe7ac23798a0/file/ab14504f-3371-4ce2-9317-6b4f2731e54f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5f%2F69%2F75%2F5f69753703484f3ead212156f4cd478b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47dbeb48-e876-40b9-b13e-040ae2a69666/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6413012\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d15587ce-d505-42f6-aee9-fe7ac23798a0/file/40bc16ce-4de6-4040-af45-d7f36abd6b55\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d15587ce-d505-42f6-aee9-fe7ac23798a0/file/ab14504f-3371-4ce2-9317-6b4f2731e54f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/76%2F13%2F01%2F761301b47d53474295d6281f884fadaf%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/47dbeb48-e876-40b9-b13e-040ae2a69666/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6692"
 }

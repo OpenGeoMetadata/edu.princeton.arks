@@ -14,15 +14,19 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "Hildburghausen ; Amsterdam ; Paris ; Philadelphia : Aus der Geographischen Graviranstalt des Bibliographischen Instituts, 1845.",
   "dc_subject_sm": [
-    "Antwerp (Belgium)—Maps"
+    "Antwerp (Belgium)—Maps",
+    "Maps—Belgium—Antwerp—1845",
+    "City maps—Belgium—Antwerp—1845"
   ],
   "dct_spatial_sm": [
     "Belgium"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:02Z",
+  "solr_year_i": 1845,
+  "layer_modified_dt": "2020-06-23T16:37:45Z",
   "layer_id_s": "public-figgy:p-dfb8a11d-f62d-4f9a-a105-0fd3768dbc34",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6898153\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfb8a11d-f62d-4f9a-a105-0fd3768dbc34/file/c35ebd4f-d628-43dc-8ad5-6592668d1cdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfb8a11d-f62d-4f9a-a105-0fd3768dbc34/file/9eb382e4-3922-4ce6-82a7-854f42e3279d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c4%2F16%2Fda%2Fc416da9af0fb4d30bb3caf1dc2201654%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8bda80f2-f2b1-4244-a55b-c4b559fe4a0e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6898153\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfb8a11d-f62d-4f9a-a105-0fd3768dbc34/file/c35ebd4f-d628-43dc-8ad5-6592668d1cdf\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfb8a11d-f62d-4f9a-a105-0fd3768dbc34/file/9eb382e4-3922-4ce6-82a7-854f42e3279d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/20%2F29%2Fd0%2F2029d0839e2848cd92b0ec54b03a7a0d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8bda80f2-f2b1-4244-a55b-c4b559fe4a0e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5388"
 }

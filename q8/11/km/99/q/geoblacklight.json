@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : Chez l'auteur dans l'Isle du Palais à la Sphere Royale, 1705.",
   "dc_subject_sm": [
-    "Paris (France)—Maps—Early works to 1800"
+    "Paris (France)—Maps—Early works to 1800",
+    "Maps—France—Paris—1705",
+    "City maps—France—Paris—1705"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:52Z",
+  "solr_year_i": 1705,
+  "layer_modified_dt": "2020-06-23T19:46:00Z",
   "layer_id_s": "public-figgy:p-769cc23c-084e-4f7b-a901-67bc15727b56",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6001940\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/769cc23c-084e-4f7b-a901-67bc15727b56/file/17a85c16-f7f6-44f9-a23a-02064571e6a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/769cc23c-084e-4f7b-a901-67bc15727b56/file/6eeb4b51-acfa-4511-9cb5-b5660add726f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0b%2Fe7%2F67%2F0be767f23c24426996f97cf0a49afeb8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c405f069-fd4e-4f68-933b-37e22a814fd2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6001940\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/769cc23c-084e-4f7b-a901-67bc15727b56/file/17a85c16-f7f6-44f9-a23a-02064571e6a3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/769cc23c-084e-4f7b-a901-67bc15727b56/file/6eeb4b51-acfa-4511-9cb5-b5660add726f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/44%2Ff4%2F36%2F44f4360b18a14ec4a56e41b5334de30d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c405f069-fd4e-4f68-933b-37e22a814fd2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3485"
 }

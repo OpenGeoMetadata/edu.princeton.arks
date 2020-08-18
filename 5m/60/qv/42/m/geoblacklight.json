@@ -15,16 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.] : Dept. of State, 1935 ([Baltimore] : A. Hoen & Co.)",
   "dc_subject_sm": [
     "Mexico—Maps",
-    "West (U.S.)—Maps"
+    "West (U.S.)—Maps",
+    "Historical maps—Mexico"
   ],
   "dct_spatial_sm": [
     "Mexico",
     "West (U.S.)"
   ],
-  "layer_modified_dt": "2019-06-04T19:30:45Z",
+  "solr_year_i": 1935,
+  "layer_modified_dt": "2020-06-22T22:23:31Z",
   "layer_id_s": "public-figgy:p-f03d04bc-9675-4403-8595-b590490a38a3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7897893\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f03d04bc-9675-4403-8595-b590490a38a3/file/d9314266-3bd3-4381-9e36-0122f52306df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f03d04bc-9675-4403-8595-b590490a38a3/file/d572db1b-9af5-4ded-b1ba-5ae2005b625a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/50%2F8b%2Ff3%2F508bf345cdbf49f485941f4eccfccdc8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/981e0aa9-ec32-4db1-9965-1d93bd39b60f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7897893\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f03d04bc-9675-4403-8595-b590490a38a3/file/d9314266-3bd3-4381-9e36-0122f52306df\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f03d04bc-9675-4403-8595-b590490a38a3/file/8fcce07a-1c37-4993-9cd8-fd993aea2b59\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a6%2F32%2F49%2Fa63249e92cdb497b89789f67b919eb1f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/981e0aa9-ec32-4db1-9965-1d93bd39b60f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2136"
 }

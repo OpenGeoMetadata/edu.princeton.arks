@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : Chez Delamarche, Géog., Rue du Foin St. Jacques, au Collège de Mtre. Gervais, [1797]",
   "dc_subject_sm": [
-    "Paris (France)—Maps—Early works to 1800"
+    "Paris (France)—Maps—Early works to 1800",
+    "Maps—France—Paris—1799",
+    "City maps—France—Paris—1799"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:13Z",
+  "solr_year_i": 1797,
+  "layer_modified_dt": "2020-06-24T03:51:03Z",
   "layer_id_s": "public-figgy:p-529a11c2-8d9f-40ec-909d-0f75c266f860",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6075539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/529a11c2-8d9f-40ec-909d-0f75c266f860/file/c0bf12f2-8b6b-4b44-b499-6a02108a9685\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/529a11c2-8d9f-40ec-909d-0f75c266f860/file/635978eb-e5a1-450c-97b4-ec3c4cf3b710\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/42%2Fc7%2Fda%2F42c7da016b8e45b28cc5574e347e248a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ff20f93-9cd5-4860-a508-a2d2fee8bfcb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6075539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/529a11c2-8d9f-40ec-909d-0f75c266f860/file/c0bf12f2-8b6b-4b44-b499-6a02108a9685\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/529a11c2-8d9f-40ec-909d-0f75c266f860/file/635978eb-e5a1-450c-97b4-ec3c4cf3b710\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a7%2Fb4%2F0a%2Fa7b40a8468874a1987e226483ab3e9bc%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3ff20f93-9cd5-4860-a508-a2d2fee8bfcb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3023"
 }

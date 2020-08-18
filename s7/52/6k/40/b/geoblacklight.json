@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/s7526k40b",
+  "layer_slug_s": "princeton-s7526k40b",
+  "uuid": "princeton-s7526k40b",
+  "dc_title_s": "Costa Rica migration data from 2011 census",
+  "solr_geom": "ENVELOPE(-85.979069, -82.552319, 11.219758, 8.039627)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Costa Rica from the 2011 census. This census is provided at the district administrative level (ADM3) and includes 472 polygons with 719 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Estado Civil: Unión Libre o Juntadoa” was updated to D001 and given the alias “Marital Status: Free Union[Estado Civil: Unión Libre o Juntadoa]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_spatial_sm": [
+    "Costa Rica",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2019"
+  ],
+  "solr_year_i": 2011,
+  "layer_modified_dt": "2020-05-20T22:22:47Z",
+  "layer_id_s": "restricted-figgy:p-9487ca5b-56ad-45e8-aa1e-ae966b12cb1d",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/fdfd626d-a193-44ff-907e-bab802148b29/file/7a2b63ec-989f-4444-90dd-e87b5e2ee373\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9487ca5b-56ad-45e8-aa1e-ae966b12cb1d/file/aff619de-03b6-475d-82d0-acf095e083e5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9487ca5b-56ad-45e8-aa1e-ae966b12cb1d/file/21fefdb3-ef61-4af2-ae96-8b5ff2bed7a3\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

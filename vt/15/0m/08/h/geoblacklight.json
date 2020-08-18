@@ -17,7 +17,11 @@
     "Africa—Maps",
     "Liberia—Maps",
     "South Africa—Maps",
-    "Suez (Egypt)—Maps"
+    "Suez (Egypt)—Maps",
+    "Maps—Africa—1855",
+    "Maps—Liberia—1855",
+    "Maps—South Africa—1855",
+    "Maps—Egypt—Suez—1855"
   ],
   "dct_spatial_sm": [
     "Africa",
@@ -25,10 +29,12 @@
     "South Africa",
     "Suez Canal (Egypt)"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:25Z",
+  "solr_year_i": 1855,
+  "layer_modified_dt": "2020-06-24T03:00:42Z",
   "layer_id_s": "public-figgy:p-c69f4527-d78a-459c-9a04-a4d0728b23b0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4584667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/20d8b7f1-440d-43bd-aeda-d2b61efcae59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/61e04a57-3bce-4b27-86bd-fba5bd13714b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/21%2F08%2Fcf%2F2108cfc42b2d4bfe992c5652230925f9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7807f8de-e99e-4f8e-bbe2-4278ced65ea8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4584667\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/20d8b7f1-440d-43bd-aeda-d2b61efcae59\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c69f4527-d78a-459c-9a04-a4d0728b23b0/file/61e04a57-3bce-4b27-86bd-fba5bd13714b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/dd%2F2b%2Fc0%2Fdd2bc069fcd74ddb852e2e642319cdef%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7807f8de-e99e-4f8e-bbe2-4278ced65ea8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.212"
 }

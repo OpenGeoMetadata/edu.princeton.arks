@@ -18,7 +18,8 @@
     "Yining Zhou (China)—Maps",
     "Xinjiang Uygur Zizhiqu (China)—Maps",
     "Kyrgyzstan—Maps",
-    "Almaty oblysy (Kazakhstan)—Maps"
+    "Almaty oblysy (Kazakhstan)—Maps",
+    "Physical maps"
   ],
   "dct_spatial_sm": [
     "Asia, Central",
@@ -26,10 +27,12 @@
     "Kyrgyzstan",
     "Kazakhstan"
   ],
-  "layer_modified_dt": "2019-06-04T17:07:08Z",
+  "solr_year_i": 1880,
+  "layer_modified_dt": "2020-06-23T16:42:22Z",
   "layer_id_s": "public-figgy:p-c6d071aa-05ca-405e-a90e-f5f49d8bf73a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8115091\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6d071aa-05ca-405e-a90e-f5f49d8bf73a/file/0ca53fca-4171-45de-8878-97ad6c0d78eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6d071aa-05ca-405e-a90e-f5f49d8bf73a/file/0ccbbd80-1c52-4ec6-b353-bc43b7fdadb3\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d5%2F52%2Ffc%2Fd552fc584d044f5c8e4e8e0dab109e0c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6006c6e-331b-47d7-aff1-46a9b074de5e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8115091\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c6d071aa-05ca-405e-a90e-f5f49d8bf73a/file/0ca53fca-4171-45de-8878-97ad6c0d78eb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c6d071aa-05ca-405e-a90e-f5f49d8bf73a/file/0ccbbd80-1c52-4ec6-b353-bc43b7fdadb3\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/88%2Ffb%2F88%2F88fb888939924692a2cfa9a7e232fa03%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e6006c6e-331b-47d7-aff1-46a9b074de5e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7406.C1 1880 .R6"
 }

@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris] : Fonderie et imprimerie de J. Carez, [1825]",
   "dc_subject_sm": [
-    "New Jersey—Historical geography—Maps"
+    "New Jersey—Historical geography—Maps",
+    "Maps—New Jersey—1825",
+    "State maps—New Jersey—1825"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:29Z",
+  "solr_year_i": 1825,
+  "layer_modified_dt": "2020-06-23T19:58:53Z",
   "layer_id_s": "public-figgy:p-726a1b2a-7ee8-4984-9e3d-1db06f9a9d21",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/726a1b2a-7ee8-4984-9e3d-1db06f9a9d21/file/5c36c407-29c2-477b-b1d7-b623b1a901c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/726a1b2a-7ee8-4984-9e3d-1db06f9a9d21/file/ef606812-0db6-4caa-bae9-0768aeebe4cd\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f0%2Ff9%2Fe9%2Ff0f9e9b218564b4ebd003130ea694eba%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d84cf770-03fa-4d64-ac31-6f3cb62e3990/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/726a1b2a-7ee8-4984-9e3d-1db06f9a9d21/file/5c36c407-29c2-477b-b1d7-b623b1a901c1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/726a1b2a-7ee8-4984-9e3d-1db06f9a9d21/file/ef606812-0db6-4caa-bae9-0768aeebe4cd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/8d%2F3b%2Fae%2F8d3bae917fb841329070ee5ade1be617%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d84cf770-03fa-4d64-ac31-6f3cb62e3990/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1816"
 }

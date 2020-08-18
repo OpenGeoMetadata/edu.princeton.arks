@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : Publié par A. Bernard, éditeur, 1, rue des Grds. Augustins, [1858]",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1858",
+    "City maps—France—Paris—1858"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T17:26:48Z",
+  "solr_year_i": 1858,
+  "layer_modified_dt": "2020-06-24T03:04:10Z",
   "layer_id_s": "public-figgy:p-6ba708a3-cac4-4072-9099-01feda8a93c2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6127907\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ba708a3-cac4-4072-9099-01feda8a93c2/file/57df4252-dee8-4526-a288-a86a7abe3289\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ba708a3-cac4-4072-9099-01feda8a93c2/file/c515c5ff-d18c-449a-9f21-6edeed55ebd1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/64%2F18%2F4a%2F64184a8297fc4148b48b03245e3635b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1477795e-c9e5-4922-b87e-b5a29ab6bc10/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6127907\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ba708a3-cac4-4072-9099-01feda8a93c2/file/57df4252-dee8-4526-a288-a86a7abe3289\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ba708a3-cac4-4072-9099-01feda8a93c2/file/c515c5ff-d18c-449a-9f21-6edeed55ebd1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/73%2F5c%2F6a%2F735c6abe4b6d4df79a2ba6185ffea28c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1477795e-c9e5-4922-b87e-b5a29ab6bc10/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4495"
 }

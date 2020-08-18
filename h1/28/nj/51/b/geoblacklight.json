@@ -4,19 +4,28 @@
   "layer_slug_s": "princeton-h128nj51b",
   "uuid": "princeton-h128nj51b",
   "dc_title_s": "Downtown Shanghai",
-  "solr_geom": "ENVELOPE(121.337222, 121.444722, 31.255833, 31.218611)",
+  "solr_geom": "ENVELOPE(121.455391, 121.517382, 31.26283, 31.210499)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "[United States. Central Intelligence Agency]. Map no.: 50544 11-80.",
+  "dc_description_s": "[United States. Central Intelligence Agency]. Map no.: \"50544 11-80\".",
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1980.",
   "dc_subject_sm": [
+    "Central business districts—China—Shanghai—Maps",
     "Shanghai (China)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:31Z",
+  "dct_spatial_sm": [
+    "Shanghai (China)"
+  ],
+  "solr_year_i": 1980,
+  "layer_modified_dt": "2020-06-24T10:30:53Z",
   "layer_id_s": "public-figgy:p-2c9366ee-af53-4dbe-928e-3dcdea0b1151",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c9366ee-af53-4dbe-928e-3dcdea0b1151/file/b60633b1-9e5e-429e-a129-942e62c2bb5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c9366ee-af53-4dbe-928e-3dcdea0b1151/file/f620f9cb-bd1c-4384-8d88-4f1bc44d93bc\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/1f%2Fe9%2Fdf%2F1fe9df97f7b94ce78f69ebac47ab6a15%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68be6ecf-ffcd-4b3e-970c-beb3a84d93e3/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c9366ee-af53-4dbe-928e-3dcdea0b1151/file/b60633b1-9e5e-429e-a129-942e62c2bb5e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c9366ee-af53-4dbe-928e-3dcdea0b1151/file/f620f9cb-bd1c-4384-8d88-4f1bc44d93bc\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/5c%2F3a%2F73%2F5c3a73790fa4406ea57872e30e6a5ed5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/68be6ecf-ffcd-4b3e-970c-beb3a84d93e3/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7824.S2A15 1980 .C4I5"
 }

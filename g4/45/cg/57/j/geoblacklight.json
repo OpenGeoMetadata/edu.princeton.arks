@@ -9,6 +9,7 @@
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially and by hachures; depths shown by soundings. \"Communicated for the Manual by George H. Moore, Librarian of the New-York Historical Society.\" \"Copied from the original by G. Hayward, 171 Pearl St., N.Y. for D.T. Valentine's Manual, 1864.\" Shows Hudson River from Haverstraw Bay to Sandy Hook with positions and movements of troops and vessels during the New York campaign of 1776. Table of references identifies primary features and events of the campaign.",
   "dc_creator_sm": [
+    "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1729-1824",
     "Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824"
   ],
   "dc_language_s": "eng",
@@ -18,15 +19,19 @@
     "Howe, William Howe, Viscount, 1729-1814",
     "New York Harbor (N.Y. and N.J.)—Maps—Facsimiles",
     "Hudson River (N.Y. and N.J.)—Maps—Facsimiles",
-    "United States—History—Revolution, 1775-1783—Maps—Facsimiles"
+    "United States—History—Revolution, 1775-1783—Maps—Facsimiles",
+    "Historical maps—Hudson River (N.Y. and N.J.).",
+    "Historical maps—New York (State)—New York"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T17:26:59Z",
+  "solr_year_i": 1864,
+  "layer_modified_dt": "2020-06-22T23:05:17Z",
   "layer_id_s": "public-figgy:p-6ec2b834-8ff9-409d-bd4c-fe0eba1f3b6c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6352659\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ec2b834-8ff9-409d-bd4c-fe0eba1f3b6c/file/2a415a6a-64c1-40cd-bca3-6c2c07da2595\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ec2b834-8ff9-409d-bd4c-fe0eba1f3b6c/file/3e6f2296-ef37-4fca-a2fa-d3c33b8c38b1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/87%2Fd2%2F8f%2F87d28fe1a5f04bdb8dc89f1788be8de0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/265363b4-9aa6-4bbd-88db-460c7aef84ab/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6352659\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ec2b834-8ff9-409d-bd4c-fe0eba1f3b6c/file/2a415a6a-64c1-40cd-bca3-6c2c07da2595\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ec2b834-8ff9-409d-bd4c-fe0eba1f3b6c/file/3e6f2296-ef37-4fca-a2fa-d3c33b8c38b1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2e%2F97%2Fb1%2F2e97b19dcf9a40a3b71b64961d9e74c8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/265363b4-9aa6-4bbd-88db-460c7aef84ab/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6640"
 }

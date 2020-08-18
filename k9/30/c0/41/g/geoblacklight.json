@@ -19,7 +19,12 @@
     "North Pacific Ocean—Maps—Early works to 1800",
     "North America—Maps—Early works to 1800",
     "Pacific Coast (North America)—Maps—Early works to 1800",
-    "Siberia (Russia)—Maps—Early works to 1800"
+    "Siberia (Russia)—Maps—Early works to 1800",
+    "Maps—Alaska—1784",
+    "Maps—Bering Sea—1784",
+    "Maps—Russia—Siberia—1784",
+    "Maps—North Pacific Ocean—1784",
+    "Maps—North America—1784"
   ],
   "dct_spatial_sm": [
     "Alaska",
@@ -27,10 +32,12 @@
     "Siberia (Russia)",
     "North America"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:32Z",
+  "solr_year_i": 1784,
+  "layer_modified_dt": "2020-06-23T19:57:57Z",
   "layer_id_s": "public-figgy:p-9fff946d-0e90-40e5-aef7-786eceff436d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5705751\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fff946d-0e90-40e5-aef7-786eceff436d/file/1b208eb2-b4e4-4975-bbee-2096c6580ae7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fff946d-0e90-40e5-aef7-786eceff436d/file/25505da6-9ff7-450a-a841-1ec013015662\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/77%2F4b%2Fca%2F774bca61eb194a71a001acc0d610c150%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e039e706-d577-4208-bb05-cf39cb1e8260/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5705751\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9fff946d-0e90-40e5-aef7-786eceff436d/file/1b208eb2-b4e4-4975-bbee-2096c6580ae7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9fff946d-0e90-40e5-aef7-786eceff436d/file/25505da6-9ff7-450a-a841-1ec013015662\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/04%2F1f%2F5a%2F041f5a63e5b9424c8f5adfa1ec639767%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e039e706-d577-4208-bb05-cf39cb1e8260/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.382"
 }

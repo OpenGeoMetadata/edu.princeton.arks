@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Trenton, N.J. : State of New Jersey], 1896.",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1896",
+    "Relief maps—New Jersey—1896"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:14:56Z",
+  "solr_year_i": 1896,
+  "layer_modified_dt": "2020-06-24T10:45:45Z",
   "layer_id_s": "public-figgy:p-6bb8fd4f-6a81-403b-84c3-8ec022e30021",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/437f5655-924a-42bf-a32c-f552ea9ebb1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/adb2db40-5ab4-417f-8097-15eaf791b93e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/47%2Fdb%2F94%2F47db946e3355433f91dfbda2777611b8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4b438e7-03cf-4550-94f4-1494db844bfe/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5596570\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/437f5655-924a-42bf-a32c-f552ea9ebb1b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6bb8fd4f-6a81-403b-84c3-8ec022e30021/file/adb2db40-5ab4-417f-8097-15eaf791b93e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/1d%2F54%2F93%2F1d54938f8f774235af0745c406fd7782%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4b438e7-03cf-4550-94f4-1494db844bfe/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1678"
 }

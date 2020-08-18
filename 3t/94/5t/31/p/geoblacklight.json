@@ -23,7 +23,17 @@
     "South America—Maps",
     "Mexico—Maps",
     "United States—Maps",
-    "West Indies—Maps"
+    "West Indies—Maps",
+    "Maps—Central America—1824",
+    "Maps—Mexico—1824",
+    "Maps—South America—1824",
+    "Maps—United States—1824",
+    "Maps—West Indies—1824",
+    "Nautical charts—Central America—1824",
+    "Nautical charts—Mexico—1824",
+    "Nautical charts—South America—1824",
+    "Nautical charts—United States—1824",
+    "Nautical charts—West Indies—1824"
   ],
   "dct_spatial_sm": [
     "South America",
@@ -32,10 +42,12 @@
     "United States",
     "West Indies"
   ],
-  "layer_modified_dt": "2019-06-04T18:12:37Z",
+  "solr_year_i": 1824,
+  "layer_modified_dt": "2020-06-24T03:52:23Z",
   "layer_id_s": "public-figgy:p-d3e922d7-a92c-43f9-b000-758fd8a0855f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7680892\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/f3d8ff81-ca2b-4832-8f63-15d02818153a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/7cbfce4d-3a11-4f3a-8019-ed754755a236\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/80%2F53%2F9b%2F80539ba8806e4be78aae2a9ad47e555c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2faee1eb-174e-4f21-9edc-243e7904b7f9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7680892\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/f3d8ff81-ca2b-4832-8f63-15d02818153a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d3e922d7-a92c-43f9-b000-758fd8a0855f/file/7cbfce4d-3a11-4f3a-8019-ed754755a236\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7f%2F25%2F6f%2F7f256f29679a4348ac2a474c794d3453%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2faee1eb-174e-4f21-9edc-243e7904b7f9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7000"
 }

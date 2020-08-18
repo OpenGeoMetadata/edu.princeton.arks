@@ -6,7 +6,7 @@
   "dc_title_s": "Pleasantville, Atlantic County, New Jersey (Sheet 22)",
   "solr_geom": "ENVELOPE(-74.551, -74.486, 39.42, 39.364)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Sept. 1924.\" \"1792.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Pleasantville—Maps",
-    "Pleasantville (N.J.)—Maps"
+    "Pleasantville (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Pleasantville—1924",
+    "Maps—New Jersey—Pleasantville—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:40:41Z",
-  "layer_id_s": "restricted-figgy:p-31452c37-3fee-44c7-b81c-bf9216c88e05",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5220235\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31452c37-3fee-44c7-b81c-bf9216c88e05/file/936889b6-5e43-4d21-a879-c20d5529a979\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:08:11Z",
+  "layer_id_s": "public-figgy:p-31452c37-3fee-44c7-b81c-bf9216c88e05",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5220235\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/31452c37-3fee-44c7-b81c-bf9216c88e05/file/0bd189d2-e582-4acc-a08f-adc1b534b26d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/31452c37-3fee-44c7-b81c-bf9216c88e05/file/fcddc2bb-d15c-4699-a967-6be98275de65\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/10%2F80%2Fc5%2F1080c5cee82c4fd2aa779db715323aa9%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/553ca867-5c6d-4267-9f3d-22d8da5e6177/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

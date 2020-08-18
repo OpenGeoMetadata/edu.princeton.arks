@@ -17,7 +17,9 @@
     "Harbors—Atlantic Coast (North America)—Maps",
     "Harbors—New York (State)—New York Metropolitan Area—Maps",
     "New York Harbor (N.Y. and N.J.)—Maps",
-    "Harbors—Caribbean Area—Maps"
+    "Harbors—Caribbean Area—Maps",
+    "Maps—Atlantic Coast (North America)—1745",
+    "Maps—Caribbean Area—1745"
   ],
   "dct_spatial_sm": [
     "North America",
@@ -25,9 +27,10 @@
     "New Jersey",
     "Caribbean Area; Caribbean Sea"
   ],
-  "layer_modified_dt": "2019-06-04T18:35:26Z",
+  "solr_year_i": 1745,
+  "layer_modified_dt": "2020-06-23T16:16:55Z",
   "layer_id_s": "public-figgy:p-0d162bc5-c5c6-4c8c-b8b6-9850b06550c9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5171841\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/0e499603-51ca-450c-8d49-50063b553cce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/a13c534c-2142-4efb-88c5-ea5defbc39e0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/df%2Fb5%2F4b%2Fdfb54bccc7d440ef9f0238506fef5d75%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77925c91-6b8f-476b-8cf9-58572091d1e2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5171841\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/0e499603-51ca-450c-8d49-50063b553cce\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d162bc5-c5c6-4c8c-b8b6-9850b06550c9/file/a13c534c-2142-4efb-88c5-ea5defbc39e0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c4%2Ff7%2Fe9%2Fc4f7e9da84ff4ed0bda93eff5f56c383%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/77925c91-6b8f-476b-8cf9-58572091d1e2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

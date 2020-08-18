@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854] (Edinburgh : Schenck & McFarlane)",
   "dc_subject_sm": [
-    "France—Maps"
+    "France—Maps",
+    "Maps—France—1854"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T19:25:56Z",
+  "solr_year_i": 1854,
+  "layer_modified_dt": "2020-06-22T22:40:01Z",
   "layer_id_s": "public-figgy:p-08af0252-6726-423c-af74-9d2094165d9a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7140165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08af0252-6726-423c-af74-9d2094165d9a/file/44c85055-8f9b-448d-99d6-0afc021a209c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08af0252-6726-423c-af74-9d2094165d9a/file/48349c59-0007-4d50-93bd-0f72eb58619d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/57%2F3b%2Fca%2F573bca8cd2974a408ae75d4929cd5d67%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c69354e9-c1b3-40c3-adfd-631321c684ee/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7140165\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/08af0252-6726-423c-af74-9d2094165d9a/file/44c85055-8f9b-448d-99d6-0afc021a209c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/08af0252-6726-423c-af74-9d2094165d9a/file/27ea2f77-3adb-46ce-a01f-c8cfb3e9fb9b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/8f%2F15%2Ff5%2F8f15f50bcf9242608906f271f031bf13%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c69354e9-c1b3-40c3-adfd-631321c684ee/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4275"
 }

@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "London : China Inland Mission, Newington Green, N., 1911.",
   "dc_subject_sm": [
-    "China—Religion—Maps"
+    "China—Religion—Maps",
+    "Maps—China—1911",
+    "Thematic maps—China—1911"
   ],
   "dct_spatial_sm": [
     "China"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:19Z",
+  "solr_year_i": 1911,
+  "layer_modified_dt": "2020-06-23T16:38:43Z",
   "layer_id_s": "public-figgy:p-5d500b21-f68b-42b4-88ca-89a2b47dad5d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7711439\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d500b21-f68b-42b4-88ca-89a2b47dad5d/file/689a7048-6e85-4632-9c4d-37c988e493ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d500b21-f68b-42b4-88ca-89a2b47dad5d/file/550c4137-870d-4a2f-add4-5b5d2521ce30\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/14%2Fc9%2F31%2F14c93100845549b1a64f5830ff1348b4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f580a5d4-9800-4351-92b5-a712158af83d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7711439\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5d500b21-f68b-42b4-88ca-89a2b47dad5d/file/689a7048-6e85-4632-9c4d-37c988e493ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5d500b21-f68b-42b4-88ca-89a2b47dad5d/file/550c4137-870d-4a2f-add4-5b5d2521ce30\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4e%2F94%2Ff8%2F4e94f80afa80492b843a10402646fbc6%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f580a5d4-9800-4351-92b5-a712158af83d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.832"
 }

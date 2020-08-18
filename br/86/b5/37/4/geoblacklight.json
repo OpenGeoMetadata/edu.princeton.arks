@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Newark, N.J.] : Geological Survey of New Jersey, 1868.",
   "dc_subject_sm": [
-    "Geology—New Jersey—Maps"
+    "Geology—New Jersey—Maps",
+    "Geological maps"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:25:20Z",
+  "solr_year_i": 1868,
+  "layer_modified_dt": "2020-06-22T23:08:45Z",
   "layer_id_s": "public-figgy:p-8dca84b8-052f-48f5-a1fe-7c1b1a30133b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/23f21535-283f-4cf3-9dc0-aa83c26c688a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/70885798-6ec7-4b24-8f18-2bf75da589e7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/20%2F08%2F5f%2F20085f968bb44fbfa8c164b153b16dc4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7d92294-a155-46e1-8ae0-8bf4ab68a2b5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820534\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/23f21535-283f-4cf3-9dc0-aa83c26c688a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8dca84b8-052f-48f5-a1fe-7c1b1a30133b/file/70885798-6ec7-4b24-8f18-2bf75da589e7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3b%2Faf%2Fc0%2F3bafc02b2066431e91aeafb394782a67%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7d92294-a155-46e1-8ae0-8bf4ab68a2b5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G3811.C5 1868 .N4J4"
 }

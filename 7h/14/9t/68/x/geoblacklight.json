@@ -3,20 +3,29 @@
   "dc_identifier_s": "ark:/88435/7h149t68x",
   "layer_slug_s": "princeton-7h149t68x",
   "uuid": "princeton-7h149t68x",
-  "dc_title_s": "Sketch Plan of Chongju (Seishu)",
-  "solr_geom": "ENVELOPE(127.46666666666667, 127.48333333333333, 36.65, 36.63333333333333)",
+  "dc_title_s": "Sketch plan of Chŏngju (Seishū) / Research and Analysis Branch ; Interim Research and Intelligence Service..",
+  "solr_geom": "ENVELOPE(127.466667, 127.483333, 36.65, 36.633333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. Department of the State. Interim Research and Intelligence Service. Research and Analysis Branch. In lower left margin: \"No. 3634 - R&A, IRIS, 29 December 1945\".",
-  "dc_language_s": "eng",
-  "dc_publisher_s": "[Washington, D.C.] : Dept. of State, Interim Research and Intelligence Service, Research and Analysis Branch, 1945.",
-  "dc_subject_sm": [
-    "North Korea—Maps"
+  "dc_description_s": "\"Data compiled prior to 1 August 1945. Date of information unknown.\" In lower left margin: \"No. 3634 - R&A, IRIS, 29 December 1945\". \"No. 3634.\" \"Free.\" \"Base map - 1918.\" Includes key to points of interest.",
+  "dc_creator_sm": [
+    "United States. Department of State. Interim Research and Intelligence Service. Research and Analysis Branch"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:28Z",
+  "dc_language_s": "eng",
+  "dc_publisher_s": "[Washington, D.C.] : Department of the State. Interim Research and Intelligence Service, Research and Analysis Branch, 1945.",
+  "dc_subject_sm": [
+    "Ch'ŏngju-si (Ch'ungch'ŏng-bukto, Korea)—Maps",
+    "Maps"
+  ],
+  "dct_spatial_sm": [
+    "Korea"
+  ],
+  "solr_year_i": 1945,
+  "layer_modified_dt": "2020-06-24T03:57:31Z",
   "layer_id_s": "public-figgy:p-9ea8a7b2-5caa-4ebc-974a-8bfad909b4e6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830553\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ea8a7b2-5caa-4ebc-974a-8bfad909b4e6/file/df88a198-135a-439a-9692-e64c4c68183e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ea8a7b2-5caa-4ebc-974a-8bfad909b4e6/file/aa8722cf-ac51-49e0-bdac-4b688b1ca756\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b1%2Fd0%2F04%2Fb1d0041c679b4885b85aef616909bdf9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2a4c1fd1-8cbd-4b95-98d8-b6485b3556ab/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830553\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ea8a7b2-5caa-4ebc-974a-8bfad909b4e6/file/df88a198-135a-439a-9692-e64c4c68183e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ea8a7b2-5caa-4ebc-974a-8bfad909b4e6/file/aa8722cf-ac51-49e0-bdac-4b688b1ca756\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cd%2F9f%2Fd1%2Fcd9fd11a4bee442faedfad8c5f0b1093%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/2a4c1fd1-8cbd-4b95-98d8-b6485b3556ab/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7904.C5483 1945 .O457"
+  "suppressed_b": false,
+  "call_number_s": "G7904.C5486 1945 .O457"
 }

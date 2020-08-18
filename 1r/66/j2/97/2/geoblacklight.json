@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : U.S. General Land Office, 1909.",
   "dc_subject_sm": [
-    "Idaho—Maps"
+    "Idaho—Maps",
+    "Maps—Idaho—1909"
   ],
   "dct_spatial_sm": [
     "Idaho"
   ],
-  "layer_modified_dt": "2019-06-04T17:28:43Z",
+  "solr_year_i": 1909,
+  "layer_modified_dt": "2020-06-22T23:02:21Z",
   "layer_id_s": "public-figgy:p-a3409e41-b282-49cd-890e-1ac6ab61b6c2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4598188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3409e41-b282-49cd-890e-1ac6ab61b6c2/file/614825f3-0e62-4e2c-9c37-ec6d70f9dca6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3409e41-b282-49cd-890e-1ac6ab61b6c2/file/dc213eb0-e7cf-4824-91b1-3e9faedaf513\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d3%2Fa8%2Fec%2Fd3a8ec6c8e1c400d91849ba7a7e1830d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/761f9b0a-c77c-408e-8706-644d66f1df06/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4598188\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a3409e41-b282-49cd-890e-1ac6ab61b6c2/file/614825f3-0e62-4e2c-9c37-ec6d70f9dca6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a3409e41-b282-49cd-890e-1ac6ab61b6c2/file/dc213eb0-e7cf-4824-91b1-3e9faedaf513\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/05%2Fa6%2Fb6%2F05a6b6b0804a45c4b2d071cb59852293%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/761f9b0a-c77c-408e-8706-644d66f1df06/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3639"
 }

@@ -6,7 +6,7 @@
   "dc_title_s": "Stewartsville, Warren County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-75.127804, -75.106089, 40.704989, 40.689957)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, specials index, and text. \"1690.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Stewartsville—Maps",
-    "Stewartsville (N.J.)—Maps"
+    "Stewartsville (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Stewartsville—1924",
+    "Maps—New Jersey—Stewartsville—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:08:11Z",
-  "layer_id_s": "restricted-figgy:p-4f27b82f-68fb-4256-8df8-8d7fe9aa000a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5652336\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f27b82f-68fb-4256-8df8-8d7fe9aa000a/file/4c47db1c-36af-4188-819f-1a5ec12aa283\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:43:43Z",
+  "layer_id_s": "public-figgy:p-4f27b82f-68fb-4256-8df8-8d7fe9aa000a",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5652336\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4f27b82f-68fb-4256-8df8-8d7fe9aa000a/file/cef748e1-768c-4cf3-a50d-61d70df6187d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4f27b82f-68fb-4256-8df8-8d7fe9aa000a/file/a0220d53-5f38-4ad6-ab9d-04f89f51ff2e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/56%2F10%2F51%2F561051b91ef740bc9c1b8a9337548948%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29d2d2b9-38f9-468b-8396-bf72d79d0f7d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

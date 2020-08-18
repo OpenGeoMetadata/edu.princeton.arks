@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/rr171z824",
   "layer_slug_s": "princeton-rr171z824",
   "uuid": "princeton-rr171z824",
-  "dc_title_s": "Insurance maps, Trenton, New Jersey : vol. 1[-2] (Sheet 144)",
+  "dc_title_s": "Insurance maps, Trenton, New Jersey : vol. 1[-2] (Sheet 144) (Sheet 144)",
   "solr_geom": "ENVELOPE(-74.75, -74.6, 40.25, 40.15)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -24,9 +24,10 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:36:22Z",
+  "solr_year_i": 1908,
+  "layer_modified_dt": "2020-06-23T15:09:00Z",
   "layer_id_s": "public-figgy:p-42f162e8-df6b-43ac-a254-51511cebce6f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4659635\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42f162e8-df6b-43ac-a254-51511cebce6f/file/bc510cc5-b6a6-4085-87c8-767a3e53d583\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42f162e8-df6b-43ac-a254-51511cebce6f/file/99751f50-1718-4987-a331-f07c66fac6ad\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/28%2F24%2F0d%2F28240d1ff5694812bb1d375712ede449%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f2025172-250c-40c8-a013-aab9e921db81/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4659635\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42f162e8-df6b-43ac-a254-51511cebce6f/file/bc510cc5-b6a6-4085-87c8-767a3e53d583\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42f162e8-df6b-43ac-a254-51511cebce6f/file/99751f50-1718-4987-a331-f07c66fac6ad\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/3b%2F8b%2Fc6%2F3b8bc6a09a6f4f1f96687252c35c58f3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f2025172-250c-40c8-a013-aab9e921db81/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

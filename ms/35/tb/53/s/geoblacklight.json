@@ -6,7 +6,7 @@
   "dc_title_s": "Vincentown, Burlington County, New Jersey (Sheet 4)",
   "solr_geom": "ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"May 1924.\" Includes location map, key, specials index, and text. \"1605.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Vincentown—Maps",
-    "Vincentown (N.J.)—Maps"
+    "Vincentown (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Vincentown—1924",
+    "Maps—New Jersey—Vincentown—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:37:09Z",
-  "layer_id_s": "restricted-figgy:p-53f09d38-594a-4784-bd6c-59385a8e8db6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5158393\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53f09d38-594a-4784-bd6c-59385a8e8db6/file/20b4beea-3885-4a9f-bfef-911cc24cf516\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:13:22Z",
+  "layer_id_s": "public-figgy:p-53f09d38-594a-4784-bd6c-59385a8e8db6",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5158393\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53f09d38-594a-4784-bd6c-59385a8e8db6/file/e354e82c-f848-4f71-bc4c-05564ed09138\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53f09d38-594a-4784-bd6c-59385a8e8db6/file/ed8290dc-e2e6-4cae-a3a8-0b8babd344b7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/0a%2F5d%2F9a%2F0a5d9a0702dd4e63a847eb047b9ba2a3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8aee016f-58c0-44d8-8ac3-0d2b5c51824a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Trenton] : The Survey, 1906.",
   "dc_subject_sm": [
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1906",
+    "State maps—New Jersey—1906"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:55Z",
+  "solr_year_i": 1906,
+  "layer_modified_dt": "2020-06-23T16:35:25Z",
   "layer_id_s": "public-figgy:p-2bbb825c-45a6-4c52-a35f-cd7f3171da77",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5611413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/b65ddcb9-a3cb-4a56-9f48-a6d1d16db4ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/3c8a29c5-a4f3-4a90-b3bd-dfb37f25a3c6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9a%2F76%2Faa%2F9a76aae61db14f53a55f45ed6114be18%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d8f7f2e-8203-4ef7-a26c-a91cea9153c7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5611413\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/b65ddcb9-a3cb-4a56-9f48-a6d1d16db4ef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2bbb825c-45a6-4c52-a35f-cd7f3171da77/file/3c8a29c5-a4f3-4a90-b3bd-dfb37f25a3c6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/53%2F6d%2Fce%2F536dce34b3974d6383ab6d9550774fa8%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7d8f7f2e-8203-4ef7-a26c-a91cea9153c7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1683"
 }

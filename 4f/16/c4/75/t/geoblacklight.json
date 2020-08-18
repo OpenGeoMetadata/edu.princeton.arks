@@ -15,16 +15,20 @@
   "dc_publisher_s": "Philadelphia, P.S. Duval, 1851.",
   "dc_subject_sm": [
     "United States—Boundaries—Mexico—Maps",
-    "Mexico—Boundaries—United States—Maps"
+    "Mexico—Boundaries—United States—Maps",
+    "Maps—West (U.S.)—1851",
+    "Maps—Mexico—1851"
   ],
   "dct_spatial_sm": [
     "Mexico",
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:30Z",
+  "solr_year_i": 1851,
+  "layer_modified_dt": "2020-06-24T03:51:48Z",
   "layer_id_s": "public-figgy:p-b4ead849-fd16-4dfc-a47a-dd8aa03ae163",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5415883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4ead849-fd16-4dfc-a47a-dd8aa03ae163/file/61eaf4cd-b0da-446c-9948-3f7aab77cbb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4ead849-fd16-4dfc-a47a-dd8aa03ae163/file/82855fca-8d1b-4362-b701-48974fad56b1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0b%2F2b%2F23%2F0b2b235f4ab44209b43f2edf0e4a2746%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cac79f7b-aab6-417e-ad67-8a1210cfd991/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5415883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b4ead849-fd16-4dfc-a47a-dd8aa03ae163/file/61eaf4cd-b0da-446c-9948-3f7aab77cbb7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b4ead849-fd16-4dfc-a47a-dd8aa03ae163/file/82855fca-8d1b-4362-b701-48974fad56b1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/93%2Ffc%2F91%2F93fc914e9b5c415da2f6b0904d58ac1b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cac79f7b-aab6-417e-ad67-8a1210cfd991/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6356"
 }

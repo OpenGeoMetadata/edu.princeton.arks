@@ -17,7 +17,11 @@
     "New England—Maps—Early works to 1800",
     "New Jersey—Maps—Early works to 1800",
     "Pennsylvania—Maps—Early works to 1800",
-    "New York (State)—Maps—Early works to 1800"
+    "New York (State)—Maps—Early works to 1800",
+    "Maps—New England—1748",
+    "Maps—New Jersey—1748",
+    "Maps—New York (State)—1748",
+    "Maps—Pennsylvania—1748"
   ],
   "dct_spatial_sm": [
     "Pennsylvania",
@@ -25,10 +29,12 @@
     "New York",
     "Middle Atlantic States"
   ],
-  "layer_modified_dt": "2019-06-04T18:06:45Z",
+  "solr_year_i": 1748,
+  "layer_modified_dt": "2020-06-23T19:23:01Z",
   "layer_id_s": "public-figgy:p-9ab58ba1-701e-4774-8284-2ddd8a25ebe8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5925569\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ab58ba1-701e-4774-8284-2ddd8a25ebe8/file/1609a3cb-60f6-48cb-8f37-b6bcde7a0ca6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ab58ba1-701e-4774-8284-2ddd8a25ebe8/file/94f020c0-09da-40a7-98bf-3bff96801c06\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/de%2F19%2F7a%2Fde197ac908914a7fb594eea57635a763%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31205384-e7ed-4295-a717-d0e83fff629a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5925569\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9ab58ba1-701e-4774-8284-2ddd8a25ebe8/file/1609a3cb-60f6-48cb-8f37-b6bcde7a0ca6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9ab58ba1-701e-4774-8284-2ddd8a25ebe8/file/94f020c0-09da-40a7-98bf-3bff96801c06\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/73%2F01%2F22%2F730122f27a2d4a448ed3fdbc3a604323%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/31205384-e7ed-4295-a717-d0e83fff629a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1306"
 }

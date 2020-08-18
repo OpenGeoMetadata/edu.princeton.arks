@@ -15,15 +15,19 @@
   "dc_publisher_s": "Philadelphia : H.S. Tanner, [1823]",
   "dc_subject_sm": [
     "Pennsylvania—Maps",
-    "New Jersey—Maps"
+    "New Jersey—Maps",
+    "Maps—New Jersey—1823",
+    "Maps—Pennsylvania—1823"
   ],
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:40Z",
+  "solr_year_i": 1823,
+  "layer_modified_dt": "2020-06-24T03:52:55Z",
   "layer_id_s": "public-figgy:p-b9b20a1c-e136-4f97-87ba-62534a11389e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7120223\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9b20a1c-e136-4f97-87ba-62534a11389e/file/6ca641b8-bcce-44ad-91e9-296edfe2d725\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9b20a1c-e136-4f97-87ba-62534a11389e/file/d6b6ffab-5f2a-4c16-9e77-1da00f057727\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5f%2F85%2Fdc%2F5f85dc71a5b6456c9718c39ff798c9ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/127f875c-d1ec-45b0-953b-9d04dcc6a8cd/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7120223\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b9b20a1c-e136-4f97-87ba-62534a11389e/file/6ca641b8-bcce-44ad-91e9-296edfe2d725\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b9b20a1c-e136-4f97-87ba-62534a11389e/file/d6b6ffab-5f2a-4c16-9e77-1da00f057727\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9c%2F13%2Fb6%2F9c13b6bc0dfb4bb0b5f2536e1353fdd7%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/127f875c-d1ec-45b0-953b-9d04dcc6a8cd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5851"
 }

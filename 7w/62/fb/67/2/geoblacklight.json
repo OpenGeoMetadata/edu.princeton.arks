@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/7w62fb672",
   "layer_slug_s": "princeton-7w62fb672",
   "uuid": "princeton-7w62fb672",
-  "dc_title_s": "A map of part of the continent of North America, from longitude [5°?] W. of Washington City to the Pacific and between latitude 35 and 52 North. Compiled from the information of the best informed travellers through that quarter of the globe [Sheet 1 of 4]",
+  "dc_title_s": "A map of part of the continent of North America, from longitude [5°?] W. of Washington City to the Pacific and between latitude 35 and 52 North. Compiled from the information of the best informed travellers through that quarter of the globe in which the Missouri Jefferson's Lewis's & the upper part of Clark's river and the lower part of the Columbia river is partially corrected by celestial observations from the junction of the Missouri and Mississippi to the entrance of the Columbia into the Pacific Ocean ... Shewing Lewis & Clark's rout over the Rocky Mountains in 1805 on their rout to the Pacific from the United States",
   "solr_geom": "ENVELOPE(-128.7, -82.4, 53.98, 33.98)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
@@ -16,16 +16,19 @@
   "dc_subject_sm": [
     "Lewis and Clark Expedition—Maps, Manuscript—Facsimiles",
     "West (U.S.)—Maps, Manuscript—Facsimiles",
-    "North America—Maps, Manuscript—Facsimiles"
+    "North America—Maps, Manuscript—Facsimiles",
+    "Historical maps—North America",
+    "Historical maps—West (U.S.)."
   ],
   "dct_spatial_sm": [
     "West (U.S.)",
     "North America"
   ],
-  "layer_modified_dt": "2019-06-04T17:24:09Z",
-  "layer_id_s": "public-figgy:p-da975bd0-80b0-4f46-a2fa-d31f59c81b98",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6818068\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da975bd0-80b0-4f46-a2fa-d31f59c81b98/file/cb196426-c6a9-4426-9a07-a38b19da8170\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da975bd0-80b0-4f46-a2fa-d31f59c81b98/file/3658c434-c43b-4862-a551-061270ca42ce\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7a%2F13%2F3b%2F7a133b1ea5cd4c78a30b1491f5fb7109%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b5c755df-5243-4a17-8d7a-2116384393bb/manifest\"}",
+  "solr_year_i": 1950,
+  "layer_modified_dt": "2020-06-23T15:10:46Z",
+  "layer_id_s": "ark:/88435/7w62fb672",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6818068\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cdc0c38-8ce8-44f6-961e-bef0a6a54540/file/1cb6394e-d616-44f7-bad3-6a0ed8f810b7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cd%2Ffb%2Ffd%2Fcdfbfd0d52404eaaa441aedbe598976f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cbe62c4f-13f3-4c26-a037-5428c2f13808/manifest\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6206"
 }

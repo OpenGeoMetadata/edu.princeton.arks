@@ -3,29 +3,33 @@
   "dc_identifier_s": "ark:/88435/5x21tk243",
   "layer_slug_s": "princeton-5x21tk243",
   "uuid": "princeton-5x21tk243",
-  "dc_title_s": "Peking 1:28 000, city 1:18 000 = Peking 1:28000, Innenstadt 1:18000 = Peking 1:28000, Centre 1:18000 = Peking 1:28000, Belvaros 1:18000",
+  "dc_title_s": "Peking = Beijing  1:28 000",
   "solr_geom": "ENVELOPE(116.25, 116.45, 39.966667, 39.866667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Primarily in English, with legend information in English, German, French, and Hungarian. Panel title. Alternate title: Peking (Beijing 1:28 000). Ancillary maps: City 1:18 000, Beijing municipal. Verso: Street index. Publisher's no. on title panel: 0779.",
+  "dc_description_s": "Panel title. Publisher's no. on title panel: \"0779.\" Verso: Street index.",
   "dc_creator_sm": [
     "Cartographia Kft"
   ],
-  "dc_language_s": "deu",
+  "dc_language_s": "eng",
   "dc_publisher_s": "Budapest : Cartographia Kft., 2002.",
   "dc_subject_sm": [
     "Beijing (China)—Maps",
     "Beijing Metropolitan Area (China)—Maps",
-    "Forbidden City (Beijing, China)—Maps"
+    "Central business districts—China—Beijing—Maps",
+    "Forbidden City (Beijing, China)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Beijing (China)",
     "China"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:12Z",
-  "layer_id_s": "restricted-figgy:p-e9a50e9a-7173-4da6-844f-8f373fbabffa",
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2020-06-24T03:57:24Z",
+  "layer_id_s": "e9a50e9a-7173-4da6-844f-8f373fbabffa",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449641\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9a50e9a-7173-4da6-844f-8f373fbabffa/file/b7587beb-2ed7-4572-ae4b-4a4ced407245\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.B4E635 2002 C3"
+  "suppressed_b": false,
+  "call_number_s": "G7824.B4E635 2002 .C3"
 }

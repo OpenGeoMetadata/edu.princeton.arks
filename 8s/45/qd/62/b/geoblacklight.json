@@ -3,25 +3,31 @@
   "dc_identifier_s": "ark:/88435/8s45qd62b",
   "layer_slug_s": "princeton-8s45qd62b",
   "uuid": "princeton-8s45qd62b",
-  "dc_title_s": "Marvejols - Saint Chely d'Apacher en Gevaudan",
-  "solr_geom": "ENVELOPE(3.266667, 3.3, 44.816667, 44.55)",
+  "dc_title_s": "Marvéjols, Saint Chély d'Apcher en Gevaudan",
+  "solr_geom": "ENVELOPE(3.2761805968, 3.2972734885, 44.5608469256, 44.5433597433)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Alternate title: Marvejols, Lozere; Saint-Chély d'Apcher, Lozere.Two maps in one sheet. Includes indexes and advertisements.e ditions P.P.P. Edite sous l'egide [des] municipalite[s].",
+  "dc_description_s": "Includes indexes and advertisements. Some sites are shown pictorially.",
   "dc_creator_sm": [
-    "Provence Paris publicite"
+    "Provence Paris publicité"
   ],
   "dc_language_s": "und",
-  "dc_publisher_s": "Les Angles [France] : Provence Paris publicite, 1968.",
+  "dc_publisher_s": "Les Angles [France] : Provence Paris publicité, 1968.",
   "dc_subject_sm": [
     "Tourist maps",
     "Pictorial maps",
-    "France—Maps"
+    "Marvejols (France)—Maps",
+    "Saint-Chély-d'Apcher (France)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:53:09Z",
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "solr_year_i": 1968,
+  "layer_modified_dt": "2020-06-24T10:52:14Z",
   "layer_id_s": "6cce28ac-3434-4fab-bfb5-5317633f2e31",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820086\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6cce28ac-3434-4fab-bfb5-5317633f2e31/file/c298652c-236b-4828-a151-9876bcfb7b92\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G5834.M422 E635 1968 .P7"
+  "suppressed_b": false,
+  "call_number_s": "G5834.M422E635 1968 .P7"
 }

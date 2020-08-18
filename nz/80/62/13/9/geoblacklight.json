@@ -17,17 +17,23 @@
     "Brazil—Maps",
     "Guiana—Maps",
     "Paraguay—Maps",
-    "Uruguay—Maps"
+    "Uruguay—Maps",
+    "Maps—Brazil—1854",
+    "Maps—Guiana—1854",
+    "Maps—Paraguay—1854",
+    "Maps—Uruguay—1854"
   ],
   "dct_spatial_sm": [
     "Uruguay",
     "Paraguay",
     "Guyana"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:07Z",
+  "solr_year_i": 1854,
+  "layer_modified_dt": "2020-06-22T22:34:52Z",
   "layer_id_s": "public-figgy:p-d51bb1c9-fce6-4e13-b3ab-25c789c2e332",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6595802\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d51bb1c9-fce6-4e13-b3ab-25c789c2e332/file/f1f00d5d-e00d-4353-a0c7-c77581b79775\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d51bb1c9-fce6-4e13-b3ab-25c789c2e332/file/a9c13bc1-1c42-4325-b1fa-e07d52f561a7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9f%2F08%2F37%2F9f083746eb344bd7813c2baf42523087%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd5644ac-fad0-49cd-9589-e4bae9694cf6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6595802\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d51bb1c9-fce6-4e13-b3ab-25c789c2e332/file/f1f00d5d-e00d-4353-a0c7-c77581b79775\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d51bb1c9-fce6-4e13-b3ab-25c789c2e332/file/b41e5e86-db47-4c4b-a5d4-14fda68bff21\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c6%2Fa3%2F62%2Fc6a36202dcec4638b6bb7ce306e7ff3f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/fd5644ac-fad0-49cd-9589-e4bae9694cf6/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6163"
 }

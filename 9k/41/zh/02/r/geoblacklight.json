@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C. : United States Coast Survey, 1850?]",
   "dc_subject_sm": [
-    "Nantucket Sound (Mass.)—Maps"
+    "Nantucket Sound (Mass.)—Maps",
+    "Maps—Massachusetts—Nantucker Sound—1850",
+    "Nautical charts—Massachusetts—Nantucket Sound—1850"
   ],
   "dct_spatial_sm": [
     "Massachusetts"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:38Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-06-23T16:37:22Z",
   "layer_id_s": "public-figgy:p-49d91837-9893-477a-aec1-735859d10d66",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7685387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49d91837-9893-477a-aec1-735859d10d66/file/906f5117-e8f3-4af9-9ea9-7f7c30f75f6f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49d91837-9893-477a-aec1-735859d10d66/file/0349d074-18d4-4470-bb0e-acbf03006b82\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ad%2F59%2F00%2Fad5900d3bab34e6ba3c75820f8ad6e10%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ece13559-dbd1-4b8c-8fbb-b3c9a4ea8829/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7685387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/49d91837-9893-477a-aec1-735859d10d66/file/906f5117-e8f3-4af9-9ea9-7f7c30f75f6f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/49d91837-9893-477a-aec1-735859d10d66/file/0349d074-18d4-4470-bb0e-acbf03006b82\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/90%2F6d%2F66%2F906d665d5731491ab2f12255ed220f19%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ece13559-dbd1-4b8c-8fbb-b3c9a4ea8829/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6971"
 }

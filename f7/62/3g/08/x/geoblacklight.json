@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-f7623g08x",
   "uuid": "princeton-f7623g08x",
   "dc_title_s": "The countie of Radnor described and the shyretownes sittuatione. Described by Christopher Saxon [sic], augmented and published by Iohn Speede ... Iodocus Hondius, caelavit. [Front]",
-  "solr_geom": "ENVELOPE(-3.2761628, -3.2361628, 52.4827049, 52.4427049)",
+  "solr_geom": "ENVELOPE(-3.632359, -3.06519, 52.495859, 52.004288)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Inset: Radnor. From: The theatre of the empire of Great Britaine ... / divided and described by John Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611.",
@@ -14,14 +14,17 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London], Solde in Popes head alley by Iohn Sudbury & George Humbell, 1610.",
   "dc_subject_sm": [
-    "Radnorshire (Wales)—Maps—Early works to 1800"
+    "Radnorshire (Wales)—Maps—Early works to 1800",
+    "County maps—Wales—Radnorshire—1610",
+    "Maps—Wales—Radnorshire—1610"
   ],
   "dct_spatial_sm": [
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T18:28:19Z",
+  "solr_year_i": 1610,
+  "layer_modified_dt": "2020-06-23T16:31:39Z",
   "layer_id_s": "public-figgy:p-bc708014-cfe4-48d1-9169-88b6d14b4e3b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7277524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc708014-cfe4-48d1-9169-88b6d14b4e3b/file/f38080ab-5dc0-43b0-8210-67b5c081d3e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc708014-cfe4-48d1-9169-88b6d14b4e3b/file/a92f9db7-eb30-4450-93b6-844e7b188715\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/bb%2F30%2F08%2Fbb3008ce198e47fe9a722607a6b88923%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e26e5d83-6574-458e-a16d-b58fa9eaf421/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7277524\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc708014-cfe4-48d1-9169-88b6d14b4e3b/file/f38080ab-5dc0-43b0-8210-67b5c081d3e0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc708014-cfe4-48d1-9169-88b6d14b4e3b/file/a92f9db7-eb30-4450-93b6-844e7b188715\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/72%2Fc6%2Fd1%2F72c6d1e512e54ad39720cf1c75c2b912%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e26e5d83-6574-458e-a16d-b58fa9eaf421/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

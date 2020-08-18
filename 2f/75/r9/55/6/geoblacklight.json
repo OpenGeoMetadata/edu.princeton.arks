@@ -6,7 +6,7 @@
   "dc_title_s": "Belford, Monmouth County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.095, -74.067, 40.439, 40.417)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"April 1924.\" Includes location map, key, specials index, and text. \"1590.\" North oriented toward upper right.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Belford—Maps",
-    "Belford (N.J.)—Maps"
+    "Belford (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Belford—1924",
+    "Maps—New Jersey—Belford—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:41:21Z",
-  "layer_id_s": "restricted-figgy:p-2c43cbf0-bf51-4b97-9d85-40b4afa92a52",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c43cbf0-bf51-4b97-9d85-40b4afa92a52/file/a9a2c361-0ea9-4b11-a981-e0c41f6a76fd\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:12:09Z",
+  "layer_id_s": "public-figgy:p-2c43cbf0-bf51-4b97-9d85-40b4afa92a52",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4794408\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2c43cbf0-bf51-4b97-9d85-40b4afa92a52/file/1df38225-9d8b-4329-acca-a1b3f548630f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2c43cbf0-bf51-4b97-9d85-40b4afa92a52/file/f29d5114-385f-4978-81dc-789e7f29650d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/cb%2F22%2F27%2Fcb2227f73e354cbca986e90acfcd3953%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/aa7c090d-a36a-47a9-bd6d-e2ffe37e1eb7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

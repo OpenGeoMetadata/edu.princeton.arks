@@ -15,15 +15,19 @@
   "dc_publisher_s": "London : Hydrographic Office of the Admiralty, 1848.",
   "dc_subject_sm": [
     "Nautical charts—Mexico—Yucatán Peninsula",
-    "Yucatán Peninsula—Maps"
+    "Yucatán Peninsula—Maps",
+    "Maps—Mexico—Yucatán Peninsula—1848",
+    "Nautical charts—Mexico—Yucatán Peninsula—1848"
   ],
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "layer_modified_dt": "2019-06-04T18:17:16Z",
+  "solr_year_i": 1848,
+  "layer_modified_dt": "2020-06-23T16:37:57Z",
   "layer_id_s": "public-figgy:p-53c459ac-f6d8-4eb9-b65d-acb52a8492d2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7944682\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53c459ac-f6d8-4eb9-b65d-acb52a8492d2/file/71c37646-f6e8-49f8-a64b-6ceecb2ed40b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53c459ac-f6d8-4eb9-b65d-acb52a8492d2/file/84d4aecc-ef4d-482a-a88b-41216825e56b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/42%2F51%2F27%2F425127d17a21417eb484353c44077dc9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/848d40ea-4b41-4c88-a4f7-238c750c845d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7944682\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/53c459ac-f6d8-4eb9-b65d-acb52a8492d2/file/71c37646-f6e8-49f8-a64b-6ceecb2ed40b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/53c459ac-f6d8-4eb9-b65d-acb52a8492d2/file/84d4aecc-ef4d-482a-a88b-41216825e56b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/73%2F1f%2F09%2F731f098e0e534ecd97e3e2fd3e1e68e5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/848d40ea-4b41-4c88-a4f7-238c750c845d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2139"
 }

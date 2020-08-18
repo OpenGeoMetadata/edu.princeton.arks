@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Philadelphia : Bradford & Inskeep ; Moses Thomas ; New York, Inskeep & Bradford, [1816]",
   "dc_subject_sm": [
-    "Chile—Maps"
+    "Chile—Maps",
+    "Maps—Chile—1816"
   ],
   "dct_spatial_sm": [
     "Chile"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:22Z",
+  "solr_year_i": 1816,
+  "layer_modified_dt": "2020-06-23T16:35:39Z",
   "layer_id_s": "public-figgy:p-c9479b71-244b-4a2a-8c7d-b7eda4fbc5e1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6591727\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9479b71-244b-4a2a-8c7d-b7eda4fbc5e1/file/1286b669-5c03-479d-8dd8-d32d2a087c1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9479b71-244b-4a2a-8c7d-b7eda4fbc5e1/file/fe2c9dc1-a6d1-46ea-8a24-7f4dcade73db\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/85%2Fe9%2Fd1%2F85e9d1daca4b4213a1e8a065826f9b2d%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d7ea5fd0-5d2e-4749-8c7d-f9a0ef745db1/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6591727\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c9479b71-244b-4a2a-8c7d-b7eda4fbc5e1/file/1286b669-5c03-479d-8dd8-d32d2a087c1d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c9479b71-244b-4a2a-8c7d-b7eda4fbc5e1/file/fe2c9dc1-a6d1-46ea-8a24-7f4dcade73db\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/85%2F4c%2F90%2F854c9042071c4efe8471989c9e6a48d6%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d7ea5fd0-5d2e-4749-8c7d-f9a0ef745db1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6112"
 }

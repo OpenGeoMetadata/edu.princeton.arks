@@ -9,6 +9,7 @@
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Prime meridians: Philadelphia and London. Dedication: To the Right Honourable, George Dunk Earl of Halifax ... Includes distance chart.",
   "dc_creator_sm": [
+    "Fry, Joshua, approximately 1700-1754",
     "Fry, Joshua, 1700 (ca.)-1754"
   ],
   "dc_language_s": "eng",
@@ -19,7 +20,13 @@
     "New Jersey—Maps—Early works to 1800",
     "North Carolina—Maps—Early works to 1800",
     "Pennsylvania—Maps—Early works to 1800",
-    "Virginia—Maps—Early works to 1800"
+    "Virginia—Maps—Early works to 1800",
+    "Maps—Maryland—1775",
+    "Maps—Middle Atlantic States—1775",
+    "Maps—New Jersey—1775",
+    "Maps—North Carolina—1775",
+    "Maps—Pennsylvania—1775",
+    "Maps—Virginia—1775"
   ],
   "dct_spatial_sm": [
     "Virginia",
@@ -29,9 +36,10 @@
     "Pennsylvania",
     "North Carolina"
   ],
-  "layer_modified_dt": "2019-06-04T17:55:57Z",
+  "solr_year_i": 1775,
+  "layer_modified_dt": "2020-06-23T14:56:20Z",
   "layer_id_s": "public-figgy:p-4462eac1-955e-49f0-a4d4-324c3b333a68",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7117887\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4462eac1-955e-49f0-a4d4-324c3b333a68/file/63ee2ac3-0c2f-457c-9dfa-fad1ba55e524\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4462eac1-955e-49f0-a4d4-324c3b333a68/file/4c4cf3aa-5634-424d-b2d2-3c22dc8ce1c6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/94%2F4c%2F50%2F944c50be7a2444328db05a303f979166%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ddef1bc6-f7d2-480c-bc60-afd91201ac93/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7117887\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4462eac1-955e-49f0-a4d4-324c3b333a68/file/63ee2ac3-0c2f-457c-9dfa-fad1ba55e524\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4462eac1-955e-49f0-a4d4-324c3b333a68/file/4c4cf3aa-5634-424d-b2d2-3c22dc8ce1c6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/69%2F74%2F38%2F6974380f73a546408d9e617c464e7c3b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ddef1bc6-f7d2-480c-bc60-afd91201ac93/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

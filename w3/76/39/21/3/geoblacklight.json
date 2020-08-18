@@ -15,16 +15,20 @@
   "dc_publisher_s": "Philad[elphi]a : Published by Dobson, [1818]",
   "dc_subject_sm": [
     "Colombia—Maps",
-    "Ecuador—Maps"
+    "Ecuador—Maps",
+    "Maps—Colombia—1818",
+    "Maps—Ecuador—1818"
   ],
   "dct_spatial_sm": [
     "Colombia",
     "Ecuador"
   ],
-  "layer_modified_dt": "2019-06-04T18:18:12Z",
+  "solr_year_i": 1818,
+  "layer_modified_dt": "2020-06-23T19:45:34Z",
   "layer_id_s": "public-figgy:p-7b23eb7b-1f13-45db-8e94-13e7937b9a05",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6556883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b23eb7b-1f13-45db-8e94-13e7937b9a05/file/db8fbb1e-969e-4f1c-a1ae-9eefcd4761f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b23eb7b-1f13-45db-8e94-13e7937b9a05/file/81064f3e-f1af-4806-a5b5-08d5c70ccd71\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/21%2F06%2F09%2F21060930a4a1487aae0e92a199a47d13%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05bdd5be-d0bf-49f8-b3b7-f32d700ace41/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6556883\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b23eb7b-1f13-45db-8e94-13e7937b9a05/file/db8fbb1e-969e-4f1c-a1ae-9eefcd4761f6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b23eb7b-1f13-45db-8e94-13e7937b9a05/file/81064f3e-f1af-4806-a5b5-08d5c70ccd71\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d1%2F20%2F6a%2Fd1206a683b5d45eaa9033e0206f606b2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/05bdd5be-d0bf-49f8-b3b7-f32d700ace41/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6078"
 }

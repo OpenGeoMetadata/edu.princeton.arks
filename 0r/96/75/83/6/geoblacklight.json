@@ -6,7 +6,7 @@
   "dc_title_s": "Carteret, formerly Roosevelt, Middlesex Co., New Jersey (Sheet 17)",
   "solr_geom": "ENVELOPE(-74.254701, -74.203688, 40.604074, 40.557452)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"May 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1635.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Carteret—Maps",
-    "Carteret (N.J.)—Maps"
+    "Carteret (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Carteret—1924",
+    "Maps—New Jersey—Carteret—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:36:35Z",
-  "layer_id_s": "restricted-figgy:p-556e80b6-274c-4b50-9f1f-2d40182d6a29",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5519405\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/556e80b6-274c-4b50-9f1f-2d40182d6a29/file/72121ab5-cf93-4841-a884-8267d228807d\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:58:57Z",
+  "layer_id_s": "public-figgy:p-556e80b6-274c-4b50-9f1f-2d40182d6a29",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5519405\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/556e80b6-274c-4b50-9f1f-2d40182d6a29/file/52220c6c-866c-43d2-9241-ac28fb8b5894\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/556e80b6-274c-4b50-9f1f-2d40182d6a29/file/979e2e64-3ae5-4339-b05b-1e70800e67bd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/62%2F8e%2F1c%2F628e1cbab9e842d58ad9961027902193%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be435805-0472-4022-a1dc-b2ec8c563fcf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

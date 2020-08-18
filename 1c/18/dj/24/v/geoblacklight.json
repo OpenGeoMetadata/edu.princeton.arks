@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Germany—Maps",
     "Austria—Maps",
-    "Europe, Central—Maps"
+    "Europe, Central—Maps",
+    "Maps—Austria—1865",
+    "Maps—Europe, Central—1865",
+    "Maps—Germany—1865"
   ],
   "dct_spatial_sm": [
     "Germany",
     "Austria",
     "Europe, Central"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:01Z",
+  "solr_year_i": 1865,
+  "layer_modified_dt": "2020-06-22T22:40:42Z",
   "layer_id_s": "public-figgy:p-9d28bb36-6132-42c5-8c2a-5849184099af",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7097018\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d28bb36-6132-42c5-8c2a-5849184099af/file/de53a2c9-c0c7-469e-a3fa-0833c354b989\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d28bb36-6132-42c5-8c2a-5849184099af/file/18327831-98ca-4124-b1b8-2434bddd0f86\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f6%2F11%2F78%2Ff611787ac22d494ebe8edcc4318c06fd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52caf8e1-65b1-4808-93f0-b4d47d4899bc/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7097018\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9d28bb36-6132-42c5-8c2a-5849184099af/file/de53a2c9-c0c7-469e-a3fa-0833c354b989\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9d28bb36-6132-42c5-8c2a-5849184099af/file/14c55c9e-1fba-4e58-a3d3-711f6bbdaff1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7f%2F30%2F23%2F7f3023fe3e4944a2b5c33f2265b765d5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/52caf8e1-65b1-4808-93f0-b4d47d4899bc/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.740"
 }

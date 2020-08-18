@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington : GPO, 1862]",
   "dc_subject_sm": [
     "Nevada—Surveys—Maps",
-    "Nevada—Maps"
+    "Nevada—Maps",
+    "Maps—Nevada—1862",
+    "State maps—Nevada—1862"
   ],
   "dct_spatial_sm": [
     "Nevada"
   ],
-  "layer_modified_dt": "2019-06-04T17:27:58Z",
+  "solr_year_i": 1862,
+  "layer_modified_dt": "2020-06-24T03:44:58Z",
   "layer_id_s": "public-figgy:p-311abb4b-2569-4f35-afdf-8ba37d6e7009",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4763251\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/311abb4b-2569-4f35-afdf-8ba37d6e7009/file/e5129c45-26c1-45ca-9864-204ce7926b7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/311abb4b-2569-4f35-afdf-8ba37d6e7009/file/4e689328-f453-43c8-a2f7-55f49dee4d71\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/85%2Fdb%2Ff9%2F85dbf92b319f473a98b8408274f5680b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/72e56eb9-03a4-4baa-8da2-e702e6071469/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4763251\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/311abb4b-2569-4f35-afdf-8ba37d6e7009/file/e5129c45-26c1-45ca-9864-204ce7926b7c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/311abb4b-2569-4f35-afdf-8ba37d6e7009/file/4e689328-f453-43c8-a2f7-55f49dee4d71\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c3%2Fee%2Ffe%2Fc3eefefe5f34412db5da0f2092394120%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/72e56eb9-03a4-4baa-8da2-e702e6071469/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3688"
 }

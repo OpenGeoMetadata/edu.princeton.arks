@@ -15,16 +15,21 @@
   "dc_publisher_s": "[Washington, D.C.] : Survey of the Coast of the United States, 1845.",
   "dc_subject_sm": [
     "Harbors—New York Metropolitan Area—Maps",
-    "New York Harbor (N.Y. and N.J.)—Maps"
+    "New York Harbor (N.Y. and N.J.)—Maps",
+    "Maps—New York Harbor (N.Y. and N.J.)—1845",
+    "Maps—New York Metropolitan Area—1845",
+    "Nautical charts—New York Harbor (N.Y. and N.J.)—1845"
   ],
   "dct_spatial_sm": [
     "New York",
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:01Z",
+  "solr_year_i": 1845,
+  "layer_modified_dt": "2020-06-22T22:37:54Z",
   "layer_id_s": "public-figgy:p-eedf5871-7e9d-40b4-b6f7-11b8303f8906",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7679160\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eedf5871-7e9d-40b4-b6f7-11b8303f8906/file/61bb4823-39a9-4563-ac18-528a1551085f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eedf5871-7e9d-40b4-b6f7-11b8303f8906/file/af6dfa49-ba82-454b-a475-397b8d08e611\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/7f%2Fbb%2F60%2F7fbb6043a9984aed90fd9a8eb6e8902c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbbe3146-90c7-41c8-9c36-950bf1a98b33/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7679160\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/eedf5871-7e9d-40b4-b6f7-11b8303f8906/file/61bb4823-39a9-4563-ac18-528a1551085f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/eedf5871-7e9d-40b4-b6f7-11b8303f8906/file/02a72ebb-e136-418c-9781-08a3ef045707\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/75%2Fda%2F86%2F75da86096fe34041adaf1321b1bcb1d0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bbbe3146-90c7-41c8-9c36-950bf1a98b33/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6989"
 }

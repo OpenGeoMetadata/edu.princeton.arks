@@ -6,7 +6,7 @@
   "dc_title_s": "Somerville, Somerset County, New Jersey (Index and Overview)",
   "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"April, 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1568.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Somerville—Maps",
-    "Somerville (N.J.)—Maps"
+    "Somerville (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Somerville—1924",
+    "Maps—New Jersey—Somerville—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:37:56Z",
-  "layer_id_s": "restricted-figgy:p-3e606e4a-4167-45ea-b00c-81616738022e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606110\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/fcd37f26-f6cc-474f-aeb3-81a330491fa4\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:13:17Z",
+  "layer_id_s": "public-figgy:p-3e606e4a-4167-45ea-b00c-81616738022e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606110\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/c6b238dc-506f-4eb0-9a57-4ec172b5de31\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3e606e4a-4167-45ea-b00c-81616738022e/file/f6df5c2e-1108-4a96-a525-1e59e4fef145\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e7%2F3c%2F40%2Fe73c40b32c7a463e9df0777bd8f10c81%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3332f027-2ceb-4c3c-be0e-f8bad0524c9d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

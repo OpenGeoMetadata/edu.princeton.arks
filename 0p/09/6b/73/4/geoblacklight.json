@@ -7,23 +7,26 @@
   "solr_geom": "ENVELOPE(116.951667, 117.055278, 36.705, 36.631944)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Panel title. Includes 5 ancillary maps: Daminghu Park--Baotuquan Park--Qianfoshan Park--Qufu--Mount Taishan. Selected buildings shown pictorially. Tourist information on verso.",
+  "dc_description_s": "Panel title. Includes 5 ancillary maps: Daminghu Park--Baotuquan Park--Qianfoshan Park--Qufu--Mount Taishan. Selected buildings are shown pictorially. Tourist information on verso.",
   "dc_creator_sm": [
     "Di tu chu ban she",
     "地图出版社."
   ],
   "dc_language_s": "und",
-  "dc_publisher_s": "Beijing, China : Cartographic Publishing House: Distributed by China Publications Centre, 1983.",
+  "dc_publisher_s": "Beijing, China : Cartographic Publishing House : distributed by China Publications Centre, 1983.",
   "dc_subject_sm": [
-    "Jinan (Shandong Sheng, China)—Maps"
+    "Jinan (Shandong Sheng, China)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "China"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:13Z",
-  "layer_id_s": "restricted-figgy:p-da7c577a-0cad-4176-9ce6-46f9e2aeb1de",
+  "solr_year_i": 1983,
+  "layer_modified_dt": "2020-06-24T10:28:47Z",
+  "layer_id_s": "da7c577a-0cad-4176-9ce6-46f9e2aeb1de",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6827413\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da7c577a-0cad-4176-9ce6-46f9e2aeb1de/file/5d3d2d5c-5631-44bb-b068-2db35dedfa42\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7824.J523E635 1983 C3"
 }

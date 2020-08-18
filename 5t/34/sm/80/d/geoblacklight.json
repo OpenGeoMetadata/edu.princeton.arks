@@ -6,7 +6,7 @@
   "dc_title_s": "Somerville, Somerset County, New Jersey (Sheet 11)",
   "solr_geom": "ENVELOPE(-74.626395, -74.586259, 40.581697, 40.556034)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"April, 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1568.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Somerville—Maps",
-    "Somerville (N.J.)—Maps"
+    "Somerville (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Somerville—1924",
+    "Maps—New Jersey—Somerville—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:07:49Z",
-  "layer_id_s": "restricted-figgy:p-0fc86889-e78d-4c71-a3c7-1ed3cd2655e7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606110\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc86889-e78d-4c71-a3c7-1ed3cd2655e7/file/d8c43dbb-ef68-4d03-bc47-46396d58912c\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T20:02:44Z",
+  "layer_id_s": "public-figgy:p-0fc86889-e78d-4c71-a3c7-1ed3cd2655e7",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5606110\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0fc86889-e78d-4c71-a3c7-1ed3cd2655e7/file/e99bb65c-d1a2-4a92-865e-bfa4f8a01830\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0fc86889-e78d-4c71-a3c7-1ed3cd2655e7/file/7e986ff9-2917-43f9-86d5-e4baae67885d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2f%2Fbc%2F04%2F2fbc0444c3bf429797b8fc2c75d683fe%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ccccb60-06b2-4fb7-be8a-709457d7a9ef/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

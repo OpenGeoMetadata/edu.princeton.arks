@@ -14,16 +14,20 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "London : Published by James Imray and Son, 89 Minories, 1896.",
   "dc_subject_sm": [
-    "English Channel—Maps"
+    "English Channel—Maps",
+    "Maps—English Channel—1896",
+    "Nautical charts—English Channel—1896"
   ],
   "dct_spatial_sm": [
     "Great Britain",
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:00Z",
+  "solr_year_i": 1896,
+  "layer_modified_dt": "2020-06-22T22:39:47Z",
   "layer_id_s": "public-figgy:p-0312b651-c69a-4ee8-b793-53bc976dc0b0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7236159\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0312b651-c69a-4ee8-b793-53bc976dc0b0/file/eca3cf18-5a87-4b7f-b545-1e1885e3fff7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0312b651-c69a-4ee8-b793-53bc976dc0b0/file/2a447c99-ef02-4273-adb4-17ab5da69414\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c5%2F19%2F42%2Fc51942a9f96d4e098138053cb9d7610b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29570139-eb14-4391-98aa-6f28007527bb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7236159\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0312b651-c69a-4ee8-b793-53bc976dc0b0/file/eca3cf18-5a87-4b7f-b545-1e1885e3fff7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0312b651-c69a-4ee8-b793-53bc976dc0b0/file/9979f963-c2df-4b2b-ac6d-f280dd103a61\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/af%2F57%2F37%2Faf5737ab04a447ec977198b4df4f807b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29570139-eb14-4391-98aa-6f28007527bb/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4708"
 }

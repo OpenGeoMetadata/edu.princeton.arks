@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(71.400556, 71.660833, 34.061111, 33.936667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Shows roads, railways, important places, and buildings. Government of Pākistān copyright reserved. Area surveyed 2000. \"REG. No. 153 RWD 2001 ...\" \"Refer to this map as 1:25,000 Peshāwar guide map second edition.\"",
+  "dc_description_s": "Shows roads, railways, important places, and buildings. Government of Pākistān copyright reserved. Area surveyed 2000. \"REG. No. 153 RWD 2001 ...\"",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
@@ -16,15 +16,18 @@
   "dc_subject_sm": [
     "Peshāwar (Pakistan)—Maps",
     "Peshāwar District (Pakistan)—Maps",
-    "Khyber Pakhtunkhwa (Pakistan)—Maps"
+    "Khyber Pakhtunkhwa (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T15:25:30Z",
-  "layer_id_s": "restricted-figgy:p-03059896-96c1-4436-9327-ccc5eeb056a2",
+  "solr_year_i": 2003,
+  "layer_modified_dt": "2020-06-24T10:28:21Z",
+  "layer_id_s": "03059896-96c1-4436-9327-ccc5eeb056a2",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7704147\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03059896-96c1-4436-9327-ccc5eeb056a2/file/e264f12d-d980-48e5-88b8-0dc7985b2535\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.P45E635 2003 .S8"
 }

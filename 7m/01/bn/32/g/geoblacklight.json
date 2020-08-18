@@ -6,7 +6,7 @@
   "dc_title_s": "Emerson, Bergen County, New Jersey (Sheet 3)",
   "solr_geom": "ENVELOPE(-74.057, -73.994, 40.987, 40.962)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, specials index, key and text. \"1648.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Emerson—Maps",
-    "Emerson (N.J.)—Maps"
+    "Emerson (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Emerson—1924",
+    "Maps—New Jersey—Emerson—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:47:48Z",
-  "layer_id_s": "restricted-figgy:p-1ba10da6-9b43-49bd-a448-749507832075",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246067\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ba10da6-9b43-49bd-a448-749507832075/file/9ac192fa-3b08-4470-84ac-7de845cd28d4\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:51:31Z",
+  "layer_id_s": "public-figgy:p-1ba10da6-9b43-49bd-a448-749507832075",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5246067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/1ba10da6-9b43-49bd-a448-749507832075/file/f723c904-00cb-4daf-9c84-3b0915242922\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1ba10da6-9b43-49bd-a448-749507832075/file/e0891c7b-2f57-458c-81d3-ecc6160b1eda\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a6%2Fef%2F1b%2Fa6ef1ba406c542b4b890c043b2387297%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1fa4648f-3a7e-4772-910b-a5f97f7803bf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

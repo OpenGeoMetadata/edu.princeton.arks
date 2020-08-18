@@ -14,15 +14,19 @@
   "dc_language_s": "deu",
   "dc_publisher_s": "[Berlin] : Kartogr. Abteilung der Kgl. Preuss. Landesaufnahme, Mai 1918.",
   "dc_subject_sm": [
-    "Aleppo (Syria : Province)—Maps"
+    "Aleppo (Syria : Province)—Maps",
+    "Maps—Syria—Aleppo (Province)—1918",
+    "Military maps—Syria—AIeppo (Province)—1918"
   ],
   "dct_spatial_sm": [
     "Syria"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:48Z",
+  "solr_year_i": 1918,
+  "layer_modified_dt": "2020-06-23T15:30:54Z",
   "layer_id_s": "public-figgy:p-d767fe86-6d52-42f9-82b3-9ab0acf66153",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7048027\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/bb4d4c8b-60fb-4f2c-8d5c-7f06a6efe18b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/276a5b76-84df-4c86-98c2-140b03820f6b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/37%2Fd9%2Fe3%2F37d9e3a0f0d74bae9b3154f90de756e6%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a9650c36-d28b-4df8-a192-c24095825411/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7048027\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/bb4d4c8b-60fb-4f2c-8d5c-7f06a6efe18b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d767fe86-6d52-42f9-82b3-9ab0acf66153/file/a9b2f8d8-2187-42a8-9494-7707f053fc10\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7e%2F23%2F83%2F7e23835917dc42f9881a954ee20ad268%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a9650c36-d28b-4df8-a192-c24095825411/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4206"
 }

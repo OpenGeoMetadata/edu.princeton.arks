@@ -14,16 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Paris : Hachette & Cie, [ca. 1850] (Paris : Lemercier et Cie)",
   "dc_subject_sm": [
-    "Jerusalem—Maps"
+    "Jerusalem—Maps",
+    "Maps—Jerusalem—1850"
   ],
   "dct_spatial_sm": [
     "Israel",
     "West Bank"
   ],
-  "layer_modified_dt": "2019-06-04T15:27:35Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-06-22T22:40:21Z",
   "layer_id_s": "public-figgy:p-30d9da68-232b-4d3a-81dc-98482da24a69",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7084987\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30d9da68-232b-4d3a-81dc-98482da24a69/file/eeca207d-60de-4162-a799-6fa35005fbeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30d9da68-232b-4d3a-81dc-98482da24a69/file/03d7b2b1-be60-4f2a-9dbd-398000182b51\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c8%2Fa0%2Fde%2Fc8a0de15f4ae443f901aa774f384efea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/059ac91b-54e7-4c91-9d54-4cc19777d3e7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7084987\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30d9da68-232b-4d3a-81dc-98482da24a69/file/eeca207d-60de-4162-a799-6fa35005fbeb\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30d9da68-232b-4d3a-81dc-98482da24a69/file/03d7b2b1-be60-4f2a-9dbd-398000182b51\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f6%2Fe3%2Fd6%2Ff6e3d649dfba46a0bc39f4a3e02feea4%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/059ac91b-54e7-4c91-9d54-4cc19777d3e7/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2747"
 }

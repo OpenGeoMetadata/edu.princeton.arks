@@ -6,7 +6,7 @@
   "dc_title_s": "Egg Harbor City, including Cologne, Atlantic County, New Jersey (Sheet 16)",
   "solr_geom": "ENVELOPE(-74.656813, -74.533787, 39.600134, 39.518543)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"July 1924.\" \"1743.\" Includes location map, key, streets and specials index, and text. \"Cologne, located 3 miles s. of Egg Harbor City P.O.\"--Sheet 9. North oriented towards upper right.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Egg Harbor City—Maps",
-    "Egg Harbor City (N.J.)—Maps"
+    "Egg Harbor City (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Egg Harbor City—1924",
+    "Maps—New Jersey—Egg Harbor City—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:27Z",
-  "layer_id_s": "restricted-figgy:p-0d008dbe-d1b6-4e76-90db-ca6cae050719",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5213397\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d008dbe-d1b6-4e76-90db-ca6cae050719/file/e635b7bf-268d-47ae-b24e-76ef65407278\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:12:39Z",
+  "layer_id_s": "public-figgy:p-0d008dbe-d1b6-4e76-90db-ca6cae050719",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5213397\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0d008dbe-d1b6-4e76-90db-ca6cae050719/file/25d0bb22-922b-4a2d-bf74-3c6352ef86a2\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0d008dbe-d1b6-4e76-90db-ca6cae050719/file/6f29c434-7f1e-4299-8928-0d7f505a5433\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4b%2F0b%2Fa3%2F4b0ba38268684df184723cd9b6274ca4%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/07fca764-9a4c-4802-b352-62481b5ed105/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

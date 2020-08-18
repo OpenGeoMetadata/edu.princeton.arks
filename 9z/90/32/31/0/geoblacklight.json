@@ -3,27 +3,32 @@
   "dc_identifier_s": "ark:/88435/9z9032310",
   "layer_slug_s": "princeton-9z9032310",
   "uuid": "princeton-9z9032310",
-  "dc_title_s": "Johnson's West Indies",
-  "solr_geom": "ENVELOPE(-86.01, -57.26, 27.51, 9.76)",
+  "dc_title_s": "South America, west coast, sheet XI : Bolivia and Peru : Cape Paquica to Cape Lobos",
+  "solr_geom": "ENVELOPE(-71.0025, -68.6459, -18.7646, -22.0118)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Inset: The Bermuda Islands. Relief indicated by hachures. Depths shown by soundings. In upper margin: 44. \"Entered according to Act of Congress in the Year 1864 by A.J. Johnson ... \" Probably issued in: Johnson's new illustrated (steel plate) family atlas ... New York : Johnson and Ward, 1864.",
+  "dc_description_s": "Relief shown by hachures. Depths shown by soundings. \"1278\"--Lower left margin. \"Published ... September 15th 1840. Corrections Decr. 1863.\" Includes 4 coastal profiles. Includes insets: Pisagua Bay -- Mexillon Bay -- Chipana bay. Historic Maps copy has ms. annotations.",
   "dc_creator_sm": [
-    "Johnson, A. J. (Alvin Jewett), 1827-1884"
+    "Fitzroy, Robert, 1805-1865"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "New York : Johnson and Ward, 1864.",
+  "dc_publisher_s": "[London] : Published according to Act of Parliament at the Hydrographic Office of the Admiralty ; Sold by J.D. Potter, agent for the Admiralty charts ... , 1863.",
   "dc_subject_sm": [
-    "Bermuda Islands—Maps",
-    "West Indies—Maps"
+    "Coasts—Peru—Maps",
+    "Pacific Coast (Peru)—Maps",
+    "Maps—Peru—1863",
+    "Nautical charts—Peru—1863"
   ],
   "dct_spatial_sm": [
-    "West Indies"
+    "Bolivia",
+    "Peru"
   ],
-  "layer_modified_dt": "2019-06-04T17:24:48Z",
-  "layer_id_s": "public-figgy:p-98f3458e-c878-4f63-8798-150e400420d8",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6851044\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/98f3458e-c878-4f63-8798-150e400420d8/file/c0b69c6c-bc0b-4c86-a232-bdfd3aac24da\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/98f3458e-c878-4f63-8798-150e400420d8/file/3eb53eb8-2679-40c8-b4e5-e7157f29632a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c5%2F6f%2F58%2Fc56f5822f72b4d00b14eb93f517a8c33%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f887cdf5-e7a5-48ab-b2b4-b0e546b820af/manifest\"}",
+  "solr_year_i": 1863,
+  "layer_modified_dt": "2020-06-22T22:43:10Z",
+  "layer_id_s": "public-figgy:p-30625daf-0977-4987-8c0d-5707c07a46cd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6574203\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/30625daf-0977-4987-8c0d-5707c07a46cd/file/16dc705c-8f0f-41bf-b7c3-8bef37b22392\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/30625daf-0977-4987-8c0d-5707c07a46cd/file/d4d21a69-bd68-4680-beda-1c1c298062e0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/03%2F14%2F09%2F0314091f1d3546b1a03b89af234d4b48%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8eef046e-c991-4a52-9ce4-89d48125aa75/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "HMC01.1423"
+  "suppressed_b": false,
+  "call_number_s": "HMC01.6152"
 }

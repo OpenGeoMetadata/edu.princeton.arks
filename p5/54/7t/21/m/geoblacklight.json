@@ -16,17 +16,22 @@
   "dc_subject_sm": [
     "Africa—Maps",
     "Saint Helena—Maps",
-    "Nile River Valley—Maps"
+    "Nile River Valley—Maps",
+    "Maps—Africa—1884",
+    "Maps—Saint Helena—1884",
+    "Maps—Egypt—Nile River Valley—1884"
   ],
   "dct_spatial_sm": [
     "Africa",
     "Nile River",
     "Saint Helena"
   ],
-  "layer_modified_dt": "2019-06-04T17:30:49Z",
+  "solr_year_i": 1884,
+  "layer_modified_dt": "2020-06-22T23:02:25Z",
   "layer_id_s": "public-figgy:p-af99fa6e-ccff-4915-8013-d2b0972534b2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4575231\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af99fa6e-ccff-4915-8013-d2b0972534b2/file/ae882658-8ec2-4010-be92-c2e2fee321ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af99fa6e-ccff-4915-8013-d2b0972534b2/file/cc48d505-bb91-41dc-9f6d-4707d4bdf068\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e9%2Fe5%2F38%2Fe9e538f57a84485bbeecdca2f3f90cc3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c531a51-e3a4-4779-a09c-b4d8a737c3d2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4575231\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/af99fa6e-ccff-4915-8013-d2b0972534b2/file/ae882658-8ec2-4010-be92-c2e2fee321ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/af99fa6e-ccff-4915-8013-d2b0972534b2/file/cc48d505-bb91-41dc-9f6d-4707d4bdf068\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7b%2F52%2Fe2%2F7b52e2aa8ca74ecebb2d69e7f2374664%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0c531a51-e3a4-4779-a09c-b4d8a737c3d2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.234"
 }

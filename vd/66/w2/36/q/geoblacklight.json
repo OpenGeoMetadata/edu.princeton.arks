@@ -17,7 +17,11 @@
     "French Guiana—Maps",
     "Guyana—Maps",
     "Suriname—Maps",
-    "Venezuela—Maps"
+    "Venezuela—Maps",
+    "Maps—French Guiana—1818",
+    "Maps—Guyana—1818",
+    "Maps—Suriname—1818",
+    "Maps—Venezuela—1818"
   ],
   "dct_spatial_sm": [
     "Venezuela",
@@ -25,10 +29,12 @@
     "Guyana",
     "French Guiana"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:58Z",
+  "solr_year_i": 1818,
+  "layer_modified_dt": "2020-06-23T16:35:51Z",
   "layer_id_s": "public-figgy:p-8edd67f0-fc1c-4b08-9155-c24c42b953e6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6592480\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8edd67f0-fc1c-4b08-9155-c24c42b953e6/file/0a329176-4b18-4f7a-93ff-be070f94643a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8edd67f0-fc1c-4b08-9155-c24c42b953e6/file/2fdd22de-6717-4099-9ff7-4b5670b47d16\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8f%2F45%2Fdf%2F8f45dfa566764d93b847cae38c868b93%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28d7b5bf-abb1-4976-b174-3734c8ec1000/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6592480\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8edd67f0-fc1c-4b08-9155-c24c42b953e6/file/0a329176-4b18-4f7a-93ff-be070f94643a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8edd67f0-fc1c-4b08-9155-c24c42b953e6/file/2fdd22de-6717-4099-9ff7-4b5670b47d16\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ca%2Fc3%2F79%2Fcac3798669ad423fb567cca97cdb09f3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/28d7b5bf-abb1-4976-b174-3734c8ec1000/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6170"
 }

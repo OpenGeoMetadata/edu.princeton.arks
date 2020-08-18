@@ -6,7 +6,7 @@
   "dc_title_s": "[Geological Survey of England and Wales : one inch to the mile map. New Series.] Shaftesbury, drift, sheet 313",
   "solr_geom": "ENVELOPE(-2.5, -2.0833, 51.0167, 50.8333)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Geological Survey of Great Britain. Great Britain. Geological Survey of England and Wales. Sheet 313 drift. Great Britain. Ordnance Survey of England. North Decimal Degree 51.0167. South Decimal Degree 50.8333. East Decimal Degree -2.0833. West Decimal Degree -2.5000. In upper left margin: Ordnance Survey of England (Third edition). Relief shown by contour interval and spot heights. Transverse Mercator projection. National grid system. \"Original geological survey on the one-inch scale published on Sheet 15 and 18, Old Series, 1850 and 1856. Revised in parts 1871 to 1875. The superficial deposits and parts of the cretaceous re-surveyed on the six-inch scale by H.G. Dines and S.E. Hollingworth, 1921. Transferred to the New Series Map and published 1923.\".",
   "dc_language_s": "eng",
   "dc_publisher_s": "[Southampton ; Chessington, Surrey] : Director General, Ordnance Survey, 1923.",
@@ -15,10 +15,12 @@
     "Geology",
     "England—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:57Z",
-  "layer_id_s": "restricted-figgy:p-13ae9eb1-d97e-499d-a610-e2f588bf141c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836945\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13ae9eb1-d97e-499d-a610-e2f588bf141c/file/67e06c6f-eca1-479f-bbb5-267f192202ad\"}",
+  "solr_year_i": 1923,
+  "layer_modified_dt": "2020-06-24T10:21:14Z",
+  "layer_id_s": "public-figgy:p-13ae9eb1-d97e-499d-a610-e2f588bf141c",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6836945\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/13ae9eb1-d97e-499d-a610-e2f588bf141c/file/f17bc3a4-ecc9-4379-b226-d3a57d021085\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/13ae9eb1-d97e-499d-a610-e2f588bf141c/file/46b71247-3fb0-46f6-9c1f-4fd61fc6fe1e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/be%2F3a%2F98%2Fbe3a988f4c104fcaa1debb2c19a2be17%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3715ce9e-ed3e-4ce2-af3f-95eba8afc720/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5751.C5.s63.E5W3 sh 313 (d)"
 }

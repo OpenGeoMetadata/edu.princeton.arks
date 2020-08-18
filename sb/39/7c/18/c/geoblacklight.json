@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-sb397c18c",
   "uuid": "princeton-sb397c18c",
   "dc_title_s": "Newark, N.J., vol. 1",
-  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_geom": "ENVELOPE(-74.13693, -74.118938, 40.728439, 40.712599)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Sheets 108, 111-112, and unnumbered sheet titled \"Butterworth-Judson Corp'n plants A,B,C, D, & E, \"of Newark, N.J., vol. 1, series; sheet 108: New sheet, Apr. 1917; sheets 111-112: Add'l sheet, Oct. 1917. Sheet 108 shows Butterworth-Judson Corporation plant; sheets 111-112 show Port Newark.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "[New York] : Sanborn Map Co., 1917.",
   "dc_subject_sm": [
     "Real property—New Jersey—Newark—Maps",
-    "Newark (N.J.)—Maps"
+    "Newark (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Newark—1917",
+    "Maps—New Jersey—Newark—1917"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:22Z",
+  "solr_year_i": 1917,
+  "layer_modified_dt": "2020-06-23T20:53:59Z",
   "layer_id_s": "ark:/88435/sb397c18c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704378\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5910f169-3f95-48e2-8010-8c34ead7fb03/file/d457cb6c-d60d-4788-bda1-c95e664d9772\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/61%2F64%2Fca%2F6164ca93849e4a2eaf004f41c01f436c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f48f9f2-eac1-4780-9ac8-1e5252ee0136/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704378\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5910f169-3f95-48e2-8010-8c34ead7fb03/file/ee96eb8c-985e-48b6-9989-4f99a73c4c6a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/8a%2F63%2F64%2F8a636436b999423291d6512403a3ab5e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4f48f9f2-eac1-4780-9ac8-1e5252ee0136/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Newark)"
 }

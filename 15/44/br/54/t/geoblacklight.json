@@ -14,15 +14,19 @@
   "dc_language_s": "spa",
   "dc_publisher_s": "[Havana] : Marina, [1841]",
   "dc_subject_sm": [
-    "Trinidad (Cuba : Municipio)—Maps"
+    "Trinidad (Cuba : Municipio)—Maps",
+    "Maps—Cuba—Trinidad—1841",
+    "City maps—Cuba—Trinidad—1841"
   ],
   "dct_spatial_sm": [
     "Cuba"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:59Z",
+  "solr_year_i": 1841,
+  "layer_modified_dt": "2020-06-24T03:52:59Z",
   "layer_id_s": "public-figgy:p-50dff8c7-9a22-4d98-84b0-7c0a31587120",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6873191\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50dff8c7-9a22-4d98-84b0-7c0a31587120/file/b59459cd-a59e-42f2-a78b-ea3ce406a547\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50dff8c7-9a22-4d98-84b0-7c0a31587120/file/414d5081-e774-4364-96e0-b7fbefb8378e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a7%2Fde%2F98%2Fa7de988d64bc46a59696e1ed92c6ac68%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0f53fd4f-ba0a-4011-b4b6-e2667307a687/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6873191\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/50dff8c7-9a22-4d98-84b0-7c0a31587120/file/b59459cd-a59e-42f2-a78b-ea3ce406a547\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/50dff8c7-9a22-4d98-84b0-7c0a31587120/file/414d5081-e774-4364-96e0-b7fbefb8378e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/67%2F6a%2Ff4%2F676af45cda644dfd96371ec025e9e9a5%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/0f53fd4f-ba0a-4011-b4b6-e2667307a687/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3550"
 }

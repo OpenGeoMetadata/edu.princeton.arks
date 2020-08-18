@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-6w924g651",
   "uuid": "princeton-6w924g651",
   "dc_title_s": "Cheraga plan de ville, 1:5 000",
-  "solr_geom": "ENVELOPE(2.938056, 36.770278, 36.7475, 2.966667)",
+  "solr_geom": "ENVELOPE(2.934722, 2.975833, 36.769722, 36.747778)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Shows land use and cemeteries. \"Dépôt légal 24--1ér trimestre 2009.\" Title from cover.",
@@ -20,10 +20,12 @@
   "dct_spatial_sm": [
     "Algeria"
   ],
-  "layer_modified_dt": "2019-06-04T19:23:00Z",
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2020-06-23T11:14:48Z",
   "layer_id_s": "bc75f1c4-a6a3-4f08-8829-fdeb8ed0ac5c",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7531912\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc75f1c4-a6a3-4f08-8829-fdeb8ed0ac5c/file/6ddfcadf-3aa6-44a1-b339-8bf2311e8981\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G8244.C518 2010 .M3"
 }

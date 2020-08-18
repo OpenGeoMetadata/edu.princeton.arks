@@ -18,12 +18,19 @@
     "Northern Hemisphere—Maps",
     "Southern Hemisphere—Maps",
     "Western Hemisphere—Maps",
-    "World maps ."
+    "World maps .",
+    "Maps—Eastern Hemisphere—1830",
+    "Maps—Northern Hemisphere—1830",
+    "Maps—Southern Hemisphere—1830",
+    "Maps—Western Hemisphere—1830",
+    "World maps—1830"
   ],
-  "layer_modified_dt": "2019-06-04T17:28:06Z",
+  "solr_year_i": 1830,
+  "layer_modified_dt": "2020-06-22T23:11:16Z",
   "layer_id_s": "public-figgy:p-4b7a297f-52e3-42f0-b168-04c6091695e9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4538668\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/37fb6ec3-cf6e-4daa-bd66-6b0c3525be65/file/86014a06-69a8-47cb-a52b-d391f612c0b3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b7a297f-52e3-42f0-b168-04c6091695e9/file/81368977-7ee2-4ae7-a111-fee9f150efef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b7a297f-52e3-42f0-b168-04c6091695e9/file/2d21fbdd-bd22-4f39-8b64-d700f9ce26ec\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/02%2F44%2F12%2F0244121e79e448388749f1e7b93ee9df%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7032a2ae-3089-4535-8965-78cf6a5a8f35/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4538668\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/37fb6ec3-cf6e-4daa-bd66-6b0c3525be65/file/86014a06-69a8-47cb-a52b-d391f612c0b3\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/4b7a297f-52e3-42f0-b168-04c6091695e9/file/81368977-7ee2-4ae7-a111-fee9f150efef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4b7a297f-52e3-42f0-b168-04c6091695e9/file/2d21fbdd-bd22-4f39-8b64-d700f9ce26ec\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a7%2F55%2Ffa%2Fa755fab658644139af36e2b253b4a381%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7032a2ae-3089-4535-8965-78cf6a5a8f35/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3601"
 }

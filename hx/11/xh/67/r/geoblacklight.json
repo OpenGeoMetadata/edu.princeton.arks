@@ -15,15 +15,19 @@
   "dc_publisher_s": "[Washington, D.C.?] : Hydrographic Office, U.S. Navy, [1870?]",
   "dc_subject_sm": [
     "Franco-Prussian War, 1870-1871—Maps",
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1870",
+    "Military maps—France—1870"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:10Z",
+  "solr_year_i": 1870,
+  "layer_modified_dt": "2020-06-24T03:52:32Z",
   "layer_id_s": "public-figgy:p-e9497533-9c8a-4495-baed-36f10a6495a4",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6135377\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9497533-9c8a-4495-baed-36f10a6495a4/file/ebdb3134-bb87-4b7f-975e-103b342bc825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9497533-9c8a-4495-baed-36f10a6495a4/file/91ec91bd-0a1e-4d8e-9b2b-f9460bb88dbf\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/9d%2F90%2Fd9%2F9d90d9725f6143b8b02f441adedd4be5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1710a147-3abc-4eae-858a-c0c041a4e936/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6135377\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e9497533-9c8a-4495-baed-36f10a6495a4/file/ebdb3134-bb87-4b7f-975e-103b342bc825\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e9497533-9c8a-4495-baed-36f10a6495a4/file/91ec91bd-0a1e-4d8e-9b2b-f9460bb88dbf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/71%2F34%2F58%2F7134586fa4ac4640b593d562985d8714%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1710a147-3abc-4eae-858a-c0c041a4e936/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4506"
 }

@@ -15,17 +15,21 @@
   "dc_publisher_s": "[Philadelphia : M. Carey, 1814 (Philadelphia : T.S. Manning)]",
   "dc_subject_sm": [
     "Ecuador—Maps",
-    "Peru—Maps"
+    "Peru—Maps",
+    "Maps—Ecuador—1814",
+    "Maps—Peru—1814"
   ],
   "dct_spatial_sm": [
     "South America",
     "Peru",
     "Ecuador"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:36Z",
+  "solr_year_i": 1814,
+  "layer_modified_dt": "2020-06-23T16:36:12Z",
   "layer_id_s": "public-figgy:p-731aa655-7adc-4e89-a31e-cd09c1fa2d78",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6539801\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/731aa655-7adc-4e89-a31e-cd09c1fa2d78/file/e688b574-797b-4988-80c8-01c76a1cad25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/731aa655-7adc-4e89-a31e-cd09c1fa2d78/file/3d1a83b8-47c5-448d-84a7-3427a5c8ddc5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/4a%2F88%2F2d%2F4a882db9fab44a82bdf0da0aedd514c9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f6732f94-16a6-4402-86ae-377ae68c6baf/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6539801\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/731aa655-7adc-4e89-a31e-cd09c1fa2d78/file/e688b574-797b-4988-80c8-01c76a1cad25\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/731aa655-7adc-4e89-a31e-cd09c1fa2d78/file/3d1a83b8-47c5-448d-84a7-3427a5c8ddc5\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b2%2Fd6%2Fad%2Fb2d6ad3ba1f94255a5e3735dcc081d49%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f6732f94-16a6-4402-86ae-377ae68c6baf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6151"
 }

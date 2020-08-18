@@ -14,12 +14,16 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : Justin Lallier, 1867 (Paris : Lith. Goyer)",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1867",
+    "City maps—France—Paris—1867"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:01Z",
+  "solr_year_i": 1867,
+  "layer_modified_dt": "2020-06-23T16:35:46Z",
   "layer_id_s": "public-figgy:p-04a5f2f2-5429-41ed-986e-9f2c874da75b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6136632\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04a5f2f2-5429-41ed-986e-9f2c874da75b/file/a431476e-8ea8-4478-a519-07f0ffb51764\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04a5f2f2-5429-41ed-986e-9f2c874da75b/file/fbbf4a84-af8b-480f-b425-f68add81a3ac\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/11%2Fba%2F20%2F11ba20d975564909b587ce2667c15e0a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9773859-b3cb-4c68-8971-631de92055aa/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6136632\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/04a5f2f2-5429-41ed-986e-9f2c874da75b/file/a431476e-8ea8-4478-a519-07f0ffb51764\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/04a5f2f2-5429-41ed-986e-9f2c874da75b/file/fbbf4a84-af8b-480f-b425-f68add81a3ac\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6b%2Fcf%2F37%2F6bcf3770b97342bc898e039ce13cd598%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b9773859-b3cb-4c68-8971-631de92055aa/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4509"
 }

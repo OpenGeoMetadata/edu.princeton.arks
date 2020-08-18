@@ -4,10 +4,10 @@
   "layer_slug_s": "princeton-p5547w44s",
   "uuid": "princeton-p5547w44s",
   "dc_title_s": "Yokohama city map",
-  "solr_geom": "ENVELOPE(139.604167, 139.779167, 35.570833, 35.404167)",
+  "solr_geom": "ENVELOPE(139.594722, 139.818889, 35.589167, 35.400556)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "In lower right margin: \"64th Eng Base Topo Bn - OE-694 - 11/50 - 5 M\". Recto: \"Grid Index\". Verso: \"Approaches to Tokyo\" (1:625,000), \"Insert\" (1:7,000), \"Milage chart\", and notes. \"Compiled in 1948 from aerial photography by USAF 1947. Dependent housing and military installations location furnished by Engineer 8th Army. Road classification furnished by Office of the Engineer, HQ, FEC.\" Shows 3 types of roads, military routes, military installations, dependent houses, and Ku Boundary.",
+  "dc_description_s": "In lower right margin: \"64th Eng Base Topo Bn - OE-694 - 11/50 - 5 M.\" Recto: \"Grid Index.\" Verso: \"Approaches to Tokyo\" (1:625,000), \"Insert\" (1:7,000), \"Milage chart,\" and notes. \"Compiled in 1948 from aerial photography by USAF 1947. Dependent housing and military installations location furnished by Engineer 8th Army. Road classification furnished by Office of the Engineer, HQ, FEC.\" Shows 3 types of roads, military routes, military installations, dependent houses, and Ku Boundary.",
   "dc_creator_sm": [
     "United States. Army. Engineer Base Topographic Battalion, 64th"
   ],
@@ -24,11 +24,13 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "layer_modified_dt": "2019-06-04T15:25:37Z",
+  "solr_year_i": 1949,
+  "layer_modified_dt": "2020-06-23T15:25:44Z",
   "layer_id_s": "public-figgy:p-dfebdf93-519d-49b0-869d-067b04bc264d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450038\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfebdf93-519d-49b0-869d-067b04bc264d/file/08240a87-c027-4257-85c7-f37066739183\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfebdf93-519d-49b0-869d-067b04bc264d/file/30e6e2e2-2acf-4b3f-be01-5a6783a9b9ce\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c4%2F49%2F73%2Fc449738b2b56489bb147da6e803b6b41%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66ab5eb1-384b-4cc6-ace6-11f2dce30649/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450038\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dfebdf93-519d-49b0-869d-067b04bc264d/file/08240a87-c027-4257-85c7-f37066739183\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dfebdf93-519d-49b0-869d-067b04bc264d/file/30e6e2e2-2acf-4b3f-be01-5a6783a9b9ce\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/09%2F92%2Fb2%2F0992b24cfb5a45e788c46295d15be41c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/66ab5eb1-384b-4cc6-ace6-11f2dce30649/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-xp68km27b"
   ],

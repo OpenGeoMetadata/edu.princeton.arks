@@ -3,27 +3,31 @@
   "dc_identifier_s": "ark:/88435/p5547t876",
   "layer_slug_s": "princeton-p5547t876",
   "uuid": "princeton-p5547t876",
-  "dc_title_s": "Regensburg und Umgebung",
-  "solr_geom": "ENVELOPE(10.4002, 12.2667, 50.4919, 49.458)",
+  "dc_title_s": "Ober-Franken",
+  "solr_geom": "ENVELOPE(10.4401, 12.2967, 50.5232, 49.4221)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Map of Regensburg and environs in the German state of Bavaria. Relief shown by shading and spot heights.",
+  "dc_description_s": "Map of Oberfranken in the German state of Bavaria. Relief shown by hachures and spot heights. Probably issued in: Führer durch Oberfranken. Würzburg : Woerl, 1891.",
   "dc_creator_sm": [
-    "Coppenrath, Alfred, 1830-1887"
+    "Gaebler, Eduard, 1842-1911"
   ],
   "dc_language_s": "deu",
-  "dc_publisher_s": "Regensburg : Verlag von Alfred Coppenrath (H. Pawelek), [ca. 1890] (Würzburg : Kgl. Univers. Druckerei von H. Stürtz)",
+  "dc_publisher_s": "[Würzburg : Woerl's Reisebücherverlag, 1891]",
   "dc_subject_sm": [
     "Bavaria (Germany)—Maps",
-    "Regensburg (Germany)—Maps"
+    "Oberfranken (Germany)—Maps",
+    "Maps—Germany—Bavaria—1891",
+    "Maps—Germany—Oberfranken—1891"
   ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2019-06-04T17:25:10Z",
-  "layer_id_s": "public-figgy:p-0091c9de-a719-456b-a333-74dfaab158f7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7420916\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/0091c9de-a719-456b-a333-74dfaab158f7/file/4b286ab0-8087-4da9-bf0f-ef1b8143b81b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0091c9de-a719-456b-a333-74dfaab158f7/file/2415908b-897e-4dcd-9025-95b7aea0da0d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8d%2Fbc%2F71%2F8dbc71ba32604ea8af9ed416c22cf7a4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ad3f818a-f0cd-4794-a94b-b9c4e57c658a/manifest\"}",
+  "solr_year_i": 1891,
+  "layer_modified_dt": "2020-06-22T22:38:30Z",
+  "layer_id_s": "public-figgy:p-e65a7149-8492-42ab-b008-54c6f3cc03ae",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7420853\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e65a7149-8492-42ab-b008-54c6f3cc03ae/file/ed550a89-e00f-42fd-9aed-0e55d1fb1337\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e65a7149-8492-42ab-b008-54c6f3cc03ae/file/dba13aed-2af3-4e86-b5fc-e67782223558\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e3%2Fb4%2F44%2Fe3b4446192f04fa081a899092e76c258%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/dd127540-d152-4dec-aa6f-35691e7ffb1c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "HMC01.3294"
+  "suppressed_b": false,
+  "call_number_s": "HMC01.3293"
 }

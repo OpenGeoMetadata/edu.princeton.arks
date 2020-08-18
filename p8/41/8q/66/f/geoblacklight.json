@@ -15,15 +15,19 @@
   "dc_publisher_s": "[London] : Hydrographic Office of the Admiralty, 1863.",
   "dc_subject_sm": [
     "Coasts—Chile—Maps",
-    "Chile—Maps"
+    "Chile—Maps",
+    "Maps—Chile—1863",
+    "Nautical charts—Chile—1863"
   ],
   "dct_spatial_sm": [
     "Chile"
   ],
-  "layer_modified_dt": "2019-06-04T17:09:23Z",
+  "solr_year_i": 1863,
+  "layer_modified_dt": "2020-06-23T15:37:44Z",
   "layer_id_s": "public-figgy:p-71854bea-03a8-4f49-ad24-dd9e00e81838",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6592169\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71854bea-03a8-4f49-ad24-dd9e00e81838/file/18fc571f-1c72-4a5f-8ad1-1b297a198d92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71854bea-03a8-4f49-ad24-dd9e00e81838/file/5b826c86-610b-4fbf-aac3-897f5cb24b23\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5c%2F41%2F72%2F5c41728289ab4945bbbc7c0af1fc32f1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f4db1a0-6565-45ff-948d-bf43ea682184/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6592169\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/71854bea-03a8-4f49-ad24-dd9e00e81838/file/18fc571f-1c72-4a5f-8ad1-1b297a198d92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/71854bea-03a8-4f49-ad24-dd9e00e81838/file/5b826c86-610b-4fbf-aac3-897f5cb24b23\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/0a%2F51%2Fed%2F0a51edb6dd394cf6a2ef40eda091d434%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3f4db1a0-6565-45ff-948d-bf43ea682184/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6099"
 }

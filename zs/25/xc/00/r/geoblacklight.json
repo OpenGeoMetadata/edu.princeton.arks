@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-zs25xc00r",
   "uuid": "princeton-zs25xc00r",
   "dc_title_s": "Map of Princeton, Mercer County, New Jersey",
-  "solr_geom": "ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)",
+  "solr_geom": "ENVELOPE(-74.671175, -74.637615, 40.373122, 40.342006)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Includes names of property owners, list of subscribers and views of buildings. \"Entered according to Act of Congress in the year 1851 by John Bevan ... \"",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "Jersey City : John Bevan, 1852, c1851 (N.Y. : Lith. of Sarony & Co.)",
   "dc_subject_sm": [
     "Real property—New Jersey—Princeton—Maps",
-    "Princeton (N.J.)—Maps"
+    "Princeton (N.J.)—Maps",
+    "Maps—New Jersey—Princeton—1852",
+    "City maps—New Jersey—Princeton—1852"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:35:45Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-23T16:25:44Z",
   "layer_id_s": "ark:/88435/zs25xc00r",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7095312\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e268060a-b77d-4fd7-bfad-903a54f45c0e/file/18e1b9a6-0852-41ee-9757-6dd413733b53\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/30%2Fbc%2Fff%2F30bcff71022e43439bed74561cb03d13%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b01602e1-99da-42b0-8521-d3bb5f635d6f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7095312\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e268060a-b77d-4fd7-bfad-903a54f45c0e/file/18e1b9a6-0852-41ee-9757-6dd413733b53\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/54%2Fec%2Fb5%2F54ecb580f3b04a929164d125c2ef8561%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b01602e1-99da-42b0-8521-d3bb5f635d6f/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6788"
 }

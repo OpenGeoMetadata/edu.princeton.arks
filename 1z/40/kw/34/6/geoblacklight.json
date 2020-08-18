@@ -21,7 +21,10 @@
     "Jamaica—Maps",
     "Havana (Cuba)—Maps",
     "Port Royal (Jamaica)—Maps",
-    "Kingston (Jamaica)—Maps"
+    "Kingston (Jamaica)—Maps",
+    "Maps—Central America—1855",
+    "Maps—Mexico—1855",
+    "Maps—West Indies—1855"
   ],
   "dct_spatial_sm": [
     "West Indies",
@@ -30,10 +33,12 @@
     "Cuba",
     "Mexico"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:27Z",
+  "solr_year_i": 1855,
+  "layer_modified_dt": "2020-06-22T22:38:39Z",
   "layer_id_s": "public-figgy:p-d27aa619-fe3c-49b9-ab3b-4cbc07269b8d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7921067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d27aa619-fe3c-49b9-ab3b-4cbc07269b8d/file/2bccb96f-a657-4eaf-b0ee-cb1783419cf3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d27aa619-fe3c-49b9-ab3b-4cbc07269b8d/file/a24a700f-009c-485b-9002-2ad5250a863c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/38%2F0f%2F6c%2F380f6c248f86458f8cf2b4f9deb5730a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7288860-8467-4cdb-9ef1-18e83cac1423/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7921067\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d27aa619-fe3c-49b9-ab3b-4cbc07269b8d/file/2bccb96f-a657-4eaf-b0ee-cb1783419cf3\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d27aa619-fe3c-49b9-ab3b-4cbc07269b8d/file/98a05f63-e9ef-4a13-a741-449c68a13a3b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d9%2F35%2Fd9%2Fd935d9996a684b66926ab32a9ef51baa%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f7288860-8467-4cdb-9ef1-18e83cac1423/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7062"
 }

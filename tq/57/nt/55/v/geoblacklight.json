@@ -17,7 +17,10 @@
     "Southwestern States—Maps",
     "Mexico—Maps",
     "United States—Boundaries—Mexico—Maps",
-    "Mexico—Boundaries—United States—Maps"
+    "Mexico—Boundaries—United States—Maps",
+    "Maps—Mexico—1853",
+    "Maps—Southwestern States—1853",
+    "Maps—United States—1853"
   ],
   "dct_spatial_sm": [
     "Southwest, New",
@@ -25,10 +28,12 @@
     "Mexico",
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T19:25:07Z",
+  "solr_year_i": 1853,
+  "layer_modified_dt": "2020-06-23T20:26:08Z",
   "layer_id_s": "public-figgy:p-8b70d0b8-9d96-4b53-b79a-14c7a9ddec84",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8257072\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/394c97e7-95e7-4fba-a268-2a9ceaaea33f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/c808a5e7-a9d1-496d-aa87-cdbbf137baec\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/97%2F7d%2Fd7%2F977dd7ee161a4839b88c242dd569a336%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a335913a-e8cc-4c48-8657-679d7f15dec0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8257072\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/394c97e7-95e7-4fba-a268-2a9ceaaea33f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8b70d0b8-9d96-4b53-b79a-14c7a9ddec84/file/98b3df12-857b-46f4-a22c-b09ad7683bca\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/06%2Fcc%2F92%2F06cc929e57dc4fe7aaa6ad1a6ea98c6c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a335913a-e8cc-4c48-8657-679d7f15dec0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7101"
 }

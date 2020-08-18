@@ -18,15 +18,21 @@
     "Atlantic Coast (Md.)—Maps",
     "North Atlantic Ocean—Navigation",
     "Coasts—Delaware—Maps",
-    "Coasts—Maryland—Maps"
+    "Coasts—Maryland—Maps",
+    "Maps—Delaware—1850",
+    "Maps—Maryland—1850",
+    "Nautical charts—Delaware—1850",
+    "Nautical charts—Maryland—1850"
   ],
   "dct_spatial_sm": [
     "Delaware",
     "Maryland"
   ],
-  "layer_modified_dt": "2019-06-04T18:45:04Z",
+  "solr_year_i": 1850,
+  "layer_modified_dt": "2020-06-23T20:04:46Z",
   "layer_id_s": "ark:/88435/tt44pq39h",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7682643\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2281bd02-13c9-42af-a4f4-4747c4488aa9/file/a8815943-0a5f-44c6-84ef-77ef18f720a1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/13%2F16%2Fbc%2F1316bc773e0340ea8f75869be3522ef8%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be35ed35-2685-4399-a797-916a0909d4eb/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7682643\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2281bd02-13c9-42af-a4f4-4747c4488aa9/file/a8815943-0a5f-44c6-84ef-77ef18f720a1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/7b%2Fc1%2F90%2F7bc1905bf94447a4bf0d823de4753962%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be35ed35-2685-4399-a797-916a0909d4eb/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6982"
 }

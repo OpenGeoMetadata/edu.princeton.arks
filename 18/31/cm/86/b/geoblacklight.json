@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C. : U.S. Dept. of the Interior, 1896]",
   "dc_subject_sm": [
-    "Yellowstone National Park—Maps, Topographic"
+    "Yellowstone National Park—Maps, Topographic",
+    "Topographic maps—Yellowstone National Park—1896"
   ],
   "dct_spatial_sm": [
     "Wyoming"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:38Z",
+  "solr_year_i": 1896,
+  "layer_modified_dt": "2020-06-23T19:56:53Z",
   "layer_id_s": "public-figgy:p-e0b30a89-04cd-474a-a6dd-c05cbd1b8159",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5237006\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0b30a89-04cd-474a-a6dd-c05cbd1b8159/file/2099b606-0b85-4090-97f1-1babe84702d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0b30a89-04cd-474a-a6dd-c05cbd1b8159/file/5b6c1a59-8394-458d-a84e-c4f20f51aa7c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/96%2F8f%2Fb9%2F968fb9b67ec64cda911f903e0ea2f2bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b11d4670-e9b4-462e-a817-47b5410c0f6b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5237006\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e0b30a89-04cd-474a-a6dd-c05cbd1b8159/file/2099b606-0b85-4090-97f1-1babe84702d4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e0b30a89-04cd-474a-a6dd-c05cbd1b8159/file/5b6c1a59-8394-458d-a84e-c4f20f51aa7c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/07%2Fbc%2Fa4%2F07bca41f2aa240949769659c96f41e9a%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b11d4670-e9b4-462e-a817-47b5410c0f6b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3739"
 }

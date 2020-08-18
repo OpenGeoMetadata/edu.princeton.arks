@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Chicago : Rand-McNally & Co., c1912]",
   "dc_subject_sm": [
-    "Asia—Maps"
+    "Asia—Maps",
+    "Maps—Asia—1912"
   ],
   "dct_spatial_sm": [
     "Asia"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:34Z",
+  "solr_year_i": 1912,
+  "layer_modified_dt": "2020-06-23T16:35:22Z",
   "layer_id_s": "public-figgy:p-2be9d0ef-cb3c-480c-8988-9ed4405678dd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5676896\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2be9d0ef-cb3c-480c-8988-9ed4405678dd/file/8b9e2c68-8616-4eb6-8e6c-c7e4e8afd6ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2be9d0ef-cb3c-480c-8988-9ed4405678dd/file/81150118-72ce-4755-bd38-3aef0c3880a5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0b%2Fc8%2F02%2F0bc802ac377246099a6ef8f66efa46ff%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5bc30cec-8392-4d47-a00f-6445b65a8ac2/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5676896\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2be9d0ef-cb3c-480c-8988-9ed4405678dd/file/8b9e2c68-8616-4eb6-8e6c-c7e4e8afd6ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2be9d0ef-cb3c-480c-8988-9ed4405678dd/file/81150118-72ce-4755-bd38-3aef0c3880a5\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/12%2Fa7%2F24%2F12a7245392e14793bdcc9c123dbad3cb%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5bc30cec-8392-4d47-a00f-6445b65a8ac2/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.361"
 }

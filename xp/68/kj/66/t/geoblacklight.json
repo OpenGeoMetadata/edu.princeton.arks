@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris? : H. Langlois, 1802?]",
   "dc_subject_sm": [
-    "South America—Maps"
+    "South America—Maps",
+    "Maps—South America—1802"
   ],
   "dct_spatial_sm": [
     "South America"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:53Z",
+  "solr_year_i": 1802,
+  "layer_modified_dt": "2020-06-23T15:31:00Z",
   "layer_id_s": "public-figgy:p-d43df430-0255-4f64-9b6c-c40d4490b542",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6433539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d43df430-0255-4f64-9b6c-c40d4490b542/file/97b4cea0-9ff7-41c2-a19d-4a0b8b1cf82b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d43df430-0255-4f64-9b6c-c40d4490b542/file/15e9a3cb-534b-4ffa-bff6-037c1d0be75d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e9%2Fe8%2Feb%2Fe9e8eb63987f4f5da81ccd087458c442%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/102edad7-7b6b-49bd-8806-5bf403007363/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6433539\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d43df430-0255-4f64-9b6c-c40d4490b542/file/97b4cea0-9ff7-41c2-a19d-4a0b8b1cf82b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d43df430-0255-4f64-9b6c-c40d4490b542/file/e043b011-9d81-40f5-bc48-b87e198b57b7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/13%2F11%2Ff4%2F1311f442ab264b149eb99f47389b634c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/102edad7-7b6b-49bd-8806-5bf403007363/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.762"
 }

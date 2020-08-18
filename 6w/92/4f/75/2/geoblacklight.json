@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-6w924f752",
   "uuid": "princeton-6w924f752",
   "dc_title_s": "Caermarden, both shyre and towne described",
-  "solr_geom": "ENVELOPE(-4.721562, -3.6471251, 52.1421061, 51.6449541)",
+  "solr_geom": "ENVELOPE(-4.8043, -3.4173, 52.2189, 51.645)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. \"Cum privilegio.\" Inset: Caermarden. Shows hundreds and main roads. From: The theatre of the empire of Great Britaine ... / divided and described by Iohn Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611.",
@@ -14,14 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London], Are to be sold in popes head alley against the excha[n]ge by John Sudbury and George Humble, 1610.",
   "dc_subject_sm": [
-    "Carmarthenshire (Wales)—Maps—Early works to 1800"
+    "Carmarthenshire (Wales)—Maps—Early works to 1800",
+    "County maps—Wales—Carmarthenshire—1610",
+    "Maps—Wales—Carmarthenshire—1610"
   ],
   "dct_spatial_sm": [
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:00Z",
+  "solr_year_i": 1610,
+  "layer_modified_dt": "2020-06-23T19:42:25Z",
   "layer_id_s": "ark:/88435/6w924f752",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7274562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1926fae9-8359-4251-82fb-2cf89c82b69f/file/8140b1d8-3fd8-43c4-8a2a-28760d484c0a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ce%2Fdb%2F56%2Fcedb56a09a024c93864a94f25149a010%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94c1c125-c5e3-4258-a771-70cc2dea11ca/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7274562\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1926fae9-8359-4251-82fb-2cf89c82b69f/file/8140b1d8-3fd8-43c4-8a2a-28760d484c0a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/81%2F3c%2Fac%2F813cacd4bc4245fd85cef538d3f87ff2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/94c1c125-c5e3-4258-a771-70cc2dea11ca/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4784"
 }

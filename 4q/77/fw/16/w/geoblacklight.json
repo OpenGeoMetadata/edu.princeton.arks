@@ -7,16 +7,21 @@
   "solr_geom": "ENVELOPE(121.3275, 121.571667, 31.359444, 31.125556)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Geographical Institute. North Decimal Degree 31.359444. South Decimal Degree 31.125556. East Decimal Degree 121.571667. West Decimal Degree 121.327500. Insets: District around Shanghai [1:974,769]; Eastern Asia. Text on verso. Map shows: International settlement, French concession, Chinese city, and Nantao; consulates and oil companies are located. Litographed by Edwards Brothers, Inc.",
+  "dc_description_s": "Map shows  international settlement, French concession, Chinese city, and districts boundaries; consulates and oil companies are located ; streets are not named. Insets: District around Shanghai [1:974,769]; -- Eastern Asia. Text on verso.",
   "dc_language_s": "eng",
-  "dc_publisher_s": "[Ann Arbor, Michigan] : [s.n.], 1932.",
+  "dc_publisher_s": "Ann Arbor, Michigan : Geographical Institute, 1932.",
   "dc_subject_sm": [
-    "China—Maps"
+    "Shanghai (China)—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:16:27Z",
+  "dct_spatial_sm": [
+    "Shanghai (China)"
+  ],
+  "solr_year_i": 1932,
+  "layer_modified_dt": "2020-06-22T22:19:23Z",
   "layer_id_s": "ark:/88435/4q77fw16w",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830381\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830381\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b01d1569-2fbd-4f5c-b0da-16af7a533d3f/file/f8a5336d-6b0e-4e78-83c7-c0ae2e6644a6\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
-  "call_number_s": "G7824.S2 1932 G4I5"
+  "suppressed_b": false,
+  "call_number_s": "G7824.S2 1932 .G4I5"
 }

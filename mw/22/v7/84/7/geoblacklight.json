@@ -18,7 +18,12 @@
     "Middle Atlantic States—Maps—Early works to 1800",
     "New Jersey—Maps—Early works to 1800",
     "North Carolina—Maps—Early works to 1800",
-    "Virginia—Maps—Early works to 1800"
+    "Virginia—Maps—Early works to 1800",
+    "Maps—Maryland—1714",
+    "Maps—Middle Atlantic States—1714",
+    "Maps—New Jersey—1714",
+    "Maps—North Carolina—1714",
+    "Maps—Virginia—1714"
   ],
   "dct_spatial_sm": [
     "Middle Atlantic States",
@@ -27,10 +32,12 @@
     "North Carolina",
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:20Z",
+  "solr_year_i": 1714,
+  "layer_modified_dt": "2020-06-24T03:52:37Z",
   "layer_id_s": "public-figgy:p-5c7a925b-af7c-4a40-9731-c11f1e1f1913",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5951315\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c7a925b-af7c-4a40-9731-c11f1e1f1913/file/f3f15e4f-ffb4-4f2c-b3f2-84a02a4d528f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c7a925b-af7c-4a40-9731-c11f1e1f1913/file/f97069b6-0d7e-4c71-836d-42a8db88f901\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/04%2Fd8%2F60%2F04d86008f3cf4ecd8335821fec82a43e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b7a30647-d799-43d2-b5b3-fec0dda1c48c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5951315\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c7a925b-af7c-4a40-9731-c11f1e1f1913/file/f3f15e4f-ffb4-4f2c-b3f2-84a02a4d528f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c7a925b-af7c-4a40-9731-c11f1e1f1913/file/f97069b6-0d7e-4c71-836d-42a8db88f901\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/71%2Fd5%2Fb6%2F71d5b6a3d90e49d0aef53f79bdc5848c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b7a30647-d799-43d2-b5b3-fec0dda1c48c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1198"
 }

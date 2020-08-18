@@ -11,15 +11,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Peking : [publisher not identified], 1922.",
   "dc_subject_sm": [
-    "Beijing (China)—Maps"
+    "Beijing (China)—Maps",
+    "Maps"
   ],
   "dct_spatial_sm": [
     "Beijing (China)"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:03Z",
+  "solr_year_i": 1922,
+  "layer_modified_dt": "2020-06-23T20:21:49Z",
   "layer_id_s": "public-figgy:p-5ff455c1-8e5d-4780-a0c6-0f607d5f8205",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449769\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ff455c1-8e5d-4780-a0c6-0f607d5f8205/file/06516fcc-d1f4-41e4-8fc5-5a956c84496e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ff455c1-8e5d-4780-a0c6-0f607d5f8205/file/50869a32-7719-4955-82a1-7efd24a89793\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/27%2F69%2F39%2F2769398a0698481580f9ea6a1411f40f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43730d45-cfe1-4abd-b662-86298b35c1a9/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449769\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ff455c1-8e5d-4780-a0c6-0f607d5f8205/file/06516fcc-d1f4-41e4-8fc5-5a956c84496e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ff455c1-8e5d-4780-a0c6-0f607d5f8205/file/50869a32-7719-4955-82a1-7efd24a89793\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/12%2Fab%2F9c%2F12ab9cfeba4e4b52b5007bcd70dd0255%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/43730d45-cfe1-4abd-b662-86298b35c1a9/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7824.B4 1922 .G7"
 }

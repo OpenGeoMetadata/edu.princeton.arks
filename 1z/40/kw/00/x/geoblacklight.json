@@ -6,7 +6,7 @@
   "dc_title_s": "New Egypt, Ocean County, New Jersey (Sheet 6)",
   "solr_geom": "ENVELOPE(-74.550709, -74.510709, 40.087614, 40.047613)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1620.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—New Egypt—Maps",
-    "New Egypt (N.J.)—Maps"
+    "New Egypt (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—New Egypt—1924",
+    "Maps—New Jersey—New Egypt—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:11Z",
-  "layer_id_s": "restricted-figgy:p-fd7a5b5d-5f6e-4f85-84f7-c40b8fedd737",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574082\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd7a5b5d-5f6e-4f85-84f7-c40b8fedd737/file/5c9cf7fd-5994-4cf4-b0a9-643cefba7476\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:11:43Z",
+  "layer_id_s": "public-figgy:p-fd7a5b5d-5f6e-4f85-84f7-c40b8fedd737",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574082\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/fd7a5b5d-5f6e-4f85-84f7-c40b8fedd737/file/3f00b97c-6da3-4cb0-a306-a78e57f1264f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/fd7a5b5d-5f6e-4f85-84f7-c40b8fedd737/file/16a870fc-cdea-47c2-9515-12fe7bafec95\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/42%2Feb%2Fca%2F42ebca82219a498fa3b5f011c3dd4b7b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5dae7a5f-4400-4d31-a116-296fe5f51f57/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

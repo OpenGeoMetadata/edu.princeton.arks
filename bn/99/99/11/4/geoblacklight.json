@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : Chez Rosselin, Quai Voltaire No. 21, 1833.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1833",
+    "City maps—France—Paris—1833"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:27:22Z",
+  "solr_year_i": 1833,
+  "layer_modified_dt": "2020-06-24T03:52:57Z",
   "layer_id_s": "public-figgy:p-add52ecc-79c4-4fae-a272-d724c57f65e0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030040\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/add52ecc-79c4-4fae-a272-d724c57f65e0/file/6c4604eb-e067-44f7-b201-20560d305c10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/add52ecc-79c4-4fae-a272-d724c57f65e0/file/1fb26497-b3f9-49b4-97d4-b1e4d0688e36\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d3%2Fd3%2F04%2Fd3d304cf376e43be8b6a6569e595446c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25dfd119-27fd-4d80-9f86-a19d86a49ef8/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030040\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/add52ecc-79c4-4fae-a272-d724c57f65e0/file/6c4604eb-e067-44f7-b201-20560d305c10\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/add52ecc-79c4-4fae-a272-d724c57f65e0/file/1fb26497-b3f9-49b4-97d4-b1e4d0688e36\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/84%2Fd4%2Fe1%2F84d4e109472145a583dcd170a67f3853%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/25dfd119-27fd-4d80-9f86-a19d86a49ef8/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2397"
 }

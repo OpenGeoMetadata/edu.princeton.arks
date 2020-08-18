@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Boston : Published at the Boston Bookstore by Cummings & Hilliard ... , [1821?]",
   "dc_subject_sm": [
-    "Europe—Maps"
+    "Europe—Maps",
+    "Maps—Europe—1821"
   ],
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:48Z",
+  "solr_year_i": 1821,
+  "layer_modified_dt": "2020-06-24T03:53:30Z",
   "layer_id_s": "public-figgy:p-f2acc6d2-eb5b-468f-8914-0fb3a8e7ef74",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7093836\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2acc6d2-eb5b-468f-8914-0fb3a8e7ef74/file/b6853c48-4acc-4454-9dce-c2c57e16026c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2acc6d2-eb5b-468f-8914-0fb3a8e7ef74/file/b4cf938b-14e8-425b-9c96-fa2d41c0f6c5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ae%2Fe9%2Fe7%2Faee9e72917a34a62949c708efa781b11%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/721ea209-a054-4ceb-9ce2-93f3368919a4/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7093836\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f2acc6d2-eb5b-468f-8914-0fb3a8e7ef74/file/b6853c48-4acc-4454-9dce-c2c57e16026c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f2acc6d2-eb5b-468f-8914-0fb3a8e7ef74/file/b4cf938b-14e8-425b-9c96-fa2d41c0f6c5\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6c%2F5d%2F39%2F6c5d39951e334f63b988f41f573a92c4%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/721ea209-a054-4ceb-9ce2-93f3368919a4/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.594"
 }

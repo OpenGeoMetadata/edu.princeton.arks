@@ -17,16 +17,20 @@
     "Post roads—Portugal—Maps",
     "Post roads—Spain—Maps",
     "Portugal—Maps",
-    "Spain—Maps"
+    "Spain—Maps",
+    "Maps—Portugal—1808",
+    "Maps—Spain—1808"
   ],
   "dct_spatial_sm": [
     "Spain",
     "Portugal"
   ],
-  "layer_modified_dt": "2019-06-04T18:12:33Z",
+  "solr_year_i": 1808,
+  "layer_modified_dt": "2020-06-24T10:22:57Z",
   "layer_id_s": "public-figgy:p-7b94032e-9907-469e-a00d-c480aa68df1f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8314092\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b94032e-9907-469e-a00d-c480aa68df1f/file/ea67f9ee-b320-4881-966e-d39ad487f7ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b94032e-9907-469e-a00d-c480aa68df1f/file/8f3ae3bc-34b4-48e8-9a2e-1d2f66732145\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a9%2F38%2Ff8%2Fa938f874622a4284b4bb306fb1161e31%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a819673a-9f61-4237-859e-583c510e8a3c/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8314092\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b94032e-9907-469e-a00d-c480aa68df1f/file/ea67f9ee-b320-4881-966e-d39ad487f7ea\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b94032e-9907-469e-a00d-c480aa68df1f/file/8f3ae3bc-34b4-48e8-9a2e-1d2f66732145\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4f%2F1d%2Fb2%2F4f1db2147935439b9c82bdceb3a687a9%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a819673a-9f61-4237-859e-583c510e8a3c/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5125"
 }

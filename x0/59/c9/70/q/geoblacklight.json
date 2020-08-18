@@ -16,7 +16,10 @@
   "dc_subject_sm": [
     "Dominican Republic—Maps",
     "Netherlands Antilles—Maps",
-    "Puerto Rico—Maps"
+    "Puerto Rico—Maps",
+    "Maps—Dominican Republic—1827",
+    "Maps—Netherlands Antilles—1827",
+    "Maps—Puerto Rico—1827"
   ],
   "dct_spatial_sm": [
     "Dominican Republic",
@@ -25,10 +28,12 @@
     "Venezuela",
     "Colombia"
   ],
-  "layer_modified_dt": "2019-06-04T17:28:06Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-24T03:45:28Z",
   "layer_id_s": "public-figgy:p-9228b365-71c3-4fe4-b075-020dbd16b3c7",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/4b6615d7-8b75-4df1-9947-611d8bc95831\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/c72c284d-f5c3-46b9-9c24-43016e70eb4e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/34%2F69%2F07%2F346907540de34ade95638382aeb6707c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18baffcd-b005-4516-b30d-1e108d3f2a64/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5722249\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/4b6615d7-8b75-4df1-9947-611d8bc95831\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9228b365-71c3-4fe4-b075-020dbd16b3c7/file/c72c284d-f5c3-46b9-9c24-43016e70eb4e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/66%2F91%2Fa4%2F6691a43cad9746feb7e34b5d7071af88%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/18baffcd-b005-4516-b30d-1e108d3f2a64/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6484"
 }

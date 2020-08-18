@@ -11,15 +11,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris? : s.n., ca. 1855]",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1855",
+    "City maps—France—Paris—1855"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:04Z",
+  "solr_year_i": 1855,
+  "layer_modified_dt": "2020-06-23T20:00:12Z",
   "layer_id_s": "public-figgy:p-17c349c6-8238-4abd-b1a0-06400b744b38",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6117833\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17c349c6-8238-4abd-b1a0-06400b744b38/file/c63dde61-bf56-460d-81b3-ea0dda618c15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17c349c6-8238-4abd-b1a0-06400b744b38/file/7ed0410a-d04d-4047-b137-7caa1639445a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/eb%2F3a%2Fbe%2Feb3abe821b044cf9a7b2c0dde1655a85%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/423975cc-d3e3-4be2-b498-9d484acaf9d5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6117833\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/17c349c6-8238-4abd-b1a0-06400b744b38/file/c63dde61-bf56-460d-81b3-ea0dda618c15\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17c349c6-8238-4abd-b1a0-06400b744b38/file/7ed0410a-d04d-4047-b137-7caa1639445a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a8%2F4e%2F84%2Fa84e843e993748f2ad8ce17fadde168d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/423975cc-d3e3-4be2-b498-9d484acaf9d5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4480"
 }

@@ -3,21 +3,28 @@
   "dc_identifier_s": "ark:/88435/6h440x307",
   "layer_slug_s": "princeton-6h440x307",
   "uuid": "princeton-6h440x307",
-  "dc_title_s": "Downtown Pusan, Korea: proposed zoning of Pusan",
-  "solr_geom": "ENVELOPE(128.95, 129.2, 35.25, 35.016666666666666)",
+  "dc_title_s": "Downtown Pusan - Korea : proposed zoning of Pusan",
+  "solr_geom": "ENVELOPE(128.935284, 129.308274, 35.389224, 35.0211369)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "[s.n.]. Map is a photocopy.",
+  "dc_description_s": "A scanned map object.",
   "dc_language_s": "eng",
-  "dc_publisher_s": "[s.l.] : [s.n.], [1965].",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [1965].",
   "dc_subject_sm": [
     "Zoning",
+    "Urban development",
+    "Land use",
     "Pusan (Korea)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:15:01Z",
-  "layer_id_s": "restricted-figgy:p-aaafa66c-6aed-4857-8317-84efb3196cb3",
+  "dct_spatial_sm": [
+    "Korea"
+  ],
+  "solr_year_i": 1965,
+  "layer_modified_dt": "2020-07-02T00:51:59Z",
+  "layer_id_s": "aaafa66c-6aed-4857-8317-84efb3196cb3",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830576\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/aaafa66c-6aed-4857-8317-84efb3196cb3/file/c8cac02b-2f41-4b09-9992-3c1ba0cf5b98\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7904.P987G45 1965"
 }

@@ -15,15 +15,20 @@
   "dc_publisher_s": "[Munich : Bayerisches Landesvermessungsamt, 1909]",
   "dc_subject_sm": [
     "Bavaria (Germany)—Maps",
-    "Kempten (Germany)—Maps"
+    "Kempten (Germany)—Maps",
+    "Maps—Germany—Bavaria—1909",
+    "Maps—Germany—Kempten—1909",
+    "Topographic maps—Germany—Bavaria—1909"
   ],
   "dct_spatial_sm": [
     "Germany"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:42Z",
+  "solr_year_i": 1909,
+  "layer_modified_dt": "2020-06-22T22:35:03Z",
   "layer_id_s": "public-figgy:p-e4291698-280c-4ab8-b06c-c0a13012f0ab",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7423738\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4291698-280c-4ab8-b06c-c0a13012f0ab/file/5bf6057e-d1cd-478b-90cf-6b31c1a77b92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4291698-280c-4ab8-b06c-c0a13012f0ab/file/242ff82a-026f-4339-8a7a-8a8df7534db0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/51%2F3b%2Fb4%2F513bb4675a3b41349080623984998f49%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a87faae7-2e5f-40cd-81aa-83ccb4449aae/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7423738\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e4291698-280c-4ab8-b06c-c0a13012f0ab/file/5bf6057e-d1cd-478b-90cf-6b31c1a77b92\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e4291698-280c-4ab8-b06c-c0a13012f0ab/file/3d007460-eee6-4ef9-b6e3-53938923e8be\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4f%2F01%2Faf%2F4f01af06f3f54d1baf651275d717fcc1%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a87faae7-2e5f-40cd-81aa-83ccb4449aae/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3282"
 }

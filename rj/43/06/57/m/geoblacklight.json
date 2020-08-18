@@ -6,7 +6,7 @@
   "dc_title_s": "Newfield, Gloucester County, New Jersey (Sheet 2)",
   "solr_geom": "ENVELOPE(-74.550709, -74.510709, 40.087614, 40.047613)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"September 1924.\" \"1815.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Newfield—Maps",
-    "Newfield (N.J.)—Maps"
+    "Newfield (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Newfield—1924",
+    "Maps—New Jersey—Newfield—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:38:49Z",
-  "layer_id_s": "restricted-figgy:p-7fee89ba-85fc-44d5-a14b-b12655b237ac",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482387\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7fee89ba-85fc-44d5-a14b-b12655b237ac/file/4d2cd3bd-c742-46ba-af8d-1e48d4a6d609\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:11:04Z",
+  "layer_id_s": "public-figgy:p-7fee89ba-85fc-44d5-a14b-b12655b237ac",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5482387\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7fee89ba-85fc-44d5-a14b-b12655b237ac/file/3f4a309c-fb1e-43f3-aa37-8492d0e65da7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7fee89ba-85fc-44d5-a14b-b12655b237ac/file/1d15f3a2-c3a3-44c1-8d71-fb96e5325e1c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/14%2F08%2F99%2F14089912b64842ddbe87834d00f5cc6e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ec098ec9-a419-4f38-a0ad-ca215be67081/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

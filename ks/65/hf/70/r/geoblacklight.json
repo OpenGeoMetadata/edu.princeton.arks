@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-ks65hf70r",
   "uuid": "princeton-ks65hf70r",
   "dc_title_s": "Northamton shire",
-  "solr_geom": "ENVELOPE(-0.9710262, -0.7913429, 52.2827115, 52.1861054)",
+  "solr_geom": "ENVELOPE(-1.3324, -0.1167, 52.6835, 51.9773)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. \"Cum privilegio.\" Insets: Northampton -- Peterborow. Includes \"The armes of all those honorable families that have bene created Earles of Northa[m]pto[n], since ye Normans conquest.\" Text on verso with caption title: Northampton-shire. Book I. Chap. 28; p. 55-56; signature N2. From: The theatre of the empire of Great Britaine ... / divided and described by Iohn Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611.",
@@ -16,14 +16,18 @@
   "dc_subject_sm": [
     "Northampton (England)—Maps—Early works to 1800",
     "Northamptonshire (England)—Maps—Early works to 1800",
-    "Peterborough (England)—Maps—Early works to 1800"
+    "Peterborough (England)—Maps—Early works to 1800",
+    "County maps—England—Northamptonshire—1610",
+    "Maps—England—Northamptonshire—1610"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T19:32:08Z",
+  "solr_year_i": 1610,
+  "layer_modified_dt": "2020-06-23T15:31:05Z",
   "layer_id_s": "ark:/88435/ks65hf70r",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7280863\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0053c29d-e5fc-47c0-a1fe-1b367a5659fa/file/f8c18544-82dc-4ee3-bd18-35c27ddf06a1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2e%2F57%2Fe5%2F2e57e5e09fe641b38ed7ccafb9462f76%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f86315b-f8db-4783-b2ac-6a07378192e1/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7280863\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/0053c29d-e5fc-47c0-a1fe-1b367a5659fa/file/f8c18544-82dc-4ee3-bd18-35c27ddf06a1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/86%2F90%2F56%2F8690563782e24139a6f1f6ffb8524904%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f86315b-f8db-4783-b2ac-6a07378192e1/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4798"
 }

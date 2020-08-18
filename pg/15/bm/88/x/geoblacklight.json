@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/pg15bm88x",
+  "layer_slug_s": "princeton-pg15bm88x",
+  "uuid": "princeton-pg15bm88x",
+  "dc_title_s": "Colombia economic data from 2005 census",
+  "solr_geom": "ENVELOPE(-81.722456, -67.47411, 13.385775, -0.566358)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Colombia from the 2005 census. This census is provided at the manzana administrative level (ADM6) and includes 261,263 polygons with 194 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sexo_Hombre” was updated to D001 and given the alias “Gender: Male[Sexo_Hombre]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration and S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dct_spatial_sm": [
+    "Colombia",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2019"
+  ],
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2020-05-20T22:22:27Z",
+  "layer_id_s": "restricted-figgy:p-11be2b20-b967-4bd0-8cfc-273d4635a2f8",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/94efd1bc-767c-449a-9054-89a347b32633/file/9ce7ab07-ebdc-4c7d-a725-34267037ac47\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/11be2b20-b967-4bd0-8cfc-273d4635a2f8/file/7b2e8f10-c522-4ad9-9594-096eaed9e09c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/11be2b20-b967-4bd0-8cfc-273d4635a2f8/file/36d250ca-16dd-43e1-bdfb-04e177bfa844\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

@@ -6,7 +6,7 @@
   "dc_title_s": "New Egypt, Ocean County, New Jersey",
   "solr_geom": "ENVELOPE(-74.550709, -74.510709, 40.087614, 40.047613)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1620.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—New Egypt—Maps",
-    "New Egypt (N.J.)—Maps"
+    "New Egypt (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—New Egypt—1924",
+    "Maps—New Jersey—New Egypt—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:43:59Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:11:55Z",
   "layer_id_s": "ark:/88435/s4655k49t",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574082\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1cebde14-3fa9-47db-85fb-f2d99b7bbb6f/file/a72d1564-6715-4227-b172-31b3236907db\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5574082\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/1cebde14-3fa9-47db-85fb-f2d99b7bbb6f/file/73ef38a2-884c-4d2f-bc9f-72c716ccd1b8\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/88%2F7c%2Fac%2F887cac58514240f6b3ecc00ed64164ed%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be6434b2-a65b-4e2a-89c6-62fd6fcda29e/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (New Egypt)"
 }

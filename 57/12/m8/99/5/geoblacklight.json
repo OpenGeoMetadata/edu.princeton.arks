@@ -3,32 +3,29 @@
   "dc_identifier_s": "ark:/88435/5712m8995",
   "layer_slug_s": "princeton-5712m8995",
   "uuid": "princeton-5712m8995",
-  "dc_title_s": "The Rand-McNally new library atlas map of Brazil and Guiana [copy 2]",
-  "solr_geom": "ENVELOPE(-74.0, -31.01, 9.0, -34.01)",
+  "dc_title_s": "Atlantic Coast of the United States, Boston to Cape Hatteras",
+  "solr_geom": "ENVELOPE(-76.17, -69.01, 42.67, 35.0)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Relief shown by hachures. Inset map: Western portion of Brazil. In margin: Library atlas of the world. [Brazil and Guiana.]. 37-38.",
+  "dc_description_s": "Depths shown by soundings (in fathoms), isolines, and shading. At head of title: North America. \"No. 942.\" \"Washington, D.C., published Oct., 1885 at the Hydrographic Office, under the authority of the Secretary of the Navy. Extensive corrections Feb., 1910; Jan., 1917.\" \"Small corrections from Notices to Mariners: '17-6, 13, 19 and from other sources: III '17.\"",
   "dc_creator_sm": [
-    "Rand McNally and Company"
+    "United States. Hydrographic Office"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Chicago : Rand McNally & Co., engravers, 1912.",
+  "dc_publisher_s": "Washington, D.C. : The Office, 1885 [i.e. 1917]",
   "dc_subject_sm": [
-    "Brazil—Maps",
-    "Guiana—Maps"
+    "Coasts—Atlantic States—Maps",
+    "Atlantic Coast (U.S.)—Maps"
   ],
   "dct_spatial_sm": [
-    "Brazil",
-    "Guyana"
+    "United States"
   ],
-  "layer_modified_dt": "2019-06-04T17:45:30Z",
-  "layer_id_s": "public-figgy:p-5c757450-a98e-4599-a813-9994a3053d13",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6592917\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5c757450-a98e-4599-a813-9994a3053d13/file/bfd23aec-50d9-4990-932d-ac96fc655674\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5c757450-a98e-4599-a813-9994a3053d13/file/0cfac3e5-c5a7-43cc-8132-9f78960f932b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/3b%2F9a%2Ffb%2F3b9afb9707814ef6949da60905eae861%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ff1b8e18-b18d-44d6-a646-1f9aab8bbfa5/manifest\"}",
+  "solr_year_i": 1917,
+  "layer_modified_dt": "2020-05-21T03:00:00Z",
+  "layer_id_s": "public-figgy:p-a360fe13-16ed-40fd-9423-714361481f49",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6786542\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/a360fe13-16ed-40fd-9423-714361481f49/file/e34124bd-42ed-4181-8586-d6b48ff3e880\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/a360fe13-16ed-40fd-9423-714361481f49/file/675a676d-49ff-439d-9eda-feb8ec0a9ed9\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d0%2F8e%2F7b%2Fd08e7bc71a964cac8bb4def2f27d8df0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/57f01d6a-0d11-40b0-9a2a-cb7d8e09d86b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "suppressed_b": true,
-  "dc_source_sm": [
-    "princeton-9019s493z"
-  ],
-  "call_number_s": "HMC01.6175"
+  "suppressed_b": false,
+  "call_number_s": "HMC01.1103"
 }

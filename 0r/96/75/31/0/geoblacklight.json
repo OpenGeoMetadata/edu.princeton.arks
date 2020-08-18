@@ -6,7 +6,7 @@
   "dc_title_s": "Medford, Burlington County, New Jersey (Sheet 6)",
   "solr_geom": "ENVELOPE(-74.866, -74.754, 39.937, 39.785)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"September 1924.\" Includes location map, key, streets and specials index, and text. \"1817.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Medford—Maps",
-    "Medford (N.J.)—Maps"
+    "Medford (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Medford—1924",
+    "Maps—New Jersey—Medford—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:44:38Z",
-  "layer_id_s": "restricted-figgy:p-54370a62-5013-4198-953c-65370ff2149e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5128690\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54370a62-5013-4198-953c-65370ff2149e/file/d8360245-b3b5-4365-9987-df1daf7fe27d\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:09:07Z",
+  "layer_id_s": "public-figgy:p-54370a62-5013-4198-953c-65370ff2149e",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5128690\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/54370a62-5013-4198-953c-65370ff2149e/file/0844f1a9-b140-4f40-8bcf-36170756a177\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/54370a62-5013-4198-953c-65370ff2149e/file/7d7d6eb1-6695-4eb2-aa7f-dd79c204bfbf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d2%2Fa2%2Fec%2Fd2a2ec086c2c4087a8bf9a2e0578f44f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/91f3a0a5-8ce9-4fcc-9ef3-b3c35413dcdf/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

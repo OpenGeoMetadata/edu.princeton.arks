@@ -15,14 +15,21 @@
   "dc_publisher_s": "[New York : Sanborn Map Company, 1908]",
   "dc_subject_sm": [
     "Real property—New Jersey—Newark—Maps",
-    "Newark (N.J.)—Maps"
+    "Newark (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Newark—1908",
+    "Maps—New Jersey—Newark—1908"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:44Z",
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "solr_year_i": 1908,
+  "layer_modified_dt": "2020-06-24T10:23:14Z",
   "layer_id_s": "ark:/88435/1r66j402f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5655439\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd8889b5-6698-4591-936f-5709f1c343f0/file/7f5e4f76-2fd9-4f59-83a2-85c535a3f22e\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2e%2F25%2Fb4%2F2e25b4dc2f454f54b5d8290d6a5743ae%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a016787f-e524-4125-961f-fb48f92bb9d3/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5655439\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bd8889b5-6698-4591-936f-5709f1c343f0/file/7f5e4f76-2fd9-4f59-83a2-85c535a3f22e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/96%2F88%2Fb2%2F9688b24529ce4d63ae537840082fd818%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/a016787f-e524-4125-961f-fb48f92bb9d3/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Newark)"
 }

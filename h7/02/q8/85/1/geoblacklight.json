@@ -14,15 +14,19 @@
   "dc_language_s": "ita",
   "dc_publisher_s": "Milano : dall' Editore Litografo A. Vallardi, conta. Sa. Marga. 1118, [187-?]",
   "dc_subject_sm": [
-    "Europe—Maps"
+    "Europe—Maps",
+    "Maps—Europe—1870",
+    "Relief maps—Europe—1870"
   ],
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2019-06-04T19:29:43Z",
+  "solr_year_i": 1870,
+  "layer_modified_dt": "2020-06-22T22:34:22Z",
   "layer_id_s": "public-figgy:p-24a96762-01a8-4b34-b5a8-e19af8f50fce",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7098639\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24a96762-01a8-4b34-b5a8-e19af8f50fce/file/06644cba-a000-4b29-81aa-0c627bf64039\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24a96762-01a8-4b34-b5a8-e19af8f50fce/file/d557307e-37c5-4081-a9af-d41811a183db\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/4f%2Fc0%2Fd9%2F4fc0d9e1b5e44a259183c75a27752448%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cfaba04e-ad9b-4dd8-8620-7dfb9ee6bc96/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7098639\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/24a96762-01a8-4b34-b5a8-e19af8f50fce/file/06644cba-a000-4b29-81aa-0c627bf64039\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/24a96762-01a8-4b34-b5a8-e19af8f50fce/file/3be4020a-8abb-4cbf-8a48-c428bf84c1af\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a7%2F1f%2Fd9%2Fa71fd9c22ce04ee1b583cbaab01d1e5d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cfaba04e-ad9b-4dd8-8620-7dfb9ee6bc96/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.746"
 }

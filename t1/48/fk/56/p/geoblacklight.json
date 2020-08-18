@@ -14,12 +14,16 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "A Paris : chez Jean, rue Jean de Beauvais No 32, 1802, An 11.",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1802",
+    "City maps—France—Paris—1802"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:16Z",
+  "solr_year_i": 1802,
+  "layer_modified_dt": "2020-06-24T03:50:59Z",
   "layer_id_s": "public-figgy:p-293a46a8-0f60-4cc0-9be8-5c53b1e7140e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6068052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/293a46a8-0f60-4cc0-9be8-5c53b1e7140e/file/bdfe9059-3476-4eae-a0c0-3a95ba6299ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/293a46a8-0f60-4cc0-9be8-5c53b1e7140e/file/65099969-adda-4360-a947-d1fcc25219ec\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/fa%2F1b%2Fd0%2Ffa1bd0667d724ec4bce7165051311bf0%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1437768d-e8c8-41dc-883d-b6e381eda1d5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6068052\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/293a46a8-0f60-4cc0-9be8-5c53b1e7140e/file/bdfe9059-3476-4eae-a0c0-3a95ba6299ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/293a46a8-0f60-4cc0-9be8-5c53b1e7140e/file/65099969-adda-4360-a947-d1fcc25219ec\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/70%2Fc3%2F41%2F70c341b890a141a994cd01350a83d062%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1437768d-e8c8-41dc-883d-b6e381eda1d5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3010"
 }

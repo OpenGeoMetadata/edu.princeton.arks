@@ -7,22 +7,25 @@
   "solr_geom": "ENVELOPE(74.2375, 74.434444, 31.617778, 31.41)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "UTM Zone 43. Includes two insets: [Map showing towns administrative boundaries] -- Continuation of Raiwin Rd.",
+  "dc_description_s": "UTM Zone 43.",
   "dc_creator_sm": [
-    "Ashraf, Nasir (Cartographer)"
+    "Ashraf, Nasir"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "[Lahore] : Published by Jahangir Books, [2013]",
+  "dc_publisher_s": "[Lahore] : published by Jahangir Books, [2013]",
   "dc_subject_sm": [
-    "Lahore (Pakistan)—Maps"
+    "Lahore (Pakistan)—Maps",
+    "Maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:03:20Z",
-  "layer_id_s": "restricted-figgy:p-b5921932-996f-484c-8b1f-d0834a7febb0",
+  "solr_year_i": 2013,
+  "layer_modified_dt": "2020-06-23T16:46:17Z",
+  "layer_id_s": "b5921932-996f-484c-8b1f-d0834a7febb0",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/9066639\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b5921932-996f-484c-8b1f-d0834a7febb0/file/1b5f6f07-9292-4075-a3c4-13fde4effce4\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.L3 2013 .A8"
 }

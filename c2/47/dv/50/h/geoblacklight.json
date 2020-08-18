@@ -3,26 +3,30 @@
   "dc_identifier_s": "ark:/88435/c247dv50h",
   "layer_slug_s": "princeton-c247dv50h",
   "uuid": "princeton-c247dv50h",
-  "dc_title_s": "Casablanca",
-  "solr_geom": "ENVELOPE(-7.683333333333334, -7.566666666666666, 33.63333333333333, 33.55)",
+  "dc_title_s": "Casablanca = الدار البيضاء.",
+  "solr_geom": "ENVELOPE(-7.708333, -7.486944, 33.640833, 33.535556)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Public",
-  "dc_description_s": "[France. Institut Geographic National?]. Title written in English and Arabic.",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Streets named; bldg. outlines; index to major bldgs.; relief by hachures; index to adjoining sheets. Title written in English and Arabic.",
   "dc_language_s": "fra",
-  "dc_publisher_s": "[S.l.] : [s.n.], 1962.",
+  "dc_publisher_s": "[Morocco] : [publisher not identified], [1962.]",
   "dc_subject_sm": [
-    "Cities and towns",
-    "Ocean bottom",
-    "Land use",
-    "Casablanca (Morocco)—Maps"
+    "Casablanca (Morocco)—Maps",
+    "Maps",
+    "Cities and towns"
   ],
-  "layer_modified_dt": "2019-06-04T18:52:17Z",
-  "layer_id_s": "public-figgy:p-65a76906-2fa1-4312-a3ea-8010db7854cd",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830476\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/65a76906-2fa1-4312-a3ea-8010db7854cd/file/939a8483-451e-4125-93b8-18b22616960c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65a76906-2fa1-4312-a3ea-8010db7854cd/file/1e7cec77-94a1-4a1c-a303-e25ef3e13686\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/32%2F82%2Fd3%2F3282d3ba297547e0bd8f280317ff729e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8eb1cdd5-2674-427d-874a-2b46a671ae69/manifest\"}",
+  "dct_spatial_sm": [
+    "Morocco"
+  ],
+  "solr_year_i": 1962,
+  "layer_modified_dt": "2020-06-24T10:28:20Z",
+  "layer_id_s": "restricted-figgy:p-65a76906-2fa1-4312-a3ea-8010db7854cd",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830476\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/65a76906-2fa1-4312-a3ea-8010db7854cd/file/5b580db4-f53e-41fc-9331-62dfb7d13cbf\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,
   "dc_source_sm": [
     "princeton-qb98mk182"
-  ]
+  ],
+  "call_number_s": "G8234.C3 1962"
 }

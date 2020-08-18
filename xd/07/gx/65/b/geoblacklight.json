@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-xd07gx65b",
   "uuid": "princeton-xd07gx65b",
   "dc_title_s": "Capital Federal, ciudad autónoma de Buenos Aires, plano de la ciudad escala 1:35.000, accesos a la ciudad, guía de calles-subterráneos = Capital Federal, ciudad autónoma de Buenos Aires, city map = Capital Federal, ciudad autónoma de Buenos Aires, plan de la ville = Capital Federal, ciudad autónoma de Buenos Aires, pianta della cittá = Capital Federal, ciudad autónoma de Buenos Aires, planta da cidade",
-  "solr_geom": "ENVELOPE(-58.464167, -58.316389, -34.541111, -34.647222)",
+  "solr_geom": "ENVELOPE(-59.37519, -57.936907, -34.075031, -35.300446)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "Title from panel. At head of title on panel: 07. \"Copyright Editorial Automapa S.R.L. ...\" Oriented with north toward the lower right. Includes index, ,\" and publisher's advertisements. Ancillary maps: \"Accesos a Buenos Aires\" -- \"Subterráneos\". Inset : map : \"CGPC\" [Centros de gestión y participación comunal].",
@@ -21,10 +21,12 @@
   "dct_spatial_sm": [
     "Argentina"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:11Z",
+  "solr_year_i": 2008,
+  "layer_modified_dt": "2020-06-23T00:05:23Z",
   "layer_id_s": "3d69f332-c534-42ff-8684-2c8374c60b69",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5668833\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3d69f332-c534-42ff-8684-2c8374c60b69/file/47173a1f-3fc2-4dbc-ad45-1425e3f97a36\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5354.B9 2008 .A9"
 }

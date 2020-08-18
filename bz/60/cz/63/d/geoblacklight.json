@@ -9,6 +9,7 @@
   "dc_rights_s": "Public",
   "dc_description_s": "Also shows ward and fire district boundaries. Hand colored. Inset: Map of New York from 53rd St. to Spuyten Duyvel Creek on a reduced scale.",
   "dc_creator_sm": [
+    "Hayward, George, approximately 1800-",
     "Hayward, George, b. ca. 1800"
   ],
   "dc_language_s": "eng",
@@ -17,15 +18,19 @@
     "Manhattan (New York, N.Y.)—Maps",
     "New York (N.Y.)—Maps",
     "Manhattan (New York, N.Y.)—Administrative and political divisions—Maps",
-    "Fire protection districts—New York (State)—Manhattan (N.Y.)—Maps"
+    "Fire protection districts—New York (State)—Manhattan (N.Y.)—Maps",
+    "Maps—New York (State)—New York—1856",
+    "City maps—New York (State)—New York—1856"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T17:26:46Z",
+  "solr_year_i": 1856,
+  "layer_modified_dt": "2020-06-24T03:57:53Z",
   "layer_id_s": "public-figgy:p-652f556d-9597-4e17-a064-c26ed35f54f3",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030062\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/cd9a8c95-bf79-4d98-b5ba-2c5d510ab95a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/d2aaad03-8e14-4d7c-85fe-c7815759bb32\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0c%2F28%2Fa6%2F0c28a6ed73084b01a10128fd7a667cfd%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb243069-f50e-47eb-a65e-63e17e6d413f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6030062\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/cd9a8c95-bf79-4d98-b5ba-2c5d510ab95a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/652f556d-9597-4e17-a064-c26ed35f54f3/file/d2aaad03-8e14-4d7c-85fe-c7815759bb32\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d0%2F43%2F89%2Fd04389bbcded468cb54f030566c6f2ee%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bb243069-f50e-47eb-a65e-63e17e6d413f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5515"
 }

@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-f7623h41r",
   "uuid": "princeton-f7623h41r",
   "dc_title_s": "Αθηνα, σχεδιο ποληος, 1:7.500 = Athens, city plan, 1:7.500",
-  "solr_geom": "ENVELOPE(23.679722, 23.776111, 39.041667, 37.942222)",
+  "solr_geom": "ENVELOPE(23.679722, 23.776111, 38.044203, 37.942222)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
   "dc_description_s": "General metro-area street map showing built-up/open areas and former Olympic Games venues. Shows Bus line 400 \"Athens' sightseeing\" Includes street index. \"ChSP 270\"--On cover. \"Copyright: Orama Ekdoseis.\" Includes text, bus-route directory, and col. ill. Text, tourist information, directories. \"ΧΣΠ 270\"--On cover.",
@@ -19,15 +19,19 @@
     "Athens Metropolitan Area (Greece)—Maps",
     "Transportation—Greece—Athens Metropolitan Area—Maps",
     "Roads—Greece—Attikē—Maps",
-    "Boats and boating—Greece—Attikē—Maps"
+    "Boats and boating—Greece—Attikē—Maps",
+    "Maps",
+    "Road maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Greece"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:29Z",
-  "layer_id_s": "df6cf7b4-cab1-4c4d-b7ce-bfea04c3685d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246723\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/df6cf7b4-cab1-4c4d-b7ce-bfea04c3685d/file/e5e43f70-7f43-4e88-aed2-9936dbedecc5\"}",
+  "solr_year_i": 2010,
+  "layer_modified_dt": "2020-06-24T10:44:52Z",
+  "layer_id_s": "ark:/88435/f7623h41r",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7246723\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G6814.A9E635 2010 O7"
 }

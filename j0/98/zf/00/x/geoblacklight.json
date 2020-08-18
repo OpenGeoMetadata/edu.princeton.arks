@@ -6,7 +6,7 @@
   "dc_title_s": "Medford, Burlington County, New Jersey",
   "solr_geom": "ENVELOPE(-74.866, -74.754, 39.937, 39.785)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"September 1924.\" Includes location map, key, streets and specials index, and text. \"1817.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Medford—Maps",
-    "Medford (N.J.)—Maps"
+    "Medford (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Medford—1924",
+    "Maps—New Jersey—Medford—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:42:14Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:09:13Z",
   "layer_id_s": "ark:/88435/j098zf00x",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5128690\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e467b201-1c1d-426d-9735-47ddc9badcf7/file/1e5e05fb-8fb9-49e7-9c8e-a49c3b076f7a\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5128690\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e467b201-1c1d-426d-9735-47ddc9badcf7/file/3d9df947-448c-413c-9b75-b7fae96f2393\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e2%2Ff7%2Fd2%2Fe2f7d2539c9a49d2bd40b4175f595f9e%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29df2205-7846-473b-8784-d9290c290ae8/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Medford)"
 }

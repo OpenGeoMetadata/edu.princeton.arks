@@ -15,16 +15,20 @@
   "dc_publisher_s": "[London] : Hydrographic Office of the Admiralty, 1849.",
   "dc_subject_sm": [
     "Azores—Maps",
-    "North Atlantic Ocean—Navigation"
+    "North Atlantic Ocean—Navigation",
+    "Maps—Azores—1849",
+    "Nautical charts—Azores—1849"
   ],
   "dct_spatial_sm": [
     "Azores",
     "North Atlantic Ocean"
   ],
-  "layer_modified_dt": "2019-06-04T19:29:47Z",
+  "solr_year_i": 1849,
+  "layer_modified_dt": "2020-06-22T22:34:21Z",
   "layer_id_s": "public-figgy:p-42376c3e-05c2-4112-b277-d69803688730",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6994282\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42376c3e-05c2-4112-b277-d69803688730/file/bd114916-e5ff-453c-94c8-c54e183f574d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42376c3e-05c2-4112-b277-d69803688730/file/fb2056d7-fd38-4b14-a2a1-21f9996c1577\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/5f%2Ffe%2F0a%2F5ffe0a802a6847788bd9a1ebad546388%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ac905cad-1752-4caf-92c4-2263ed391485/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6994282\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42376c3e-05c2-4112-b277-d69803688730/file/bd114916-e5ff-453c-94c8-c54e183f574d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42376c3e-05c2-4112-b277-d69803688730/file/df2af8a2-0317-4546-b25a-eaa82f8eb220\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/1e%2Fd5%2F76%2F1ed5761066c940f9b42963fe51c2fd39%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ac905cad-1752-4caf-92c4-2263ed391485/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5201"
 }

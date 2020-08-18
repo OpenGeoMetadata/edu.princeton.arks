@@ -17,7 +17,11 @@
     "Colombia—Maps",
     "Ecuador—Maps",
     "Peru—Maps",
-    "Venezuela—Maps"
+    "Venezuela—Maps",
+    "Maps—Colombia—1889",
+    "Maps—Ecuador—1889",
+    "Maps—Peru—1889",
+    "Maps—Venezuela—1889"
   ],
   "dct_spatial_sm": [
     "Venezuela",
@@ -25,10 +29,12 @@
     "Ecuador",
     "Peru"
   ],
-  "layer_modified_dt": "2019-06-04T18:21:15Z",
+  "solr_year_i": 1860,
+  "layer_modified_dt": "2020-06-23T16:36:34Z",
   "layer_id_s": "public-figgy:p-70da8d16-6572-4f80-9201-f33fb1c2b1ba",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6555346\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/7a3f1d7e-6fc9-4ea5-ae9c-0847e4b4ea96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/b2e57a12-eebc-480c-bb19-32d58a4be3f1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/fd%2Ff3%2F7e%2Ffdf37e723f4840d6ba76acd352eac98e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b3023673-a40f-458d-b5f2-23da85816630/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6555346\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/7a3f1d7e-6fc9-4ea5-ae9c-0847e4b4ea96\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/70da8d16-6572-4f80-9201-f33fb1c2b1ba/file/b2e57a12-eebc-480c-bb19-32d58a4be3f1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/4e%2Fbc%2Fb8%2F4ebcb8c51af941c38d30021d23f34c41%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b3023673-a40f-458d-b5f2-23da85816630/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6073"
 }

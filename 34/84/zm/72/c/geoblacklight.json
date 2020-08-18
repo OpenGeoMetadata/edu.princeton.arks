@@ -4,19 +4,26 @@
   "layer_slug_s": "princeton-3484zm72c",
   "uuid": "princeton-3484zm72c",
   "dc_title_s": "The map of Peiping",
-  "solr_geom": "ENVELOPE(116.35, 116.43333333333334, 39.95, 39.86666666666667)",
+  "solr_geom": "ENVELOPE(116.35, 116.4333334, 39.95, 39.866667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "[S.n.]",
+  "dc_description_s": "Relief shown by form lines. Shows roads, railways, buildings and places of interest.",
   "dc_language_s": "zho",
-  "dc_publisher_s": "[S.l.] : [s.n.], [1935[?]",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [1935]",
   "dc_subject_sm": [
-    "China—Maps"
+    "Cities and towns—China—Beijing—Maps",
+    "Beijing (China)—Maps",
+    "Tourist maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:19Z",
-  "layer_id_s": "restricted-figgy:p-abd432a1-1836-4121-bd11-3e0a9d61aff6",
+  "dct_spatial_sm": [
+    "Beijing (China)"
+  ],
+  "solr_year_i": 1935,
+  "layer_modified_dt": "2020-06-24T10:28:33Z",
+  "layer_id_s": "abd432a1-1836-4121-bd11-3e0a9d61aff6",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6449775\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/abd432a1-1836-4121-bd11-3e0a9d61aff6/file/6c7d3819-fcf0-47ae-bc86-b626ac43f1e3\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7824.B4.1935. (b)"
 }

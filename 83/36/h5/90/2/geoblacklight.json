@@ -6,7 +6,7 @@
   "dc_title_s": "Plano de la ciudad de Santiago y sus alrededores",
   "solr_geom": "ENVELOPE(-70.714444, -70.595833, -33.396944, -33.485556)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Insets: Centro Comercial : sede de los poderes públicos y locales y del alto comercio -- Límites de las comunas urbanas -- Límite de comisarías -- Límites de cuarteles de bombas. Map was part of \"Guia \"Veritas,\" with plano de Santiago, 1924. Map Library does not have this guide.",
   "dc_creator_sm": [
     "Deutsche Angestellten-Krankenkasse"
@@ -14,15 +14,18 @@
   "dc_language_s": "spa",
   "dc_publisher_s": "[Santiago.] : DAK [1924].",
   "dc_subject_sm": [
-    "Santiago (Chile)—Maps"
+    "Santiago (Chile)—Maps",
+    "Maps"
   ],
   "dct_spatial_sm": [
     "Chile"
   ],
-  "layer_modified_dt": "2019-06-04T19:22:23Z",
-  "layer_id_s": "bc382bf8-6139-411a-8b45-64fe728f7a93",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6842088\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc382bf8-6139-411a-8b45-64fe728f7a93/file/e66d46c6-0f40-475d-abdf-7e7582c39dea\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T11:13:11Z",
+  "layer_id_s": "public-figgy:p-bc382bf8-6139-411a-8b45-64fe728f7a93",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6842088\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/bc382bf8-6139-411a-8b45-64fe728f7a93/file/7922cda6-7638-4bd3-980f-56ce0640a87e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/bc382bf8-6139-411a-8b45-64fe728f7a93/file/e66d46c6-0f40-475d-abdf-7e7582c39dea\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/30%2F5f%2F17%2F305f173beec64091bbe07b1b9dbe162b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/bf741deb-2f56-45dd-9752-329285901082/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G5334.S8 1924 .D3"
 }

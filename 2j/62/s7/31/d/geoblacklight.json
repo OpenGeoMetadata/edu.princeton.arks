@@ -15,15 +15,19 @@
   "dc_publisher_s": "Washington, D.C. : National Highways Association, c1918 .",
   "dc_subject_sm": [
     "Roads—United States—Maps",
-    "United States—Maps"
+    "United States—Maps",
+    "Maps—United States—1918",
+    "Road maps—United States—1918"
   ],
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:23Z",
+  "solr_year_i": 1918,
+  "layer_modified_dt": "2020-06-24T03:51:04Z",
   "layer_id_s": "public-figgy:p-c7d2e0ef-96d5-4e4f-85ed-790b3707cc48",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4562414\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7d2e0ef-96d5-4e4f-85ed-790b3707cc48/file/27445662-9a95-4738-85c2-5acead6ccd6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7d2e0ef-96d5-4e4f-85ed-790b3707cc48/file/952de6cb-cb3e-42ef-bd27-49be55ec1e25\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/cd%2F1c%2Fe2%2Fcd1ce29787c34f6c8669c6864444a22a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b8006791-4e54-42fb-856d-13d7da6beb6a/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4562414\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c7d2e0ef-96d5-4e4f-85ed-790b3707cc48/file/27445662-9a95-4738-85c2-5acead6ccd6d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c7d2e0ef-96d5-4e4f-85ed-790b3707cc48/file/952de6cb-cb3e-42ef-bd27-49be55ec1e25\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/34%2F78%2F13%2F347813a5d2ad41e087e453dee3678a94%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b8006791-4e54-42fb-856d-13d7da6beb6a/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.3629"
 }

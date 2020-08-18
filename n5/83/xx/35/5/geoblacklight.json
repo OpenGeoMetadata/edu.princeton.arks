@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.? : U.S. Army Corps of Engineers], 1874.",
   "dc_subject_sm": [
-    "West (U.S.)—Surveys—Maps"
+    "West (U.S.)—Surveys—Maps",
+    "Maps—West (U.S.)—1874"
   ],
   "dct_spatial_sm": [
     "West (U.S.)"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:31Z",
+  "solr_year_i": 1874,
+  "layer_modified_dt": "2020-06-23T16:35:26Z",
   "layer_id_s": "public-figgy:p-7ae287ea-3077-4c08-851e-7554cbe68975",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5817311\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ae287ea-3077-4c08-851e-7554cbe68975/file/460f7c8f-844b-4624-af11-1ef110fe9e8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ae287ea-3077-4c08-851e-7554cbe68975/file/35327e43-8cec-4e25-9cc0-78c4712b912b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d7%2F72%2F97%2Fd77297d1e6514d1880f40aed50cf2d2a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/451c711e-7da4-4f43-be9e-d56fbaea4e0f/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5817311\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7ae287ea-3077-4c08-851e-7554cbe68975/file/460f7c8f-844b-4624-af11-1ef110fe9e8f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7ae287ea-3077-4c08-851e-7554cbe68975/file/35327e43-8cec-4e25-9cc0-78c4712b912b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2a%2F14%2Fec%2F2a14ec2c750b4328a50d7bc9b1a790c3%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/451c711e-7da4-4f43-be9e-d56fbaea4e0f/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1156"
 }

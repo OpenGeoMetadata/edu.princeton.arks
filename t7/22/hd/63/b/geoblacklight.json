@@ -3,21 +3,26 @@
   "dc_identifier_s": "ark:/88435/t722hd63b",
   "layer_slug_s": "princeton-t722hd63b",
   "uuid": "princeton-t722hd63b",
-  "dc_title_s": "[Downtown Pusan, Korea] shoppers' flow pattern",
-  "solr_geom": "ENVELOPE(129.03333333333333, 129.05, 35.1, 35.083333333333336)",
+  "dc_title_s": "[Downtown Pusan - Korea] : shoppers' flow pattern",
+  "solr_geom": "ENVELOPE(129.027778, 129.037778, 35.1025, 35.097222)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "[s.n.]. Map is a blueprint.",
+  "dc_description_s": "A scanned map object.",
   "dc_language_s": "eng",
-  "dc_publisher_s": "[s.l.] : [s.n.], [1965].",
+  "dc_publisher_s": "[Place of publication not identified] : [publisher not identified], [1965].",
   "dc_subject_sm": [
-    "Commerce",
+    "City planning",
     "Pusan (Korea)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:13:45Z",
-  "layer_id_s": "restricted-figgy:p-cc0ef568-4b33-42ef-98f3-d264f4550a97",
+  "dct_spatial_sm": [
+    "Korea"
+  ],
+  "solr_year_i": 1965,
+  "layer_modified_dt": "2020-07-02T23:37:30Z",
+  "layer_id_s": "cc0ef568-4b33-42ef-98f3-d264f4550a97",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6830580\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cc0ef568-4b33-42ef-98f3-d264f4550a97/file/d4b43b8f-7912-4ac8-bba7-2e879e98b030\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7904.P987Q1 1965"
 }

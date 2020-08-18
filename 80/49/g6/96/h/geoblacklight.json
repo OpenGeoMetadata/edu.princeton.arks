@@ -6,7 +6,7 @@
   "dc_title_s": "Ramsey, Bergen County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.176283, -74.114444, 41.077908, 41.040506)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"June 1924.\" Includes location map, key, streets and specials index, and text. \"1705\".",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Ramsey—Maps",
-    "Ramsey (N.J.)—Maps"
+    "Ramsey (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Ramsey—1924",
+    "Maps—New Jersey—Ramsey—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:45:16Z",
-  "layer_id_s": "restricted-figgy:p-638fee74-f746-4b73-8c56-38641b30a7e0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5287599\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/638fee74-f746-4b73-8c56-38641b30a7e0/file/c490788c-ebc5-4395-a7f1-d18ea1da296a\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T10:30:38Z",
+  "layer_id_s": "public-figgy:p-638fee74-f746-4b73-8c56-38641b30a7e0",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5287599\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/638fee74-f746-4b73-8c56-38641b30a7e0/file/44ed13b8-5f38-40e4-b159-f68ae710b867\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/638fee74-f746-4b73-8c56-38641b30a7e0/file/a628b0f8-3263-429b-9c4d-403989b86494\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/82%2Fa9%2F6d%2F82a96d1c4e264659af05130183967c03%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/f84b464c-83f6-4240-a056-d85d67668bd0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

@@ -4,20 +4,29 @@
   "layer_slug_s": "princeton-fb494d23k",
   "uuid": "princeton-fb494d23k",
   "dc_title_s": "Guangzhou (Canton)",
-  "solr_geom": "ENVELOPE(113.18333333333334, 113.31666666666666, 25.15, 23.066666666666666)",
+  "solr_geom": "ENVELOPE(113.197492, 113.311904, 23.150818, 23.028951)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. Central Intelligence Agency. Map no: 504545 11-80.",
+  "dc_description_s": "Map no: \"504545 11-80.\" Showing major streets and rivers. Major industrial, government, medical, and educational facilities are outlined in red.",
+  "dc_creator_sm": [
+    "United States. Central Intelligence Agency"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[Washington, D.C.] : [Central Intelligence Agency], 1980.",
   "dc_subject_sm": [
     "Cities and towns",
-    "Guangzhou (China)—Maps"
+    "Guangzhou (China)—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:16Z",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "solr_year_i": 1980,
+  "layer_modified_dt": "2020-06-24T03:57:18Z",
   "layer_id_s": "public-figgy:p-20128827-12a0-426e-9c71-8ac8bc31ce83",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866858\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/26db88a8-aca8-48dd-9784-c07025df9ba1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/edae3b3e-8e82-4f6b-9d32-9cb69bfd3297\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/cb%2F13%2F0d%2Fcb130d9b9548417baf646bb190580d9c%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c47c79d-cc36-460e-a440-0756f2b3e528/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6866858\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/26db88a8-aca8-48dd-9784-c07025df9ba1\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/20128827-12a0-426e-9c71-8ac8bc31ce83/file/edae3b3e-8e82-4f6b-9d32-9cb69bfd3297\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/63%2F0d%2Fcd%2F630dcdfdce074821bd06543267241fd0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/7c47c79d-cc36-460e-a440-0756f2b3e528/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.G8.1980.C4I5"
+  "suppressed_b": false,
+  "call_number_s": "G7824.G81980 .C4I5"
 }

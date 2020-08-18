@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/jm214s968",
   "layer_slug_s": "princeton-jm214s968",
   "uuid": "princeton-jm214s968",
-  "dc_title_s": "Dakar, plan touristique 1/16 000 : plan détaillé avec index des rues et centres d'intérêt",
+  "dc_title_s": "Dakar plan touristique  1/16 000 : plan détaillé avec index des rues et centres d'intérêt = Dakar tourist map 1/16 000 : detailed map with streets and points of interest index  / Éditions Laure Kane",
   "solr_geom": "ENVELOPE(-17.531944, -17.396111, 14.770556, 14.645556)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
@@ -12,14 +12,19 @@
     "Editions Laure Kane (Firm)"
   ],
   "dc_language_s": "fra",
-  "dc_publisher_s": "Châtillon, France : Editions Laure Kane, 2012.",
+  "dc_publisher_s": "Châtillon, France : Éditions Laure Kane, 2012.",
   "dc_subject_sm": [
     "Dakar (Senegal)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:23:52Z",
+  "dct_spatial_sm": [
+    "Senegal"
+  ],
+  "solr_year_i": 2012,
+  "layer_modified_dt": "2020-07-03T19:14:54Z",
   "layer_id_s": "3988da8c-1b19-4657-ab96-7ca6ded06993",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7560449\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/3988da8c-1b19-4657-ab96-7ca6ded06993/file/1bf20c14-ce54-4ae6-9831-0c39a47f0151\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G8814.D3E635 2012 .E4"
 }

@@ -3,7 +3,7 @@
   "dc_identifier_s": "ark:/88435/n296x319s",
   "layer_slug_s": "princeton-n296x319s",
   "uuid": "princeton-n296x319s",
-  "dc_title_s": "Poitiers : plan topographique régulier",
+  "dc_title_s": "Poitiers : plan topographique régulier (Planche 1)",
   "solr_geom": "ENVELOPE(0.316667, 0.4, 46.6, 46.566667)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
@@ -15,16 +15,19 @@
   "dc_publisher_s": "Poitiers : Ministère de la reconstruction et de l'urbanisme, 1946.",
   "dc_subject_sm": [
     "Topographic maps—France—Poitiers",
-    "Poitiers (France)—Maps"
+    "Poitiers (France)—Maps",
+    "Topographic maps"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T19:24:45Z",
+  "solr_year_i": 1946,
+  "layer_modified_dt": "2020-06-23T11:04:10Z",
   "layer_id_s": "78eae51f-3e45-4bb6-8f85-97891543d484",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6820180\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/78eae51f-3e45-4bb6-8f85-97891543d484/file/3db968e1-ead2-461a-be1d-983da9d86263\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-pn89db59f"
   ],

@@ -4,21 +4,31 @@
   "layer_slug_s": "princeton-xd07gx50g",
   "uuid": "princeton-xd07gx50g",
   "dc_title_s": "Fu-Chou (Foochow) and Nan-T'ai, China, Fukien Province",
-  "solr_geom": "ENVELOPE(119.25, 119.33333333333333, 26.116666666666667, 26.05)",
+  "solr_geom": "ENVELOPE(119.25, 119.333333, 26.116667, 26.05)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "Alternate title: Fu-Chou and Nan-T'ai. In upper left margin: China city plans 1:12,500. Polyconic projection. Relief shown by 20 meter contour intervals and spot elevation. Pinyin name for this city: Zhangzhou. Chinese place names transcribed according to the modified Wades-Giles system. With Chinese-English glossary.",
+  "dc_description_s": "Relief shown by 20 meter contour intervals and spot elevation. Some streets and buildings are named; wooded and cultivated areas are shown. Includes Chinese-English glossary. Pinyin name tranliteration for these cities: Fuzhou and Taijiang. Chinese place names transcribed according to the modified Wades-Giles system. Marginal maps: Coverage diagram -- Index to boundaries.",
+  "dc_creator_sm": [
+    "United States. Army Map Service"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington, D.C. : Army Map Service, U.S. Army, 1945.",
   "dc_subject_sm": [
     "Topographic maps",
-    "City blocks",
-    "China—Maps"
+    "Cities and towns",
+    "Fuzhou Shi (China)—Maps",
+    "Nan-t'ai Shi (Fujian Sheng, China)—Maps",
+    "Taijiang Qu (Fuzhou Shi, Fujian Sheng, China)—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T17:03:45Z",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "solr_year_i": 1945,
+  "layer_modified_dt": "2020-06-22T23:12:12Z",
   "layer_id_s": "public-figgy:p-974bf428-bea4-4df8-b231-c7592db5d4c2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865601\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/974bf428-bea4-4df8-b231-c7592db5d4c2/file/ffa960af-a1cd-42fa-94aa-31c17de1efef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/974bf428-bea4-4df8-b231-c7592db5d4c2/file/ec62e0db-6978-4cbd-9303-e06460669f3d\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/48%2Fb2%2F42%2F48b24209449f4760ad2a21c8828005b9%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/540ffb41-3cf7-4031-b8b5-c6158840dfd6/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6865601\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/974bf428-bea4-4df8-b231-c7592db5d4c2/file/ffa960af-a1cd-42fa-94aa-31c17de1efef\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/974bf428-bea4-4df8-b231-c7592db5d4c2/file/ec62e0db-6978-4cbd-9303-e06460669f3d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d2%2F1c%2Fea%2Fd21cea09709842cb9e00d49b1847b0ce%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/540ffb41-3cf7-4031-b8b5-c6158840dfd6/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G7824.F8C2.1945.A7M3"
+  "suppressed_b": false,
+  "call_number_s": "G7824.F8C2 1945 .A7M3"
 }

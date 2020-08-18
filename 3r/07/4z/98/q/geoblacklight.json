@@ -4,10 +4,10 @@
   "layer_slug_s": "princeton-3r074z98q",
   "uuid": "princeton-3r074z98q",
   "dc_title_s": "Ciudad de Salta / Dirección General de Turismo",
-  "solr_geom": "ENVELOPE(-65.414167, -65.367778, -24.746111, -24.831667)",
+  "solr_geom": "ENVELOPE(-65.460556, -65.363889, -24.747222, -24.833333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Relief shown by hachures. Map showing relevant buildings, historical sites of interest, and tourist routes. Includes ancillary map: \"Provincia de Salta.\" On verso: Plano de la ciudad de Salta y rutas del norte de Argentina.",
+  "dc_description_s": "Relief shown by hachures. Map shows relevant buildings, historical sites of interest, and tourist routes. Includes ancillary map: \"Provincia de Salta.\" On verso: Plano de la ciudad de Salta y rutas del norte de Argentina.",
   "dc_creator_sm": [
     "Salta (Argentina : Province). Dirección Provincialde Turismo"
   ],
@@ -15,16 +15,19 @@
   "dc_publisher_s": "Salta : Dirección Provincial de Turismo, [1960]",
   "dc_subject_sm": [
     "Salta (Argentina)—Maps",
-    "Argentina—Maps"
+    "Argentina—Maps",
+    "Road maps"
   ],
   "dct_spatial_sm": [
     "Argentina"
   ],
-  "layer_modified_dt": "2019-06-04T18:05:10Z",
+  "solr_year_i": 1960,
+  "layer_modified_dt": "2020-06-23T19:23:16Z",
   "layer_id_s": "28e25256-1afe-48dd-b903-a85dd3e0438d",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6809543\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/28e25256-1afe-48dd-b903-a85dd3e0438d/file/5102bcfc-3034-4a7b-8150-f70c0153b843\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-02871088s"
   ],

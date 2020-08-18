@@ -20,7 +20,8 @@
     "Pamir—Maps",
     "Pamir-Alai Mountains—Maps",
     "Amu Darya",
-    "Syr Darya"
+    "Syr Darya",
+    "Physical maps"
   ],
   "dct_spatial_sm": [
     "Asia, Central",
@@ -28,10 +29,12 @@
     "Uzbekistan",
     "Afghanistan"
   ],
-  "layer_modified_dt": "2019-06-04T18:11:33Z",
+  "solr_year_i": 1866,
+  "layer_modified_dt": "2020-06-24T03:52:53Z",
   "layer_id_s": "public-figgy:p-5ac1fb8d-c377-4a1a-8d23-5667c14c007c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107905\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ac1fb8d-c377-4a1a-8d23-5667c14c007c/file/147ee894-49c8-4c7d-b4a6-fb28c050079e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ac1fb8d-c377-4a1a-8d23-5667c14c007c/file/870dba4a-81e3-44f5-8c84-ab04452fdc85\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/ff%2F41%2Fb6%2Fff41b6215f9640f585d0eab5fd321215%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29d79196-2c06-4c4a-8350-a8ae023e47bc/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107905\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ac1fb8d-c377-4a1a-8d23-5667c14c007c/file/147ee894-49c8-4c7d-b4a6-fb28c050079e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ac1fb8d-c377-4a1a-8d23-5667c14c007c/file/870dba4a-81e3-44f5-8c84-ab04452fdc85\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ab%2F71%2Fb6%2Fab71b69f9bab40649f9583bd56641f26%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/29d79196-2c06-4c4a-8350-a8ae023e47bc/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7402.P3C1 1866 .R6"
 }

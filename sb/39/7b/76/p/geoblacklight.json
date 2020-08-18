@@ -19,7 +19,8 @@
     "Sichuan Sheng (China)—Maps",
     "Yunnan Sheng (China)—Maps",
     "Tibet—Maps",
-    "Burma—Maps"
+    "Burma—Maps",
+    "Topographic maps"
   ],
   "dct_spatial_sm": [
     "Sichuan Sheng (China)",
@@ -27,10 +28,12 @@
     "Yunnan Sheng (China)",
     "Burma"
   ],
-  "layer_modified_dt": "2019-07-10T17:53:51Z",
+  "solr_year_i": 1878,
+  "layer_modified_dt": "2020-06-23T20:01:56Z",
   "layer_id_s": "public-figgy:p-042c1e91-7ccb-4b92-85d9-b038457d20f6",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7652257\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/042c1e91-7ccb-4b92-85d9-b038457d20f6/file/7bcfe128-181c-45e6-8f03-4665c0e9303b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/042c1e91-7ccb-4b92-85d9-b038457d20f6/file/d1b8ba77-8891-484e-85b8-111d4ad040ff\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/32%2F61%2Fb2%2F3261b2d97653489ea3b799bbc0aea7f5%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b191b6f6-7374-4902-84ac-3bb2bfdb366e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7652257\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/042c1e91-7ccb-4b92-85d9-b038457d20f6/file/7bcfe128-181c-45e6-8f03-4665c0e9303b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/042c1e91-7ccb-4b92-85d9-b038457d20f6/file/3cb6aa3e-7c9a-4fae-a4ed-572c1e4c810a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/9e%2F1e%2F5e%2F9e1e5e32faf1442391ce7c7a25581607%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b191b6f6-7374-4902-84ac-3bb2bfdb366e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7823.S55C2 1877 .R6"
 }

@@ -20,6 +20,10 @@
     "Egypt—Maps",
     "Arabian Peninsula—Maps",
     "Cyprus—Maps",
+    "Maps—Africa, North—1705",
+    "Maps—Egypt—1705",
+    "Maps—Arabian Peninsula—1705",
+    "Maps—Cyprus—1705",
     "Desert Fathers"
   ],
   "dct_spatial_sm": [
@@ -27,10 +31,12 @@
     "Egypt",
     "Cyprus"
   ],
-  "layer_modified_dt": "2019-06-04T17:08:28Z",
+  "solr_year_i": 1705,
+  "layer_modified_dt": "2020-06-23T15:38:28Z",
   "layer_id_s": "public-figgy:p-e2c63683-bb0c-43ce-8d0f-9ccf631d36ef",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4630106\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/349b8a24-ea93-4ebb-a64a-8d7a519ffe91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/dd970089-f82a-4736-80ab-44a85eb71307\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/69%2Fe1%2F53%2F69e15391383c42a39e66bf2bfd77b3c4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/292a5cbd-ce03-466d-ab27-3437dde57a70/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4630106\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/349b8a24-ea93-4ebb-a64a-8d7a519ffe91\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e2c63683-bb0c-43ce-8d0f-9ccf631d36ef/file/dd970089-f82a-4736-80ab-44a85eb71307\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/0c%2Fe1%2Fd3%2F0ce1d30c74a64f3bad19a7dba849bae0%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/292a5cbd-ce03-466d-ab27-3437dde57a70/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.298"
 }

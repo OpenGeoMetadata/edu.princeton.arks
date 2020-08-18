@@ -16,16 +16,21 @@
   "dc_subject_sm": [
     "Mali—Maps",
     "Mauritania—Maps",
-    "Sahara—Maps"
+    "Sahara—Maps",
+    "Maps—Mali—1827",
+    "Maps—Mauritania—1827",
+    "Maps—Sahara—1827"
   ],
   "dct_spatial_sm": [
     "Mali",
     "Mauritania"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:49Z",
+  "solr_year_i": 1827,
+  "layer_modified_dt": "2020-06-24T03:52:50Z",
   "layer_id_s": "public-figgy:p-da53f505-90c3-4cb7-803b-6ac25bb2c7f2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5729215\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da53f505-90c3-4cb7-803b-6ac25bb2c7f2/file/4675406b-77a5-43b8-8bbc-b42756529cc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da53f505-90c3-4cb7-803b-6ac25bb2c7f2/file/a840882f-f992-4398-8fb7-6b5d3e6b9d09\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/78%2Fc6%2F44%2F78c64495e9c04722b446bbac3f030535%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d2ca62f3-d3d0-4417-8038-a124a1e9c583/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5729215\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/da53f505-90c3-4cb7-803b-6ac25bb2c7f2/file/4675406b-77a5-43b8-8bbc-b42756529cc5\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/da53f505-90c3-4cb7-803b-6ac25bb2c7f2/file/a840882f-f992-4398-8fb7-6b5d3e6b9d09\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/96%2F66%2F55%2F966655771b3c4be19c673e493fd85721%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d2ca62f3-d3d0-4417-8038-a124a1e9c583/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6459"
 }

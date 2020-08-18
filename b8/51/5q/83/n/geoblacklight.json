@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris : J. Lecoffre et co.], 1845.",
   "dc_subject_sm": [
-    "South America—Maps"
+    "South America—Maps",
+    "Maps—South America—1845"
   ],
   "dct_spatial_sm": [
     "South America"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:30Z",
+  "solr_year_i": 1845,
+  "layer_modified_dt": "2020-06-24T03:51:27Z",
   "layer_id_s": "public-figgy:p-f44923d9-b392-45d9-9804-a9c439ba3c39",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6463818\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f44923d9-b392-45d9-9804-a9c439ba3c39/file/5e89777c-53db-4158-a6d3-aefebe0db8ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f44923d9-b392-45d9-9804-a9c439ba3c39/file/edea7ab2-56cd-4596-8472-788afc2484ea\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a6%2Fcb%2F6e%2Fa6cb6e73dd874e9a83d183ca59fee873%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87c7fea4-9c8d-4517-90d3-1c26ae65ee94/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6463818\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/f44923d9-b392-45d9-9804-a9c439ba3c39/file/5e89777c-53db-4158-a6d3-aefebe0db8ee\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/f44923d9-b392-45d9-9804-a9c439ba3c39/file/edea7ab2-56cd-4596-8472-788afc2484ea\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f9%2Fbe%2Fc1%2Ff9bec19b41fd4e9f8c81b7cfc41ed653%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/87c7fea4-9c8d-4517-90d3-1c26ae65ee94/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.909"
 }

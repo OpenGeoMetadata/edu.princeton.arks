@@ -3,22 +3,31 @@
   "dc_identifier_s": "ark:/88435/sx61dp70p",
   "layer_slug_s": "princeton-sx61dp70p",
   "uuid": "princeton-sx61dp70p",
-  "dc_title_s": "Mozambique city graphic 1:12,500. Maputo. Series Y961",
+  "dc_title_s": "Maputo",
   "solr_geom": "ENVELOPE(32.483333, 32.629167, -25.891667, -25.9875)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "North Decimal Degree -25.891667. South Decimal Degree -25.987500. East Decimal Degree 32.629167. West Decimal Degree 32.483333. Alternate title: Maputo. Index to streets and guide to numbered features on the map. Transverse Mercator projection. Horizontal datum World Geodetic System (WGS) 1984. Vertical datum mean sea level. \"Standard map series designation: Series Y961. With street index; guide to numbered features; and glossary. \"This sheet falls within SG 36-6, 1501-A, 1:250,000.\" \"Map information as of 1995.\" NIMA ref. no. Y961XMAPUTO.\".",
+  "dc_description_s": "Relief shown by contours and spot heights. With street index, guide to numbered features, and glossary. \"Map information as of 1995.\" \"This sheet falls within SG 36-6, 1501-A, 1:250,000.\" NIMA reference number: Y961XMAPUTO. \"Series Y-961.\" East Decimal Degree 32.629167. West Decimal Degree 32.483333. North Decimal Degree -25.891667. Alternate title: Maputo. Index to streets and guide to numbered features on the map. Transverse Mercator projection. Horizontal datum World Geodetic System (WGS) 1984. Vertical datum mean sea level. \"Standard map series designation: Series Y961. With street index; guide to numbered features; and glossary. \"This sheet falls within SG 36-6, 1501-A, 1:250,000.\" \"Map information as of 1995.\" NIMA ref. no. Y961XMAPUTO.\". South Decimal Degree -25.987500.",
+  "dc_creator_sm": [
+    "United States. National Imagery and Mapping Agency"
+  ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Bethesda, MD : United States. National Imagery and Mapping Agency United States. Defense Mapping Agency, 2000.",
+  "dc_publisher_s": "Bethesda, MD : United States. National Imagery and Mapping Agency United State, 2000.",
   "dc_subject_sm": [
     "Topographic maps",
+    "Maputo (Mozambique)—Maps",
     "Road maps",
     "Mozambique—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:58Z",
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "solr_year_i": 2000,
+  "layer_modified_dt": "2020-06-23T16:40:46Z",
   "layer_id_s": "public-figgy:p-6ca50f06-c6c2-4e72-9930-934ed40df49f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ca50f06-c6c2-4e72-9930-934ed40df49f/file/36ff1cf1-1951-4b13-a0a8-ed52af00719e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ca50f06-c6c2-4e72-9930-934ed40df49f/file/a0e2022d-a63a-4cb3-87cf-b8e44c52148c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/aa%2F70%2F73%2Faa7073ac8c52498c8865b16d48eb52e4%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d798e2bb-99c8-472b-83df-3766a56d4573/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6845111\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6ca50f06-c6c2-4e72-9930-934ed40df49f/file/36ff1cf1-1951-4b13-a0a8-ed52af00719e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6ca50f06-c6c2-4e72-9930-934ed40df49f/file/58a3eff0-2d70-4c01-b74c-295a0bdcab0c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e3%2F96%2Fa0%2Fe396a0602cc6437fac1b8dace95c0738%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d798e2bb-99c8-472b-83df-3766a56d4573/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G8454.M3C2.1995.N3I3"
+  "suppressed_b": false,
+  "call_number_s": "G8454.M3C2 1995 .N3I3"
 }

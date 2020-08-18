@@ -17,7 +17,13 @@
     "South America—Maps",
     "Panama—Maps",
     "Colombia—Maps",
-    "Peru—Maps"
+    "Peru—Maps",
+    "Maps—Colombia—1805",
+    "Maps—Panama—1805",
+    "Maps—Peru—1805",
+    "Nautical charts—Colombia—1805",
+    "Nautical charts—Panama—1805",
+    "Nautical charts—Peru—1805"
   ],
   "dct_spatial_sm": [
     "South America",
@@ -25,10 +31,12 @@
     "Colombia",
     "Peru"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:53Z",
+  "solr_year_i": 1805,
+  "layer_modified_dt": "2020-06-24T03:51:13Z",
   "layer_id_s": "public-figgy:p-5ddf08cd-a677-4c9b-bb57-3d287c3e8a1f",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6561909\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ddf08cd-a677-4c9b-bb57-3d287c3e8a1f/file/70c954b1-51d7-4e99-b1b1-9c9cb2bd46ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ddf08cd-a677-4c9b-bb57-3d287c3e8a1f/file/f9ed3795-5969-4933-b878-ef17a57d79c6\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e7%2Feb%2F40%2Fe7eb406b72274d28a3eef6b27757c95e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/199b141f-80a9-4cd6-af75-28e503c25a9d/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6561909\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5ddf08cd-a677-4c9b-bb57-3d287c3e8a1f/file/70c954b1-51d7-4e99-b1b1-9c9cb2bd46ad\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5ddf08cd-a677-4c9b-bb57-3d287c3e8a1f/file/f9ed3795-5969-4933-b878-ef17a57d79c6\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c6%2F5b%2F7a%2Fc65b7a6d666b4581a20c5946ec6ea132%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/199b141f-80a9-4cd6-af75-28e503c25a9d/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6076"
 }

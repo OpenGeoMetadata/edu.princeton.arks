@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "[Paris? : H. Langlois, 1802?]",
   "dc_subject_sm": [
-    "France—Maps"
+    "France—Maps",
+    "Maps—France—1802"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T19:28:09Z",
+  "solr_year_i": 1802,
+  "layer_modified_dt": "2020-06-22T22:30:30Z",
   "layer_id_s": "public-figgy:p-73ab459f-9dab-4a9a-a1c5-a0f98b4b34b5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7130681\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73ab459f-9dab-4a9a-a1c5-a0f98b4b34b5/file/291f359a-0336-464c-98bf-424cb727b72f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73ab459f-9dab-4a9a-a1c5-a0f98b4b34b5/file/c1a433f2-392e-4bb0-bb2a-da8f5eb36d90\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e9%2F8c%2F65%2Fe98c656fb1dc4efe9db8d1b349b83bfc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6c0d395-8b43-47ec-8405-da5fa279ec7b/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7130681\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/73ab459f-9dab-4a9a-a1c5-a0f98b4b34b5/file/291f359a-0336-464c-98bf-424cb727b72f\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/73ab459f-9dab-4a9a-a1c5-a0f98b4b34b5/file/1a904429-b3f9-4f36-a0cf-c1078d732293\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/03%2F29%2Fec%2F0329ec0d7e2e49cbbbdb6f3548c5c0fc%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b6c0d395-8b43-47ec-8405-da5fa279ec7b/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4294"
 }

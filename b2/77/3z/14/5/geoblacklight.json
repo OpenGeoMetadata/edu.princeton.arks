@@ -18,7 +18,12 @@
     "Brazil—Maps",
     "Guiana—Maps",
     "Peru—Maps",
-    "South America—Maps"
+    "South America—Maps",
+    "Maps—South America—1884",
+    "Maps—Bolivia—1884",
+    "Maps—Brazil—1884",
+    "Maps—Guiana—1884",
+    "Maps—Peru—1884"
   ],
   "dct_spatial_sm": [
     "South America",
@@ -27,10 +32,12 @@
     "Guyana",
     "Peru"
   ],
-  "layer_modified_dt": "2019-06-04T18:20:53Z",
+  "solr_year_i": 1884,
+  "layer_modified_dt": "2020-06-24T03:52:44Z",
   "layer_id_s": "public-figgy:p-99287ea5-0de1-4003-9041-b7c9dd09fd1d",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6480955\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99287ea5-0de1-4003-9041-b7c9dd09fd1d/file/c06c850e-3e74-4f2e-a1e6-9611a8aeb416\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99287ea5-0de1-4003-9041-b7c9dd09fd1d/file/3b060daa-ca2a-40f7-b3a1-8f57a1c06de0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e4%2Fdb%2F67%2Fe4db67134a464b989f46389a5945fe13%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10fd3b73-aea5-4f43-bc64-61448d374a1e/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6480955\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/99287ea5-0de1-4003-9041-b7c9dd09fd1d/file/c06c850e-3e74-4f2e-a1e6-9611a8aeb416\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/99287ea5-0de1-4003-9041-b7c9dd09fd1d/file/3b060daa-ca2a-40f7-b3a1-8f57a1c06de0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/95%2F7c%2F74%2F957c74c721044963a115afe9022b67f4%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/10fd3b73-aea5-4f43-bc64-61448d374a1e/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6698"
 }

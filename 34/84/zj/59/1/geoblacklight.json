@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "Edinburgh : Published by A. & C. Black, [1854]",
   "dc_subject_sm": [
-    "Africa, South—Maps"
+    "Africa, South—Maps",
+    "Maps—Africa, South—1854"
   ],
   "dct_spatial_sm": [
     "Africa, Southern"
   ],
-  "layer_modified_dt": "2019-06-04T18:27:18Z",
+  "solr_year_i": 1854,
+  "layer_modified_dt": "2020-06-23T16:35:11Z",
   "layer_id_s": "public-figgy:p-d1784b2f-01ef-4935-9392-20539196ade9",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4641261\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cffda4a4-315f-4050-9862-11387ced0e87/file/4a6c525c-4318-4de2-97ca-35d438e79605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1784b2f-01ef-4935-9392-20539196ade9/file/1eb2ce47-12d7-449e-b62f-37cae20879a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1784b2f-01ef-4935-9392-20539196ade9/file/f8ba6a07-6c4d-4ab1-9df8-410842878d9b\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f7%2Fd8%2F8b%2Ff7d88b5875264ab9834beb7eb45f2d6e%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be496265-d45e-45e2-980d-c5656c8ba168/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4641261\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/cffda4a4-315f-4050-9862-11387ced0e87/file/4a6c525c-4318-4de2-97ca-35d438e79605\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/d1784b2f-01ef-4935-9392-20539196ade9/file/1eb2ce47-12d7-449e-b62f-37cae20879a6\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d1784b2f-01ef-4935-9392-20539196ade9/file/f8ba6a07-6c4d-4ab1-9df8-410842878d9b\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/33%2F42%2F33%2F33423304b8144b399a49178a3ed7e61f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/be496265-d45e-45e2-980d-c5656c8ba168/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.417"
 }

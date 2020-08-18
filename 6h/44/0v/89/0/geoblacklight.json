@@ -14,15 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[New York : Common Council, 1852] (N. York : G. Hayward)",
   "dc_subject_sm": [
-    "Manhattan (New York, N.Y.)—Maps"
+    "Manhattan (New York, N.Y.)—Maps",
+    "Historical maps—New York (State)—New York"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:27Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-24T03:51:25Z",
   "layer_id_s": "public-figgy:p-e5b9d286-6380-47c1-9ef8-8f3110db7907",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206755\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5b9d286-6380-47c1-9ef8-8f3110db7907/file/0c4bfe50-476b-42fd-875e-fa41b81abb78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5b9d286-6380-47c1-9ef8-8f3110db7907/file/5fcde4ee-84e6-40e9-afea-d116b89fade0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/14%2F34%2F80%2F143480529aa64f62924560dac687f2d2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/293cfd16-252d-4168-9566-639af2238c76/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206755\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/e5b9d286-6380-47c1-9ef8-8f3110db7907/file/0c4bfe50-476b-42fd-875e-fa41b81abb78\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/e5b9d286-6380-47c1-9ef8-8f3110db7907/file/5fcde4ee-84e6-40e9-afea-d116b89fade0\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/c6%2F0f%2F9e%2Fc60f9ec219c54b089fb1219934c31c7b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/293cfd16-252d-4168-9566-639af2238c76/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5736"
 }

@@ -15,15 +15,21 @@
   "dc_publisher_s": "[Trenton, N.J.] : The Survey, 1896 (New York : Julius Bien & Co.)",
   "dc_subject_sm": [
     "Camden County (N.J.)—Maps",
-    "Gloucester County (N.J.)—Maps"
+    "Gloucester County (N.J.)—Maps",
+    "Maps—New Jersey—Camden County—1896",
+    "Maps—New Jersey—Gloucester—1896",
+    "Topographic maps—New Jersey—Camden County—1896",
+    "Topographic maps—New Jersey—Gloucester County—1896"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:09Z",
+  "solr_year_i": 1896,
+  "layer_modified_dt": "2020-06-23T16:37:27Z",
   "layer_id_s": "public-figgy:p-6d36f7dc-ff36-4859-8e0a-93a617fff260",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8291437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d36f7dc-ff36-4859-8e0a-93a617fff260/file/bd315d79-2a1d-4a8c-b3f7-79be38bd205e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d36f7dc-ff36-4859-8e0a-93a617fff260/file/ba818d5f-181d-4049-8134-cd66f489ec5a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/b1%2Fc3%2Fa2%2Fb1c3a2e7141c425f9af1d4afa79968be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4d8594e-1faf-4251-a770-ca510253df88/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8291437\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6d36f7dc-ff36-4859-8e0a-93a617fff260/file/bd315d79-2a1d-4a8c-b3f7-79be38bd205e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6d36f7dc-ff36-4859-8e0a-93a617fff260/file/ba818d5f-181d-4049-8134-cd66f489ec5a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/a1%2F1c%2F4b%2Fa11c4b695f104a689a4e97810d230d35%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e4d8594e-1faf-4251-a770-ca510253df88/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1659"
 }

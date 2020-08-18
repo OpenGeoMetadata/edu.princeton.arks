@@ -6,7 +6,7 @@
   "dc_title_s": "Clementon, Camden County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-75.105, -74.723, 39.999, 39.606)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, streets and specials index, and text. \"Sept. 1924.\" \"1814.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Clementon—Maps",
-    "Clementon (N.J.)—Maps"
+    "Clementon (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Clementon—1924",
+    "Maps—New Jersey—Clementon—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:12:23Z",
-  "layer_id_s": "restricted-figgy:p-5cddef21-508e-4c0b-9104-fddff5c35def",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5360321\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cddef21-508e-4c0b-9104-fddff5c35def/file/c3c9b412-9d6b-4fac-900a-8939ce8f3f66\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-24T03:26:55Z",
+  "layer_id_s": "public-figgy:p-5cddef21-508e-4c0b-9104-fddff5c35def",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5360321\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/5cddef21-508e-4c0b-9104-fddff5c35def/file/8415d7fe-1f7a-4eb9-a804-6293e71ca8a7\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5cddef21-508e-4c0b-9104-fddff5c35def/file/b0e71c61-f16f-4f96-ad2b-d2083077211d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/db%2F78%2Fc5%2Fdb78c553ec5d4f26b642f81e92756baa%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d4ca7538-b79c-48e1-b20d-eda9b0122ca3/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

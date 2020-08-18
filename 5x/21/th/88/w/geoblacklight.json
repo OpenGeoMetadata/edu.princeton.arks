@@ -19,7 +19,13 @@
     "North Carolina—Maps—Early works to 1800",
     "South Atlantic States—Maps—Early works to 1800",
     "South Carolina—Maps—Early works to 1800",
-    "Virginia—Maps—Early works to 1800"
+    "Virginia—Maps—Early works to 1800",
+    "Maps—Florida—1640",
+    "Maps—Georgia—1640",
+    "Maps—North Carolina—1640",
+    "Maps—South Atlantic States—1640",
+    "Maps—South Carolina—1640",
+    "Maps—Virginia—1640"
   ],
   "dct_spatial_sm": [
     "Southern States",
@@ -29,9 +35,10 @@
     "Georgia",
     "Florida"
   ],
-  "layer_modified_dt": "2019-06-04T19:00:06Z",
+  "solr_year_i": 1640,
+  "layer_modified_dt": "2020-06-24T03:10:24Z",
   "layer_id_s": "public-figgy:p-42ba3233-bbac-4d96-b1ff-1bf4cbabade2",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107993\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42ba3233-bbac-4d96-b1ff-1bf4cbabade2/file/002558e3-44ab-4b25-a033-d12df7c6fbdc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42ba3233-bbac-4d96-b1ff-1bf4cbabade2/file/d670aff2-c996-4a4f-8ad0-f608c60cd16c\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a0%2Fb6%2Fc3%2Fa0b6c3ac2e294ae780a1f742c22329d7%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c889c307-3619-4c9e-a523-66f8d747e148/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7107993\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/42ba3233-bbac-4d96-b1ff-1bf4cbabade2/file/002558e3-44ab-4b25-a033-d12df7c6fbdc\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/42ba3233-bbac-4d96-b1ff-1bf4cbabade2/file/dc659895-8eb7-4bf0-9109-b39efa4d5723\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ea%2F9d%2F33%2Fea9d334cefad451581b13cd4f6f9881c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/c889c307-3619-4c9e-a523-66f8d747e148/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

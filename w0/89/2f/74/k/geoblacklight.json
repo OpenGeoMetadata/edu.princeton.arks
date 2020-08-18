@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(68.8325, 68.924167, 27.736111, 27.675556)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Shows roads, railways, important places, and buildings. Government of Pākistān copyright reserved. Area surveyed 1996-1997. \"REG. No. 254 RWD 2000 ...\"",
+  "dc_description_s": "Shows roads, railways, important buildings and places, with indication of population density in built-up areas. \"Government of Pākistān copyright reserved.\" \"Area surveyed 1996-1997.\" \"REG. No. 254 RWD 2000 ...\"",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
@@ -17,15 +17,18 @@
     "Rohri (Pakistan)—Maps",
     "Sukkur (Pakistan)—Maps",
     "Sukkur District (Pakistan)—Maps",
-    "Sindh (Pakistan)—Maps"
+    "Sindh (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T17:17:12Z",
-  "layer_id_s": "restricted-figgy:p-c449f754-2176-4980-a1d0-dd6a2821e709",
+  "solr_year_i": 2004,
+  "layer_modified_dt": "2020-06-24T10:33:32Z",
+  "layer_id_s": "c449f754-2176-4980-a1d0-dd6a2821e709",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7704498\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c449f754-2176-4980-a1d0-dd6a2821e709/file/0fadfc97-57b6-4cd0-9170-c9352b98a061\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.R67E635 2004 .S8"
 }

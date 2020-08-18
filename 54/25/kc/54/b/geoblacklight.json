@@ -6,7 +6,7 @@
   "dc_title_s": "Mediterranean archipelago : surveyed by Captains R. Copeland, T. Graves, & T. Spratt , and the officers of H.M.S. Mastiff, Beacon, Volage, & Medina, 1832 to 1863 : with additions and corrections to 1881 : the Sea of Marmara surveyed by Comr. W.J.L. Wharton & the officers of H.M. Ships Shearwater & Fawn 1872 & 1880 ...",
   "solr_geom": "ENVELOPE(22.34, 29.23, 41.29, 34.42)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Relief shown by hachures and bathymetric soundings. \"Soundings in fathoms.\" \"Large corrections, Dec. 1881, April 1886 (sheet A); Dec. 1881, February 1893.\" (sheet B). \"Small corrections XI 94 ... VIII 08 (sheet A); III-33 ... XII 08 (sheet B).\" \"2836A-B.\" Insets: Kavala Bay -- Dédé Agatch Road -- Port Sigri -- Foujes -- Ports Mudros & Kondia -- Sandarli Harbour -- Rema Bay -- Port Ali Agha -- Foggia Nova -- Port Kolokithia -- Sighajik Harbour -- Vourlah Harbour -- Smyrna Harbour (sheet A). Insets: Port Kheli -- Port Maltezana -- Port St. Nikolo -- Strait of Samos -- The Peiræus -- Port Lindos -- Port of Rhodes -- Makri Harbour -- Marmarice Harbour -- Kandeliusa (sheet B).",
   "dc_creator_sm": [
     "Great Britain. Hydrographic Dept"
@@ -19,16 +19,21 @@
     "Nautical charts—Turkey",
     "Mediterranean Region—Maps",
     "Greece—Maps",
-    "Turkey—Maps"
+    "Turkey—Maps",
+    "Maps—Mediterranean Region—1908",
+    "Maps—Greece—1908",
+    "Maps—Turkey—1908"
   ],
   "dct_spatial_sm": [
     "Greece",
     "Turkey",
     "Mediterranean Region; Mediterranean Sea"
   ],
-  "layer_modified_dt": "2019-06-04T18:22:55Z",
+  "solr_year_i": 1908,
+  "layer_modified_dt": "2020-06-23T19:56:30Z",
   "layer_id_s": "ark:/88435/5425kc54b",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4801433\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4801433\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/19709b49-86ab-4d82-89ea-2b1e47715072/file/f4592b63-ea35-4100-988d-0a82c761e05c\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/2e%2F7b%2Ff4%2F2e7bf41fa38d456887fc32eebe39528c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b65d600a-35fb-43f5-9793-72ccb160871c/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.1595"
 }

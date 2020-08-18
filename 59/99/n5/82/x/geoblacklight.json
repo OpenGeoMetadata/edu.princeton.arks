@@ -9,20 +9,24 @@
   "dc_rights_s": "Public",
   "dc_description_s": "\"For D.T. Valentine's Manual, 1856.\"",
   "dc_creator_sm": [
+    "Hayward, George, approximately 1800-",
     "Hayward, George, b. ca. 1800"
   ],
   "dc_language_s": "eng",
   "dc_publisher_s": "[New York : Common Council, 1856]",
   "dc_subject_sm": [
-    "New York (N.Y.)—Maps—Facsimiles"
+    "New York (N.Y.)—Maps—Facsimiles",
+    "Historical maps—New York (State)—New York"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T18:23:41Z",
+  "solr_year_i": 1856,
+  "layer_modified_dt": "2020-06-23T16:36:01Z",
   "layer_id_s": "public-figgy:p-03e927f7-4db6-4862-8527-f0e9c3ba5cb0",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206253\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03e927f7-4db6-4862-8527-f0e9c3ba5cb0/file/1458e91d-79ce-4518-8d4f-23ed236d8d7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03e927f7-4db6-4862-8527-f0e9c3ba5cb0/file/d5fa299d-af06-4e4f-87dd-a2e75a654efb\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/40%2Fd6%2F80%2F40d680063f0b48e48148cfb8443b98e2%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e01ce112-f490-4454-908e-3c69752926ca/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6206253\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/03e927f7-4db6-4862-8527-f0e9c3ba5cb0/file/1458e91d-79ce-4518-8d4f-23ed236d8d7d\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/03e927f7-4db6-4862-8527-f0e9c3ba5cb0/file/d5fa299d-af06-4e4f-87dd-a2e75a654efb\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/86%2F74%2Fb9%2F8674b97e660641949a14b6c430bada2c%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e01ce112-f490-4454-908e-3c69752926ca/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.491"
 }

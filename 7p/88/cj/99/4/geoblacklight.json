@@ -14,15 +14,18 @@
   "dc_language_s": "spa",
   "dc_publisher_s": "[Brussels] : Establecimiento geografico de Bruselas formado por Ph. Vander Maelen, 1861.",
   "dc_subject_sm": [
-    "Paraguay—Maps"
+    "Paraguay—Maps",
+    "Maps—Paraguay—1861"
   ],
   "dct_spatial_sm": [
     "Paraguay"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:15Z",
+  "solr_year_i": 1861,
+  "layer_modified_dt": "2020-06-23T20:01:28Z",
   "layer_id_s": "public-figgy:p-79b9ac43-9ebe-422a-837f-179183b8a9e5",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/3528944\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/cb32e829-ad5f-47b5-9299-f16087194520\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/61b22051-feff-4245-babf-f80859ab999f\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/f1%2F67%2F6c%2Ff1676cfa58f44ac0ad640722597341ea%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e07884d-911d-41a2-9359-1fe78e283c03/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/3528944\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/cb32e829-ad5f-47b5-9299-f16087194520\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/79b9ac43-9ebe-422a-837f-179183b8a9e5/file/61b22051-feff-4245-babf-f80859ab999f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/5d%2F14%2F52%2F5d145219a26c4efc97e09186f1fbbcc2%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/6e07884d-911d-41a2-9359-1fe78e283c03/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6114"
 }

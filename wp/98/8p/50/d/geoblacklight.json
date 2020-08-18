@@ -6,7 +6,7 @@
   "dc_title_s": "Hackettstown, Warren County, New Jersey (Overview)",
   "solr_geom": "ENVELOPE(-74.83958, -74.817071, 40.858552, 40.835519)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"October 1923.\" Includes location map, key, key map, streets and specials index, and text. \"1298.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1923, c1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Hackettstown—Maps",
-    "Hackettstown (N.J.)—Maps"
+    "Hackettstown (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Hackettstown—1923",
+    "Maps—New Jersey—Hackettstown—1923"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:06:45Z",
-  "layer_id_s": "restricted-figgy:p-9f105409-73d2-41b9-bb17-df2668aaff67",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5646656\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f105409-73d2-41b9-bb17-df2668aaff67/file/1f0fa739-2b0b-46a1-9cf9-456ba427960d\"}",
+  "solr_year_i": 1923,
+  "layer_modified_dt": "2020-06-23T15:49:14Z",
+  "layer_id_s": "public-figgy:p-9f105409-73d2-41b9-bb17-df2668aaff67",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5646656\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/9f105409-73d2-41b9-bb17-df2668aaff67/file/bd39e182-b531-4034-a9da-40630deb7e27\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/9f105409-73d2-41b9-bb17-df2668aaff67/file/23cfc16b-d2f3-4bd3-ba06-3b85848ff0fd\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/23%2F11%2F90%2F231190aceaa5443dafbf296ec3d213bf%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/772d12c5-2b58-43bc-87eb-8b0edc59cb46/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

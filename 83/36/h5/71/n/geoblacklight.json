@@ -7,24 +7,27 @@
   "solr_geom": "ENVELOPE(73.676389, 73.768889, 32.981389, 32.888333)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Shows roads, railways, important places, and buildings. Government of Pākistān copyright reserved. Area surveyed 1998-99. \"REG. No. 188 RWD' 2000 ...\" \"Refer to this map as 1:15,000 Jhelum guide map first edition.\" \"List of names and other miscellaneous informations are printed on reverse.\"",
+  "dc_description_s": "Shows roads, railways, important places, and buildings. \"Government of Pākistān copyright reserved.\" Area surveyed 1998-99. \"REG. No. 188 RWD' 2000 ...\" \"List of names and other miscellaneous informations are printed on reverse.\"",
   "dc_creator_sm": [
     "Survey of Pakistan"
   ],
   "dc_language_s": "eng",
-  "dc_publisher_s": "Rāwalpindi : Survey of Pakistan, 2005.",
+  "dc_publisher_s": "Rāwalpindi : Survey of Pākistān, 2005.",
   "dc_subject_sm": [
     "Jhelum (Pakistan)—Maps",
     "Jhelum District (Pakistan)—Maps",
-    "Punjab (Pakistan)—Maps"
+    "Punjab (Pakistan)—Maps",
+    "Tourist maps"
   ],
   "dct_spatial_sm": [
     "Pakistan"
   ],
-  "layer_modified_dt": "2019-06-04T15:24:07Z",
-  "layer_id_s": "restricted-figgy:p-64b139eb-c4c6-41ac-8816-670f00bec93a",
+  "solr_year_i": 2005,
+  "layer_modified_dt": "2020-06-23T16:43:44Z",
+  "layer_id_s": "64b139eb-c4c6-41ac-8816-670f00bec93a",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7705897\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/64b139eb-c4c6-41ac-8816-670f00bec93a/file/8e78b18b-ab4a-45e5-9551-8bd85f841cb7\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7644.J44E635 2005 .S8"
 }

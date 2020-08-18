@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ark:/88435/0z709461n",
+  "layer_slug_s": "princeton-0z709461n",
+  "uuid": "princeton-0z709461n",
+  "dc_title_s": "Paraguay transportation data from 2002 census",
+  "solr_geom": "ENVELOPE(-60.604551, -54.297299, -21.032259, -27.408933)",
+  "dct_provenance_s": "Princeton",
+  "dc_rights_s": "Restricted",
+  "dc_description_s": "Official population and housing data for Paraguay from the 2002 census. This census is provided at the manzana administrative level (ADM6) and includes 56,241 polygons with 782 attribute variables. Attribute descriptions retain native-language names and unique identifier codes. All variable names were translated from native language (Spanish). Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “Sí,murió alguna persona” was updated to D001 and given the alias “Household Death in Previous Year: Yes[Sí,murió alguna persona]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social and T = Transportation). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration, Social and Transportation. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Native language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.",
+  "dc_creator_sm": [
+    "East View Geospatial"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Transportation",
+    "Structures"
+  ],
+  "dct_spatial_sm": [
+    "Paraguay",
+    "Latin America"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "2019"
+  ],
+  "solr_year_i": 2002,
+  "layer_modified_dt": "2020-08-06T19:23:49Z",
+  "layer_id_s": "restricted-figgy:p-6237b8f6-0914-41ba-816a-29ed540dffcc",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b090db27-5a6f-4561-bd15-21e37a327efc/file/f412df9e-3ef9-4a11-b739-b2b40808a978\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/6237b8f6-0914-41ba-816a-29ed540dffcc/file/fdeabfcc-1797-4a3a-80ec-f84c5cd62c4e\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/6237b8f6-0914-41ba-816a-29ed540dffcc/file/03a76000-09fb-4ceb-ab51-c1643466bca9\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.princeton.edu/geoserver/restricted-figgy/wfs\"}",
+  "layer_geom_type_s": "Polygon",
+  "dc_format_s": "Shapefile",
+  "dct_issued_dt": "2019-01-01T00:00:00Z",
+  "suppressed_b": false
+}

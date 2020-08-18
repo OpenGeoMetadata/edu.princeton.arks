@@ -16,7 +16,9 @@
   "dc_subject_sm": [
     "North America—Maps—Early works to 1800",
     "Great Britain—Colonies—America—Maps—Early works to 1800",
-    "West Indies—Maps—Early works to 1800"
+    "West Indies—Maps—Early works to 1800",
+    "Maps—North America—1783",
+    "Maps—West Indies—1783"
   ],
   "dct_spatial_sm": [
     "North America",
@@ -24,10 +26,12 @@
     "South America",
     "West Indies"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:25Z",
+  "solr_year_i": 1783,
+  "layer_modified_dt": "2020-06-24T03:01:56Z",
   "layer_id_s": "public-figgy:p-8163b1e3-c118-4615-824c-eb7fa86e2e0c",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5275291\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8163b1e3-c118-4615-824c-eb7fa86e2e0c/file/125fe225-d285-42bf-8366-51cfd80906f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8163b1e3-c118-4615-824c-eb7fa86e2e0c/file/effcdcac-455a-46c7-bb81-f4914ebdfff1\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/22%2F2f%2F67%2F222f67fa5c634e6ea8e116be1ecc58e1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/393d7118-25a6-4b95-8b8c-d22d6586a3d0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5275291\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8163b1e3-c118-4615-824c-eb7fa86e2e0c/file/125fe225-d285-42bf-8366-51cfd80906f4\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8163b1e3-c118-4615-824c-eb7fa86e2e0c/file/effcdcac-455a-46c7-bb81-f4914ebdfff1\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/62%2Fbf%2Fd2%2F62bfd2460e81411a8cffe81ab68204cb%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/393d7118-25a6-4b95-8b8c-d22d6586a3d0/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "A-North 25, drawer 2, 4664174"
 }

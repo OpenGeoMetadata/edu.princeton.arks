@@ -6,7 +6,7 @@
   "dc_title_s": "Milltown, Middlesex County, New Jersey",
   "solr_geom": "ENVELOPE(-74.449486, -74.423035, 40.463366, 40.434438)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "Includes location map, key, key map, streets and specials index, and text. \"May 1924.\" \"1589.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,18 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Milltown—Maps",
-    "Milltown (N.J.)—Maps"
+    "Milltown (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Milltown—1924",
+    "Maps—New Jersey—Milltown—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:14:15Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:12:34Z",
   "layer_id_s": "ark:/88435/cv43p0721",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527064\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/882d5d87-c597-440f-8b04-e64995c69570/file/8d3b69a8-2a1e-4d1c-b678-63c517b66f05\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5527064\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/882d5d87-c597-440f-8b04-e64995c69570/file/c0133fd4-bfa1-4601-8913-22457ece2373\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/e4%2F1a%2F0b%2Fe41a0b2497ed414586577fd2914ce7ee%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/abcef34a-e2ae-4934-8901-d4d6e87205ff/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Milltown)"
 }

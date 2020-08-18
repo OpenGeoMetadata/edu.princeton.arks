@@ -14,15 +14,19 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : publié par E. Andriveau-Goujon ... , 1865 (Impie. de Louis Antoine)",
   "dc_subject_sm": [
-    "Paris (France)—Maps"
+    "Paris (France)—Maps",
+    "Maps—France—Paris—1865",
+    "City maps—France—Paris—1865"
   ],
   "dct_spatial_sm": [
     "France"
   ],
-  "layer_modified_dt": "2019-06-04T18:19:37Z",
+  "solr_year_i": 1865,
+  "layer_modified_dt": "2020-06-23T16:36:40Z",
   "layer_id_s": "public-figgy:p-7b23ada8-70f4-468c-a59f-6c9ce8873ec1",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6143090\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b23ada8-70f4-468c-a59f-6c9ce8873ec1/file/8a479c62-e558-46c1-9ffc-57a0f922ed5b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b23ada8-70f4-468c-a59f-6c9ce8873ec1/file/08cecd26-d874-45b9-a61e-61ee06de79dc\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/a4%2Fc8%2Fca%2Fa4c8ca2fc11846efba9e4bed6026bad3%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/465a6d19-fd1d-4cfe-9e6c-b2c392d6c3dd/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6143090\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/7b23ada8-70f4-468c-a59f-6c9ce8873ec1/file/8a479c62-e558-46c1-9ffc-57a0f922ed5b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/7b23ada8-70f4-468c-a59f-6c9ce8873ec1/file/08cecd26-d874-45b9-a61e-61ee06de79dc\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/78%2F8f%2Fda%2F788fda310b934f318086c5e9a38a0939%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/465a6d19-fd1d-4cfe-9e6c-b2c392d6c3dd/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4518"
 }

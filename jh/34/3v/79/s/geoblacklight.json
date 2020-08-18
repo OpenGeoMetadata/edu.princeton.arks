@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-jh343v79s",
   "uuid": "princeton-jh343v79s",
   "dc_title_s": "Merionethshire described 1610",
-  "solr_geom": "ENVELOPE(-4.2968062844, -3.5094795758, 53.0296260466, 52.6428293305)",
+  "solr_geom": "ENVELOPE(-4.2453, -3.3382, 53.0463, 52.4919)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Inset: Harlech. Shows hundreds and main roads. Descriptive text on verso with caption title: Merioneth-Shire. Book 2, Chap. XI. Fol. 117-118; signature GgI. From: The theatre of the Empire of Great Britaine ... / divided and described by John Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611.",
@@ -14,14 +14,18 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London] : are to be solde in Popes-head Alley against the Exchang by George Humble, [1611]",
   "dc_subject_sm": [
-    "Merioneth (Wales)—Maps—Early works to 1800"
+    "Merioneth (Wales)—Maps—Early works to 1800",
+    "County maps—Wales—Merioneth—1611",
+    "Maps—Wales—Merioneth—1611"
   ],
   "dct_spatial_sm": [
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T17:07:21Z",
+  "solr_year_i": 1611,
+  "layer_modified_dt": "2020-06-23T15:48:57Z",
   "layer_id_s": "ark:/88435/jh343v79s",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7269041\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92790e1b-e8bf-4c5a-9987-987df03c4eaa/file/21f77a22-cd72-460a-b510-ddfc48108e60\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/03%2F43%2Fa1%2F0343a107b409462f905455be414293be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c82120c-8c08-4415-9aac-81b4578a07b0/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7269041\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/92790e1b-e8bf-4c5a-9987-987df03c4eaa/file/651724d2-6c93-4aa2-b525-79b25d4d447d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ac%2F8d%2F5e%2Fac8d5e8e66194608b7de3244e8c7eef6%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/4c82120c-8c08-4415-9aac-81b4578a07b0/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4750"
 }

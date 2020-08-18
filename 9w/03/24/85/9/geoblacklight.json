@@ -14,15 +14,18 @@
   "dc_language_s": "fra",
   "dc_publisher_s": "Paris : E. Andriveau-Goujon ... , 1880.",
   "dc_subject_sm": [
-    "Africa—Maps"
+    "Africa—Maps",
+    "Maps—Africa—1880"
   ],
   "dct_spatial_sm": [
     "Africa"
   ],
-  "layer_modified_dt": "2019-06-04T17:28:02Z",
+  "solr_year_i": 1880,
+  "layer_modified_dt": "2020-06-22T23:10:55Z",
   "layer_id_s": "public-figgy:p-ca33b7cc-baa7-499a-a4d9-d50660a80527",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4586201\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca33b7cc-baa7-499a-a4d9-d50660a80527/file/5a180ebf-84e3-421f-bf27-33432e277500\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca33b7cc-baa7-499a-a4d9-d50660a80527/file/79893212-101d-4ea3-b21c-f4d2d7c7d3ee\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/6e%2F5b%2F33%2F6e5b33e4956641c58f35158fd86ff08a%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30810924-7940-4f49-9624-ace646e3bada/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4586201\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ca33b7cc-baa7-499a-a4d9-d50660a80527/file/5a180ebf-84e3-421f-bf27-33432e277500\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ca33b7cc-baa7-499a-a4d9-d50660a80527/file/79893212-101d-4ea3-b21c-f4d2d7c7d3ee\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/07%2F15%2F63%2F07156322ca0b44778e86348f66f2dc1b%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/30810924-7940-4f49-9624-ace646e3bada/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.225"
 }

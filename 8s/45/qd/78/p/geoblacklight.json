@@ -7,7 +7,7 @@
   "solr_geom": "ENVELOPE(-58.573056, -58.342222, -34.426111, -34.819167)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Restricted",
-  "dc_description_s": "Oriented with north towards lower right. Map shows administrative [partidos] boundaries, street names, subways stations, and railroads. Includes location map. Map of Buenos Aires on verso shows three classes of roads.  Zona Centro map shows pictorially relevant buildings.",
+  "dc_description_s": "Oriented with north towards lower right. Map shows administrative [partidos] boundaries, street names, subways stations, and railroads. Includes location map. Map of Buenos Aires on verso shows three classes of roads. Zona Centro map shows pictorially relevant buildings.",
   "dc_creator_sm": [
     "Peuser (Firm), Departamento de Cartografía"
   ],
@@ -20,11 +20,13 @@
   "dct_spatial_sm": [
     "Argentina"
   ],
-  "layer_modified_dt": "2019-06-04T17:12:08Z",
+  "solr_year_i": 1979,
+  "layer_modified_dt": "2020-06-23T15:33:40Z",
   "layer_id_s": "4cbbb588-5905-4fe3-bba3-1f59fa1535e1",
   "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/11222484\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/4cbbb588-5905-4fe3-bba3-1f59fa1535e1/file/9ba67548-22b9-41b6-8e71-7c41c15d1974\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": true,
   "dc_source_sm": [
     "princeton-5138jj87b"
   ],

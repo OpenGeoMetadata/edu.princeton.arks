@@ -18,14 +18,19 @@
     "Hoboken (N.J.)—Maps",
     "Hudson City (N.J.)—Maps",
     "Jersey City (N.J.)—Maps",
-    "New York Metropolitan Area—Maps"
+    "New York Metropolitan Area—Maps",
+    "Maps—New York Metropolitan Area—1860",
+    "Maps—New York (State)—New York—1860",
+    "City maps—New York (State)—New York—1860"
   ],
   "dct_spatial_sm": [
     "New York"
   ],
-  "layer_modified_dt": "2019-06-04T19:22:29Z",
+  "solr_year_i": 1860,
+  "layer_modified_dt": "2020-06-23T11:43:51Z",
   "layer_id_s": "ark:/88435/kd17cx691",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945026\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d786ba39-0e41-4c2b-bbf3-c03d36d49cfd/file/684b3ccb-d55f-4068-b38f-f7f35150dbc5\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/e8%2F25%2F9f%2Fe8259f568ac44edab9b890b43dda0871%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cca668d1-71c2-4e41-8144-9e3f6416f8a7/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5945026\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/d786ba39-0e41-4c2b-bbf3-c03d36d49cfd/file/684b3ccb-d55f-4068-b38f-f7f35150dbc5\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/6c%2F29%2Fe8%2F6c29e833466f4bfab25949d88f2f9052%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/cca668d1-71c2-4e41-8144-9e3f6416f8a7/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5519"
 }

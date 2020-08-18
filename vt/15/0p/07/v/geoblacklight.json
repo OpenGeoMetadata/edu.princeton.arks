@@ -3,22 +3,30 @@
   "dc_identifier_s": "ark:/88435/vt150p07v",
   "layer_slug_s": "princeton-vt150p07v",
   "uuid": "princeton-vt150p07v",
-  "dc_title_s": "Yokohama",
+  "dc_title_s": "Yokohama : [base map showing political divisions]",
   "solr_geom": "ENVELOPE(139.55, 139.783333, 35.666664, 35.4)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "United States. Board of Economic Warfare Map No.884, October 23, 1942.",
+  "dc_description_s": "Map No.884, October 23, 1942.",
+  "dc_creator_sm": [
+    "United States. Office of Strategic Services. Geography Division"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "Washington, D.C. : Board of Economic Warfare, 1942.",
   "dc_subject_sm": [
     "Administrative and political divisions",
-    "Maps, Outline and base",
-    "Yokohama-shi (Japan)—Maps"
+    "Yokohama-shi (Japan)—Maps",
+    "Maps"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:17Z",
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "solr_year_i": 1942,
+  "layer_modified_dt": "2020-06-24T10:33:43Z",
   "layer_id_s": "public-figgy:p-b01ffc07-20fa-444c-a964-497af985552e",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450036\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b01ffc07-20fa-444c-a964-497af985552e/file/aa957c6a-e68c-4124-94d2-5659d5e83613\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b01ffc07-20fa-444c-a964-497af985552e/file/50afbed1-56bd-401e-8385-867024dde8b7\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/87%2Fac%2F08%2F87ac08d8ab4a4166953a3dbeea99f212%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8605bdb7-fb4b-42d6-99a3-23e2158215f1/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6450036\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/b01ffc07-20fa-444c-a964-497af985552e/file/aa957c6a-e68c-4124-94d2-5659d5e83613\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/b01ffc07-20fa-444c-a964-497af985552e/file/50afbed1-56bd-401e-8385-867024dde8b7\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/34%2Fa2%2F78%2F34a278e565ca4b8ca582116996b9bfff%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8605bdb7-fb4b-42d6-99a3-23e2158215f1/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "G7964.Y6A1 1942 .B6"
 }

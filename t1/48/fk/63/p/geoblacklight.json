@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-t148fk63p",
   "uuid": "princeton-t148fk63p",
   "dc_title_s": "Map of the country twenty miles round Wells : taken from Bacon's county map of Somersetshire, for F. George's, Swan Hotel, visitors' guide",
-  "solr_geom": "ENVELOPE(-3.8396661, -2.2444017, 51.3330015, 50.8208387)",
+  "solr_geom": "ENVELOPE(-3.1001, -2.2833, 51.4959, 50.9125)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown by hachures. Advertisements on verso. Includes illustration of Wells Cathedral. Probably issued in: The Swan Hotel visitors' guide to Wells. Rev. ed. Bath : W. Lewis, 1880.",
@@ -15,14 +15,18 @@
   "dc_publisher_s": "Bath : W. Lewis Lith. Herald Office, [1880]",
   "dc_subject_sm": [
     "Somerset (England)—Maps",
-    "Wells (England)—Maps"
+    "Wells (England)—Maps",
+    "Maps—England—Somerset—1880",
+    "Maps—England—Wells—1880"
   ],
   "dct_spatial_sm": [
     "England"
   ],
-  "layer_modified_dt": "2019-06-04T19:17:25Z",
+  "solr_year_i": 1880,
+  "layer_modified_dt": "2020-06-23T14:32:23Z",
   "layer_id_s": "ark:/88435/t148fk63p",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7300053\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17d819ea-cd47-453b-8697-b17356d51fb1/file/f533d9cc-dd3a-4d3f-96f6-f4fc712be6b0\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/63%2F55%2Fb7%2F6355b7ab39ea41a6890d86d2e883a2ee%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae4b8931-bc4e-4538-9b92-20e558f7be44/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7300053\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/17d819ea-cd47-453b-8697-b17356d51fb1/file/43a8406f-a495-467a-bf80-b080dd51e265\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/70%2Fb0%2Fb0%2F70b0b0f302b74a769d9928bae42ca943%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/ae4b8931-bc4e-4538-9b92-20e558f7be44/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.4787"
 }

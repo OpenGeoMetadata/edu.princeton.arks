@@ -3,22 +3,31 @@
   "dc_identifier_s": "ark:/88435/xp68kj61d",
   "layer_slug_s": "princeton-xp68kj61d",
   "uuid": "princeton-xp68kj61d",
-  "dc_title_s": "Burundi city graphic 1:12,500. Bujumbura. Series Z921",
+  "dc_title_s": "Burundi city graphic 1:12,500",
   "solr_geom": "ENVELOPE(29.3, 29.4, -3.291667, -3.425)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
-  "dc_description_s": "North Decimal Degree -3.425000. South Decimal Degree -3.291667. East Decimal Degree 29.400000. West Decimal Degree 29.300000. Alternate title: Bujumbura.Transverse Mercator projection. Relief shown by 20m. Contour interval and spot heights. Horizontal datum World Geodetic System (WGS) 1984.Vertical datum mean sea level. \"Standard map series designation: Series Z921.\" Guide to numbered features on the map.",
+  "dc_description_s": "Relief shown by 20m contour interval and spot heights. Guide to numbered features on the map. \"Standard map series designation: Series Z921.\" Includes indexes of streets and of points of interest. \"Map information as of 1991. Compiled in 1995 from best available sources.\" \"NIMA stock number Z921XBUJUMBURA.\" Alternate title: Bujumbura.Transverse Mercator projection. Relief shown by 20m. Contour interval and spot heights. Horizontal datum World Geodetic System (WGS) 1984.Vertical datum mean sea level. \"Standard map series designation: Series Z921.\" Guide to numbered features on the map. East Decimal Degree 29.400000. North Decimal Degree -3.425000. South Decimal Degree -3.291667. West Decimal Degree 29.300000.",
+  "dc_creator_sm": [
+    "Aerospace Center (U.S.)"
+  ],
   "dc_language_s": "eng",
   "dc_publisher_s": "St. Louis, MO : Aerospace Center (U.S.), 1995.",
   "dc_subject_sm": [
     "Topographic maps",
     "Cities and towns",
+    "Bujumbura (Burundi)—Maps",
     "Burundi—Maps"
   ],
-  "layer_modified_dt": "2019-06-04T18:13:38Z",
+  "dct_spatial_sm": [
+    "Burundi"
+  ],
+  "solr_year_i": 1991,
+  "layer_modified_dt": "2020-06-23T16:40:17Z",
   "layer_id_s": "public-figgy:p-dab77e6b-2762-4246-989a-1e718465181a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844411\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dab77e6b-2762-4246-989a-1e718465181a/file/0527b423-52a4-4c76-8fe0-e9d092dea43a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dab77e6b-2762-4246-989a-1e718465181a/file/8d7e47a7-a062-42bd-b31c-fc37c46a16bb\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/0a%2F9e%2F2c%2F0a9e2c2b162b44fdb5c07995289b50bf%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1c6c876-342c-4ca2-9591-5d8be982b1a5/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6844411\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/dab77e6b-2762-4246-989a-1e718465181a/file/0527b423-52a4-4c76-8fe0-e9d092dea43a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/dab77e6b-2762-4246-989a-1e718465181a/file/15892e52-b0c2-4962-a39b-8d75b2f1d24e\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/95%2F43%2F68%2F954368367f9741fa80450b62ee058616%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/d1c6c876-342c-4ca2-9591-5d8be982b1a5/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
-  "call_number_s": "G8439.B8 1995"
+  "suppressed_b": false,
+  "call_number_s": "G8439.B8C2 1991 .A5"
 }

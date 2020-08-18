@@ -14,15 +14,19 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "London : Baldwin & Cradock, 1833.",
   "dc_subject_sm": [
-    "Porto (Portugal)—Maps"
+    "Porto (Portugal)—Maps",
+    "City maps—Portugal—Porto—1833",
+    "Maps—Portugal—Porto—1833"
   ],
   "dct_spatial_sm": [
     "Portugal"
   ],
-  "layer_modified_dt": "2019-06-04T18:14:22Z",
+  "solr_year_i": 1833,
+  "layer_modified_dt": "2020-06-23T19:59:53Z",
   "layer_id_s": "public-figgy:p-cb9179f3-df0e-403a-94a1-3712d4852587",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8351587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb9179f3-df0e-403a-94a1-3712d4852587/file/7451c84d-4843-4c85-bd36-c1e9a03b268b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb9179f3-df0e-403a-94a1-3712d4852587/file/67e624ef-b45f-4882-bd2e-360445d05c73\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/8d%2Ff9%2F08%2F8df9086fe82848ae8f7b88c93813facc%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/67732ef9-e39e-4844-8b84-554198c62a92/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/8351587\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/cb9179f3-df0e-403a-94a1-3712d4852587/file/7451c84d-4843-4c85-bd36-c1e9a03b268b\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/cb9179f3-df0e-403a-94a1-3712d4852587/file/67e624ef-b45f-4882-bd2e-360445d05c73\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/58%2Fa6%2F04%2F58a604c2b11e459c8e3de0104b340061%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/67732ef9-e39e-4844-8b84-554198c62a92/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.5210"
 }

@@ -14,15 +14,18 @@
   "dc_language_s": "nld",
   "dc_publisher_s": "'s-Gravenhage : M. Nijhoff, [1911-1933]",
   "dc_subject_sm": [
-    "Cape Town (South Africa)—Maps"
+    "Cape Town (South Africa)—Maps",
+    "Historical maps—South Africa—Cape Town"
   ],
   "dct_spatial_sm": [
     "South Africa"
   ],
-  "layer_modified_dt": "2019-06-04T17:12:04Z",
+  "solr_year_i": 1911,
+  "layer_modified_dt": "2020-06-24T03:45:25Z",
   "layer_id_s": "public-figgy:p-8cf3970a-9516-4f14-a94d-5706b19cab57",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4644127\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cf3970a-9516-4f14-a94d-5706b19cab57/file/681efc8b-dc46-423e-aa3a-2361550702ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cf3970a-9516-4f14-a94d-5706b19cab57/file/a5b2b5cd-2e2d-4759-9354-a6c76ee78e4a\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/02%2Fe7%2F0d%2F02e70dd1cdc74c80871eaf0f66ce3323%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e907948a-e878-493b-b254-b8f0ab453172/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/4644127\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/8cf3970a-9516-4f14-a94d-5706b19cab57/file/681efc8b-dc46-423e-aa3a-2361550702ae\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/8cf3970a-9516-4f14-a94d-5706b19cab57/file/a5b2b5cd-2e2d-4759-9354-a6c76ee78e4a\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/d0%2F00%2F03%2Fd000034550144b729d66838189278734%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/e907948a-e878-493b-b254-b8f0ab453172/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.438"
 }

@@ -17,17 +17,23 @@
     "Nautical charts—Erie, Lake",
     "Nautical charts—Detroit River (Mich. and Ont.)",
     "Erie, Lake—Maps",
-    "Detroit River (Mich. and Ont.)—Maps"
+    "Detroit River (Mich. and Ont.)—Maps",
+    "Maps—Erie, Lake—1852",
+    "Maps—Michigan—Detroit River—1852",
+    "Nautical charts—Michigan—Detroit River—1852",
+    "Nautical charts—Erie, Lake—1852"
   ],
   "dct_spatial_sm": [
     "Great Lakes (North America); Lake States",
     "Michigan",
     "Ontario"
   ],
-  "layer_modified_dt": "2019-06-04T19:26:36Z",
+  "solr_year_i": 1852,
+  "layer_modified_dt": "2020-06-22T22:36:12Z",
   "layer_id_s": "public-figgy:p-c084e4ed-139d-4b14-bd6d-1e9ccac199be",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7823912\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c084e4ed-139d-4b14-bd6d-1e9ccac199be/file/6fb99981-f3d0-4501-852c-64d998cec75c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c084e4ed-139d-4b14-bd6d-1e9ccac199be/file/d1017982-1c4f-4643-83a1-87fb79867b05\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/2c%2F23%2F14%2F2c2314f7ceb04325a6fa0db5f284a8e1%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4d7a27d-ee35-447f-81e8-3e42245fbe19/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7823912\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/c084e4ed-139d-4b14-bd6d-1e9ccac199be/file/6fb99981-f3d0-4501-852c-64d998cec75c\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/c084e4ed-139d-4b14-bd6d-1e9ccac199be/file/1eebfab4-ae40-4d56-8c7e-82c8749f0430\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/95%2F4f%2F08%2F954f082569de4214b88eff3ed3b05474%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/b4d7a27d-ee35-447f-81e8-3e42245fbe19/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.7049"
 }

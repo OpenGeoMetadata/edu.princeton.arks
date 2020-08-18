@@ -24,11 +24,13 @@
     "Mercer county"
   ],
   "dct_temporal_sm": [
-    "Marc"
+    "1957"
   ],
-  "layer_modified_dt": "2019-06-04T19:38:19Z",
+  "solr_year_i": 1957,
+  "layer_modified_dt": "2020-06-24T03:57:43Z",
   "layer_id_s": "public-figgy:p-772d8a75-a170-463d-82df-8fe1c2353929",
-  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b1ffd8fb-001b-4dbb-a273-1ae499d7f089/file/20ff0d6a-cede-40b4-9a0a-64eaadce358f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/772d8a75-a170-463d-82df-8fe1c2353929/file/a5268449-ef66-4827-bc36-994687f95b42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/772d8a75-a170-463d-82df-8fe1c2353929/file/70b75936-3d1f-4d7b-94c6-d45e8837f2f9\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/64%2Fbc%2F60%2F64bc606bb75b41c7a75f0144d12110be%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f52bbe2-1e88-4def-b04e-5a00b9f95b9f/manifest\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://figgy.princeton.edu/downloads/b1ffd8fb-001b-4dbb-a273-1ae499d7f089/file/20ff0d6a-cede-40b4-9a0a-64eaadce358f\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/772d8a75-a170-463d-82df-8fe1c2353929/file/a5268449-ef66-4827-bc36-994687f95b42\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/772d8a75-a170-463d-82df-8fe1c2353929/file/e9b427e3-3b7e-45b4-a65c-d823f8cd0204\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/01%2F15%2Fc3%2F0115c3a9c0cc474ea73c14a6f22d4952%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1f52bbe2-1e88-4def-b04e-5a00b9f95b9f/manifest\"}",
   "layer_geom_type_s": "Image",
-  "dc_format_s": "TIFF"
+  "dc_format_s": "TIFF",
+  "suppressed_b": false
 }

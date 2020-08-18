@@ -4,9 +4,9 @@
   "layer_slug_s": "princeton-4m90dz443",
   "uuid": "princeton-4m90dz443",
   "dc_title_s": "Newark, N.J., vol. 5 : new sheet, Jan. 1924",
-  "solr_geom": "ENVELOPE(-74.251324, -74.112787, 40.788664, 40.674018)",
+  "solr_geom": "ENVELOPE(-74.2242270716, -74.2032951124, 40.7245265371, 40.6956230334)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"5234.\" Sheets 6 and 52 of Insurance maps of Newark, N.J., vol. 5, series; sheet 6 shows Irvington.",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -17,14 +17,20 @@
     "Real property—New Jersey—Newark—Maps",
     "Real property—New Jersey—Irvington—Maps",
     "Newark (N.J.)—Maps",
-    "Irvington (N.J.)—Maps"
+    "Irvington (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Newark—1924",
+    "Fire insurance maps—New Jersey—Irvington—1924",
+    "Maps—New Jersey—Newark—1924",
+    "Maps—New Jersey—Irvington—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:07:15Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:51:10Z",
   "layer_id_s": "ark:/88435/4m90dz443",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f467dee-4205-4ec8-a91e-983265d6aef0/file/aaaaf6bb-5fe3-4f29-b7a3-0d59eadff628\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5704408\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/5f467dee-4205-4ec8-a91e-983265d6aef0/file/d18e287c-3369-4d44-951d-ff097aff0b0f\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/76%2F35%2F44%2F7635443e61be4580bb407a22bb4f08de%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1fe9b2a9-8388-4c30-bc39-da7f6bb3f4b1/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Newark)"
 }

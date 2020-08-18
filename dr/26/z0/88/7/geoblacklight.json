@@ -4,7 +4,7 @@
   "layer_slug_s": "princeton-dr26z0887",
   "uuid": "princeton-dr26z0887",
   "dc_title_s": "Merionethshire described 1610 [verso]",
-  "solr_geom": "ENVELOPE(-4.2968062844, -3.5094795758, 53.0296260466, 52.6428293305)",
+  "solr_geom": "ENVELOPE(-4.2453, -3.3382, 53.0463, 52.4919)",
   "dct_provenance_s": "Princeton",
   "dc_rights_s": "Public",
   "dc_description_s": "Relief shown pictorially. Inset: Harlech. Shows hundreds and main roads. Descriptive text on verso with caption title: Merioneth-Shire. Book 2, Chap. XI. Fol. 117-118; signature GgI. From: The theatre of the Empire of Great Britaine ... / divided and described by John Speed. London : And are to be solde by I. Sudbury and G. Humble, 1611.",
@@ -14,14 +14,17 @@
   "dc_language_s": "eng",
   "dc_publisher_s": "[London] : are to be solde in Popes-head Alley against the Exchang by George Humble, [1611]",
   "dc_subject_sm": [
-    "Merioneth (Wales)—Maps—Early works to 1800"
+    "Merioneth (Wales)—Maps—Early works to 1800",
+    "County maps—Wales—Merioneth—1611",
+    "Maps—Wales—Merioneth—1611"
   ],
   "dct_spatial_sm": [
     "Wales"
   ],
-  "layer_modified_dt": "2019-06-04T18:36:58Z",
+  "solr_year_i": 1611,
+  "layer_modified_dt": "2020-06-23T16:20:04Z",
   "layer_id_s": "public-figgy:p-ac2c336b-5580-424f-a5cb-a462f3b3789a",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7269041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac2c336b-5580-424f-a5cb-a462f3b3789a/file/7dfdd5fe-6dd3-4baf-806b-0455d9a8a5ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac2c336b-5580-424f-a5cb-a462f3b3789a/file/924682b9-adb9-402f-8b11-9eeb793bba96\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/c2%2Fec%2F29%2Fc2ec29627d0141afa478a4923d08083b%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60bb1a9d-651c-492c-a32b-63473774b456/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7269041\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/ac2c336b-5580-424f-a5cb-a462f3b3789a/file/7dfdd5fe-6dd3-4baf-806b-0455d9a8a5ba\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/ac2c336b-5580-424f-a5cb-a462f3b3789a/file/924682b9-adb9-402f-8b11-9eeb793bba96\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/aa%2F00%2Fc9%2Faa00c96ae630419bae4b93fe7810c3ff%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/60bb1a9d-651c-492c-a32b-63473774b456/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

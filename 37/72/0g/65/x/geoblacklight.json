@@ -6,7 +6,7 @@
   "dc_title_s": "Scotch Plains, Union County, New Jersey",
   "solr_geom": "ENVELOPE(-74.408267, -74.325635, 40.678234, 40.600901)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"Including Fanwood & Glenside Park.\" \"September 1924.\" Includes location map, key, key map, streets and specials index, and text. \"1825.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -17,14 +17,20 @@
     "Real property—New Jersey—Scotch Plains—Maps",
     "Real property—New Jersey—Fanwood—Maps",
     "Scotch Plains (N.J.)—Maps",
-    "Fanwood (N.J.)—Maps"
+    "Fanwood (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Scotch Plains—1924",
+    "Fire insurance maps—New Jersey—Fanwood—1924",
+    "Maps—New Jersey—Scotch Plains—1924",
+    "Maps—New Jersey—Fanwood—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T18:42:11Z",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-07-13T06:27:46Z",
   "layer_id_s": "ark:/88435/37720g65x",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625975\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/650f7e74-cea5-4859-84e7-1965620130d7/file/6348c478-d158-44e4-a69f-7c0ef9a2a70e\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5625975\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/650f7e74-cea5-4859-84e7-1965620130d7/file/7ed6055b-a183-48d0-bf81-50ba420b7f6d\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/47%2F76%2Ff2%2F4776f21f6867440283cdac0491a7eedc%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/8ecc88a2-301e-4f5b-b840-3e438b4de62d/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC04 (Scotch Plains)"
 }

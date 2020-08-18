@@ -6,7 +6,7 @@
   "dc_title_s": "Woodbine, Cape May County, New Jersey (Sheet 5)",
   "solr_geom": "ENVELOPE(-74.848383, -74.766362, 39.256833, 39.203307)",
   "dct_provenance_s": "Princeton",
-  "dc_rights_s": "Restricted",
+  "dc_rights_s": "Public",
   "dc_description_s": "\"August 1924.\" Includes location map, key, streets and specials index, and text. \"1758.\"",
   "dc_creator_sm": [
     "Sanborn Map Company"
@@ -15,14 +15,17 @@
   "dc_publisher_s": "New York : Sanborn Map Company, 1924.",
   "dc_subject_sm": [
     "Real property—New Jersey—Woodbine—Maps",
-    "Woodbine (N.J.)—Maps"
+    "Woodbine (N.J.)—Maps",
+    "Fire insurance maps—New Jersey—Woodbine—1924",
+    "Maps—New Jersey—Woodbine—1924"
   ],
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "layer_modified_dt": "2019-06-04T17:34:22Z",
-  "layer_id_s": "restricted-figgy:p-881e2680-49f4-4a6a-84cc-226337c16abb",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5332793\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/881e2680-49f4-4a6a-84cc-226337c16abb/file/92dc68ad-7554-414b-bb6f-2ff3b13444bf\"}",
+  "solr_year_i": 1924,
+  "layer_modified_dt": "2020-06-23T15:14:14Z",
+  "layer_id_s": "public-figgy:p-881e2680-49f4-4a6a-84cc-226337c16abb",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/5332793\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/881e2680-49f4-4a6a-84cc-226337c16abb/file/1fcbed64-47a3-4c45-9702-e3010b9fb25a\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/881e2680-49f4-4a6a-84cc-226337c16abb/file/d6a8bf69-82e7-4f65-9a39-5c494d0e1abf\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/f3%2Fbb%2F99%2Ff3bb994107734d009220f5d6f75adb04%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/1b520b27-47ec-4572-a881-f7ad4cb095f3/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
   "suppressed_b": true,

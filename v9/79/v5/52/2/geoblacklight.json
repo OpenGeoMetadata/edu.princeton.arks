@@ -17,7 +17,11 @@
     "Argentina—Maps",
     "Chile—Maps",
     "Paraguay—Maps",
-    "Uruguay—Maps"
+    "Uruguay—Maps",
+    "Maps—Argentina—1912",
+    "Maps—Chile—1912",
+    "Maps—Paraguay—1912",
+    "Maps—Urugray—1912"
   ],
   "dct_spatial_sm": [
     "South America",
@@ -26,9 +30,11 @@
     "Paraguay",
     "Uruguay"
   ],
-  "layer_modified_dt": "2019-06-04T18:32:00Z",
+  "solr_year_i": 1912,
+  "layer_modified_dt": "2020-06-23T16:25:52Z",
   "layer_id_s": "ark:/88435/v979v5522",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6504719\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/618cb22e-8a2d-4360-9027-ffae2887ba17/file/56a21d29-dde5-479d-aa09-a8d73a48de62\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/d8%2F26%2Fe0%2Fd826e0a4c23a4216b6b3823b915f6434%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3aef8a94-0c4f-444c-aa54-364796b2da70/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/6504719\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/618cb22e-8a2d-4360-9027-ffae2887ba17/file/56a21d29-dde5-479d-aa09-a8d73a48de62\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/b8%2F2e%2F2d%2Fb82e2d2834d84bb58e3036bed91cfe5d%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/3aef8a94-0c4f-444c-aa54-364796b2da70/manifest\"}",
   "layer_geom_type_s": "Image",
+  "suppressed_b": false,
   "call_number_s": "HMC01.6115"
 }

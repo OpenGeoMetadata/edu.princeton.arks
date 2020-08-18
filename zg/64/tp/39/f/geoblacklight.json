@@ -19,7 +19,11 @@
     "Armenia—Maps",
     "Caucasus—Maps",
     "Iran—Maps",
-    "Turkey—Maps"
+    "Turkey—Maps",
+    "Historical maps—Armenia",
+    "Historical maps—Caucasus",
+    "Historical maps—Iran",
+    "Historical maps—Turkey"
   ],
   "dct_spatial_sm": [
     "Iran",
@@ -27,10 +31,12 @@
     "Armenia (Republic)",
     "Caucasus"
   ],
-  "layer_modified_dt": "2019-06-04T15:26:20Z",
+  "solr_year_i": 1752,
+  "layer_modified_dt": "2020-06-23T16:37:54Z",
   "layer_id_s": "public-figgy:p-2f4b96b0-2e18-4982-9b6f-f202529d6477",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7014245\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f4b96b0-2e18-4982-9b6f-f202529d6477/file/cb47dab3-b376-4cf8-85fd-4557835c0ca0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f4b96b0-2e18-4982-9b6f-f202529d6477/file/5789a2c9-3e54-402f-8b98-ddf64aaed052\",\"http://iiif.io/api/image\":\"https://iiif.princeton.edu/loris/figgy_prod/90%2F3a%2Fd9%2F903ad985f35d4fb495cc06852b794d1f%2Fintermediate_file.jp2/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f1f2844-041f-447b-a88c-a745c2fdb400/manifest\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://catalog.princeton.edu/catalog/7014245\",\"http://schema.org/downloadUrl\":\"https://figgy.princeton.edu/downloads/2f4b96b0-2e18-4982-9b6f-f202529d6477/file/cb47dab3-b376-4cf8-85fd-4557835c0ca0\",\"http://schema.org/thumbnailUrl\":\"https://figgy.princeton.edu/downloads/2f4b96b0-2e18-4982-9b6f-f202529d6477/file/5789a2c9-3e54-402f-8b98-ddf64aaed052\",\"http://iiif.io/api/image\":\"https://iiif-cloud.princeton.edu/iiif/2/ea%2F03%2F22%2Fea0322c9b25542b6addae18bd11cca3f%2Fintermediate_file/info.json\",\"http://iiif.io/api/presentation#manifest\":\"https://figgy.princeton.edu/concern/scanned_maps/5f1f2844-041f-447b-a88c-a745c2fdb400/manifest\"}",
   "layer_geom_type_s": "Image",
   "dc_format_s": "TIFF",
+  "suppressed_b": false,
   "call_number_s": "HMC01.2600"
 }
